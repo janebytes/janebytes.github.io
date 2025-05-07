@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 19:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 20:26:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>We have reached the “severed fingers and abductions” stage of the crypto revolution</title>
+      <link>https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/</link>
+      <description>FYSA: The article discusses the increasing instances of physical violence and intimidation targeting individuals who own significant amounts of cryptocurrency. In several cases, perpetrators have used threats and force to gain access to victims' Coinbase accounts, often by staging home invasions or abductions. The article highlights the risks associated with publicly displaying one's crypto wealth and the importance of maintaining anonymity in this context.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/</guid>
+      <pubDate>Wed, 07 May 2025 20:01:22 +0000</pubDate>
+    </item>
     <item>
       <title>PowerSchool hacker now extorting individual school districts</title>
       <link>https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/</link>
@@ -352,13 +359,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: Delta Electronics ISPSoft; CVE(s): ZDI-25-102, ZDI-CAN-25225; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics ISPSoft by exploiting a stack-based buffer overflow in the parsing of DVP files. User interaction is required to exploit this vulnerability.</description>
       <guid isPermaLink="false">ZDI-CAN-25225</guid>
       <pubDate>Wed, 07 May 2025 01:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-103: (0Day) Delta Electronics ISPSoft CBDGL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-103/</link>
-      <description>Vulnerable Product: Delta Electronics ISPSoft; CVE(s): ZDI-CAN-25031, ZDI-25-103; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics ISPSoft by exploiting a stack-based buffer overflow in the parsing of CBDGL files. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-25031</guid>
-      <pubDate>Wed, 07 May 2025 01:48:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
