@@ -1,0 +1,364 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="https://janebytes.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>JaneBytes Cybersecurity Feed</title>
+    <link>https://janebytes.github.io/</link>
+    <description>Summarized articles from top cybersecurity sources.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2025 18:50:05 +0000</lastBuildDate>
+    <ttl>1800</ttl>
+    <item>
+      <title>PowerSchool hacker now extorting individual school districts</title>
+      <link>https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/</link>
+      <description>FYSA: PowerSchool is warning schools that the hacker behind its December cyberattack is now individually extorting schools, threatening to release stolen student and teacher data unless a ransom is paid. The company had previously paid a ransom to prevent public release of the data, but it appears the threat actor did not keep their promise.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/</guid>
+      <pubDate>Wed, 07 May 2025 18:25:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoGUI phishing platform sent 580 million emails to steal credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: A new phishing kit named CoGUI has been detected, sending over 580 million emails to targets between January and April 2025, aiming to steal account credentials and payment data. The kit impersonates major brands and uses a unique redirection system to target specific victims.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/</guid>
+      <pubDate>Wed, 07 May 2025 18:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers exploit OttoKit WordPress plugin flaw to add admin accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-ottokit-wordpress-plugin-flaw-to-add-admin-accounts/</link>
+      <description>Vulnerable Product: OttiKit; CVE(s): CVE-2025-27007; Summary: The OttoKit WordPress plugin contains a critical unauthenticated privilege escalation vulnerability (CVE-2025-27007) that allows attackers to create rogue admin accounts on targeted sites by exploiting a logic error in the 'create_wp_connection' function. The flaw can be exploited via the plugin's API by sending requests mimicking legitimate integration attempts, using guessed or brute-forced administrator usernames, random passwords, and fake access keys and email addresses.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-exploit-ottokit-wordpress-plugin-flaw-to-add-admin-accounts/</guid>
+      <pubDate>Wed, 07 May 2025 15:37:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Ransomware Groups Target Financial Sector, 406 Incidents Revealed</title>
+      <link>https://gbhackers.com/top-ransomware-groups-target-financial-sector/</link>
+      <description>FYSA: Flashpoint analysts report that the financial sector has been heavily targeted by cyber threat actors between April 2024 and April 2025, with ransomware attacks being a significant portion. The sector's vulnerability to these attacks is due to its management of sensitive data and deep interconnectivity with other industries, making it a gateway for cascading breaches.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133787</guid>
+      <pubDate>Wed, 07 May 2025 14:46:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Play ransomware exploited Windows logging flaw in zero-day attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/play-ransomware-exploited-windows-logging-flaw-in-zero-day-attacks/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29824; Summary: The Play ransomware gang exploited a high-severity Windows Common Log File System (CLFS) zero-day flaw, tracked as CVE-2025-29824, to gain SYSTEM privileges and deploy malware on compromised systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/play-ransomware-exploited-windows-logging-flaw-in-zero-day-attacks/</guid>
+      <pubDate>Wed, 07 May 2025 14:45:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agenda Ransomware Group Enhances Tactics with SmokeLoader and NETXLOADER</title>
+      <link>https://gbhackers.com/agenda-ransomware-group-enhances-tactics/</link>
+      <description>FYSA: The Agenda ransomware group has been reported to intensify its attacks in the first quarter of 2025, targeting critical sectors like healthcare, technology, financial services, and telecommunications across several countries. The group has evolved its arsenal by integrating a newly identified .NET-based loader named NETXLOADER alongside the notorious SmokeLoader, which employs sophisticated obfuscation techniques and dynamic API calls to bypass traditional detection mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133760</guid>
+      <pubDate>Wed, 07 May 2025 14:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSO Group fined $167M for spyware attacks on 1,400 WhatsApp users</title>
+      <link>https://www.bleepingcomputer.com/news/legal/nso-group-fined-167m-for-spyware-attacks-on-1-400-whatsapp-users/</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2019-3568; Summary: The article discusses a lawsuit against NSO Group, an Israeli spyware vendor, for exploiting a WhatsApp zero-day vulnerability (CVE-2019-3568) to install its Pegasus spyware on devices. The vulnerability allowed attackers to send specially crafted RTCP packets to target phone numbers, which would automatically exploit the vulnerability and install the spyware even if recipients did not answer the calls.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/nso-group-fined-167m-for-spyware-attacks-on-1-400-whatsapp-users/</guid>
+      <pubDate>Wed, 07 May 2025 14:09:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doubling down: How Universal 2nd Factor (U2F) boosts online security</title>
+      <link>https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/</link>
+      <description>FYSA: The article discusses the importance of online authentication, highlighting the limitations of using passwords alone and introducing Universal 2nd Factor (U2F) as a complementary method to enhance user safety. It outlines the benefits of U2F, including stronger security, user convenience, and wide availability, but also mentions potential challenges such as cost, education requirements, and physical risks associated with hardware tokens. The article concludes that while U2F is an emerging technology, it will be crucial in complementing password security in the future, with a focus on shoring up organizational password security.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/</guid>
+      <pubDate>Wed, 07 May 2025 14:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks</title>
+      <link>https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: This article is not about a vulnerability. It appears to be a report on a law enforcement operation that took down several distributed denial of service (DDoS)-for-hire services, including arresting individuals and seizing domains associated with the platforms.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html</guid>
+      <pubDate>Wed, 07 May 2025 13:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpyCloud Analysis Reveals 94% of Fortune 50 Companies Have Employee Data Exposed in Phishing Attacks</title>
+      <link>https://gbhackers.com/spycloud-analysis-reveals-94-of-fortune-50-companies-have-employee-data-exposed-in-phishing-attacks/</link>
+      <description>FYSA: SpyCloud's analysis of nearly 6 million phished data records reveals growing phishing attacks targeting high-value identity data, with key findings including the exposure of employee identity data at Fortune 50 companies, impersonated industries in phishing campaigns, and the importance of ongoing security awareness training and visibility into exposed identity data to prevent broader cyberattacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133810</guid>
+      <pubDate>Wed, 07 May 2025 13:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws</title>
+      <link>https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html</link>
+      <description>Vulnerable Product: OttoKit; CVE(s): CVE-2025-27007; Summary: A privilege escalation bug allows unauthenticated attackers to establish a connection and potentially escalate privileges. The vulnerability is exploitable in two scenarios: when an application password has never been used or when an attacker has authenticated access to the site.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html</guid>
+      <pubDate>Wed, 07 May 2025 13:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medical device maker Masimo warns of cyberattack, manufacturing delays</title>
+      <link>https://www.bleepingcomputer.com/news/security/medical-device-maker-masimo-warns-of-cyberattack-manufacturing-delays/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: Masimo Corporation, a medical device company, has disclosed a cybersecurity incident that has impacted its production operations and caused delays in fulfilling customer orders. The attack is believed to have occurred on April 27, 2025, and the company has isolated affected systems to prevent further compromise.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/medical-device-maker-masimo-warns-of-cyberattack-manufacturing-delays/</guid>
+      <pubDate>Wed, 07 May 2025 13:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA warns of hackers targeting critical oil infrastructure</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-targeting-critical-oil-infrastructure/</link>
+      <description>FYSA: CISA warned critical infrastructure organizations of "unsophisticated" threat actors actively targeting the U.S. oil and natural gas sectors, highlighting the potential for significant impact including physical damage and disruptions. The agency advised network defenders to reduce risk by removing public-facing OT devices from the internet, changing default passwords, securing remote access, and segmenting IT and OT networks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-targeting-critical-oil-infrastructure/</guid>
+      <pubDate>Wed, 07 May 2025 13:17:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android’s May 2025 Update Tackles CVE-2025-27363 &amp; More – Langflow &amp; MagicINFO Exploited, Kibana at Risk</title>
+      <link>https://socradar.io/androids-may-2025-update-tackles-cve-2025-27363-more/</link>
+      <description>Vulnerable Product: Google Android; CVE(s): CVE-2025-27363; Summary: A critical Remote Code Execution (RCE) flaw, CVE-2025-27363, in the Android System component allows local code execution without requiring user interaction or elevated privileges. This vulnerability is already being actively exploited and has been added to CISA's Known Exploited Vulnerabilities Catalog.
+
+FYSA: The article discusses several vulnerabilities across various platforms, including Google Android, Langflow, Samsung MagicINFO, and Kibana. The article highlights the importance of patching and provides information on how to mitigate these vulnerabilities.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100059831</guid>
+      <pubDate>Wed, 07 May 2025 12:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>PoC Tool Released to Detect Servers Affected by Critical Apache Parquet Vulnerability</title>
+      <link>https://gbhackers.com/poc-tool-released-apache-parquet-vulnerability/</link>
+      <description>Vulnerable Product: Apache Parquet; CVE(s): CVE-2025-30065; Summary: The Apache Parquet Java library's parquet-avro Maven module contains a vulnerability that permits unrestricted Java class references for string parameter coercion, allowing attackers to instantiate arbitrary Java classes with side effects. While full remote code execution is not possible, the risk remains significant for servers that can be coerced into instantiating classes with side effects. The F5 Labs "canary exploit" tool was developed to safely test for the vulnerability without causing unintended harm.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133748</guid>
+      <pubDate>Wed, 07 May 2025 12:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Healthcare Sector Becomes a Major Target for Cyber Attacks in 2025</title>
+      <link>https://gbhackers.com/healthcare-sector-becomes-a-major-target-for-cyber-attacks/</link>
+      <description>FYSA: The healthcare sector has emerged as a prime target for cyber attackers, driven by the increasing reliance on cloud applications and the rapid integration of generative AI (genAI) tools into organizational workflows. The report highlights the surge in malware delivery via cloud apps, mishandling of regulated data, and new vectors for data exposure introduced by genAI. It emphasizes the need for robust threat protection mechanisms, Data Loss Prevention (DLP), and implementing Remote Browser Isolation (RBI) technology to mitigate these evolving threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133725</guid>
+      <pubDate>Wed, 07 May 2025 12:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/07/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: GeoVision Devices; CVE(s): CVE-2024-6047, CVE-2024-11120; Summary: The vulnerability is an OS command injection vulnerability that allows malicious cyber actors to execute arbitrary commands on affected devices. This type of vulnerability poses significant risks to the federal enterprise and can be exploited by attackers.</description>
+      <guid isPermaLink="false">/node/23326</guid>
+      <pubDate>Wed, 07 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SysAid ITSM Vulnerabilities Enables Pre-Auth Remote Command Execution</title>
+      <link>https://gbhackers.com/sysaid-itsm-vulnerabilities/</link>
+      <description>Vulnerable Product: SysAid ITSM's On-Premise solution; CVE(s): CVE-2025-2775, CVE-2025-2776, CVE-2025-2777; Summary: A chain of critical vulnerabilities in SysAid ITSM's On-Premise solution allows unauthenticated attackers to execute remote commands by exploiting three pre-auth XML External Entity (XXE) injection flaws, enabling Remote Command Execution (RCE) as the privileged SYSTEM user on Windows servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133742</guid>
+      <pubDate>Wed, 07 May 2025 11:40:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version</title>
+      <link>https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html</link>
+      <description>Vulnerable Product: SysAid; CVE(s): CVE-2025-2775, CVE-2025-2776, CVE-2025-2777; Summary: The on-premise version of SysAid IT support software has multiple XML External Entity (XXE) injection vulnerabilities that can be exploited to achieve pre-authenticated remote code execution with elevated privileges. The flaws, tracked as CVE-2025-2775, CVE-2025-2776, and CVE-2025-2777, allow attackers to inject unsafe XML entities into the web application, enabling SSRF attacks and potentially remote code execution.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html</guid>
+      <pubDate>Wed, 07 May 2025 11:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Cyber Threats to Oil and Gas SCADA and ICS Networks</title>
+      <link>https://gbhackers.com/cisa-warns-scada-and-ics-networks/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: The Cybersecurity and Infrastructure Security Agency (CISA) has issued an alert warning critical infrastructure operators of emerging cyber threats targeting Supervisory Control and Data Acquisition (SCADA) and Industrial Control Systems (ICS) networks. The attacks are often basic in nature, exploiting well-known vulnerabilities and poor cyber hygiene among asset owners and operators.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133653</guid>
+      <pubDate>Wed, 07 May 2025 11:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police takes down six DDoS-for-hire services, arrests admins</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: The article reports on a law enforcement operation called Operation PowerOFF that resulted in the takedown of six DDoS-for-hire platforms and the arrest of four suspects. These platforms were used to launch thousands of cyberattacks worldwide, disrupting online services, servers, and websites.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/</guid>
+      <pubDate>Wed, 07 May 2025 11:23:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Company Gains Full Control Over Critical Open Source Easyjson Library</title>
+      <link>https://gbhackers.com/russian-company-gains-full-control-over/</link>
+      <description>Vulnerable Product: easyjson; CVE(s): None; Summary: The open source Go package easyjson, widely used for optimizing JSON serialization and deserialization, has been found to be fully controlled by developers based in Moscow, employed by VK Group (also known as Mail.ru), one of Russia's largest internet conglomerates. This raises concerns about the integrity of critical software dependencies like easyjson, given its widespread use across thousands of open source and enterprise projects, including Helm, Istio, and Kubernetes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133709</guid>
+      <pubDate>Wed, 07 May 2025 11:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reevaluating SSEs: A Technical Gap Analysis of Last-Mile Protection</title>
+      <link>https://thehackernews.com/2025/05/reevaluating-sses-technical-gap.html</link>
+      <description>FYSA: Security Service Edge (SSE) platforms have a structural limitation, stopping short of providing visibility and control at the point of user interaction inside the browser. This gap leaves organizations exposed to attacks, data leaks, and identity misuse. To secure the last mile, browser-native security platforms are being used to provide real-time risk scoring, account-based policy enforcement, and monitoring and control of browser extensions.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/reevaluating-sses-technical-gap.html</guid>
+      <pubDate>Wed, 07 May 2025 10:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization</title>
+      <link>https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29824; Summary: The vulnerability is a privilege escalation flaw in the Common Log File System (CLFS) driver, patched by Microsoft last month. Threat actors exploited this zero-day to target an unnamed organization in the United States, using it as part of an attack that leveraged a public-facing Cisco Adaptive Security Appliance (ASA).</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html</guid>
+      <pubDate>Wed, 07 May 2025 10:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Simulate DPRK’s Largest Cryptocurrency Heist Through Compromised macOS Developer and AWS Pivoting</title>
+      <link>https://gbhackers.com/researchers-simulate-dprks-largest-cryptocurrency-heist/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: This article is not about a vulnerability, but rather a simulation of the ByBit cryptocurrency heist attributed to North Korea's elite cyber unit, TraderTraitor. The attack exploited a trusted vendor relationship with Safe{Wallet} and used social engineering, remote code execution (RCE) vulnerability in PyYAML library, and other tactics to steal approximately 400,000 ETH-valued at over a billion dollars.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133651</guid>
+      <pubDate>Wed, 07 May 2025 10:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lampion Banking Malware Uses ClickFix Lures to Steal Banking Credentials</title>
+      <link>https://gbhackers.com/lampion-banking-malware-uses-clickfix-lures/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: A highly targeted malicious campaign orchestrated by the threat actors behind the Lampion banking malware has been uncovered, using social engineering tactics and a multi-stage infection chain to evade detection. The campaign targets Portuguese organizations across various sectors, exploiting low user awareness with "ClickFix" lures that trick victims into executing malicious commands.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133602</guid>
+      <pubDate>Wed, 07 May 2025 10:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Cyber Actors Impersonate Model Agency in Suspected Espionage Operation</title>
+      <link>https://unit42.paloaltonetworks.com/iranian-attackers-impersonate-model-agency/</link>
+      <description>FYSA: The article is about a suspected Iranian cyberespionage campaign impersonating a German model agency, hosting a fraudulent website designed to capture visitor information and potentially lure targets for social engineering attacks.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140284</guid>
+      <pubDate>Wed, 07 May 2025 10:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: April updates cause Windows Server auth issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-april-updates-cause-windows-server-auth-issues/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-26647; Summary: The April 2025 security updates are causing authentication issues on some Windows Server domain controllers due to a vulnerability tracked as CVE-2025-26647. An attacker can escalate privileges remotely by exploiting an improper input validation weakness in Windows Kerberos, which can lead to assigning greater rights to the Key Distribution Center and obtaining a Ticket Granting Ticket for the target user from the KDC.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-april-updates-cause-windows-server-auth-issues/</guid>
+      <pubDate>Wed, 07 May 2025 09:55:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times</title>
+      <link>https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html</link>
+      <description>Vulnerable Product: discordpydebug; CVE(s): None; Summary: The Discord-related utility "discordpydebug" masquerades as a harmless package but contains a remote access trojan (RAT) that allows reading and writing arbitrary files, running shell commands, and exfiltrating data.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html</guid>
+      <pubDate>Wed, 07 May 2025 07:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware</title>
+      <link>https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2019-3568; Summary: The vulnerability was a zero-day exploit in WhatsApp's voice calling feature, which allowed NSO Group to deploy Pegasus spyware and target over 1,400 individuals globally. The attack leveraged the vulnerability to trigger the deployment of the spyware, compromising iOS or Android devices.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html</guid>
+      <pubDate>Wed, 07 May 2025 06:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NSO Group Ordered to Pay $168 Million to WhatsApp in US Spyware Verdict</title>
+      <link>https://gbhackers.com/nso-group-ordered-to-pay-168-million-to-whatsapp/</link>
+      <description>Vulnerable Product: NSO Group's Pegasus spyware; CVE(s): None; Summary: The Pegasus spyware exploited a "zero-click" vulnerability, allowing attackers to compromise devices without user interaction, and giving them access to messages, emails, calls, cameras, and microphones. This vulnerability was used to compromise the phones of over 1,400 individuals worldwide, including journalists, human rights defenders, and government officials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133526</guid>
+      <pubDate>Wed, 07 May 2025 05:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-085: Logsign Unified SecOps Platform Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-085/</link>
+      <description>Vulnerable Product: Logsign, Unified SecOps Platform; CVE(s): CVE-2025-1044; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Logsign Unified SecOps Platform. Authentication is not required to exploit this vulnerability, and an attacker can leverage it to bypass authentication on the system. The issue results from the lack of proper implementation of the authentication algorithm within the web service, which listens on TCP port 443 by default.</description>
+      <guid isPermaLink="false">ZDI-CAN-25336</guid>
+      <pubDate>Wed, 07 May 2025 01:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-086: PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-086/</link>
+      <description>Vulnerable Product: PDF-XChange Editor, CVE-2025-0900; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor through an out-of-bounds read information disclosure flaw in the file parsing mechanism. User interaction is required for exploitation, and the issue stems from a lack of proper validation of user-supplied data, leading to a read past the end of an allocated object.</description>
+      <guid isPermaLink="false">ZDI-CAN-25368</guid>
+      <pubDate>Wed, 07 May 2025 01:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-087: NVIDIA Container Toolkit mount_files Time-Of-Check Time-Of-Use Race Condition Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-087/</link>
+      <description>Vulnerable Product: NVIDIA Container Toolkit; CVE(s): CVE-2025-23359; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of NVIDIA Container Toolkit. An attacker must first obtain the ability to execute code within a container in order to exploit this vulnerability, which exists within the mount_files function due to a lack of proper locking when performing operations on an object.</description>
+      <guid isPermaLink="false">ZDI-CAN-26525</guid>
+      <pubDate>Wed, 07 May 2025 01:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-088: mySCADA myPRO Command Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-088/</link>
+      <description>Vulnerable Product: mySCADA myPRO; CVE(s): CVE-2025-20061; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of mySCADA myPRO without authentication. The flaw exists within the web service, which listens on TCP port 34022 by default, due to a lack of proper validation of user-supplied strings before using them to execute system calls. An attacker can leverage this vulnerability to execute code in the context of root.</description>
+      <guid isPermaLink="false">ZDI-CAN-24784</guid>
+      <pubDate>Wed, 07 May 2025 01:52:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-089: mySCADA myPRO Command Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-089/</link>
+      <description>Vulnerable Product: mySCADA myPRO; CVE(s): CVE-2025-20014; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of mySCADA myPRO, requiring no authentication. The issue exists within the web service and results from a lack of proper validation of user-supplied strings before executing system calls. An attacker can leverage this vulnerability to execute code in the context of root.</description>
+      <guid isPermaLink="false">ZDI-CAN-24785</guid>
+      <pubDate>Wed, 07 May 2025 01:51:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-090: Microsoft Edge UI Misrepresentation Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-090/</link>
+      <description>Vulnerable Product: Microsoft Edge; CVE(s): CVE-2025-21404; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Edge. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists in the way Microsoft Edge displays a warning about hazardous downloads, which can be misleadingly displayed as harmless.</description>
+      <guid isPermaLink="false">ZDI-CAN-25393</guid>
+      <pubDate>Wed, 07 May 2025 01:51:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-091: Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-091/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-21373; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by creating a symbolic link within the Windows Installer service, enabling deletion of arbitrary files and potential privilege escalation. An attacker must first obtain low-privileged code execution to exploit this flaw.</description>
+      <guid isPermaLink="false">ZDI-CAN-25761</guid>
+      <pubDate>Wed, 07 May 2025 01:51:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-092: (Pwn2Own) Apple Safari B3 JIT Compiler Integer Underflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-092/</link>
+      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2024-27833; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari. User interaction is required, and the specific flaw exists within the B3 JIT compiler due to a lack of proper validation of user-supplied data that can result in an integer underflow.</description>
+      <guid isPermaLink="false">ZDI-CAN-23795</guid>
+      <pubDate>Wed, 07 May 2025 01:51:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-093: (Pwn2Own) Apple Safari Pointer Authentication Code Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-093/</link>
+      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2024-27834; Summary: This vulnerability allows remote attackers to bypass the Pointer Authentication Code protection mechanism on affected installations of Apple Safari, requiring user interaction. The specific flaw exists within the libpas allocator, allowing an attacker to execute arbitrary code in the context of the current user.</description>
+      <guid isPermaLink="false">ZDI-CAN-26551</guid>
+      <pubDate>Wed, 07 May 2025 01:51:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-094: Fortinet FortiWeb cgi_grpc_idl_file_post Command Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-094/</link>
+      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2024-50567; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiWeb. Authentication is required to exploit this vulnerability, which exists within the cgi_grpc_idl_file_post function due to a lack of proper validation of user-supplied strings before executing system calls.</description>
+      <guid isPermaLink="false">ZDI-CAN-25182</guid>
+      <pubDate>Wed, 07 May 2025 01:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-095: Fortinet FortiWeb gui_upload_compress_act Command Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-095/</link>
+      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2024-50569; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiWeb, requiring authentication. The issue exists within the gui_upload_compress_act function due to a lack of proper validation of user-supplied strings before executing system calls.</description>
+      <guid isPermaLink="false">ZDI-CAN-25180</guid>
+      <pubDate>Wed, 07 May 2025 01:50:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-096: PostHog slack_incoming_webhook Server-Side Request Forgery Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-096/</link>
+      <description>Vulnerable Product: PostHog, slack_incoming_webhook; CVE(s): CVE-2025-1521; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PostHog. Authentication is required to exploit this vulnerability, and the specific flaw exists within the processing of the slack_incoming_webhook parameter due to a lack of proper validation of a URI prior to accessing resources.</description>
+      <guid isPermaLink="false">ZDI-CAN-25352</guid>
+      <pubDate>Wed, 07 May 2025 01:50:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-097: PostHog database_schema Server-Side Request Forgery Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-097/</link>
+      <description>Vulnerable Product: PostHog; CVE(s): CVE-2025-1522; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PostHog. Authentication is required to exploit this vulnerability, and it exists within the implementation of the database_schema method due to a lack of proper validation of a URI prior to accessing resources.</description>
+      <guid isPermaLink="false">ZDI-CAN-25358</guid>
+      <pubDate>Wed, 07 May 2025 01:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-098: Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-098/</link>
+      <description>Vulnerable Product: Delta Electronics CNCSoft-G2; CVE(s): CVE-2025-22880; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft-G2 by exploiting a heap-based buffer overflow in the parsing of DPAX files. User interaction is required, and the attacker can leverage this vulnerability to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-25300</guid>
+      <pubDate>Wed, 07 May 2025 01:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-099: PostHog ClickHouse Table Functions SQL Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-099/</link>
+      <description>Vulnerable Product: PostHog; CVE(s): CVE-2025-1520; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of PostHog. Authentication is required to exploit this vulnerability, and it occurs due to the lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
+      <guid isPermaLink="false">ZDI-CAN-25350</guid>
+      <pubDate>Wed, 07 May 2025 01:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-100: Linux Kernel ksmbd Session Setup Race Condition Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-100/</link>
+      <description>Vulnerable Product: Linux Kernel; CVE(s): ZDI-CAN-25737, None; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Linux Kernel. Authentication is not required to exploit this vulnerability, but only systems with ksmbd enabled are vulnerable. The specific flaw exists within the implementation of session setup due to a lack of proper locking when performing operations on an object.</description>
+      <guid isPermaLink="false">ZDI-CAN-25737</guid>
+      <pubDate>Wed, 07 May 2025 01:49:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-101: (0Day) Delta Electronics ISPSoft DVP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-101/</link>
+      <description>Vulnerable Product: Delta Electronics ISPSoft; CVE(s): ZDI-25-101, ZDI-CAN-25284; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics ISPSoft by exploiting an out-of-bounds write in the parsing of DVP files. User interaction is required, and the specific flaw exists within the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated data structure.</description>
+      <guid isPermaLink="false">ZDI-CAN-25284</guid>
+      <pubDate>Wed, 07 May 2025 01:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-102: (0Day) Delta Electronics ISPSoft DVP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-102/</link>
+      <description>Vulnerable Product: Delta Electronics ISPSoft; CVE(s): ZDI-25-102, ZDI-CAN-25225; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics ISPSoft by exploiting a stack-based buffer overflow in the parsing of DVP files. User interaction is required to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-25225</guid>
+      <pubDate>Wed, 07 May 2025 01:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-103: (0Day) Delta Electronics ISPSoft CBDGL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-103/</link>
+      <description>Vulnerable Product: Delta Electronics ISPSoft; CVE(s): ZDI-CAN-25031, ZDI-25-103; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics ISPSoft by exploiting a stack-based buffer overflow in the parsing of CBDGL files. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-25031</guid>
+      <pubDate>Wed, 07 May 2025 01:48:48 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
