@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 12:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 13:01:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Bookings Vulnerability Allows Unauthorized Changes to Meeting Details</title>
+      <link>https://gbhackers.com/microsoft-bookings-vulnerability/</link>
+      <description>Vulnerable Product: Microsoft Bookings; CVE(s): None; Summary: A vulnerability in Microsoft Bookings allows unauthorized modification of meeting details, posing risks such as phishing, calendar manipulation, and information leakage. The flaw arises from inadequate input validation and sanitization in several key fields used by Microsoft Bookings, allowing malicious actors to inject arbitrary HTML content into confirmation emails, Teams invitations, and attached ICS files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134115</guid>
+      <pubDate>Thu, 08 May 2025 12:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nmap 7.96 Released with Enhanced Scanning Capabilities and Updated Libraries</title>
+      <link>https://gbhackers.com/nmap-7-96-launches/</link>
+      <description>Vulnerable Product: None; Summary: This article is about the release of Nmap 7.96, a network mapping and security auditing tool. The update brings improvements such as parallel forward DNS resolution, upgraded core libraries, new scripting capabilities, and enhanced compatibility across platforms, especially for Windows users.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134099</guid>
+      <pubDate>Thu, 08 May 2025 12:09:47 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco IOS XE Vulnerability Allows Attackers to Gain Elevated Privileges</title>
       <link>https://gbhackers.com/cisco-ios-xe-vulnerability/</link>
@@ -345,20 +359,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: PDF-XChange Editor, CVE-2025-0900; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor through an out-of-bounds read information disclosure flaw in the file parsing mechanism. User interaction is required for exploitation, and the issue stems from a lack of proper validation of user-supplied data, leading to a read past the end of an allocated object.</description>
       <guid isPermaLink="false">ZDI-CAN-25368</guid>
       <pubDate>Wed, 07 May 2025 01:52:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-087: NVIDIA Container Toolkit mount_files Time-Of-Check Time-Of-Use Race Condition Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-087/</link>
-      <description>Vulnerable Product: NVIDIA Container Toolkit; CVE(s): CVE-2025-23359; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of NVIDIA Container Toolkit. An attacker must first obtain the ability to execute code within a container in order to exploit this vulnerability, which exists within the mount_files function due to a lack of proper locking when performing operations on an object.</description>
-      <guid isPermaLink="false">ZDI-CAN-26525</guid>
-      <pubDate>Wed, 07 May 2025 01:52:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-088: mySCADA myPRO Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-088/</link>
-      <description>Vulnerable Product: mySCADA myPRO; CVE(s): CVE-2025-20061; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of mySCADA myPRO without authentication. The flaw exists within the web service, which listens on TCP port 34022 by default, due to a lack of proper validation of user-supplied strings before using them to execute system calls. An attacker can leverage this vulnerability to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-24784</guid>
-      <pubDate>Wed, 07 May 2025 01:52:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
