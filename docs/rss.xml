@@ -6,19 +6,33 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 16:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 16:18:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ESET Reveals How to Spot Fake Calls Demanding Payment for ‘Missed Jury Duty’</title>
+      <link>https://gbhackers.com/eset-reveals-how-to-spot-fake-calls-demanding-payment/</link>
+      <description>Scammers are using fake government officials to demand payment for "missed jury duty" over phone and email. They use tactics like threatening language, phishing emails/texts, and requests for personal information. To protect yourself, do not engage with suspicious calls or emails, be skeptical of unsolicited communications, and never share personal or financial details.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134208</guid>
+      <pubDate>Thu, 08 May 2025 16:05:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kickidler employee monitoring software abused in ransomware attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/</link>
+      <description>Vulnerable Product: Kickidler; CVE(s): None; Summary: The Kickidler employee monitoring software was exploited by ransomware operators to track victim activity, harvest credentials, and conduct reconnaissance. The attackers used the software to capture keystrokes, take screenshots, and create videos of the screen, enabling them to identify off-site cloud backups and obtain necessary passwords without being detected.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/</guid>
+      <pubDate>Thu, 08 May 2025 16:05:18 +0000</pubDate>
+    </item>
     <item>
       <title>Reflections of the India–Pakistan Kashmir Escalation on the Cyber World</title>
       <link>https://socradar.io/india-pakistan-kashmir-escalation-on-cyber-world/</link>
-      <description>FYSA: This article discusses the escalation of a military standoff between India and Pakistan in Kashmir, with both sides engaging in physical clashes and online attacks. Hacktivist groups from both countries have begun to align their operations, launching website defacements, Denial-of-Service (DoS) attacks, and leaking stolen data. The article highlights the growth of cyber activity related to India over the years, including hacktivist campaigns, Dark Web mentions, and sales of stolen information.</description>
+      <description>This article discusses the escalation of a military standoff between India and Pakistan in Kashmir, with both sides engaging in physical clashes and online attacks. Hacktivist groups from both countries have begun to align their operations, launching website defacements, Denial-of-Service (DoS) attacks, and leaking stolen data. The article highlights the growth of cyber activity related to India over the years, including hacktivist campaigns, Dark Web mentions, and sales of stolen information.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100059892</guid>
       <pubDate>Thu, 08 May 2025 15:04:03 +0000</pubDate>
     </item>
     <item>
       <title>VC giant Insight Partners confirms investor data stolen in breach</title>
       <link>https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/</link>
-      <description>FYSA: A venture capital firm, Insight Partners, has confirmed that a cyberattack occurred on January 16, 2025, resulting in the theft of sensitive employee and limited partner data. The incident was caused by a "sophisticated social engineering attack" and may have exposed various types of information, including fund details, personal data, and banking information.</description>
+      <description>A venture capital firm, Insight Partners, has confirmed that a cyberattack occurred on January 16, 2025, resulting in the theft of sensitive employee and limited partner data. The incident was caused by a "sophisticated social engineering attack" and may have exposed various types of information, including fund details, personal data, and banking information.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/</guid>
       <pubDate>Thu, 08 May 2025 15:01:39 +0000</pubDate>
     </item>
@@ -353,22 +367,6 @@ However, one could argue that the rapid growth and investment in China's AI sect
       <description>CISA warned critical infrastructure organizations of "unsophisticated" threat actors actively targeting the U.S. oil and natural gas sectors, highlighting the potential for significant impact including physical damage and disruptions. The agency advised network defenders to reduce risk by removing public-facing OT devices from the internet, changing default passwords, securing remote access, and segmenting IT and OT networks.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-targeting-critical-oil-infrastructure/</guid>
       <pubDate>Wed, 07 May 2025 13:17:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android’s May 2025 Update Tackles CVE-2025-27363 &amp; More – Langflow &amp; MagicINFO Exploited, Kibana at Risk</title>
-      <link>https://socradar.io/androids-may-2025-update-tackles-cve-2025-27363-more/</link>
-      <description>Vulnerable Product: Google Android; CVE(s): CVE-2025-27363; Summary: A critical Remote Code Execution (RCE) flaw, CVE-2025-27363, in the Android System component allows local code execution without requiring user interaction or elevated privileges. This vulnerability is already being actively exploited and has been added to CISA's Known Exploited Vulnerabilities Catalog.
-
-FYSA: The article discusses several vulnerabilities across various platforms, including Google Android, Langflow, Samsung MagicINFO, and Kibana. The article highlights the importance of patching and provides information on how to mitigate these vulnerabilities.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100059831</guid>
-      <pubDate>Wed, 07 May 2025 12:54:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoC Tool Released to Detect Servers Affected by Critical Apache Parquet Vulnerability</title>
-      <link>https://gbhackers.com/poc-tool-released-apache-parquet-vulnerability/</link>
-      <description>Vulnerable Product: Apache Parquet; CVE(s): CVE-2025-30065; Summary: The Apache Parquet Java library's parquet-avro Maven module contains a vulnerability that permits unrestricted Java class references for string parameter coercion, allowing attackers to instantiate arbitrary Java classes with side effects. While full remote code execution is not possible, the risk remains significant for servers that can be coerced into instantiating classes with side effects. The F5 Labs "canary exploit" tool was developed to safely test for the vulnerability without causing unintended harm.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133748</guid>
-      <pubDate>Wed, 07 May 2025 12:22:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
