@@ -6,8 +6,64 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 13:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 14:09:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Guess Which Browser Tops the List for Data Collection!</title>
+      <link>https://gbhackers.com/which-browser-tops-the-list-for-data-collection/</link>
+      <description>FYSA: Google Chrome has emerged as the most data-intensive web browser among 10 popular browsers, collecting 20 different types of user data, including personal contact information, financial details, location data, and browsing history. Its dominance in the market, with a combined 90% share with Safari, raises concerns about users' privacy and highlights the need for evaluation of browser choices to prioritize security.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134093</guid>
+      <pubDate>Thu, 08 May 2025 13:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware</title>
+      <link>https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html</link>
+      <description>FYSA: Threat actors with ties to Qilin ransomware family have leveraged malware SmokeLoader and a previously undocumented .NET compiled loader, NETXLOADER, as part of a campaign observed in November 2024. The loaders are used to deploy additional malicious payloads, including Agenda ransomware, and are protected by .NET Reactor version 6.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html</guid>
+      <pubDate>Thu, 08 May 2025 13:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOGE Big Balls Ransomware Leverages Open-Source Tools and Custom Scripts for Multi-Stage Attacks</title>
+      <link>https://gbhackers.com/doge-big-balls-ransomware-leverages-open-source-tools/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: The article describes a highly complex ransomware variant called "DOGE Big Balls," which incorporates political statements and taunts in its payloads. The ransomware's infection chain utilizes custom PowerShell scripts, open-source tools, vulnerable driver exploits, and red team frameworks, with frequent updates to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134034</guid>
+      <pubDate>Thu, 08 May 2025 13:44:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google links new LostKeys data theft malware to Russian cyberspies</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses the ColdRiver hacking group, a Russian state-backed threat actor that has been using new LostKeys malware to steal files in espionage attacks targeting Western governments, journalists, think tanks, and non-governmental organizations. The malware is delivered through social engineering attacks, such as ClickFix, which tricks targets into running malicious PowerShell scripts.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/</guid>
+      <pubDate>Thu, 08 May 2025 13:39:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware-as-a-Service (RaaS) Emerges as a Leading Framework for Cyberattacks</title>
+      <link>https://gbhackers.com/raas-emerges-as-a-leading-framework/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: This article discusses the rise of Ransomware-as-a-Service (RaaS) frameworks, which have enabled even less-skilled actors to orchestrate sophisticated attacks. The article highlights the shift towards cross-platform attacks, data exfiltration, and double or triple extortion tactics, as well as the increase in average ransom demands.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133995</guid>
+      <pubDate>Thu, 08 May 2025 13:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Hackers Posing as Model Agency to Target Victims</title>
+      <link>https://gbhackers.com/iranian-hackers-posing-as-model-agency/</link>
+      <description>FYSA: Unit 42 has exposed a covert operation likely orchestrated by Iranian cyber actors that involves a fraudulent website designed to impersonate the Hamburg-based Mega Model Agency, with malicious JavaScript code aimed at harvesting detailed visitor data. The campaign suggests preparation for targeted social engineering and potentially aims to harvest credentials or deliver malware to specific victims.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134012</guid>
+      <pubDate>Thu, 08 May 2025 13:28:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian COLDRIVER Hackers Deploy LOSTKEYS Malware to Steal Sensitive Information</title>
+      <link>https://gbhackers.com/russian-coldriver-hackers-deploy-lostkeys-malware/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: The article discusses a sophisticated malware called LOSTKEYS, attributed to the Russian government-backed threat actor COLDRIVER. The malware is designed to exfiltrate files and harvest system information from targeted individuals and organizations, particularly those linked to Ukraine or Western governments. It uses a complex multi-stage infection chain, including CAPTCHA lures and PowerShell code execution, to evade detection and analysis.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133897</guid>
+      <pubDate>Thu, 08 May 2025 13:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Driven Fake Vulnerability Reports Flooding Bug Bounty Platforms</title>
+      <link>https://gbhackers.com/ai-driven-fake-vulnerability-reports/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: AI-generated bogus vulnerability reports, or "AI slop," are flooding bug bounty platforms, mimicking technical jargon convincingly enough to pass initial scrutiny but crumble under expert analysis. These fraudulent submissions rely on systemic vulnerabilities within bug bounty programs and can erode trust, divert resources from addressing genuine vulnerabilities, and potentially dismantle the bug bounty model.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133927</guid>
+      <pubDate>Thu, 08 May 2025 13:08:40 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Bookings Vulnerability Allows Unauthorized Changes to Meeting Details</title>
       <link>https://gbhackers.com/microsoft-bookings-vulnerability/</link>
@@ -105,6 +161,21 @@
       <description>Vulnerable Product: MySQL; CVE(s): CVE-2024-4577; Summary: The vulnerability is a critical and actively exploited remote code execution flaw in PHP 8.1.2, which was running on the server that stored the LockBit ransomware gang's affiliate panel database. This vulnerability allows for remote code execution on servers.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/</guid>
       <pubDate>Thu, 08 May 2025 00:06:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measuring the US-China AI Gap</title>
+      <link>https://www.recordedfuture.com/research/measuring-the-us-china-ai-gap</link>
+      <description>FYSA:
+
+As a cybersecurity analyst, I analyzed the provided article and found that it is an in-depth report on China's AI ecosystem, its growth, and investment trends. The report highlights the country's efforts to become a leader in artificial intelligence research and development.
+
+The report provides detailed information about China's AI-related investments, including government-led initiatives and private-sector funding. It also touches upon the country's semiconductor industry, which is crucial for supporting its AI ecosystem.
+
+From a cybersecurity perspective, this report does not specifically discuss vulnerabilities or threats. Instead, it focuses on the broader landscape of AI development in China and its potential implications for the global AI market.
+
+However, one could argue that the rapid growth and investment in China's AI sector may potentially increase the risk of AI-powered cyberattacks or data breaches if security measures are not adequately implemented to protect against these threats.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/measuring-the-us-china-ai-gap</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pakistani Firm Shipped Fentanyl Analogs, Scams to US</title>
@@ -296,69 +367,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29824; Summary: The vulnerability is a privilege escalation flaw in the Common Log File System (CLFS) driver, patched by Microsoft last month. Threat actors exploited this zero-day to target an unnamed organization in the United States, using it as part of an attack that leveraged a public-facing Cisco Adaptive Security Appliance (ASA).</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html</guid>
       <pubDate>Wed, 07 May 2025 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Simulate DPRK’s Largest Cryptocurrency Heist Through Compromised macOS Developer and AWS Pivoting</title>
-      <link>https://gbhackers.com/researchers-simulate-dprks-largest-cryptocurrency-heist/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: This article is not about a vulnerability, but rather a simulation of the ByBit cryptocurrency heist attributed to North Korea's elite cyber unit, TraderTraitor. The attack exploited a trusted vendor relationship with Safe{Wallet} and used social engineering, remote code execution (RCE) vulnerability in PyYAML library, and other tactics to steal approximately 400,000 ETH-valued at over a billion dollars.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133651</guid>
-      <pubDate>Wed, 07 May 2025 10:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lampion Banking Malware Uses ClickFix Lures to Steal Banking Credentials</title>
-      <link>https://gbhackers.com/lampion-banking-malware-uses-clickfix-lures/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: A highly targeted malicious campaign orchestrated by the threat actors behind the Lampion banking malware has been uncovered, using social engineering tactics and a multi-stage infection chain to evade detection. The campaign targets Portuguese organizations across various sectors, exploiting low user awareness with "ClickFix" lures that trick victims into executing malicious commands.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133602</guid>
-      <pubDate>Wed, 07 May 2025 10:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Cyber Actors Impersonate Model Agency in Suspected Espionage Operation</title>
-      <link>https://unit42.paloaltonetworks.com/iranian-attackers-impersonate-model-agency/</link>
-      <description>Summary: The article is about a suspected Iranian cyberespionage campaign impersonating a German model agency, hosting a fraudulent website designed to capture visitor information and potentially lure targets for social engineering attacks.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140284</guid>
-      <pubDate>Wed, 07 May 2025 10:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: April updates cause Windows Server auth issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-april-updates-cause-windows-server-auth-issues/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-26647; Summary: The April 2025 security updates are causing authentication issues on some Windows Server domain controllers due to a vulnerability tracked as CVE-2025-26647. An attacker can escalate privileges remotely by exploiting an improper input validation weakness in Windows Kerberos, which can lead to assigning greater rights to the Key Distribution Center and obtaining a Ticket Granting Ticket for the target user from the KDC.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-april-updates-cause-windows-server-auth-issues/</guid>
-      <pubDate>Wed, 07 May 2025 09:55:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times</title>
-      <link>https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html</link>
-      <description>Vulnerable Product: discordpydebug; CVE(s): None; Summary: The Discord-related utility "discordpydebug" masquerades as a harmless package but contains a remote access trojan (RAT) that allows reading and writing arbitrary files, running shell commands, and exfiltrating data.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html</guid>
-      <pubDate>Wed, 07 May 2025 07:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware</title>
-      <link>https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2019-3568; Summary: The vulnerability was a zero-day exploit in WhatsApp's voice calling feature, which allowed NSO Group to deploy Pegasus spyware and target over 1,400 individuals globally. The attack leveraged the vulnerability to trigger the deployment of the spyware, compromising iOS or Android devices.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html</guid>
-      <pubDate>Wed, 07 May 2025 06:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSO Group Ordered to Pay $168 Million to WhatsApp in US Spyware Verdict</title>
-      <link>https://gbhackers.com/nso-group-ordered-to-pay-168-million-to-whatsapp/</link>
-      <description>Vulnerable Product: NSO Group's Pegasus spyware; CVE(s): None; Summary: The Pegasus spyware exploited a "zero-click" vulnerability, allowing attackers to compromise devices without user interaction, and giving them access to messages, emails, calls, cameras, and microphones. This vulnerability was used to compromise the phones of over 1,400 individuals worldwide, including journalists, human rights defenders, and government officials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133526</guid>
-      <pubDate>Wed, 07 May 2025 05:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-085: Logsign Unified SecOps Platform Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-085/</link>
-      <description>Vulnerable Product: Logsign, Unified SecOps Platform; CVE(s): CVE-2025-1044; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Logsign Unified SecOps Platform. Authentication is not required to exploit this vulnerability, and an attacker can leverage it to bypass authentication on the system. The issue results from the lack of proper implementation of the authentication algorithm within the web service, which listens on TCP port 443 by default.</description>
-      <guid isPermaLink="false">ZDI-CAN-25336</guid>
-      <pubDate>Wed, 07 May 2025 01:52:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-086: PDF-XChange Editor PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-086/</link>
-      <description>Vulnerable Product: PDF-XChange Editor, CVE-2025-0900; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor through an out-of-bounds read information disclosure flaw in the file parsing mechanism. User interaction is required for exploitation, and the issue stems from a lack of proper validation of user-supplied data, leading to a read past the end of an allocated object.</description>
-      <guid isPermaLink="false">ZDI-CAN-25368</guid>
-      <pubDate>Wed, 07 May 2025 01:52:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
