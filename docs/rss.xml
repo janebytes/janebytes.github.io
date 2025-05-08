@@ -6,19 +6,33 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 15:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 15:36:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Reflections of the India–Pakistan Kashmir Escalation on the Cyber World</title>
+      <link>https://socradar.io/india-pakistan-kashmir-escalation-on-cyber-world/</link>
+      <description>FYSA: This article discusses the escalation of a military standoff between India and Pakistan in Kashmir, with both sides engaging in physical clashes and online attacks. Hacktivist groups from both countries have begun to align their operations, launching website defacements, Denial-of-Service (DoS) attacks, and leaking stolen data. The article highlights the growth of cyber activity related to India over the years, including hacktivist campaigns, Dark Web mentions, and sales of stolen information.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100059892</guid>
+      <pubDate>Thu, 08 May 2025 15:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>VC giant Insight Partners confirms investor data stolen in breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/</link>
+      <description>FYSA: A venture capital firm, Insight Partners, has confirmed that a cyberattack occurred on January 16, 2025, resulting in the theft of sensitive employee and limited partner data. The incident was caused by a "sophisticated social engineering attack" and may have exposed various types of information, including fund details, personal data, and banking information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/</guid>
+      <pubDate>Thu, 08 May 2025 15:01:39 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Turn the Tables: Scamming the Scammers in Telegram’s PigButchering Scheme</title>
       <link>https://gbhackers.com/scamming-the-scammers-in-telegrams-pigbutchering-scheme/</link>
-      <description>FYSA: Cybersecurity researchers have developed an innovative approach to combat "PigButchering" scams on Telegram, which involves cultivating false relationships with victims and deceiving them at the opportune moment. The operation involved creating faux personas, executing a sting operation, gathering intelligence, and siphoning off funds from the scammers' wallets.</description>
+      <description>Cybersecurity researchers have developed an innovative approach to combat "PigButchering" scams on Telegram, which involves cultivating false relationships with victims and deceiving them at the opportune moment. The operation involved creating faux personas, executing a sting operation, gathering intelligence, and siphoning off funds from the scammers' wallets.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134177</guid>
       <pubDate>Thu, 08 May 2025 14:16:06 +0000</pubDate>
     </item>
     <item>
       <title>New Spam Campaign Leverages Remote Monitoring Tools to Exploit Organizations</title>
       <link>https://gbhackers.com/new-spam-campaign-leverages-remote-monitoring-tools/</link>
-      <description>FYSA: A sophisticated spam campaign targeting Portuguese-speaking users in Brazil has been uncovered by Cisco Talos, exploiting commercial remote monitoring and management (RMM) tools to gain unauthorized access to victims' systems. The attackers use deceptive tactics to distribute malicious installers disguised as legitimate files related to Brazil's electronic invoice system, NF-e.</description>
+      <description>A sophisticated spam campaign targeting Portuguese-speaking users in Brazil has been uncovered by Cisco Talos, exploiting commercial remote monitoring and management (RMM) tools to gain unauthorized access to victims' systems. The attackers use deceptive tactics to distribute malicious installers disguised as legitimate files related to Brazil's electronic invoice system, NF-e.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134127</guid>
       <pubDate>Thu, 08 May 2025 14:07:11 +0000</pubDate>
     </item>
@@ -32,21 +46,28 @@
     <item>
       <title>Guess Which Browser Tops the List for Data Collection!</title>
       <link>https://gbhackers.com/which-browser-tops-the-list-for-data-collection/</link>
-      <description>FYSA: Google Chrome has emerged as the most data-intensive web browser among 10 popular browsers, collecting 20 different types of user data, including personal contact information, financial details, location data, and browsing history. Its dominance in the market, with a combined 90% share with Safari, raises concerns about users' privacy and highlights the need for evaluation of browser choices to prioritize security.</description>
+      <description>Google Chrome has emerged as the most data-intensive web browser among 10 popular browsers, collecting 20 different types of user data, including personal contact information, financial details, location data, and browsing history. Its dominance in the market, with a combined 90% share with Safari, raises concerns about users' privacy and highlights the need for evaluation of browser choices to prioritize security.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134093</guid>
       <pubDate>Thu, 08 May 2025 13:59:28 +0000</pubDate>
     </item>
     <item>
+      <title>SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root</title>
+      <link>https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html</link>
+      <description>Vulnerable Product: SonicWall SMA 100; CVE(s): CVE-2025-32819, CVE-2025-32820, CVE-2025-32821; Summary: A remote authenticated attacker can chain these vulnerabilities to elevate privileges, make a sensitive system directory writable, and write an executable file to a system directory, resulting in root-level remote code execution.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html</guid>
+      <pubDate>Thu, 08 May 2025 13:56:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware</title>
       <link>https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html</link>
-      <description>FYSA: Threat actors with ties to Qilin ransomware family have leveraged malware SmokeLoader and a previously undocumented .NET compiled loader, NETXLOADER, as part of a campaign observed in November 2024. The loaders are used to deploy additional malicious payloads, including Agenda ransomware, and are protected by .NET Reactor version 6.</description>
+      <description>Threat actors with ties to Qilin ransomware family have leveraged malware SmokeLoader and a previously undocumented .NET compiled loader, NETXLOADER, as part of a campaign observed in November 2024. The loaders are used to deploy additional malicious payloads, including Agenda ransomware, and are protected by .NET Reactor version 6.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html</guid>
       <pubDate>Thu, 08 May 2025 13:47:00 +0000</pubDate>
     </item>
     <item>
       <title>DOGE Big Balls Ransomware Leverages Open-Source Tools and Custom Scripts for Multi-Stage Attacks</title>
       <link>https://gbhackers.com/doge-big-balls-ransomware-leverages-open-source-tools/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: The article describes a highly complex ransomware variant called "DOGE Big Balls," which incorporates political statements and taunts in its payloads. The ransomware's infection chain utilizes custom PowerShell scripts, open-source tools, vulnerable driver exploits, and red team frameworks, with frequent updates to evade detection.</description>
+      <description>The article describes a highly complex ransomware variant called "DOGE Big Balls," which incorporates political statements and taunts in its payloads. The ransomware's infection chain utilizes custom PowerShell scripts, open-source tools, vulnerable driver exploits, and red team frameworks, with frequent updates to evade detection.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134034</guid>
       <pubDate>Thu, 08 May 2025 13:44:51 +0000</pubDate>
     </item>
@@ -60,28 +81,28 @@
     <item>
       <title>Ransomware-as-a-Service (RaaS) Emerges as a Leading Framework for Cyberattacks</title>
       <link>https://gbhackers.com/raas-emerges-as-a-leading-framework/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: This article discusses the rise of Ransomware-as-a-Service (RaaS) frameworks, which have enabled even less-skilled actors to orchestrate sophisticated attacks. The article highlights the shift towards cross-platform attacks, data exfiltration, and double or triple extortion tactics, as well as the increase in average ransom demands.</description>
+      <description>This article discusses the rise of Ransomware-as-a-Service (RaaS) frameworks, which have enabled even less-skilled actors to orchestrate sophisticated attacks. The article highlights the shift towards cross-platform attacks, data exfiltration, and double or triple extortion tactics, as well as the increase in average ransom demands.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133995</guid>
       <pubDate>Thu, 08 May 2025 13:37:55 +0000</pubDate>
     </item>
     <item>
       <title>Iranian Hackers Posing as Model Agency to Target Victims</title>
       <link>https://gbhackers.com/iranian-hackers-posing-as-model-agency/</link>
-      <description>FYSA: Unit 42 has exposed a covert operation likely orchestrated by Iranian cyber actors that involves a fraudulent website designed to impersonate the Hamburg-based Mega Model Agency, with malicious JavaScript code aimed at harvesting detailed visitor data. The campaign suggests preparation for targeted social engineering and potentially aims to harvest credentials or deliver malware to specific victims.</description>
+      <description>Unit 42 has exposed a covert operation likely orchestrated by Iranian cyber actors that involves a fraudulent website designed to impersonate the Hamburg-based Mega Model Agency, with malicious JavaScript code aimed at harvesting detailed visitor data. The campaign suggests preparation for targeted social engineering and potentially aims to harvest credentials or deliver malware to specific victims.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134012</guid>
       <pubDate>Thu, 08 May 2025 13:28:43 +0000</pubDate>
     </item>
     <item>
       <title>Russian COLDRIVER Hackers Deploy LOSTKEYS Malware to Steal Sensitive Information</title>
       <link>https://gbhackers.com/russian-coldriver-hackers-deploy-lostkeys-malware/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: The article discusses a sophisticated malware called LOSTKEYS, attributed to the Russian government-backed threat actor COLDRIVER. The malware is designed to exfiltrate files and harvest system information from targeted individuals and organizations, particularly those linked to Ukraine or Western governments. It uses a complex multi-stage infection chain, including CAPTCHA lures and PowerShell code execution, to evade detection and analysis.</description>
+      <description>The article discusses a sophisticated malware called LOSTKEYS, attributed to the Russian government-backed threat actor COLDRIVER. The malware is designed to exfiltrate files and harvest system information from targeted individuals and organizations, particularly those linked to Ukraine or Western governments. It uses a complex multi-stage infection chain, including CAPTCHA lures and PowerShell code execution, to evade detection and analysis.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133897</guid>
       <pubDate>Thu, 08 May 2025 13:21:34 +0000</pubDate>
     </item>
     <item>
       <title>AI-Driven Fake Vulnerability Reports Flooding Bug Bounty Platforms</title>
       <link>https://gbhackers.com/ai-driven-fake-vulnerability-reports/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: AI-generated bogus vulnerability reports, or "AI slop," are flooding bug bounty platforms, mimicking technical jargon convincingly enough to pass initial scrutiny but crumble under expert analysis. These fraudulent submissions rely on systemic vulnerabilities within bug bounty programs and can erode trust, divert resources from addressing genuine vulnerabilities, and potentially dismantle the bug bounty model.</description>
+      <description>AI-generated bogus vulnerability reports, or "AI slop," are flooding bug bounty platforms, mimicking technical jargon convincingly enough to pass initial scrutiny but crumble under expert analysis. These fraudulent submissions rely on systemic vulnerabilities within bug bounty programs and can erode trust, divert resources from addressing genuine vulnerabilities, and potentially dismantle the bug bounty model.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133927</guid>
       <pubDate>Thu, 08 May 2025 13:08:40 +0000</pubDate>
     </item>
@@ -107,6 +128,15 @@
       <pubDate>Thu, 08 May 2025 12:00:51 +0000</pubDate>
     </item>
     <item>
+      <title>Severe Vulnerabilities in Cisco &amp; SonicWall Expose Systems to RCE, DoS, and More: Patch Now</title>
+      <link>https://socradar.io/cisco-sonicwall-expose-systems-to-rce-dos-and-more/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188, CVE-2025-32433; Summary: A series of critical and high-severity vulnerabilities were disclosed in Cisco's latest advisories, affecting key network infrastructure and security appliances. The vulnerabilities include unauthenticated Remote Code Execution (RCE) flaws, privilege escalation paths, command injection issues, and other impactful bugs that threaten system integrity and availability.
+
+FYSA: Several prominent platforms are affected by the vulnerabilities, including Catalyst 9800-CL Wireless Controllers, Catalyst 9800 Embedded Wireless Controllers for 9300, 9400, and 9500 switches, and Embedded Wireless Controllers on Catalyst Access Points.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100059872</guid>
+      <pubDate>Thu, 08 May 2025 11:35:13 +0000</pubDate>
+    </item>
+    <item>
       <title>SonicWall urges admins to patch VPN flaw exploited in attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/</link>
       <description>Vulnerable Product: SonicWall Secure Mobile Access (SMA) appliances; CVE(s): CVE-2025-32819, CVE-2025-32820, and CVE-2025-32821; Summary: The three security flaws can be chained by attackers to gain remote code execution as root and compromise vulnerable instances. Successful exploitation of the first vulnerability allows threat actors to delete the primary SQLite database, reset the password of the default SMA admin user, and log in as admin to the SMA web interface.</description>
@@ -114,23 +144,30 @@
       <pubDate>Thu, 08 May 2025 11:19:58 +0000</pubDate>
     </item>
     <item>
+      <title>LockBit Hacked: 60,000 Bitcoin Addresses Leaked</title>
+      <link>https://socradar.io/lockbit-hacked-60000-bitcoin-addresses-leaked/</link>
+      <description>Vulnerable Product: N/A; CVE(s): CVE-2024-4577; Summary: The article reports that a vulnerability in PHP 8.1.2 (CVE-2024-4577) may have been used as an entry point for the attack on LockBit's Dark Web panel, allowing hackers to run code remotely and deface the site.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100059861</guid>
+      <pubDate>Thu, 08 May 2025 11:12:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Security Tools Alone Don't Protect You — Control Effectiveness Does</title>
       <link>https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html</link>
-      <description>FYSA: According to the Gartner report, misconfiguration of technical security controls is a leading cause for the continued success of attacks. Organizations are beginning to understand that having an average of 43 cybersecurity tools in place does not necessarily mean they have effective security controls. The article discusses the importance of continuous validation and tuning of security tools to ensure their effectiveness.</description>
+      <description>According to the Gartner report, misconfiguration of technical security controls is a leading cause for the continued success of attacks. Organizations are beginning to understand that having an average of 43 cybersecurity tools in place does not necessarily mean they have effective security controls. The article discusses the importance of continuous validation and tuning of security tools to ensure their effectiveness.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html</guid>
       <pubDate>Thu, 08 May 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware</title>
       <link>https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html</link>
-      <description>FYSA: The nation-state threat actor "MirrorFace" (also known as Earth Kasha) has been observed deploying malware called ROAMINGMOUSE as part of a cyber espionage campaign directed against government agencies and public institutions in Japan and Taiwan. The attack starts with spear-phishing emails that deliver a ZIP file containing a malware-laced Excel document, which is then used to launch the ANEL backdoor.</description>
+      <description>The nation-state threat actor "MirrorFace" (also known as Earth Kasha) has been observed deploying malware called ROAMINGMOUSE as part of a cyber espionage campaign directed against government agencies and public institutions in Japan and Taiwan. The attack starts with spear-phishing emails that deliver a ZIP file containing a malware-laced Excel document, which is then used to launch the ANEL backdoor.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html</guid>
       <pubDate>Thu, 08 May 2025 10:32:00 +0000</pubDate>
     </item>
     <item>
       <title>Spam campaign targeting Brazil abuses Remote Monitoring and Management tools</title>
       <link>https://blog.talosintelligence.com/spam-campaign-targeting-brazil-abuses-rmm-tools/</link>
-      <description>FYSA: Cisco Talos identified a spam campaign targeting Brazilian users with commercial remote monitoring and management (RMM) tools since at least January 2025. The campaign uses the Brazilian electronic invoice system, NF-e, as a lure to entice users into clicking hyperlinks and accessing malicious content hosted in Dropbox.</description>
+      <description>Cisco Talos identified a spam campaign targeting Brazilian users with commercial remote monitoring and management (RMM) tools since at least January 2025. The campaign uses the Brazilian electronic invoice system, NF-e, as a lure to entice users into clicking hyperlinks and accessing malicious content hosted in Dropbox.</description>
       <guid isPermaLink="false">6818d82110aae200012af087</guid>
       <pubDate>Thu, 08 May 2025 10:00:43 +0000</pubDate>
     </item>
@@ -144,21 +181,21 @@
     <item>
       <title>OpenCTI: Free Cyber Threat Intelligence Platform for Security Experts</title>
       <link>https://gbhackers.com/opencti-free-cyber-threat-intelligence-platform/</link>
-      <description>FYSA: The article discusses OpenCTI, a free and open-source platform for managing and analyzing cybersecurity threat intelligence. It provides robust capabilities for structuring, storing, and visualizing technical and non-technical information, including integrations with popular tools like MISP, TheHive, and MITRE ATT&amp;CK.</description>
+      <description>The article discusses OpenCTI, a free and open-source platform for managing and analyzing cybersecurity threat intelligence. It provides robust capabilities for structuring, storing, and visualizing technical and non-technical information, including integrations with popular tools like MISP, TheHive, and MITRE ATT&amp;CK.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133987</guid>
       <pubDate>Thu, 08 May 2025 08:10:23 +0000</pubDate>
     </item>
     <item>
       <title>Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware</title>
       <link>https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: The article discusses a new malware called LOSTKEYS, attributed to the Russia-linked threat actor COLDRIVER. LOSTKEYS is capable of stealing files from a hard-coded list of extensions and directories, as well as sending system information and running processes to the attacker. The malware was observed in attacks on current and former advisors to Western governments and militaries, journalists, think tanks, and NGOs.</description>
+      <description>The article discusses a new malware called LOSTKEYS, attributed to the Russia-linked threat actor COLDRIVER. LOSTKEYS is capable of stealing files from a hard-coded list of extensions and directories, as well as sending system information and running processes to the attacker. The malware was observed in attacks on current and former advisors to Western governments and militaries, journalists, think tanks, and NGOs.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html</guid>
       <pubDate>Thu, 08 May 2025 06:57:00 +0000</pubDate>
     </item>
     <item>
       <title>LockBit Ransomware Group Breached: Internal Chats and Data Leaked Online</title>
       <link>https://gbhackers.com/lockbit-ransomware-group-breached/</link>
-      <description>FYSA: LockBit ransomware group, once considered one of the world's most prolific cyber extortion rings, has been breached by attackers, leading to the leak of operational data and internal chats. The exposed database includes sensitive information such as Bitcoin wallet addresses, negotiation chat logs, and plaintext passwords for 75 LockBit administrators and affiliates.</description>
+      <description>LockBit ransomware group, once considered one of the world's most prolific cyber extortion rings, has been breached by attackers, leading to the leak of operational data and internal chats. The exposed database includes sensitive information such as Bitcoin wallet addresses, negotiation chat logs, and plaintext passwords for 75 LockBit administrators and affiliates.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133883</guid>
       <pubDate>Thu, 08 May 2025 05:49:26 +0000</pubDate>
     </item>
@@ -201,7 +238,7 @@ However, one could argue that the rapid growth and investment in China's AI sect
     <item>
       <title>Pakistani Firm Shipped Fentanyl Analogs, Scams to US</title>
       <link>https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/</link>
-      <description>FYSA: This article appears to be an investigative report on a network of ghostwriting, logo design, and academic cheating services that are allegedly scamming individuals out of thousands of dollars. The report details the connections between various companies and individuals involved in these operations, including their use of Google Ads to promote their services. The article also discusses the difficulties faced by victims who attempt to seek justice through legal means.</description>
+      <description>This article appears to be an investigative report on a network of ghostwriting, logo design, and academic cheating services that are allegedly scamming individuals out of thousands of dollars. The report details the connections between various companies and individuals involved in these operations, including their use of Google Ads to promote their services. The article also discusses the difficulties faced by victims who attempt to seek justice through legal means.</description>
       <guid isPermaLink="false">https://krebsonsecurity.com/?p=70782</guid>
       <pubDate>Wed, 07 May 2025 22:22:48 +0000</pubDate>
     </item>
@@ -215,7 +252,7 @@ However, one could argue that the rapid growth and investment in China's AI sect
     <item>
       <title>We have reached the “severed fingers and abductions” stage of the crypto revolution</title>
       <link>https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/</link>
-      <description>Summary: No vulnerability mentioned; article discusses instances of physical violence and intimidation used by criminals to steal cryptocurrency assets from victims, highlighting the risks associated with publicly displaying one's wealth online.</description>
+      <description>No vulnerability mentioned; article discusses instances of physical violence and intimidation used by criminals to steal cryptocurrency assets from victims, highlighting the risks associated with publicly displaying one's wealth online.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/</guid>
       <pubDate>Wed, 07 May 2025 20:01:22 +0000</pubDate>
     </item>
@@ -229,7 +266,7 @@ However, one could argue that the rapid growth and investment in China's AI sect
     <item>
       <title>CoGUI phishing platform sent 580 million emails to steal credentials</title>
       <link>https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: A new phishing kit named CoGUI has been detected, sending over 580 million emails to targets between January and April 2025, aiming to steal account credentials and payment data. The kit impersonates major brands and uses a unique redirection system to target specific victims.</description>
+      <description>A new phishing kit named CoGUI has been detected, sending over 580 million emails to targets between January and April 2025, aiming to steal account credentials and payment data. The kit impersonates major brands and uses a unique redirection system to target specific victims.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/</guid>
       <pubDate>Wed, 07 May 2025 18:02:16 +0000</pubDate>
     </item>
@@ -243,7 +280,7 @@ However, one could argue that the rapid growth and investment in China's AI sect
     <item>
       <title>Top Ransomware Groups Target Financial Sector, 406 Incidents Revealed</title>
       <link>https://gbhackers.com/top-ransomware-groups-target-financial-sector/</link>
-      <description>Summary: Flashpoint analysts report that the financial sector has been heavily targeted by cyber threat actors between April 2024 and April 2025, with ransomware attacks being a significant portion. The sector's vulnerability to these attacks is due to its management of sensitive data and deep interconnectivity with other industries, making it a gateway for cascading breaches.</description>
+      <description>Flashpoint analysts report that the financial sector has been heavily targeted by cyber threat actors between April 2024 and April 2025, with ransomware attacks being a significant portion. The sector's vulnerability to these attacks is due to its management of sensitive data and deep interconnectivity with other industries, making it a gateway for cascading breaches.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133787</guid>
       <pubDate>Wed, 07 May 2025 14:46:47 +0000</pubDate>
     </item>
@@ -257,7 +294,7 @@ However, one could argue that the rapid growth and investment in China's AI sect
     <item>
       <title>Agenda Ransomware Group Enhances Tactics with SmokeLoader and NETXLOADER</title>
       <link>https://gbhackers.com/agenda-ransomware-group-enhances-tactics/</link>
-      <description>Summary: The Agenda ransomware group has been reported to intensify its attacks in the first quarter of 2025, targeting critical sectors like healthcare, technology, financial services, and telecommunications across several countries. The group has evolved its arsenal by integrating a newly identified .NET-based loader named NETXLOADER alongside the notorious SmokeLoader, which employs sophisticated obfuscation techniques and dynamic API calls to bypass traditional detection mechanisms.</description>
+      <description>The Agenda ransomware group has been reported to intensify its attacks in the first quarter of 2025, targeting critical sectors like healthcare, technology, financial services, and telecommunications across several countries. The group has evolved its arsenal by integrating a newly identified .NET-based loader named NETXLOADER alongside the notorious SmokeLoader, which employs sophisticated obfuscation techniques and dynamic API calls to bypass traditional detection mechanisms.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133760</guid>
       <pubDate>Wed, 07 May 2025 14:33:47 +0000</pubDate>
     </item>
@@ -271,21 +308,21 @@ However, one could argue that the rapid growth and investment in China's AI sect
     <item>
       <title>Doubling down: How Universal 2nd Factor (U2F) boosts online security</title>
       <link>https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/</link>
-      <description>Summary: The article discusses the importance of online authentication, highlighting the limitations of using passwords alone and introducing Universal 2nd Factor (U2F) as a complementary method to enhance user safety. It outlines the benefits of U2F, including stronger security, user convenience, and wide availability, but also mentions potential challenges such as cost, education requirements, and physical risks associated with hardware tokens. The article concludes that while U2F is an emerging technology, it will be crucial in complementing password security in the future, with a focus on shoring up organizational password security.</description>
+      <description>The article discusses the importance of online authentication, highlighting the limitations of using passwords alone and introducing Universal 2nd Factor (U2F) as a complementary method to enhance user safety. It outlines the benefits of U2F, including stronger security, user convenience, and wide availability, but also mentions potential challenges such as cost, education requirements, and physical risks associated with hardware tokens. The article concludes that while U2F is an emerging technology, it will be crucial in complementing password security in the future, with a focus on shoring up organizational password security.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/</guid>
       <pubDate>Wed, 07 May 2025 14:02:12 +0000</pubDate>
     </item>
     <item>
       <title>Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks</title>
       <link>https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: This article is not about a vulnerability. It appears to be a report on a law enforcement operation that took down several distributed denial of service (DDoS)-for-hire services, including arresting individuals and seizing domains associated with the platforms.</description>
+      <description>This article is not about a vulnerability. It appears to be a report on a law enforcement operation that took down several distributed denial of service (DDoS)-for-hire services, including arresting individuals and seizing domains associated with the platforms.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html</guid>
       <pubDate>Wed, 07 May 2025 13:54:00 +0000</pubDate>
     </item>
     <item>
       <title>SpyCloud Analysis Reveals 94% of Fortune 50 Companies Have Employee Data Exposed in Phishing Attacks</title>
       <link>https://gbhackers.com/spycloud-analysis-reveals-94-of-fortune-50-companies-have-employee-data-exposed-in-phishing-attacks/</link>
-      <description>Summary: SpyCloud's analysis of nearly 6 million phished data records reveals growing phishing attacks targeting high-value identity data, with key findings including the exposure of employee identity data at Fortune 50 companies, impersonated industries in phishing campaigns, and the importance of ongoing security awareness training and visibility into exposed identity data to prevent broader cyberattacks.</description>
+      <description>SpyCloud's analysis of nearly 6 million phished data records reveals growing phishing attacks targeting high-value identity data, with key findings including the exposure of employee identity data at Fortune 50 companies, impersonated industries in phishing campaigns, and the importance of ongoing security awareness training and visibility into exposed identity data to prevent broader cyberattacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133810</guid>
       <pubDate>Wed, 07 May 2025 13:46:13 +0000</pubDate>
     </item>
@@ -299,14 +336,21 @@ However, one could argue that the rapid growth and investment in China's AI sect
     <item>
       <title>Medical device maker Masimo warns of cyberattack, manufacturing delays</title>
       <link>https://www.bleepingcomputer.com/news/security/medical-device-maker-masimo-warns-of-cyberattack-manufacturing-delays/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: Masimo Corporation, a medical device company, has disclosed a cybersecurity incident that has impacted its production operations and caused delays in fulfilling customer orders. The attack is believed to have occurred on April 27, 2025, and the company has isolated affected systems to prevent further compromise.</description>
+      <description>Masimo Corporation, a medical device company, has disclosed a cybersecurity incident that has impacted its production operations and caused delays in fulfilling customer orders. The attack is believed to have occurred on April 27, 2025, and the company has isolated affected systems to prevent further compromise.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/medical-device-maker-masimo-warns-of-cyberattack-manufacturing-delays/</guid>
       <pubDate>Wed, 07 May 2025 13:39:33 +0000</pubDate>
     </item>
     <item>
+      <title>Germany Under Cyber Siege: Key Insights from Our Latest Threat Landscape Report</title>
+      <link>https://socradar.io/germany-key-insights-from-threat-landscape-report/</link>
+      <description>FYSA: Germany is a top target for cybercriminals, with over 74% of dark web activity specifically targeting German organizations. The report highlights the country's exposure to ransomware attacks, which are often part of global campaigns, as well as phishing and stealer malware attacks that have exposed approximately 900 thousand credentials.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100059842</guid>
+      <pubDate>Wed, 07 May 2025 13:39:20 +0000</pubDate>
+    </item>
+    <item>
       <title>CISA warns of hackers targeting critical oil infrastructure</title>
       <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-targeting-critical-oil-infrastructure/</link>
-      <description>Summary: CISA warned critical infrastructure organizations of "unsophisticated" threat actors actively targeting the U.S. oil and natural gas sectors, highlighting the potential for significant impact including physical damage and disruptions. The agency advised network defenders to reduce risk by removing public-facing OT devices from the internet, changing default passwords, securing remote access, and segmenting IT and OT networks.</description>
+      <description>CISA warned critical infrastructure organizations of "unsophisticated" threat actors actively targeting the U.S. oil and natural gas sectors, highlighting the potential for significant impact including physical damage and disruptions. The agency advised network defenders to reduce risk by removing public-facing OT devices from the internet, changing default passwords, securing remote access, and segmenting IT and OT networks.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-targeting-critical-oil-infrastructure/</guid>
       <pubDate>Wed, 07 May 2025 13:17:39 +0000</pubDate>
     </item>
@@ -325,48 +369,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: Apache Parquet; CVE(s): CVE-2025-30065; Summary: The Apache Parquet Java library's parquet-avro Maven module contains a vulnerability that permits unrestricted Java class references for string parameter coercion, allowing attackers to instantiate arbitrary Java classes with side effects. While full remote code execution is not possible, the risk remains significant for servers that can be coerced into instantiating classes with side effects. The F5 Labs "canary exploit" tool was developed to safely test for the vulnerability without causing unintended harm.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133748</guid>
       <pubDate>Wed, 07 May 2025 12:22:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Healthcare Sector Becomes a Major Target for Cyber Attacks in 2025</title>
-      <link>https://gbhackers.com/healthcare-sector-becomes-a-major-target-for-cyber-attacks/</link>
-      <description>Summary: The healthcare sector has emerged as a prime target for cyber attackers, driven by the increasing reliance on cloud applications and the rapid integration of generative AI (genAI) tools into organizational workflows. The report highlights the surge in malware delivery via cloud apps, mishandling of regulated data, and new vectors for data exposure introduced by genAI. It emphasizes the need for robust threat protection mechanisms, Data Loss Prevention (DLP), and implementing Remote Browser Isolation (RBI) technology to mitigate these evolving threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133725</guid>
-      <pubDate>Wed, 07 May 2025 12:08:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/07/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: GeoVision Devices; CVE(s): CVE-2024-6047, CVE-2024-11120; Summary: The vulnerability is an OS command injection vulnerability that allows malicious cyber actors to execute arbitrary commands on affected devices. This type of vulnerability poses significant risks to the federal enterprise and can be exploited by attackers.</description>
-      <guid isPermaLink="false">/node/23326</guid>
-      <pubDate>Wed, 07 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SysAid ITSM Vulnerabilities Enables Pre-Auth Remote Command Execution</title>
-      <link>https://gbhackers.com/sysaid-itsm-vulnerabilities/</link>
-      <description>Vulnerable Product: SysAid ITSM's On-Premise solution; CVE(s): CVE-2025-2775, CVE-2025-2776, CVE-2025-2777; Summary: A chain of critical vulnerabilities in SysAid ITSM's On-Premise solution allows unauthenticated attackers to execute remote commands by exploiting three pre-auth XML External Entity (XXE) injection flaws, enabling Remote Command Execution (RCE) as the privileged SYSTEM user on Windows servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133742</guid>
-      <pubDate>Wed, 07 May 2025 11:40:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version</title>
-      <link>https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html</link>
-      <description>Vulnerable Product: SysAid; CVE(s): CVE-2025-2775, CVE-2025-2776, CVE-2025-2777; Summary: The on-premise version of SysAid IT support software has multiple XML External Entity (XXE) injection vulnerabilities that can be exploited to achieve pre-authenticated remote code execution with elevated privileges. The flaws, tracked as CVE-2025-2775, CVE-2025-2776, and CVE-2025-2777, allow attackers to inject unsafe XML entities into the web application, enabling SSRF attacks and potentially remote code execution.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html</guid>
-      <pubDate>Wed, 07 May 2025 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Cyber Threats to Oil and Gas SCADA and ICS Networks</title>
-      <link>https://gbhackers.com/cisa-warns-scada-and-ics-networks/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: The Cybersecurity and Infrastructure Security Agency (CISA) has issued an alert warning critical infrastructure operators of emerging cyber threats targeting Supervisory Control and Data Acquisition (SCADA) and Industrial Control Systems (ICS) networks. The attacks are often basic in nature, exploiting well-known vulnerabilities and poor cyber hygiene among asset owners and operators.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133653</guid>
-      <pubDate>Wed, 07 May 2025 11:30:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police takes down six DDoS-for-hire services, arrests admins</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: The article reports on a law enforcement operation called Operation PowerOFF that resulted in the takedown of six DDoS-for-hire platforms and the arrest of four suspects. These platforms were used to launch thousands of cyberattacks worldwide, disrupting online services, servers, and websites.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/</guid>
-      <pubDate>Wed, 07 May 2025 11:23:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
