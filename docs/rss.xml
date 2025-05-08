@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 10:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 11:01:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Spam campaign targeting Brazil abuses Remote Monitoring and Management tools</title>
+      <link>https://blog.talosintelligence.com/spam-campaign-targeting-brazil-abuses-rmm-tools/</link>
+      <description>FYSA: Cisco Talos identified a spam campaign targeting Brazilian users with commercial remote monitoring and management (RMM) tools since at least January 2025. The campaign uses the Brazilian electronic invoice system, NF-e, as a lure to entice users into clicking hyperlinks and accessing malicious content hosted in Dropbox.</description>
+      <guid isPermaLink="false">6818d82110aae200012af087</guid>
+      <pubDate>Thu, 08 May 2025 10:00:43 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco IOS, XE, and XR Vulnerability Allows Remote Device Reboots</title>
       <link>https://gbhackers.com/cisco-ios-xe-and-xr-vulnerability/</link>
@@ -352,13 +359,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2024-27833; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari. User interaction is required, and the specific flaw exists within the B3 JIT compiler due to a lack of proper validation of user-supplied data that can result in an integer underflow.</description>
       <guid isPermaLink="false">ZDI-CAN-23795</guid>
       <pubDate>Wed, 07 May 2025 01:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-093: (Pwn2Own) Apple Safari Pointer Authentication Code Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-093/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2024-27834; Summary: This vulnerability allows remote attackers to bypass the Pointer Authentication Code protection mechanism on affected installations of Apple Safari, requiring user interaction. The specific flaw exists within the libpas allocator, allowing an attacker to execute arbitrary code in the context of the current user.</description>
-      <guid isPermaLink="false">ZDI-CAN-26551</guid>
-      <pubDate>Wed, 07 May 2025 01:51:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
