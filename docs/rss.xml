@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 05:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 10:02:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cisco IOS, XE, and XR Vulnerability Allows Remote Device Reboots</title>
+      <link>https://gbhackers.com/cisco-ios-xe-and-xr-vulnerability/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20154; Summary: The Cisco IOS, IOS XE, and IOS XR software contains a critical vulnerability that allows unauthenticated attackers to trigger denial-of-service (DoS) conditions by forcing devices to reboot remotely. The flaw stems from improper handling of Two-Way Active Measurement Protocol (TWAMP) control packets, which can cause full system reloads on IOS/IOS XE devices or crashes of the ipsla_ippm_server process on IOS XR devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134002</guid>
+      <pubDate>Thu, 08 May 2025 08:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenCTI: Free Cyber Threat Intelligence Platform for Security Experts</title>
+      <link>https://gbhackers.com/opencti-free-cyber-threat-intelligence-platform/</link>
+      <description>FYSA: The article discusses OpenCTI, a free and open-source platform for managing and analyzing cybersecurity threat intelligence. It provides robust capabilities for structuring, storing, and visualizing technical and non-technical information, including integrations with popular tools like MISP, TheHive, and MITRE ATT&amp;CK.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133987</guid>
+      <pubDate>Thu, 08 May 2025 08:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware</title>
+      <link>https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: The article discusses a new malware called LOSTKEYS, attributed to the Russia-linked threat actor COLDRIVER. LOSTKEYS is capable of stealing files from a hard-coded list of extensions and directories, as well as sending system information and running processes to the attacker. The malware was observed in attacks on current and former advisors to Western governments and militaries, journalists, think tanks, and NGOs.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html</guid>
+      <pubDate>Thu, 08 May 2025 06:57:00 +0000</pubDate>
+    </item>
     <item>
       <title>LockBit Ransomware Group Breached: Internal Chats and Data Leaked Online</title>
       <link>https://gbhackers.com/lockbit-ransomware-group-breached/</link>
@@ -338,27 +359,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2024-27834; Summary: This vulnerability allows remote attackers to bypass the Pointer Authentication Code protection mechanism on affected installations of Apple Safari, requiring user interaction. The specific flaw exists within the libpas allocator, allowing an attacker to execute arbitrary code in the context of the current user.</description>
       <guid isPermaLink="false">ZDI-CAN-26551</guid>
       <pubDate>Wed, 07 May 2025 01:51:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-094: Fortinet FortiWeb cgi_grpc_idl_file_post Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-094/</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2024-50567; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiWeb. Authentication is required to exploit this vulnerability, which exists within the cgi_grpc_idl_file_post function due to a lack of proper validation of user-supplied strings before executing system calls.</description>
-      <guid isPermaLink="false">ZDI-CAN-25182</guid>
-      <pubDate>Wed, 07 May 2025 01:50:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-095: Fortinet FortiWeb gui_upload_compress_act Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-095/</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2024-50569; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiWeb, requiring authentication. The issue exists within the gui_upload_compress_act function due to a lack of proper validation of user-supplied strings before executing system calls.</description>
-      <guid isPermaLink="false">ZDI-CAN-25180</guid>
-      <pubDate>Wed, 07 May 2025 01:50:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-096: PostHog slack_incoming_webhook Server-Side Request Forgery Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-096/</link>
-      <description>Vulnerable Product: PostHog, slack_incoming_webhook; CVE(s): CVE-2025-1521; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PostHog. Authentication is required to exploit this vulnerability, and the specific flaw exists within the processing of the slack_incoming_webhook parameter due to a lack of proper validation of a URI prior to accessing resources.</description>
-      <guid isPermaLink="false">ZDI-CAN-25352</guid>
-      <pubDate>Wed, 07 May 2025 01:50:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
