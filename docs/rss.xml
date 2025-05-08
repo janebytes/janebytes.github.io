@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 05:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 05:56:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>LockBit Ransomware Group Breached: Internal Chats and Data Leaked Online</title>
+      <link>https://gbhackers.com/lockbit-ransomware-group-breached/</link>
+      <description>FYSA: LockBit ransomware group, once considered one of the world's most prolific cyber extortion rings, has been breached by attackers, leading to the leak of operational data and internal chats. The exposed database includes sensitive information such as Bitcoin wallet addresses, negotiation chat logs, and plaintext passwords for 75 LockBit administrators and affiliates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133883</guid>
+      <pubDate>Thu, 08 May 2025 05:49:26 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco IOS XE Wireless Controllers Vulnerability Lets Attackers Seize Full Control</title>
       <link>https://gbhackers.com/cisco-ios-xe-wireless-controllers-vulnerability/</link>
       <description>Vulnerable Product: Cisco IOS XE Wireless LAN Controllers; CVE(s): CVE-2025-20188; Summary: A critical vulnerability in the Out-of-Band AP Image Download feature of Cisco IOS XE Software for WLCs allows unauthenticated remote attackers to gain full control of affected devices, enabling arbitrary file upload, path traversal, and execution of system commands as root.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133873</guid>
       <pubDate>Thu, 08 May 2025 05:19:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Patches CVE-2025-20188 (10.0 CVSS) in IOS XE That Enables Root Exploits via JWT</title>
+      <link>https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188; Summary: The vulnerability, tracked as CVE-2025-20188, is a maximum-severity flaw in Cisco's IOS XE Wireless Controller that allows an unauthenticated attacker to upload arbitrary files, perform path traversal, and execute arbitrary commands with root privileges. The feature must be enabled on the device for exploitation to occur; it is disabled by default.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html</guid>
+      <pubDate>Thu, 08 May 2025 04:57:00 +0000</pubDate>
     </item>
     <item>
       <title>LockBit ransomware gang hacked, victim negotiations exposed</title>
@@ -25,7 +39,7 @@
     <item>
       <title>Pakistani Firm Shipped Fentanyl Analogs, Scams to US</title>
       <link>https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/</link>
-      <description>Vulnerable Product: This article appears to be a report on a network of ghostwriting and academic cheating services that have been using Google Ads to promote their services, with an estimated spend of over $10 million between April 2023 and April 2025. The report highlights the fraudulent activities of these companies, including upselling, impersonation, and blackmail attempts.</description>
+      <description>FYSA: This article appears to be an investigative report on a network of ghostwriting, logo design, and academic cheating services that are allegedly scamming individuals out of thousands of dollars. The report details the connections between various companies and individuals involved in these operations, including their use of Google Ads to promote their services. The article also discusses the difficulties faced by victims who attempt to seek justice through legal means.</description>
       <guid isPermaLink="false">https://krebsonsecurity.com/?p=70782</guid>
       <pubDate>Wed, 07 May 2025 22:22:48 +0000</pubDate>
     </item>
@@ -345,20 +359,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: PostHog, slack_incoming_webhook; CVE(s): CVE-2025-1521; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PostHog. Authentication is required to exploit this vulnerability, and the specific flaw exists within the processing of the slack_incoming_webhook parameter due to a lack of proper validation of a URI prior to accessing resources.</description>
       <guid isPermaLink="false">ZDI-CAN-25352</guid>
       <pubDate>Wed, 07 May 2025 01:50:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-097: PostHog database_schema Server-Side Request Forgery Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-097/</link>
-      <description>Vulnerable Product: PostHog; CVE(s): CVE-2025-1522; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PostHog. Authentication is required to exploit this vulnerability, and it exists within the implementation of the database_schema method due to a lack of proper validation of a URI prior to accessing resources.</description>
-      <guid isPermaLink="false">ZDI-CAN-25358</guid>
-      <pubDate>Wed, 07 May 2025 01:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-098: Delta Electronics CNCSoft-G2 DPAX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-098/</link>
-      <description>Vulnerable Product: Delta Electronics CNCSoft-G2; CVE(s): CVE-2025-22880; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft-G2 by exploiting a heap-based buffer overflow in the parsing of DPAX files. User interaction is required, and the attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-25300</guid>
-      <pubDate>Wed, 07 May 2025 01:49:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
