@@ -6,8 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 21:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 01:50:17 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>LockBit ransomware gang hacked, victim negotiations exposed</title>
+      <link>https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/</link>
+      <description>Vulnerable Product: LockBit; CVE(s): None; Summary: The LockBit ransomware gang's dark web affiliate panels were defaced and replaced with a message linking to a MySQL database dump, containing sensitive information such as bitcoin addresses, build configurations, negotiation messages between the ransomware operation and victims, and plaintext passwords.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/</guid>
+      <pubDate>Thu, 08 May 2025 00:06:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pakistani Firm Shipped Fentanyl Analogs, Scams to US</title>
+      <link>https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/</link>
+      <description>**No malware or vulnerabilities identified**
+
+This article appears to be a investigative report about a network of ghostwriting, logo, app, and web development businesses that have been scamming individuals by offering fraudulent services. The report highlights the connections between these businesses and their involvement in various illegal activities such as academic cheating, impersonation, and blackmail.
+
+The article provides a detailed analysis of the companies involved, including Abtach, Octa Group Technologies, Talented Ghostwriter, Vox Ghostwriting, and others. It also includes quotes from individuals who have been scammed by these companies, as well as screenshots and conversations that demonstrate the extent of their fraudulent activities.
+
+While no malware or vulnerabilities are explicitly identified in this article, it is clear that the fraudulent activities described here are a form of social engineering attack, where individuals are targeted and manipulated into paying for services that do not deliver what they promise.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=70782</guid>
+      <pubDate>Wed, 07 May 2025 22:22:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp provides no cryptographic management for group messages</title>
+      <link>https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages/</link>
+      <description>Vulnerable Product: WhatsApp; CVE(s): None; Summary: WhatsApp's group chat feature allows users to add others to a group without verifying the user's identity, making it possible for unauthorized individuals to join groups and access sensitive information. This vulnerability can be exploited by malicious insiders or hackers with knowledge of WhatsApp infrastructure.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages/</guid>
+      <pubDate>Wed, 07 May 2025 22:04:58 +0000</pubDate>
+    </item>
     <item>
       <title>We have reached the “severed fingers and abductions” stage of the crypto revolution</title>
       <link>https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/</link>
@@ -338,27 +365,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: PostHog; CVE(s): CVE-2025-1520; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of PostHog. Authentication is required to exploit this vulnerability, and it occurs due to the lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
       <guid isPermaLink="false">ZDI-CAN-25350</guid>
       <pubDate>Wed, 07 May 2025 01:49:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-100: Linux Kernel ksmbd Session Setup Race Condition Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-100/</link>
-      <description>Vulnerable Product: Linux Kernel; CVE(s): ZDI-CAN-25737, None; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Linux Kernel. Authentication is not required to exploit this vulnerability, but only systems with ksmbd enabled are vulnerable. The specific flaw exists within the implementation of session setup due to a lack of proper locking when performing operations on an object.</description>
-      <guid isPermaLink="false">ZDI-CAN-25737</guid>
-      <pubDate>Wed, 07 May 2025 01:49:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-101: (0Day) Delta Electronics ISPSoft DVP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-101/</link>
-      <description>Vulnerable Product: Delta Electronics ISPSoft; CVE(s): ZDI-25-101, ZDI-CAN-25284; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics ISPSoft by exploiting an out-of-bounds write in the parsing of DVP files. User interaction is required, and the specific flaw exists within the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated data structure.</description>
-      <guid isPermaLink="false">ZDI-CAN-25284</guid>
-      <pubDate>Wed, 07 May 2025 01:49:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-102: (0Day) Delta Electronics ISPSoft DVP File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-102/</link>
-      <description>Vulnerable Product: Delta Electronics ISPSoft; CVE(s): ZDI-25-102, ZDI-CAN-25225; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics ISPSoft by exploiting a stack-based buffer overflow in the parsing of DVP files. User interaction is required to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-25225</guid>
-      <pubDate>Wed, 07 May 2025 01:49:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
