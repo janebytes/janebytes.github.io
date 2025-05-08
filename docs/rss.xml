@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 11:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 12:03:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cisco IOS XE Vulnerability Allows Attackers to Gain Elevated Privileges</title>
+      <link>https://gbhackers.com/cisco-ios-xe-vulnerability/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20197, CVE-2025-20198, CVE-2025-20199, among others; Summary: The IOS XE Software has multiple privilege escalation vulnerabilities that could allow attackers with existing high-level device access to gain root privileges, jeopardizing enterprise networks. Insufficient input validation in the command-line interface (CLI) of IOS XE Software enables attackers to supply crafted input and escalate their privileges to root on the underlying system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134088</guid>
+      <pubDate>Thu, 08 May 2025 12:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall urges admins to patch VPN flaw exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/</link>
+      <description>Vulnerable Product: SonicWall Secure Mobile Access (SMA) appliances; CVE(s): CVE-2025-32819, CVE-2025-32820, and CVE-2025-32821; Summary: The three security flaws can be chained by attackers to gain remote code execution as root and compromise vulnerable instances. Successful exploitation of the first vulnerability allows threat actors to delete the primary SQLite database, reset the password of the default SMA admin user, and log in as admin to the SMA web interface.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/</guid>
+      <pubDate>Thu, 08 May 2025 11:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Tools Alone Don't Protect You — Control Effectiveness Does</title>
+      <link>https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html</link>
+      <description>FYSA: According to the Gartner report, misconfiguration of technical security controls is a leading cause for the continued success of attacks. Organizations are beginning to understand that having an average of 43 cybersecurity tools in place does not necessarily mean they have effective security controls. The article discusses the importance of continuous validation and tuning of security tools to ensure their effectiveness.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html</guid>
+      <pubDate>Thu, 08 May 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware</title>
+      <link>https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html</link>
+      <description>FYSA: The nation-state threat actor "MirrorFace" (also known as Earth Kasha) has been observed deploying malware called ROAMINGMOUSE as part of a cyber espionage campaign directed against government agencies and public institutions in Japan and Taiwan. The attack starts with spear-phishing emails that deliver a ZIP file containing a malware-laced Excel document, which is then used to launch the ANEL backdoor.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html</guid>
+      <pubDate>Thu, 08 May 2025 10:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spam campaign targeting Brazil abuses Remote Monitoring and Management tools</title>
       <link>https://blog.talosintelligence.com/spam-campaign-targeting-brazil-abuses-rmm-tools/</link>
@@ -331,34 +359,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: mySCADA myPRO; CVE(s): CVE-2025-20061; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of mySCADA myPRO without authentication. The flaw exists within the web service, which listens on TCP port 34022 by default, due to a lack of proper validation of user-supplied strings before using them to execute system calls. An attacker can leverage this vulnerability to execute code in the context of root.</description>
       <guid isPermaLink="false">ZDI-CAN-24784</guid>
       <pubDate>Wed, 07 May 2025 01:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-089: mySCADA myPRO Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-089/</link>
-      <description>Vulnerable Product: mySCADA myPRO; CVE(s): CVE-2025-20014; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of mySCADA myPRO, requiring no authentication. The issue exists within the web service and results from a lack of proper validation of user-supplied strings before executing system calls. An attacker can leverage this vulnerability to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-24785</guid>
-      <pubDate>Wed, 07 May 2025 01:51:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-090: Microsoft Edge UI Misrepresentation Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-090/</link>
-      <description>Vulnerable Product: Microsoft Edge; CVE(s): CVE-2025-21404; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Edge. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists in the way Microsoft Edge displays a warning about hazardous downloads, which can be misleadingly displayed as harmless.</description>
-      <guid isPermaLink="false">ZDI-CAN-25393</guid>
-      <pubDate>Wed, 07 May 2025 01:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-091: Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-091/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-21373; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by creating a symbolic link within the Windows Installer service, enabling deletion of arbitrary files and potential privilege escalation. An attacker must first obtain low-privileged code execution to exploit this flaw.</description>
-      <guid isPermaLink="false">ZDI-CAN-25761</guid>
-      <pubDate>Wed, 07 May 2025 01:51:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-092: (Pwn2Own) Apple Safari B3 JIT Compiler Integer Underflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-092/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2024-27833; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari. User interaction is required, and the specific flaw exists within the B3 JIT compiler due to a lack of proper validation of user-supplied data that can result in an integer underflow.</description>
-      <guid isPermaLink="false">ZDI-CAN-23795</guid>
-      <pubDate>Wed, 07 May 2025 01:51:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
