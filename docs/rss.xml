@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 05:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 05:26:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cisco IOS XE Wireless Controllers Vulnerability Lets Attackers Seize Full Control</title>
+      <link>https://gbhackers.com/cisco-ios-xe-wireless-controllers-vulnerability/</link>
+      <description>Vulnerable Product: Cisco IOS XE Wireless LAN Controllers; CVE(s): CVE-2025-20188; Summary: A critical vulnerability in the Out-of-Band AP Image Download feature of Cisco IOS XE Software for WLCs allows unauthenticated remote attackers to gain full control of affected devices, enabling arbitrary file upload, path traversal, and execution of system commands as root.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133873</guid>
+      <pubDate>Thu, 08 May 2025 05:19:39 +0000</pubDate>
+    </item>
     <item>
       <title>LockBit ransomware gang hacked, victim negotiations exposed</title>
       <link>https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/</link>
@@ -18,11 +25,7 @@
     <item>
       <title>Pakistani Firm Shipped Fentanyl Analogs, Scams to US</title>
       <link>https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/</link>
-      <description>Vulnerable Individuals and Businesses Scammed Out of Millions by Ghostwriting Network 
-
-&lt;a href="https://www.krebsonsecurity.com/2025/05/vulnerable-individuals-and-businesses-scammed-out-of-millions-by-ghostwriting-network/"&gt;Read the full story here&lt;/a&gt;
-
-The article highlights a sophisticated ghostwriting network that has been scammed millions of people and businesses over several years.</description>
+      <description>FYI: No cybersecurity analysis is conducted for this article. The provided text appears to be a news article discussing various online scams and fraudulent activities related to ghostwriting services, book publishing, web development, and academic cheating.</description>
       <guid isPermaLink="false">https://krebsonsecurity.com/?p=70782</guid>
       <pubDate>Wed, 07 May 2025 22:22:48 +0000</pubDate>
     </item>
@@ -356,13 +359,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: Delta Electronics CNCSoft-G2; CVE(s): CVE-2025-22880; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft-G2 by exploiting a heap-based buffer overflow in the parsing of DPAX files. User interaction is required, and the attacker can leverage this vulnerability to execute code in the context of the current process.</description>
       <guid isPermaLink="false">ZDI-CAN-25300</guid>
       <pubDate>Wed, 07 May 2025 01:49:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-099: PostHog ClickHouse Table Functions SQL Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-099/</link>
-      <description>Vulnerable Product: PostHog; CVE(s): CVE-2025-1520; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of PostHog. Authentication is required to exploit this vulnerability, and it occurs due to the lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
-      <guid isPermaLink="false">ZDI-CAN-25350</guid>
-      <pubDate>Wed, 07 May 2025 01:49:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
