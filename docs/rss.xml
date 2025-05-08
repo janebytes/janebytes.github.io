@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 05:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 05:04:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>LockBit ransomware gang hacked, victim negotiations exposed</title>
@@ -14,25 +14,6 @@
       <description>Vulnerable Product: MySQL; CVE(s): CVE-2024-4577; Summary: The vulnerability is a critical and actively exploited remote code execution flaw in PHP 8.1.2, which was running on the server that stored the LockBit ransomware gang's affiliate panel database. This vulnerability allows for remote code execution on servers.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/</guid>
       <pubDate>Thu, 08 May 2025 00:06:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistani Firm Shipped Fentanyl Analogs, Scams to US</title>
-      <link>https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/</link>
-      <description>**No cybersecurity concerns identified**
-
-The article appears to be a investigative journalism piece that exposes a network of ghostwriting, publishing, web design, and academic cheating services that are operating illegally. The report provides detailed information about the companies involved, their advertising activities on Google, and the harm they have caused to individuals who have used their services.
-
-From a cybersecurity perspective, there do not appear to be any specific concerns identified in this article. However, it is important to note that some of the companies mentioned may be engaging in illegal activities, such as identity theft or fraud, which could potentially compromise personal and financial information.
-
-**Recommendations**
-
-1. Law enforcement agencies should investigate these companies and take appropriate action against those found to be operating illegally.
-2. Google should continue to monitor its ad network for bad actors and take swift action to remove any ads that violate their policies.
-3. Individuals should be cautious when using online services, especially those that promise quick fixes or guaranteed results, as they may be scams.
-
-Overall, this article highlights the importance of staying vigilant and informed about illegal activities on the internet, and the need for law enforcement agencies and technology companies to work together to protect consumers.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=70782</guid>
-      <pubDate>Wed, 07 May 2025 22:22:48 +0000</pubDate>
     </item>
     <item>
       <title>WhatsApp provides no cryptographic management for group messages</title>
@@ -371,6 +352,13 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: PostHog; CVE(s): CVE-2025-1520; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of PostHog. Authentication is required to exploit this vulnerability, and it occurs due to the lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
       <guid isPermaLink="false">ZDI-CAN-25350</guid>
       <pubDate>Wed, 07 May 2025 01:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-100: Linux Kernel ksmbd Session Setup Race Condition Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-100/</link>
+      <description>Vulnerable Product: Linux Kernel; CVE(s): ZDI-CAN-25737, None; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Linux Kernel. Authentication is not required to exploit this vulnerability, but only systems with ksmbd enabled are vulnerable. The specific flaw exists within the implementation of session setup due to a lack of proper locking when performing operations on an object.</description>
+      <guid isPermaLink="false">ZDI-CAN-25737</guid>
+      <pubDate>Wed, 07 May 2025 01:49:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
