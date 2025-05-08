@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 14:16:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 15:01:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Turn the Tables: Scamming the Scammers in Telegram’s PigButchering Scheme</title>
+      <link>https://gbhackers.com/scamming-the-scammers-in-telegrams-pigbutchering-scheme/</link>
+      <description>FYSA: Cybersecurity researchers have developed an innovative approach to combat "PigButchering" scams on Telegram, which involves cultivating false relationships with victims and deceiving them at the opportune moment. The operation involved creating faux personas, executing a sting operation, gathering intelligence, and siphoning off funds from the scammers' wallets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134177</guid>
+      <pubDate>Thu, 08 May 2025 14:16:06 +0000</pubDate>
+    </item>
     <item>
       <title>New Spam Campaign Leverages Remote Monitoring Tools to Exploit Organizations</title>
       <link>https://gbhackers.com/new-spam-campaign-leverages-remote-monitoring-tools/</link>
@@ -360,13 +367,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: None; CVE(s): None; Summary: The article reports on a law enforcement operation called Operation PowerOFF that resulted in the takedown of six DDoS-for-hire platforms and the arrest of four suspects. These platforms were used to launch thousands of cyberattacks worldwide, disrupting online services, servers, and websites.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/</guid>
       <pubDate>Wed, 07 May 2025 11:23:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Company Gains Full Control Over Critical Open Source Easyjson Library</title>
-      <link>https://gbhackers.com/russian-company-gains-full-control-over/</link>
-      <description>Vulnerable Product: easyjson; CVE(s): None; Summary: The open source Go package easyjson, widely used for optimizing JSON serialization and deserialization, has been found to be fully controlled by developers based in Moscow, employed by VK Group (also known as Mail.ru), one of Russia's largest internet conglomerates. This raises concerns about the integrity of critical software dependencies like easyjson, given its widespread use across thousands of open source and enterprise projects, including Helm, Istio, and Kubernetes.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133709</guid>
-      <pubDate>Wed, 07 May 2025 11:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
