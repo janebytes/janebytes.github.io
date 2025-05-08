@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 14:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 14:16:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Spam Campaign Leverages Remote Monitoring Tools to Exploit Organizations</title>
+      <link>https://gbhackers.com/new-spam-campaign-leverages-remote-monitoring-tools/</link>
+      <description>FYSA: A sophisticated spam campaign targeting Portuguese-speaking users in Brazil has been uncovered by Cisco Talos, exploiting commercial remote monitoring and management (RMM) tools to gain unauthorized access to victims' systems. The attackers use deceptive tactics to distribute malicious installers disguised as legitimate files related to Brazil's electronic invoice system, NF-e.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134127</guid>
+      <pubDate>Thu, 08 May 2025 14:07:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Attack Exploits X/Twitter Ad URL Feature to Deceive Users</title>
+      <link>https://gbhackers.com/new-attack-exploits-x-twitter-ad-url-feature/</link>
+      <description>Vulnerable Product: Twitter; CVE(s): None; Summary: A vulnerability in Twitter's advertising display URL feature allows attackers to manipulate the platform's URL display mechanism, presenting a legitimate-looking link while redirecting users to a malicious cryptocurrency scam site. The exploit involves an inconsistent User Agent string and metadata retrieval process, allowing attackers to create a preview card that displays a trusted domain, masking the true, harmful landing page.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134075</guid>
+      <pubDate>Thu, 08 May 2025 14:02:37 +0000</pubDate>
+    </item>
     <item>
       <title>Guess Which Browser Tops the List for Data Collection!</title>
       <link>https://gbhackers.com/which-browser-tops-the-list-for-data-collection/</link>
@@ -353,20 +367,6 @@ FYSA: The article discusses several vulnerabilities across various platforms, in
       <description>Vulnerable Product: easyjson; CVE(s): None; Summary: The open source Go package easyjson, widely used for optimizing JSON serialization and deserialization, has been found to be fully controlled by developers based in Moscow, employed by VK Group (also known as Mail.ru), one of Russia's largest internet conglomerates. This raises concerns about the integrity of critical software dependencies like easyjson, given its widespread use across thousands of open source and enterprise projects, including Helm, Istio, and Kubernetes.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133709</guid>
       <pubDate>Wed, 07 May 2025 11:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reevaluating SSEs: A Technical Gap Analysis of Last-Mile Protection</title>
-      <link>https://thehackernews.com/2025/05/reevaluating-sses-technical-gap.html</link>
-      <description>Summary: Security Service Edge (SSE) platforms have a structural limitation, stopping short of providing visibility and control at the point of user interaction inside the browser. This gap leaves organizations exposed to attacks, data leaks, and identity misuse. To secure the last mile, browser-native security platforms are being used to provide real-time risk scoring, account-based policy enforcement, and monitoring and control of browser extensions.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/reevaluating-sses-technical-gap.html</guid>
-      <pubDate>Wed, 07 May 2025 10:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization</title>
-      <link>https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29824; Summary: The vulnerability is a privilege escalation flaw in the Common Log File System (CLFS) driver, patched by Microsoft last month. Threat actors exploited this zero-day to target an unnamed organization in the United States, using it as part of an attack that leveraged a public-facing Cisco Adaptive Security Appliance (ASA).</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html</guid>
-      <pubDate>Wed, 07 May 2025 10:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
