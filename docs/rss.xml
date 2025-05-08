@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 18:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 19:02:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Malicious PyPi package hides RAT malware, targets Discord devs since 2022</title>
+      <link>https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/</link>
+      <description>Vulnerable Product: None; CVE(s): None; Summary: A malicious Python package named "discordpydebug" was discovered on the Python Package Index (PyPI) after over three years. The package, which masqueraded as an error logger utility, could be used to backdoor Discord developers' systems and provide attackers with data theft and remote code execution capabilities, downloaded over 11,000 times since its upload in March 2022.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/</guid>
+      <pubDate>Thu, 08 May 2025 18:51:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOGE software engineer’s computer infected by info-stealing malware</title>
+      <link>https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/</link>
+      <description>The article discusses potential security lapses by the Department of Governmental Employee (DOGE) and CISA, including public exposure of sensitive information due to weak credentials and operational security gaffes. Critics suggest that the leaks may be intentional, potentially benefiting specific individuals or groups.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/</guid>
+      <pubDate>Thu, 08 May 2025 18:27:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The IT help desk kindly requests you read this newsletter</title>
+      <link>https://blog.talosintelligence.com/the-it-help-desk-kindly-requests-you-read-this-newsletter/</link>
+      <description>The article discusses the importance of being cautious when receiving instructions or requests from individuals claiming to be authorities, as attackers often impersonate authoritative figures to trick victims into taking actions that benefit the attackers. It also highlights the need for threat hunting and the use of different approaches to identify potential threats early on.</description>
+      <guid isPermaLink="false">681c9fb9f292a20001d3a4c1</guid>
+      <pubDate>Thu, 08 May 2025 18:01:48 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Vulnerability in Ubiquiti UniFi Protect Camera Allows Remote Code Execution by Attackers</title>
       <link>https://gbhackers.com/ubiquiti-unifi-vulnerability/</link>
@@ -348,27 +369,6 @@ However, one could argue that the rapid growth and investment in China's AI sect
       <description>No vulnerability mentioned; article discusses instances of physical violence and intimidation used by criminals to steal cryptocurrency assets from victims, highlighting the risks associated with publicly displaying one's wealth online.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/</guid>
       <pubDate>Wed, 07 May 2025 20:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>PowerSchool hacker now extorting individual school districts</title>
-      <link>https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/</link>
-      <description>Vulnerable Product: PowerSchool; CVE(s): None; Summary: The hacker behind the December 2024 cyberattack on PowerSchool is now individually extorting schools, threatening to release stolen student and teacher data if a ransom is not paid.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/</guid>
-      <pubDate>Wed, 07 May 2025 18:25:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoGUI phishing platform sent 580 million emails to steal credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/</link>
-      <description>A new phishing kit named CoGUI has been detected, sending over 580 million emails to targets between January and April 2025, aiming to steal account credentials and payment data. The kit impersonates major brands and uses a unique redirection system to target specific victims.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/</guid>
-      <pubDate>Wed, 07 May 2025 18:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers exploit OttoKit WordPress plugin flaw to add admin accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-ottokit-wordpress-plugin-flaw-to-add-admin-accounts/</link>
-      <description>Vulnerable Product: OttiKit; CVE(s): CVE-2025-27007; Summary: The OttoKit WordPress plugin contains a critical unauthenticated privilege escalation vulnerability (CVE-2025-27007) that allows attackers to create rogue admin accounts on targeted sites by exploiting a logic error in the 'create_wp_connection' function. The flaw can be exploited via the plugin's API by sending requests mimicking legitimate integration attempts, using guessed or brute-forced administrator usernames, random passwords, and fake access keys and email addresses.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-exploit-ottokit-wordpress-plugin-flaw-to-add-admin-accounts/</guid>
-      <pubDate>Wed, 07 May 2025 15:37:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
