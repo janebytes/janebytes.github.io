@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 20:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 21:02:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cisco fixes max severity IOS XE flaw letting attackers hijack devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188; Summary: The Cisco IOS XE Software for Wireless LAN Controllers has a hard-coded JSON Web Token (JWT) vulnerability that allows an unauthenticated remote attacker to take over devices, allowing uploads of files, path traversal, and execution of arbitrary commands with root privileges.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/</guid>
+      <pubDate>Thu, 08 May 2025 20:53:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Education giant Pearson hit by cyberattack exposing customer data</title>
+      <link>https://www.bleepingcomputer.com/news/security/education-giant-pearson-hit-by-cyberattack-exposing-customer-data/</link>
+      <description>Vulnerable Product: Pearson; CVE(s): None; Summary: Pearson suffered a cyberattack allowing threat actors to steal corporate data and customer information. The attack was carried out by compromising Pearson's developer environment through an exposed GitLab Personal Access Token (PAT) found in a public .git/config file, which gave attackers unauthorized access to internal repositories.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/education-giant-pearson-hit-by-cyberattack-exposing-customer-data/</guid>
+      <pubDate>Thu, 08 May 2025 20:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply chain attack hits npm package with 45,000 weekly downloads</title>
+      <link>https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/</link>
+      <description>Vulnerable Product: rand-user-agent; CVE(s): None; Summary: The rand-user-agent package was compromised in a supply chain attack to inject obfuscated code that activates a remote access trojan (RAT) on the user's system. The malicious versions generate a hidden directory, open a persistent socket connection to the attacker's C2 server, and allow commands such as file uploads and shell execution.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/</guid>
+      <pubDate>Thu, 08 May 2025 19:03:24 +0000</pubDate>
+    </item>
     <item>
       <title>Malicious PyPi package hides RAT malware, targets Discord devs since 2022</title>
       <link>https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/</link>
@@ -348,27 +369,6 @@ From a cybersecurity perspective, this report does not specifically discuss vuln
 However, one could argue that the rapid growth and investment in China's AI sector may potentially increase the risk of AI-powered cyberattacks or data breaches if security measures are not adequately implemented to protect against these threats.</description>
       <guid isPermaLink="true">https://www.recordedfuture.com/research/measuring-the-us-china-ai-gap</guid>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistani Firm Shipped Fentanyl Analogs, Scams to US</title>
-      <link>https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/</link>
-      <description>This article appears to be an investigative report on a network of ghostwriting, logo design, and academic cheating services that are allegedly scamming individuals out of thousands of dollars. The report details the connections between various companies and individuals involved in these operations, including their use of Google Ads to promote their services. The article also discusses the difficulties faced by victims who attempt to seek justice through legal means.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=70782</guid>
-      <pubDate>Wed, 07 May 2025 22:22:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp provides no cryptographic management for group messages</title>
-      <link>https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages/</link>
-      <description>Vulnerable Product: WhatsApp; CVE(s): None; Summary: A vulnerability in WhatsApp's group messaging feature allows a user to add someone to an existing group without their consent, potentially resulting in sensitive information being sent to unauthorized individuals. The weakness is likely to be exploited only in extraordinary cases, but it's still a good reason for groups trading sensitive messages to avoid using the app.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages/</guid>
-      <pubDate>Wed, 07 May 2025 22:04:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>We have reached the “severed fingers and abductions” stage of the crypto revolution</title>
-      <link>https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/</link>
-      <description>No vulnerability mentioned; article discusses instances of physical violence and intimidation used by criminals to steal cryptocurrency assets from victims, highlighting the risks associated with publicly displaying one's wealth online.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/we-have-reached-the-severed-fingers-and-abductions-stage-of-the-crypto-revolution/</guid>
-      <pubDate>Wed, 07 May 2025 20:01:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
