@@ -6,12 +6,12 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 20:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 20:03:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Malicious PyPi package hides RAT malware, targets Discord devs since 2022</title>
       <link>https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: A malicious Python package named "discordpydebug" was discovered on the Python Package Index (PyPI) after over three years. The package, which masqueraded as an error logger utility, could be used to backdoor Discord developers' systems and provide attackers with data theft and remote code execution capabilities, downloaded over 11,000 times since its upload in March 2022.</description>
+      <description>A malicious Python package named "discordpydebug" was discovered on the Python Package Index (PyPI) after over three years. The package, which masqueraded as an error logger utility, could be used to backdoor Discord developers' systems and provide attackers with data theft and remote code execution capabilities, downloaded over 11,000 times since its upload in March 2022.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/</guid>
       <pubDate>Thu, 08 May 2025 18:51:14 +0000</pubDate>
     </item>
@@ -81,7 +81,7 @@
     <item>
       <title>38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases</title>
       <link>https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html</link>
-      <description>Vulnerable Product: None; CVE(s): None; Summary: The article discusses two separate cryptocurrency phishing operations, dubbed FreeDrain and Inferno Drainer. FreeDrain uses SEO manipulation, free-tier web services, and layered redirection techniques to target cryptocurrency wallets, while Inferno Drainer employs advanced anti-detection tactics and single-use smart contracts to bypass wallet security mechanisms and steal funds.
+      <description>The article discusses two separate cryptocurrency phishing operations, dubbed FreeDrain and Inferno Drainer. FreeDrain uses SEO manipulation, free-tier web services, and layered redirection techniques to target cryptocurrency wallets, while Inferno Drainer employs advanced anti-detection tactics and single-use smart contracts to bypass wallet security mechanisms and steal funds.
 
 FYSA: The article highlights the sophistication of threat actors in conducting large-scale phishing operations, leveraging various platforms and tools to evade detection.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html</guid>
@@ -153,7 +153,7 @@ FYSA: The article highlights the sophistication of threat actors in conducting l
     <item>
       <title>Google links new LostKeys data theft malware to Russian cyberspies</title>
       <link>https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses the ColdRiver hacking group, a Russian state-backed threat actor that has been using new LostKeys malware to steal files in espionage attacks targeting Western governments, journalists, think tanks, and non-governmental organizations. The malware is delivered through social engineering attacks, such as ClickFix, which tricks targets into running malicious PowerShell scripts.</description>
+      <description>The article discusses the ColdRiver hacking group, a Russian state-backed threat actor that has been using new LostKeys malware to steal files in espionage attacks targeting Western governments, journalists, think tanks, and non-governmental organizations. The malware is delivered through social engineering attacks, such as ClickFix, which tricks targets into running malicious PowerShell scripts.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/</guid>
       <pubDate>Thu, 08 May 2025 13:39:15 +0000</pubDate>
     </item>
@@ -260,7 +260,7 @@ FYSA: Several prominent platforms are affected by the vulnerabilities, including
     <item>
       <title>LockBit Hacked: 60,000 Bitcoin Addresses Leaked</title>
       <link>https://socradar.io/lockbit-hacked-60000-bitcoin-addresses-leaked/</link>
-      <description>Vulnerable Product: N/A; CVE(s): CVE-2024-4577; Summary: The article reports that a vulnerability in PHP 8.1.2 (CVE-2024-4577) may have been used as an entry point for the attack on LockBit's Dark Web panel, allowing hackers to run code remotely and deface the site.</description>
+      <description>Vulnerable Product: None; CVE(s): CVE-2024-4577; Summary: The article reports that a vulnerability in PHP 8.1.2 (CVE-2024-4577) may have been used as an entry point for the attack on LockBit's Dark Web panel, allowing hackers to run code remotely and deface the site.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100059861</guid>
       <pubDate>Thu, 08 May 2025 11:12:29 +0000</pubDate>
     </item>
