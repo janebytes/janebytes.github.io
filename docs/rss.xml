@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 15:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 16:01:54 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Scattered Spider Malware Targets Klaviyo, HubSpot, and Pure Storage Platforms</title>
+      <link>https://gbhackers.com/scattered-spider-malware-targets-klaviyo/</link>
+      <description>Scattered Spider, a notorious hacker collective, continues to actively target prominent services in 2025, including Klaviyo, HubSpot, and Pure Storage. Their tactics, techniques, and procedures have evolved with updated phishing kits and a new variant of the Spectre RAT designed for persistent access to compromised systems. The group's infrastructure choices, such as using dynamic DNS vendors and privacy-focused providers like Njalla, Virtuo, and Cloudflare, indicate a deliberate move toward operational stealth.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134559</guid>
+      <pubDate>Fri, 09 May 2025 15:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Germany takes down eXch cryptocurrency exchange, seizes servers</title>
+      <link>https://www.bleepingcomputer.com/news/security/germany-takes-down-exch-cryptocurrency-exchange-seizes-servers/</link>
+      <description>Vulnerable Product: None; CVEs: None; Summary: The article reports on the seizure of a cryptocurrency exchange platform called eXch by German authorities due to alleged money laundering activities. The platform is suspected of facilitating transactions worth approximately $1.9 billion and is linked to the notorious North Korean hacking group "Lazarus".</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/germany-takes-down-exch-cryptocurrency-exchange-seizes-servers/</guid>
+      <pubDate>Fri, 09 May 2025 15:07:24 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese Hackers Exploit SAP RCE Vulnerability to Deploy Supershell Backdoors</title>
       <link>https://gbhackers.com/chinese-hackers-exploit-sap-rce-vulnerability/</link>
@@ -345,20 +359,6 @@ FYSA: The article highlights the sophistication of threat actors in conducting l
       <description>Vulnerable Product: SonicWall SMA 100; CVE(s): CVE-2025-32819, CVE-2025-32820, CVE-2025-32821; Summary: A remote authenticated attacker can chain these vulnerabilities to elevate privileges, make a sensitive system directory writable, and write an executable file to a system directory, resulting in root-level remote code execution.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html</guid>
       <pubDate>Thu, 08 May 2025 13:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware</title>
-      <link>https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html</link>
-      <description>Threat actors with ties to Qilin ransomware family have leveraged malware SmokeLoader and a previously undocumented .NET compiled loader, NETXLOADER, as part of a campaign observed in November 2024. The loaders are used to deploy additional malicious payloads, including Agenda ransomware, and are protected by .NET Reactor version 6.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html</guid>
-      <pubDate>Thu, 08 May 2025 13:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOGE Big Balls Ransomware Leverages Open-Source Tools and Custom Scripts for Multi-Stage Attacks</title>
-      <link>https://gbhackers.com/doge-big-balls-ransomware-leverages-open-source-tools/</link>
-      <description>The article describes a highly complex ransomware variant called "DOGE Big Balls," which incorporates political statements and taunts in its payloads. The ransomware's infection chain utilizes custom PowerShell scripts, open-source tools, vulnerable driver exploits, and red team frameworks, with frequent updates to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134034</guid>
-      <pubDate>Thu, 08 May 2025 13:44:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
