@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 10:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 11:02:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Stealthy .NET Malware: Hiding Malicious Payloads as Bitmap Resources</title>
@@ -14,6 +14,13 @@
       <description>Threat actors are using steganography within bitmap resources embedded in 32-bit .NET applications to hide malicious payloads, creating a multi-stage chain of extracting, deobfuscating, loading and executing secondary payloads (dynamic-link libraries) eventually detonating the final payload (executable). This technique is used to evade detection and successfully execute popular malware families such as Agent Tesla variants, XLoader, and Remcos RAT.</description>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140363</guid>
       <pubDate>Fri, 09 May 2025 10:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Vulnerability Management – Can You CVE What I CVE?</title>
+      <link>https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html</link>
+      <description>The article discusses the challenges of vulnerability management, highlighting the reactive nature of current approaches. It proposes a shift from "vulnerability management" to "Threat Mitigation," focusing on risk reduction rather than reacting to individual vulnerabilities. The authors introduce the Exploit Prediction Scoring System (EPSS) and demonstrate its application in prioritizing vulnerabilities. They also emphasize the importance of considering threat actors' skills, persistence, and scalability when assessing risk.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html</guid>
+      <pubDate>Fri, 09 May 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Exploit Host Header Injection to Breach Web Applications</title>
@@ -351,13 +358,6 @@ FYSA: The article highlights the sophistication of threat actors in conducting l
       <link>https://www.cisa.gov/news-events/alerts/2025/05/08/cisa-releases-five-industrial-control-systems-advisories</link>
       <description>CISA released five Industrial Control Systems (ICS) advisories on May 8, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. These advisories are meant for users and administrators to review technical details and mitigations.</description>
       <guid isPermaLink="false">/node/23331</guid>
-      <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pixmeo OsiriX MD</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-128-01</link>
-      <description>Vulnerable Product: Pixmeo OsiriX MD; CVE(s): CVE-2025-27578, CVE-2025-31946, CVE-2025-27720; Summary: The OsiriX MD product is vulnerable to use-after-free and clear-text transmission of sensitive information, allowing attackers to cause memory corruption, denial-of-service conditions, or steal credentials.</description>
-      <guid isPermaLink="false">/node/23330</guid>
       <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
