@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 11:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 12:02:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials</title>
+      <link>https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html</link>
+      <description>A new campaign targeting Portuguese-speaking users in Brazil uses trial versions of commercial remote monitoring and management (RMM) software as a lure to trick users into clicking on malicious content hosted in Dropbox. The attack chain begins with spam emails claiming to originate from financial institutions or cell phone carriers, warning of overdue bills or outstanding payments.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html</guid>
+      <pubDate>Fri, 09 May 2025 11:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deploying AI Agents? Learn to Secure Them Before Hackers Strike Your Business</title>
+      <link>https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html</link>
+      <description>The article discusses the growing concern about the security risks associated with AI agents, highlighting potential threats such as data leaks, identity theft, and malicious misuse. It emphasizes the need for companies to ensure the secure use of AI agents, citing their ability to work with sensitive data and make real-time decisions.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html</guid>
+      <pubDate>Fri, 09 May 2025 11:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Packages Infect 3,200+ Cursor Users With Backdoor, Steal Credentials</title>
+      <link>https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html</link>
+      <description>Vulnerable Product: npm packages "sw-cur", "sw-cur1", and "aiide-cur"; CVE(s): None; Summary: Three malicious npm packages designed to target Apple macOS version of Cursor AI-powered source code editor steal user credentials, fetch encrypted payload, overwrite main.js file, and disable auto-updates.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html</guid>
+      <pubDate>Fri, 09 May 2025 10:57:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stealthy .NET Malware: Hiding Malicious Payloads as Bitmap Resources</title>
       <link>https://unit42.paloaltonetworks.com/malicious-payloads-as-bitmap-resources-hide-net-malware/</link>
@@ -337,27 +358,6 @@ FYSA: The article highlights the sophistication of threat actors in conducting l
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-03</link>
       <description>Vulnerable Product: Mitsubishi Electric CC-Link IE TSN Remote I/O module, CC-Link IE TSN Analog-Digital Converter module, CC-Link IE TSN Digital-Analog Converter module, CC-Link IE TSN FPGA module, and CC-Link IE TSN Remote Station Communication LSI CP620 with GbE-PHY; CVE(s): CVE-2025-3511; Summary: A remote attacker could cause a denial-of-service (DoS) condition by sending specially crafted UDP packets. The affected products are CC-Link IE TSN Remote I/O module, Analog-Digital Converter module, Digital-Analog Converter module, FPGA module, and Remote Station Communication LSI CP620 with GbE-PHY.</description>
       <guid isPermaLink="false">/node/23329</guid>
-      <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Horner Automation Cscape</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-01</link>
-      <description>Vulnerable Product: Horner Automation Cscape; CVE(s): CVE-2025-4098; Summary: The out-of-bounds read vulnerability in Horner Automation Cscape, version 10.0 (10.0.415.2) SP1, allows an attacker to disclose information and execute arbitrary code with low attack complexity.</description>
-      <guid isPermaLink="false">/node/23327</guid>
-      <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy RTU500 Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-02</link>
-      <description>Vulnerable Product: Hitachi Energy RTU500 series; CVE(s): CVE-2023-5767, CVE-2023-5768, CVE-2023-5769; Summary: The RTU500 series products are vulnerable to cross-site scripting and denial-of-service conditions due to improper neutralization of input during web page generation and incomplete or incorrectly received APDU frame layout. Successful exploitation could allow an attacker to execute cross-site scripting or trigger a denial-of-service condition on the affected device.</description>
-      <guid isPermaLink="false">/node/23328</guid>
-      <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Five Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/08/cisa-releases-five-industrial-control-systems-advisories</link>
-      <description>CISA released five Industrial Control Systems (ICS) advisories on May 8, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. These advisories are meant for users and administrators to review technical details and mitigations.</description>
-      <guid isPermaLink="false">/node/23331</guid>
       <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
