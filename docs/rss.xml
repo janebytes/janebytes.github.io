@@ -6,8 +6,106 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 22:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 10:08:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Stealthy .NET Malware: Hiding Malicious Payloads as Bitmap Resources</title>
+      <link>https://unit42.paloaltonetworks.com/malicious-payloads-as-bitmap-resources-hide-net-malware/</link>
+      <description>Threat actors are using steganography within bitmap resources embedded in 32-bit .NET applications to hide malicious payloads, creating a multi-stage chain of extracting, deobfuscating, loading and executing secondary payloads (dynamic-link libraries) eventually detonating the final payload (executable). This technique is used to evade detection and successfully execute popular malware families such as Agent Tesla variants, XLoader, and Remcos RAT.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140363</guid>
+      <pubDate>Fri, 09 May 2025 10:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Host Header Injection to Breach Web Applications</title>
+      <link>https://gbhackers.com/hackers-exploit-host-header-injection/</link>
+      <description>A significant rise in web breaches has been reported due to Host Header Injection, a lesser-known technique. Hackers manipulate the HTTP Host header to compromise web applications, steal sensitive information, and manipulate website operations by injecting malicious values into the Host header, which can lead to exploits such as password reset poisoning, cache poisoning, and cross-site scripting.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134412</guid>
+      <pubDate>Fri, 09 May 2025 09:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Windows Remote Management to Evade Detection in AD Networks</title>
+      <link>https://gbhackers.com/hackers-exploit-windows-remote-management/</link>
+      <description>Vulnerable Product: Microsoft WinRM; CVE(s): None; Summary: Attackers are exploiting Windows Remote Management (WinRM) to move laterally and evade detection across enterprise networks. They use stolen or brute-forced credentials, execute commands that appear as routine administrative tasks, and hide their activity by spawning fresh processes under the user's context.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134395</guid>
+      <pubDate>Fri, 09 May 2025 09:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover Remote Code Execution Flaw in macOS – CVE-2024-44236</title>
+      <link>https://gbhackers.com/researchers-uncover-remote-code-execution-flaw/</link>
+      <description>Vulnerable Product: Apple macOS Scriptable Image Processing System (sips); CVE(s): CVE-2024-44236; Summary: A memory corruption vulnerability in sips allows arbitrary code execution via maliciously crafted ICC profile files. The flaw stems from improper validation of lutAToBType and lutBToAType tags, leading to out-of-bounds writes in heap memory that can be exploited by submitting a malformed ICC profile.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133932</guid>
+      <pubDate>Fri, 09 May 2025 08:41:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache ActiveMQ Vulnerability Allows Attackers to Induce DoS Condition</title>
+      <link>https://gbhackers.com/apache-activemq-vulnerability-allows-attackers/</link>
+      <description>Vulnerable Product: Apache ActiveMQ; CVE(s): CVE-2024-XXXX; Summary: A critical vulnerability in Apache ActiveMQ allows attackers to exhaust system memory through specially crafted OpenWire commands, leading to denial-of-service (DoS) attacks. The flaw affects multiple legacy versions of the messaging platform and can be exploited by transmitting manipulated OpenWire packets containing excessively large buffer size values, forcing vulnerable brokers to allocate disproportionate memory resources.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133890</guid>
+      <pubDate>Fri, 09 May 2025 08:39:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaspersky Alerts on AI-Driven Slopsquatting as Emerging Supply Chain Threat</title>
+      <link>https://gbhackers.com/kaspersky-alerts-on-ai-driven-slopsquatting/</link>
+      <description>The article discusses a newly identified supply chain vulnerability called "slopsquatting" that emerges from the widespread adoption of AI-generated code. This phenomenon involves AI systems hallucinating non-existent software dependencies, which attackers can exploit by creating malicious packages with these phantom names.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133866</guid>
+      <pubDate>Fri, 09 May 2025 08:37:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Government to Shift Away from Passwords in New Security Move</title>
+      <link>https://gbhackers.com/uk-government-to-shift-away-from-passwords/</link>
+      <description>The UK government plans to implement passkey technology across its digital services, aiming to enhance security and provide a more streamlined user experience. Passkeys are unique digital credentials linked to specific devices, eliminating the need for secondary verification codes sent via text message. This approach is expected to save several million pounds annually while strengthening national digital defenses against sophisticated cyber threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133803</guid>
+      <pubDate>Fri, 09 May 2025 08:35:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Dismantles DDoS-for-Hire Network and Arrests Four Administrators</title>
+      <link>https://gbhackers.com/europol-dismantles-ddos-for-hire-network/</link>
+      <description>Four individuals in Poland were arrested for allegedly operating six DDoS-for-hire platforms, responsible for thousands of attacks between 2022 and 2025. The platforms featured user-friendly interfaces and allowed customers to launch attacks without technical expertise, with prices starting at €10. The operation, part of "Operation PowerOFF," was a major disruption to the commercial DDoS marketplace.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133773</guid>
+      <pubDate>Fri, 09 May 2025 08:27:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Play Ransomware Deployed in the Wild Exploiting Windows 0-Day Vulnerability</title>
+      <link>https://gbhackers.com/play-ransomware-deployed-in-the-wild/</link>
+      <description>Vulnerable Product: Windows; CVE(s): CVE-2025-29824; Summary: The Common Log File System (CLFS) driver in Windows contains a use-after-free condition that enables privilege escalation. Attackers exploited this vulnerability to deploy the Grixba infostealer, establish persistence mechanisms, and evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133745</guid>
+      <pubDate>Fri, 09 May 2025 08:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Advanced Phishing Attack Exploits Discord to Target Crypto Users</title>
+      <link>https://gbhackers.com/new-advanced-phishing-attack-exploits-discord/</link>
+      <description>Check Point Research has uncovered a sophisticated phishing campaign that leverages Discord to target cryptocurrency users. The attack redirects victims from legitimate Web3 websites to a fake Collab.Land bot and then to a phishing site, ultimately tricking them into signing malicious transactions. The campaign is linked to the notorious Inferno Drainer, which has continued operations despite publicly announcing its shutdown in late 2023.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133692</guid>
+      <pubDate>Fri, 09 May 2025 08:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fedora Linux Joins the Windows Subsystem for Linux Officially</title>
+      <link>https://gbhackers.com/fedora-linux-joins-the-windows-subsystem/</link>
+      <description>Fedora Linux is now available on the Windows Subsystem for Linux (WSL), allowing users to seamlessly integrate Fedora's cutting-edge tools and development environment directly into Windows. The integration empowers developers to leverage Fedora's robust package management and software repositories while maintaining compatibility with Windows workflows.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=133667</guid>
+      <pubDate>Fri, 09 May 2025 07:40:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android</title>
+      <link>https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html</link>
+      <description>Google is rolling out AI-powered countermeasures to combat scams across Chrome, Search, and Android. The tech giant will use its Gemini Nano large language model (LLM) to improve Safe Browsing in Chrome 137 on desktops, detecting remote tech support scams and other types of schemes. Additionally, Google has enhanced its AI-powered scam detection systems, reducing deceptive pages by over 80% and government service impersonation schemes by over 70%.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html</guid>
+      <pubDate>Fri, 09 May 2025 07:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell</title>
+      <link>https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html</link>
+      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324; Summary: A recently disclosed vulnerability in SAP NetWeaver allows attackers to achieve remote code execution (RCE) by uploading web shells through a susceptible "/developmentserver/metadatauploader" endpoint. The vulnerability, with a CVSS score of 10.0, has been exploited by multiple threat actors, including Chaya_004, since April 29, 2025.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html</guid>
+      <pubDate>Fri, 09 May 2025 04:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI: End-of-life routers hacked for cybercrime proxy networks</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/</link>
+      <description>Vulnerable Product: Linksys and Cisco; CVE(s): None; Summary: The routers listed are vulnerable to exploitation by threat actors using publicly available exploits to inject persistent malware. Once compromised, the routers can be converted into proxies that route malicious traffic and are used for cybercrime-for-hire activities, cryptocurrency theft, and other illegal operations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/</guid>
+      <pubDate>Thu, 08 May 2025 22:15:39 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco fixes max severity IOS XE flaw letting attackers hijack devices</title>
       <link>https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/</link>
@@ -261,114 +359,6 @@ FYSA: The article highlights the sophistication of threat actors in conducting l
       <description>Vulnerable Product: Pixmeo OsiriX MD; CVE(s): CVE-2025-27578, CVE-2025-31946, CVE-2025-27720; Summary: The OsiriX MD product is vulnerable to use-after-free and clear-text transmission of sensitive information, allowing attackers to cause memory corruption, denial-of-service conditions, or steal credentials.</description>
       <guid isPermaLink="false">/node/23330</guid>
       <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Severe Vulnerabilities in Cisco &amp; SonicWall Expose Systems to RCE, DoS, and More: Patch Now</title>
-      <link>https://socradar.io/cisco-sonicwall-expose-systems-to-rce-dos-and-more/</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188, CVE-2025-32433; Summary: A series of critical and high-severity vulnerabilities were disclosed in Cisco's latest advisories, affecting key network infrastructure and security appliances. The vulnerabilities include unauthenticated Remote Code Execution (RCE) flaws, privilege escalation paths, command injection issues, and other impactful bugs that threaten system integrity and availability.
-
-FYSA: Several prominent platforms are affected by the vulnerabilities, including Catalyst 9800-CL Wireless Controllers, Catalyst 9800 Embedded Wireless Controllers for 9300, 9400, and 9500 switches, and Embedded Wireless Controllers on Catalyst Access Points.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100059872</guid>
-      <pubDate>Thu, 08 May 2025 11:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall urges admins to patch VPN flaw exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/</link>
-      <description>Vulnerable Product: SonicWall Secure Mobile Access (SMA) appliances; CVE(s): CVE-2025-32819, CVE-2025-32820, and CVE-2025-32821; Summary: The three security flaws can be chained by attackers to gain remote code execution as root and compromise vulnerable instances. Successful exploitation of the first vulnerability allows threat actors to delete the primary SQLite database, reset the password of the default SMA admin user, and log in as admin to the SMA web interface.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/</guid>
-      <pubDate>Thu, 08 May 2025 11:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit Hacked: 60,000 Bitcoin Addresses Leaked</title>
-      <link>https://socradar.io/lockbit-hacked-60000-bitcoin-addresses-leaked/</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2024-4577; Summary: The article reports that a vulnerability in PHP 8.1.2 (CVE-2024-4577) may have been used as an entry point for the attack on LockBit's Dark Web panel, allowing hackers to run code remotely and deface the site.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100059861</guid>
-      <pubDate>Thu, 08 May 2025 11:12:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Tools Alone Don't Protect You — Control Effectiveness Does</title>
-      <link>https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html</link>
-      <description>According to the Gartner report, misconfiguration of technical security controls is a leading cause for the continued success of attacks. Organizations are beginning to understand that having an average of 43 cybersecurity tools in place does not necessarily mean they have effective security controls. The article discusses the importance of continuous validation and tuning of security tools to ensure their effectiveness.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html</guid>
-      <pubDate>Thu, 08 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware</title>
-      <link>https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html</link>
-      <description>The nation-state threat actor "MirrorFace" (also known as Earth Kasha) has been observed deploying malware called ROAMINGMOUSE as part of a cyber espionage campaign directed against government agencies and public institutions in Japan and Taiwan. The attack starts with spear-phishing emails that deliver a ZIP file containing a malware-laced Excel document, which is then used to launch the ANEL backdoor.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html</guid>
-      <pubDate>Thu, 08 May 2025 10:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spam campaign targeting Brazil abuses Remote Monitoring and Management tools</title>
-      <link>https://blog.talosintelligence.com/spam-campaign-targeting-brazil-abuses-rmm-tools/</link>
-      <description>Cisco Talos identified a spam campaign targeting Brazilian users with commercial remote monitoring and management (RMM) tools since at least January 2025. The campaign uses the Brazilian electronic invoice system, NF-e, as a lure to entice users into clicking hyperlinks and accessing malicious content hosted in Dropbox.</description>
-      <guid isPermaLink="false">6818d82110aae200012af087</guid>
-      <pubDate>Thu, 08 May 2025 10:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco IOS, XE, and XR Vulnerability Allows Remote Device Reboots</title>
-      <link>https://gbhackers.com/cisco-ios-xe-and-xr-vulnerability/</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20154; Summary: The Cisco IOS, IOS XE, and IOS XR software contains a critical vulnerability that allows unauthenticated attackers to trigger denial-of-service (DoS) conditions by forcing devices to reboot remotely. The flaw stems from improper handling of Two-Way Active Measurement Protocol (TWAMP) control packets, which can cause full system reloads on IOS/IOS XE devices or crashes of the ipsla_ippm_server process on IOS XR devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134002</guid>
-      <pubDate>Thu, 08 May 2025 08:57:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenCTI: Free Cyber Threat Intelligence Platform for Security Experts</title>
-      <link>https://gbhackers.com/opencti-free-cyber-threat-intelligence-platform/</link>
-      <description>The article discusses OpenCTI, a free and open-source platform for managing and analyzing cybersecurity threat intelligence. It provides robust capabilities for structuring, storing, and visualizing technical and non-technical information, including integrations with popular tools like MISP, TheHive, and MITRE ATT&amp;CK.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133987</guid>
-      <pubDate>Thu, 08 May 2025 08:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware</title>
-      <link>https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html</link>
-      <description>The article discusses a new malware called LOSTKEYS, attributed to the Russia-linked threat actor COLDRIVER. LOSTKEYS is capable of stealing files from a hard-coded list of extensions and directories, as well as sending system information and running processes to the attacker. The malware was observed in attacks on current and former advisors to Western governments and militaries, journalists, think tanks, and NGOs.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html</guid>
-      <pubDate>Thu, 08 May 2025 06:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit Ransomware Group Breached: Internal Chats and Data Leaked Online</title>
-      <link>https://gbhackers.com/lockbit-ransomware-group-breached/</link>
-      <description>LockBit ransomware group, once considered one of the world's most prolific cyber extortion rings, has been breached by attackers, leading to the leak of operational data and internal chats. The exposed database includes sensitive information such as Bitcoin wallet addresses, negotiation chat logs, and plaintext passwords for 75 LockBit administrators and affiliates.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133883</guid>
-      <pubDate>Thu, 08 May 2025 05:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco IOS XE Wireless Controllers Vulnerability Lets Attackers Seize Full Control</title>
-      <link>https://gbhackers.com/cisco-ios-xe-wireless-controllers-vulnerability/</link>
-      <description>Vulnerable Product: Cisco IOS XE Wireless LAN Controllers; CVE(s): CVE-2025-20188; Summary: A critical vulnerability in the Out-of-Band AP Image Download feature of Cisco IOS XE Software for WLCs allows unauthenticated remote attackers to gain full control of affected devices, enabling arbitrary file upload, path traversal, and execution of system commands as root.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133873</guid>
-      <pubDate>Thu, 08 May 2025 05:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Patches CVE-2025-20188 (10.0 CVSS) in IOS XE That Enables Root Exploits via JWT</title>
-      <link>https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188; Summary: The vulnerability, tracked as CVE-2025-20188, is a maximum-severity flaw in Cisco's IOS XE Wireless Controller that allows an unauthenticated attacker to upload arbitrary files, perform path traversal, and execute arbitrary commands with root privileges. The feature must be enabled on the device for exploitation to occur; it is disabled by default.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html</guid>
-      <pubDate>Thu, 08 May 2025 04:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit ransomware gang hacked, victim negotiations exposed</title>
-      <link>https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/</link>
-      <description>Vulnerable Product: MySQL; CVE(s): CVE-2024-4577; Summary: The vulnerability is a critical and actively exploited remote code execution flaw in PHP 8.1.2, which was running on the server that stored the LockBit ransomware gang's affiliate panel database. This vulnerability allows for remote code execution on servers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/</guid>
-      <pubDate>Thu, 08 May 2025 00:06:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Measuring the US-China AI Gap</title>
-      <link>https://www.recordedfuture.com/research/measuring-the-us-china-ai-gap</link>
-      <description>FYSA:
-
-As a cybersecurity analyst, I analyzed the provided article and found that it is an in-depth report on China's AI ecosystem, its growth, and investment trends. The report highlights the country's efforts to become a leader in artificial intelligence research and development.
-
-The report provides detailed information about China's AI-related investments, including government-led initiatives and private-sector funding. It also touches upon the country's semiconductor industry, which is crucial for supporting its AI ecosystem.
-
-From a cybersecurity perspective, this report does not specifically discuss vulnerabilities or threats. Instead, it focuses on the broader landscape of AI development in China and its potential implications for the global AI market.
-
-However, one could argue that the rapid growth and investment in China's AI sector may potentially increase the risk of AI-powered cyberattacks or data breaches if security measures are not adequately implemented to protect against these threats.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/measuring-the-us-china-ai-gap</guid>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
