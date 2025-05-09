@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 16:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 17:03:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Stealthy .NET Malware Hiding Malicious Payloads Within Bitmap Resources</title>
+      <link>https://gbhackers.com/new-stealthy-net-malware-hiding-malicious-payloads/</link>
+      <description>Palo Alto Networks' Unit 42 researchers discovered a novel obfuscation method used by threat actors to conceal malware within bitmap resources of seemingly benign .NET applications. The method embeds malicious payloads in bitmap files, initiating a multi-stage infection chain that delivers destructive malware families such as Agent Tesla, Remcos RAT, and XLoader.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134622</guid>
+      <pubDate>Fri, 09 May 2025 16:52:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Weaponizing Facebook Ads to Deploy Multi-Stage Malware Attacks</title>
+      <link>https://gbhackers.com/hackers-weaponizing-facebook-ads/</link>
+      <description>A persistent malvertising campaign on Facebook has been uncovered, exploiting trust associated with major cryptocurrency exchanges to distribute multi-stage malware. The campaign uses advanced evasion techniques, mass brand impersonation, and user-tracking mechanisms to bypass conventional security defenses and target users with fake ads and accounts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134609</guid>
+      <pubDate>Fri, 09 May 2025 16:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Target Job Seekers with Three New Unique Adversaries</title>
+      <link>https://gbhackers.com/threat-actors-target-job-seekers/</link>
+      <description>A sharp rise in recruitment scams has been detected by Netcraft, driven by three distinct threat actors employing unique and highly technical strategies to exploit vulnerabilities in the job market. These scams have resulted in over $500 million in losses in the U.S. alone in 2023 and are likely to continue growing as economic pressures create fertile ground for cybercriminals. The threats involve advance fee fraud, phishing websites, and identity theft tactics.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134594</guid>
+      <pubDate>Fri, 09 May 2025 16:35:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese hackers behind attacks targeting SAP NetWeaver servers</title>
+      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-attacks-targeting-sap-netweaver-servers/</link>
+      <description>Vulnerable Product: SAP; CVE(s): CVE-2025-31324; Summary: A maximum severity vulnerability in SAP NetWeaver Visual Composer allows unauthenticated attackers to upload malicious files, enabling remote code execution and potentially leading to complete system compromise. The vulnerability was exploited by a Chinese threat actor, with multiple customers' systems breached through unauthorized file uploads on SAP NetWeaver.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-attacks-targeting-sap-netweaver-servers/</guid>
+      <pubDate>Fri, 09 May 2025 16:23:08 +0000</pubDate>
+    </item>
     <item>
       <title>Scattered Spider Malware Targets Klaviyo, HubSpot, and Pure Storage Platforms</title>
       <link>https://gbhackers.com/scattered-spider-malware-targets-klaviyo/</link>
@@ -331,34 +359,6 @@ FYSA: The article highlights the sophistication of threat actors in conducting l
       <description>Cybersecurity researchers have developed an innovative approach to combat "PigButchering" scams on Telegram, which involves cultivating false relationships with victims and deceiving them at the opportune moment. The operation involved creating faux personas, executing a sting operation, gathering intelligence, and siphoning off funds from the scammers' wallets.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134177</guid>
       <pubDate>Thu, 08 May 2025 14:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Spam Campaign Leverages Remote Monitoring Tools to Exploit Organizations</title>
-      <link>https://gbhackers.com/new-spam-campaign-leverages-remote-monitoring-tools/</link>
-      <description>A sophisticated spam campaign targeting Portuguese-speaking users in Brazil has been uncovered by Cisco Talos, exploiting commercial remote monitoring and management (RMM) tools to gain unauthorized access to victims' systems. The attackers use deceptive tactics to distribute malicious installers disguised as legitimate files related to Brazil's electronic invoice system, NF-e.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134127</guid>
-      <pubDate>Thu, 08 May 2025 14:07:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Attack Exploits X/Twitter Ad URL Feature to Deceive Users</title>
-      <link>https://gbhackers.com/new-attack-exploits-x-twitter-ad-url-feature/</link>
-      <description>Vulnerable Product: Twitter; CVE(s): None; Summary: A vulnerability in Twitter's advertising display URL feature allows attackers to manipulate the platform's URL display mechanism, presenting a legitimate-looking link while redirecting users to a malicious cryptocurrency scam site. The exploit involves an inconsistent User Agent string and metadata retrieval process, allowing attackers to create a preview card that displays a trusted domain, masking the true, harmful landing page.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134075</guid>
-      <pubDate>Thu, 08 May 2025 14:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guess Which Browser Tops the List for Data Collection!</title>
-      <link>https://gbhackers.com/which-browser-tops-the-list-for-data-collection/</link>
-      <description>Google Chrome has emerged as the most data-intensive web browser among 10 popular browsers, collecting 20 different types of user data, including personal contact information, financial details, location data, and browsing history. Its dominance in the market, with a combined 90% share with Safari, raises concerns about users' privacy and highlights the need for evaluation of browser choices to prioritize security.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134093</guid>
-      <pubDate>Thu, 08 May 2025 13:59:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root</title>
-      <link>https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html</link>
-      <description>Vulnerable Product: SonicWall SMA 100; CVE(s): CVE-2025-32819, CVE-2025-32820, CVE-2025-32821; Summary: A remote authenticated attacker can chain these vulnerabilities to elevate privileges, make a sensitive system directory writable, and write an executable file to a system directory, resulting in root-level remote code execution.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html</guid>
-      <pubDate>Thu, 08 May 2025 13:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
