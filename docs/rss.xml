@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 13:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 14:03:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Chinese Hackers Exploit SAP RCE Vulnerability to Deploy Supershell Backdoors</title>
+      <link>https://gbhackers.com/chinese-hackers-exploit-sap-rce-vulnerability/</link>
+      <description>Vulnerable Product: SAP NetWeaver Visual Composer 7.x; CVE(s): CVE-2025-31324; Summary: A critical remote code execution (RCE) vulnerability in SAP NetWeaver Visual Composer 7.x allows attackers to upload malicious binaries, including web shells, granting full system takeover capabilities. The vulnerability is being actively exploited by a Chinese threat actor, tracked as Chaya_004, and can be used to disrupt operations, steal sensitive data, and violate regulatory requirements.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134536</guid>
+      <pubDate>Fri, 09 May 2025 13:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Target IT Admins by Poisoning SEO to Push Malware to Top Search Results</title>
+      <link>https://gbhackers.com/hackers-target-it-admins-by-poisoning-seo-to-push-malware/</link>
+      <description>Cybercriminals are using Search Engine Optimization (SEO) poisoning techniques to trick IT administrators into downloading malicious software, which can lead to devastating consequences such as data exfiltration and ransomware. The attackers establish persistent access, evade detection by masquerading traffic over common ports, and systematically target mission-critical assets. To combat this, experts recommend a robust "Defense in Depth" approach, including hardening access to critical assets, deploying Endpoint Detection and Response solutions, and implementing application allow-listing.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134509</guid>
+      <pubDate>Fri, 09 May 2025 13:40:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Mamona Ransomware Targets Windows Systems Using Abused Ping Command</title>
+      <link>https://gbhackers.com/new-mamona-ransomware-targets-windows-systems/</link>
+      <description>Mamona is a newly discovered commodity ransomware strain that rapidly spreads across Windows systems. It employs a unique set of tactics, including exploiting the Windows "ping" command as a timing mechanism and operating entirely offline, making detection and response more difficult. The ransomware operates in "mute mode," executing all encryption and logic locally, and does not attempt to steal files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134567</guid>
+      <pubDate>Fri, 09 May 2025 13:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Python Package Impersonates Discord Developers to Deploy Remote Commands</title>
+      <link>https://gbhackers.com/malicious-python-package-impersonates-discord-developers/</link>
+      <description>Vulnerable Product: discordpydebug; CVE(s): None; Summary: The 'discordpydebug' Python package was marketed as a debugging utility for Discord bot developers, but it actually contained a fully functional remote access trojan (RAT). Over 11,000 downloads were made before its malicious nature was exposed, putting thousands of systems at risk.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134447</guid>
+      <pubDate>Fri, 09 May 2025 13:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Supply Chain Attack Compromises Popular npm Package with 45,000 Weekly Downloads</title>
+      <link>https://gbhackers.com/new-supply-chain-attack-compromises-popular-npm-package/</link>
+      <description>Vulnerable Product: WebScrapingAPI rand-user-agent; CVE(s): None; Summary: The npm package rand-user-agent has been targeted by an advanced supply chain attack, which embedded malicious code in several recent releases. The compromised package can be used to establish covert communication channels with command-and-control (C2) servers, upload files, and execute arbitrary shell commands, posing a severe risk of data theft and unauthorized control.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134480</guid>
+      <pubDate>Fri, 09 May 2025 13:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Leverage Multimedia Systems in Stealthy Vishing Attacks</title>
+      <link>https://gbhackers.com/threat-actors-leverage-multimedia-systems/</link>
+      <description>Threat actors have begun exploiting multimedia systems, such as VoIP and streaming services, to orchestrate advanced voice phishing (vishing) attacks that integrate compromised platforms with social engineering tactics. These attacks exploit vulnerabilities in protocols like SIP and RTSP, and use deepfake technology to deceive victims, posing a significant challenge to organizations and individuals.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134421</guid>
+      <pubDate>Fri, 09 May 2025 13:02:54 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Exploit PDF Invoices to Target Windows, Linux, and macOS Systems</title>
       <link>https://gbhackers.com/hackers-exploit-pdf-invoices-to-target-windows/</link>
@@ -317,48 +359,6 @@ FYSA: The article highlights the sophistication of threat actors in conducting l
       <description>The article describes a highly complex ransomware variant called "DOGE Big Balls," which incorporates political statements and taunts in its payloads. The ransomware's infection chain utilizes custom PowerShell scripts, open-source tools, vulnerable driver exploits, and red team frameworks, with frequent updates to evade detection.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134034</guid>
       <pubDate>Thu, 08 May 2025 13:44:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google links new LostKeys data theft malware to Russian cyberspies</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/</link>
-      <description>The article discusses the ColdRiver hacking group, a Russian state-backed threat actor that has been using new LostKeys malware to steal files in espionage attacks targeting Western governments, journalists, think tanks, and non-governmental organizations. The malware is delivered through social engineering attacks, such as ClickFix, which tricks targets into running malicious PowerShell scripts.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/</guid>
-      <pubDate>Thu, 08 May 2025 13:39:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware-as-a-Service (RaaS) Emerges as a Leading Framework for Cyberattacks</title>
-      <link>https://gbhackers.com/raas-emerges-as-a-leading-framework/</link>
-      <description>This article discusses the rise of Ransomware-as-a-Service (RaaS) frameworks, which have enabled even less-skilled actors to orchestrate sophisticated attacks. The article highlights the shift towards cross-platform attacks, data exfiltration, and double or triple extortion tactics, as well as the increase in average ransom demands.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133995</guid>
-      <pubDate>Thu, 08 May 2025 13:37:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Hackers Posing as Model Agency to Target Victims</title>
-      <link>https://gbhackers.com/iranian-hackers-posing-as-model-agency/</link>
-      <description>Unit 42 has exposed a covert operation likely orchestrated by Iranian cyber actors that involves a fraudulent website designed to impersonate the Hamburg-based Mega Model Agency, with malicious JavaScript code aimed at harvesting detailed visitor data. The campaign suggests preparation for targeted social engineering and potentially aims to harvest credentials or deliver malware to specific victims.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134012</guid>
-      <pubDate>Thu, 08 May 2025 13:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian COLDRIVER Hackers Deploy LOSTKEYS Malware to Steal Sensitive Information</title>
-      <link>https://gbhackers.com/russian-coldriver-hackers-deploy-lostkeys-malware/</link>
-      <description>The article discusses a sophisticated malware called LOSTKEYS, attributed to the Russian government-backed threat actor COLDRIVER. The malware is designed to exfiltrate files and harvest system information from targeted individuals and organizations, particularly those linked to Ukraine or Western governments. It uses a complex multi-stage infection chain, including CAPTCHA lures and PowerShell code execution, to evade detection and analysis.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133897</guid>
-      <pubDate>Thu, 08 May 2025 13:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Driven Fake Vulnerability Reports Flooding Bug Bounty Platforms</title>
-      <link>https://gbhackers.com/ai-driven-fake-vulnerability-reports/</link>
-      <description>AI-generated bogus vulnerability reports, or "AI slop," are flooding bug bounty platforms, mimicking technical jargon convincingly enough to pass initial scrutiny but crumble under expert analysis. These fraudulent submissions rely on systemic vulnerabilities within bug bounty programs and can erode trust, divert resources from addressing genuine vulnerabilities, and potentially dismantle the bug bounty model.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133927</guid>
-      <pubDate>Thu, 08 May 2025 13:08:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Bookings Vulnerability Allows Unauthorized Changes to Meeting Details</title>
-      <link>https://gbhackers.com/microsoft-bookings-vulnerability/</link>
-      <description>Vulnerable Product: Microsoft Bookings; CVE(s): None; Summary: A vulnerability in Microsoft Bookings allows unauthorized modification of meeting details, posing risks such as phishing, calendar manipulation, and information leakage. The flaw arises from inadequate input validation and sanitization in several key fields used by Microsoft Bookings, allowing malicious actors to inject arbitrary HTML content into confirmation emails, Teams invitations, and attached ICS files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134115</guid>
-      <pubDate>Thu, 08 May 2025 12:34:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
