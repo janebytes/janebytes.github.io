@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 18:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 19:01:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ascension says recent data breach affects over 430,000 patients</title>
+      <link>https://www.bleepingcomputer.com/news/security/ascension-says-recent-data-breach-affects-over-430-000-patients/</link>
+      <description>A data breach disclosed by Ascension, a private healthcare system in the US, affected over 430,000 patients, exposing personal and healthcare information. The breach was caused by a former business partner's vulnerability in third-party software used by the partner, which was exploited in a widespread Clop ransomware attack.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ascension-says-recent-data-breach-affects-over-430-000-patients/</guid>
+      <pubDate>Fri, 09 May 2025 18:48:15 +0000</pubDate>
+    </item>
     <item>
       <title>Google Chrome to use on-device AI to detect tech support scams</title>
       <link>https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/</link>
@@ -350,13 +357,6 @@
       <description>Vulnerable Product: Radware Cloud Web Application Firewall (WAF); CVE(s): CVE-2024-56523, CVE-2024-56524; Summary: Two critical vulnerabilities in Radware's WAF allow attackers to bypass security filters and deliver malicious payloads to protected web applications. The first vulnerability exploits the WAF's failure to properly validate HTTP GET requests containing extraneous data, while the second vulnerability stems from improper input sanitization when processing requests containing non-alphanumeric characters.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134145</guid>
       <pubDate>Thu, 08 May 2025 16:26:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESET Reveals How to Spot Fake Calls Demanding Payment for ‘Missed Jury Duty’</title>
-      <link>https://gbhackers.com/eset-reveals-how-to-spot-fake-calls-demanding-payment/</link>
-      <description>Scammers are using fake government officials to demand payment for "missed jury duty" over phone and email. They use tactics like threatening language, phishing emails/texts, and requests for personal information. To protect yourself, do not engage with suspicious calls or emails, be skeptical of unsolicited communications, and never share personal or financial details.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134208</guid>
-      <pubDate>Thu, 08 May 2025 16:05:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
