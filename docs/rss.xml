@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 12:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 13:01:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Exploit PDF Invoices to Target Windows, Linux, and macOS Systems</title>
+      <link>https://gbhackers.com/hackers-exploit-pdf-invoices-to-target-windows/</link>
+      <description>A sophisticated email campaign targets organizations in Spain, Italy, and Portugal, distributing a Remote Access Trojan (RAT) known as RATty, primarily affecting Windows systems but also posing a threat to Linux and macOS environments where the Java Runtime Environment (JRE) is installed. The campaign uses legitimate Spanish email service provider, serviciodecorreo.es, and advanced evasion tactics to deliver malicious payloads.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134394</guid>
+      <pubDate>Fri, 09 May 2025 12:47:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indirect Prompt Injection Exploits LLMs’ Lack of Informational Context</title>
+      <link>https://gbhackers.com/indirect-prompt-injection-exploits-llms-lack/</link>
+      <description>A new type of cyber threat, called "indirect prompt injection attacks," targets large language models (LLMs) by embedding malicious directives within external data sources. These attacks exploit LLMs' trust in uncurated content and can lead to data leaks, misinformation, and code injection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134291</guid>
+      <pubDate>Fri, 09 May 2025 12:35:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>FreeDrain Phishing Attack Targets Users to Steal Financial Login Credentials</title>
+      <link>https://gbhackers.com/freedrain-phishing-attack-targets-users/</link>
+      <description>The article exposes an industrial-scale cryptocurrency phishing operation called FreeDrain, which has been active since 2022. It leverages search engine optimization manipulation, free-tier web services, and intricate redirection techniques to target unsuspecting users of cryptocurrency wallets. The operation is believed to be based in the UTC+05:30 timezone (likely India) and operates on a standard 9-to-5 weekday schedule.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134302</guid>
+      <pubDate>Fri, 09 May 2025 12:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials</title>
       <link>https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html</link>
@@ -338,27 +359,6 @@ FYSA: The article highlights the sophistication of threat actors in conducting l
       <description>Vulnerable Product: Microsoft Bookings; CVE(s): None; Summary: A vulnerability in Microsoft Bookings allows unauthorized modification of meeting details, posing risks such as phishing, calendar manipulation, and information leakage. The flaw arises from inadequate input validation and sanitization in several key fields used by Microsoft Bookings, allowing malicious actors to inject arbitrary HTML content into confirmation emails, Teams invitations, and attached ICS files.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134115</guid>
       <pubDate>Thu, 08 May 2025 12:34:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nmap 7.96 Released with Enhanced Scanning Capabilities and Updated Libraries</title>
-      <link>https://gbhackers.com/nmap-7-96-launches/</link>
-      <description>Vulnerable Product: None; Summary: This article is about the release of Nmap 7.96, a network mapping and security auditing tool. The update brings improvements such as parallel forward DNS resolution, upgraded core libraries, new scripting capabilities, and enhanced compatibility across platforms, especially for Windows users.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134099</guid>
-      <pubDate>Thu, 08 May 2025 12:09:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco IOS XE Vulnerability Allows Attackers to Gain Elevated Privileges</title>
-      <link>https://gbhackers.com/cisco-ios-xe-vulnerability/</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20197, CVE-2025-20198, CVE-2025-20199, among others; Summary: The IOS XE Software has multiple privilege escalation vulnerabilities that could allow attackers with existing high-level device access to gain root privileges, jeopardizing enterprise networks. Insufficient input validation in the command-line interface (CLI) of IOS XE Software enables attackers to supply crafted input and escalate their privileges to root on the underlying system.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134088</guid>
-      <pubDate>Thu, 08 May 2025 12:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric CC-Link IE TSN</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-03</link>
-      <description>Vulnerable Product: Mitsubishi Electric CC-Link IE TSN Remote I/O module, CC-Link IE TSN Analog-Digital Converter module, CC-Link IE TSN Digital-Analog Converter module, CC-Link IE TSN FPGA module, and CC-Link IE TSN Remote Station Communication LSI CP620 with GbE-PHY; CVE(s): CVE-2025-3511; Summary: A remote attacker could cause a denial-of-service (DoS) condition by sending specially crafted UDP packets. The affected products are CC-Link IE TSN Remote I/O module, Analog-Digital Converter module, Digital-Analog Converter module, FPGA module, and Remote Station Communication LSI CP620 with GbE-PHY.</description>
-      <guid isPermaLink="false">/node/23329</guid>
-      <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
