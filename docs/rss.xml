@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 22:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 10:02:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection</title>
+      <link>https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html</link>
+      <description>The article discusses two lawsuits against Google related to unauthorized tracking and collection of user data, including geolocation, incognito searches, and biometric data. The company has agreed to pay Texas $1.4 billion to settle the suits, which marks one of the largest privacy-related settlements in history.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html</guid>
+      <pubDate>Sat, 10 May 2025 06:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data</title>
+      <link>https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html</link>
+      <description>The German Federal Criminal Police Office (BKA) seized the online infrastructure and shut down eXch, a cryptocurrency exchange accused of money laundering and operating a criminal trading platform. The operation allegedly allowed users to conceal financial flows without implementing anti-money laundering measures, with an estimated $1.9 billion worth of assets transferred since its launch.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html</guid>
+      <pubDate>Sat, 10 May 2025 06:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: CVE-2025-31324</title>
+      <link>https://unit42.paloaltonetworks.com/threat-brief-sap-netweaver-cve-2025-31324/</link>
+      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324; Summary: A critical vulnerability in SAP NetWeaver's Visual Composer Framework (version 7.50) allows unauthenticated users to upload arbitrary files, leading to remote code execution and system compromise. The vulnerability is exploited by sending specially crafted HTTP requests to the /developmentserver/metadatauploader endpoint.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140450</guid>
+      <pubDate>Fri, 09 May 2025 22:00:14 +0000</pubDate>
+    </item>
     <item>
       <title>Ascension says recent data breach affects over 430,000 patients</title>
       <link>https://www.bleepingcomputer.com/news/security/ascension-says-recent-data-breach-affects-over-430-000-patients/</link>
@@ -336,27 +357,6 @@
       <description>Vulnerable Product: IXON VPN Client; CVE(s): CVE-2025-26168, CVE-2025-26169; Summary: A critical security vulnerability in the IXON VPN client allows local privilege escalation attacks, enabling non-privileged users to gain root or SYSTEM-level access on Windows, Linux, and macOS systems. The flaw stems from improper handling of temporary configuration files, which can be exploited by replacing legitimate files with malicious versions containing arbitrary commands.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133994</guid>
       <pubDate>Thu, 08 May 2025 16:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco IOS Software SISF Vulnerability Could Enable Attackers to Launch DoS Attacks</title>
-      <link>https://gbhackers.com/cisco-ios-software-sisf-vulnerability/</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CSCwk04230, CSCvq14413, CSCvo13585, CSCwj88828; Summary: The vulnerability allows unauthenticated attackers to cause denial of service (DoS) conditions by sending specifically crafted DHCPv6 packets to targeted devices with SISF enabled, forcing the device to reload and disrupting network connectivity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134016</guid>
-      <pubDate>Thu, 08 May 2025 16:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seamless AI Communication: Microsoft Azure Adopts Google’s A2A Protocol</title>
-      <link>https://gbhackers.com/microsoft-azure-integrates-googles-a2a-protocol/</link>
-      <description>This article discusses Microsoft's support for the Agent2Agent (A2A) protocol, an open standard enabling seamless communication between AI agents across platforms, clouds, and organizational boundaries. The goal is to address the growing demand for interoperable AI systems in enterprise environments, with potential applications in areas such as customer service escalation, IT incident resolution, and supply chain management.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134082</guid>
-      <pubDate>Thu, 08 May 2025 16:37:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Radware Cloud Web App Firewall Flaw Allows Attackers to Bypass Security Filters</title>
-      <link>https://gbhackers.com/radware-cloud-web-app-firewall-flaw/</link>
-      <description>Vulnerable Product: Radware Cloud Web Application Firewall (WAF); CVE(s): CVE-2024-56523, CVE-2024-56524; Summary: Two critical vulnerabilities in Radware's WAF allow attackers to bypass security filters and deliver malicious payloads to protected web applications. The first vulnerability exploits the WAF's failure to properly validate HTTP GET requests containing extraneous data, while the second vulnerability stems from improper input sanitization when processing requests containing non-alphanumeric characters.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134145</guid>
-      <pubDate>Thu, 08 May 2025 16:26:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
