@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 15:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 16:03:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Securing Windows Endpoints Using Group Policy Objects (GPOs): A Configuration Guide</title>
+      <link>https://gbhackers.com/securing-windows-endpoints-using-group-policy-objects-gpos-a-configuration-guide/</link>
+      <description>This article is a guide on how to effectively use Group Policy Objects (GPOs) for endpoint security in Windows environments. It provides best practices for designing and implementing GPOs to manage and enforce security settings, including structuring Active Directory, configuring password policies, application control, and firewall settings, and maintaining audit logs.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134295</guid>
+      <pubDate>Sat, 10 May 2025 15:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bluetooth Core 6.1 Released – What’s New!</title>
+      <link>https://gbhackers.com/bluetooth-6-1-unveiled/</link>
+      <description>The Bluetooth SIG has transitioned to a bi-annual release cadence, focusing on rapid iteration and market responsiveness. This shift aims to empower developers with more efficient integration of enhancements, reducing the gap between standardization and real-world implementation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134458</guid>
+      <pubDate>Sat, 10 May 2025 15:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams will soon block screen capture during meetings</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/</link>
+      <description>The article discusses a new feature in Microsoft Teams that prevents users from capturing screenshots of sensitive information shared during meetings. The feature will turn the meeting window black if someone tries to take a screenshot, protecting the sensitive information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/</guid>
+      <pubDate>Sat, 10 May 2025 15:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome 137 Integrates Gemini Nano AI to Combat Tech Support Scams</title>
+      <link>https://gbhackers.com/chrome-137-integrates-gemini-nano-ai/</link>
+      <description>Google has integrated its Gemini Nano large language model (LLM) into Chrome 137 to detect and block tech support scams in real-time. The on-device AI analysis evaluates webpage content for deceptive patterns, generating security signals for Google's Safe Browsing service.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134423</guid>
+      <pubDate>Sat, 10 May 2025 15:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>DOGE Employee Computer Infected with Malware and Leaked Data Found Info-Stealer Logs</title>
       <link>https://gbhackers.com/doge-employee-credentials-exposed-in-multiple-info-stealer-leaks/</link>
@@ -21,6 +49,13 @@
       <description>The article discusses the importance of building a strong cybersecurity culture in remote work environments. It highlights that Chief Information Security Officers (CISOs) must go beyond traditional technical responsibilities and foster a security-first mindset among remote employees. The article provides five practical steps for CISOs to build this culture, including developing remote-specific security policies, delivering ongoing training, encouraging open communication, recognizing good security behavior, and turning mistakes into learning opportunities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=132248</guid>
       <pubDate>Sat, 10 May 2025 14:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake AI video generators drop new Noodlophile infostealer malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-drop-new-noodlophile-infostealer-malware/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses a new information-stealing malware family called 'Noodlophile,' which uses fake AI-powered video generation tools to distribute the malware. The malware targets data stored on web browsers, steals account credentials, session cookies, tokens, and cryptocurrency wallet files, and exfiltrates stolen data via a Telegram bot.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-drop-new-noodlophile-infostealer-malware/</guid>
+      <pubDate>Sat, 10 May 2025 14:17:27 +0000</pubDate>
     </item>
     <item>
       <title>Google Chrome Uses Advanced AI to Combat Sophisticated Online Scams</title>
@@ -322,41 +357,6 @@
       <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324; Summary: A recently disclosed vulnerability in SAP NetWeaver allows attackers to achieve remote code execution (RCE) by uploading web shells through a susceptible "/developmentserver/metadatauploader" endpoint. The vulnerability, with a CVSS score of 10.0, has been exploited by multiple threat actors, including Chaya_004, since April 29, 2025.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html</guid>
       <pubDate>Fri, 09 May 2025 04:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI: End-of-life routers hacked for cybercrime proxy networks</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/</link>
-      <description>Vulnerable Product: Linksys and Cisco; CVE(s): None; Summary: The routers listed are vulnerable to exploitation by threat actors using publicly available exploits to inject persistent malware. Once compromised, the routers can be converted into proxies that route malicious traffic and are used for cybercrime-for-hire activities, cryptocurrency theft, and other illegal operations.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/</guid>
-      <pubDate>Thu, 08 May 2025 22:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco fixes max severity IOS XE flaw letting attackers hijack devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188; Summary: The Cisco IOS XE Software for Wireless LAN Controllers has a hard-coded JSON Web Token (JWT) vulnerability that allows an unauthenticated remote attacker to take over devices, allowing uploads of files, path traversal, and execution of arbitrary commands with root privileges.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/</guid>
-      <pubDate>Thu, 08 May 2025 20:53:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Education giant Pearson hit by cyberattack exposing customer data</title>
-      <link>https://www.bleepingcomputer.com/news/security/education-giant-pearson-hit-by-cyberattack-exposing-customer-data/</link>
-      <description>Vulnerable Product: Pearson; CVE(s): None; Summary: Pearson suffered a cyberattack allowing threat actors to steal corporate data and customer information. The attack was carried out by compromising Pearson's developer environment through an exposed GitLab Personal Access Token (PAT) found in a public .git/config file, which gave attackers unauthorized access to internal repositories.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/education-giant-pearson-hit-by-cyberattack-exposing-customer-data/</guid>
-      <pubDate>Thu, 08 May 2025 20:14:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supply chain attack hits npm package with 45,000 weekly downloads</title>
-      <link>https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/</link>
-      <description>Vulnerable Product: rand-user-agent; CVE(s): None; Summary: The rand-user-agent package was compromised in a supply chain attack to inject obfuscated code that activates a remote access trojan (RAT) on the user's system. The malicious versions generate a hidden directory, open a persistent socket connection to the attacker's C2 server, and allow commands such as file uploads and shell execution.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/</guid>
-      <pubDate>Thu, 08 May 2025 19:03:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PyPi package hides RAT malware, targets Discord devs since 2022</title>
-      <link>https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/</link>
-      <description>A malicious Python package named "discordpydebug" was discovered on the Python Package Index (PyPI) after over three years. The package, which masqueraded as an error logger utility, could be used to backdoor Discord developers' systems and provide attackers with data theft and remote code execution capabilities, downloaded over 11,000 times since its upload in March 2022.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/</guid>
-      <pubDate>Thu, 08 May 2025 18:51:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
