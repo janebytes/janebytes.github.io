@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 16:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 17:01:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Critical Azure and Power Apps Vulnerabilities Allow Attackers to Exploit RCE</title>
+      <link>https://gbhackers.com/critical-azure-and-power-apps-vulnerabilities/</link>
+      <description>Vulnerable Product: Microsoft Azure cloud services and Power Apps platform; CVE(s): CVE-2025-29813, CVE-2025-29827, CVE-2025-29972, CVE-2025-47733; Summary: Four critical security vulnerabilities were patched in Microsoft's Azure cloud services and Power Apps platform. The most severe vulnerability (CVE-2025-29813) could allow attackers to escalate privileges or access sensitive information by exploiting improper handling of pipeline job tokens within Visual Studio.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134283</guid>
+      <pubDate>Sat, 10 May 2025 16:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Detecting Backdoors in Enterprise Networks</title>
+      <link>https://gbhackers.com/detecting-backdoors-enterprise-networks/</link>
+      <description>Vulnerable Product: VMware vCenter Server; CVE(s): CVE-2024-38812; Summary: A critical remote code execution flaw (CVE-2024-38812) was exploited in a backdoor attack, allowing attackers to gain unauthorized access to systems and potentially remain undetected for months while exfiltrating sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134680</guid>
+      <pubDate>Sat, 10 May 2025 16:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>Securing Windows Endpoints Using Group Policy Objects (GPOs): A Configuration Guide</title>
       <link>https://gbhackers.com/securing-windows-endpoints-using-group-policy-objects-gpos-a-configuration-guide/</link>
@@ -343,20 +357,6 @@
       <description>Fedora Linux is now available on the Windows Subsystem for Linux (WSL), allowing users to seamlessly integrate Fedora's cutting-edge tools and development environment directly into Windows. The integration empowers developers to leverage Fedora's robust package management and software repositories while maintaining compatibility with Windows workflows.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133667</guid>
       <pubDate>Fri, 09 May 2025 07:40:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android</title>
-      <link>https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html</link>
-      <description>Google is rolling out AI-powered countermeasures to combat scams across Chrome, Search, and Android. The tech giant will use its Gemini Nano large language model (LLM) to improve Safe Browsing in Chrome 137 on desktops, detecting remote tech support scams and other types of schemes. Additionally, Google has enhanced its AI-powered scam detection systems, reducing deceptive pages by over 80% and government service impersonation schemes by over 70%.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html</guid>
-      <pubDate>Fri, 09 May 2025 07:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell</title>
-      <link>https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html</link>
-      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324; Summary: A recently disclosed vulnerability in SAP NetWeaver allows attackers to achieve remote code execution (RCE) by uploading web shells through a susceptible "/developmentserver/metadatauploader" endpoint. The vulnerability, with a CVSS score of 10.0, has been exploited by multiple threat actors, including Chaya_004, since April 29, 2025.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html</guid>
-      <pubDate>Fri, 09 May 2025 04:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
