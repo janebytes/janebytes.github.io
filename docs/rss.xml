@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 13:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 14:00:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>North Korea’s OtterCookie Malware Added a New Feature to Attack Windows, Linux, and macOS</title>
+      <link>https://gbhackers.com/north-koreas-ottercookie-malware/</link>
+      <description>WaterPlum, a North Korea-linked attack group, has been targeting financial institutions, cryptocurrency operators, and FinTech companies globally since 2023. They have utilized various malware tools, including BeaverTailand InvisibleFerret, Contagious Interview, and their latest tool, OtterCookie, which has undergone rapid updates and evolved through multiple versions (v1 to v4) with enhanced capabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134226</guid>
+      <pubDate>Sat, 10 May 2025 13:17:11 +0000</pubDate>
+    </item>
     <item>
       <title>Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection</title>
       <link>https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html</link>
@@ -350,13 +357,6 @@
       <description>Vulnerable Product: Ubiquiti; CVE(s): CVE-2025-23123, CVE-2025-23164; Summary: Critical vulnerabilities in UniFi Protect surveillance ecosystem allow attackers to hijack cameras, execute malicious code remotely, and maintain unauthorized access to video feeds. The most severe vulnerability (CVE-2025-23123) is a heap buffer overflow that can trigger remote code execution with full control over affected devices.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=133917</guid>
       <pubDate>Thu, 08 May 2025 16:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>IXON VPN Client Vulnerability Allows Privilege Escalation for Attackers</title>
-      <link>https://gbhackers.com/ixon-vpn-client-vulnerability/</link>
-      <description>Vulnerable Product: IXON VPN Client; CVE(s): CVE-2025-26168, CVE-2025-26169; Summary: A critical security vulnerability in the IXON VPN client allows local privilege escalation attacks, enabling non-privileged users to gain root or SYSTEM-level access on Windows, Linux, and macOS systems. The flaw stems from improper handling of temporary configuration files, which can be exploited by replacing legitimate files with malicious versions containing arbitrary commands.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133994</guid>
-      <pubDate>Thu, 08 May 2025 16:43:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
