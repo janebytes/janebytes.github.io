@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 14:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 15:02:33 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DOGE Employee Computer Infected with Malware and Leaked Data Found Info-Stealer Logs</title>
+      <link>https://gbhackers.com/doge-employee-credentials-exposed-in-multiple-info-stealer-leaks/</link>
+      <description>This article reports on the unauthorized access to sensitive government systems, including the Federal Emergency Management Agency's core financial management platform, by Kyle Schutt, a 37-year-old DOGE employee. The article highlights systemic cybersecurity challenges within federal agencies, specifically the reliance on password-based authentication and the need for multi-factor authentication (MFA) and layered defense approaches.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134393</guid>
+      <pubDate>Sat, 10 May 2025 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why CISOs Must Prioritize Cybersecurity Culture in Remote Work</title>
+      <link>https://gbhackers.com/cybersecurity-culture-in-remote-work/</link>
+      <description>The article discusses the importance of building a strong cybersecurity culture in remote work environments. It highlights that Chief Information Security Officers (CISOs) must go beyond traditional technical responsibilities and foster a security-first mindset among remote employees. The article provides five practical steps for CISOs to build this culture, including developing remote-specific security policies, delivering ongoing training, encouraging open communication, recognizing good security behavior, and turning mistakes into learning opportunities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=132248</guid>
+      <pubDate>Sat, 10 May 2025 14:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Uses Advanced AI to Combat Sophisticated Online Scams</title>
+      <link>https://gbhackers.com/google-chrome-uses-ai/</link>
+      <description>Google has integrated artificial intelligence into its cybersecurity toolkit to shield users from financial and data theft scams. The company has unveiled AI-driven initiatives across Search, Chrome, and Android, aimed at counteracting increasingly sophisticated scams. The advancements include AI classifiers capable of analyzing vast web content datasets, identifying emerging scam patterns, and neutralizing coordinated campaigns.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134377</guid>
+      <pubDate>Sat, 10 May 2025 14:04:42 +0000</pubDate>
+    </item>
     <item>
       <title>North Korea’s OtterCookie Malware Added a New Feature to Attack Windows, Linux, and macOS</title>
       <link>https://gbhackers.com/north-koreas-ottercookie-malware/</link>
@@ -336,27 +357,6 @@
       <description>A malicious Python package named "discordpydebug" was discovered on the Python Package Index (PyPI) after over three years. The package, which masqueraded as an error logger utility, could be used to backdoor Discord developers' systems and provide attackers with data theft and remote code execution capabilities, downloaded over 11,000 times since its upload in March 2022.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/</guid>
       <pubDate>Thu, 08 May 2025 18:51:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOGE software engineer’s computer infected by info-stealing malware</title>
-      <link>https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/</link>
-      <description>The article discusses potential security lapses by the Department of Governmental Employee (DOGE) and CISA, including public exposure of sensitive information due to weak credentials and operational security gaffes. Critics suggest that the leaks may be intentional, potentially benefiting specific individuals or groups.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/</guid>
-      <pubDate>Thu, 08 May 2025 18:27:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The IT help desk kindly requests you read this newsletter</title>
-      <link>https://blog.talosintelligence.com/the-it-help-desk-kindly-requests-you-read-this-newsletter/</link>
-      <description>The article discusses the importance of being cautious when receiving instructions or requests from individuals claiming to be authorities, as attackers often impersonate authoritative figures to trick victims into taking actions that benefit the attackers. It also highlights the need for threat hunting and the use of different approaches to identify potential threats early on.</description>
-      <guid isPermaLink="false">681c9fb9f292a20001d3a4c1</guid>
-      <pubDate>Thu, 08 May 2025 18:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Ubiquiti UniFi Protect Camera Allows Remote Code Execution by Attackers</title>
-      <link>https://gbhackers.com/ubiquiti-unifi-vulnerability/</link>
-      <description>Vulnerable Product: Ubiquiti; CVE(s): CVE-2025-23123, CVE-2025-23164; Summary: Critical vulnerabilities in UniFi Protect surveillance ecosystem allow attackers to hijack cameras, execute malicious code remotely, and maintain unauthorized access to video feeds. The most severe vulnerability (CVE-2025-23123) is a heap buffer overflow that can trigger remote code execution with full control over affected devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133917</guid>
-      <pubDate>Thu, 08 May 2025 16:49:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
