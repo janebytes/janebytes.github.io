@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 14:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 15:02:19 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Leverage DDoS Attacks as Smokescreens for Data Theft</title>
+      <link>https://gbhackers.com/threat-actors-leverage-ddos-attacks/</link>
+      <description>DDoS attacks have evolved from being simple denial-of-service tools to sophisticated smokescreens masking more insidious breaches. Threat actors orchestrate high-volume traffic floods to distract security teams while executing quieter, surgical operations within the same infrastructure. This emerging pattern exploits both technical and human vulnerabilities during incident response, requiring a paradigm shift in defense strategies.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134892</guid>
+      <pubDate>Mon, 12 May 2025 14:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Majority of Browser Extensions Pose Critical Security Risk, A New Report Reveals</title>
+      <link>https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/</link>
+      <description>Vulnerable Product: None; Summary: The article discusses the risks associated with browser extensions in enterprise environments. It highlights that 99% of employees have browser extensions installed, which creates a significant threat surface. Many extensions have extensive permissions to sensitive data, and some are published anonymously or are outdated/unmanaged, making trust verification challenging and increasing security risks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/</guid>
+      <pubDate>Mon, 12 May 2025 14:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>20-Year-Old Proxy Botnet Network Dismantled After Exploiting 1,000 Unpatched Devices Each Week</title>
+      <link>https://gbhackers.com/20-year-old-proxy-botnet-network/</link>
+      <description>A 20-year-old criminal proxy network was disrupted through a joint operation. The botnet exploited an average of 1,000 unique IoT and end-of-life devices weekly, turning them into proxies for malicious actors. The network enabled illicit activities such as ad fraud, DDoS attacks, and data exploitation, with over half the infected devices located in the United States.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134851</guid>
+      <pubDate>Mon, 12 May 2025 14:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>“PupkinStealer” – .NET Malware Steals Browser Data and Exfiltrates via Telegram</title>
+      <link>https://gbhackers.com/pupkinstealer-net-malware-steals-browser-data/</link>
+      <description>PupkinStealer is a new information-stealing malware that targets sensitive user data, including browser credentials, personal files, session information from messaging platforms, and desktop screenshots. It uses the Telegram Bot API to exfiltrate stolen data to attacker-controlled servers with minimal traceability. The malware operates by initiating multiple asynchronous tasks upon execution, targeting Chromium-based browsers, scanning the victim's desktop for files, and harvesting Telegram and Discord tokens.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134828</guid>
+      <pubDate>Mon, 12 May 2025 14:25:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing Campaign Uses Blob URLs to Bypass Email Security and Avoid Detection</title>
+      <link>https://gbhackers.com/phishing-campaign-uses-blob-urls/</link>
+      <description>Cybersecurity researchers have identified a sophisticated phishing tactic that leverages Blob URIs to deliver credential phishing pages directly to users' inboxes, evading traditional email security measures. The attack chain begins with a phishing email that slips past Secure Email Gateways (SEGs) and uses legitimate intermediary sites like onedrive.live.com to render malicious HTML content, making it nearly impossible to analyze remotely.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134796</guid>
+      <pubDate>Mon, 12 May 2025 14:17:07 +0000</pubDate>
+    </item>
     <item>
       <title>VMware Tools Vulnerability Allows Attackers to Modify Files and Launch Malicious Operations</title>
       <link>https://gbhackers.com/vmware-tools-vulnerability-allows-attackers-to-modify-files/</link>
@@ -330,41 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>Vulnerable Product: None; CVEs: None; Summary: The article reports on the seizure of a cryptocurrency exchange platform called eXch by German authorities due to alleged money laundering activities. The platform is suspected of facilitating transactions worth approximately $1.9 billion and is linked to the notorious North Korean hacking group "Lazarus".</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/germany-takes-down-exch-cryptocurrency-exchange-seizes-servers/</guid>
       <pubDate>Fri, 09 May 2025 15:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit SAP RCE Vulnerability to Deploy Supershell Backdoors</title>
-      <link>https://gbhackers.com/chinese-hackers-exploit-sap-rce-vulnerability/</link>
-      <description>Vulnerable Product: SAP NetWeaver Visual Composer 7.x; CVE(s): CVE-2025-31324; Summary: A critical remote code execution (RCE) vulnerability in SAP NetWeaver Visual Composer 7.x allows attackers to upload malicious binaries, including web shells, granting full system takeover capabilities. The vulnerability is being actively exploited by a Chinese threat actor, tracked as Chaya_004, and can be used to disrupt operations, steal sensitive data, and violate regulatory requirements.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134536</guid>
-      <pubDate>Fri, 09 May 2025 13:49:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target IT Admins by Poisoning SEO to Push Malware to Top Search Results</title>
-      <link>https://gbhackers.com/hackers-target-it-admins-by-poisoning-seo-to-push-malware/</link>
-      <description>Cybercriminals are using Search Engine Optimization (SEO) poisoning techniques to trick IT administrators into downloading malicious software, which can lead to devastating consequences such as data exfiltration and ransomware. The attackers establish persistent access, evade detection by masquerading traffic over common ports, and systematically target mission-critical assets. To combat this, experts recommend a robust "Defense in Depth" approach, including hardening access to critical assets, deploying Endpoint Detection and Response solutions, and implementing application allow-listing.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134509</guid>
-      <pubDate>Fri, 09 May 2025 13:40:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Mamona Ransomware Targets Windows Systems Using Abused Ping Command</title>
-      <link>https://gbhackers.com/new-mamona-ransomware-targets-windows-systems/</link>
-      <description>Mamona is a newly discovered commodity ransomware strain that rapidly spreads across Windows systems. It employs a unique set of tactics, including exploiting the Windows "ping" command as a timing mechanism and operating entirely offline, making detection and response more difficult. The ransomware operates in "mute mode," executing all encryption and logic locally, and does not attempt to steal files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134567</guid>
-      <pubDate>Fri, 09 May 2025 13:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Python Package Impersonates Discord Developers to Deploy Remote Commands</title>
-      <link>https://gbhackers.com/malicious-python-package-impersonates-discord-developers/</link>
-      <description>Vulnerable Product: discordpydebug; CVE(s): None; Summary: The 'discordpydebug' Python package was marketed as a debugging utility for Discord bot developers, but it actually contained a fully functional remote access trojan (RAT). Over 11,000 downloads were made before its malicious nature was exposed, putting thousands of systems at risk.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134447</guid>
-      <pubDate>Fri, 09 May 2025 13:17:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Supply Chain Attack Compromises Popular npm Package with 45,000 Weekly Downloads</title>
-      <link>https://gbhackers.com/new-supply-chain-attack-compromises-popular-npm-package/</link>
-      <description>Vulnerable Product: WebScrapingAPI rand-user-agent; CVE(s): None; Summary: The npm package rand-user-agent has been targeted by an advanced supply chain attack, which embedded malicious code in several recent releases. The compromised package can be used to establish covert communication channels with command-and-control (C2) servers, upload files, and execute arbitrary shell commands, posing a severe risk of data theft and unauthorized control.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134480</guid>
-      <pubDate>Fri, 09 May 2025 13:10:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
