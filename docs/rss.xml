@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 18:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 19:01:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Kimsuky Hacker Group Deploys New Phishing Techniques and Malware Campaigns</title>
+      <link>https://gbhackers.com/kimsuky-hacker-group-deploys-new-phishing-techniques/</link>
+      <description>The North Korean state-sponsored APT group Kimsuky has been active since at least 2012, targeting nations like South Korea, Japan, and the United States with sophisticated cyber espionage campaigns. The article details Kimsuky's latest attack vector, which employs phishing, malware deployment, and obfuscation techniques to evade detection and penetrate sensitive systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134940</guid>
+      <pubDate>Mon, 12 May 2025 19:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT37 Hackers Use Weaponized LNK Files and Dropbox for Command-and-Control Operations</title>
+      <link>https://gbhackers.com/apt37-hackers-use-weaponized-lnk-files-and-dropbox/</link>
+      <description>APT37, a North Korean state-sponsored hacking group, launched a spear phishing campaign targeting activists focused on North Korean issues. The attackers exploited legitimate cloud services like Dropbox as command-and-control (C2) infrastructure and delivered malicious shortcut (LNK) files via phishing emails to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134904</guid>
+      <pubDate>Mon, 12 May 2025 18:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers now testing ClickFix attacks against Linux targets</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/</link>
+      <description>A new ClickFix attack campaign has been spotted targeting Windows, Linux, and macOS systems, using social engineering tactics to trick users into running console commands that install malware. The attacks are attributed to the Pakistan-linked threat group APT36 (aka "Transparent Tribe").</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/</guid>
+      <pubDate>Mon, 12 May 2025 18:10:29 +0000</pubDate>
+    </item>
     <item>
       <title>Output Messenger flaw exploited as zero-day in espionage attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/</link>
@@ -344,27 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>Vulnerable Product: Various router models from Linksys and Cisco; CVE(s): None; Summary: A botnet infected thousands of routers worldwide, including older wireless internet routers, with malware since at least 2004. The compromised devices were used to build two networks of residential proxies (Anyproxy and 5socks) which were sold as proxy servers on the dark web, allowing unauthorized access to be sold for malicious activities such as ad fraud, DDoS attacks, brute forcing, or exploiting victim's data.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/</guid>
       <pubDate>Fri, 09 May 2025 17:47:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattackers Targeting IT Help Desks for Initial Breach</title>
-      <link>https://gbhackers.com/cyberattackers-targeting-it-help-desks/</link>
-      <description>This article discusses a trend of cybercriminals impersonating IT support personnel, tax officials, or banking representatives to manipulate victims into granting access to critical systems. The attackers exploit psychological vulnerabilities and human tendencies to defer to authority figures, bypassing technical defenses.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134268</guid>
-      <pubDate>Fri, 09 May 2025 17:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Stealthy .NET Malware Hiding Malicious Payloads Within Bitmap Resources</title>
-      <link>https://gbhackers.com/new-stealthy-net-malware-hiding-malicious-payloads/</link>
-      <description>Palo Alto Networks' Unit 42 researchers discovered a novel obfuscation method used by threat actors to conceal malware within bitmap resources of seemingly benign .NET applications. The method embeds malicious payloads in bitmap files, initiating a multi-stage infection chain that delivers destructive malware families such as Agent Tesla, Remcos RAT, and XLoader.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134622</guid>
-      <pubDate>Fri, 09 May 2025 16:52:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Weaponizing Facebook Ads to Deploy Multi-Stage Malware Attacks</title>
-      <link>https://gbhackers.com/hackers-weaponizing-facebook-ads/</link>
-      <description>A persistent malvertising campaign on Facebook has been uncovered, exploiting trust associated with major cryptocurrency exchanges to distribute multi-stage malware. The campaign uses advanced evasion techniques, mass brand impersonation, and user-tracking mechanisms to bypass conventional security defenses and target users with fake ads and accounts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134609</guid>
-      <pubDate>Fri, 09 May 2025 16:42:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
