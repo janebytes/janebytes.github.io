@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 17:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 18:01:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Output Messenger flaw exploited as zero-day in espionage attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/</link>
+      <description>Vulnerable Product: Output Messenger; CVE(s): CVE-2025-27920; Summary: A zero-day vulnerability (CVE-2025-27920) in the LAN messaging application, a directory traversal vulnerability that allows authenticated attackers to access sensitive files or deploy malicious payloads. The vulnerability was exploited by the Marbled Dust group to attack Output Messenger users linked to the Kurdish military in Iraq and gain access to sensitive data, impersonate users, and cause operational disruptions.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/</guid>
+      <pubDate>Mon, 12 May 2025 17:34:44 +0000</pubDate>
+    </item>
     <item>
       <title>Moldova arrests suspect linked to DoppelPaymer ransomware attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/</link>
@@ -358,13 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>A persistent malvertising campaign on Facebook has been uncovered, exploiting trust associated with major cryptocurrency exchanges to distribute multi-stage malware. The campaign uses advanced evasion techniques, mass brand impersonation, and user-tracking mechanisms to bypass conventional security defenses and target users with fake ads and accounts.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134609</guid>
       <pubDate>Fri, 09 May 2025 16:42:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Target Job Seekers with Three New Unique Adversaries</title>
-      <link>https://gbhackers.com/threat-actors-target-job-seekers/</link>
-      <description>A sharp rise in recruitment scams has been detected by Netcraft, driven by three distinct threat actors employing unique and highly technical strategies to exploit vulnerabilities in the job market. These scams have resulted in over $500 million in losses in the U.S. alone in 2023 and are likely to continue growing as economic pressures create fertile ground for cybercriminals. The threats involve advance fee fraud, phishing websites, and identity theft tactics.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134594</guid>
-      <pubDate>Fri, 09 May 2025 16:35:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
