@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 19:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 20:01:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Lumma Stealer Upgraded with PowerShell Tools and Advanced Evasion Techniques</title>
+      <link>https://gbhackers.com/lumma-stealer-upgraded-with-powershell-tools/</link>
+      <description>The article discusses the evolution of Lumma Stealer malware, which uses sophisticated PowerShell tools and advanced evasion tactics to deceive users. It targets sensitive data such as passwords, session tokens, cryptocurrency wallets, and personal information. The malware uses social engineering, exploiting user trust in CAPTCHA challenges, and executes malicious PowerShell commands, often leading to devastating data theft.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134985</guid>
+      <pubDate>Mon, 12 May 2025 19:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Noodlophile Malware Spreads Through Fake AI Video Generation Platforms</title>
+      <link>https://gbhackers.com/new-noodlophile-malware-spreads-through-fake-ai-video/</link>
+      <description>Cybercriminals have launched a new malware campaign using fake AI video generation platforms as a lure, targeting users by exploiting their enthusiasm for AI-powered content creation tools. The malware, dubbed Noodlophile Stealer, harvests browser credentials, cryptocurrency wallets, and other sensitive data, and may also deploy a remote access trojan (RAT) like XWorm to gain deeper control over compromised systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134958</guid>
+      <pubDate>Mon, 12 May 2025 19:07:12 +0000</pubDate>
+    </item>
     <item>
       <title>Kimsuky Hacker Group Deploys New Phishing Techniques and Malware Campaigns</title>
       <link>https://gbhackers.com/kimsuky-hacker-group-deploys-new-phishing-techniques/</link>
@@ -351,20 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>A data breach disclosed by Ascension, a private healthcare system in the US, affected over 430,000 patients, exposing personal and healthcare information. The breach was caused by a former business partner's vulnerability in third-party software used by the partner, which was exploited in a widespread Clop ransomware attack.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ascension-says-recent-data-breach-affects-over-430-000-patients/</guid>
       <pubDate>Fri, 09 May 2025 18:48:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome to use on-device AI to detect tech support scams</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/</link>
-      <description>The article discusses Google's implementation of a new Chrome security feature that uses the Gemini Nano large-language model to detect and block tech support scams while browsing the web. This feature analyzes web pages in real-time to detect scam signals, and if malicious intent is confirmed, it displays a warning message informing the user of the risk.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/</guid>
-      <pubDate>Fri, 09 May 2025 17:49:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police dismantles botnet selling hacked routers as residential proxies</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/</link>
-      <description>Vulnerable Product: Various router models from Linksys and Cisco; CVE(s): None; Summary: A botnet infected thousands of routers worldwide, including older wireless internet routers, with malware since at least 2004. The compromised devices were used to build two networks of residential proxies (Anyproxy and 5socks) which were sold as proxy servers on the dark web, allowing unauthorized access to be sold for malicious activities such as ad fraud, DDoS attacks, brute forcing, or exploiting victim's data.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/</guid>
-      <pubDate>Fri, 09 May 2025 17:47:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
