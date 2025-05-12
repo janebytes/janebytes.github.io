@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 15:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 16:02:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Moldova arrests suspect linked to DoppelPaymer ransomware attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/</link>
+      <description>This article is not about a vulnerability, but rather reports on the detention of a suspect linked to DoppelPaymer ransomware attacks targeting Dutch organizations. The suspect remains in custody and legal procedures are underway for extradition to the Netherlands.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/</guid>
+      <pubDate>Mon, 12 May 2025 15:18:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Source Linux Firewall IPFire 2.29 – Core Update 194 Released: What’s New!</title>
+      <link>https://gbhackers.com/ipfire-2-29-core-update-194/</link>
+      <description>Vulnerable Product: None; CVE(s): expat 2.7.1 (fixing CVE-2024-8176), xz 5.8.1 (fixing CVE-2025-31115); Summary: IPFire 2.29 – Core Update 194 includes security enhancements, performance improvements, and new features to safeguard networks, including updates for expat (fixing CVE-2024-8176) and xz (fixing CVE-2025-31115).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135019</guid>
+      <pubDate>Mon, 12 May 2025 15:13:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google to pay $1.375 billion to settle Texas data privacy violations</title>
+      <link>https://www.bleepingcomputer.com/news/legal/google-to-pay-1375-billion-to-settle-texas-data-privacy-violations/</link>
+      <description>Google has agreed to a $1.375 billion settlement with the state of Texas over allegations it collected and used biometric data without consent, impacting millions of Texans; this settlement marks one of the highest recoveries against Google nationwide.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/google-to-pay-1375-billion-to-settle-texas-data-privacy-violations/</guid>
+      <pubDate>Mon, 12 May 2025 15:02:54 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Leverage DDoS Attacks as Smokescreens for Data Theft</title>
       <link>https://gbhackers.com/threat-actors-leverage-ddos-attacks/</link>
@@ -44,6 +65,13 @@
       <pubDate>Mon, 12 May 2025 14:17:07 +0000</pubDate>
     </item>
     <item>
+      <title>ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files</title>
+      <link>https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html</link>
+      <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462, CVE-2025-3463; Summary: Two security flaws in ASUS DriverHub allow an attacker to achieve remote code execution. The first flaw is an origin validation error vulnerability (CVE-2025-3462) and the second is an improper certificate validation vulnerability (CVE-2025-3463). An attacker can exploit these vulnerabilities by tricking a user into visiting a crafted domain and executing a malicious file using the "AsusSetup.exe" binary.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html</guid>
+      <pubDate>Mon, 12 May 2025 14:03:00 +0000</pubDate>
+    </item>
+    <item>
       <title>VMware Tools Vulnerability Allows Attackers to Modify Files and Launch Malicious Operations</title>
       <link>https://gbhackers.com/vmware-tools-vulnerability-allows-attackers-to-modify-files/</link>
       <description>Vulnerable Product: VMware Tools; CVE(s): CVE-2025-22247; Summary: The VMware Tools insecure file handling vulnerability (CVE-2025-22247) allows non-administrative users to manipulate files within guest virtual machines, enabling unauthorized file operations. The vulnerability affects multiple versions of VMware Tools across different operating systems, with a CVSS base score of 6.1.</description>
@@ -60,6 +88,13 @@ However, the article does mention some general security tips and best practices,
 Overall, the article serves as a general cybersecurity news roundup, providing readers with information on the latest threats and trends in the field.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html</guid>
       <pubDate>Mon, 12 May 2025 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update to How CISA Shares Cyber-Related Alerts and Notifications</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/12/update-how-cisa-shares-cyber-related-alerts-and-notifications</link>
+      <description>CISA (Cybersecurity and Infrastructure Security Agency) is changing how it announces cybersecurity updates and releases new guidance, shifting focus from the Cybersecurity Alerts &amp; Advisories webpage to urgent information on emerging threats or major cyber activity. The changes aim to ensure critical information gets attention and is easier to find.</description>
+      <guid isPermaLink="false">/node/23334</guid>
+      <pubDate>Mon, 12 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QatarRat Tool Emerges, GST Data Sold, and LockBit Gets Breached</title>
@@ -330,41 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>A sharp rise in recruitment scams has been detected by Netcraft, driven by three distinct threat actors employing unique and highly technical strategies to exploit vulnerabilities in the job market. These scams have resulted in over $500 million in losses in the U.S. alone in 2023 and are likely to continue growing as economic pressures create fertile ground for cybercriminals. The threats involve advance fee fraud, phishing websites, and identity theft tactics.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134594</guid>
       <pubDate>Fri, 09 May 2025 16:35:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation</title>
-      <link>https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html</link>
-      <description>The article discusses a joint law enforcement operation that dismantled a criminal proxy network powered by thousands of infected IoT and end-of-life devices. The botnet was used to provide anonymity to malicious actors, with users paying a monthly subscription fee for access to the infected routers.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html</guid>
-      <pubDate>Fri, 09 May 2025 16:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OtterCookie v4 Adds VM Detection and Chrome, MetaMask Credential Theft Capabilities</title>
-      <link>https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html</link>
-      <description>The article discusses the Contagious Interview campaign, a North Korean threat actor group that uses updated versions of cross-platform malware called OtterCookie. The malware has capabilities to steal credentials from web browsers and other files, and has been found to incorporate new modules for stealing credentials from Google Chrome and MetaMask extension.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html</guid>
-      <pubDate>Fri, 09 May 2025 16:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese hackers behind attacks targeting SAP NetWeaver servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-attacks-targeting-sap-netweaver-servers/</link>
-      <description>Vulnerable Product: SAP; CVE(s): CVE-2025-31324; Summary: A maximum severity vulnerability in SAP NetWeaver Visual Composer allows unauthenticated attackers to upload malicious files, enabling remote code execution and potentially leading to complete system compromise. The vulnerability was exploited by a Chinese threat actor, with multiple customers' systems breached through unauthorized file uploads on SAP NetWeaver.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-attacks-targeting-sap-netweaver-servers/</guid>
-      <pubDate>Fri, 09 May 2025 16:23:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider Malware Targets Klaviyo, HubSpot, and Pure Storage Platforms</title>
-      <link>https://gbhackers.com/scattered-spider-malware-targets-klaviyo/</link>
-      <description>Scattered Spider, a notorious hacker collective, continues to actively target prominent services in 2025, including Klaviyo, HubSpot, and Pure Storage. Their tactics, techniques, and procedures have evolved with updated phishing kits and a new variant of the Spectre RAT designed for persistent access to compromised systems. The group's infrastructure choices, such as using dynamic DNS vendors and privacy-focused providers like Njalla, Virtuo, and Cloudflare, indicate a deliberate move toward operational stealth.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134559</guid>
-      <pubDate>Fri, 09 May 2025 15:28:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany takes down eXch cryptocurrency exchange, seizes servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/germany-takes-down-exch-cryptocurrency-exchange-seizes-servers/</link>
-      <description>Vulnerable Product: None; CVEs: None; Summary: The article reports on the seizure of a cryptocurrency exchange platform called eXch by German authorities due to alleged money laundering activities. The platform is suspected of facilitating transactions worth approximately $1.9 billion and is linked to the notorious North Korean hacking group "Lazarus".</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/germany-takes-down-exch-cryptocurrency-exchange-seizes-servers/</guid>
-      <pubDate>Fri, 09 May 2025 15:07:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
