@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 21:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 22:01:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ASUS DriverHub flaw let malicious sites run commands with admin rights</title>
+      <link>https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/</link>
+      <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462, CVE-2025-3463; Summary: The ASUS DriverHub driver management utility had a critical remote code execution flaw that allowed malicious sites to execute commands on devices with the software installed. The flaw was due to poor validation of commands sent to the DriverHub background service and could be exploited by spoofing the Origin Header and using the UpdateApp endpoint to download and run .exe files from ".asus.com" URLs without user confirmation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/</guid>
+      <pubDate>Mon, 12 May 2025 21:26:46 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 11 upgrade block lifted after Safe Exam Browser fix</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-upgrade-block-lifted-after-safe-exam-browser-fix/</link>
@@ -358,13 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>The German Federal Criminal Police Office (BKA) seized the online infrastructure and shut down eXch, a cryptocurrency exchange accused of money laundering and operating a criminal trading platform. The operation allegedly allowed users to conceal financial flows without implementing anti-money laundering measures, with an estimated $1.9 billion worth of assets transferred since its launch.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html</guid>
       <pubDate>Sat, 10 May 2025 06:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: CVE-2025-31324</title>
-      <link>https://unit42.paloaltonetworks.com/threat-brief-sap-netweaver-cve-2025-31324/</link>
-      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324; Summary: A critical vulnerability in SAP NetWeaver's Visual Composer Framework (version 7.50) allows unauthenticated users to upload arbitrary files, leading to remote code execution and system compromise. The vulnerability is exploited by sending specially crafted HTTP requests to the /developmentserver/metadatauploader endpoint.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140450</guid>
-      <pubDate>Fri, 09 May 2025 22:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
