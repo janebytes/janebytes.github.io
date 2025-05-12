@@ -6,8 +6,26 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 11:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 12:01:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>QatarRat Tool Emerges, GST Data Sold, and LockBit Gets Breached</title>
+      <link>https://socradar.io/qatarrat-tool-emerges-gst-data-sold-and-lockbit-breach/</link>
+      <description>Vulnerable Product: LockBit; CVE(s): CVE-2024-4577; Summary: A PHP 8.1.2 vulnerability (CVE-2024-4577) was exploited to hack LockBit's dark web panel, exposing a MySQL database containing nearly 60,000 Bitcoin addresses, affiliate credentials, ransom negotiations, and internal tools.
+
+FYSA: The article highlights threat actors selling malware, including a new multi-functional RAT named QatarRat, and stolen data from India's GST portal. Additionally, crypto stealer logs targeting wallet users are being sold, underscoring ongoing threats across malware, finance, and government sectors.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100059927</guid>
+      <pubDate>Mon, 12 May 2025 11:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That</title>
+      <link>https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html</link>
+      <description>The article discusses the persistence of exposed company secrets in public GitHub repositories, with many credentials remaining valid for years after detection. This creates an expanding attack surface that organizations often fail to address due to limited visibility, operational complexity, and technical limitations.
+
+FYSA: Threat actors can exploit exposed database credentials to exfiltrate or corrupt data, while cloud keys grant access to infrastructure, code, and customer data. Organizations should prioritize rapid remediation and adopt modern secrets management practices, including short-lived, dynamic credentials and automation, to reduce the risks posed by exposed secrets.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html</guid>
+      <pubDate>Mon, 12 May 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Metasploit Update Adds Erlang/OTP SSH Exploit and OPNSense Scanner</title>
       <link>https://gbhackers.com/metasploit-update-erlang-opnsense-scanner/</link>
@@ -343,20 +361,6 @@
       <description>A sophisticated email campaign targets organizations in Spain, Italy, and Portugal, distributing a Remote Access Trojan (RAT) known as RATty, primarily affecting Windows systems but also posing a threat to Linux and macOS environments where the Java Runtime Environment (JRE) is installed. The campaign uses legitimate Spanish email service provider, serviciodecorreo.es, and advanced evasion tactics to deliver malicious payloads.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134394</guid>
       <pubDate>Fri, 09 May 2025 12:47:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indirect Prompt Injection Exploits LLMs’ Lack of Informational Context</title>
-      <link>https://gbhackers.com/indirect-prompt-injection-exploits-llms-lack/</link>
-      <description>A new type of cyber threat, called "indirect prompt injection attacks," targets large language models (LLMs) by embedding malicious directives within external data sources. These attacks exploit LLMs' trust in uncurated content and can lead to data leaks, misinformation, and code injection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134291</guid>
-      <pubDate>Fri, 09 May 2025 12:35:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>FreeDrain Phishing Attack Targets Users to Steal Financial Login Credentials</title>
-      <link>https://gbhackers.com/freedrain-phishing-attack-targets-users/</link>
-      <description>The article exposes an industrial-scale cryptocurrency phishing operation called FreeDrain, which has been active since 2022. It leverages search engine optimization manipulation, free-tier web services, and intricate redirection techniques to target unsuspecting users of cryptocurrency wallets. The operation is believed to be based in the UTC+05:30 timezone (likely India) and operates on a standard 9-to-5 weekday schedule.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134302</guid>
-      <pubDate>Fri, 09 May 2025 12:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
