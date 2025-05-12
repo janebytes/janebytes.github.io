@@ -6,8 +6,26 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 12:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 13:05:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>VMware Tools Vulnerability Allows Attackers to Modify Files and Launch Malicious Operations</title>
+      <link>https://gbhackers.com/vmware-tools-vulnerability-allows-attackers-to-modify-files/</link>
+      <description>Vulnerable Product: VMware Tools; CVE(s): CVE-2025-22247; Summary: The VMware Tools insecure file handling vulnerability (CVE-2025-22247) allows non-administrative users to manipulate files within guest virtual machines, enabling unauthorized file operations. The vulnerability affects multiple versions of VMware Tools across different operating systems, with a CVSS base score of 6.1.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134900</guid>
+      <pubDate>Mon, 12 May 2025 12:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams</title>
+      <link>https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html</link>
+      <description>The article appears to be a collection of cybersecurity news and updates from various sources. It covers topics such as ransomware attacks, phishing scams, data breaches, and other cyber threats. There are no specific software, hardware, or firmware vulnerabilities discussed in this article.
+
+However, the article does mention some general security tips and best practices, such as uniting code, cloud, and SOC security to eliminate hidden gaps, building a legally defensible cyber defense program, and blocking AI bots from scraping websites. These tips aim to provide readers with actionable advice on how to improve their overall cybersecurity posture.
+
+Overall, the article serves as a general cybersecurity news roundup, providing readers with information on the latest threats and trends in the field.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html</guid>
+      <pubDate>Mon, 12 May 2025 12:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>QatarRat Tool Emerges, GST Data Sold, and LockBit Gets Breached</title>
       <link>https://socradar.io/qatarrat-tool-emerges-gst-data-sold-and-lockbit-breach/</link>
@@ -347,20 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>Vulnerable Product: WebScrapingAPI rand-user-agent; CVE(s): None; Summary: The npm package rand-user-agent has been targeted by an advanced supply chain attack, which embedded malicious code in several recent releases. The compromised package can be used to establish covert communication channels with command-and-control (C2) servers, upload files, and execute arbitrary shell commands, posing a severe risk of data theft and unauthorized control.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134480</guid>
       <pubDate>Fri, 09 May 2025 13:10:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Leverage Multimedia Systems in Stealthy Vishing Attacks</title>
-      <link>https://gbhackers.com/threat-actors-leverage-multimedia-systems/</link>
-      <description>Threat actors have begun exploiting multimedia systems, such as VoIP and streaming services, to orchestrate advanced voice phishing (vishing) attacks that integrate compromised platforms with social engineering tactics. These attacks exploit vulnerabilities in protocols like SIP and RTSP, and use deepfake technology to deceive victims, posing a significant challenge to organizations and individuals.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134421</guid>
-      <pubDate>Fri, 09 May 2025 13:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit PDF Invoices to Target Windows, Linux, and macOS Systems</title>
-      <link>https://gbhackers.com/hackers-exploit-pdf-invoices-to-target-windows/</link>
-      <description>A sophisticated email campaign targets organizations in Spain, Italy, and Portugal, distributing a Remote Access Trojan (RAT) known as RATty, primarily affecting Windows systems but also posing a threat to Linux and macOS environments where the Java Runtime Environment (JRE) is installed. The campaign uses legitimate Spanish email service provider, serviciodecorreo.es, and advanced evasion tactics to deliver malicious payloads.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134394</guid>
-      <pubDate>Fri, 09 May 2025 12:47:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
