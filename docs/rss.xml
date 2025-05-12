@@ -6,8 +6,85 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 22:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 10:05:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Metasploit Update Adds Erlang/OTP SSH Exploit and OPNSense Scanner</title>
+      <link>https://gbhackers.com/metasploit-update-erlang-opnsense-scanner/</link>
+      <description>Vulnerable Product: Erlang/OTP SSH servers; CVE(s): CVE-2025-32433; Summary: The Erlang/OTP SSH Pre-Auth Root RCE exploit targets a critical pre-authentication vulnerability in Erlang-based SSH servers, allowing attackers to execute arbitrary commands as root by sending crafted SSH packets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134862</guid>
+      <pubDate>Mon, 12 May 2025 09:54:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Researchers Use Mach IPC to Uncover Sandbox Escape Vulnerabilities</title>
+      <link>https://gbhackers.com/mach-ipc-to-uncover-sandbox-escape-vulnerabilities/</link>
+      <description>Vulnerable Product: Google Project Zero researchers, macOS; CVE(s): None; Summary: The researchers discovered new sandbox escape vulnerabilities in macOS using Mach Interprocess Communication (IPC) mechanisms-core components of Apple's operating system. The vulnerabilities allow crafted messages to cause out-of-bounds memory access, potentially enabling privilege escalation and sandbox escapes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134804</guid>
+      <pubDate>Mon, 12 May 2025 08:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Hide Undetectable Ransomware Inside JPG Images</title>
+      <link>https://gbhackers.com/undetectable-ransomware-inside-jpg-images/</link>
+      <description>The article describes a new ransomware attack method that exploits JPEG image files to deliver fully undetectable (FUD) ransomware. The attack involves embedding malicious code within standard JPG images, which activates a multi-stage attack when the victim opens the image, including downloading the ransomware executable and encrypting the victim's files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134792</guid>
+      <pubDate>Mon, 12 May 2025 08:19:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Legacy Protocols in Microsoft Entra ID to Bypass MFA and Conditional Access</title>
+      <link>https://gbhackers.com/hackers-exploit-legacy-protocols-in-microsoft-entra-id/</link>
+      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: The campaign exploited outdated legacy authentication protocols, including BAV2ROPC, SMTP AUTH, POP3, and IMAP4, to bypass modern security measures like MFA and Conditional Access. Attackers targeted legacy endpoints like Exchange Online and the Microsoft Authentication Library, exploiting OAuth legacy flows, password authentication, basic authentication, and legacy Exchange protocols.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134763</guid>
+      <pubDate>Mon, 12 May 2025 08:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Abuse Copilot AI in SharePoint to Steal Passwords and Sensitive Data</title>
+      <link>https://gbhackers.com/hackers-abuse-copilot-ai-in-sharepoint/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): None; Summary: The article describes a vulnerability where attackers can exploit AI agents embedded in SharePoint sites to bypass traditional security controls, extract passwords, and access restricted files. Attackers can manipulate these agents by framing malicious queries as legitimate security audits, allowing them to evade detection and gain unauthorized access to sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134731</guid>
+      <pubDate>Mon, 12 May 2025 07:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defendnot: A Tool That Disables Windows Defender by Registering as Antivirus</title>
+      <link>https://gbhackers.com/defendnot-a-tool-that-disables-windows-defender/</link>
+      <description>Vulnerable Product: Windows; CVE(s): None; Summary: The "defendnot" tool uses undocumented Windows Security Center APIs to disable Windows Defender by registering itself as a third-party antivirus solution. It achieves this by utilizing the Windows Security Center (WSC) service and performing signature verification, DLL characteristic checks, and other security checks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134710</guid>
+      <pubDate>Mon, 12 May 2025 07:54:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitel SIP Phone Flaws Allow Attackers to Inject Malicious Commands</title>
+      <link>https://gbhackers.com/mitel-sip-phone-flaws-allow-attackers/</link>
+      <description>Vulnerable Product: Mitel; CVE(s): CVE-2025-47188, CVE-2025-47187; Summary: A pair of vulnerabilities in Mitel's 6800 Series, 6900 Series, and 6900w Series SIP Phones could enable attackers to execute arbitrary commands or upload malicious files to compromised devices, posing significant risks to enterprise communication systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134738</guid>
+      <pubDate>Mon, 12 May 2025 07:38:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures</title>
+      <link>https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html</link>
+      <description>Threat actors are using fake AI-powered tools as lures to entice users into downloading an information stealer malware dubbed Noodlophile. The malware harvests browser credentials, cryptocurrency wallet information, and other sensitive data, and in some cases, bundles with a remote access trojan for persistent access.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html</guid>
+      <pubDate>Mon, 12 May 2025 07:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams to Safeguard Meetings by Blocking Screen Snaps</title>
+      <link>https://gbhackers.com/microsoft-teams-blocking-screen-snaps/</link>
+      <description>Microsoft is introducing a "Prevent Screen Capture" feature for Teams, which will block unauthorized screenshots and recordings during virtual meetings. When activated, any attempt to take a screenshot will result in the meeting window going completely black, leaving only system notifications visible in the captured image.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134749</guid>
+      <pubDate>Mon, 12 May 2025 06:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Exploit Method Extracts Microsoft Entra Tokens Through Beacon</title>
+      <link>https://gbhackers.com/new-exploit-method-extracts-microsoft-entra-tokens/</link>
+      <description>Vulnerable Product: Microsoft Entra; CVE(s): None; Summary: A novel exploit method uses Beacon Object Files (BOFs) to extract Microsoft Entra tokens from compromised endpoints, including non-domain-joined or BYOD devices. The technique bypasses traditional detection mechanisms and expands access to high-value targets, posing significant risks to enterprise cloud environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134720</guid>
+      <pubDate>Mon, 12 May 2025 05:42:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>PoC Code Published for Linux nftables Security Vulnerability</title>
+      <link>https://gbhackers.com/poc-code-for-linux-nftables-security-vulnerability/</link>
+      <description>Vulnerable Product: Linux; CVE(s): CVE-2024-26809; Summary: The Linux nftables firewall subsystem contains a high-severity double-free vulnerability that allows local attackers to escalate privileges and execute arbitrary code. The flaw resides in the pipapo set implementation, which can be exploited by deleting a set marked as "dirty" while it's still dirty, leading to repeated deallocations of memory.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=134711</guid>
+      <pubDate>Mon, 12 May 2025 05:19:35 +0000</pubDate>
+    </item>
     <item>
       <title>Bluetooth 6.1 enhances privacy with randomized RPA timing</title>
       <link>https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/</link>
@@ -280,83 +357,6 @@
       <description>The article exposes an industrial-scale cryptocurrency phishing operation called FreeDrain, which has been active since 2022. It leverages search engine optimization manipulation, free-tier web services, and intricate redirection techniques to target unsuspecting users of cryptocurrency wallets. The operation is believed to be based in the UTC+05:30 timezone (likely India) and operates on a standard 9-to-5 weekday schedule.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134302</guid>
       <pubDate>Fri, 09 May 2025 12:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials</title>
-      <link>https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html</link>
-      <description>A new campaign targeting Portuguese-speaking users in Brazil uses trial versions of commercial remote monitoring and management (RMM) software as a lure to trick users into clicking on malicious content hosted in Dropbox. The attack chain begins with spam emails claiming to originate from financial institutions or cell phone carriers, warning of overdue bills or outstanding payments.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html</guid>
-      <pubDate>Fri, 09 May 2025 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deploying AI Agents? Learn to Secure Them Before Hackers Strike Your Business</title>
-      <link>https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html</link>
-      <description>The article discusses the growing concern about the security risks associated with AI agents, highlighting potential threats such as data leaks, identity theft, and malicious misuse. It emphasizes the need for companies to ensure the secure use of AI agents, citing their ability to work with sensitive data and make real-time decisions.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html</guid>
-      <pubDate>Fri, 09 May 2025 11:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Packages Infect 3,200+ Cursor Users With Backdoor, Steal Credentials</title>
-      <link>https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html</link>
-      <description>Vulnerable Product: npm packages "sw-cur", "sw-cur1", and "aiide-cur"; CVE(s): None; Summary: Three malicious npm packages designed to target Apple macOS version of Cursor AI-powered source code editor steal user credentials, fetch encrypted payload, overwrite main.js file, and disable auto-updates.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html</guid>
-      <pubDate>Fri, 09 May 2025 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stealthy .NET Malware: Hiding Malicious Payloads as Bitmap Resources</title>
-      <link>https://unit42.paloaltonetworks.com/malicious-payloads-as-bitmap-resources-hide-net-malware/</link>
-      <description>Threat actors are using steganography within bitmap resources embedded in 32-bit .NET applications to hide malicious payloads, creating a multi-stage chain of extracting, deobfuscating, loading and executing secondary payloads (dynamic-link libraries) eventually detonating the final payload (executable). This technique is used to evade detection and successfully execute popular malware families such as Agent Tesla variants, XLoader, and Remcos RAT.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140363</guid>
-      <pubDate>Fri, 09 May 2025 10:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond Vulnerability Management – Can You CVE What I CVE?</title>
-      <link>https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html</link>
-      <description>The article discusses the challenges of vulnerability management, highlighting the reactive nature of current approaches. It proposes a shift from "vulnerability management" to "Threat Mitigation," focusing on risk reduction rather than reacting to individual vulnerabilities. The authors introduce the Exploit Prediction Scoring System (EPSS) and demonstrate its application in prioritizing vulnerabilities. They also emphasize the importance of considering threat actors' skills, persistence, and scalability when assessing risk.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html</guid>
-      <pubDate>Fri, 09 May 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Host Header Injection to Breach Web Applications</title>
-      <link>https://gbhackers.com/hackers-exploit-host-header-injection/</link>
-      <description>A significant rise in web breaches has been reported due to Host Header Injection, a lesser-known technique. Hackers manipulate the HTTP Host header to compromise web applications, steal sensitive information, and manipulate website operations by injecting malicious values into the Host header, which can lead to exploits such as password reset poisoning, cache poisoning, and cross-site scripting.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134412</guid>
-      <pubDate>Fri, 09 May 2025 09:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Windows Remote Management to Evade Detection in AD Networks</title>
-      <link>https://gbhackers.com/hackers-exploit-windows-remote-management/</link>
-      <description>Vulnerable Product: Microsoft WinRM; CVE(s): None; Summary: Attackers are exploiting Windows Remote Management (WinRM) to move laterally and evade detection across enterprise networks. They use stolen or brute-forced credentials, execute commands that appear as routine administrative tasks, and hide their activity by spawning fresh processes under the user's context.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134395</guid>
-      <pubDate>Fri, 09 May 2025 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Remote Code Execution Flaw in macOS – CVE-2024-44236</title>
-      <link>https://gbhackers.com/researchers-uncover-remote-code-execution-flaw/</link>
-      <description>Vulnerable Product: Apple macOS Scriptable Image Processing System (sips); CVE(s): CVE-2024-44236; Summary: A memory corruption vulnerability in sips allows arbitrary code execution via maliciously crafted ICC profile files. The flaw stems from improper validation of lutAToBType and lutBToAType tags, leading to out-of-bounds writes in heap memory that can be exploited by submitting a malformed ICC profile.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133932</guid>
-      <pubDate>Fri, 09 May 2025 08:41:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache ActiveMQ Vulnerability Allows Attackers to Induce DoS Condition</title>
-      <link>https://gbhackers.com/apache-activemq-vulnerability-allows-attackers/</link>
-      <description>Vulnerable Product: Apache ActiveMQ; CVE(s): CVE-2024-XXXX; Summary: A critical vulnerability in Apache ActiveMQ allows attackers to exhaust system memory through specially crafted OpenWire commands, leading to denial-of-service (DoS) attacks. The flaw affects multiple legacy versions of the messaging platform and can be exploited by transmitting manipulated OpenWire packets containing excessively large buffer size values, forcing vulnerable brokers to allocate disproportionate memory resources.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133890</guid>
-      <pubDate>Fri, 09 May 2025 08:39:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaspersky Alerts on AI-Driven Slopsquatting as Emerging Supply Chain Threat</title>
-      <link>https://gbhackers.com/kaspersky-alerts-on-ai-driven-slopsquatting/</link>
-      <description>The article discusses a newly identified supply chain vulnerability called "slopsquatting" that emerges from the widespread adoption of AI-generated code. This phenomenon involves AI systems hallucinating non-existent software dependencies, which attackers can exploit by creating malicious packages with these phantom names.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133866</guid>
-      <pubDate>Fri, 09 May 2025 08:37:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Government to Shift Away from Passwords in New Security Move</title>
-      <link>https://gbhackers.com/uk-government-to-shift-away-from-passwords/</link>
-      <description>The UK government plans to implement passkey technology across its digital services, aiming to enhance security and provide a more streamlined user experience. Passkeys are unique digital credentials linked to specific devices, eliminating the need for secondary verification codes sent via text message. This approach is expected to save several million pounds annually while strengthening national digital defenses against sophisticated cyber threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=133803</guid>
-      <pubDate>Fri, 09 May 2025 08:35:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
