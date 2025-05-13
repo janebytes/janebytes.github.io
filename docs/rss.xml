@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 17:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 18:07:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft May 2025 Patch Tuesday fixes 5 exploited zero-days, 72 flaws</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709, CVE-2025-30397; Summary: Microsoft fixed five actively exploited zero-day vulnerabilities and 67 other flaws in its May 2025 Patch Tuesday updates. The vulnerable products include Windows DWM Core Library, Windows Common Log File System Driver, Windows Ancillary Function Driver for WinSock, and Microsoft Scripting Engine.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/</guid>
+      <pubDate>Tue, 13 May 2025 17:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Released Security Updates to Fix for the Mutiple RCE Vulnerabilities – Patch Now</title>
+      <link>https://gbhackers.com/ivanti-released-security-updates-for-may-2025/</link>
+      <description>Vulnerable Product: Ivanti; CVE(s): CVE-2025-4427, CVE-2025-4428, CVE-2025-22462, CVE-2025-22460 (None); Summary: Ivanti released critical security updates to address vulnerabilities in Endpoint Manager Mobile, Neurons for ITSM, Cloud Services Application, and Neurons for MDM. The vulnerabilities could allow attackers to execute remote code, gain administrative access, escalate privileges, or edit unauthorized resources.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135337</guid>
+      <pubDate>Tue, 13 May 2025 17:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 KB5058411 and KB5058405 cumulative updates released</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/</link>
+      <description>The article discusses various updates and features in Windows 11, including improved search functionality, new widgets on Lock experience, and pivot-based curated views on File Explorer Home. It also mentions the availability of Windows 11 24H2 for everyone and resolves issues with Roblox on ARM PCs, but does not discuss any specific vulnerabilities or cybersecurity threats.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/</guid>
+      <pubDate>Tue, 13 May 2025 17:31:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android 16 expands 'Advanced Protection' with device-level security</title>
+      <link>https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/</link>
+      <description>Vulnerable Product: Google Android; CVE(s): None; Summary: The article discusses the improvements to the Advanced Protection feature in Android 16, which strengthens defenses against sophisticated spyware attacks. This includes device-level security hardening, verified boot and runtime integrity checks, strong sandboxing, USB port lockdown, app isolation, and other features that prevent disabling or weakening of individual security settings.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/</guid>
+      <pubDate>Tue, 13 May 2025 17:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 10 KB5058379 update fixes SgrmBroker errors in Event Viewer</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/</link>
+      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: The Windows 10 KB5058379 cumulative update includes four changes and fixes, including one for an SGRMBroker bug, seven zero-day vulnerabilities, and updates to the Windows Kernel Vulnerable Driver Blocklist. One known issue is fixed, which may cause Windows updates to fail if Citrix Session Recording Agent (SRA) version 2411 is installed on the device.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/</guid>
+      <pubDate>Tue, 13 May 2025 17:18:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet FortiVoice Zero-day Vulnerability Actively Exploited in The Wild</title>
+      <link>https://gbhackers.com/fortinet-fortivoice-o-day-vulnerability/</link>
+      <description>Vulnerable Product: Fortinet; CVE(s): CWE-121; Summary: A critical stack-based buffer overflow vulnerability (CWE-121) was discovered in multiple Fortinet products, including FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera. The vulnerability allows unauthenticated attackers to execute arbitrary code or commands remotely through specially crafted HTTP requests, posing a significant threat to affected organizations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135352</guid>
+      <pubDate>Tue, 13 May 2025 17:14:05 +0000</pubDate>
+    </item>
     <item>
       <title>Fortinet fixes critical zero-day exploited in FortiVoice attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/</link>
@@ -351,48 +393,6 @@ In summary, this article does not discuss a vulnerability but rather delves into
       <description>The article discusses the evolution of Lumma Stealer malware, which uses sophisticated PowerShell tools and advanced evasion tactics to deceive users. It targets sensitive data such as passwords, session tokens, cryptocurrency wallets, and personal information. The malware uses social engineering, exploiting user trust in CAPTCHA challenges, and executes malicious PowerShell commands, often leading to devastating data theft.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134985</guid>
       <pubDate>Mon, 12 May 2025 19:15:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Noodlophile Malware Spreads Through Fake AI Video Generation Platforms</title>
-      <link>https://gbhackers.com/new-noodlophile-malware-spreads-through-fake-ai-video/</link>
-      <description>Cybercriminals have launched a new malware campaign using fake AI video generation platforms as a lure, targeting users by exploiting their enthusiasm for AI-powered content creation tools. The malware, dubbed Noodlophile Stealer, harvests browser credentials, cryptocurrency wallets, and other sensitive data, and may also deploy a remote access trojan (RAT) like XWorm to gain deeper control over compromised systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134958</guid>
-      <pubDate>Mon, 12 May 2025 19:07:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky Hacker Group Deploys New Phishing Techniques and Malware Campaigns</title>
-      <link>https://gbhackers.com/kimsuky-hacker-group-deploys-new-phishing-techniques/</link>
-      <description>The North Korean state-sponsored APT group Kimsuky has been active since at least 2012, targeting nations like South Korea, Japan, and the United States with sophisticated cyber espionage campaigns. The article details Kimsuky's latest attack vector, which employs phishing, malware deployment, and obfuscation techniques to evade detection and penetrate sensitive systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134940</guid>
-      <pubDate>Mon, 12 May 2025 19:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT37 Hackers Use Weaponized LNK Files and Dropbox for Command-and-Control Operations</title>
-      <link>https://gbhackers.com/apt37-hackers-use-weaponized-lnk-files-and-dropbox/</link>
-      <description>APT37, a North Korean state-sponsored hacking group, launched a spear phishing campaign targeting activists focused on North Korean issues. The attackers exploited legitimate cloud services like Dropbox as command-and-control (C2) infrastructure and delivered malicious shortcut (LNK) files via phishing emails to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134904</guid>
-      <pubDate>Mon, 12 May 2025 18:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers now testing ClickFix attacks against Linux targets</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/</link>
-      <description>A new ClickFix attack campaign has been spotted targeting Windows, Linux, and macOS systems, using social engineering tactics to trick users into running console commands that install malware. The attacks are attributed to the Pakistan-linked threat group APT36 (aka "Transparent Tribe").</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/</guid>
-      <pubDate>Mon, 12 May 2025 18:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Output Messenger flaw exploited as zero-day in espionage attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/</link>
-      <description>Vulnerable Product: Output Messenger; CVE(s): CVE-2025-27920; Summary: A zero-day vulnerability (CVE-2025-27920) in the LAN messaging application, a directory traversal vulnerability that allows authenticated attackers to access sensitive files or deploy malicious payloads. The vulnerability was exploited by the Marbled Dust group to attack Output Messenger users linked to the Kurdish military in Iraq and gain access to sensitive data, impersonate users, and cause operational disruptions.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/</guid>
-      <pubDate>Mon, 12 May 2025 17:34:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moldova arrests suspect linked to DoppelPaymer ransomware attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/</link>
-      <description>This article is not about a vulnerability, but rather reports on the detention of a suspect linked to DoppelPaymer ransomware attacks targeting Dutch organizations. The suspect remains in custody and legal procedures are underway for extradition to the Netherlands.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/</guid>
-      <pubDate>Mon, 12 May 2025 15:18:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
