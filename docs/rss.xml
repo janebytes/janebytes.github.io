@@ -6,8 +6,31 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 11:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 12:11:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Abuse PyInstaller to Deploy Stealthy macOS Infostealer</title>
+      <link>https://gbhackers.com/hackers-abuse-pyinstaller-to-deploy-stealthy/</link>
+      <description>A novel macOS infostealer that exploits PyInstaller has been identified. The malware uses strings like ‘_MEIPASS’ to indicate embedded archives extracted at runtime and orchestrates malicious logic through PyInstaller's bootloader. It exhibits nefarious behaviors including AppleScript dialogs coercing user passwords, system volume mutting, and data exfiltration.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135204</guid>
+      <pubDate>Tue, 13 May 2025 11:48:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepfake Defense in the Age of AI</title>
+      <link>https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html</link>
+      <description>AI-generated social engineering attacks are increasingly sophisticated and prevalent, utilizing large language models (LLMs) to impersonate trusted individuals. Attackers use voice phishing (vishing) tactics to automate social engineering at scale, posing a significant threat to trust in virtual collaboration platforms.
+
+FYSA: Threat actors are leveraging generative AI to impersonate trusted individuals, automating social engineering tactics and driving a surge in voice phishing attacks. This trend is fueled by the convergence of AI-driven deception, virtual collaboration tools that assume trust, and defenses that rely on probability rather than proof.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html</guid>
+      <pubDate>Tue, 13 May 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress</title>
+      <link>https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html</link>
+      <description>The North Korea-linked threat actor, Konni APT, has been attributed to a phishing campaign targeting government entities in Ukraine. The goal of the campaign is to collect intelligence on the "trajectory of the Russian invasion." The threat group, also known as Opal Sleet, Osmium, TA406, and Vedalia, has a history of targeting entities in South Korea, the United States, and Russia.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html</guid>
+      <pubDate>Tue, 13 May 2025 10:57:00 +0000</pubDate>
+    </item>
     <item>
       <title>PupkinStealer Targets Windows Users to Steal Browser Login Credentials</title>
       <link>https://gbhackers.com/pupkinstealer-targets-windows-users/</link>
@@ -42,6 +65,30 @@
       <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462 (8.4), CVE-2025-3463 (9.4); Summary: A critical security vulnerability in ASUS DriverHub software allowed attackers to execute arbitrary code with administrator privileges through a simple web visit, bypassing origin checking mechanisms. The exploit chain permitted attackers to compromise systems running the ASUS driver management utility by visiting a specially crafted domain, and was patched within 10 days of being reported.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135127</guid>
       <pubDate>Tue, 13 May 2025 10:06:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defining a new methodology for modeling and tracking compartmentalized threats</title>
+      <link>https://blog.talosintelligence.com/compartmentalized-threat-modeling/</link>
+      <description>The provided article appears to be an analysis of a cyberattack campaign that involved multiple attackers and various tactics, techniques, and procedures (TTPs). The authors utilize the extended Diamond Model to clarify the distinct activities and roles of these attackers across different stages of the attack kill chain.
+
+The article discusses a campaign dubbed "ToyMaker" that spanned six days, during which an initial access group compromised a server, exfiltrated credentials, and deployed a proprietary backdoor. Subsequently, a second wave of attacks began three weeks later, attributed to Cactus ransomware. The authors present several hypotheses regarding the relationship between the two waves of activity, ultimately concluding that the initial access group (ToyMaker) provided initial access for the Cactus group.
+
+The article highlights various TTPs and indicators of compromise (IOCs) observed during the investigation, including differences in tools and infrastructure used by the two attacker groups. The authors' analysis suggests that there was a handoff of access between the initial access group and the ransomware actor, with shared stolen credentials facilitating the transition.
+
+In summary, this article presents an in-depth analysis of a complex cyberattack campaign involving multiple attackers and TTPs, highlighting the importance of understanding the relationships between different attack groups and their TTPs.</description>
+      <guid isPermaLink="false">68093d6e0264c50001a1da04</guid>
+      <pubDate>Tue, 13 May 2025 10:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redefining IABs: Impacts of compartmentalization on threat tracking and modeling</title>
+      <link>https://blog.talosintelligence.com/redefining-initial-access-brokers/</link>
+      <description>This article appears to be a threat analysis and modeling piece focused on initial access brokers (IABs) and their categories: financially motivated IABs (FIA), state-sponsored IABs (SIA), and opportunistic IABs (OIA). The authors provide an in-depth examination of the characteristics, tactics, techniques, and procedures (TTPs), as well as the interactions between these different types of IAGs. The article aims to provide a clearer understanding of how IAGs operate within the broader threat landscape and how this information can be used for improved intrusion analysis and attribution.
+
+The main focus of the article is on the differences between FIA, SIA, and OIA groups, highlighting their motivations, target selection, toolsets, and collaboration levels. The authors also provide real-world examples to illustrate these concepts and demonstrate how understanding these categories can aid in threat modeling and analysis.
+
+In summary, this article does not discuss a vulnerability but rather delves into the realm of threat analysis and modeling, providing valuable insights into the world of initial access brokers and their various forms.</description>
+      <guid isPermaLink="false">68093e340264c50001a1da12</guid>
+      <pubDate>Tue, 13 May 2025 10:00:23 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Uncover Remote IT Job Fraud Scheme Involving North Korean Nationals</title>
@@ -330,41 +377,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>The Bluetooth Special Interest Group (SIG) has announced Bluetooth Core Specification 6.1, which improves device privacy by randomizing Resolvable Private Address (RPA) updates between 8 and 15 minutes (default), allowing custom values between 1 second to 1 hour. This makes tracking harder due to the lack of pattern in value selection.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/</guid>
       <pubDate>Sun, 11 May 2025 15:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT is finally adding Download as PDF for Deep Research</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-finally-adding-download-as-pdf-for-deep-research/</link>
-      <description>The article discusses upcoming features for ChatGPT, including the ability to save reports as PDFs and a new GitHub connector for Teams subscribers. Additionally, it mentions various benchmarks and releases related to OpenAI's GPT-4.1 models. No cybersecurity-specific information is provided in this article.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-finally-adding-download-as-pdf-for-deep-research/</guid>
-      <pubDate>Sun, 11 May 2025 15:17:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>iClicker site hack targeted students with malware via fake CAPTCHA</title>
-      <link>https://www.bleepingcomputer.com/news/security/iclicker-hack-targeted-students-with-malware-via-fake-captcha/</link>
-      <description>Vulnerable Product: iClicker; CVE(s): None; Summary: The iClicker website was compromised by a ClickFix attack that displayed a fake CAPTCHA prompt to trick students and instructors into installing malware on their devices. The attack used social engineering tactics to execute PowerShell scripts, which could have installed malware or stolen sensitive information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/iclicker-hack-targeted-students-with-malware-via-fake-captcha/</guid>
-      <pubDate>Sun, 11 May 2025 14:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophisticated PhaaS Phish Toolkits are Now Genetrating Realistic Fake Phishing Pages</title>
-      <link>https://gbhackers.com/phishing-scams-on-the-rise-with-sophisticated-phaas/</link>
-      <description>Phishing-as-a-Service (PhaaS) toolkits are being used to generate convincing replicas of legitimate websites in real-time, enhancing the effectiveness of credential-harvesting campaigns. These toolkits allow attackers to tailor phishing pages instantly for any target organization and evade detection by human users and automated security systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134535</guid>
-      <pubDate>Sat, 10 May 2025 17:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Azure and Power Apps Vulnerabilities Allow Attackers to Exploit RCE</title>
-      <link>https://gbhackers.com/critical-azure-and-power-apps-vulnerabilities/</link>
-      <description>Vulnerable Product: Microsoft Azure cloud services and Power Apps platform; CVE(s): CVE-2025-29813, CVE-2025-29827, CVE-2025-29972, CVE-2025-47733; Summary: Four critical security vulnerabilities were patched in Microsoft's Azure cloud services and Power Apps platform. The most severe vulnerability (CVE-2025-29813) could allow attackers to escalate privileges or access sensitive information by exploiting improper handling of pipeline job tokens within Visual Studio.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134283</guid>
-      <pubDate>Sat, 10 May 2025 16:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Detecting Backdoors in Enterprise Networks</title>
-      <link>https://gbhackers.com/detecting-backdoors-enterprise-networks/</link>
-      <description>Vulnerable Product: VMware vCenter Server; CVE(s): CVE-2024-38812; Summary: A critical remote code execution flaw (CVE-2024-38812) was exploited in a backdoor attack, allowing attackers to gain unauthorized access to systems and potentially remain undetected for months while exfiltrating sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134680</guid>
-      <pubDate>Sat, 10 May 2025 16:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
