@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 21:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 22:01:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>ZDI-25-288: Fortinet FortiWeb cgi_httpcontentrouting_post Directory Traversal Remote Code Execution Vulnerability</title>
@@ -35,6 +35,15 @@
       <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: The article discusses a zero-day vulnerability (CVE-2025-42999) exploited in recent attacks targeting SAP NetWeaver servers. The flaw was discovered while investigating another unauthenticated file upload vulnerability (CVE-2025-31324) fixed in April. Threat actors were chaining both vulnerabilities to execute arbitrary commands remotely without privileges on the system.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/</guid>
       <pubDate>Tue, 13 May 2025 20:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday for May 2025 — Snort rules and prominent vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-for-may-2025-snort-rules-and-prominent-vulnerabilities/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30397, CVE-2025-32709, CVE-2025-30400, CVE-2025-32701, CVE-2025-32706; Summary: A remote code execution vulnerability in the Microsoft Scripting Engine (CVE-2025-30397) and four elevation of privilege vulnerabilities affecting various Microsoft products have been observed to be exploited in the wild. The 11 "critical" entries include RCE, elevation of privilege, information disclosure, and spoofing vulnerabilities with varying levels of exploit likelihood.
+
+FYSA: Talos has released a new Snort rule set to detect attempts to exploit some of these vulnerabilities, and Cisco Security Firewall customers should update their ruleset accordingly. Open-source Snort Subscriber Rule Set customers can stay up-to-date by downloading the latest rule pack from Snort.org.</description>
+      <guid isPermaLink="false">6823abc72858e80001b10def</guid>
+      <pubDate>Tue, 13 May 2025 20:38:26 +0000</pubDate>
     </item>
     <item>
       <title>Google introduces Advanced Protection mode for its most at-risk Android users</title>
@@ -270,6 +279,13 @@ FYSA: Threat actors targeted residential and business routers, including devices
       <pubDate>Tue, 13 May 2025 12:45:17 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds Five Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/13/cisa-adds-five-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-30397, CVE-2025-32709; Summary: Five new vulnerabilities have been added to the Known Exploited Vulnerabilities Catalog, including use-after-free and heap-based buffer overflow vulnerabilities affecting Microsoft Windows. These vulnerabilities are frequently exploited by malicious actors and pose significant risks to federal agencies and other organizations.</description>
+      <guid isPermaLink="false">/node/23359</guid>
+      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Hitachi Energy Service Suite</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-01</link>
       <description>Vulnerable Product: Apache HTTP Server, Hitachi Energy Service Suite; CVEs: CVE-2022-26377, CVE-2023-31122, and others (see below); CVSS scores: 5.3-8.7.
@@ -369,20 +385,6 @@ FYSA: Threat actors are leveraging generative AI to impersonate trusted individu
       <description>Vulnerable Product: TeleMessage TM SGNL; CVE(s): CVE-2025-47729; Summary: A critical hidden functionality vulnerability in TeleMessage's archiving backend exposes cleartext copies of user messages, enabling unauthorized access to sensitive communications. The flaw persists even if end-to-end encryption is implemented at the application layer, violating zero-trust principles. Organizations have until June 2, 2025, to apply vendor-provided mitigations or discontinue TM SGNL usage.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135166</guid>
       <pubDate>Tue, 13 May 2025 10:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags Hidden Functionality Flaw in TeleMessage TM SGNL on KEV List</title>
-      <link>https://gbhackers.com/cisa-flags-hidden-functionality-flaw-in-telemessage/</link>
-      <description>Vulnerable Product: TeleMessage TM SGNL; CVE(s): CVE-2025-47729; Summary: The vulnerability allows unauthorized access to sensitive communications by retaining unencrypted message copies within the archiving infrastructure. This flaw enables exploitation of zero-trust principles, and CISA has given organizations until June 2, 2025, to apply vendor-provided mitigations or discontinue usage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135166</guid>
-      <pubDate>Tue, 13 May 2025 10:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asus One-Click Flaw Exposes Users to Remote Code Execution Attacks</title>
-      <link>https://gbhackers.com/asus-one-click-flaw-exposes-users/</link>
-      <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462 (8.4), CVE-2025-3463 (9.4); Summary: A critical vulnerability in ASUS DriverHub allowed attackers to execute arbitrary code with administrator privileges by visiting a specially crafted website, bypassing origin checking mechanisms. The vulnerability originated from an inadequate domain validation mechanism, allowing any website with a matching subdomain pattern to download and execute malicious files without user interaction.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135127</guid>
-      <pubDate>Tue, 13 May 2025 10:06:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
