@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 16:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 17:02:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fortinet fixes critical zero-day exploited in FortiVoice attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/</link>
+      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-32756; Summary: A critical remote code execution vulnerability (CVE-2025-32756) was exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems, allowing attackers to execute arbitrary code or commands via maliciously crafted HTTP requests.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/</guid>
+      <pubDate>Tue, 13 May 2025 16:46:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Attacks Surge by 123% Amid Evolving Tactics and Strategies</title>
+      <link>https://gbhackers.com/ransomware-attacks-surge-by-123-amid/</link>
+      <description>The article reports a surge in ransomware attacks through third-party vendor ecosystems, driven by exploitation of weak links in vendor networks. The report highlights the importance of robust third-party risk management (TPRM) practices to mitigate risks and provide actionable strategies for organizations to fortify their defenses against these advanced persistent threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135327</guid>
+      <pubDate>Tue, 13 May 2025 16:41:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Introduce Mythic Framework Agent to Enhance Pentesting Tool Performance</title>
+      <link>https://gbhackers.com/researchers-introduce-mythic-framework-agent/</link>
+      <description>The article discusses advancements in penetration testing tools with the introduction of a new agent for the Mythic framework. The agent enhances detection evasion and operational efficiency by integrating sophisticated evasion techniques and modularity. It allows security experts to conduct operations with reduced risk of detection, making it a valuable tool for ethical hackers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135308</guid>
+      <pubDate>Tue, 13 May 2025 16:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swan Vector APT Targets Organizations with Malicious LNK and DLL Implants</title>
+      <link>https://gbhackers.com/swan-vector-apt-targets-organizations/</link>
+      <description>This article reports on a newly identified advanced persistent threat (APT) campaign called "Swan Vector" that targets educational institutions and mechanical engineering industries in East Asia. The campaign uses social engineering tactics, spearphishing attachments, and a multi-stage infection chain to evade detection and establish persistence.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135275</guid>
+      <pubDate>Tue, 13 May 2025 16:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Weaponize KeePass Password Manager to Spread Malware and Steal Passwords</title>
+      <link>https://gbhackers.com/hackers-weaponize-keepass-password-manager-to-spread-malware/</link>
+      <description>Vulnerable Product: KeePass; CVE(s): None; Summary: Threat actors successfully exploited KeePass to spread malware and facilitate large-scale password theft by modifying and re-signing installers with trusted certificates. The attack involved a custom malware loader dubbed KeeLoader, which modified executable files to incorporate malicious functionality, exfiltrate user credentials, and set up an autorun registry key for persistence.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135295</guid>
+      <pubDate>Tue, 13 May 2025 16:16:49 +0000</pubDate>
+    </item>
     <item>
       <title>Ivanti warns of critical Neurons for ITSM auth bypass flaw</title>
       <link>https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/</link>
@@ -358,41 +393,6 @@ In summary, this article does not discuss a vulnerability but rather delves into
       <description>This article is not about a vulnerability, but rather reports on the detention of a suspect linked to DoppelPaymer ransomware attacks targeting Dutch organizations. The suspect remains in custody and legal procedures are underway for extradition to the Netherlands.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/</guid>
       <pubDate>Mon, 12 May 2025 15:18:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open Source Linux Firewall IPFire 2.29 – Core Update 194 Released: What’s New!</title>
-      <link>https://gbhackers.com/ipfire-2-29-core-update-194/</link>
-      <description>Vulnerable Product: None; CVE(s): expat 2.7.1 (fixing CVE-2024-8176), xz 5.8.1 (fixing CVE-2025-31115); Summary: IPFire 2.29 – Core Update 194 includes security enhancements, performance improvements, and new features to safeguard networks, including updates for expat (fixing CVE-2024-8176) and xz (fixing CVE-2025-31115).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135019</guid>
-      <pubDate>Mon, 12 May 2025 15:13:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google to pay $1.375 billion to settle Texas data privacy violations</title>
-      <link>https://www.bleepingcomputer.com/news/legal/google-to-pay-1375-billion-to-settle-texas-data-privacy-violations/</link>
-      <description>Google has agreed to a $1.375 billion settlement with the state of Texas over allegations it collected and used biometric data without consent, impacting millions of Texans; this settlement marks one of the highest recoveries against Google nationwide.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/google-to-pay-1375-billion-to-settle-texas-data-privacy-violations/</guid>
-      <pubDate>Mon, 12 May 2025 15:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Leverage DDoS Attacks as Smokescreens for Data Theft</title>
-      <link>https://gbhackers.com/threat-actors-leverage-ddos-attacks/</link>
-      <description>DDoS attacks have evolved from being simple denial-of-service tools to sophisticated smokescreens masking more insidious breaches. Threat actors orchestrate high-volume traffic floods to distract security teams while executing quieter, surgical operations within the same infrastructure. This emerging pattern exploits both technical and human vulnerabilities during incident response, requiring a paradigm shift in defense strategies.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134892</guid>
-      <pubDate>Mon, 12 May 2025 14:44:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Majority of Browser Extensions Pose Critical Security Risk, A New Report Reveals</title>
-      <link>https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/</link>
-      <description>Vulnerable Product: None; Summary: The article discusses the risks associated with browser extensions in enterprise environments. It highlights that 99% of employees have browser extensions installed, which creates a significant threat surface. Many extensions have extensive permissions to sensitive data, and some are published anonymously or are outdated/unmanaged, making trust verification challenging and increasing security risks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/</guid>
-      <pubDate>Mon, 12 May 2025 14:36:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>20-Year-Old Proxy Botnet Network Dismantled After Exploiting 1,000 Unpatched Devices Each Week</title>
-      <link>https://gbhackers.com/20-year-old-proxy-botnet-network/</link>
-      <description>A 20-year-old criminal proxy network was disrupted through a joint operation. The botnet exploited an average of 1,000 unique IoT and end-of-life devices weekly, turning them into proxies for malicious actors. The network enabled illicit activities such as ad fraud, DDoS attacks, and data exploitation, with over half the infected devices located in the United States.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134851</guid>
-      <pubDate>Mon, 12 May 2025 14:33:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
