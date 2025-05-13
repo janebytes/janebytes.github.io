@@ -6,8 +6,45 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 13:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 14:03:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Marks &amp; Spencer Confirms Customer Data Breach in Recent Cyber Attack</title>
+      <link>https://gbhackers.com/marks-spencer-confirms-customer-data-breach/</link>
+      <description>A cyber attack against Marks &amp; Spencer (M&amp;S) has compromised customer personal data, including names, dates of birth, telephone numbers, home addresses, and online order histories. The attackers used a "double extortion" method, exfiltrating sensitive data and encrypting company systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135277</guid>
+      <pubDate>Tue, 13 May 2025 13:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>M&amp;S says customer data stolen in cyberattack, forces password resets</title>
+      <link>https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/</link>
+      <description>Marks and Spencer (M&amp;S) confirmed a cyberattack occurred on April 22, 2025, involving DragonForce ransomware affiliates using the Scattered Spider social engineering tactic. The attackers stole sensitive customer information, including full names, email addresses, home addresses, phone numbers, dates of birth, online order history, household information, and "masked" payment card details.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/</guid>
+      <pubDate>Tue, 13 May 2025 13:35:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom Workplace Apps Flaws Allow Hackers to Gain Elevated Access</title>
+      <link>https://gbhackers.com/zoom-workplace-apps-flaws-allow-hackers/</link>
+      <description>Vulnerable Product: Zoom Workplace Apps; CVE(s): CVE-2025-30663, CVE-2025-30664, CVE-2025-30665, CVE-2025-30666, CVE-2025-46785; Summary: The Zoom Workplace Apps contain seven newly discovered vulnerabilities, including a high-severity Time-of-check Time-of-use (TOCTOU) vulnerability that could lead to privilege escalation when exploited successfully. The vulnerabilities include improper neutralization of special elements, NULL pointer dereference, and buffer over-read flaws, which could potentially allow attackers to execute arbitrary code, elevate privileges, or cause denial of service conditions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135248</guid>
+      <pubDate>Tue, 13 May 2025 13:07:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>PoC Exploit Published for macOS Sandbox Escape Vulnerability (CVE-2025-31258)</title>
+      <link>https://gbhackers.com/macos-sandbox-escape-vulnerability/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31258; Summary: The vulnerability, tracked as CVE-2025-31258, is a sandbox escape flaw that allows attackers to execute arbitrary code outside application sandbox constraints. It affects macOS Ventura 13.4 through Sonoma 14.2 and can be exploited by launching a malicious app, which could grant read/write access to protected directories like ~/Library and limited command execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135083</guid>
+      <pubDate>Tue, 13 May 2025 13:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four Hackers Caught Exploiting Old Routers as Proxy Servers</title>
+      <link>https://gbhackers.com/four-hackers-caught-exploiting-old-routers/</link>
+      <description>The article reports a global cybercrime scheme that hijacked outdated wireless routers to create malicious proxy networks, generating over $46 million by selling access to infected devices. The scheme exploited security vulnerabilities in older-model routers and allowed the hackers to covertly reconfigure them and resell access through subscription-based platforms.
+
+FYSA: Threat actors targeted residential and business routers, including devices in Oklahoma, by exploiting security vulnerabilities to install malicious firmware.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135172</guid>
+      <pubDate>Tue, 13 May 2025 13:01:31 +0000</pubDate>
+    </item>
     <item>
       <title>AI agents that autonomously trade cryptocurrency aren’t ready for prime time</title>
       <link>https://arstechnica.com/security/2025/05/ai-agents-that-autonomously-trade-cryptocurrency-arent-ready-for-prime-time/</link>
@@ -342,41 +379,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>Vulnerable Product: Google Project Zero researchers, macOS; CVE(s): None; Summary: The researchers discovered new sandbox escape vulnerabilities in macOS using Mach Interprocess Communication (IPC) mechanisms-core components of Apple's operating system. The vulnerabilities allow crafted messages to cause out-of-bounds memory access, potentially enabling privilege escalation and sandbox escapes.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134804</guid>
       <pubDate>Mon, 12 May 2025 08:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Hide Undetectable Ransomware Inside JPG Images</title>
-      <link>https://gbhackers.com/undetectable-ransomware-inside-jpg-images/</link>
-      <description>The article describes a new ransomware attack method that exploits JPEG image files to deliver fully undetectable (FUD) ransomware. The attack involves embedding malicious code within standard JPG images, which activates a multi-stage attack when the victim opens the image, including downloading the ransomware executable and encrypting the victim's files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134792</guid>
-      <pubDate>Mon, 12 May 2025 08:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Legacy Protocols in Microsoft Entra ID to Bypass MFA and Conditional Access</title>
-      <link>https://gbhackers.com/hackers-exploit-legacy-protocols-in-microsoft-entra-id/</link>
-      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: The campaign exploited outdated legacy authentication protocols, including BAV2ROPC, SMTP AUTH, POP3, and IMAP4, to bypass modern security measures like MFA and Conditional Access. Attackers targeted legacy endpoints like Exchange Online and the Microsoft Authentication Library, exploiting OAuth legacy flows, password authentication, basic authentication, and legacy Exchange protocols.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134763</guid>
-      <pubDate>Mon, 12 May 2025 08:17:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Abuse Copilot AI in SharePoint to Steal Passwords and Sensitive Data</title>
-      <link>https://gbhackers.com/hackers-abuse-copilot-ai-in-sharepoint/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): None; Summary: The article describes a vulnerability where attackers can exploit AI agents embedded in SharePoint sites to bypass traditional security controls, extract passwords, and access restricted files. Attackers can manipulate these agents by framing malicious queries as legitimate security audits, allowing them to evade detection and gain unauthorized access to sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134731</guid>
-      <pubDate>Mon, 12 May 2025 07:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defendnot: A Tool That Disables Windows Defender by Registering as Antivirus</title>
-      <link>https://gbhackers.com/defendnot-a-tool-that-disables-windows-defender/</link>
-      <description>Vulnerable Product: Windows; CVE(s): None; Summary: The "defendnot" tool uses undocumented Windows Security Center APIs to disable Windows Defender by registering itself as a third-party antivirus solution. It achieves this by utilizing the Windows Security Center (WSC) service and performing signature verification, DLL characteristic checks, and other security checks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134710</guid>
-      <pubDate>Mon, 12 May 2025 07:54:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitel SIP Phone Flaws Allow Attackers to Inject Malicious Commands</title>
-      <link>https://gbhackers.com/mitel-sip-phone-flaws-allow-attackers/</link>
-      <description>Vulnerable Product: Mitel; CVE(s): CVE-2025-47188, CVE-2025-47187; Summary: A pair of vulnerabilities in Mitel's 6800 Series, 6900 Series, and 6900w Series SIP Phones could enable attackers to execute arbitrary commands or upload malicious files to compromised devices, posing significant risks to enterprise communication systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134738</guid>
-      <pubDate>Mon, 12 May 2025 07:38:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
