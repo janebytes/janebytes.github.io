@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 15:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 16:06:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ivanti warns of critical Neurons for ITSM auth bypass flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/</link>
+      <description>Vulnerable Product: Ivanti Neurons for ITSM; CVE(s): CVE-2025-22462, CVE-2025-22460; Summary: The vulnerability (CVE-2025-22462) is a critical authentication bypass vulnerability that allows unauthenticated attackers to gain administrative access to unpatched systems in low-complexity attacks. Ivanti also patched a default credentials security flaw (CVE-2025-22460) in its Cloud Services Appliance (CSA) that can let local authenticated attackers escalate privileges on vulnerable systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/</guid>
+      <pubDate>Tue, 13 May 2025 15:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide</title>
+      <link>https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html</link>
+      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: A critical security flaw in SAP NetWeaver is being exploited by multiple China-nexus nation-state actors to target critical infrastructure networks. The vulnerability allows for remote code execution and has been used to deploy web shells, reverse shells, and backdoors.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html</guid>
+      <pubDate>Tue, 13 May 2025 15:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Intel CPU flaws leak sensitive data from privileged memory</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/</link>
+      <description>Vulnerable Product: Intel CPUs; CVE(s): CVE-2024-45332; Summary: A "Branch Privilege Injection" flaw in modern Intel CPUs allows attackers to leak sensitive data from memory regions allocated to privileged software. The vulnerability, tracked under CVE-2024-45332, is a race condition on the branch predictor subsystem and affects all Intel CPUs from the 9th generation onward.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/</guid>
+      <pubDate>Tue, 13 May 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads</title>
+      <link>https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html</link>
+      <description>Vulnerable Product: PyPI; CVE(s): None; Summary: The Python Package Index (PyPI) repository had a malicious package named solana-token that was designed to steal source code and developer secrets. When installed, it attempts to exfiltrate data from the developer's machine to a hard-coded IP address, suggesting a target on developers creating their own blockchains.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html</guid>
+      <pubDate>Tue, 13 May 2025 14:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft will update Office apps on Windows 10 until 2028</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/</link>
@@ -79,6 +107,56 @@ FYSA: Threat actors targeted residential and business routers, including devices
       <description>Scattered Spider is a financially motivated threat actor targeting UK retail organizations with sophisticated social engineering and technical exploitation tactics. They leverage third-party vendor dependencies, seasonal vulnerabilities, and advanced techniques like cloud exploitation and endpoint detection evasion to gain initial access and persist within networks. Their attacks often involve ransomware deployment, victim communication pressure, and data exfiltration tools, posing a significant risk to high-impact targets during critical sales periods.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135217</guid>
       <pubDate>Tue, 13 May 2025 12:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Service Suite</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-01</link>
+      <description>Vulnerable Product: Apache HTTP Server, Hitachi Energy Service Suite; CVEs: CVE-2022-26377, CVE-2023-31122, and others (see below); CVSS scores: 5.3-8.7.
+
+A comprehensive list of vulnerabilities affecting the Apache HTTP Server and Hitachi Energy Service Suite has been published. The affected products are versions prior to 2.4.55. The listed CVEs include:
+
+* CVE-2022-26377: An inconsistent interpretation of HTTP requests ('HTTP request smuggling') vulnerability in mod_proxy_ajp that allows an attacker to smuggle requests to the AJP server it forwards requests to.
+* CVE-2023-31122: Another inconsistent interpretation of HTTP requests ('HTTP request smuggling') vulnerability in mod_proxy_ajp that also allows an attacker to smuggle requests to the AJP server it forwards requests to.
+
+The other CVEs listed include:
+
+* CVE-2022-37436
+* CVE-2023-43622
+* CVE-2022-28614
+* CVE-2022-28330
+
+These vulnerabilities have been assigned CVSS scores ranging from 5.3 to 8.7, indicating varying levels of severity.
+
+Recommendations:
+
+1. Update to version 9.8.1.4 or later.
+2. Implement security practices and firewall configurations to help protect process control networks from external attacks.
+3. Ensure that process control systems are physically protected from unauthorized personnel, have no direct connections to the Internet, and are separated from other networks by a firewall system with a minimal number of exposed ports.
+
+No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time.</description>
+      <guid isPermaLink="false">/node/23352</guid>
+      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy MACH GWS Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-03</link>
+      <description>Vulnerable Product: Hitachi Energy MACH GWS products; CVE(s): CVE-2024-4872, CVE-2024-3980, CVE-2024-3982, CVE-2024-7940; Summary: The MACH GWS product contains multiple vulnerabilities that allow an attacker to inject code, read or modify files, hijack user sessions, or access exposed ports without authentication. Successful exploitation of these vulnerabilities could result in a range of impacts, including the ability to access or modify system files or other critical files, hijack user sessions, or inject code towards persistent data.</description>
+      <guid isPermaLink="false">/node/23354</guid>
+      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Relion 670/650/SAM600-IO Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-02</link>
+      <description>Vulnerable Product: Hitachi Energy Relion 670/650/SAM600-IO Series; CVE(s): CVE-2023-4518; Summary: A buffer copy without checking size of input ('Classic Buffer Overflow') vulnerability exists in the input validation of GOOSE messages, allowing an attacker to reboot the device and cause a denial-of-service condition.</description>
+      <guid isPermaLink="false">/node/23353</guid>
+      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB Automation Builder</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-04</link>
+      <description>Vulnerable Product: ABB Automation Builder; CVE(s): CVE-2025-3394, CVE-2025-3395; Summary: Incorrect permission assignment for critical resource vulnerabilities in Automation Builder allow an attacker to overrule user management. Successful exploitation could lead to unauthorized access and changes to automation projects.</description>
+      <guid isPermaLink="false">/node/23355</guid>
+      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Abuse PyInstaller to Deploy Stealthy macOS Infostealer</title>
@@ -315,70 +393,6 @@ In summary, this article does not discuss a vulnerability but rather delves into
       <description>A 20-year-old criminal proxy network was disrupted through a joint operation. The botnet exploited an average of 1,000 unique IoT and end-of-life devices weekly, turning them into proxies for malicious actors. The network enabled illicit activities such as ad fraud, DDoS attacks, and data exploitation, with over half the infected devices located in the United States.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134851</guid>
       <pubDate>Mon, 12 May 2025 14:33:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>“PupkinStealer” – .NET Malware Steals Browser Data and Exfiltrates via Telegram</title>
-      <link>https://gbhackers.com/pupkinstealer-net-malware-steals-browser-data/</link>
-      <description>PupkinStealer is a new information-stealing malware that targets sensitive user data, including browser credentials, personal files, session information from messaging platforms, and desktop screenshots. It uses the Telegram Bot API to exfiltrate stolen data to attacker-controlled servers with minimal traceability. The malware operates by initiating multiple asynchronous tasks upon execution, targeting Chromium-based browsers, scanning the victim's desktop for files, and harvesting Telegram and Discord tokens.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134828</guid>
-      <pubDate>Mon, 12 May 2025 14:25:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Campaign Uses Blob URLs to Bypass Email Security and Avoid Detection</title>
-      <link>https://gbhackers.com/phishing-campaign-uses-blob-urls/</link>
-      <description>Cybersecurity researchers have identified a sophisticated phishing tactic that leverages Blob URIs to deliver credential phishing pages directly to users' inboxes, evading traditional email security measures. The attack chain begins with a phishing email that slips past Secure Email Gateways (SEGs) and uses legitimate intermediary sites like onedrive.live.com to render malicious HTML content, making it nearly impossible to analyze remotely.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134796</guid>
-      <pubDate>Mon, 12 May 2025 14:17:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files</title>
-      <link>https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html</link>
-      <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462, CVE-2025-3463; Summary: Two security flaws in ASUS DriverHub allow an attacker to achieve remote code execution. The first flaw is an origin validation error vulnerability (CVE-2025-3462) and the second is an improper certificate validation vulnerability (CVE-2025-3463). An attacker can exploit these vulnerabilities by tricking a user into visiting a crafted domain and executing a malicious file using the "AsusSetup.exe" binary.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html</guid>
-      <pubDate>Mon, 12 May 2025 14:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Tools Vulnerability Allows Attackers to Modify Files and Launch Malicious Operations</title>
-      <link>https://gbhackers.com/vmware-tools-vulnerability-allows-attackers-to-modify-files/</link>
-      <description>Vulnerable Product: VMware Tools; CVE(s): CVE-2025-22247; Summary: The VMware Tools insecure file handling vulnerability (CVE-2025-22247) allows non-administrative users to manipulate files within guest virtual machines, enabling unauthorized file operations. The vulnerability affects multiple versions of VMware Tools across different operating systems, with a CVSS base score of 6.1.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134900</guid>
-      <pubDate>Mon, 12 May 2025 12:27:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams</title>
-      <link>https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html</link>
-      <description>The article appears to be a collection of cybersecurity news and updates from various sources. It covers topics such as ransomware attacks, phishing scams, data breaches, and other cyber threats. There are no specific software, hardware, or firmware vulnerabilities discussed in this article.
-
-However, the article does mention some general security tips and best practices, such as uniting code, cloud, and SOC security to eliminate hidden gaps, building a legally defensible cyber defense program, and blocking AI bots from scraping websites. These tips aim to provide readers with actionable advice on how to improve their overall cybersecurity posture.
-
-Overall, the article serves as a general cybersecurity news roundup, providing readers with information on the latest threats and trends in the field.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html</guid>
-      <pubDate>Mon, 12 May 2025 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update to How CISA Shares Cyber-Related Alerts and Notifications</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/12/update-how-cisa-shares-cyber-related-alerts-and-notifications</link>
-      <description>CISA (Cybersecurity and Infrastructure Security Agency) is changing how it announces cybersecurity updates and releases new guidance, shifting focus from the Cybersecurity Alerts &amp; Advisories webpage to urgent information on emerging threats or major cyber activity. The changes aim to ensure critical information gets attention and is easier to find.</description>
-      <guid isPermaLink="false">/node/23334</guid>
-      <pubDate>Mon, 12 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QatarRat Tool Emerges, GST Data Sold, and LockBit Gets Breached</title>
-      <link>https://socradar.io/qatarrat-tool-emerges-gst-data-sold-and-lockbit-breach/</link>
-      <description>Vulnerable Product: LockBit; CVE(s): CVE-2024-4577; Summary: A PHP 8.1.2 vulnerability (CVE-2024-4577) was exploited to hack LockBit's dark web panel, exposing a MySQL database containing nearly 60,000 Bitcoin addresses, affiliate credentials, ransom negotiations, and internal tools.
-
-FYSA: The article highlights threat actors selling malware, including a new multi-functional RAT named QatarRat, and stolen data from India's GST portal. Additionally, crypto stealer logs targeting wallet users are being sold, underscoring ongoing threats across malware, finance, and government sectors.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100059927</guid>
-      <pubDate>Mon, 12 May 2025 11:19:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That</title>
-      <link>https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html</link>
-      <description>The article discusses the persistence of exposed company secrets in public GitHub repositories, with many credentials remaining valid for years after detection. This creates an expanding attack surface that organizations often fail to address due to limited visibility, operational complexity, and technical limitations.
-
-FYSA: Threat actors can exploit exposed database credentials to exfiltrate or corrupt data, while cloud keys grant access to infrastructure, code, and customer data. Organizations should prioritize rapid remediation and adopt modern secrets management practices, including short-lived, dynamic credentials and automation, to reduce the risks posed by exposed secrets.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html</guid>
-      <pubDate>Mon, 12 May 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
