@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 19:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 20:01:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-287: JetBrains TeamCity Diagnostics Data Directory Cross-Site Scripting Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-287/</link>
+      <description>Vulnerable Product: JetBrains TeamCity; CVE(s): CVE-2025-46618; Summary: This vulnerability allows remote attackers to execute arbitrary script on affected installations of JetBrains TeamCity. Minimal user interaction is required to exploit this vulnerability, which exists in the handling of filenames in the diagnostics functionality due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25977</guid>
+      <pubDate>Tue, 13 May 2025 20:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Twilio denies breach following leak of alleged Steam 2FA codes</title>
+      <link>https://www.bleepingcomputer.com/news/security/twilio-denies-breach-following-leak-of-alleged-steam-2fa-codes/</link>
+      <description>A threat actor claims to have accessed over 89 million Steam user records with one-time access codes, allegedly obtained from Twilio's SMS system. The authenticity of the data and the source of the breach are unclear, but experts suggest a possible supply-chain compromise involving Twilio.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/twilio-denies-breach-following-leak-of-alleged-steam-2fa-codes/</guid>
+      <pubDate>Tue, 13 May 2025 19:16:46 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-285: Dassault Systèmes eDrawings Viewer SLDPRT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-285/</link>
@@ -379,20 +393,6 @@ In summary, this article does not discuss a vulnerability but rather delves into
       <description>Vulnerable Product: Cobalt Strike; CVE(s): None; Summary: Cobalt Strike 4.11.1 addresses several critical issues, including a module stomping issue that caused system crashes, resolves problems with the "Enable SSL" checkbox functionality, and adds clearer deprecation warnings for stomp reflective loaders. The update also ensures more stable operation during penetration testing activities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135073</guid>
       <pubDate>Tue, 13 May 2025 07:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency</title>
-      <link>https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html</link>
-      <description>This article is not about a vulnerability. It reports on law enforcement efforts to combat ransomware attacks, including the arrest of a suspect in Moldova and the targeting of suspected core members of a cybercrime group behind DoppelPaymer ransomware attacks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html</guid>
-      <pubDate>Tue, 13 May 2025 06:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Releases Security Patches to Fix Critical Data Exposure Flaws</title>
-      <link>https://gbhackers.com/apple-releases-security-patches/</link>
-      <description>Vulnerable Product: Apple macOS Sequoia 15.5; CVE(s): CVE-2025-31250, CVE-2025-31209, CVE-2025-31256, CVE-2025-31242, CVE-2025-31220, CVE-2025-31251, CVE-2025-31233, CVE-2025-31235, CVE-2025-31246, CVE-2025-31240, CVE-2025-24213, CVE-2025-31219, CVE-2024-8176, CVE-2025-31244, CVE-2025-31258, CVE-2025-31218, CVE-2025-31249, CVE-2025-31224, CVE-2025-24274, CVE-2025-31259; Summary: Apple released critical security updates for macOS Sequoia 15.5 addressing over 40 vulnerabilities across various system components, including kernel-level memory corruption risks, app sandbox escapes, and unauthorized access to sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135063</guid>
-      <pubDate>Tue, 13 May 2025 05:40:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
