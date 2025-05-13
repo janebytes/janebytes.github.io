@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 20:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 21:02:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-288: Fortinet FortiWeb cgi_httpcontentrouting_post Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-288/</link>
+      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25254; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiWeb, requiring authentication to exploit. It occurs in the cgi_httpcontentrouting_post function due to a lack of proper validation of user-supplied paths prior to file operations, enabling an attacker to execute code in the context of root.</description>
+      <guid isPermaLink="false">ZDI-CAN-25181</guid>
+      <pubDate>Tue, 13 May 2025 21:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-289: Rockwell Automation ThinManager ThinServer Null Pointer Dereference Denial-of-Service Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-289/</link>
+      <description>Vulnerable Product: Rockwell Automation ThinManager; CVE(s): CVE-2025-3618; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Rockwell Automation ThinManager. Authentication is not required to exploit this vulnerability, and the specific flaw exists within the ThinServer component due to a null pointer dereference.</description>
+      <guid isPermaLink="false">ZDI-CAN-25872</guid>
+      <pubDate>Tue, 13 May 2025 21:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-290: Rockwell Automation ThinManager ThinServer Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-290/</link>
+      <description>Vulnerable Product: Rockwell Automation ThinManager; CVE(s): CVE-2025-3617; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Rockwell Automation ThinManager by creating a symbolic link within the ThinServer component. An attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be used to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-25727</guid>
+      <pubDate>Tue, 13 May 2025 21:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP patches second zero-day flaw exploited in recent attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/</link>
+      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: The article discusses a zero-day vulnerability (CVE-2025-42999) exploited in recent attacks targeting SAP NetWeaver servers. The flaw was discovered while investigating another unauthenticated file upload vulnerability (CVE-2025-31324) fixed in April. Threat actors were chaining both vulnerabilities to execute arbitrary commands remotely without privileges on the system.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/</guid>
+      <pubDate>Tue, 13 May 2025 20:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google introduces Advanced Protection mode for its most at-risk Android users</title>
+      <link>https://arstechnica.com/security/2025/05/google-introduces-advanced-protection-mode-for-its-most-at-risk-android-users/</link>
+      <description>Android's Advanced Protection features aim to enhance phone security by disabling or restricting features that can be exploited by hackers, such as connecting to insecure Wi-Fi networks, using JavaScript protections, and automatically locking or powering down devices. This defense-in-depth approach reduces the "surface area" of potential attacks.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/google-introduces-advanced-protection-mode-for-its-most-at-risk-android-users/</guid>
+      <pubDate>Tue, 13 May 2025 20:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea ramps up cyberspying in Ukraine to assess war risk</title>
+      <link>https://www.bleepingcomputer.com/news/security/north-korea-ramps-up-cyberspying-in-ukraine-to-assess-war-risk/</link>
+      <description>North Korean state-backed threat group Konni (Opal Sleet, TA406) targets Ukrainian government entities with phishing emails impersonating think tanks, likely to gather intelligence and support the DPRK's military involvement alongside Russia in Ukraine. The attackers use freemail services and embedded PowerShell to capture reconnaissance info and establish persistence, with a believed-to-be malware/backdoor payload facilitating espionage operations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/north-korea-ramps-up-cyberspying-in-ukraine-to-assess-war-risk/</guid>
+      <pubDate>Tue, 13 May 2025 20:14:43 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-287: JetBrains TeamCity Diagnostics Data Directory Cross-Site Scripting Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-287/</link>
@@ -341,58 +383,6 @@ FYSA: Threat actors are leveraging generative AI to impersonate trusted individu
       <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462 (8.4), CVE-2025-3463 (9.4); Summary: A critical vulnerability in ASUS DriverHub allowed attackers to execute arbitrary code with administrator privileges by visiting a specially crafted website, bypassing origin checking mechanisms. The vulnerability originated from an inadequate domain validation mechanism, allowing any website with a matching subdomain pattern to download and execute malicious files without user interaction.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135127</guid>
       <pubDate>Tue, 13 May 2025 10:06:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asus One-Click Flaw Exposes Users to Remote Code Execution Attacks</title>
-      <link>https://gbhackers.com/asus-one-click-flaw-exposes-users-to-remote-code/</link>
-      <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462 (8.4), CVE-2025-3463 (9.4); Summary: A critical security vulnerability in ASUS DriverHub software allowed attackers to execute arbitrary code with administrator privileges through a simple web visit, bypassing origin checking mechanisms. The exploit chain permitted attackers to compromise systems running the ASUS driver management utility by visiting a specially crafted domain, and was patched within 10 days of being reported.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135127</guid>
-      <pubDate>Tue, 13 May 2025 10:06:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defining a new methodology for modeling and tracking compartmentalized threats</title>
-      <link>https://blog.talosintelligence.com/compartmentalized-threat-modeling/</link>
-      <description>The provided article appears to be an analysis of a cyberattack campaign that involved multiple attackers and various tactics, techniques, and procedures (TTPs). The authors utilize the extended Diamond Model to clarify the distinct activities and roles of these attackers across different stages of the attack kill chain.
-
-The article discusses a campaign dubbed "ToyMaker" that spanned six days, during which an initial access group compromised a server, exfiltrated credentials, and deployed a proprietary backdoor. Subsequently, a second wave of attacks began three weeks later, attributed to Cactus ransomware. The authors present several hypotheses regarding the relationship between the two waves of activity, ultimately concluding that the initial access group (ToyMaker) provided initial access for the Cactus group.
-
-The article highlights various TTPs and indicators of compromise (IOCs) observed during the investigation, including differences in tools and infrastructure used by the two attacker groups. The authors' analysis suggests that there was a handoff of access between the initial access group and the ransomware actor, with shared stolen credentials facilitating the transition.
-
-In summary, this article presents an in-depth analysis of a complex cyberattack campaign involving multiple attackers and TTPs, highlighting the importance of understanding the relationships between different attack groups and their TTPs.</description>
-      <guid isPermaLink="false">68093d6e0264c50001a1da04</guid>
-      <pubDate>Tue, 13 May 2025 10:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redefining IABs: Impacts of compartmentalization on threat tracking and modeling</title>
-      <link>https://blog.talosintelligence.com/redefining-initial-access-brokers/</link>
-      <description>This article appears to be a threat analysis and modeling piece focused on initial access brokers (IABs) and their categories: financially motivated IABs (FIA), state-sponsored IABs (SIA), and opportunistic IABs (OIA). The authors provide an in-depth examination of the characteristics, tactics, techniques, and procedures (TTPs), as well as the interactions between these different types of IAGs. The article aims to provide a clearer understanding of how IAGs operate within the broader threat landscape and how this information can be used for improved intrusion analysis and attribution.
-
-The main focus of the article is on the differences between FIA, SIA, and OIA groups, highlighting their motivations, target selection, toolsets, and collaboration levels. The authors also provide real-world examples to illustrate these concepts and demonstrate how understanding these categories can aid in threat modeling and analysis.
-
-In summary, this article does not discuss a vulnerability but rather delves into the realm of threat analysis and modeling, providing valuable insights into the world of initial access brokers and their various forms.</description>
-      <guid isPermaLink="false">68093e340264c50001a1da12</guid>
-      <pubDate>Tue, 13 May 2025 10:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Remote IT Job Fraud Scheme Involving North Korean Nationals</title>
-      <link>https://gbhackers.com/researchers-uncover-remote-it-job-fraud-scheme/</link>
-      <description>North Korean nationals have been indicted for orchestrating a scheme to secure remote IT jobs at American companies and nonprofits using stolen identities, funneling at least $88 million USD to the North Korean government over six years. The operation employed tactics such as fake companies, malware infections, and remote access software, with signs of coordination and tradecraft.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135109</guid>
-      <pubDate>Tue, 13 May 2025 08:01:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Leverage Unpatched Output Messenger 0‑Day to Deliver Malicious Payloads</title>
-      <link>https://gbhackers.com/attackers-leverage-unpatched-output/</link>
-      <description>Vulnerable Product: Srimax Output Messenger; CVE(s): CVE-2025-27920, CVE-2025-27921; Summary: A zero-day vulnerability in the Output Messenger Server Manager allows authenticated attackers to upload malicious files directly into the server's startup directory. The vulnerability can be exploited to deliver malicious payloads, collect sensitive user data, and exfiltrate information from compromised systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135093</guid>
-      <pubDate>Tue, 13 May 2025 07:51:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cobalt Strike 4.11.1 Released With SSL Checkbox Fix</title>
-      <link>https://gbhackers.com/cobalt-strike-4-11-1-released-with-ssl-checkbox-fix/</link>
-      <description>Vulnerable Product: Cobalt Strike; CVE(s): None; Summary: Cobalt Strike 4.11.1 addresses several critical issues, including a module stomping issue that caused system crashes, resolves problems with the "Enable SSL" checkbox functionality, and adds clearer deprecation warnings for stomp reflective loaders. The update also ensures more stable operation during penetration testing activities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135073</guid>
-      <pubDate>Tue, 13 May 2025 07:50:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
