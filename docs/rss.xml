@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 14:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 15:02:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft will update Office apps on Windows 10 until 2028</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/</link>
+      <description>Microsoft has extended its support for Office apps on Windows 10 until 2028, allowing users to continue receiving security updates and using the applications without having to upgrade to Windows 11 immediately. The decision comes as many users are reluctant to switch due to requirements such as TPM 2.0 support. The company will also provide updates beyond October 2025 for Long-Term Servicing Channel (LTSC) and Long-Term Servicing Branch (LTSB) releases, catering to specialized devices.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/</guid>
+      <pubDate>Tue, 13 May 2025 14:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Increase Red Team Operations 10X with Adversarial Exposure Validation</title>
+      <link>https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/</link>
+      <description>The article discusses the limitations of traditional red team engagements in identifying critical security gaps and proposes an alternative approach called Adversarial Exposure Validation (AEV). AEV combines Breach and Attack Simulation (BAS) and Automated Penetration Testing to provide continuous, scalable, and automated offensive testing. This approach allows for repeatable and on-demand testing, enabling faster remediation, continuous benchmarking, and the agility to respond to new threats without waiting for the next audit or assessment.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/</guid>
+      <pubDate>Tue, 13 May 2025 14:01:11 +0000</pubDate>
+    </item>
     <item>
       <title>Marks &amp; Spencer Confirms Customer Data Breach in Recent Cyber Attack</title>
       <link>https://gbhackers.com/marks-spencer-confirms-customer-data-breach/</link>
@@ -365,20 +379,6 @@ FYSA: The article highlights threat actors selling malware, including a new mult
 FYSA: Threat actors can exploit exposed database credentials to exfiltrate or corrupt data, while cloud keys grant access to infrastructure, code, and customer data. Organizations should prioritize rapid remediation and adopt modern secrets management practices, including short-lived, dynamic credentials and automation, to reduce the risks posed by exposed secrets.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html</guid>
       <pubDate>Mon, 12 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metasploit Update Adds Erlang/OTP SSH Exploit and OPNSense Scanner</title>
-      <link>https://gbhackers.com/metasploit-update-erlang-opnsense-scanner/</link>
-      <description>Vulnerable Product: Erlang/OTP SSH servers; CVE(s): CVE-2025-32433; Summary: The Erlang/OTP SSH Pre-Auth Root RCE exploit targets a critical pre-authentication vulnerability in Erlang-based SSH servers, allowing attackers to execute arbitrary commands as root by sending crafted SSH packets.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134862</guid>
-      <pubDate>Mon, 12 May 2025 09:54:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Researchers Use Mach IPC to Uncover Sandbox Escape Vulnerabilities</title>
-      <link>https://gbhackers.com/mach-ipc-to-uncover-sandbox-escape-vulnerabilities/</link>
-      <description>Vulnerable Product: Google Project Zero researchers, macOS; CVE(s): None; Summary: The researchers discovered new sandbox escape vulnerabilities in macOS using Mach Interprocess Communication (IPC) mechanisms-core components of Apple's operating system. The vulnerabilities allow crafted messages to cause out-of-bounds memory access, potentially enabling privilege escalation and sandbox escapes.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134804</guid>
-      <pubDate>Mon, 12 May 2025 08:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
