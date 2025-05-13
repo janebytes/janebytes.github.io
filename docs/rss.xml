@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 May 2025 22:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 10:03:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Uncover Remote IT Job Fraud Scheme Involving North Korean Nationals</title>
+      <link>https://gbhackers.com/researchers-uncover-remote-it-job-fraud-scheme/</link>
+      <description>North Korean nationals have been indicted for orchestrating a scheme to secure remote IT jobs at American companies and nonprofits using stolen identities, funneling at least $88 million USD to the North Korean government over six years. The operation employed tactics such as fake companies, malware infections, and remote access software, with signs of coordination and tradecraft.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135109</guid>
+      <pubDate>Tue, 13 May 2025 08:01:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Leverage Unpatched Output Messenger 0‑Day to Deliver Malicious Payloads</title>
+      <link>https://gbhackers.com/attackers-leverage-unpatched-output/</link>
+      <description>Vulnerable Product: Srimax Output Messenger; CVE(s): CVE-2025-27920, CVE-2025-27921; Summary: A zero-day vulnerability in the Output Messenger Server Manager allows authenticated attackers to upload malicious files directly into the server's startup directory. The vulnerability can be exploited to deliver malicious payloads, collect sensitive user data, and exfiltrate information from compromised systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135093</guid>
+      <pubDate>Tue, 13 May 2025 07:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cobalt Strike 4.11.1 Released With SSL Checkbox Fix</title>
+      <link>https://gbhackers.com/cobalt-strike-4-11-1-released-with-ssl-checkbox-fix/</link>
+      <description>Vulnerable Product: Cobalt Strike; CVE(s): None; Summary: Cobalt Strike 4.11.1 addresses several critical issues, including a module stomping issue that caused system crashes, resolves problems with the "Enable SSL" checkbox functionality, and adds clearer deprecation warnings for stomp reflective loaders. The update also ensures more stable operation during penetration testing activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135073</guid>
+      <pubDate>Tue, 13 May 2025 07:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency</title>
+      <link>https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html</link>
+      <description>This article is not about a vulnerability. It reports on law enforcement efforts to combat ransomware attacks, including the arrest of a suspect in Moldova and the targeting of suspected core members of a cybercrime group behind DoppelPaymer ransomware attacks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html</guid>
+      <pubDate>Tue, 13 May 2025 06:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Releases Security Patches to Fix Critical Data Exposure Flaws</title>
+      <link>https://gbhackers.com/apple-releases-security-patches/</link>
+      <description>Vulnerable Product: Apple macOS Sequoia 15.5; CVE(s): CVE-2025-31250, CVE-2025-31209, CVE-2025-31256, CVE-2025-31242, CVE-2025-31220, CVE-2025-31251, CVE-2025-31233, CVE-2025-31235, CVE-2025-31246, CVE-2025-31240, CVE-2025-24213, CVE-2025-31219, CVE-2024-8176, CVE-2025-31244, CVE-2025-31258, CVE-2025-31218, CVE-2025-31249, CVE-2025-31224, CVE-2025-24274, CVE-2025-31259; Summary: Apple released critical security updates for macOS Sequoia 15.5 addressing over 40 vulnerabilities across various system components, including kernel-level memory corruption risks, app sandbox escapes, and unauthorized access to sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135063</guid>
+      <pubDate>Tue, 13 May 2025 05:40:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Türkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers</title>
+      <link>https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html</link>
+      <description>Vulnerable Product: Srimax Output Messenger; CVE(s): CVE-2025-27920, CVE-2025-27921; Summary: A zero-day directory traversal vulnerability (CVE-2025-27920) in Output Messenger's version 2.0.62 allowed remote attackers to access or execute arbitrary files. The issue was exploited by the Marbled Dust threat group as part of a cyber espionage attack campaign, which also involved a reflected cross-site scripting (XSS) vulnerability (CVE-2025-27921).</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html</guid>
+      <pubDate>Tue, 13 May 2025 05:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>ASUS DriverHub flaw let malicious sites run commands with admin rights</title>
       <link>https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/</link>
@@ -323,48 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>This article reports on the unauthorized access to sensitive government systems, including the Federal Emergency Management Agency's core financial management platform, by Kyle Schutt, a 37-year-old DOGE employee. The article highlights systemic cybersecurity challenges within federal agencies, specifically the reliance on password-based authentication and the need for multi-factor authentication (MFA) and layered defense approaches.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134393</guid>
       <pubDate>Sat, 10 May 2025 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why CISOs Must Prioritize Cybersecurity Culture in Remote Work</title>
-      <link>https://gbhackers.com/cybersecurity-culture-in-remote-work/</link>
-      <description>The article discusses the importance of building a strong cybersecurity culture in remote work environments. It highlights that Chief Information Security Officers (CISOs) must go beyond traditional technical responsibilities and foster a security-first mindset among remote employees. The article provides five practical steps for CISOs to build this culture, including developing remote-specific security policies, delivering ongoing training, encouraging open communication, recognizing good security behavior, and turning mistakes into learning opportunities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=132248</guid>
-      <pubDate>Sat, 10 May 2025 14:20:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake AI video generators drop new Noodlophile infostealer malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-drop-new-noodlophile-infostealer-malware/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses a new information-stealing malware family called 'Noodlophile,' which uses fake AI-powered video generation tools to distribute the malware. The malware targets data stored on web browsers, steals account credentials, session cookies, tokens, and cryptocurrency wallet files, and exfiltrates stolen data via a Telegram bot.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-drop-new-noodlophile-infostealer-malware/</guid>
-      <pubDate>Sat, 10 May 2025 14:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Uses Advanced AI to Combat Sophisticated Online Scams</title>
-      <link>https://gbhackers.com/google-chrome-uses-ai/</link>
-      <description>Google has integrated artificial intelligence into its cybersecurity toolkit to shield users from financial and data theft scams. The company has unveiled AI-driven initiatives across Search, Chrome, and Android, aimed at counteracting increasingly sophisticated scams. The advancements include AI classifiers capable of analyzing vast web content datasets, identifying emerging scam patterns, and neutralizing coordinated campaigns.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134377</guid>
-      <pubDate>Sat, 10 May 2025 14:04:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea’s OtterCookie Malware Added a New Feature to Attack Windows, Linux, and macOS</title>
-      <link>https://gbhackers.com/north-koreas-ottercookie-malware/</link>
-      <description>WaterPlum, a North Korea-linked attack group, has been targeting financial institutions, cryptocurrency operators, and FinTech companies globally since 2023. They have utilized various malware tools, including BeaverTailand InvisibleFerret, Contagious Interview, and their latest tool, OtterCookie, which has undergone rapid updates and evolved through multiple versions (v1 to v4) with enhanced capabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134226</guid>
-      <pubDate>Sat, 10 May 2025 13:17:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection</title>
-      <link>https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html</link>
-      <description>The article discusses two lawsuits against Google related to unauthorized tracking and collection of user data, including geolocation, incognito searches, and biometric data. The company has agreed to pay Texas $1.4 billion to settle the suits, which marks one of the largest privacy-related settlements in history.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html</guid>
-      <pubDate>Sat, 10 May 2025 06:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data</title>
-      <link>https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html</link>
-      <description>The German Federal Criminal Police Office (BKA) seized the online infrastructure and shut down eXch, a cryptocurrency exchange accused of money laundering and operating a criminal trading platform. The operation allegedly allowed users to conceal financial flows without implementing anti-money laundering measures, with an estimated $1.9 billion worth of assets transferred since its launch.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html</guid>
-      <pubDate>Sat, 10 May 2025 06:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
