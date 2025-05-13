@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 12:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 13:02:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>AI agents that autonomously trade cryptocurrency aren’t ready for prime time</title>
+      <link>https://arstechnica.com/security/2025/05/ai-agents-that-autonomously-trade-cryptocurrency-arent-ready-for-prime-time/</link>
+      <description>Vulnerable Product: ChatGPT, Gemini; CVE(s): None; Summary: An untrusted user can plant false memories in the long-term conversation memory of ChatGPT or similar LLM-based agents, causing the chatbot to send all user input to an attacker-controlled channel. This vulnerability was demonstrated through a proof-of-concept attack that abused the built-in conversation memory feature.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/ai-agents-that-autonomously-trade-cryptocurrency-arent-ready-for-prime-time/</guid>
+      <pubDate>Tue, 13 May 2025 13:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>F5 BIG-IP Vulnerability Allows Remote Command Execution</title>
+      <link>https://gbhackers.com/f5-big-ip-vulnerability-allows-rce/</link>
+      <description>Vulnerable Product: F5; CVE(s): CVE-2025-31644; Summary: The vulnerability allows authenticated administrators to execute arbitrary system commands, bypassing security boundaries, by exploiting an undisclosed iControl REST endpoint and BIG-IP TMOS Shell command. This can enable attackers to create or delete files, execute system commands, and create a significant security bypass mechanism with a CVSS v3.1 score of 8.7 and a CVSS v4.0 score.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135092</guid>
+      <pubDate>Tue, 13 May 2025 12:54:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider Launches Supply Chain Attacks on UK Retail Organizations</title>
+      <link>https://gbhackers.com/scattered-spider-launches-supply-chain-attacks/</link>
+      <description>Scattered Spider is a financially motivated threat actor targeting UK retail organizations with sophisticated social engineering and technical exploitation tactics. They leverage third-party vendor dependencies, seasonal vulnerabilities, and advanced techniques like cloud exploitation and endpoint detection evasion to gain initial access and persist within networks. Their attacks often involve ransomware deployment, victim communication pressure, and data exfiltration tools, posing a significant risk to high-impact targets during critical sales periods.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135217</guid>
+      <pubDate>Tue, 13 May 2025 12:45:17 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Abuse PyInstaller to Deploy Stealthy macOS Infostealer</title>
       <link>https://gbhackers.com/hackers-abuse-pyinstaller-to-deploy-stealthy/</link>
@@ -54,10 +75,24 @@ FYSA: Threat actors are leveraging generative AI to impersonate trusted individu
     </item>
     <item>
       <title>CISA Flags Hidden Functionality Flaw in TeleMessage TM SGNL on KEV List</title>
+      <link>https://gbhackers.com/cisa-flags-hidden-functionality-flaw/</link>
+      <description>Vulnerable Product: TeleMessage TM SGNL; CVE(s): CVE-2025-47729; Summary: A critical hidden functionality vulnerability in TeleMessage's archiving backend exposes cleartext copies of user messages, enabling unauthorized access to sensitive communications. The flaw persists even if end-to-end encryption is implemented at the application layer, violating zero-trust principles. Organizations have until June 2, 2025, to apply vendor-provided mitigations or discontinue TM SGNL usage.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135166</guid>
+      <pubDate>Tue, 13 May 2025 10:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Flags Hidden Functionality Flaw in TeleMessage TM SGNL on KEV List</title>
       <link>https://gbhackers.com/cisa-flags-hidden-functionality-flaw-in-telemessage/</link>
       <description>Vulnerable Product: TeleMessage TM SGNL; CVE(s): CVE-2025-47729; Summary: The vulnerability allows unauthorized access to sensitive communications by retaining unencrypted message copies within the archiving infrastructure. This flaw enables exploitation of zero-trust principles, and CISA has given organizations until June 2, 2025, to apply vendor-provided mitigations or discontinue usage.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135166</guid>
       <pubDate>Tue, 13 May 2025 10:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asus One-Click Flaw Exposes Users to Remote Code Execution Attacks</title>
+      <link>https://gbhackers.com/asus-one-click-flaw-exposes-users/</link>
+      <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462 (8.4), CVE-2025-3463 (9.4); Summary: A critical vulnerability in ASUS DriverHub allowed attackers to execute arbitrary code with administrator privileges by visiting a specially crafted website, bypassing origin checking mechanisms. The vulnerability originated from an inadequate domain validation mechanism, allowing any website with a matching subdomain pattern to download and execute malicious files without user interaction.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135127</guid>
+      <pubDate>Tue, 13 May 2025 10:06:36 +0000</pubDate>
     </item>
     <item>
       <title>Asus One-Click Flaw Exposes Users to Remote Code Execution Attacks</title>
@@ -342,41 +377,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>Vulnerable Product: Mitel; CVE(s): CVE-2025-47188, CVE-2025-47187; Summary: A pair of vulnerabilities in Mitel's 6800 Series, 6900 Series, and 6900w Series SIP Phones could enable attackers to execute arbitrary commands or upload malicious files to compromised devices, posing significant risks to enterprise communication systems.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134738</guid>
       <pubDate>Mon, 12 May 2025 07:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures</title>
-      <link>https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html</link>
-      <description>Threat actors are using fake AI-powered tools as lures to entice users into downloading an information stealer malware dubbed Noodlophile. The malware harvests browser credentials, cryptocurrency wallet information, and other sensitive data, and in some cases, bundles with a remote access trojan for persistent access.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html</guid>
-      <pubDate>Mon, 12 May 2025 07:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams to Safeguard Meetings by Blocking Screen Snaps</title>
-      <link>https://gbhackers.com/microsoft-teams-blocking-screen-snaps/</link>
-      <description>Microsoft is introducing a "Prevent Screen Capture" feature for Teams, which will block unauthorized screenshots and recordings during virtual meetings. When activated, any attempt to take a screenshot will result in the meeting window going completely black, leaving only system notifications visible in the captured image.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134749</guid>
-      <pubDate>Mon, 12 May 2025 06:35:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Exploit Method Extracts Microsoft Entra Tokens Through Beacon</title>
-      <link>https://gbhackers.com/new-exploit-method-extracts-microsoft-entra-tokens/</link>
-      <description>Vulnerable Product: Microsoft Entra; CVE(s): None; Summary: A novel exploit method uses Beacon Object Files (BOFs) to extract Microsoft Entra tokens from compromised endpoints, including non-domain-joined or BYOD devices. The technique bypasses traditional detection mechanisms and expands access to high-value targets, posing significant risks to enterprise cloud environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134720</guid>
-      <pubDate>Mon, 12 May 2025 05:42:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoC Code Published for Linux nftables Security Vulnerability</title>
-      <link>https://gbhackers.com/poc-code-for-linux-nftables-security-vulnerability/</link>
-      <description>Vulnerable Product: Linux; CVE(s): CVE-2024-26809; Summary: The Linux nftables firewall subsystem contains a high-severity double-free vulnerability that allows local attackers to escalate privileges and execute arbitrary code. The flaw resides in the pipapo set implementation, which can be exploited by deleting a set marked as "dirty" while it's still dirty, leading to repeated deallocations of memory.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134711</guid>
-      <pubDate>Mon, 12 May 2025 05:19:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bluetooth 6.1 enhances privacy with randomized RPA timing</title>
-      <link>https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/</link>
-      <description>The Bluetooth Special Interest Group (SIG) has announced Bluetooth Core Specification 6.1, which improves device privacy by randomizing Resolvable Private Address (RPA) updates between 8 and 15 minutes (default), allowing custom values between 1 second to 1 hour. This makes tracking harder due to the lack of pattern in value selection.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/</guid>
-      <pubDate>Sun, 11 May 2025 15:21:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
