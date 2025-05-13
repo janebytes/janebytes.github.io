@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 10:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 11:03:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>PupkinStealer Targets Windows Users to Steal Browser Login Credentials</title>
+      <link>https://gbhackers.com/pupkinstealer-targets-windows-users/</link>
+      <description>Vulnerable Product: PupkinStealer; CVE(s): None; Summary: A newly identified information-stealing malware, PupkinStealer, targets Windows users by stealing sensitive data including browser credentials, desktop documents, and full-screen screenshots. It uses Telegram's Bot API for data exfiltration and relies on social engineering tactics to trick victims into executing the malicious file. The malware can pilfer login credentials from Chromium-based browsers, hijack Telegram sessions, extract authentication tokens from Discord clients, and capture desktop screenshots.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135176</guid>
+      <pubDate>Tue, 13 May 2025 10:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repeated Firmware Key-Management Failures Undermine Intel Boot Guard and UEFI Secure Boot</title>
+      <link>https://gbhackers.com/repeated-firmware-key-management-failures/</link>
+      <description>Vulnerable Product: UEFI firmware ecosystem; CVE(s): CVE-2025-3052, None; Summary: The security of the UEFI firmware ecosystem has been questioned due to persistent cryptographic key management issues. Private keys have been exposed and unpatched vulnerabilities affecting millions of devices across vendors like Lenovo, MSI, Gigabyte, and Supermicro have been found. These issues leave systems open to pre-OS malware and bootkit attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135145</guid>
+      <pubDate>Tue, 13 May 2025 10:23:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>INE Security Alert: Top 5 Takeaways from RSAC 2025</title>
+      <link>https://gbhackers.com/ine-security-alert-top-5-takeaways-from-rsac-2025/</link>
+      <description>INE Security provides comprehensive training and certification programs to address top cybersecurity priorities, including AI security, multi-cloud vulnerabilities, zero-trust architecture, crisis response, and continuous skill development. The company's platform offers hands-on labs, cutting-edge technology, and world-class instructors to help teams develop the expertise needed to address modern cyber threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135179</guid>
+      <pubDate>Tue, 13 May 2025 10:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Flags Hidden Functionality Flaw in TeleMessage TM SGNL on KEV List</title>
+      <link>https://gbhackers.com/cisa-flags-hidden-functionality-flaw-in-telemessage/</link>
+      <description>Vulnerable Product: TeleMessage TM SGNL; CVE(s): CVE-2025-47729; Summary: The vulnerability allows unauthorized access to sensitive communications by retaining unencrypted message copies within the archiving infrastructure. This flaw enables exploitation of zero-trust principles, and CISA has given organizations until June 2, 2025, to apply vendor-provided mitigations or discontinue usage.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135166</guid>
+      <pubDate>Tue, 13 May 2025 10:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asus One-Click Flaw Exposes Users to Remote Code Execution Attacks</title>
+      <link>https://gbhackers.com/asus-one-click-flaw-exposes-users-to-remote-code/</link>
+      <description>Vulnerable Product: ASUS DriverHub; CVE(s): CVE-2025-3462 (8.4), CVE-2025-3463 (9.4); Summary: A critical security vulnerability in ASUS DriverHub software allowed attackers to execute arbitrary code with administrator privileges through a simple web visit, bypassing origin checking mechanisms. The exploit chain permitted attackers to compromise systems running the ASUS driver management utility by visiting a specially crafted domain, and was patched within 10 days of being reported.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135127</guid>
+      <pubDate>Tue, 13 May 2025 10:06:36 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Uncover Remote IT Job Fraud Scheme Involving North Korean Nationals</title>
       <link>https://gbhackers.com/researchers-uncover-remote-it-job-fraud-scheme/</link>
@@ -330,41 +365,6 @@ FYSA: Threat actors can exploit exposed database credentials to exfiltrate or co
       <description>Vulnerable Product: VMware vCenter Server; CVE(s): CVE-2024-38812; Summary: A critical remote code execution flaw (CVE-2024-38812) was exploited in a backdoor attack, allowing attackers to gain unauthorized access to systems and potentially remain undetected for months while exfiltrating sensitive data.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=134680</guid>
       <pubDate>Sat, 10 May 2025 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing Windows Endpoints Using Group Policy Objects (GPOs): A Configuration Guide</title>
-      <link>https://gbhackers.com/securing-windows-endpoints-using-group-policy-objects-gpos-a-configuration-guide/</link>
-      <description>This article is a guide on how to effectively use Group Policy Objects (GPOs) for endpoint security in Windows environments. It provides best practices for designing and implementing GPOs to manage and enforce security settings, including structuring Active Directory, configuring password policies, application control, and firewall settings, and maintaining audit logs.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134295</guid>
-      <pubDate>Sat, 10 May 2025 15:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bluetooth Core 6.1 Released – What’s New!</title>
-      <link>https://gbhackers.com/bluetooth-6-1-unveiled/</link>
-      <description>The Bluetooth SIG has transitioned to a bi-annual release cadence, focusing on rapid iteration and market responsiveness. This shift aims to empower developers with more efficient integration of enhancements, reducing the gap between standardization and real-world implementation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134458</guid>
-      <pubDate>Sat, 10 May 2025 15:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams will soon block screen capture during meetings</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/</link>
-      <description>The article discusses a new feature in Microsoft Teams that prevents users from capturing screenshots of sensitive information shared during meetings. The feature will turn the meeting window black if someone tries to take a screenshot, protecting the sensitive information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/</guid>
-      <pubDate>Sat, 10 May 2025 15:22:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome 137 Integrates Gemini Nano AI to Combat Tech Support Scams</title>
-      <link>https://gbhackers.com/chrome-137-integrates-gemini-nano-ai/</link>
-      <description>Google has integrated its Gemini Nano large language model (LLM) into Chrome 137 to detect and block tech support scams in real-time. The on-device AI analysis evaluates webpage content for deceptive patterns, generating security signals for Google's Safe Browsing service.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134423</guid>
-      <pubDate>Sat, 10 May 2025 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOGE Employee Computer Infected with Malware and Leaked Data Found Info-Stealer Logs</title>
-      <link>https://gbhackers.com/doge-employee-credentials-exposed-in-multiple-info-stealer-leaks/</link>
-      <description>This article reports on the unauthorized access to sensitive government systems, including the Federal Emergency Management Agency's core financial management platform, by Kyle Schutt, a 37-year-old DOGE employee. The article highlights systemic cybersecurity challenges within federal agencies, specifically the reliance on password-based authentication and the need for multi-factor authentication (MFA) and layered defense approaches.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=134393</guid>
-      <pubDate>Sat, 10 May 2025 14:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
