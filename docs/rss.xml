@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 11:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 12:02:19 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns</title>
+      <link>https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html</link>
+      <description>The article describes two related cyber espionage campaigns, VENOM and TIDRONE, attributed to the group Earth Ammit. The campaigns targeted various entities in Taiwan and South Korea, including military, satellite, and technology sectors, with the goal of compromising trusted networks via supply chain attacks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html</guid>
+      <pubDate>Wed, 14 May 2025 11:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team</title>
+      <link>https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html</link>
+      <description>The article discusses the importance of investing in offensive operations training for cybersecurity teams to stay ahead of evolving threats. It highlights the benefits of such training for various roles within a security team, including detection engineering, triage, remediation, and incident response. The author emphasizes that understanding attacker tactics, techniques, and procedures (TTPs) enables practitioners to better prioritize vulnerabilities, identify malicious activity, and respond more effectively to incidents.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html</guid>
+      <pubDate>Wed, 14 May 2025 10:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails</title>
+      <link>https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html</link>
+      <description>This article discusses a new phishing campaign targeting Windows users in Latin American countries with malware called Horabot. The campaign uses crafted emails impersonating invoices or financial documents to trick victims into opening malicious attachments, stealing email credentials, and installing banking trojans.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html</guid>
+      <pubDate>Wed, 14 May 2025 10:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>Weaponized PyPI Package Targets Developers to Steal Source Code</title>
       <link>https://gbhackers.com/weaponized-pypi-package-targets-developers/</link>
@@ -340,27 +361,6 @@ FYSA: Talos has released a new Snort rule set to detect attempts to exploit some
       <description>A cyber attack against Marks &amp; Spencer (M&amp;S) has compromised customer personal data, including names, dates of birth, telephone numbers, home addresses, and online order histories. The attackers used a "double extortion" method, exfiltrating sensitive data and encrypting company systems.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135277</guid>
       <pubDate>Tue, 13 May 2025 13:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>M&amp;S says customer data stolen in cyberattack, forces password resets</title>
-      <link>https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/</link>
-      <description>Marks and Spencer (M&amp;S) confirmed a cyberattack occurred on April 22, 2025, involving DragonForce ransomware affiliates using the Scattered Spider social engineering tactic. The attackers stole sensitive customer information, including full names, email addresses, home addresses, phone numbers, dates of birth, online order history, household information, and "masked" payment card details.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/</guid>
-      <pubDate>Tue, 13 May 2025 13:35:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom Workplace Apps Flaws Allow Hackers to Gain Elevated Access</title>
-      <link>https://gbhackers.com/zoom-workplace-apps-flaws-allow-hackers/</link>
-      <description>Vulnerable Product: Zoom Workplace Apps; CVE(s): CVE-2025-30663, CVE-2025-30664, CVE-2025-30665, CVE-2025-30666, CVE-2025-46785; Summary: The Zoom Workplace Apps contain seven newly discovered vulnerabilities, including a high-severity Time-of-check Time-of-use (TOCTOU) vulnerability that could lead to privilege escalation when exploited successfully. The vulnerabilities include improper neutralization of special elements, NULL pointer dereference, and buffer over-read flaws, which could potentially allow attackers to execute arbitrary code, elevate privileges, or cause denial of service conditions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135248</guid>
-      <pubDate>Tue, 13 May 2025 13:07:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoC Exploit Published for macOS Sandbox Escape Vulnerability (CVE-2025-31258)</title>
-      <link>https://gbhackers.com/macos-sandbox-escape-vulnerability/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31258; Summary: The vulnerability, tracked as CVE-2025-31258, is a sandbox escape flaw that allows attackers to execute arbitrary code outside application sandbox constraints. It affects macOS Ventura 13.4 through Sonoma 14.2 and can be exploited by launching a malicious app, which could grant read/write access to protected directories like ~/Library and limited command execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135083</guid>
-      <pubDate>Tue, 13 May 2025 13:04:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
