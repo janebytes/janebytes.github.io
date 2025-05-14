@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 17:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 18:01:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ransomware gangs join ongoing SAP NetWeaver attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-ongoing-sap-netweaver-attacks/</link>
+      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: A maximum-severity vulnerability allows threat actors to gain remote code execution on vulnerable servers. The vulnerability can be exploited without login credentials, potentially leading to complete system compromise. Ransomware gangs, including RansomEXX and BianLian, have joined attacks exploiting this flaw, with evidence of Chinese threat actor involvement.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-ongoing-sap-netweaver-attacks/</guid>
+      <pubDate>Wed, 14 May 2025 17:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>An $8.4 billion money launderer has been operating for years on US soil</title>
+      <link>https://arstechnica.com/security/2025/05/incorporated-in-us-8-4b-money-launderer-for-chinese-speaking-crypto-scammers/</link>
+      <description>Tether, a cryptocurrency, has the ability to freeze payments when it identifies bad actors. Despite this capability, there is no clear evidence that Tether has taken measures to stop Chinese-language crypto scammers and others from using its currency. The article highlights the ongoing struggle against financial crime in the cryptocurrency space.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/incorporated-in-us-8-4b-money-launderer-for-chinese-speaking-crypto-scammers/</guid>
+      <pubDate>Wed, 14 May 2025 17:03:18 +0000</pubDate>
+    </item>
     <item>
       <title>Australian Human Rights Commission leaks docs to search engines</title>
       <link>https://www.bleepingcomputer.com/news/security/australian-human-rights-commission-leaks-docs-to-search-engines/</link>
@@ -357,22 +371,6 @@ FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest 
       <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: The article discusses a zero-day vulnerability (CVE-2025-42999) exploited in recent attacks targeting SAP NetWeaver servers. The flaw was discovered while investigating another unauthenticated file upload vulnerability (CVE-2025-31324) fixed in April. Threat actors were chaining both vulnerabilities to execute arbitrary commands remotely without privileges on the system.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/</guid>
       <pubDate>Tue, 13 May 2025 20:48:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for May 2025 — Snort rules and prominent vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-for-may-2025-snort-rules-and-prominent-vulnerabilities/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30397, CVE-2025-32709, CVE-2025-30400, CVE-2025-32701, CVE-2025-32706; Summary: A remote code execution vulnerability in the Microsoft Scripting Engine (CVE-2025-30397) and four elevation of privilege vulnerabilities affecting various Microsoft products have been observed to be exploited in the wild. The 11 "critical" entries include RCE, elevation of privilege, information disclosure, and spoofing vulnerabilities with varying levels of exploit likelihood.
-
-FYSA: Talos has released a new Snort rule set to detect attempts to exploit some of these vulnerabilities, and Cisco Security Firewall customers should update their ruleset accordingly. Open-source Snort Subscriber Rule Set customers can stay up-to-date by downloading the latest rule pack from Snort.org.</description>
-      <guid isPermaLink="false">6823abc72858e80001b10def</guid>
-      <pubDate>Tue, 13 May 2025 20:38:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google introduces Advanced Protection mode for its most at-risk Android users</title>
-      <link>https://arstechnica.com/security/2025/05/google-introduces-advanced-protection-mode-for-its-most-at-risk-android-users/</link>
-      <description>Android's Advanced Protection features aim to enhance phone security by disabling or restricting features that can be exploited by hackers, such as connecting to insecure Wi-Fi networks, using JavaScript protections, and automatically locking or powering down devices. This defense-in-depth approach reduces the "surface area" of potential attacks.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/google-introduces-advanced-protection-mode-for-its-most-at-risk-android-users/</guid>
-      <pubDate>Tue, 13 May 2025 20:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
