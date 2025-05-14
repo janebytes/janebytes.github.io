@@ -6,8 +6,89 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 13:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 14:13:17 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users</title>
+      <link>https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html</link>
+      <description>This article discusses a global phishing threat called "Meta Mirage" that targets businesses using Meta's Business Suite. The attackers impersonate official Meta communications, tricking users into handing over sensitive details like passwords and security codes (OTP). The campaign uses fake alerts about policy violations, account suspensions, or urgent verification notices to deceive victims.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html</guid>
+      <pubDate>Wed, 14 May 2025 14:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2025 Patch Tuesday: 78 Flaws, 5 Exploited, &amp; Critical SAP Fixes</title>
+      <link>https://socradar.io/may-2025-patch-tuesday-78-flaws-5-exploited-critical-sap-fixes/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709, CVE-2025-30397, and others; Summary: Microsoft has released May 2025 Patch Tuesday updates addressing a total of 78 vulnerabilities across its software. Five zero-day vulnerabilities have been confirmed as exploited in the wild, including use-after-free bugs in Windows Desktop Window Manager (DWM) Core Library, Common Log File System (CLFS) driver, and Ancillary Function Driver for WinSock. Other critical vulnerabilities affect Azure, Microsoft Office, and Remote Desktop Client, with some allowing Remote Code Execution (RCE), elevation of privileges, spoofing, or data exposure.
+
+FYSA: Five zero-day vulnerabilities have been confirmed as exploited in the wild, including use-after-free bugs in Windows Desktop Window Manager (DWM) Core Library, Common Log File System (CLFS) driver, and Ancillary Function Driver for WinSock. Threat actors are actively scanning for newly patched bugs and exploiting these vulnerabilities to gain elevated privileges or unauthorized access.
+
+FYSA: This article discusses Microsoft's May 2025 Patch Tuesday updates, which address a total of 78 vulnerabilities across its software. The article highlights the importance of prioritizing patch deployment, assessing external exposure, and ensuring continuous visibility into emerging threats.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060006</guid>
+      <pubDate>Wed, 14 May 2025 13:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Katz Stealer Malware Hits 78+ Chromium and Gecko-Based Browsers</title>
+      <link>https://gbhackers.com/katz-stealer-malware-hits-78-chromium/</link>
+      <description>Katz Stealer is a newly disclosed information-stealing malware that targets Chromium and Gecko-based browsers, extracting sensitive data including credentials, cookies, autofill data, CVV2 codes, OAuth tokens, cryptocurrency wallets, and messaging platform credentials. The malware's customizable build panel with anti-VM safeguards and web-based C2 interface enables threat actors to tailor payloads and manage stolen data, posing a persistent threat to individual and enterprise security postures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135653</guid>
+      <pubDate>Wed, 14 May 2025 13:39:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fashion giant Dior discloses cyberattack, warns of data breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/</link>
+      <description>Dior, a French luxury fashion brand, has disclosed a cybersecurity incident that exposed customer information, including full name, gender, phone number, email address, postal address, purchase history, and preferences. The incident was discovered on May 7, and while account passwords and payment card information were not affected, customers are advised to remain vigilant for phishing attempts and report any brand impersonation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/</guid>
+      <pubDate>Wed, 14 May 2025 13:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Windows Remote Desktop Gateway Allows Denial-of-Service Attacks</title>
+      <link>https://gbhackers.com/critical-vulnerability-in-windows-remote-desktop-gateway/</link>
+      <description>Vulnerable Product: Microsoft Remote Desktop Gateway (RDG); CVE(s): CVE-2025-26677, CVE-2025-29831; Summary: Two critical vulnerabilities were discovered in the Microsoft RDG service, allowing for denial-of-service (DoS) attacks and remote code execution (RCE), respectively. The vulnerabilities have been patched in Microsoft's May 2025 security update, but unpatched systems are at risk of operational disruption or unauthorized access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135577</guid>
+      <pubDate>Wed, 14 May 2025 13:36:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Microsoft Outlook Flaw Enables Remote Execution of Arbitrary Code</title>
+      <link>https://gbhackers.com/critical-microsoft-outlook-flaw-enables-remote-execution/</link>
+      <description>Vulnerable Product: Microsoft Outlook; CVE(s): CVE-2025-32705; Summary: A memory corruption flaw in Microsoft Outlook allows attackers to execute arbitrary code by reading data beyond allocated buffer boundaries. The vulnerability affects all Outlook versions from 2019 to the latest 2025 build and has a low attack complexity, requiring minimal user interaction.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135640</guid>
+      <pubDate>Wed, 14 May 2025 13:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kosovo extradites BlackDB admin to face US cybercrime charges</title>
+      <link>https://www.bleepingcomputer.com/news/security/kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges/</link>
+      <description>A Kosovo national, Liridon Masurica (also known as @blackdb), has been extradited to the United States and charged with five counts of fraudulent use of unauthorized access devices and one count of conspiracy to commit access device fraud. He is accused of running an online cybercrime marketplace called BlackDB.cc that illegally offered compromised accounts, stolen credit card information, and personally identifiable information (PII) for sale.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges/</guid>
+      <pubDate>Wed, 14 May 2025 13:22:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Defender Vulnerability Allows Unauthorized Privilege Gain</title>
+      <link>https://gbhackers.com/microsoft-defender-vulnerability/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-26684; Summary: The vulnerability in Microsoft Defender for Endpoint (CVE-2025-26684) allows authenticated attackers with high privileges to manipulate file names or paths and execute arbitrary code, enabling local privilege escalation attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135622</guid>
+      <pubDate>Wed, 14 May 2025 13:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Healthcare Cyberattacks in 2024 Expose 276 Million Patient Records Compromised</title>
+      <link>https://gbhackers.com/healthcare-cyberattacks-in-2024/</link>
+      <description>The healthcare sector faced an unprecedented wave of cyber threats, with 92% of organizations reporting at least one cyberattack. The attacks resulted in the compromise of over 276 million patient records, with victims of medical identity theft spending an average of 210 hours and $2,500 out-of-pocket to reclaim their identities and mitigate the damage. The campaign involved a sophisticated phishing attack impersonating legitimate medical service providers like Zocdoc, targeting healthcare consumers and employees.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135633</guid>
+      <pubDate>Wed, 14 May 2025 13:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit AI and LLM Tools for Offensive Cyber Operations</title>
+      <link>https://gbhackers.com/threat-actors-exploit-ai-and-llm-tools/</link>
+      <description>Threat actors are misusing generative AI and large language models (LLMs) for malicious cyber operations, including exploit generation, malware creation, and bypassing security mechanisms. LLMs like ChatGPT, Claude, and DeepSeek are being weaponized on dark web forums such as Cracked and BreachForums, with a focus on prompt engineering and open-source research for nefarious purposes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135578</guid>
+      <pubDate>Wed, 14 May 2025 13:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nation-State Actors Target Healthcare Institutions to Sabotage IT and OT Systems</title>
+      <link>https://gbhackers.com/nation-state-actors-target-healthcare-institutions/</link>
+      <description>Nation-state actors are increasingly targeting healthcare institutions worldwide, launching sophisticated cyberattacks that disrupt IT and OT systems, posing a severe threat to patient safety, data integrity, and operational continuity. The attacks involve APTs, ransomware, and zero-day exploits, with motives ranging from geopolitical leverage to economic disruption and psychological warfare.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135595</guid>
+      <pubDate>Wed, 14 May 2025 13:02:23 +0000</pubDate>
+    </item>
     <item>
       <title>Patch Tuesday, May 2025 Edition</title>
       <link>https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/</link>
@@ -58,6 +139,19 @@
 FYSA: Palo Alto Networks customers are better protected from DarkCloud Stealer through their Network Security solutions and Cortex line of products, including Advanced WildFire, Cortex XDR, and Cortex XSIAM.</description>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140509</guid>
       <pubDate>Wed, 14 May 2025 10:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities in Fortinet and Ivanti Products: Multiple Zero-Day Threats Addressed</title>
+      <link>https://socradar.io/fortinet-and-ivanti-products-zero-day-threat-addressed/</link>
+      <description>Vulnerable Product: Fortinet FortiVoice Enterprise; CVE(s): CVE-2025-32756; Summary: A severe remote code execution (RCE) vulnerability allows unauthenticated attackers to execute arbitrary commands via specially crafted HTTP requests, impacting multiple Fortinet products. The flaw is a stack-based buffer overflow that has been actively exploited in zero-day attacks.
+
+Vulnerable Product: Ivanti Neurons for ITSM; CVE(s): CVE-2025-22462; Summary: A critical authentication bypass vulnerability allows unauthenticated attackers to gain administrative access in low-complexity attack scenarios, impacting versions 2023.4, 2024.2, and 2024.3. Patched versions include May 2025 Security Patches for all affected versions.
+
+Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Two vulnerabilities have been exploited in a limited number of attacks, allowing unauthenticated attackers to execute arbitrary code on exposed systems. Mitigated in EPMM 11.12.0.5, EPMM 12.3.0.2, EPMM 12.4.0.2, and EPMM 12.5.0.1.
+
+FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest numbers in Germany and the United States, highlighting an ongoing trend of attackers exploiting enterprise software flaws to gain deep access into critical systems.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100059996</guid>
+      <pubDate>Wed, 14 May 2025 09:46:02 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Hackers Exploit SAP NetWeaver Zero-Day Vulnerability to Target Critical Infrastructure</title>
@@ -277,90 +371,6 @@ FYSA: Talos has released a new Snort rule set to detect attempts to exploit some
       <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: The Windows 10 KB5058379 cumulative update includes four changes and fixes, including one for an SGRMBroker bug, seven zero-day vulnerabilities, and updates to the Windows Kernel Vulnerable Driver Blocklist. One known issue is fixed, which may cause Windows updates to fail if Citrix Session Recording Agent (SRA) version 2411 is installed on the device.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/</guid>
       <pubDate>Tue, 13 May 2025 17:18:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet FortiVoice Zero-day Vulnerability Actively Exploited in The Wild</title>
-      <link>https://gbhackers.com/fortinet-fortivoice-o-day-vulnerability/</link>
-      <description>Vulnerable Product: Fortinet; CVE(s): CWE-121; Summary: A critical stack-based buffer overflow vulnerability (CWE-121) was discovered in multiple Fortinet products, including FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera. The vulnerability allows unauthenticated attackers to execute arbitrary code or commands remotely through specially crafted HTTP requests, posing a significant threat to affected organizations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135352</guid>
-      <pubDate>Tue, 13 May 2025 17:14:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet fixes critical zero-day exploited in FortiVoice attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/</link>
-      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-32756; Summary: A critical remote code execution vulnerability (CVE-2025-32756) was exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems, allowing attackers to execute arbitrary code or commands via maliciously crafted HTTP requests.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/</guid>
-      <pubDate>Tue, 13 May 2025 16:46:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Attacks Surge by 123% Amid Evolving Tactics and Strategies</title>
-      <link>https://gbhackers.com/ransomware-attacks-surge-by-123-amid/</link>
-      <description>The article reports a surge in ransomware attacks through third-party vendor ecosystems, driven by exploitation of weak links in vendor networks. The report highlights the importance of robust third-party risk management (TPRM) practices to mitigate risks and provide actionable strategies for organizations to fortify their defenses against these advanced persistent threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135327</guid>
-      <pubDate>Tue, 13 May 2025 16:41:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Introduce Mythic Framework Agent to Enhance Pentesting Tool Performance</title>
-      <link>https://gbhackers.com/researchers-introduce-mythic-framework-agent/</link>
-      <description>The article discusses advancements in penetration testing tools with the introduction of a new agent for the Mythic framework. The agent enhances detection evasion and operational efficiency by integrating sophisticated evasion techniques and modularity. It allows security experts to conduct operations with reduced risk of detection, making it a valuable tool for ethical hackers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135308</guid>
-      <pubDate>Tue, 13 May 2025 16:37:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swan Vector APT Targets Organizations with Malicious LNK and DLL Implants</title>
-      <link>https://gbhackers.com/swan-vector-apt-targets-organizations/</link>
-      <description>This article reports on a newly identified advanced persistent threat (APT) campaign called "Swan Vector" that targets educational institutions and mechanical engineering industries in East Asia. The campaign uses social engineering tactics, spearphishing attachments, and a multi-stage infection chain to evade detection and establish persistence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135275</guid>
-      <pubDate>Tue, 13 May 2025 16:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Weaponize KeePass Password Manager to Spread Malware and Steal Passwords</title>
-      <link>https://gbhackers.com/hackers-weaponize-keepass-password-manager-to-spread-malware/</link>
-      <description>Vulnerable Product: KeePass; CVE(s): None; Summary: Threat actors successfully exploited KeePass to spread malware and facilitate large-scale password theft by modifying and re-signing installers with trusted certificates. The attack involved a custom malware loader dubbed KeeLoader, which modified executable files to incorporate malicious functionality, exfiltrate user credentials, and set up an autorun registry key for persistence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135295</guid>
-      <pubDate>Tue, 13 May 2025 16:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti warns of critical Neurons for ITSM auth bypass flaw</title>
-      <link>https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/</link>
-      <description>Vulnerable Product: Ivanti Neurons for ITSM; CVE(s): CVE-2025-22462, CVE-2025-22460; Summary: The vulnerability (CVE-2025-22462) is a critical authentication bypass vulnerability that allows unauthenticated attackers to gain administrative access to unpatched systems in low-complexity attacks. Ivanti also patched a default credentials security flaw (CVE-2025-22460) in its Cloud Services Appliance (CSA) that can let local authenticated attackers escalate privileges on vulnerable systems.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/</guid>
-      <pubDate>Tue, 13 May 2025 15:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide</title>
-      <link>https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html</link>
-      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: A critical security flaw in SAP NetWeaver is being exploited by multiple China-nexus nation-state actors to target critical infrastructure networks. The vulnerability allows for remote code execution and has been used to deploy web shells, reverse shells, and backdoors.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html</guid>
-      <pubDate>Tue, 13 May 2025 15:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Intel CPU flaws leak sensitive data from privileged memory</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/</link>
-      <description>Vulnerable Product: Intel CPUs; CVE(s): CVE-2024-45332; Summary: A "Branch Privilege Injection" flaw in modern Intel CPUs allows attackers to leak sensitive data from memory regions allocated to privileged software. The vulnerability, tracked under CVE-2024-45332, is a race condition on the branch predictor subsystem and affects all Intel CPUs from the 9th generation onward.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/</guid>
-      <pubDate>Tue, 13 May 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads</title>
-      <link>https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html</link>
-      <description>Vulnerable Product: PyPI; CVE(s): None; Summary: The Python Package Index (PyPI) repository had a malicious package named solana-token that was designed to steal source code and developer secrets. When installed, it attempts to exfiltrate data from the developer's machine to a hard-coded IP address, suggesting a target on developers creating their own blockchains.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html</guid>
-      <pubDate>Tue, 13 May 2025 14:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft will update Office apps on Windows 10 until 2028</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/</link>
-      <description>Microsoft has extended its support for Office apps on Windows 10 until 2028, allowing users to continue receiving security updates and using the applications without having to upgrade to Windows 11 immediately. The decision comes as many users are reluctant to switch due to requirements such as TPM 2.0 support. The company will also provide updates beyond October 2025 for Long-Term Servicing Channel (LTSC) and Long-Term Servicing Branch (LTSB) releases, catering to specialized devices.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/</guid>
-      <pubDate>Tue, 13 May 2025 14:44:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Increase Red Team Operations 10X with Adversarial Exposure Validation</title>
-      <link>https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/</link>
-      <description>The article discusses the limitations of traditional red team engagements in identifying critical security gaps and proposes an alternative approach called Adversarial Exposure Validation (AEV). AEV combines Breach and Attack Simulation (BAS) and Automated Penetration Testing to provide continuous, scalable, and automated offensive testing. This approach allows for repeatable and on-demand testing, enabling faster remediation, continuous benchmarking, and the agility to respond to new threats without waiting for the next audit or assessment.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/</guid>
-      <pubDate>Tue, 13 May 2025 14:01:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
