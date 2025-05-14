@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 12:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 13:01:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Patch Tuesday, May 2025 Edition</title>
+      <link>https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32701, CVE-2025-32706, CVE-2025-32709, CVE-2025-30400, CVE-2025-30397; Summary: At least 70 vulnerabilities were fixed in Windows and related products, including five zero-day flaws that are already being exploited. The vulnerabilities include elevation of privilege bugs in the Windows Common Log File System (CLFS) driver and the Desktop Window Manager (DWM) library, as well as a flaw in the Microsoft Scripting Engine.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71250</guid>
+      <pubDate>Wed, 14 May 2025 11:57:48 +0000</pubDate>
+    </item>
     <item>
       <title>Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns</title>
       <link>https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html</link>
@@ -354,13 +361,6 @@ FYSA: Talos has released a new Snort rule set to detect attempts to exploit some
       <description>The article discusses the limitations of traditional red team engagements in identifying critical security gaps and proposes an alternative approach called Adversarial Exposure Validation (AEV). AEV combines Breach and Attack Simulation (BAS) and Automated Penetration Testing to provide continuous, scalable, and automated offensive testing. This approach allows for repeatable and on-demand testing, enabling faster remediation, continuous benchmarking, and the agility to respond to new threats without waiting for the next audit or assessment.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/</guid>
       <pubDate>Tue, 13 May 2025 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marks &amp; Spencer Confirms Customer Data Breach in Recent Cyber Attack</title>
-      <link>https://gbhackers.com/marks-spencer-confirms-customer-data-breach/</link>
-      <description>A cyber attack against Marks &amp; Spencer (M&amp;S) has compromised customer personal data, including names, dates of birth, telephone numbers, home addresses, and online order histories. The attackers used a "double extortion" method, exfiltrating sensitive data and encrypting company systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135277</guid>
-      <pubDate>Tue, 13 May 2025 13:45:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
