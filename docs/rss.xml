@@ -6,8 +6,31 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 15:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 16:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Leverage Weaponized HTML Files to Deliver Horabot Malware</title>
+      <link>https://gbhackers.com/threat-actors-leverage-weaponized-html-files/</link>
+      <description>A phishing campaign targeting Spanish-speaking users in Latin America has been discovered by FortiGuard Labs. The attack uses malicious HTML files embedded in emails to steal sensitive information and propagate through networks. The campaign is highly sophisticated, using browser redirection tricks, custom string decoding, and PowerShell scripts to evade detection and exfiltrate data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135763</guid>
+      <pubDate>Wed, 14 May 2025 15:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>TA406 Hackers Target Government Entities to Steal Login Credentials</title>
+      <link>https://gbhackers.com/ta406-hackers-target-government-entities/</link>
+      <description>TA406, a North Korean state-sponsored threat actor, has launched targeted phishing campaigns against Ukrainian government entities. The attacks aim to gather strategic intelligence on the Russian invasion of Ukraine and assess risks to North Korea's forces assisting Russia. The campaign involves credential harvesting through fake Microsoft security alerts and malware deployment via RAR archives and HTML attachments.
+
+FYSA: TA406's dual-pronged offensive includes credential harvesting through fake Microsoft security alerts and malware deployment via RAR archives and HTML attachments, aiming to gather strategic intelligence on the Russian invasion of Ukraine.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135741</guid>
+      <pubDate>Wed, 14 May 2025 15:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Threat Intelligence Releases Actionable Threat Hunting Technique for Malicious .desktop Files</title>
+      <link>https://gbhackers.com/google-releases-actionable-threat-hunting-technique/</link>
+      <description>Malicious .desktop files were discovered to be a novel attack vector used by threat actors to compromise systems. These files exploit legitimate system processes and use junk code to obfuscate their intent. The files, which typically include sections like [Desktop Entry] with keys such as Name, Comment, Exec, and Icon, can trigger commands that open seemingly innocuous PDFs via Google Drive.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135719</guid>
+      <pubDate>Wed, 14 May 2025 15:06:46 +0000</pubDate>
+    </item>
     <item>
       <title>New Adobe Photoshop Vulnerability Enables Arbitrary Code Execution</title>
       <link>https://gbhackers.com/new-adobe-photoshop-vulnerability/</link>
@@ -350,27 +373,6 @@ FYSA: Talos has released a new Snort rule set to detect attempts to exploit some
       <description>Vulnerable Product: JetBrains TeamCity; CVE(s): CVE-2025-46618; Summary: This vulnerability allows remote attackers to execute arbitrary script on affected installations of JetBrains TeamCity. Minimal user interaction is required to exploit this vulnerability, which exists in the handling of filenames in the diagnostics functionality due to a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-25977</guid>
       <pubDate>Tue, 13 May 2025 20:01:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Twilio denies breach following leak of alleged Steam 2FA codes</title>
-      <link>https://www.bleepingcomputer.com/news/security/twilio-denies-breach-following-leak-of-alleged-steam-2fa-codes/</link>
-      <description>A threat actor claims to have accessed over 89 million Steam user records with one-time access codes, allegedly obtained from Twilio's SMS system. The authenticity of the data and the source of the breach are unclear, but experts suggest a possible supply-chain compromise involving Twilio.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/twilio-denies-breach-following-leak-of-alleged-steam-2fa-codes/</guid>
-      <pubDate>Tue, 13 May 2025 19:16:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-285: Dassault Systèmes eDrawings Viewer SLDPRT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-285/</link>
-      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-1884; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Dassault Systèmes eDrawings Viewer by parsing SLDPRT files. User interaction is required, and the attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26029</guid>
-      <pubDate>Tue, 13 May 2025 19:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-286: Dassault Systèmes eDrawings Viewer OBJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-286/</link>
-      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-1883; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations by exploiting an out-of-bounds write in the parsing of OBJ files. User interaction is required, and an attacker can leverage this to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26017</guid>
-      <pubDate>Tue, 13 May 2025 19:01:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
