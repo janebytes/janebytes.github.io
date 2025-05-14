@@ -6,8 +6,66 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 22:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 10:07:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DarkCloud Stealer: Comprehensive Analysis of a New Attack Chain That Employs AutoIt</title>
+      <link>https://unit42.paloaltonetworks.com/darkcloud-stealer-and-obfuscated-autoit-scripting/</link>
+      <description>This article discusses the DarkCloud Stealer malware, which is a data-stealing malware that collects and exfiltrates sensitive information such as computer names, usernames, passwords, and credit card details. The malware uses multi-stage payloads and obfuscated AutoIt scripting to evade detection and establish command and control (C2) communications.
+
+FYSA: Palo Alto Networks customers are better protected from DarkCloud Stealer through their Network Security solutions and Cortex line of products, including Advanced WildFire, Cortex XDR, and Cortex XSIAM.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140509</guid>
+      <pubDate>Wed, 14 May 2025 10:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server</title>
+      <link>https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30397, CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709; Summary: Five zero-day vulnerabilities have been identified in Microsoft's software lineup, including the Scripting Engine Memory Corruption Vulnerability (CVE-2025-30397), Microsoft Desktop Window Manager (DWM) Core Library Elevation of Privilege Vulnerability (CVE-2025-30400), Windows Common Log File System (CLFS) Driver Elevation of Privilege Vulnerability (CVE-2025-32701 and CVE-2025-32706), and Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability (CVE-2025-32709). These vulnerabilities can lead to remote code execution, privilege escalation, and information disclosure.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html</guid>
+      <pubDate>Wed, 14 May 2025 08:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Microsoft Scripting Engine Vulnerability Exposes Systems to Remote Code Attacks</title>
+      <link>https://gbhackers.com/new-microsoft-scripting-engine-vulnerability/</link>
+      <description>Vulnerable Product: Microsoft Scripting Engine; CVE(s): CVE-2025-30397; Summary: A type confusion weakness (CWE-843) allows remote code execution (RCE) attacks over networks by manipulating the engine's memory processes. Attackers can craft malicious scripts that confuse the engine into interpreting memory addresses as executable code segments, enabling arbitrary code execution with the privileges of the current user.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135408</guid>
+      <pubDate>Wed, 14 May 2025 07:17:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Microsoft Office Vulnerabilities Enable Malicious Code Execution</title>
+      <link>https://gbhackers.com/critical-microsoft-office-vulnerabilities/</link>
+      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2025-30377, CVE-2025-30386, CVE-2025-26629; Summary: Three critical security flaws in Microsoft Office enable remote code execution via use-after-free memory corruption weaknesses. The most severe vulnerabilities, CVE-2025-30377 and CVE-2025-30386, can be exploited without user interaction, while the third vulnerability, CVE-2025-26629, requires user interaction to execute malicious code.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135397</guid>
+      <pubDate>Wed, 14 May 2025 07:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Windows RDP Vulnerability Enables Network-Based Attacks</title>
+      <link>https://gbhackers.com/new-windows-rdp-vulnerability/</link>
+      <description>Vulnerable Product: Microsoft Windows Remote Desktop services; CVE(s): CVE-2025-29966, CVE-2025-29967; Summary: Two critical heap-based buffer overflow flaws affect the Windows Remote Desktop Protocol (RDP) and Remote Desktop Gateway (RD Gateway) service, allowing unauthenticated attackers to execute arbitrary code on vulnerable systems over a network.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135387</guid>
+      <pubDate>Wed, 14 May 2025 07:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical 0-Day in Windows DWM Enables Privilege Escalation</title>
+      <link>https://gbhackers.com/critical-0-day-in-windows-dwm/</link>
+      <description>Vulnerable Product: Microsoft Windows Desktop Window Manager (DWM); CVE(s): CVE-2025-30400; Summary: The vulnerability allows attackers with local access to elevate their privileges on affected systems through a use-after-free memory condition in the DWM component. This zero-day threat has been actively exploited despite no prior public disclosure, and its exploitation grants attackers full control over affected systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135379</guid>
+      <pubDate>Wed, 14 May 2025 05:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems</title>
+      <link>https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html</link>
+      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-32756; Summary: A critical security flaw (CVE-2025-32756) in FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera allows remote unauthenticated attackers to execute arbitrary code or commands via crafted HTTP requests. The vulnerability has been exploited in the wild, with threat actors performing device network scans, erasing system crash logs, and enabling fcgi debugging to log credentials.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html</guid>
+      <pubDate>Wed, 14 May 2025 04:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks</title>
+      <link>https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html</link>
+      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Ivanti EPMM software contains two security flaws that can be chained together to gain remote code execution. The vulnerabilities allow attackers to access protected resources without proper credentials and execute arbitrary code on the target system. Affected versions include 11.12.0.4 and prior, 12.3.0.1 and prior, 12.4.0.1 and prior, and 12.5.0.0 and prior.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html</guid>
+      <pubDate>Wed, 14 May 2025 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-288: Fortinet FortiWeb cgi_httpcontentrouting_post Directory Traversal Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-288/</link>
@@ -327,64 +385,6 @@ No known public exploitation specifically targeting these vulnerabilities has be
       <description>Vulnerable Product: Hitachi Energy Relion 670/650/SAM600-IO Series; CVE(s): CVE-2023-4518; Summary: A buffer copy without checking size of input ('Classic Buffer Overflow') vulnerability exists in the input validation of GOOSE messages, allowing an attacker to reboot the device and cause a denial-of-service condition.</description>
       <guid isPermaLink="false">/node/23353</guid>
       <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ABB Automation Builder</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-04</link>
-      <description>Vulnerable Product: ABB Automation Builder; CVE(s): CVE-2025-3394, CVE-2025-3395; Summary: Incorrect permission assignment for critical resource vulnerabilities in Automation Builder allow an attacker to overrule user management. Successful exploitation could lead to unauthorized access and changes to automation projects.</description>
-      <guid isPermaLink="false">/node/23355</guid>
-      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Abuse PyInstaller to Deploy Stealthy macOS Infostealer</title>
-      <link>https://gbhackers.com/hackers-abuse-pyinstaller-to-deploy-stealthy/</link>
-      <description>A novel macOS infostealer that exploits PyInstaller has been identified. The malware uses strings like ‘_MEIPASS’ to indicate embedded archives extracted at runtime and orchestrates malicious logic through PyInstaller's bootloader. It exhibits nefarious behaviors including AppleScript dialogs coercing user passwords, system volume mutting, and data exfiltration.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135204</guid>
-      <pubDate>Tue, 13 May 2025 11:48:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deepfake Defense in the Age of AI</title>
-      <link>https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html</link>
-      <description>AI-generated social engineering attacks are increasingly sophisticated and prevalent, utilizing large language models (LLMs) to impersonate trusted individuals. Attackers use voice phishing (vishing) tactics to automate social engineering at scale, posing a significant threat to trust in virtual collaboration platforms.
-
-FYSA: Threat actors are leveraging generative AI to impersonate trusted individuals, automating social engineering tactics and driving a surge in voice phishing attacks. This trend is fueled by the convergence of AI-driven deception, virtual collaboration tools that assume trust, and defenses that rely on probability rather than proof.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html</guid>
-      <pubDate>Tue, 13 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress</title>
-      <link>https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html</link>
-      <description>The North Korea-linked threat actor, Konni APT, has been attributed to a phishing campaign targeting government entities in Ukraine. The goal of the campaign is to collect intelligence on the "trajectory of the Russian invasion." The threat group, also known as Opal Sleet, Osmium, TA406, and Vedalia, has a history of targeting entities in South Korea, the United States, and Russia.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html</guid>
-      <pubDate>Tue, 13 May 2025 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PupkinStealer Targets Windows Users to Steal Browser Login Credentials</title>
-      <link>https://gbhackers.com/pupkinstealer-targets-windows-users/</link>
-      <description>Vulnerable Product: PupkinStealer; CVE(s): None; Summary: A newly identified information-stealing malware, PupkinStealer, targets Windows users by stealing sensitive data including browser credentials, desktop documents, and full-screen screenshots. It uses Telegram's Bot API for data exfiltration and relies on social engineering tactics to trick victims into executing the malicious file. The malware can pilfer login credentials from Chromium-based browsers, hijack Telegram sessions, extract authentication tokens from Discord clients, and capture desktop screenshots.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135176</guid>
-      <pubDate>Tue, 13 May 2025 10:32:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repeated Firmware Key-Management Failures Undermine Intel Boot Guard and UEFI Secure Boot</title>
-      <link>https://gbhackers.com/repeated-firmware-key-management-failures/</link>
-      <description>Vulnerable Product: UEFI firmware ecosystem; CVE(s): CVE-2025-3052, None; Summary: The security of the UEFI firmware ecosystem has been questioned due to persistent cryptographic key management issues. Private keys have been exposed and unpatched vulnerabilities affecting millions of devices across vendors like Lenovo, MSI, Gigabyte, and Supermicro have been found. These issues leave systems open to pre-OS malware and bootkit attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135145</guid>
-      <pubDate>Tue, 13 May 2025 10:23:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>INE Security Alert: Top 5 Takeaways from RSAC 2025</title>
-      <link>https://gbhackers.com/ine-security-alert-top-5-takeaways-from-rsac-2025/</link>
-      <description>INE Security provides comprehensive training and certification programs to address top cybersecurity priorities, including AI security, multi-cloud vulnerabilities, zero-trust architecture, crisis response, and continuous skill development. The company's platform offers hands-on labs, cutting-edge technology, and world-class instructors to help teams develop the expertise needed to address modern cyber threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135179</guid>
-      <pubDate>Tue, 13 May 2025 10:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Flags Hidden Functionality Flaw in TeleMessage TM SGNL on KEV List</title>
-      <link>https://gbhackers.com/cisa-flags-hidden-functionality-flaw/</link>
-      <description>Vulnerable Product: TeleMessage TM SGNL; CVE(s): CVE-2025-47729; Summary: A critical hidden functionality vulnerability in TeleMessage's archiving backend exposes cleartext copies of user messages, enabling unauthorized access to sensitive communications. The flaw persists even if end-to-end encryption is implemented at the application layer, violating zero-trust principles. Organizations have until June 2, 2025, to apply vendor-provided mitigations or discontinue TM SGNL usage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135166</guid>
-      <pubDate>Tue, 13 May 2025 10:06:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
