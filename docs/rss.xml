@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 19:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 20:01:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers behind UK retail attacks now targeting US companies</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-scattered-spider-switches-targets-to-us-retail-chains/</link>
+      <description>Scattered Spider, a collective of threat actors, is targeting retail chains in the United Kingdom and has now started targeting retailers in the United States with ransomware and extortion operations. The group's tactics include social engineering, phishing, SIM swapping, and multi-factor authentication (MFA) bombing.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-scattered-spider-switches-targets-to-us-retail-chains/</guid>
+      <pubDate>Wed, 14 May 2025 19:38:53 +0000</pubDate>
+    </item>
     <item>
       <title>Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit</title>
       <link>https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html</link>
@@ -364,13 +371,6 @@ FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest 
       <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Ivanti EPMM software contains two security flaws that can be chained together to gain remote code execution. The vulnerabilities allow attackers to access protected resources without proper credentials and execute arbitrary code on the target system. Affected versions include 11.12.0.4 and prior, 12.3.0.1 and prior, 12.4.0.1 and prior, and 12.5.0.0 and prior.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html</guid>
       <pubDate>Wed, 14 May 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-288: Fortinet FortiWeb cgi_httpcontentrouting_post Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-288/</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25254; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiWeb, requiring authentication to exploit. It occurs in the cgi_httpcontentrouting_post function due to a lack of proper validation of user-supplied paths prior to file operations, enabling an attacker to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-25181</guid>
-      <pubDate>Tue, 13 May 2025 21:02:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
