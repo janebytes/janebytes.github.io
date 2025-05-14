@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 18:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 19:01:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit</title>
+      <link>https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html</link>
+      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-4632; Summary: A critical path traversal flaw (CVE-2025-4632) in Samsung MagicINFO 9 Server, tracked as CVSS score 9.8, allows attackers to write arbitrary files with system authority, and has been actively exploited in the wild, including to deploy the Mirai botnet.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html</guid>
+      <pubDate>Wed, 14 May 2025 17:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan</title>
+      <link>https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html</link>
+      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-29824, CVE-2025-31324, CVE-2025-42999; Summary: Multiple cybercrime groups, including BianLian and RansomExx, are exploiting a recently disclosed security flaw in SAP NetWeaver. The vulnerability allows for privilege escalation and has been used to deliver malware, including the PipeMagic trojan.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html</guid>
+      <pubDate>Wed, 14 May 2025 17:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware gangs join ongoing SAP NetWeaver attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-ongoing-sap-netweaver-attacks/</link>
@@ -190,6 +204,13 @@ FYSA: This article discusses Microsoft's May 2025 Patch Tuesday updates, which a
       <pubDate>Wed, 14 May 2025 13:02:23 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/14/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Fortinet Multiple Products; CVE(s): CVE-2025-32756; Summary: A stack-based buffer overflow vulnerability in Fortinet multiple products has been added to the Known Exploited Vulnerabilities Catalog due to evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise.</description>
+      <guid isPermaLink="false">/node/23360</guid>
+      <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Patch Tuesday, May 2025 Edition</title>
       <link>https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/</link>
       <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32701, CVE-2025-32706, CVE-2025-32709, CVE-2025-30400, CVE-2025-30397; Summary: At least 70 vulnerabilities were fixed in Windows and related products, including five zero-day flaws that are already being exploited. The vulnerabilities include elevation of privilege bugs in the Windows Common Log File System (CLFS) driver and the Desktop Window Manager (DWM) library, as well as a flaw in the Microsoft Scripting Engine.</description>
@@ -350,27 +371,6 @@ FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest 
       <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25254; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiWeb, requiring authentication to exploit. It occurs in the cgi_httpcontentrouting_post function due to a lack of proper validation of user-supplied paths prior to file operations, enabling an attacker to execute code in the context of root.</description>
       <guid isPermaLink="false">ZDI-CAN-25181</guid>
       <pubDate>Tue, 13 May 2025 21:02:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-289: Rockwell Automation ThinManager ThinServer Null Pointer Dereference Denial-of-Service Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-289/</link>
-      <description>Vulnerable Product: Rockwell Automation ThinManager; CVE(s): CVE-2025-3618; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Rockwell Automation ThinManager. Authentication is not required to exploit this vulnerability, and the specific flaw exists within the ThinServer component due to a null pointer dereference.</description>
-      <guid isPermaLink="false">ZDI-CAN-25872</guid>
-      <pubDate>Tue, 13 May 2025 21:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-290: Rockwell Automation ThinManager ThinServer Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-290/</link>
-      <description>Vulnerable Product: Rockwell Automation ThinManager; CVE(s): CVE-2025-3617; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Rockwell Automation ThinManager by creating a symbolic link within the ThinServer component. An attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be used to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25727</guid>
-      <pubDate>Tue, 13 May 2025 21:01:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP patches second zero-day flaw exploited in recent attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/</link>
-      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: The article discusses a zero-day vulnerability (CVE-2025-42999) exploited in recent attacks targeting SAP NetWeaver servers. The flaw was discovered while investigating another unauthenticated file upload vulnerability (CVE-2025-31324) fixed in April. Threat actors were chaining both vulnerabilities to execute arbitrary commands remotely without privileges on the system.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/</guid>
-      <pubDate>Tue, 13 May 2025 20:48:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
