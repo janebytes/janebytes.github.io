@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 20:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 21:01:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google Chrome to block admin-level browser launches for better security</title>
+      <link>https://www.bleepingcomputer.com/news/google/google-chrome-to-block-admin-level-browser-launches-for-better-security/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): None; Summary: The article discusses a change to Chromium that will "de-elevate" Google Chrome, preventing it from running as an administrator in Windows. This is done to increase security by warning users and automatically relaunching the browser without elevated permissions.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/google/google-chrome-to-block-admin-level-browser-launches-for-better-security/</guid>
+      <pubDate>Wed, 14 May 2025 20:25:39 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers behind UK retail attacks now targeting US companies</title>
       <link>https://www.bleepingcomputer.com/news/security/google-scattered-spider-switches-targets-to-us-retail-chains/</link>
@@ -364,13 +371,6 @@ FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest 
       <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-32756; Summary: A critical security flaw (CVE-2025-32756) in FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera allows remote unauthenticated attackers to execute arbitrary code or commands via crafted HTTP requests. The vulnerability has been exploited in the wild, with threat actors performing device network scans, erasing system crash logs, and enabling fcgi debugging to log credentials.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html</guid>
       <pubDate>Wed, 14 May 2025 04:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks</title>
-      <link>https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Ivanti EPMM software contains two security flaws that can be chained together to gain remote code execution. The vulnerabilities allow attackers to access protected resources without proper credentials and execute arbitrary code on the target system. Affected versions include 11.12.0.4 and prior, 12.3.0.1 and prior, 12.4.0.1 and prior, and 12.5.0.0 and prior.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html</guid>
-      <pubDate>Wed, 14 May 2025 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
