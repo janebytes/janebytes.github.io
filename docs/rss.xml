@@ -6,14 +6,63 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 14:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 15:04:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Adobe Photoshop Vulnerability Enables Arbitrary Code Execution</title>
+      <link>https://gbhackers.com/new-adobe-photoshop-vulnerability/</link>
+      <description>Vulnerable Product: Adobe Photoshop; CVE(s): CVE-2025-30324, CVE-2025-30325, CVE-2025-30326; Summary: Three high-severity vulnerabilities in Photoshop 2024 and 2025 allow arbitrary code execution on Windows and macOS systems through memory corruption risks. The flaws involve improper memory management during image file processing and require user interaction via malicious file openings.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135681</guid>
+      <pubDate>Wed, 14 May 2025 14:52:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Severe Adobe Illustrator Flaw Allows Remote Code Execution</title>
+      <link>https://gbhackers.com/severe-adobe-illustrator-flaw/</link>
+      <description>Vulnerable Product: Adobe Illustrator; CVE(s): CVE-2025-30330; Summary: The vulnerability allows arbitrary code execution on affected systems, impacting Windows and macOS versions of Illustrator 2024 and 2025. It could enable attackers to take control of a user's device by tricking them into opening a malicious file.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135702</guid>
+      <pubDate>Wed, 14 May 2025 14:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft fixes Linux boot issues on dual-boot Windows systems</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-linux-boot-issues-on-dual-boot-windows-systems/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The August 2024 Windows security updates prevented Linux from booting on dual-boot systems with Secure Boot enabled, due to an SBAT update that blocks UEFI shim bootloaders vulnerable to the CVE-2022-2601 GRUB2 Secure Boot bypass.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-linux-boot-issues-on-dual-boot-windows-systems/</guid>
+      <pubDate>Wed, 14 May 2025 14:50:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steel giant Nucor Corporation facing disruptions after cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/steel-giant-nucor-corporation-facing-disruptions-after-cyberattack/</link>
+      <description>Nucor Corporation, the largest steel producer in the US, experienced a cybersecurity incident that forced it to take parts of its network offline and suspend production at multiple locations. The incident has been reported to law enforcement authorities and external cybersecurity experts have been engaged to assist with the investigation. No details about the attack's date or type were provided, including whether data theft or encryption was involved.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/steel-giant-nucor-corporation-facing-disruptions-after-cyberattack/</guid>
+      <pubDate>Wed, 14 May 2025 14:39:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Unveil New Mechanism to Track Compartmentalized Cyber Threats</title>
+      <link>https://gbhackers.com/new-mechanism-to-track-compartmentalized-cyber-threats/</link>
+      <description>This article introduces the extended Diamond Model for cybersecurity professionals to tackle compartmentalized cyber threats. The model integrates a "Relationship Layer" to contextualize interactions between adversaries, capabilities, infrastructure, and victims, enabling accurate attribution and prevention of erroneous clustering of threat activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135703</guid>
+      <pubDate>Wed, 14 May 2025 14:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>New HTTPBot Botnet Rapidly Expands to Target Windows Machines</title>
+      <link>https://gbhackers.com/new-httpbot-botnet-rapidly-expands/</link>
+      <description>The HTTPBot Botnet is a novel Trojan developed in the Go programming language that targets Windows machines and uses innovative HTTP-based Distributed Denial of Service (DDoS) attack methods to target high-value business interfaces. It deploys seven distinct HTTP attack techniques, including randomized User-Agent strings, dynamic URL paths, and cookie replenishment mechanisms to bypass conventional rule-based detection systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135680</guid>
+      <pubDate>Wed, 14 May 2025 14:08:47 +0000</pubDate>
+    </item>
     <item>
       <title>CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users</title>
       <link>https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html</link>
       <description>This article discusses a global phishing threat called "Meta Mirage" that targets businesses using Meta's Business Suite. The attackers impersonate official Meta communications, tricking users into handing over sensitive details like passwords and security codes (OTP). The campaign uses fake alerts about policy violations, account suspensions, or urgent verification notices to deceive victims.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html</guid>
       <pubDate>Wed, 14 May 2025 14:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Focused Phishing: Attack Targets Victims With Trusted Sites and Live Validation</title>
+      <link>https://www.bleepingcomputer.com/news/security/focused-phishing-attack-targets-victims-with-trusted-sites-and-live-validation/</link>
+      <description>This article discusses a real-world phishing incident that showcases advanced tactics used by attackers, including leveraging legitimate infrastructure, precision email validation, and evasive delivery techniques. The attack involved a server-side phishing page that dynamically handled email input and included anti-analysis mechanisms to obstruct analysis efforts. The article highlights the importance of browser-based, zero-day phishing protection and emphasizes the need for security stacks to detect and block phishing pages even on trusted domains.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/focused-phishing-attack-targets-victims-with-trusted-sites-and-live-validation/</guid>
+      <pubDate>Wed, 14 May 2025 14:02:12 +0000</pubDate>
     </item>
     <item>
       <title>May 2025 Patch Tuesday: 78 Flaws, 5 Exploited, &amp; Critical SAP Fixes</title>
@@ -322,55 +371,6 @@ FYSA: Talos has released a new Snort rule set to detect attempts to exploit some
       <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-1883; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations by exploiting an out-of-bounds write in the parsing of OBJ files. User interaction is required, and an attacker can leverage this to execute code in the context of the current process.</description>
       <guid isPermaLink="false">ZDI-CAN-26017</guid>
       <pubDate>Tue, 13 May 2025 19:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday May 2025 Released With the Fixes for 72 Flaws With 5 Actively Exploited 0-Day</title>
-      <link>https://gbhackers.com/microsoft-patch-tuesday-may-2025/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30397, CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709; Summary: Microsoft has released May 2025 Patch Tuesday updates addressing 72 security vulnerabilities, including 5 zero-day vulnerabilities actively exploited in the wild. The flaws include Remote Code Execution, Elevation of Privilege, Information Disclosure, Denial of Service, and Security Feature Bypass, with Windows components being heavily targeted.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135368</guid>
-      <pubDate>Tue, 13 May 2025 18:59:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti fixes EPMM zero-days chained in code execution attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/ivanti-fixes-epmm-zero-days-chained-in-code-execution-attacks/</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Ivanti EPMM has two security vulnerabilities chained together to gain remote code execution. The first is an authentication bypass in the API component, allowing attackers to access protected resources on vulnerable devices. The second is a remote code execution vulnerability that allows threat actors to execute arbitrary code on targeted systems via maliciously crafted API requests.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ivanti-fixes-epmm-zero-days-chained-in-code-execution-attacks/</guid>
-      <pubDate>Tue, 13 May 2025 18:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft May 2025 Patch Tuesday fixes 5 exploited zero-days, 72 flaws</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709, CVE-2025-30397; Summary: Microsoft fixed five actively exploited zero-day vulnerabilities and 67 other flaws in its May 2025 Patch Tuesday updates. The vulnerable products include Windows DWM Core Library, Windows Common Log File System Driver, Windows Ancillary Function Driver for WinSock, and Microsoft Scripting Engine.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/</guid>
-      <pubDate>Tue, 13 May 2025 17:56:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Released Security Updates to Fix for the Mutiple RCE Vulnerabilities – Patch Now</title>
-      <link>https://gbhackers.com/ivanti-released-security-updates-for-may-2025/</link>
-      <description>Vulnerable Product: Ivanti; CVE(s): CVE-2025-4427, CVE-2025-4428, CVE-2025-22462, CVE-2025-22460 (None); Summary: Ivanti released critical security updates to address vulnerabilities in Endpoint Manager Mobile, Neurons for ITSM, Cloud Services Application, and Neurons for MDM. The vulnerabilities could allow attackers to execute remote code, gain administrative access, escalate privileges, or edit unauthorized resources.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135337</guid>
-      <pubDate>Tue, 13 May 2025 17:39:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 KB5058411 and KB5058405 cumulative updates released</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/</link>
-      <description>The article discusses various updates and features in Windows 11, including improved search functionality, new widgets on Lock experience, and pivot-based curated views on File Explorer Home. It also mentions the availability of Windows 11 24H2 for everyone and resolves issues with Roblox on ARM PCs, but does not discuss any specific vulnerabilities or cybersecurity threats.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/</guid>
-      <pubDate>Tue, 13 May 2025 17:31:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android 16 expands 'Advanced Protection' with device-level security</title>
-      <link>https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/</link>
-      <description>Vulnerable Product: Google Android; CVE(s): None; Summary: The article discusses the improvements to the Advanced Protection feature in Android 16, which strengthens defenses against sophisticated spyware attacks. This includes device-level security hardening, verified boot and runtime integrity checks, strong sandboxing, USB port lockdown, app isolation, and other features that prevent disabling or weakening of individual security settings.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/</guid>
-      <pubDate>Tue, 13 May 2025 17:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 KB5058379 update fixes SgrmBroker errors in Event Viewer</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/</link>
-      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: The Windows 10 KB5058379 cumulative update includes four changes and fixes, including one for an SGRMBroker bug, seven zero-day vulnerabilities, and updates to the Windows Kernel Vulnerable Driver Blocklist. One known issue is fixed, which may cause Windows updates to fail if Citrix Session Recording Agent (SRA) version 2411 is installed on the device.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/</guid>
-      <pubDate>Tue, 13 May 2025 17:18:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
