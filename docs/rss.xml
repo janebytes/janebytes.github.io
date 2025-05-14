@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 10:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 11:05:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Weaponized PyPI Package Targets Developers to Steal Source Code</title>
+      <link>https://gbhackers.com/weaponized-pypi-package-targets-developers/</link>
+      <description>Vulnerable Product: PyPI "solana-token" package; CVE(s): None; Summary: The "solana-token" Python package was discovered to be malicious, targeting developers working with the Solana blockchain. It exhibited characteristics of infostealer malware, including hardcoded URLs referencing command-and-control servers and file-reading behaviors. The primary objective is to steal hardcoded cryptographic secrets, such as private keys or access credentials to cryptocurrency wallets, making it a precursor to potentially devastating breaches.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135544</guid>
+      <pubDate>Wed, 14 May 2025 10:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Alerts on AD CS Flaw Enabling Remote Denial-of-Service Attacks</title>
+      <link>https://gbhackers.com/microsoft-alerts-on-ad-cs-flaw/</link>
+      <description>Vulnerable Product: Microsoft Active Directory Certificate Services (AD CS); CVE(s): CVE-2025-29968; Summary: A newly identified vulnerability in AD CS allows authenticated attackers to disrupt critical certificate management operations over a network, enabling denial-of-service (DoS) attacks. The flaw stems from improper input validation and requires valid authentication credentials for exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135539</guid>
+      <pubDate>Wed, 14 May 2025 10:05:07 +0000</pubDate>
+    </item>
     <item>
       <title>DarkCloud Stealer: Comprehensive Analysis of a New Attack Chain That Employs AutoIt</title>
       <link>https://unit42.paloaltonetworks.com/darkcloud-stealer-and-obfuscated-autoit-scripting/</link>
@@ -18,11 +32,53 @@ FYSA: Palo Alto Networks customers are better protected from DarkCloud Stealer t
       <pubDate>Wed, 14 May 2025 10:00:53 +0000</pubDate>
     </item>
     <item>
+      <title>Chinese Hackers Exploit SAP NetWeaver Zero-Day Vulnerability to Target Critical Infrastructure</title>
+      <link>https://gbhackers.com/chinese-hackers-exploit-sap-netweaver-zero-day-vulnerability/</link>
+      <description>Vulnerable Product: SAP; CVE(s): CVE-2025-31324; Summary: The article describes a sophisticated cyber-espionage campaign targeting critical infrastructure worldwide, exploiting an unauthenticated file upload flaw in SAP NetWeaver Visual Composer. The vulnerability allows remote code execution (RCE), providing attackers with a gateway to compromise high-value networks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135500</guid>
+      <pubDate>Wed, 14 May 2025 09:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Unveil New Threat-Hunting Techniques to Detect Azure Managed Identity Abuse</title>
+      <link>https://gbhackers.com/researchers-unveil-new-threat-hunting-techniques/</link>
+      <description>This article discusses a research paper by Hunters' Team Axon that presents threat-hunting techniques to identify and prevent the misuse of Azure Managed Identities. The paper provides tools and strategies for detecting suspicious behaviors, tracing compromised identities, and assessing blast radii of permissions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135478</guid>
+      <pubDate>Wed, 14 May 2025 09:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows CLFS Zero-Day Vulnerability Actively Exploited in the Wild</title>
+      <link>https://gbhackers.com/windows-clfs-zero-day-vulnerability-exploited/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-32706, CVE-2025-32701; Summary: The Windows Common Log File System (CLFS) Driver has two critical security vulnerabilities that allow local privilege escalation and have been confirmed to be actively exploited in the wild. The first vulnerability is due to improper input validation, while the second is a Use-After-Free condition. Both require local access, low attack complexity, and low privileges but can result in complete compromise of confidentiality, integrity, and availability.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135492</guid>
+      <pubDate>Wed, 14 May 2025 09:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Samsung MagicINFO 9 Server Flaw Allows Arbitrary File Writes</title>
+      <link>https://gbhackers.com/critical-samsung-magicinfo-9-server-flaw/</link>
+      <description>Vulnerable Product: Samsung; CVE(s): CVE-2025-4632; Summary: The MagicINFO 9 Server platform has a critical path traversal vulnerability that allows unauthorized actors to write arbitrary files with system-level privileges. Attackers could exploit this flaw to bypass directory restrictions, create or overwrite critical system files, and potentially implant persistence mechanisms, manipulate firmware images, or disrupt entire digital signage networks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135472</guid>
+      <pubDate>Wed, 14 May 2025 08:51:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server</title>
       <link>https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html</link>
       <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30397, CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709; Summary: Five zero-day vulnerabilities have been identified in Microsoft's software lineup, including the Scripting Engine Memory Corruption Vulnerability (CVE-2025-30397), Microsoft Desktop Window Manager (DWM) Core Library Elevation of Privilege Vulnerability (CVE-2025-30400), Windows Common Log File System (CLFS) Driver Elevation of Privilege Vulnerability (CVE-2025-32701 and CVE-2025-32706), and Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability (CVE-2025-32709). These vulnerabilities can lead to remote code execution, privilege escalation, and information disclosure.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html</guid>
       <pubDate>Wed, 14 May 2025 08:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Ancillary for WinSock 0-Day Vulnerability Actively Exploited to Gain Admin Access</title>
+      <link>https://gbhackers.com/windows-ancillary-for-winsock-0-day-vulnerability-exploited/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-32709; Summary: The Windows Ancillary Function Driver for WinSock contains a critical privilege escalation vulnerability that allows local attackers with basic user privileges to gain SYSTEM-level access. Attackers can exploit the use-after-free flaw by crafting specific IOCTL requests, enabling arbitrary code execution in kernel space.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135423</guid>
+      <pubDate>Wed, 14 May 2025 08:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth Ammit Hackers Deploy New Tools to Target Military Drones</title>
+      <link>https://gbhackers.com/earth-ammit-hackers-deploy-new-tools/</link>
+      <description>The article discusses the threat actor group Earth Ammit, believed to be associated with Chinese-speaking APTs, which orchestrated two campaigns (VENOM and TIDRONE) targeting Taiwan and South Korea. The group exploited supply chain vulnerabilities, using open-source tools and custom-built malware to maintain persistence and evade attribution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135447</guid>
+      <pubDate>Wed, 14 May 2025 07:55:05 +0000</pubDate>
     </item>
     <item>
       <title>New Microsoft Scripting Engine Vulnerability Exposes Systems to Remote Code Attacks</title>
@@ -305,86 +361,6 @@ FYSA: Talos has released a new Snort rule set to detect attempts to exploit some
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31258; Summary: The vulnerability, tracked as CVE-2025-31258, is a sandbox escape flaw that allows attackers to execute arbitrary code outside application sandbox constraints. It affects macOS Ventura 13.4 through Sonoma 14.2 and can be exploited by launching a malicious app, which could grant read/write access to protected directories like ~/Library and limited command execution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135083</guid>
       <pubDate>Tue, 13 May 2025 13:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four Hackers Caught Exploiting Old Routers as Proxy Servers</title>
-      <link>https://gbhackers.com/four-hackers-caught-exploiting-old-routers/</link>
-      <description>The article reports a global cybercrime scheme that hijacked outdated wireless routers to create malicious proxy networks, generating over $46 million by selling access to infected devices. The scheme exploited security vulnerabilities in older-model routers and allowed the hackers to covertly reconfigure them and resell access through subscription-based platforms.
-
-FYSA: Threat actors targeted residential and business routers, including devices in Oklahoma, by exploiting security vulnerabilities to install malicious firmware.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135172</guid>
-      <pubDate>Tue, 13 May 2025 13:01:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI agents that autonomously trade cryptocurrency aren’t ready for prime time</title>
-      <link>https://arstechnica.com/security/2025/05/ai-agents-that-autonomously-trade-cryptocurrency-arent-ready-for-prime-time/</link>
-      <description>Vulnerable Product: ChatGPT, Gemini; CVE(s): None; Summary: An untrusted user can plant false memories in the long-term conversation memory of ChatGPT or similar LLM-based agents, causing the chatbot to send all user input to an attacker-controlled channel. This vulnerability was demonstrated through a proof-of-concept attack that abused the built-in conversation memory feature.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/ai-agents-that-autonomously-trade-cryptocurrency-arent-ready-for-prime-time/</guid>
-      <pubDate>Tue, 13 May 2025 13:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>F5 BIG-IP Vulnerability Allows Remote Command Execution</title>
-      <link>https://gbhackers.com/f5-big-ip-vulnerability-allows-rce/</link>
-      <description>Vulnerable Product: F5; CVE(s): CVE-2025-31644; Summary: The vulnerability allows authenticated administrators to execute arbitrary system commands, bypassing security boundaries, by exploiting an undisclosed iControl REST endpoint and BIG-IP TMOS Shell command. This can enable attackers to create or delete files, execute system commands, and create a significant security bypass mechanism with a CVSS v3.1 score of 8.7 and a CVSS v4.0 score.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135092</guid>
-      <pubDate>Tue, 13 May 2025 12:54:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider Launches Supply Chain Attacks on UK Retail Organizations</title>
-      <link>https://gbhackers.com/scattered-spider-launches-supply-chain-attacks/</link>
-      <description>Scattered Spider is a financially motivated threat actor targeting UK retail organizations with sophisticated social engineering and technical exploitation tactics. They leverage third-party vendor dependencies, seasonal vulnerabilities, and advanced techniques like cloud exploitation and endpoint detection evasion to gain initial access and persist within networks. Their attacks often involve ransomware deployment, victim communication pressure, and data exfiltration tools, posing a significant risk to high-impact targets during critical sales periods.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135217</guid>
-      <pubDate>Tue, 13 May 2025 12:45:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Five Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/13/cisa-adds-five-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-30397, CVE-2025-32709; Summary: Five new vulnerabilities have been added to the Known Exploited Vulnerabilities Catalog, including use-after-free and heap-based buffer overflow vulnerabilities affecting Microsoft Windows. These vulnerabilities are frequently exploited by malicious actors and pose significant risks to federal agencies and other organizations.</description>
-      <guid isPermaLink="false">/node/23359</guid>
-      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy Service Suite</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-01</link>
-      <description>Vulnerable Product: Apache HTTP Server, Hitachi Energy Service Suite; CVEs: CVE-2022-26377, CVE-2023-31122, and others (see below); CVSS scores: 5.3-8.7.
-
-A comprehensive list of vulnerabilities affecting the Apache HTTP Server and Hitachi Energy Service Suite has been published. The affected products are versions prior to 2.4.55. The listed CVEs include:
-
-* CVE-2022-26377: An inconsistent interpretation of HTTP requests ('HTTP request smuggling') vulnerability in mod_proxy_ajp that allows an attacker to smuggle requests to the AJP server it forwards requests to.
-* CVE-2023-31122: Another inconsistent interpretation of HTTP requests ('HTTP request smuggling') vulnerability in mod_proxy_ajp that also allows an attacker to smuggle requests to the AJP server it forwards requests to.
-
-The other CVEs listed include:
-
-* CVE-2022-37436
-* CVE-2023-43622
-* CVE-2022-28614
-* CVE-2022-28330
-
-These vulnerabilities have been assigned CVSS scores ranging from 5.3 to 8.7, indicating varying levels of severity.
-
-Recommendations:
-
-1. Update to version 9.8.1.4 or later.
-2. Implement security practices and firewall configurations to help protect process control networks from external attacks.
-3. Ensure that process control systems are physically protected from unauthorized personnel, have no direct connections to the Internet, and are separated from other networks by a firewall system with a minimal number of exposed ports.
-
-No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time.</description>
-      <guid isPermaLink="false">/node/23352</guid>
-      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy MACH GWS Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-03</link>
-      <description>Vulnerable Product: Hitachi Energy MACH GWS products; CVE(s): CVE-2024-4872, CVE-2024-3980, CVE-2024-3982, CVE-2024-7940; Summary: The MACH GWS product contains multiple vulnerabilities that allow an attacker to inject code, read or modify files, hijack user sessions, or access exposed ports without authentication. Successful exploitation of these vulnerabilities could result in a range of impacts, including the ability to access or modify system files or other critical files, hijack user sessions, or inject code towards persistent data.</description>
-      <guid isPermaLink="false">/node/23354</guid>
-      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy Relion 670/650/SAM600-IO Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-133-02</link>
-      <description>Vulnerable Product: Hitachi Energy Relion 670/650/SAM600-IO Series; CVE(s): CVE-2023-4518; Summary: A buffer copy without checking size of input ('Classic Buffer Overflow') vulnerability exists in the input validation of GOOSE messages, allowing an attacker to reboot the device and cause a denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23353</guid>
-      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
