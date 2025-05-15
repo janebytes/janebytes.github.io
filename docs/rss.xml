@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 11:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 12:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Pen Testing for Compliance Only? It's Time to Change Your Approach</title>
+      <link>https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html</link>
+      <description>The article discusses the limitations of compliance-focused penetration testing and emphasizes the importance of continuous penetration testing to identify and remediate new vulnerabilities. It highlights how compliance-driven testing often misses complex security flaws, gives attackers an attack vector, and creates a false sense of security. The article also presents benefits of embracing continuous security testing, such as proactive identification of vulnerabilities, continuous improvement, and staying ahead of attackers.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html</guid>
+      <pubDate>Thu, 15 May 2025 11:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>5 BCDR Essentials for Effective Ransomware Defense</title>
       <link>https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html</link>
@@ -366,13 +373,6 @@ FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest 
       <description>Vulnerable Product: Samsung; CVE(s): CVE-2025-4632; Summary: The MagicINFO 9 Server platform has a critical path traversal vulnerability that allows unauthorized actors to write arbitrary files with system-level privileges. Attackers could exploit this flaw to bypass directory restrictions, create or overwrite critical system files, and potentially implant persistence mechanisms, manipulate firmware images, or disrupt entire digital signage networks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135472</guid>
       <pubDate>Wed, 14 May 2025 08:51:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server</title>
-      <link>https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30397, CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709; Summary: Five zero-day vulnerabilities have been identified in Microsoft's software lineup, including the Scripting Engine Memory Corruption Vulnerability (CVE-2025-30397), Microsoft Desktop Window Manager (DWM) Core Library Elevation of Privilege Vulnerability (CVE-2025-30400), Windows Common Log File System (CLFS) Driver Elevation of Privilege Vulnerability (CVE-2025-32701 and CVE-2025-32706), and Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability (CVE-2025-32709). These vulnerabilities can lead to remote code execution, privilege escalation, and information disclosure.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html</guid>
-      <pubDate>Wed, 14 May 2025 08:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
