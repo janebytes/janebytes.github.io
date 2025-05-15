@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 21:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 22:01:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 10 KB5058379 update triggers BitLocker recovery on some devices</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/</link>
+      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: The Windows 10 KB5058379 cumulative update is causing unexpected BitLocker recovery prompts on some devices after installation and restart, with reports of affected devices from Lenovo, Dell, and HP.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/</guid>
+      <pubDate>Thu, 15 May 2025 21:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI warns of ongoing scam that uses deepfake audio to impersonate government officials</title>
+      <link>https://arstechnica.com/security/2025/05/fbi-warns-of-ongoing-scam-that-uses-deepfake-audio-to-impersonate-government-officials/</link>
+      <description>The article provides guidance on how to detect malicious messaging campaigns, including verifying the identity of those contacting you, examining email addresses and URLs for subtle imperfections, and listening carefully to voice tone and word choice. It also acknowledges that AI-generated content has advanced making it difficult to identify, but emphasizes the importance of being cautious and seeking help when in doubt.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/fbi-warns-of-ongoing-scam-that-uses-deepfake-audio-to-impersonate-government-officials/</guid>
+      <pubDate>Thu, 15 May 2025 21:06:17 +0000</pubDate>
+    </item>
     <item>
       <title>After latest kidnap attempt, crypto types tell crime bosses: Transfers are traceable</title>
       <link>https://arstechnica.com/security/2025/05/fractured-skulls-and-ski-masks-more-crypto-kidnap-madness-on-the-streets-of-paris/</link>
@@ -346,20 +360,6 @@ FYSA:</description>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-09</link>
       <description>Vulnerable Product: Siemens User Management Component (UMC); CVE(s): CVE-2025-30174, CVE-2025-30175, CVE-2025-30176; Summary: The affected products contain out-of-bound read and write buffer overflow vulnerabilities in the integrated UMC component. Successful exploitation could allow an unauthenticated remote attacker to cause a denial-of-service condition.</description>
       <guid isPermaLink="false">/node/23373</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens BACnet ATEC Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-03</link>
-      <description>Vulnerable Product: Siemens BACnet ATEC Devices; CVE(s): CVE-2025-40556; Summary: The vulnerability allows an attacker on the same network to send a specially crafted MSTP message, resulting in a denial of service condition of the targeted device. Affected devices improperly handle specific incoming BACnet MSTP messages, requiring a power cycle to restore normal operation.</description>
-      <guid isPermaLink="false">/node/23367</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens APOGEE PXC and TALON TC Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-14</link>
-      <description>Vulnerable Product: Siemens APOGEE PXC and TALON TC Series; CVE(s): CVE-2025-40555; Summary: Successful exploitation of this vulnerability could allow an attacker to cause a partial denial of service and reduce network availability by sending unsolicited BACnet broadcast messages.</description>
-      <guid isPermaLink="false">/node/23378</guid>
       <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
