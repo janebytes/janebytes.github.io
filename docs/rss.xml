@@ -6,14 +6,63 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 14:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 15:04:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New .NET Multi-Stage Loader Targets Windows Systems to Deploy Malicious Payloads</title>
+      <link>https://gbhackers.com/new-net-multi-stage-loader-targets-windows-systems/</link>
+      <description>A .NET-based multi-stage loader has been discovered, capable of deploying commodity stealers, keyloggers, and Remote Access Trojans (RATs) such as AgentTesla, Formbook, Remcos, and 404Keylogger. The loader's complex architecture and ability to embed encrypted payloads make detection challenging for traditional security tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136075</guid>
+      <pubDate>Thu, 15 May 2025 14:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xerox Launches April 2025 Security Patch for FreeFlow Print Server v2</title>
+      <link>https://gbhackers.com/xerox-launches-april-2025-security-patch/</link>
+      <description>Vulnerable Product: Xerox FreeFlow Print Server v2 running on Windows 10; CVE(s): CVE-2025-21191, CVE-2025-27732, CVE-2024-9143; Summary: The update addresses over 40 critical vulnerabilities in OpenJDK Java, Apache HTTP Server, and OpenSSL, while introducing stricter encryption protocols for secure file transfers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135907</guid>
+      <pubDate>Thu, 15 May 2025 14:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Outlook Down – Millions of Business &amp; Personal Users Worldwide Impacted</title>
+      <link>https://gbhackers.com/microsoft-outlook-down/</link>
+      <description>A major outage hit Microsoft Outlook and other Microsoft 365 services, leaving millions of users unable to access their email, calendars, and productivity tools. The disruption affected various services, including Teams, Excel, PowerPoint, and the Microsoft Store, causing disruptions for businesses and individuals alike. The timing of the outage, coinciding with the end of the financial year in some regions, exacerbated its impact on business communications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136101</guid>
+      <pubDate>Thu, 15 May 2025 14:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails</title>
+      <link>https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html</link>
+      <description>Vulnerable Product: Coinbase; CVE(s): None; Summary: Unknown cyber actors stole account data for less than 1% of Coinbase's monthly transacting users by targeting customer support agents overseas. The goal was to gather a list of customers and deceive them into handing over their cryptocurrency assets, with the attackers attempting to extort $20 million from Coinbase.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html</guid>
+      <pubDate>Thu, 15 May 2025 14:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nucor Steel Manufacturer Halts Production After Cyberattack</title>
+      <link>https://gbhackers.com/nucor-steel-manufacturer-halts-production/</link>
+      <description>Vulnerable Product: Nucor Corporation (Operational Systems); CVE(s): None; Summary: Unauthorized access to Nucor's information technology systems compromised critical operational systems, disrupting production at multiple facilities. The breach highlights the escalating risks of cyber threats to industrial control systems and the delicate balance between maintaining operational continuity and mitigating cybersecurity risks in critical manufacturing sectors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135977</guid>
+      <pubDate>Thu, 15 May 2025 14:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Data Compromised in Dior Cyber Attack</title>
+      <link>https://gbhackers.com/customer-data-compromised/</link>
+      <description>Dior's customer database was breached by unauthorized external actors, exposing various categories of personal information. The breach did not expose financial details, but may have placed affected customers at risk of targeted attacks or identity theft attempts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135954</guid>
+      <pubDate>Thu, 15 May 2025 14:06:25 +0000</pubDate>
+    </item>
     <item>
       <title>Enisa Launched New European Vulnerability Database to Strengthen Cybersecurity</title>
       <link>https://gbhackers.com/enisa-unveils-new-european-vulnerability-database/</link>
       <description>The European Union Agency for Cybersecurity (ENISA) has launched the European Vulnerability Database (EUVD), a platform designed to enhance digital security across the EU by aggregating and standardizing vulnerability information affecting Information and Communication Technology (ICT) products and services. The database is accessible to the public, aiming to raise cybersecurity standards and provide users with actionable details for mitigating vulnerabilities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135880</guid>
       <pubDate>Thu, 15 May 2025 13:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xanthorox Emerging BlackHat AI Tool Empowering Hackers in Phishing and Malware Campaigns</title>
+      <link>https://gbhackers.com/xanthorox-emerging-blackhat-ai-tool-empowering-hackers/</link>
+      <description>Vulnerable Product: Xanthorox; CVE(s): None; Summary: Xanthorox is an artificial intelligence platform that enables the automated generation of phishing campaigns, malware, and hyperrealistic deepfakes. Its accessibility and affordability make it a potent tool for cybercriminals, allowing them to launch personalized attacks with ease. The platform's capabilities include generating ransomware code, crafting phishing emails, and producing deepfake audio or video for impersonation scams.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135860</guid>
+      <pubDate>Thu, 15 May 2025 13:52:34 +0000</pubDate>
     </item>
     <item>
       <title>Node.js Vulnerability Enables Attackers to Crash Processes and Disrupt Services</title>
@@ -318,55 +367,6 @@ FYSA: This article discusses Microsoft's May 2025 Patch Tuesday updates, which a
       <description>Dior, a French luxury fashion brand, has disclosed a cybersecurity incident that exposed customer information, including full name, gender, phone number, email address, postal address, purchase history, and preferences. The incident was discovered on May 7, and while account passwords and payment card information were not affected, customers are advised to remain vigilant for phishing attempts and report any brand impersonation.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/</guid>
       <pubDate>Wed, 14 May 2025 13:37:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Windows Remote Desktop Gateway Allows Denial-of-Service Attacks</title>
-      <link>https://gbhackers.com/critical-vulnerability-in-windows-remote-desktop-gateway/</link>
-      <description>Vulnerable Product: Microsoft Remote Desktop Gateway (RDG); CVE(s): CVE-2025-26677, CVE-2025-29831; Summary: Two critical vulnerabilities were discovered in the Microsoft RDG service, allowing for denial-of-service (DoS) attacks and remote code execution (RCE), respectively. The vulnerabilities have been patched in Microsoft's May 2025 security update, but unpatched systems are at risk of operational disruption or unauthorized access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135577</guid>
-      <pubDate>Wed, 14 May 2025 13:36:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Microsoft Outlook Flaw Enables Remote Execution of Arbitrary Code</title>
-      <link>https://gbhackers.com/critical-microsoft-outlook-flaw-enables-remote-execution/</link>
-      <description>Vulnerable Product: Microsoft Outlook; CVE(s): CVE-2025-32705; Summary: A memory corruption flaw in Microsoft Outlook allows attackers to execute arbitrary code by reading data beyond allocated buffer boundaries. The vulnerability affects all Outlook versions from 2019 to the latest 2025 build and has a low attack complexity, requiring minimal user interaction.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135640</guid>
-      <pubDate>Wed, 14 May 2025 13:31:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kosovo extradites BlackDB admin to face US cybercrime charges</title>
-      <link>https://www.bleepingcomputer.com/news/security/kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges/</link>
-      <description>A Kosovo national, Liridon Masurica (also known as @blackdb), has been extradited to the United States and charged with five counts of fraudulent use of unauthorized access devices and one count of conspiracy to commit access device fraud. He is accused of running an online cybercrime marketplace called BlackDB.cc that illegally offered compromised accounts, stolen credit card information, and personally identifiable information (PII) for sale.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges/</guid>
-      <pubDate>Wed, 14 May 2025 13:22:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender Vulnerability Allows Unauthorized Privilege Gain</title>
-      <link>https://gbhackers.com/microsoft-defender-vulnerability/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-26684; Summary: The vulnerability in Microsoft Defender for Endpoint (CVE-2025-26684) allows authenticated attackers with high privileges to manipulate file names or paths and execute arbitrary code, enabling local privilege escalation attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135622</guid>
-      <pubDate>Wed, 14 May 2025 13:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Healthcare Cyberattacks in 2024 Expose 276 Million Patient Records Compromised</title>
-      <link>https://gbhackers.com/healthcare-cyberattacks-in-2024/</link>
-      <description>The healthcare sector faced an unprecedented wave of cyber threats, with 92% of organizations reporting at least one cyberattack. The attacks resulted in the compromise of over 276 million patient records, with victims of medical identity theft spending an average of 210 hours and $2,500 out-of-pocket to reclaim their identities and mitigate the damage. The campaign involved a sophisticated phishing attack impersonating legitimate medical service providers like Zocdoc, targeting healthcare consumers and employees.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135633</guid>
-      <pubDate>Wed, 14 May 2025 13:12:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit AI and LLM Tools for Offensive Cyber Operations</title>
-      <link>https://gbhackers.com/threat-actors-exploit-ai-and-llm-tools/</link>
-      <description>Threat actors are misusing generative AI and large language models (LLMs) for malicious cyber operations, including exploit generation, malware creation, and bypassing security mechanisms. LLMs like ChatGPT, Claude, and DeepSeek are being weaponized on dark web forums such as Cracked and BreachForums, with a focus on prompt engineering and open-source research for nefarious purposes.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135578</guid>
-      <pubDate>Wed, 14 May 2025 13:07:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nation-State Actors Target Healthcare Institutions to Sabotage IT and OT Systems</title>
-      <link>https://gbhackers.com/nation-state-actors-target-healthcare-institutions/</link>
-      <description>Nation-state actors are increasingly targeting healthcare institutions worldwide, launching sophisticated cyberattacks that disrupt IT and OT systems, posing a severe threat to patient safety, data integrity, and operational continuity. The attacks involve APTs, ransomware, and zero-day exploits, with motives ranging from geopolitical leverage to economic disruption and psychological warfare.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135595</guid>
-      <pubDate>Wed, 14 May 2025 13:02:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
