@@ -6,8 +6,59 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 13:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 14:04:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Enisa Launched New European Vulnerability Database to Strengthen Cybersecurity</title>
+      <link>https://gbhackers.com/enisa-unveils-new-european-vulnerability-database/</link>
+      <description>The European Union Agency for Cybersecurity (ENISA) has launched the European Vulnerability Database (EUVD), a platform designed to enhance digital security across the EU by aggregating and standardizing vulnerability information affecting Information and Communication Technology (ICT) products and services. The database is accessible to the public, aiming to raise cybersecurity standards and provide users with actionable details for mitigating vulnerabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135880</guid>
+      <pubDate>Thu, 15 May 2025 13:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Node.js Vulnerability Enables Attackers to Crash Processes and Disrupt Services</title>
+      <link>https://gbhackers.com/node-js-vulnerability-enables-attackers-to-crash-processes/</link>
+      <description>Vulnerable Product: Node.js; CVE(s): CVE-2025-23166, CVE-2025-23167, CVE-2025-23165; Summary: Multiple vulnerabilities in Node.js could allow attackers to crash server processes and disrupt critical services. CVE-2025-23166 affects improper error handling in asynchronous cryptographic operations, while CVE-2025-23167 updates the llhttp HTTP parser library to version 9.2.0, addressing security and robustness issues. CVE-2025-23165 addresses a resource cleanup issue in uv_fs_req_cleanup, which could lead to resource leaks or process instability.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135843</guid>
+      <pubDate>Thu, 15 May 2025 13:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious NPM package uses Unicode steganography to evade detection</title>
+      <link>https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/</link>
+      <description>Vulnerable Product: os-info-checker-es6; CVE(s): None; Summary: The malicious Node Package Manager (NPM) package, os-info-checker-es6, uses invisible Unicode characters to hide malicious code and a Google Calendar link to host the command-and-control location. It delivers a sophisticated C2 mechanism that drops a malware payload, which is executed using eval() and includes persistence mechanisms in the system's temporary directory.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/</guid>
+      <pubDate>Thu, 15 May 2025 13:31:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coinbase data breach exposes customer info and government IDs</title>
+      <link>https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/</link>
+      <description>Vulnerable Product: Coinbase; CVE(s): None; Summary: Rogue support agents stole customer data and demanded a $20 million ransom, which Coinbase refused to pay. The attackers exfiltrated personally identifiable information of up to 1% of Coinbase's customer base (around 1 million individuals), but could not steal private keys or passwords, nor access Coinbase Prime accounts and hot or cold wallets.
+
+FYSA:</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/</guid>
+      <pubDate>Thu, 15 May 2025 13:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Exploit XSS Vulnerabilities to Inject Malicious Code into Email Servers</title>
+      <link>https://gbhackers.com/russian-hackers-exploit-xss-vulnerabilities/</link>
+      <description>Vulnerable Product: Roundcube, Horde, MDaemon, Zimbra; CVE(s): CVE-2020-35730, CVE-2024-11182; Summary: Sednit group exploited known and zero-day XSS vulnerabilities in webmail servers to steal sensitive data. The campaign, dubbed Operation RoundPress, targets governmental and defense entities worldwide using spearphishing emails that inject malicious JavaScript payloads into victims' webmail interfaces.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136009</guid>
+      <pubDate>Thu, 15 May 2025 13:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weaponized Google Calendar Invites Deliver Malicious Payload Using a Single Character</title>
+      <link>https://gbhackers.com/weaponized-google-calendar-invites-deliver-malicious-payload/</link>
+      <description>Malware distribution method leverages Google Calendar invites to deliver malicious payloads through seemingly innocuous links. The attack uses obfuscation techniques, including base64 encoding and binary trickery, to fetch payloads from a Google-hosted calendar event.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135863</guid>
+      <pubDate>Thu, 15 May 2025 13:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Defender Application Control Bypassed Through Browser Exploit Techniques</title>
+      <link>https://gbhackers.com/windows-defender-application-control-bypassed/</link>
+      <description>Vulnerable Product: Multiple; CVE(s): None; Summary: Researchers from X-Force Red Adversary Simulation team discovered a novel method to bypass Windows Defender Application Control (WDAC) by exploiting vulnerabilities in trusted Electron applications using the V8 engine. This technique allows attackers to execute native shellcode, effectively sidestepping WDAC's stringent controls and introducing malicious payloads into tightly controlled systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135981</guid>
+      <pubDate>Thu, 15 May 2025 13:09:26 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. Officials Probe Rogue Communication Devices in Solar Power Inverters</title>
       <link>https://gbhackers.com/u-s-officials-probe-rogue-communication-devices/</link>
@@ -316,55 +367,6 @@ FYSA: This article discusses Microsoft's May 2025 Patch Tuesday updates, which a
       <description>Nation-state actors are increasingly targeting healthcare institutions worldwide, launching sophisticated cyberattacks that disrupt IT and OT systems, posing a severe threat to patient safety, data integrity, and operational continuity. The attacks involve APTs, ransomware, and zero-day exploits, with motives ranging from geopolitical leverage to economic disruption and psychological warfare.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135595</guid>
       <pubDate>Wed, 14 May 2025 13:02:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/14/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Fortinet Multiple Products; CVE(s): CVE-2025-32756; Summary: A stack-based buffer overflow vulnerability in Fortinet multiple products has been added to the Known Exploited Vulnerabilities Catalog due to evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise.</description>
-      <guid isPermaLink="false">/node/23360</guid>
-      <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday, May 2025 Edition</title>
-      <link>https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32701, CVE-2025-32706, CVE-2025-32709, CVE-2025-30400, CVE-2025-30397; Summary: At least 70 vulnerabilities were fixed in Windows and related products, including five zero-day flaws that are already being exploited. The vulnerabilities include elevation of privilege bugs in the Windows Common Log File System (CLFS) driver and the Desktop Window Manager (DWM) library, as well as a flaw in the Microsoft Scripting Engine.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71250</guid>
-      <pubDate>Wed, 14 May 2025 11:57:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns</title>
-      <link>https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html</link>
-      <description>The article describes two related cyber espionage campaigns, VENOM and TIDRONE, attributed to the group Earth Ammit. The campaigns targeted various entities in Taiwan and South Korea, including military, satellite, and technology sectors, with the goal of compromising trusted networks via supply chain attacks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html</guid>
-      <pubDate>Wed, 14 May 2025 11:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team</title>
-      <link>https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html</link>
-      <description>The article discusses the importance of investing in offensive operations training for cybersecurity teams to stay ahead of evolving threats. It highlights the benefits of such training for various roles within a security team, including detection engineering, triage, remediation, and incident response. The author emphasizes that understanding attacker tactics, techniques, and procedures (TTPs) enables practitioners to better prioritize vulnerabilities, identify malicious activity, and respond more effectively to incidents.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html</guid>
-      <pubDate>Wed, 14 May 2025 10:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails</title>
-      <link>https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html</link>
-      <description>This article discusses a new phishing campaign targeting Windows users in Latin American countries with malware called Horabot. The campaign uses crafted emails impersonating invoices or financial documents to trick victims into opening malicious attachments, stealing email credentials, and installing banking trojans.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html</guid>
-      <pubDate>Wed, 14 May 2025 10:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weaponized PyPI Package Targets Developers to Steal Source Code</title>
-      <link>https://gbhackers.com/weaponized-pypi-package-targets-developers/</link>
-      <description>Vulnerable Product: PyPI "solana-token" package; CVE(s): None; Summary: The "solana-token" Python package was discovered to be malicious, targeting developers working with the Solana blockchain. It exhibited characteristics of infostealer malware, including hardcoded URLs referencing command-and-control servers and file-reading behaviors. The primary objective is to steal hardcoded cryptographic secrets, such as private keys or access credentials to cryptocurrency wallets, making it a precursor to potentially devastating breaches.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135544</guid>
-      <pubDate>Wed, 14 May 2025 10:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Alerts on AD CS Flaw Enabling Remote Denial-of-Service Attacks</title>
-      <link>https://gbhackers.com/microsoft-alerts-on-ad-cs-flaw/</link>
-      <description>Vulnerable Product: Microsoft Active Directory Certificate Services (AD CS); CVE(s): CVE-2025-29968; Summary: A newly identified vulnerability in AD CS allows authenticated attackers to disrupt critical certificate management operations over a network, enabling denial-of-service (DoS) attacks. The flaw stems from improper input validation and requires valid authentication credentials for exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135539</guid>
-      <pubDate>Wed, 14 May 2025 10:05:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
