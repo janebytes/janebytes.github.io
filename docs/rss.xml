@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 18:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 19:01:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>FBI: US officials targeted in voice deepfake attacks since April</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/</link>
+      <description>The FBI warned that cybercriminals are using AI-generated audio deepfakes to target U.S. officials in voice phishing attacks, starting in April. The attackers impersonate senior US officials to establish rapport before gaining access to personal accounts and compromising other government officials' contact information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/</guid>
+      <pubDate>Thu, 15 May 2025 18:22:08 +0000</pubDate>
+    </item>
     <item>
       <title>Coinbase Data Breach – Customers Personal Info, Government‑ID &amp; Transaction Data Exposed</title>
       <link>https://gbhackers.com/coinbase-data-breach/</link>
@@ -235,6 +242,13 @@ FYSA:</description>
       <pubDate>Thu, 15 May 2025 12:18:49 +0000</pubDate>
     </item>
     <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/15/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, emphasizing the importance of timely remediation for federal agencies and urging all organizations to prioritize vulnerability management practices. The move aims to reduce the significant risk posed by these known vulnerabilities and protect against active threats.</description>
+      <guid isPermaLink="false">/node/23386</guid>
+      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Siemens RUGGEDCOM APE1808 Devices</title>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-01</link>
       <description>Vulnerable Product: Siemens RUGGEDCOM APE1808 Devices; CVE(s): CVE-2024-32122, CVE-2024-52963; Summary: Insufficiently protected credentials and out-of-bounds write vulnerabilities in FortiOS may allow an attacker to retrieve LDAP credentials or cause a denial-of-service condition.</description>
@@ -344,26 +358,6 @@ FYSA:</description>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-07</link>
       <description>Vulnerable Product: Siemens SIMATIC IPC RS-828A; CVE(s): CVE-2024-54085; Summary: An authentication bypass vulnerability in the BMC of Siemens' SIMATIC IPC RS-828A rugged industrial PCs allows an attacker to gain unauthorized access, compromising confidentiality, integrity, and availability. Successful exploitation could lead to a loss of these security properties.</description>
       <guid isPermaLink="false">/node/23371</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens VersiCharge AC Series EV Chargers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-08</link>
-      <description>The article discusses two vulnerabilities in Siemens electric vehicle charging devices and systems. The first vulnerability, CVE-2025-31929, allows an attacker to gain unauthorized access to the device's settings and configuration, potentially leading to further exploitation of other vulnerabilities or data theft. The second vulnerability, CVE-2025-31930, is a denial-of-service (DoS) vulnerability that could cause the charging device to malfunction or crash.
-
-The affected devices include various models of Siemens electric vehicle chargers and systems, including IEC 1Ph and IEC 3Ph devices, as well as UL Commercial Cellular 48A NTEP and other products. The vulnerabilities were discovered through internal testing and external reporting.
-
-Siemens has released updates to fix the vulnerabilities, with some devices requiring a firmware update to V2.135 or later. Users are advised to update their devices and take defensive measures to minimize the risk of exploitation, such as minimizing network exposure for all control system devices and/or systems.
-
-In general, Siemens recommends protecting network access to devices with appropriate mechanisms and configuring the environment according to their operational guidelines for industrial security and following recommendations in the product manuals.</description>
-      <guid isPermaLink="false">/node/23372</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Mendix OIDC SSO</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-15</link>
-      <description>Vulnerable Product: Siemens Mendix OIDC SSO; CVE(s): CVE-2025-40571; Summary: The vulnerability allows an attacker to modify the system and gain administrator read/write privileges. It affects all versions of Mendix 9 compatible OIDC SSO and all versions before V4.0.0 of Mendix 10 compatible OIDC SSO.</description>
-      <guid isPermaLink="false">/node/23379</guid>
       <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
