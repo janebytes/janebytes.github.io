@@ -6,14 +6,37 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 19:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 20:03:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Breachforums Boss to Pay $700k in Healthcare Breach</title>
+      <link>https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/</link>
+      <description>This article discusses the novel legal outcome where a cybercriminal, Conor Brian Fitzpatrick (a.k.a. "Pompompurin"), will forfeit nearly $700,000 to settle a civil lawsuit from a health insurance company whose customer data was posted for sale on Breachforums in 2023. The article also touches on Fitzpatrick's criminal activity, including possession of child sexual abuse material and operating the cybercrime community Breachforums.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71263</guid>
+      <pubDate>Thu, 15 May 2025 19:56:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Government webmail hacked via XSS bugs in global spy campaign</title>
+      <link>https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/</link>
+      <description>Vulnerable Product: Various webmail servers (Roundcube, Horde, MDaemon, Zimbra); CVE(s): CVE-2020-35730, CVE-2023-43770, CVE-2024-11182, CVE-2024-27443; Summary: Hackers, attributed to Russian state-sponsored hackers APT28 (Fancy Bear), are exploiting zero-day and n-day flaws in webmail servers to steal email credentials from high-value government organizations. The campaign starts with spear-phishing emails containing malicious JavaScript payloads that execute when the email is opened, allowing credential theft and data exfiltration.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/</guid>
+      <pubDate>Thu, 15 May 2025 19:14:39 +0000</pubDate>
+    </item>
     <item>
       <title>FBI: US officials targeted in voice deepfake attacks since April</title>
       <link>https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/</link>
       <description>The FBI warned that cybercriminals are using AI-generated audio deepfakes to target U.S. officials in voice phishing attacks, starting in April. The attackers impersonate senior US officials to establish rapport before gaining access to personal accounts and compromising other government officials' contact information.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/</guid>
       <pubDate>Thu, 15 May 2025 18:22:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xoxo to Prague</title>
+      <link>https://blog.talosintelligence.com/xoxo-to-prague/</link>
+      <description>This article discusses a rare and unfiltered look into LockBit's operations after their dark web affiliate panels were defaced, exposing 20 tables including chats between affiliates and victims. The chats reveal tactics, ransom demands, and negotiation strategies, as well as instances of confusion and pressure from tight deadlines.
+
+FYSA: The article highlights the complexity of cybercrime and the human stories behind the headlines, emphasizing the importance of understanding the intricate relationships and interactions between various threat actors.</description>
+      <guid isPermaLink="false">6824fb08fed2140001359138</guid>
+      <pubDate>Thu, 15 May 2025 18:01:53 +0000</pubDate>
     </item>
     <item>
       <title>Coinbase Data Breach – Customers Personal Info, Government‑ID &amp; Transaction Data Exposed</title>
@@ -337,27 +360,6 @@ FYSA:</description>
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-11</link>
       <description>Vulnerable Product: Siemens Polarion V2310, V2404; CVE(s): CVE-2024-51444, CVE-2024-51445, CVE-2024-51446, CVE-2024-51447; Summary: The affected application contains several vulnerabilities, including SQL injection, XXE injection, cross-site scripting, and observable response discrepancy. Successful exploitation of these vulnerabilities could allow attackers to extract data, conduct cross-site scripting attacks, or find valid usernames.</description>
       <guid isPermaLink="false">/node/23375</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM ROX II</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-17</link>
-      <description>Vulnerable Product: Siemens RUGGEDCOM ROX series products; CVE(s): CVE-2025-32469, CVE-2025-33024, and CVE-2025-33025; Summary: Successful exploitation of these vulnerabilities could allow an attacker with a legitimate account to execute arbitrary code with root privileges. The vulnerabilities are due to missing server-side input sanitation in the 'ping', 'tcpdump', and 'traceroute' tools on affected devices.</description>
-      <guid isPermaLink="false">/node/23381</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ECOVACS DEEBOT Vacuum and Base Station</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-19</link>
-      <description>Vulnerable Product: ECOVACS DEEBOT Vacuum and Base Station; CVE(s): CVE-2025-30198, CVE-2025-30199, CVE-2025-30200; Summary: Successful exploitation of these vulnerabilities could allow an attacker to send malicious updates to the devices or execute code. The vulnerabilities include using a hard-coded cryptographic key and downloading code without integrity checks. Affected products include X1S PRO, X1 PRO OMNI, X1 OMNI, X1 TURBO, T10 Series, and T30 Series.</description>
-      <guid isPermaLink="false">/node/23383</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens IPC RS-828A</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-07</link>
-      <description>Vulnerable Product: Siemens SIMATIC IPC RS-828A; CVE(s): CVE-2024-54085; Summary: An authentication bypass vulnerability in the BMC of Siemens' SIMATIC IPC RS-828A rugged industrial PCs allows an attacker to gain unauthorized access, compromising confidentiality, integrity, and availability. Successful exploitation could lead to a loss of these security properties.</description>
-      <guid isPermaLink="false">/node/23371</guid>
       <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
