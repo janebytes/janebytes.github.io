@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 15:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 16:02:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 11 and Red Hat Linux hacked on first day of Pwn2Own</title>
+      <link>https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/</link>
+      <description>Security researchers were awarded over $260,000 after successfully demonstrating zero-day exploits for Windows 11, Red Hat Linux, and Oracle VirtualBox at Pwn2Own Berlin 2025. The competition will continue to target fully patched products in various categories, with a grand prize pool of over $1,000,000.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/</guid>
+      <pubDate>Thu, 15 May 2025 15:48:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Tor Oniux tool anonymizes any Linux app's network traffic</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/</link>
+      <description>Tor has announced Oniux, a command-line tool for routing any Linux application securely through the Tor network using Linux namespaces, providing kernel-enforced isolation and preventing data leaks. Unlike Torsocks, which relies on user-space tricks, Oniux achieves this by placing each app in its own network namespace with no access to the host's interfaces.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/</guid>
+      <pubDate>Thu, 15 May 2025 15:20:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Steal Customers Banking Details in Nova Scotia Cyber Attack</title>
+      <link>https://gbhackers.com/hackers-steal-customers-banking-details/</link>
+      <description>A cyberattack was detected on March 19, 2025, which compromised Nova Scotia Power's IT infrastructure and exfiltrated sensitive customer data, including banking details from pre-authorized payment systems. The breach impacts an undisclosed number of customers and exposed personal identifiers, financial records, and operational data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136066</guid>
+      <pubDate>Thu, 15 May 2025 15:18:09 +0000</pubDate>
+    </item>
     <item>
       <title>New .NET Multi-Stage Loader Targets Windows Systems to Deploy Malicious Payloads</title>
       <link>https://gbhackers.com/new-net-multi-stage-loader-targets-windows-systems/</link>
@@ -342,31 +363,6 @@ FYSA: TA406's dual-pronged offensive includes credential harvesting through fake
       <description>This article discusses a real-world phishing incident that showcases advanced tactics used by attackers, including leveraging legitimate infrastructure, precision email validation, and evasive delivery techniques. The attack involved a server-side phishing page that dynamically handled email input and included anti-analysis mechanisms to obstruct analysis efforts. The article highlights the importance of browser-based, zero-day phishing protection and emphasizes the need for security stacks to detect and block phishing pages even on trusted domains.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/focused-phishing-attack-targets-victims-with-trusted-sites-and-live-validation/</guid>
       <pubDate>Wed, 14 May 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 2025 Patch Tuesday: 78 Flaws, 5 Exploited, &amp; Critical SAP Fixes</title>
-      <link>https://socradar.io/may-2025-patch-tuesday-78-flaws-5-exploited-critical-sap-fixes/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709, CVE-2025-30397, and others; Summary: Microsoft has released May 2025 Patch Tuesday updates addressing a total of 78 vulnerabilities across its software. Five zero-day vulnerabilities have been confirmed as exploited in the wild, including use-after-free bugs in Windows Desktop Window Manager (DWM) Core Library, Common Log File System (CLFS) driver, and Ancillary Function Driver for WinSock. Other critical vulnerabilities affect Azure, Microsoft Office, and Remote Desktop Client, with some allowing Remote Code Execution (RCE), elevation of privileges, spoofing, or data exposure.
-
-FYSA: Five zero-day vulnerabilities have been confirmed as exploited in the wild, including use-after-free bugs in Windows Desktop Window Manager (DWM) Core Library, Common Log File System (CLFS) driver, and Ancillary Function Driver for WinSock. Threat actors are actively scanning for newly patched bugs and exploiting these vulnerabilities to gain elevated privileges or unauthorized access.
-
-FYSA: This article discusses Microsoft's May 2025 Patch Tuesday updates, which address a total of 78 vulnerabilities across its software. The article highlights the importance of prioritizing patch deployment, assessing external exposure, and ensuring continuous visibility into emerging threats.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060006</guid>
-      <pubDate>Wed, 14 May 2025 13:44:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Katz Stealer Malware Hits 78+ Chromium and Gecko-Based Browsers</title>
-      <link>https://gbhackers.com/katz-stealer-malware-hits-78-chromium/</link>
-      <description>Katz Stealer is a newly disclosed information-stealing malware that targets Chromium and Gecko-based browsers, extracting sensitive data including credentials, cookies, autofill data, CVV2 codes, OAuth tokens, cryptocurrency wallets, and messaging platform credentials. The malware's customizable build panel with anti-VM safeguards and web-based C2 interface enables threat actors to tailor payloads and manage stolen data, posing a persistent threat to individual and enterprise security postures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135653</guid>
-      <pubDate>Wed, 14 May 2025 13:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fashion giant Dior discloses cyberattack, warns of data breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/</link>
-      <description>Dior, a French luxury fashion brand, has disclosed a cybersecurity incident that exposed customer information, including full name, gender, phone number, email address, postal address, purchase history, and preferences. The incident was discovered on May 7, and while account passwords and payment card information were not affected, customers are advised to remain vigilant for phishing attempts and report any brand impersonation.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/</guid>
-      <pubDate>Wed, 14 May 2025 13:37:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
