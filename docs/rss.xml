@@ -6,8 +6,38 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 22:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 10:02:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google fixes high severity Chrome flaw with public exploit</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-fixes-high-severity-chrome-flaw-with-public-exploit/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-4664; Summary: A high-severity vulnerability was discovered in the Chrome web browser's Loader component, allowing remote attackers to leak cross-origin data via maliciously crafted HTML pages, potentially leading to full account takeover. The vulnerability has a public exploit and users are advised to update their browsers as soon as possible.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-fixes-high-severity-chrome-flaw-with-public-exploit/</guid>
+      <pubDate>Thu, 15 May 2025 08:25:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical BitLocker Flaw Exploited in Minutes: Bitpixie Vulnerability Proof of Concept Unveiled</title>
+      <link>https://gbhackers.com/bitlocker-encryption-bypassed-in-minutes/</link>
+      <description>Vulnerable Product: Microsoft BitLocker; CVE(s): CVE-2023-21563; Summary: A vulnerability in Windows BitLocker encryption allows attackers to bypass encryption and extract keys with brief physical access without modifying the hardware. This can compromise sensitive data on devices that lack pre-boot authentication, which is the default configuration for many Windows devices. The vulnerability requires a network connection and no specialized hardware.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135804</guid>
+      <pubDate>Thu, 15 May 2025 07:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Zero-Day Vulnerability (CVE-2025-4664) Actively Exploited in The Wild</title>
+      <link>https://gbhackers.com/google-chrome-zero-day-vulnerability-cve-2025-4664-exploited/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-4664; Summary: The vulnerability involves insufficient policy enforcement in Chrome's Loader component, allowing remote attackers to leak cross-origin data via crafted HTML pages. Exploits for this zero-day flaw are actively being used in the wild, and users are advised to update Chrome at the earliest opportunity to safeguard their systems with these essential security patches.
+
+Additional Unspecified Fix from Internal Efforts (ID: 417268830); FYSA: This fix is part of multiple fixes from Google's internal security audits, fuzzing, and other initiatives.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135789</guid>
+      <pubDate>Thu, 15 May 2025 06:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy</title>
+      <link>https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-4664; Summary: The vulnerability, tracked as CVE-2025-4664, is a high-severity issue in Google Chrome's Loader component due to insufficient policy enforcement. An attacker can leak cross-origin data via a crafted HTML page, potentially leading to full account takeover and theft of sensitive query parameters.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html</guid>
+      <pubDate>Thu, 15 May 2025 06:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Chrome to block admin-level browser launches for better security</title>
       <link>https://www.bleepingcomputer.com/news/google/google-chrome-to-block-admin-level-browser-launches-for-better-security/</link>
@@ -343,34 +373,6 @@ FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest 
       <description>Vulnerable Product: Microsoft Scripting Engine; CVE(s): CVE-2025-30397; Summary: A type confusion weakness (CWE-843) allows remote code execution (RCE) attacks over networks by manipulating the engine's memory processes. Attackers can craft malicious scripts that confuse the engine into interpreting memory addresses as executable code segments, enabling arbitrary code execution with the privileges of the current user.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135408</guid>
       <pubDate>Wed, 14 May 2025 07:17:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Microsoft Office Vulnerabilities Enable Malicious Code Execution</title>
-      <link>https://gbhackers.com/critical-microsoft-office-vulnerabilities/</link>
-      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2025-30377, CVE-2025-30386, CVE-2025-26629; Summary: Three critical security flaws in Microsoft Office enable remote code execution via use-after-free memory corruption weaknesses. The most severe vulnerabilities, CVE-2025-30377 and CVE-2025-30386, can be exploited without user interaction, while the third vulnerability, CVE-2025-26629, requires user interaction to execute malicious code.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135397</guid>
-      <pubDate>Wed, 14 May 2025 07:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Windows RDP Vulnerability Enables Network-Based Attacks</title>
-      <link>https://gbhackers.com/new-windows-rdp-vulnerability/</link>
-      <description>Vulnerable Product: Microsoft Windows Remote Desktop services; CVE(s): CVE-2025-29966, CVE-2025-29967; Summary: Two critical heap-based buffer overflow flaws affect the Windows Remote Desktop Protocol (RDP) and Remote Desktop Gateway (RD Gateway) service, allowing unauthenticated attackers to execute arbitrary code on vulnerable systems over a network.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135387</guid>
-      <pubDate>Wed, 14 May 2025 07:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical 0-Day in Windows DWM Enables Privilege Escalation</title>
-      <link>https://gbhackers.com/critical-0-day-in-windows-dwm/</link>
-      <description>Vulnerable Product: Microsoft Windows Desktop Window Manager (DWM); CVE(s): CVE-2025-30400; Summary: The vulnerability allows attackers with local access to elevate their privileges on affected systems through a use-after-free memory condition in the DWM component. This zero-day threat has been actively exploited despite no prior public disclosure, and its exploitation grants attackers full control over affected systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135379</guid>
-      <pubDate>Wed, 14 May 2025 05:18:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems</title>
-      <link>https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html</link>
-      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-32756; Summary: A critical security flaw (CVE-2025-32756) in FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera allows remote unauthenticated attackers to execute arbitrary code or commands via crafted HTTP requests. The vulnerability has been exploited in the wild, with threat actors performing device network scans, erasing system crash logs, and enabling fcgi debugging to log credentials.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html</guid>
-      <pubDate>Wed, 14 May 2025 04:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
