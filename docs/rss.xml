@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 10:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 11:03:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>5 BCDR Essentials for Effective Ransomware Defense</title>
+      <link>https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html</link>
+      <description>The article discusses the evolving nature of ransomware and its increased sophistication, making it a highly coordinated and dangerous threat capable of crippling organizations of any size. It highlights the importance of having a strong recovery strategy in place, including building a business continuity and disaster recovery (BCDR) plan that includes isolation, immutability, and verification of backups. The article also emphasizes the need for regular testing, automation, and monitoring to ensure that backups are reliable and can be used to recover from attacks quickly.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html</guid>
+      <pubDate>Thu, 15 May 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers</title>
+      <link>https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html</link>
+      <description>Vulnerable Product: Various; CVE(s): CVE-2023-43770, CVE-2024-27443, CVE-2024-11182; Summary: A Russia-linked threat actor (APT28) has been attributed to a cyber espionage operation targeting webmail servers via cross-site scripting (XSS) vulnerabilities. The operation exploits flaws in Horde, MDaemon, and Zimbra, including a zero-day in MDaemon, to steal confidential data from specific email accounts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html</guid>
+      <pubDate>Thu, 15 May 2025 10:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper</title>
+      <link>https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html</link>
+      <description>Vulnerable Product: npm package "os-info-checker-es6"; CVE(s): None; Summary: The package disguises itself as an operating system information utility, using Unicode-based steganography to hide its initial malicious code. It utilizes Google Calendar event short links as a dynamic dropper for its final payload, making it a sophisticated and evolving threat within the npm ecosystem.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html</guid>
+      <pubDate>Thu, 15 May 2025 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google fixes high severity Chrome flaw with public exploit</title>
       <link>https://www.bleepingcomputer.com/news/security/google-fixes-high-severity-chrome-flaw-with-public-exploit/</link>
@@ -352,27 +373,6 @@ FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest 
       <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-30397, CVE-2025-30400, CVE-2025-32701, CVE-2025-32706, CVE-2025-32709; Summary: Five zero-day vulnerabilities have been identified in Microsoft's software lineup, including the Scripting Engine Memory Corruption Vulnerability (CVE-2025-30397), Microsoft Desktop Window Manager (DWM) Core Library Elevation of Privilege Vulnerability (CVE-2025-30400), Windows Common Log File System (CLFS) Driver Elevation of Privilege Vulnerability (CVE-2025-32701 and CVE-2025-32706), and Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability (CVE-2025-32709). These vulnerabilities can lead to remote code execution, privilege escalation, and information disclosure.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html</guid>
       <pubDate>Wed, 14 May 2025 08:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Ancillary for WinSock 0-Day Vulnerability Actively Exploited to Gain Admin Access</title>
-      <link>https://gbhackers.com/windows-ancillary-for-winsock-0-day-vulnerability-exploited/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-32709; Summary: The Windows Ancillary Function Driver for WinSock contains a critical privilege escalation vulnerability that allows local attackers with basic user privileges to gain SYSTEM-level access. Attackers can exploit the use-after-free flaw by crafting specific IOCTL requests, enabling arbitrary code execution in kernel space.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135423</guid>
-      <pubDate>Wed, 14 May 2025 08:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Earth Ammit Hackers Deploy New Tools to Target Military Drones</title>
-      <link>https://gbhackers.com/earth-ammit-hackers-deploy-new-tools/</link>
-      <description>The article discusses the threat actor group Earth Ammit, believed to be associated with Chinese-speaking APTs, which orchestrated two campaigns (VENOM and TIDRONE) targeting Taiwan and South Korea. The group exploited supply chain vulnerabilities, using open-source tools and custom-built malware to maintain persistence and evade attribution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135447</guid>
-      <pubDate>Wed, 14 May 2025 07:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Microsoft Scripting Engine Vulnerability Exposes Systems to Remote Code Attacks</title>
-      <link>https://gbhackers.com/new-microsoft-scripting-engine-vulnerability/</link>
-      <description>Vulnerable Product: Microsoft Scripting Engine; CVE(s): CVE-2025-30397; Summary: A type confusion weakness (CWE-843) allows remote code execution (RCE) attacks over networks by manipulating the engine's memory processes. Attackers can craft malicious scripts that confuse the engine into interpreting memory addresses as executable code segments, enabling arbitrary code execution with the privileges of the current user.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135408</guid>
-      <pubDate>Wed, 14 May 2025 07:17:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
