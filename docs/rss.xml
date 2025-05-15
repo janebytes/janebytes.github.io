@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 12:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 13:04:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>U.S. Officials Probe Rogue Communication Devices in Solar Power Inverters</title>
+      <link>https://gbhackers.com/u-s-officials-probe-rogue-communication-devices/</link>
+      <description>Vulnerable Product: Chinese-manufactured power inverters; CVE(s): None; Summary: The article reports that Chinese-manufactured power inverters contain undocumented communication equipment, which could allow remote access to manipulate or disable the devices, potentially destabilizing power grids and causing widespread blackouts. Experts warn that these hidden channels could bypass firewall protections, allowing malicious actors to alter inverter settings or shut them down en masse.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135847</guid>
+      <pubDate>Thu, 15 May 2025 13:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>TransferLoader Malware Enables Attackers to Execute Arbitrary Commands on Infected Systems</title>
+      <link>https://gbhackers.com/transferloader-malware-enables-attackers/</link>
+      <description>TransferLoader is a sophisticated malware loader that has been active since at least February 2025. It consists of multiple components, including a downloader, backdoor, and specialized loader for the backdoor module. The malware allows attackers to execute arbitrary commands on compromised systems and has been linked to the deployment of Morpheus ransomware.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135960</guid>
+      <pubDate>Thu, 15 May 2025 12:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>DarkCloud Stealer Employs AutoIt to Evade Detection and Steal Login Credentials</title>
+      <link>https://gbhackers.com/darkcloud-stealer-employs-autoit-to-evade-detection/</link>
+      <description>The article discusses a series of attacks involving the DarkCloud Stealer malware, which uses AutoIt scripting and multi-stage payloads to bypass traditional detection mechanisms. The malware targets sensitive data such as login credentials, credit card information, and browser data, and has impacted sectors like government, high tech, and finance.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135881</guid>
+      <pubDate>Thu, 15 May 2025 12:44:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chihuahua Stealer Exploits Google Drive Document to Harvest Browser Login Credentials</title>
+      <link>https://gbhackers.com/chihuahua-stealer-exploits-google-drive-document/</link>
+      <description>Chihuahua Stealer is a .NET-based infostealer that uses sophisticated techniques to infiltrate systems and exfiltrate sensitive data. It targets browser data, including login credentials, cookies, autofill information, and browsing history, as well as crypto wallet extensions. The malware's approach utilizes Google Drive as an initial infection vector, multi-stage payload delivery, scheduled task persistence, and advanced encryption methods, making it a significant challenge for cybersecurity professionals.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135831</guid>
+      <pubDate>Thu, 15 May 2025 12:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interlock Ransomware Targeting Defense Contractors and Supply Chain Networks</title>
+      <link>https://gbhackers.com/interlock-ransomware-targeting-defense-contractors/</link>
+      <description>The Interlock Ransomware group has emerged as a significant threat targeting defense contractors and their supply chain networks, exploiting geopolitical tensions and local conflicts for espionage or strategic disruption. The group's attacks have exposed sensitive information about global defense supply chains, including connections to major players like Raytheon, SpaceX, Thales, and Leonardo, posing a direct threat to national security by enabling adversaries to map military supply chains, redirect shipments, or gain strategic insights during ongoing geopolitical conflicts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=135808</guid>
+      <pubDate>Thu, 15 May 2025 12:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spies hack high-value mail servers using an exploit from yesteryear</title>
+      <link>https://arstechnica.com/security/2025/05/spies-hack-high-value-mail-servers-using-an-exploit-from-yesteryear/</link>
+      <description>The article discusses Operation RoundPress, a cyberespionage campaign that exploited cross-site scripting (XSS) vulnerabilities in mail servers to steal email secrets. The malicious code was embedded in HTML portions of emails and only ran when the email was viewed from a vulnerable webmail instance, with no persistence but repeatable exploitation.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/spies-hack-high-value-mail-servers-using-an-exploit-from-yesteryear/</guid>
+      <pubDate>Thu, 15 May 2025 12:18:49 +0000</pubDate>
+    </item>
     <item>
       <title>Pen Testing for Compliance Only? It's Time to Change Your Approach</title>
       <link>https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html</link>
@@ -323,56 +365,6 @@ FYSA: This article discusses Microsoft's May 2025 Patch Tuesday updates, which a
       <description>Vulnerable Product: Microsoft Active Directory Certificate Services (AD CS); CVE(s): CVE-2025-29968; Summary: A newly identified vulnerability in AD CS allows authenticated attackers to disrupt critical certificate management operations over a network, enabling denial-of-service (DoS) attacks. The flaw stems from improper input validation and requires valid authentication credentials for exploitation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135539</guid>
       <pubDate>Wed, 14 May 2025 10:05:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>DarkCloud Stealer: Comprehensive Analysis of a New Attack Chain That Employs AutoIt</title>
-      <link>https://unit42.paloaltonetworks.com/darkcloud-stealer-and-obfuscated-autoit-scripting/</link>
-      <description>This article discusses the DarkCloud Stealer malware, which is a data-stealing malware that collects and exfiltrates sensitive information such as computer names, usernames, passwords, and credit card details. The malware uses multi-stage payloads and obfuscated AutoIt scripting to evade detection and establish command and control (C2) communications.
-
-FYSA: Palo Alto Networks customers are better protected from DarkCloud Stealer through their Network Security solutions and Cortex line of products, including Advanced WildFire, Cortex XDR, and Cortex XSIAM.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=140509</guid>
-      <pubDate>Wed, 14 May 2025 10:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerabilities in Fortinet and Ivanti Products: Multiple Zero-Day Threats Addressed</title>
-      <link>https://socradar.io/fortinet-and-ivanti-products-zero-day-threat-addressed/</link>
-      <description>Vulnerable Product: Fortinet FortiVoice Enterprise; CVE(s): CVE-2025-32756; Summary: A severe remote code execution (RCE) vulnerability allows unauthenticated attackers to execute arbitrary commands via specially crafted HTTP requests, impacting multiple Fortinet products. The flaw is a stack-based buffer overflow that has been actively exploited in zero-day attacks.
-
-Vulnerable Product: Ivanti Neurons for ITSM; CVE(s): CVE-2025-22462; Summary: A critical authentication bypass vulnerability allows unauthenticated attackers to gain administrative access in low-complexity attack scenarios, impacting versions 2023.4, 2024.2, and 2024.3. Patched versions include May 2025 Security Patches for all affected versions.
-
-Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Two vulnerabilities have been exploited in a limited number of attacks, allowing unauthenticated attackers to execute arbitrary code on exposed systems. Mitigated in EPMM 11.12.0.5, EPMM 12.3.0.2, EPMM 12.4.0.2, and EPMM 12.5.0.1.
-
-FYSA: Hundreds of Ivanti EPMM instances remain exposed online, with the highest numbers in Germany and the United States, highlighting an ongoing trend of attackers exploiting enterprise software flaws to gain deep access into critical systems.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100059996</guid>
-      <pubDate>Wed, 14 May 2025 09:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit SAP NetWeaver Zero-Day Vulnerability to Target Critical Infrastructure</title>
-      <link>https://gbhackers.com/chinese-hackers-exploit-sap-netweaver-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: SAP; CVE(s): CVE-2025-31324; Summary: The article describes a sophisticated cyber-espionage campaign targeting critical infrastructure worldwide, exploiting an unauthenticated file upload flaw in SAP NetWeaver Visual Composer. The vulnerability allows remote code execution (RCE), providing attackers with a gateway to compromise high-value networks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135500</guid>
-      <pubDate>Wed, 14 May 2025 09:23:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Unveil New Threat-Hunting Techniques to Detect Azure Managed Identity Abuse</title>
-      <link>https://gbhackers.com/researchers-unveil-new-threat-hunting-techniques/</link>
-      <description>This article discusses a research paper by Hunters' Team Axon that presents threat-hunting techniques to identify and prevent the misuse of Azure Managed Identities. The paper provides tools and strategies for detecting suspicious behaviors, tracing compromised identities, and assessing blast radii of permissions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135478</guid>
-      <pubDate>Wed, 14 May 2025 09:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows CLFS Zero-Day Vulnerability Actively Exploited in the Wild</title>
-      <link>https://gbhackers.com/windows-clfs-zero-day-vulnerability-exploited/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-32706, CVE-2025-32701; Summary: The Windows Common Log File System (CLFS) Driver has two critical security vulnerabilities that allow local privilege escalation and have been confirmed to be actively exploited in the wild. The first vulnerability is due to improper input validation, while the second is a Use-After-Free condition. Both require local access, low attack complexity, and low privileges but can result in complete compromise of confidentiality, integrity, and availability.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135492</guid>
-      <pubDate>Wed, 14 May 2025 09:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Samsung MagicINFO 9 Server Flaw Allows Arbitrary File Writes</title>
-      <link>https://gbhackers.com/critical-samsung-magicinfo-9-server-flaw/</link>
-      <description>Vulnerable Product: Samsung; CVE(s): CVE-2025-4632; Summary: The MagicINFO 9 Server platform has a critical path traversal vulnerability that allows unauthorized actors to write arbitrary files with system-level privileges. Attackers could exploit this flaw to bypass directory restrictions, create or overwrite critical system files, and potentially implant persistence mechanisms, manipulate firmware images, or disrupt entire digital signage networks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135472</guid>
-      <pubDate>Wed, 14 May 2025 08:51:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
