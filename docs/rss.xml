@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 13:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 14:01:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 10 KB5058379 Update Causes PCs to Enter Recovery Mode and Prompt for BitLocker Key</title>
+      <link>https://gbhackers.com/windows-10-kb5058379-update-causes-pcs/</link>
+      <description>Vulnerable Product: Windows 10; CVE(s): None; Summary: The Windows 10 KB5058379 security update causes technical issues for numerous systems, booting them into Windows Recovery mode and requiring BitLocker recovery keys. This issue affects enterprise environments, particularly those using SCCM or WSUS deployment mechanisms, and is caused by the update triggering BitLocker's hardware validation mechanisms inappropriately during installation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136448</guid>
+      <pubDate>Fri, 16 May 2025 13:35:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminal Andrei Tarasov Escapes US Extradition, Returns to Russia</title>
+      <link>https://gbhackers.com/cybercriminal-andrei-tarasov-escapes-us-extradition/</link>
+      <description>Andrei Vladimirovich Tarasov, a Russian cybercrime figure known as "Aels," has returned to Russia after evading US extradition. He was released from German custody and used ride-sharing services and transportation routes without showing identification documents to make his escape. Tarasov remains active in cybercrime circles, participating in spamming channels on Telegram and sharing plans for hacking Zimbra servers at scale.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136434</guid>
+      <pubDate>Fri, 16 May 2025 13:01:34 +0000</pubDate>
+    </item>
     <item>
       <title>New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors</title>
       <link>https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html</link>
@@ -347,20 +361,6 @@ FYSA: The article highlights the complexity of cybercrime and the human stories 
       <description>The European Union Agency for Cybersecurity (ENISA) has launched the European Vulnerability Database (EUVD), a platform designed to enhance digital security across the EU by aggregating and standardizing vulnerability information affecting Information and Communication Technology (ICT) products and services. The database is accessible to the public, aiming to raise cybersecurity standards and provide users with actionable details for mitigating vulnerabilities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135880</guid>
       <pubDate>Thu, 15 May 2025 13:56:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xanthorox Emerging BlackHat AI Tool Empowering Hackers in Phishing and Malware Campaigns</title>
-      <link>https://gbhackers.com/xanthorox-emerging-blackhat-ai-tool-empowering-hackers/</link>
-      <description>Vulnerable Product: Xanthorox; CVE(s): None; Summary: Xanthorox is an artificial intelligence platform that enables the automated generation of phishing campaigns, malware, and hyperrealistic deepfakes. Its accessibility and affordability make it a potent tool for cybercriminals, allowing them to launch personalized attacks with ease. The platform's capabilities include generating ransomware code, crafting phishing emails, and producing deepfake audio or video for impersonation scams.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135860</guid>
-      <pubDate>Thu, 15 May 2025 13:52:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Node.js Vulnerability Enables Attackers to Crash Processes and Disrupt Services</title>
-      <link>https://gbhackers.com/node-js-vulnerability-enables-attackers-to-crash-processes/</link>
-      <description>Vulnerable Product: Node.js; CVE(s): CVE-2025-23166, CVE-2025-23167, CVE-2025-23165; Summary: Multiple vulnerabilities in Node.js could allow attackers to crash server processes and disrupt critical services. CVE-2025-23166 affects improper error handling in asynchronous cryptographic operations, while CVE-2025-23167 updates the llhttp HTTP parser library to version 9.2.0, addressing security and robustness issues. CVE-2025-23165 addresses a resource cleanup issue in uv_fs_req_cleanup, which could lead to resource leaks or process instability.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135843</guid>
-      <pubDate>Thu, 15 May 2025 13:50:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
