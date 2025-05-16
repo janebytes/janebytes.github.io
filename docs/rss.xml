@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 11:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 12:03:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors</title>
+      <link>https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html</link>
+      <description>The article discusses a botnet malware called HTTPBot that targets Windows systems in China's gaming industry, technology companies, and educational institutions. It uses various attack modules to launch distributed denial-of-service attacks with "scalpel-like" precision, bypassing traditional rule-based detection mechanisms by simulating HTTP protocols and mimicking legitimate browser behavior.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html</guid>
+      <pubDate>Fri, 16 May 2025 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Alerts Public to Malicious Campaign Impersonating US Government Officials</title>
+      <link>https://gbhackers.com/fbi-alerts-public-to-malicious-campaign/</link>
+      <description>The Federal Bureau of Investigation has issued a warning about an ongoing malicious messaging campaign targeting current and former senior US government officials and their contacts. Threat actors are impersonating high-ranking US officials through text messages and AI-generated voice calls to gain access to personal accounts and potentially sensitive information, using "smishing" (SMS phishing) and "vishing" (voice phishing) tactics.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136383</guid>
+      <pubDate>Fri, 16 May 2025 11:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frigidstealer Malware Targets macOS Users to Harvest Login Credentials</title>
+      <link>https://gbhackers.com/frigidstealer-malware-targets-macos-users/</link>
+      <description>Vulnerable Product: macOS; CVE(s): None; Summary: FrigidStealer is an information-stealing malware that targets macOS users by masquerading as routine browser updates. It bypasses Gatekeeper protections and steals sensitive data such as browser credentials, cryptocurrency wallets, and system information. The malware operates with sophistication, establishing persistence through launchservicesd and employing Apple Events for unauthorized inter-process communication to harvest data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136377</guid>
+      <pubDate>Fri, 16 May 2025 11:17:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT Group 123 Targets Windows Systems in Ongoing Malicious Payload Campaign</title>
+      <link>https://gbhackers.com/apt-group-123-targets-windows-systems/</link>
+      <description>Vulnerable Product: None; Summary: This article is about Group123, a North Korean state-sponsored APT group that targets Windows-based systems across multiple regions. The group's primary motivation is information theft and espionage, often aligning with North Korea's strategic interests. They use various tactics, techniques, and procedures (TTPs) to carry out their attacks, including spear phishing, exploiting software vulnerabilities, and using custom malware.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136321</guid>
+      <pubDate>Fri, 16 May 2025 11:09:07 +0000</pubDate>
+    </item>
     <item>
       <title>SSH Auth Key Reuse Uncovers Advanced Targeted Phishing Campaign</title>
       <link>https://gbhackers.com/ssh-auth-key-reuse-targeted-phishing-campaign/</link>
@@ -333,36 +361,6 @@ FYSA: The article highlights the complexity of cybercrime and the human stories 
       <description>Vulnerable Product: Node.js; CVE(s): CVE-2025-23166, CVE-2025-23167, CVE-2025-23165; Summary: Multiple vulnerabilities in Node.js could allow attackers to crash server processes and disrupt critical services. CVE-2025-23166 affects improper error handling in asynchronous cryptographic operations, while CVE-2025-23167 updates the llhttp HTTP parser library to version 9.2.0, addressing security and robustness issues. CVE-2025-23165 addresses a resource cleanup issue in uv_fs_req_cleanup, which could lead to resource leaks or process instability.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135843</guid>
       <pubDate>Thu, 15 May 2025 13:50:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious NPM package uses Unicode steganography to evade detection</title>
-      <link>https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/</link>
-      <description>Vulnerable Product: os-info-checker-es6; CVE(s): None; Summary: The malicious Node Package Manager (NPM) package, os-info-checker-es6, uses invisible Unicode characters to hide malicious code and a Google Calendar link to host the command-and-control location. It delivers a sophisticated C2 mechanism that drops a malware payload, which is executed using eval() and includes persistence mechanisms in the system's temporary directory.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/</guid>
-      <pubDate>Thu, 15 May 2025 13:31:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coinbase data breach exposes customer info and government IDs</title>
-      <link>https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/</link>
-      <description>Vulnerable Product: Coinbase; CVE(s): None; Summary: Rogue support agents stole customer data and demanded a $20 million ransom, which Coinbase refused to pay. The attackers exfiltrated personally identifiable information of up to 1% of Coinbase's customer base (around 1 million individuals), but could not steal private keys or passwords, nor access Coinbase Prime accounts and hot or cold wallets.
-
-FYSA:</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/</guid>
-      <pubDate>Thu, 15 May 2025 13:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit XSS Vulnerabilities to Inject Malicious Code into Email Servers</title>
-      <link>https://gbhackers.com/russian-hackers-exploit-xss-vulnerabilities/</link>
-      <description>Vulnerable Product: Roundcube, Horde, MDaemon, Zimbra; CVE(s): CVE-2020-35730, CVE-2024-11182; Summary: Sednit group exploited known and zero-day XSS vulnerabilities in webmail servers to steal sensitive data. The campaign, dubbed Operation RoundPress, targets governmental and defense entities worldwide using spearphishing emails that inject malicious JavaScript payloads into victims' webmail interfaces.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136009</guid>
-      <pubDate>Thu, 15 May 2025 13:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weaponized Google Calendar Invites Deliver Malicious Payload Using a Single Character</title>
-      <link>https://gbhackers.com/weaponized-google-calendar-invites-deliver-malicious-payload/</link>
-      <description>Malware distribution method leverages Google Calendar invites to deliver malicious payloads through seemingly innocuous links. The attack uses obfuscation techniques, including base64 encoding and binary trickery, to fetch payloads from a Google-hosted calendar event.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135863</guid>
-      <pubDate>Thu, 15 May 2025 13:12:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
