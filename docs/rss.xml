@@ -6,8 +6,108 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 22:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 10:08:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks</title>
+      <link>https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html</link>
+      <description>Vulnerable Product: Intel; CVE(s): CVE-2024-45332, CVE-2024-28956, CVE-2025-24495; Summary: All modern Intel CPUs are vulnerable to a flaw known as Branch Privilege Injection (BPI), which allows attackers to gain unauthorized access to information from other processor users. The vulnerability can be exploited to read the contents of the processor's cache and working memory.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html</guid>
+      <pubDate>Fri, 16 May 2025 09:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US charges 12 more suspects linked to $230 million crypto theft</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-charges-12-more-suspects-linked-to-230-million-crypto-theft/</link>
+      <description>Twelve suspects were charged with a RICO conspiracy for allegedly stealing over $230 million in cryptocurrency and laundering the funds using crypto exchanges and mixing services. The scheme involved spoofed phone numbers, impersonating customer support at Google and Gemini, and exploiting 2FA and remote desktop applications to steal private keys and cryptocurrency funds.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-charges-12-more-suspects-linked-to-230-million-crypto-theft/</guid>
+      <pubDate>Fri, 16 May 2025 09:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pwn2Own Day 1 – Windows 11, Red Hat Linux, &amp; Oracle VirtualBox Hacked</title>
+      <link>https://gbhackers.com/windows-11-red-hat-linux-oracle-virtualbox-hacked/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: Three separate successful attacks against Windows 11 highlighted significant security weaknesses in Microsoft's flagship operating system. The attacks exploited use-after-free (UAF) vulnerabilities with integer overflows and type confusion, successfully escalating privileges to SYSTEM level.
+
+FYSA: The Pwn2Own Berlin competition showcased significant cybersecurity threats across multiple platforms, including Windows 11 and Red Hat Linux. Exploits targeted virtualization technologies and containerization, demonstrating serious security implications for these technologies.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136239</guid>
+      <pubDate>Fri, 16 May 2025 09:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall SMA1000 Vulnerability Allow Attackers to Exploit Encoded URLs To Remotely Gain Internal Systems Access</title>
+      <link>https://gbhackers.com/sonicwall-sma1000-vulnerability-allow-attackers-to-exploit-encoded-urls/</link>
+      <description>Vulnerable Product: SonicWall SMA1000 Appliance; CVE(s): CVE-2025-40595; Summary: The SonicWall SMA1000 Appliance has a high-severity Server-Side Request Forgery (SSRF) vulnerability that allows unauthenticated attackers to send unauthorized requests to unintended destinations, potentially compromising internal networks and sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136229</guid>
+      <pubDate>Fri, 16 May 2025 08:55:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Target Industrial Automation Systems Using Over 11,600 Malware Variants</title>
+      <link>https://gbhackers.com/hackers-target-industrial-automation-systems/</link>
+      <description>Hackers are targeting Industrial Control Systems (ICS) with an arsenal of 11,679 different malware families, employing various tactics and using legitimate services like content delivery networks and cloud storage to evade defenses. The trend shows a surge in specific threat categories and regional disparities, highlighting the need for tailored defenses and bolstered cybersecurity frameworks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136266</guid>
+      <pubDate>Fri, 16 May 2025 08:50:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Leveraging PowerShell to Bypass Antivirus and EDR Defenses</title>
+      <link>https://gbhackers.com/hackers-leveraging-powershell/</link>
+      <description>Vulnerable Product: Microsoft PowerShell; CVE(s): None; Summary: Threat actors are exploiting Microsoft PowerShell to bypass advanced antivirus and EDR defenses, using techniques such as "Living off the Land" (LotL) to leverage built-in system utilities and evade detection. This allows attackers to perform post-compromise activities like privilege escalation, credential dumping, and data exfiltration.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136253</guid>
+      <pubDate>Fri, 16 May 2025 08:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA tags recently patched Chrome bug as actively exploited</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-tags-recently-patched-chrome-bug-as-actively-exploited-zero-day/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-4664; Summary: The vulnerability is due to insufficient policy enforcement in Google Chrome's Loader component, allowing remote attackers to leak cross-origin data via maliciously crafted HTML pages. Successful exploitation can lead to account takeover or stealing query parameters containing sensitive data.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-tags-recently-patched-chrome-bug-as-actively-exploited-zero-day/</guid>
+      <pubDate>Fri, 16 May 2025 08:13:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Replicate Advanced Tactics and Tools of VanHelsing Ransomware</title>
+      <link>https://gbhackers.com/researchers-replicate-advanced-tactics-and-tools/</link>
+      <description>The article discusses the VanHelsing ransomware operation, which has been emulated by cybersecurity researchers at AttackIQ. The emulation replicates the ransomware's behavioral patterns to help organizations validate their security controls against this evolving threat. The article details the tactics, techniques, and procedures (TTPs) used by VanHelsing, including local system reconnaissance, Ingress Tool Transfer, and file encryption.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136240</guid>
+      <pubDate>Fri, 16 May 2025 08:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks</title>
+      <link>https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html</link>
+      <description>A new malware campaign uses PowerShell-based shellcode loader to deploy Remcos RAT, a remote access trojan. The attack chain delivers malicious LNK files embedded within ZIP archives, often disguised as Office documents, and leverages mshta.exe for proxy execution during the initial stage.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html</guid>
+      <pubDate>Fri, 16 May 2025 07:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications</title>
+      <link>https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html</link>
+      <description>The article discusses the challenges of security teams keeping up with modern app development in the cloud. It highlights how attackers quickly exploit vulnerabilities, while organizations often respond late to critical alerts. The article emphasizes the importance of unifying security tools and teams across silos (DevSecOps, CloudSec, SOC) to prevent 80% of cloud exposures from slipping through.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html</guid>
+      <pubDate>Fri, 16 May 2025 07:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proofpoint Buys Hornetsecurity, A Microsoft 365 Security Specialist For $1 Billion</title>
+      <link>https://gbhackers.com/a-microsoft-365-security-specialist-for-1-billion/</link>
+      <description>Proofpoint acquires Hornetsecurity Group to strengthen its position in delivering human-centric security solutions to small and mid-sized businesses worldwide. The deal brings over $160 million in annual recurring revenue and expands Proofpoint's presence in the SMB segment through managed service providers (MSPs).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136213</guid>
+      <pubDate>Fri, 16 May 2025 06:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tor Oniux Tool Offers Anonymous Linux App Traffic</title>
+      <link>https://gbhackers.com/tor-oniux-tool/</link>
+      <description>Oniux is a new command-line utility from the Tor Project that provides comprehensive network isolation for Linux applications, ensuring all traffic routes exclusively through the Tor network. This tool eliminates the risk of accidental data leaks by leveraging Linux kernel namespaces to create complete network separation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136203</guid>
+      <pubDate>Fri, 16 May 2025 06:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leak confirms OpenAI's ChatGPT will integrate MCP</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/</link>
+      <description>This article does not mention a vulnerability in any product or system. Instead, it discusses the development of Model Context Protocol (MCP) by OpenAI for its ChatGPT AI model to connect with third-party services and use them as context.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/</guid>
+      <pubDate>Thu, 15 May 2025 23:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT will soon record, transcribe, and summarize your meetings</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/</link>
+      <description>Vulnerable Product: None; FYSA: This article does not contain information about a specific vulnerability. It discusses OpenAI's planned "Record" feature in their ChatGPT product, which will allow users to record live meetings and generate AI-powered transcripts. The article also mentions other cybersecurity-related topics such as the top 10 MITRE ATT&amp;CK techniques behind 93% of attacks, but does not provide specific details about vulnerabilities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/</guid>
+      <pubDate>Thu, 15 May 2025 23:09:40 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 10 KB5058379 update triggers BitLocker recovery on some devices</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/</link>
@@ -263,104 +363,6 @@ FYSA:</description>
       <description>The article discusses a series of attacks involving the DarkCloud Stealer malware, which uses AutoIt scripting and multi-stage payloads to bypass traditional detection mechanisms. The malware targets sensitive data such as login credentials, credit card information, and browser data, and has impacted sectors like government, high tech, and finance.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135881</guid>
       <pubDate>Thu, 15 May 2025 12:44:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chihuahua Stealer Exploits Google Drive Document to Harvest Browser Login Credentials</title>
-      <link>https://gbhackers.com/chihuahua-stealer-exploits-google-drive-document/</link>
-      <description>Chihuahua Stealer is a .NET-based infostealer that uses sophisticated techniques to infiltrate systems and exfiltrate sensitive data. It targets browser data, including login credentials, cookies, autofill information, and browsing history, as well as crypto wallet extensions. The malware's approach utilizes Google Drive as an initial infection vector, multi-stage payload delivery, scheduled task persistence, and advanced encryption methods, making it a significant challenge for cybersecurity professionals.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135831</guid>
-      <pubDate>Thu, 15 May 2025 12:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interlock Ransomware Targeting Defense Contractors and Supply Chain Networks</title>
-      <link>https://gbhackers.com/interlock-ransomware-targeting-defense-contractors/</link>
-      <description>The Interlock Ransomware group has emerged as a significant threat targeting defense contractors and their supply chain networks, exploiting geopolitical tensions and local conflicts for espionage or strategic disruption. The group's attacks have exposed sensitive information about global defense supply chains, including connections to major players like Raytheon, SpaceX, Thales, and Leonardo, posing a direct threat to national security by enabling adversaries to map military supply chains, redirect shipments, or gain strategic insights during ongoing geopolitical conflicts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135808</guid>
-      <pubDate>Thu, 15 May 2025 12:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spies hack high-value mail servers using an exploit from yesteryear</title>
-      <link>https://arstechnica.com/security/2025/05/spies-hack-high-value-mail-servers-using-an-exploit-from-yesteryear/</link>
-      <description>The article discusses Operation RoundPress, a cyberespionage campaign that exploited cross-site scripting (XSS) vulnerabilities in mail servers to steal email secrets. The malicious code was embedded in HTML portions of emails and only ran when the email was viewed from a vulnerable webmail instance, with no persistence but repeatable exploitation.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/spies-hack-high-value-mail-servers-using-an-exploit-from-yesteryear/</guid>
-      <pubDate>Thu, 15 May 2025 12:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/15/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, emphasizing the importance of timely remediation for federal agencies and urging all organizations to prioritize vulnerability management practices. The move aims to reduce the significant risk posed by these known vulnerabilities and protect against active threats.</description>
-      <guid isPermaLink="false">/node/23386</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM APE1808 Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-01</link>
-      <description>Vulnerable Product: Siemens RUGGEDCOM APE1808 Devices; CVE(s): CVE-2024-32122, CVE-2024-52963; Summary: Insufficiently protected credentials and out-of-bounds write vulnerabilities in FortiOS may allow an attacker to retrieve LDAP credentials or cause a denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23365</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens MS/TP Point Pickup Module</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-16</link>
-      <description>Vulnerable Product: Siemens MS/TP Point Pickup Module; CVE(s): CVE-2025-24510; Summary: The vulnerability allows an attacker residing in the same BACnet network to send a specially crafted MSTP message that results in a denial of service condition of the targeted device, requiring a power cycle to restore normal operation.</description>
-      <guid isPermaLink="false">/node/23380</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens INTRALOG WMS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-02</link>
-      <description>Vulnerable Product: Siemens INTRALOG WMS; CVE(s): CVE-2024-0056, CVE-2024-20672, CVE-2024-30105, CVE-2024-35264, CVE-2024-38081, CVE-2024-38095, CVE-2024-43483, CVE-2024-43485; Summary: Successful exploitation of these vulnerabilities could allow an attacker to bypass security features, cause a denial-of-service condition, or execute arbitrary code.</description>
-      <guid isPermaLink="false">/node/23366</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Twenty-Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/15/cisa-releases-twenty-two-industrial-control-systems-advisories</link>
-      <description>Vulnerable Product: Multiple products from Siemens, Schneider Electric, Mitsubishi Electric, and ECOVACS; CVE(s): None; Summary: CISA released 22 ICS advisories on May 15, 2025, regarding vulnerabilities and exploits affecting various industrial control systems (ICS) products.</description>
-      <guid isPermaLink="false">/node/23385</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric EcoStruxure Power Build Rapsody</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-20</link>
-      <description>Vulnerable Product: Schneider Electric EcoStruxure Power Build Rapsody; CVE(s): CVE-2025-3916; Summary: A stack-based buffer overflow vulnerability exists in the EcoStruxure Power Build Rapsody, allowing local attackers to execute arbitrary code by opening a malicious project file.</description>
-      <guid isPermaLink="false">/node/23384</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Desigo</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-04</link>
-      <description>Vulnerable Product: Siemens Desigo CC; CVE(s): CVE-2024-23815; Summary: A vulnerability in the Siemens Desigo CC server allows an unauthenticated remote attacker to execute arbitrary SQL queries on the server database via the event port (default: 4998/tcp). Successful exploitation could allow the attacker to modify the client binary and access the server database.</description>
-      <guid isPermaLink="false">/node/23368</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens OZW Web Servers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-10</link>
-      <description>Vulnerable Product: Siemens OZW672 and OZW772; CVE(s): CVE-2025-26389, CVE-2025-26390; Summary: The web service in affected devices has improper input sanitization, allowing an unauthenticated remote attacker to execute arbitrary code with root privileges.</description>
-      <guid isPermaLink="false">/node/23374</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Teamcenter Visualization</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-06</link>
-      <description>Vulnerable Product: Siemens Teamcenter Visualization; CVE(s): CVE-2025-32454; Summary: An out-of-bounds read vulnerability in Siemens Teamcenter Visualization products allows an attacker to execute code in the context of the current process, with a low attack complexity. The affected products include all versions prior to V14.3.0.14, V2312.0010, V2406.0008, and V2412.0004.</description>
-      <guid isPermaLink="false">/node/23370</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIPROTEC and SICAM</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-05</link>
-      <description>Vulnerable Product: Siemens SIPROTEC and SICAM products; CVE(s): CVE-2024-3596; Summary: A vulnerability in the RADIUS protocol used by Siemens SIPROTEC and SICAM products allows a local attacker to modify Access-Reject or Access-Accept responses using a chosen-prefix collision attack against MD5 Response Authenticator signature, potentially granting unauthorized access to networks. Successful exploitation could allow an attacker to bypass authentication and authorization mechanisms.</description>
-      <guid isPermaLink="false">/node/23369</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens User Management Component (UMC)</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-135-09</link>
-      <description>Vulnerable Product: Siemens User Management Component (UMC); CVE(s): CVE-2025-30174, CVE-2025-30175, CVE-2025-30176; Summary: The affected products contain out-of-bound read and write buffer overflow vulnerabilities in the integrated UMC component. Successful exploitation could allow an unauthenticated remote attacker to cause a denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23373</guid>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
