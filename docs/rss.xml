@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 16:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 17:03:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Ransomware Attack Targets Elon Musk Supporters Using PowerShell to Deploy Payloads</title>
+      <link>https://gbhackers.com/new-ransomware-attack-targets-elon-musk-supporters/</link>
+      <description>A newly identified ransomware campaign targets supporters of Elon Musk through a sophisticated phishing-based attack. The attack begins with a deceptive PDF document, which leads to the download of malicious ZIP files hosted on Netlify. The infection chain involves multi-stage PowerShell scripts and executables designed to compromise the target system, ultimately deploying a variant of the Fog ransomware for financial gain.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136498</guid>
+      <pubDate>Fri, 16 May 2025 16:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Printer Company Distributes Malicious Drivers Infected with XRed Malware</title>
+      <link>https://gbhackers.com/printer-company-distributes-malicious-drivers-infected/</link>
+      <description>Vulnerable Product: Procolored; CVE(s): None; Summary: Procolored's software drivers contained malicious code, including the XRed backdoor malware and SnipVex virus. The XRed backdoor facilitated keylogging, file downloads, screenshots, and remote command execution, while SnipVex posed a persistent threat by targeting .exe files and replacing Bitcoin addresses in the clipboard to divert transactions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136473</guid>
+      <pubDate>Fri, 16 May 2025 16:47:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Agent Impersonate as Stanford Student For Intelligence Gathering</title>
+      <link>https://gbhackers.com/chinese-agent-impersonate-as-stanford-student/</link>
+      <description>A Chinese intelligence operative posing as a Stanford University student has been uncovered, targeting students conducting China-related research. The agent used the alias "Charles Chen" and employed a "crowdsourced approach" to gather sensitive information, including using civilians unaffiliated with intelligence agencies to collect data. This case highlights concerns about Chinese intelligence activities at American universities and the need for increased awareness.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136455</guid>
+      <pubDate>Fri, 16 May 2025 16:34:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel arrests new suspect behind Nomad Bridge $190M crypto hack</title>
+      <link>https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/</link>
+      <description>Vulnerable Product: Nomad bridge smart-contract; CVE(s): None; Summary: The Nomad bridge smart-contract introduced a critical vulnerability in its Replica smart contract, allowing hackers to siphon over $190 million worth of assets. The flaw allowed any message with a correct root hash to be accepted, even if the underlying proof was invalid.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/</guid>
+      <pubDate>Fri, 16 May 2025 16:25:50 +0000</pubDate>
+    </item>
     <item>
       <title>ChatGPT rolls out Codex, an AI tool for software programming</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/</link>
@@ -333,34 +361,6 @@ FYSA: The article highlights the complexity of cybercrime and the human stories 
       <description>Tor has announced Oniux, a command-line tool for routing any Linux application securely through the Tor network using Linux namespaces, providing kernel-enforced isolation and preventing data leaks. Unlike Torsocks, which relies on user-space tricks, Oniux achieves this by placing each app in its own network namespace with no access to the host's interfaces.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/</guid>
       <pubDate>Thu, 15 May 2025 15:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Steal Customers Banking Details in Nova Scotia Cyber Attack</title>
-      <link>https://gbhackers.com/hackers-steal-customers-banking-details/</link>
-      <description>A cyberattack was detected on March 19, 2025, which compromised Nova Scotia Power's IT infrastructure and exfiltrated sensitive customer data, including banking details from pre-authorized payment systems. The breach impacts an undisclosed number of customers and exposed personal identifiers, financial records, and operational data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136066</guid>
-      <pubDate>Thu, 15 May 2025 15:18:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>New .NET Multi-Stage Loader Targets Windows Systems to Deploy Malicious Payloads</title>
-      <link>https://gbhackers.com/new-net-multi-stage-loader-targets-windows-systems/</link>
-      <description>A .NET-based multi-stage loader has been discovered, capable of deploying commodity stealers, keyloggers, and Remote Access Trojans (RATs) such as AgentTesla, Formbook, Remcos, and 404Keylogger. The loader's complex architecture and ability to embed encrypted payloads make detection challenging for traditional security tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136075</guid>
-      <pubDate>Thu, 15 May 2025 14:47:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xerox Launches April 2025 Security Patch for FreeFlow Print Server v2</title>
-      <link>https://gbhackers.com/xerox-launches-april-2025-security-patch/</link>
-      <description>Vulnerable Product: Xerox FreeFlow Print Server v2 running on Windows 10; CVE(s): CVE-2025-21191, CVE-2025-27732, CVE-2024-9143; Summary: The update addresses over 40 critical vulnerabilities in OpenJDK Java, Apache HTTP Server, and OpenSSL, while introducing stricter encryption protocols for secure file transfers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135907</guid>
-      <pubDate>Thu, 15 May 2025 14:34:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Outlook Down – Millions of Business &amp; Personal Users Worldwide Impacted</title>
-      <link>https://gbhackers.com/microsoft-outlook-down/</link>
-      <description>A major outage hit Microsoft Outlook and other Microsoft 365 services, leaving millions of users unable to access their email, calendars, and productivity tools. The disruption affected various services, including Teams, Excel, PowerPoint, and the Microsoft Store, causing disruptions for businesses and individuals alike. The timing of the outage, coinciding with the end of the financial year in some regions, exacerbated its impact on business communications.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136101</guid>
-      <pubDate>Thu, 15 May 2025 14:32:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
