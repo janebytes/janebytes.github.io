@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 14:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 15:02:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Printer maker Procolored offered malware-laced drivers for months</title>
+      <link>https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/</link>
+      <description>Vulnerable Product: Procolored printers; CVE(s): None; Summary: The official software supplied with Procolored printers included a remote access trojan (XRedRAT) and a cryptocurrency stealer (SnipVex) for at least six months. These malware were delivered through the companion software and drivers for Procolored UV printer models F8, F13, F13 Pro, V6, V11 Pro, and VF13 Pro.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/</guid>
+      <pubDate>Fri, 16 May 2025 14:56:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware gangs increasingly use Skitnet post-exploitation malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/</link>
+      <description>Skitnet ("Bossnet") is a new malware used by ransomware gangs for post-exploitation activities. It uses a Rust-based loader to decrypt a Nim binary and establish a DNS-based reverse shell for communication with the command and control server. The malware supports various commands, including persistence, screenshot capture, remote access tool installation, and antivirus enumeration.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/</guid>
+      <pubDate>Fri, 16 May 2025 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 10 KB5058379 Update Causes PCs to Enter Recovery Mode and Prompt for BitLocker Key</title>
       <link>https://gbhackers.com/windows-10-kb5058379-update-causes-pcs/</link>
@@ -347,20 +361,6 @@ FYSA: The article highlights the complexity of cybercrime and the human stories 
       <description>Vulnerable Product: Nucor Corporation (Operational Systems); CVE(s): None; Summary: Unauthorized access to Nucor's information technology systems compromised critical operational systems, disrupting production at multiple facilities. The breach highlights the escalating risks of cyber threats to industrial control systems and the delicate balance between maintaining operational continuity and mitigating cybersecurity risks in critical manufacturing sectors.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135977</guid>
       <pubDate>Thu, 15 May 2025 14:08:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Customer Data Compromised in Dior Cyber Attack</title>
-      <link>https://gbhackers.com/customer-data-compromised/</link>
-      <description>Dior's customer database was breached by unauthorized external actors, exposing various categories of personal information. The breach did not expose financial details, but may have placed affected customers at risk of targeted attacks or identity theft attempts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135954</guid>
-      <pubDate>Thu, 15 May 2025 14:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enisa Launched New European Vulnerability Database to Strengthen Cybersecurity</title>
-      <link>https://gbhackers.com/enisa-unveils-new-european-vulnerability-database/</link>
-      <description>The European Union Agency for Cybersecurity (ENISA) has launched the European Vulnerability Database (EUVD), a platform designed to enhance digital security across the EU by aggregating and standardizing vulnerability information affecting Information and Communication Technology (ICT) products and services. The database is accessible to the public, aiming to raise cybersecurity standards and provide users with actionable details for mitigating vulnerabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135880</guid>
-      <pubDate>Thu, 15 May 2025 13:56:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
