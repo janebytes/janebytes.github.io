@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 17:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 18:07:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Critical WordPress Plugin Flaw Puts Over 10,000 Sites of Cyberattack</title>
+      <link>https://gbhackers.com/critical-wordpress-plugin-flaw/</link>
+      <description>Vulnerable Product: Eventin plugin for WordPress; CVE(s): None; Summary: The Eventin plugin allows unauthenticated users to gain administrative access to affected sites due to a lack of proper permission checks in the /wp-json/eventin/v2/speakers/import REST API endpoint. This vulnerability can be exploited by uploading a CSV file containing user details, including the desired role set to administrator.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136486</guid>
+      <pubDate>Fri, 16 May 2025 17:12:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophisticated NPM Attack Leverages Google Calendar2 for Advanced Communication</title>
+      <link>https://gbhackers.com/sophisticated-npm-attack-leverages-google-calendar2/</link>
+      <description>Vulnerable Product: os-info-checker-es6; CVE(s): None; Summary: A sophisticated malware campaign was embedded within the npm package os-info-checker-es6, which evolved from gathering basic OS information to a complex threat using platform-specific compiled Node.js modules and obfuscation techniques. The malware employed steganography, Unicode-based hiding of malicious payloads, and a command-and-control mechanism utilizing Google Calendar short links.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136460</guid>
+      <pubDate>Fri, 16 May 2025 17:05:38 +0000</pubDate>
+    </item>
     <item>
       <title>New Ransomware Attack Targets Elon Musk Supporters Using PowerShell to Deploy Payloads</title>
       <link>https://gbhackers.com/new-ransomware-attack-targets-elon-musk-supporters/</link>
@@ -170,6 +184,19 @@ FYSA: The Pwn2Own Berlin competition showcased significant cybersecurity threats
       <description>Hackers are targeting Industrial Control Systems (ICS) with an arsenal of 11,679 different malware families, employing various tactics and using legitimate services like content delivery networks and cloud storage to evade defenses. The trend shows a surge in specific threat categories and regional disparities, highlighting the need for tailored defenses and bolstered cybersecurity frameworks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136266</guid>
       <pubDate>Fri, 16 May 2025 08:50:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Group Assessment: Muddled Libra (Updated May 16, 2025)</title>
+      <link>https://unit42.paloaltonetworks.com/muddled-libra/</link>
+      <description>The provided article appears to be an in-depth analysis of a threat actor known as "Muddled Libra." This group is described as being methodical and proficient in various security disciplines, making them a significant threat to enterprise organizations.
+
+The article provides an overview of Muddled Libra's tactics, techniques, and procedures (TTPs), including their use of social engineering, phishing, and remote access tools. It also highlights the group's ability to adapt and evolve, as seen in their transition from focusing primarily on data theft to incorporating ransomware and disruption of operations.
+
+The article offers recommendations for defending against Muddled Libra, including implementing multi-factor authentication (MFA), conducting user awareness training, and monitoring and managing access to critical defenses and controls. It also suggests employing capabilities such as network security, endpoint security, and security automation to detect and respond to threats.
+
+Overall, the article provides valuable insights into the tactics and strategies employed by Muddled Libra, highlighting the importance of robust cybersecurity measures and threat intelligence in defending against advanced persistent threats (APTs) like this group.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=128741</guid>
+      <pubDate>Fri, 16 May 2025 08:16:37 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Leveraging PowerShell to Bypass Antivirus and EDR Defenses</title>
@@ -340,27 +367,6 @@ FYSA: The article highlights the complexity of cybercrime and the human stories 
       <description>Two of the world's largest illegal marketplaces, Huione Guarantee and Xinbi Guarantee, were forced offline by Telegram on May 13, 2025, disrupting the global online scam industry. These platforms enabled over $35 billion in transactions for various criminal activities, including money laundering, stolen data, human trafficking, and torture devices.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135987</guid>
       <pubDate>Thu, 15 May 2025 16:16:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Alerts on Active Exploitation of Zero-Day Vulnerability in Multiple Fortinet Products</title>
-      <link>https://gbhackers.com/cisa-alerts-on-active-exploitation-of-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-32756; Summary: A zero-day vulnerability in multiple Fortinet products (FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera) allows remote, unauthenticated attackers to execute arbitrary code or commands by sending specially crafted HTTP requests. The vulnerability has a CVSS v3 score of 9.6 and has been actively exploited in the wild, with initial attacks targeting FortiVoice appliances.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136039</guid>
-      <pubDate>Thu, 15 May 2025 16:13:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 and Red Hat Linux hacked on first day of Pwn2Own</title>
-      <link>https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/</link>
-      <description>Security researchers were awarded over $260,000 after successfully demonstrating zero-day exploits for Windows 11, Red Hat Linux, and Oracle VirtualBox at Pwn2Own Berlin 2025. The competition will continue to target fully patched products in various categories, with a grand prize pool of over $1,000,000.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/</guid>
-      <pubDate>Thu, 15 May 2025 15:48:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Tor Oniux tool anonymizes any Linux app's network traffic</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/</link>
-      <description>Tor has announced Oniux, a command-line tool for routing any Linux application securely through the Tor network using Linux namespaces, providing kernel-enforced isolation and preventing data leaks. Unlike Torsocks, which relies on user-space tricks, Oniux achieves this by placing each app in its own network namespace with no access to the host's interfaces.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/</guid>
-      <pubDate>Thu, 15 May 2025 15:20:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
