@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 18:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 19:01:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft confirms May Windows 10 updates trigger BitLocker recovery</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/</link>
+      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: Some Windows 10 and Windows 10 Enterprise LTSC 2021 systems will boot into BitLocker recovery after installing the May 2025 security updates. This issue may trigger an Automatic Repair, which requires input of a BitLocker recovery key to initiate the repair.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/</guid>
+      <pubDate>Fri, 16 May 2025 18:36:04 +0000</pubDate>
+    </item>
     <item>
       <title>Critical WordPress Plugin Flaw Puts Over 10,000 Sites of Cyberattack</title>
       <link>https://gbhackers.com/critical-wordpress-plugin-flaw/</link>
@@ -360,13 +367,6 @@ FYSA: The article highlights the complexity of cybercrime and the human stories 
       <description>The article discusses a surge in supply chain attacks where threat actors weaponize open source software libraries to deliver malicious payloads. The attackers employ various techniques such as typosquatting, repository and caching abuse, obfuscation, and multi-stage malware to maximize their impact across package registries.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136049</guid>
       <pubDate>Thu, 15 May 2025 16:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Record-Breaking $27 Billion Black Market ‘Haowang Guarantee’ Deals Conducted Behind Closed Doors</title>
-      <link>https://gbhackers.com/record-breaking-27-billion-black-market-haowang-guarantee-deals/</link>
-      <description>Two of the world's largest illegal marketplaces, Huione Guarantee and Xinbi Guarantee, were forced offline by Telegram on May 13, 2025, disrupting the global online scam industry. These platforms enabled over $35 billion in transactions for various criminal activities, including money laundering, stolen data, human trafficking, and torture devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135987</guid>
-      <pubDate>Thu, 15 May 2025 16:16:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
