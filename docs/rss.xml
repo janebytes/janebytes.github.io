@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 10:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 11:03:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SSH Auth Key Reuse Uncovers Advanced Targeted Phishing Campaign</title>
+      <link>https://gbhackers.com/ssh-auth-key-reuse-targeted-phishing-campaign/</link>
+      <description>A sophisticated phishing campaign targeting Kuwait's fisheries, telecommunications, and insurance sectors has been exposed by Hunt.io researchers. The campaign uses 230 malicious domains, a network of servers, and advanced tradecraft to harvest credentials from unsuspecting users. It leverages reused SSH authentication keys, consistent Autonomous System Number (ASN) usage, and multi-tenant server usage for efficiency, underscoring the threat actors' focus on scalability and persistence.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136349</guid>
+      <pubDate>Fri, 16 May 2025 10:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Endpoint Manager Vulnerabilities Allow Unauthenticated Remote Code Execution</title>
+      <link>https://gbhackers.com/ivanti-endpoint-manager-vulnerabilities/</link>
+      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: A critical vulnerability chain in Ivanti EPMM allows pre-authenticated remote code execution attacks without credentials. The chain consists of an authentication bypass (CVE-2025-4427) and a remote code execution (RCE) vulnerability (CVE-2025-4428), enabling attackers to compromise systems without credentials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136342</guid>
+      <pubDate>Fri, 16 May 2025 10:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Best Practices for Effective Data Protection</title>
+      <link>https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html</link>
+      <description>This article discusses data protection best practices to safeguard sensitive data from cyber threats. It covers topics such as understanding the outcome you want, identifying crown jewel data, defining a data protection program, using AI-powered classification, adopting a zero-trust architecture, and ensuring compliance with regulations. The article also touches on unmanaged devices, browser isolation, cloud posture management, and data security training.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html</guid>
+      <pubDate>Fri, 16 May 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Released Security Updates – Multiple Vulnerabilities Fixed That Allow Attackers to Exploit CI/CD Pipelines</title>
+      <link>https://gbhackers.com/jenkins-released-security-updates-multiple-vulnerabilities/</link>
+      <description>Vulnerable Product: Various Jenkins plugins; CVEs: CVE-2025-47884, CVE-2025-47889, CVE-2025-47885, CVE-2025-47886, CVE-2025-47887, CVE-2025-47888; Summary: Multiple vulnerabilities were identified in various Jenkins plugins, including authentication bypasses, cross-site scripting, and missing permission checks. These flaws could allow attackers to compromise Jenkins environments, bypass authentication, or gain elevated privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136288</guid>
+      <pubDate>Fri, 16 May 2025 10:14:04 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks</title>
       <link>https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html</link>
@@ -335,34 +363,6 @@ FYSA:</description>
       <description>Malware distribution method leverages Google Calendar invites to deliver malicious payloads through seemingly innocuous links. The attack uses obfuscation techniques, including base64 encoding and binary trickery, to fetch payloads from a Google-hosted calendar event.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=135863</guid>
       <pubDate>Thu, 15 May 2025 13:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Defender Application Control Bypassed Through Browser Exploit Techniques</title>
-      <link>https://gbhackers.com/windows-defender-application-control-bypassed/</link>
-      <description>Vulnerable Product: Multiple; CVE(s): None; Summary: Researchers from X-Force Red Adversary Simulation team discovered a novel method to bypass Windows Defender Application Control (WDAC) by exploiting vulnerabilities in trusted Electron applications using the V8 engine. This technique allows attackers to execute native shellcode, effectively sidestepping WDAC's stringent controls and introducing malicious payloads into tightly controlled systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135981</guid>
-      <pubDate>Thu, 15 May 2025 13:09:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Officials Probe Rogue Communication Devices in Solar Power Inverters</title>
-      <link>https://gbhackers.com/u-s-officials-probe-rogue-communication-devices/</link>
-      <description>Vulnerable Product: Chinese-manufactured power inverters; CVE(s): None; Summary: The article reports that Chinese-manufactured power inverters contain undocumented communication equipment, which could allow remote access to manipulate or disable the devices, potentially destabilizing power grids and causing widespread blackouts. Experts warn that these hidden channels could bypass firewall protections, allowing malicious actors to alter inverter settings or shut them down en masse.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135847</guid>
-      <pubDate>Thu, 15 May 2025 13:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>TransferLoader Malware Enables Attackers to Execute Arbitrary Commands on Infected Systems</title>
-      <link>https://gbhackers.com/transferloader-malware-enables-attackers/</link>
-      <description>TransferLoader is a sophisticated malware loader that has been active since at least February 2025. It consists of multiple components, including a downloader, backdoor, and specialized loader for the backdoor module. The malware allows attackers to execute arbitrary commands on compromised systems and has been linked to the deployment of Morpheus ransomware.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135960</guid>
-      <pubDate>Thu, 15 May 2025 12:53:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>DarkCloud Stealer Employs AutoIt to Evade Detection and Steal Login Credentials</title>
-      <link>https://gbhackers.com/darkcloud-stealer-employs-autoit-to-evade-detection/</link>
-      <description>The article discusses a series of attacks involving the DarkCloud Stealer malware, which uses AutoIt scripting and multi-stage payloads to bypass traditional detection mechanisms. The malware targets sensitive data such as login credentials, credit card information, and browser data, and has impacted sectors like government, high tech, and finance.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=135881</guid>
-      <pubDate>Thu, 15 May 2025 12:44:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
