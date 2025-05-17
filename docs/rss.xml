@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 May 2025 15:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 16:01:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New 'Defendnot' tool tricks Windows into disabling Microsoft Defender</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/</link>
+      <description>Vulnerable Product: No specific product mentioned; Defendnot is the tool being discussed; CVE(s): None; Summary: The Defendnot tool can disable Microsoft Defender on Windows devices by registering a fake antivirus product, using an undocumented Windows Security Center API. This allows the tool to bypass Windows' safeguards and register the dummy antivirus, effectively disabling real-time protection for the device.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/</guid>
+      <pubDate>Sat, 17 May 2025 14:09:19 +0000</pubDate>
+    </item>
     <item>
       <title>VMware ESXi, Firefox, Red Hat Linux &amp; SharePoint Hacked – Pwn2Own Day 2</title>
       <link>https://gbhackers.com/vmware-esxi-firefox-red-hat-linux-sharepoint-hacked/</link>
@@ -362,13 +369,6 @@ FYSA: The article highlights the complexity of cybercrime and the human stories 
       <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five newly identified Windows 0-day vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, presenting significant risks for organizations relying on Microsoft Windows environments. The article highlights the potential impact of these vulnerabilities, including privilege escalation attacks and system takeover or additional malicious activity.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136155</guid>
       <pubDate>Thu, 15 May 2025 16:27:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Google Services to Send Malicious Law Enforcement Requests</title>
-      <link>https://gbhackers.com/hackers-exploit-google-services/</link>
-      <description>Sophisticated phishing campaign uses Google services to create convincing law enforcement requests; attackers exploit trust associated with Google infrastructure to deceive companies and individuals into disclosing sensitive information. The campaign leverages Google Forms and Drive to craft and distribute fraudulent requests, posing a severe threat to data privacy and security.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136121</guid>
-      <pubDate>Thu, 15 May 2025 16:22:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
