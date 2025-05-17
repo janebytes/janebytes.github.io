@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 May 2025 11:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 12:02:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>VMware ESXi, Firefox, Red Hat Linux &amp; SharePoint Hacked – Pwn2Own Day 2</title>
+      <link>https://gbhackers.com/vmware-esxi-firefox-red-hat-linux-sharepoint-hacked/</link>
+      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): None; Summary: Viettel Cyber Security used an OOB Write for a Guest-to-Host escape on Oracle VirtualBox, earning $40,000 and 4 Master of Pwn points.
+
+FYSA: The competition has awarded a cumulative total of $695,000 with participants revealing 20 unique zero-day vulnerabilities thus far.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136532</guid>
+      <pubDate>Sat, 17 May 2025 11:39:54 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft confirms May Windows 10 updates trigger BitLocker recovery</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/</link>
@@ -360,13 +369,6 @@ FYSA: The article highlights the complexity of cybercrime and the human stories 
       <description>Sophisticated phishing campaign uses Google services to create convincing law enforcement requests; attackers exploit trust associated with Google infrastructure to deceive companies and individuals into disclosing sensitive information. The campaign leverages Google Forms and Drive to craft and distribute fraudulent requests, posing a severe threat to data privacy and security.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136121</guid>
       <pubDate>Thu, 15 May 2025 16:22:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Open Source Packages to Deploy Malware in Supply Chain Attacks</title>
-      <link>https://gbhackers.com/threat-actors-exploit-open-source-packages-to-deploy-malware/</link>
-      <description>The article discusses a surge in supply chain attacks where threat actors weaponize open source software libraries to deliver malicious payloads. The attackers employ various techniques such as typosquatting, repository and caching abuse, obfuscation, and multi-stage malware to maximize their impact across package registries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136049</guid>
-      <pubDate>Thu, 15 May 2025 16:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
