@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 14:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 15:02:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Skitnet Malware Employs Stealth Techniques to Execute Payload and Maintain Persistence Techniques</title>
+      <link>https://gbhackers.com/skitnet-malware-employs-stealth-techniques/</link>
+      <description>Skitnet (Bossnet) is a highly sophisticated multi-stage malware developed by the threat group LARVA-306. It features advanced stealth techniques and evasion methods to execute its malicious payload, maintain persistent access on infected systems, and evade detection by security defenses.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136656</guid>
+      <pubDate>Mon, 19 May 2025 14:52:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla fixes Firefox zero-days exploited at hacking contest</title>
+      <link>https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two Firefox zero-day vulnerabilities were demonstrated at the Pwn2Own Berlin 2025 hacking competition. The flaws, tracked under CVE-2025-4918 and CVE-2025-4919, are an out-of-bounds read/write issue in the JavaScript engine and a flaw allowing attackers to perform out-of-bounds reads/writes on a JavaScript object.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/</guid>
+      <pubDate>Mon, 19 May 2025 14:10:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers earn $1,078,750 for 28 zero-days at Pwn2Own Berlin</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/</link>
+      <description>The article reports on the Pwn2Own Berlin 2025 hacking competition, where security researchers exploited 29 zero-day vulnerabilities and earned $1,078,750 in cash awards. No specific vulnerability details are provided.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/</guid>
+      <pubDate>Mon, 19 May 2025 14:03:43 +0000</pubDate>
+    </item>
     <item>
       <title>Why CTEM is the Winning Bet for CISOs in 2025</title>
       <link>https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html</link>
@@ -354,27 +375,6 @@ Overall, the article provides valuable insights into the tactics and strategies 
       <description>Proofpoint acquires Hornetsecurity Group to strengthen its position in delivering human-centric security solutions to small and mid-sized businesses worldwide. The deal brings over $160 million in annual recurring revenue and expands Proofpoint's presence in the SMB segment through managed service providers (MSPs).</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136213</guid>
       <pubDate>Fri, 16 May 2025 06:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tor Oniux Tool Offers Anonymous Linux App Traffic</title>
-      <link>https://gbhackers.com/tor-oniux-tool/</link>
-      <description>Oniux is a new command-line utility from the Tor Project that provides comprehensive network isolation for Linux applications, ensuring all traffic routes exclusively through the Tor network. This tool eliminates the risk of accidental data leaks by leveraging Linux kernel namespaces to create complete network separation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136203</guid>
-      <pubDate>Fri, 16 May 2025 06:16:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leak confirms OpenAI's ChatGPT will integrate MCP</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/</link>
-      <description>This article does not mention a vulnerability in any product or system. Instead, it discusses the development of Model Context Protocol (MCP) by OpenAI for its ChatGPT AI model to connect with third-party services and use them as context.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/</guid>
-      <pubDate>Thu, 15 May 2025 23:53:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT will soon record, transcribe, and summarize your meetings</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/</link>
-      <description>Vulnerable Product: None; FYSA: This article does not contain information about a specific vulnerability. It discusses OpenAI's planned "Record" feature in their ChatGPT product, which will allow users to record live meetings and generate AI-powered transcripts. The article also mentions other cybersecurity-related topics such as the top 10 MITRE ATT&amp;CK techniques behind 93% of attacks, but does not provide specific details about vulnerabilities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/</guid>
-      <pubDate>Thu, 15 May 2025 23:09:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
