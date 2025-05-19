@@ -6,8 +6,71 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 22:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 10:05:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Exploit RVTools to Deploy Bumblebee Malware on Windows Systems</title>
+      <link>https://gbhackers.com/hackers-exploit-rvtools-to-deploy-bumblebee-malware/</link>
+      <description>Vulnerable Product: RVTools; CVE(s): None; Summary: The RVTools installer was compromised with a custom variant of the Bumblebee loader malware, which served as an initial access vector for cyber campaigns. The vulnerability allowed attackers to exploit trust in the software supply chain and deploy malicious payloads.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136620</guid>
+      <pubDate>Mon, 19 May 2025 09:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Confluence Servers Under Attack: Hackers Leverage Vulnerability for RDP Access and Remote Code Execution</title>
+      <link>https://gbhackers.com/hackers-leverage-vulnerability-for-rdp-access-and-rce/</link>
+      <description>Vulnerable Product: Atlassian Confluence; CVE(s): CVE-2023-22527; Summary: A template injection flaw in unpatched Atlassian Confluence servers exposed to the internet allowed threat actors to exploit remote code execution (RCE), gaining initial access and establishing a foothold within targeted networks. The vulnerability was exploited through a meticulously planned intrusion, leading to data encryption and lateral movement using various tools and tactics.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136580</guid>
+      <pubDate>Mon, 19 May 2025 09:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ModiLoader Malware Campaign Targets Windows PCs, Harvesting User Credentials</title>
+      <link>https://gbhackers.com/new-modiloader-malware-campaign-targets-windows-pcs/</link>
+      <description>The article describes a malicious campaign distributing ModiLoader (DBatLoader) malware through phishing emails. The malware uses a multi-stage infection process to deploy SnakeKeylogger, an infostealer malware that steals sensitive data and transmits it to a Telegram bot. The infection process involves various evasion tactics, including DLL side-loading and manipulation of Windows Defender exclusion paths, making detection challenging for standard antivirus solutions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136549</guid>
+      <pubDate>Mon, 19 May 2025 09:35:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Health Care Data Breach Costs BreachForums Admin $700,000 Fine</title>
+      <link>https://gbhackers.com/health-care-data-breach-costs-breachforums/</link>
+      <description>Conor Brian Fitzpatrick, a former administrator of the cybercrime forum Breachforums, will forfeit approximately $700,000 to settle a civil lawsuit related to a healthcare data breach. This marks a rare instance where a cybercriminal's assets directly compensate victims of a data breach. The case highlights connections between cybercriminal communities and more serious offenses, such as possession of child sexual abuse material (CSAM).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136685</guid>
+      <pubDate>Mon, 19 May 2025 09:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Firefox 0-Day Flaws Allow Remote Code Execution</title>
+      <link>https://gbhackers.com/critical-firefox-0-day-flaws/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two critical 0-day vulnerabilities in Firefox allow remote attackers to execute malicious code. The flaws, tracked as CVE-2025-4918 and CVE-2025-4919, arise from out-of-bounds access conditions when resolving Promise objects or handling linear sums in array operations, allowing data leakage, browser crashes, or arbitrary code execution under the context of the browser.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136587</guid>
+      <pubDate>Mon, 19 May 2025 09:25:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA to Stop Publishing Cybersecurity Alerts and Advisories on Webpages</title>
+      <link>https://gbhackers.com/cisa-to-stop-publishing-cybersecurity-alerts/</link>
+      <description>CISA has announced changes to its communication strategy for cybersecurity updates and guidance, shifting away from listing advisories on its webpage to focus on direct communication channels. The change was temporarily paused after community feedback, with the agency reassessing its approach to information sharing.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136652</guid>
+      <pubDate>Mon, 19 May 2025 09:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pwn2Own Day 3: Zero-Day Exploits Windows 11, VMware ESXi, and Firefox</title>
+      <link>https://gbhackers.com/pwn2own-day-3-zero-day-exploits/</link>
+      <description>The Pwn2Own Berlin 2025 competition showcased impressive technological achievements, demonstrating critical zero-day vulnerabilities in high-profile targets like Windows 11, VMware ESXi, and Mozilla Firefox. The event's prize pool reached $1,078,750, highlighting the growing importance of security research in an increasingly connected world.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136611</guid>
+      <pubDate>Mon, 19 May 2025 08:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>GNU C(glibc) Vulnerability Let Attackers Execute Arbitrary Code on Millions of Linux Systems</title>
+      <link>https://gbhackers.com/critical-glibc-flaw/</link>
+      <description>Vulnerable Product: GNU C Library (glibc); CVE(s): CVE-2025-4802; Summary: A vulnerability in the glibc library allows attackers to execute malicious code with elevated privileges by placing a malicious shared library in a location specified by the LD_LIBRARY_PATH environment variable. The flaw affects statically linked setuid binaries that incorrectly search library paths, potentially allowing local attackers to elevate their privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136576</guid>
+      <pubDate>Mon, 19 May 2025 06:23:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploiting dMSA for Advanced Active Directory Persistence</title>
+      <link>https://gbhackers.com/exploiting-dmsa-for-advanced-ad-persistence/</link>
+      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: Delegated Managed Service Accounts (dMSAs) in Windows Server 2025 can be manipulated by attackers with specific permissions to establish persistent access. Attackers can exploit Access Control List (ACL) inheritance to gain full visibility and control over dMSA objects, achieving persistence through creating additional dMSAs or adding unauthorized entities to the PrincipalAllowedToRetrieveManagedPassword attribute.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136553</guid>
+      <pubDate>Mon, 19 May 2025 06:17:20 +0000</pubDate>
+    </item>
     <item>
       <title>New 'Defendnot' tool tricks Windows into disabling Microsoft Defender</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/</link>
@@ -304,71 +367,6 @@ Overall, the article provides valuable insights into the tactics and strategies 
       <description>Crypto robbery tactics have caught the attention of organized crime, with copycat attacks increasing in France, Belgium, and Spain. The misconception that crypto transfers are untraceable is believed to be driving these attacks, despite efforts by industry insiders like Chainalysis CEO Jonathan Levin to educate criminal organizations on the traceability of crypto transactions.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/05/fractured-skulls-and-ski-masks-more-crypto-kidnap-madness-on-the-streets-of-paris/</guid>
       <pubDate>Thu, 15 May 2025 20:34:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breachforums Boss to Pay $700k in Healthcare Breach</title>
-      <link>https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/</link>
-      <description>This article discusses the novel legal outcome where a cybercriminal, Conor Brian Fitzpatrick (a.k.a. "Pompompurin"), will forfeit nearly $700,000 to settle a civil lawsuit from a health insurance company whose customer data was posted for sale on Breachforums in 2023. The article also touches on Fitzpatrick's criminal activity, including possession of child sexual abuse material and operating the cybercrime community Breachforums.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71263</guid>
-      <pubDate>Thu, 15 May 2025 19:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Government webmail hacked via XSS bugs in global spy campaign</title>
-      <link>https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/</link>
-      <description>Vulnerable Product: Various webmail servers (Roundcube, Horde, MDaemon, Zimbra); CVE(s): CVE-2020-35730, CVE-2023-43770, CVE-2024-11182, CVE-2024-27443; Summary: Hackers, attributed to Russian state-sponsored hackers APT28 (Fancy Bear), are exploiting zero-day and n-day flaws in webmail servers to steal email credentials from high-value government organizations. The campaign starts with spear-phishing emails containing malicious JavaScript payloads that execute when the email is opened, allowing credential theft and data exfiltration.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/</guid>
-      <pubDate>Thu, 15 May 2025 19:14:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI: US officials targeted in voice deepfake attacks since April</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/</link>
-      <description>The FBI warned that cybercriminals are using AI-generated audio deepfakes to target U.S. officials in voice phishing attacks, starting in April. The attackers impersonate senior US officials to establish rapport before gaining access to personal accounts and compromising other government officials' contact information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/</guid>
-      <pubDate>Thu, 15 May 2025 18:22:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xoxo to Prague</title>
-      <link>https://blog.talosintelligence.com/xoxo-to-prague/</link>
-      <description>This article discusses a rare and unfiltered look into LockBit's operations after their dark web affiliate panels were defaced, exposing 20 tables including chats between affiliates and victims. The chats reveal tactics, ransom demands, and negotiation strategies, as well as instances of confusion and pressure from tight deadlines.
-
-FYSA: The article highlights the complexity of cybercrime and the human stories behind the headlines, emphasizing the importance of understanding the intricate relationships and interactions between various threat actors.</description>
-      <guid isPermaLink="false">6824fb08fed2140001359138</guid>
-      <pubDate>Thu, 15 May 2025 18:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coinbase Data Breach – Customers Personal Info, Government‑ID &amp; Transaction Data Exposed</title>
-      <link>https://gbhackers.com/coinbase-data-breach/</link>
-      <description>Coinbase, the largest cryptocurrency exchange in the United States, has been targeted by a sophisticated insider campaign that compromised sensitive customer account information and internal documentation. The breach occurred when several overseas contractors and employees were bribed to steal data from Coinbase's internal systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136196</guid>
-      <pubDate>Thu, 15 May 2025 17:31:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta to Train AI on E.U. User Data From May 27 Without Consent; Noyb Threatens Lawsuit</title>
-      <link>https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html</link>
-      <description>Meta's plan to train AI models using user data without explicit opt-in consent has been criticized by Austrian privacy non-profit noyb (none of your business), which sent a cease-and-desist letter threatening a class action lawsuit. The group argues that Meta is relying on an alleged "legitimate interest" instead of seeking consent, and that this approach violates the General Data Protection Regulation (GDPR) in the European Union.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html</guid>
-      <pubDate>Thu, 15 May 2025 16:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nova Scotia Power confirms hackers stole customer data in cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/nova-scotia-power-confirms-hackers-stole-customer-data-in-cyberattack/</link>
-      <description>Nova Scotia Power suffered a data breach after threat actors stole sensitive customer data, including full names, phone numbers, and bank account numbers. The company discovered the incident on April 28, 2025, but it's believed to have occurred earlier on March 19, 2025.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/nova-scotia-power-confirms-hackers-stole-customer-data-in-cyberattack/</guid>
-      <pubDate>Thu, 15 May 2025 16:38:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside Turla’s Uroboros Infrastructure and Tactics Revealed</title>
-      <link>https://gbhackers.com/inside-turlas-uroboros-infrastructure/</link>
-      <description>The article discusses the Uroboros rootkit, attributed to the APT group Turla, which showcases sophisticated and mastery over Windows kernel internals. The malware embeds itself into the operating system with strategic intent and architectural ingenuity, enabling long-term control and covert communication.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136103</guid>
-      <pubDate>Thu, 15 May 2025 16:36:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Alerts on Five Active Zero-Day Windows Vulnerabilities Being Exploited</title>
-      <link>https://gbhackers.com/cisa-alerts-on-five-active-zero-day-windows-vulnerabilities/</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five newly identified Windows 0-day vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, presenting significant risks for organizations relying on Microsoft Windows environments. The article highlights the potential impact of these vulnerabilities, including privilege escalation attacks and system takeover or additional malicious activity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136155</guid>
-      <pubDate>Thu, 15 May 2025 16:27:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
