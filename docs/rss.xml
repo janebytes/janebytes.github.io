@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 20:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 21:02:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Phishing Attack Poses as Zoom Meeting Invites to Steal Login Credentials</title>
+      <link>https://gbhackers.com/new-phishing-attack-poses-as-zoom-meeting/</link>
+      <description>A newly identified phishing campaign targets users by masquerading as urgent Zoom meeting invitations from colleagues. The campaign leverages realism and psychological manipulation to steal login credentials, with a focus on customizing URLs using stolen data. Users are advised to verify authenticity and avoid interacting with suspicious links.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136865</guid>
+      <pubDate>Mon, 19 May 2025 20:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Hannibal Stealer Uses Stealth and Obfuscation to Evade Detection</title>
+      <link>https://gbhackers.com/new-hannibal-stealer-uses-stealth-and-obfuscation/</link>
+      <description>The Hannibal Stealer is a modular .NET info-stealer and credential harvester that demonstrates advanced stealth mechanisms and obfuscation techniques to bypass modern detection systems. It can extract sensitive data from browsers, cryptocurrency wallets, and popular applications, and features geofencing capabilities to avoid scrutiny in certain countries.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136874</guid>
+      <pubDate>Mon, 19 May 2025 20:14:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese APT Hackers Target Organizations Using Korplug Loaders and Malicious USB Drives</title>
+      <link>https://gbhackers.com/chinese-apt-hackers-target-organizations/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article reports on advanced persistent threat (APT) groups with ties to China that have been targeting European governmental and industrial entities. These groups use sophisticated tactics and tools, including Korplug loaders, malicious USB drives, and backdoors, to infiltrate sensitive networks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136854</guid>
+      <pubDate>Mon, 19 May 2025 20:06:04 +0000</pubDate>
+    </item>
     <item>
       <title>Cache Timing Techniques Used to Bypass Windows 11 KASLR and Reveal Kernel Base</title>
       <link>https://gbhackers.com/cache-timing-techniques-used-to-bypass-windows-11/</link>
@@ -348,27 +369,6 @@ FYSA: The competition has awarded a cumulative total of $695,000 with participan
       <description>Skitnet ("Bossnet") is a new malware used by ransomware gangs for post-exploitation activities. It uses a Rust-based loader to decrypt a Nim binary and establish a DNS-based reverse shell for communication with the command and control server. The malware supports various commands, including persistence, screenshot capture, remote access tool installation, and antivirus enumeration.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/</guid>
       <pubDate>Fri, 16 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 KB5058379 Update Causes PCs to Enter Recovery Mode and Prompt for BitLocker Key</title>
-      <link>https://gbhackers.com/windows-10-kb5058379-update-causes-pcs/</link>
-      <description>Vulnerable Product: Windows 10; CVE(s): None; Summary: The Windows 10 KB5058379 security update causes technical issues for numerous systems, booting them into Windows Recovery mode and requiring BitLocker recovery keys. This issue affects enterprise environments, particularly those using SCCM or WSUS deployment mechanisms, and is caused by the update triggering BitLocker's hardware validation mechanisms inappropriately during installation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136448</guid>
-      <pubDate>Fri, 16 May 2025 13:35:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminal Andrei Tarasov Escapes US Extradition, Returns to Russia</title>
-      <link>https://gbhackers.com/cybercriminal-andrei-tarasov-escapes-us-extradition/</link>
-      <description>Andrei Vladimirovich Tarasov, a Russian cybercrime figure known as "Aels," has returned to Russia after evading US extradition. He was released from German custody and used ride-sharing services and transportation routes without showing identification documents to make his escape. Tarasov remains active in cybercrime circles, participating in spamming channels on Telegram and sharing plans for hacking Zimbra servers at scale.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136434</guid>
-      <pubDate>Fri, 16 May 2025 13:01:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors</title>
-      <link>https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html</link>
-      <description>The article discusses a botnet malware called HTTPBot that targets Windows systems in China's gaming industry, technology companies, and educational institutions. It uses various attack modules to launch distributed denial-of-service attacks with "scalpel-like" precision, bypassing traditional rule-based detection mechanisms by simulating HTTP protocols and mimicking legitimate browser behavior.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html</guid>
-      <pubDate>Fri, 16 May 2025 11:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
