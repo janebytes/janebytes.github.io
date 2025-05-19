@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 18:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 19:01:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Exploit AutoIT Scripts to Deploy Malware Targeting Windows Systems</title>
+      <link>https://gbhackers.com/hackers-exploit-autoit-scripts-to-deploy-malware/</link>
+      <description>A sophisticated attack leveraging AutoIT scripting language was discovered, featuring a double-layered AutoIT script designed to deploy a potentially devastating payload. The attack involves the deployment of malicious DLLs, including AsyncRAT and PureHVNC, allowing attackers to maintain long-term access to infected systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136828</guid>
+      <pubDate>Mon, 19 May 2025 18:11:24 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 10 emergency updates fix BitLocker recovery issues</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/</link>
@@ -135,6 +142,13 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>The article reports on the Pwn2Own Berlin 2025 hacking competition, where security researchers exploited 29 zero-day vulnerabilities and earned $1,078,750 in cash awards. No specific vulnerability details are provided.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/</guid>
       <pubDate>Mon, 19 May 2025 14:03:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/19/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM), MDaemon Email Server, Srimax Output Messenger, Synacor Zimbra Collaboration Suite (ZCS), ZKTeco BioTime; CVE(s): CVE-2025-4427, CVE-2025-4428, CVE-2024-11182, CVE-2025-27920, CVE-2024-27443, CVE-2023-38950; Summary: Six new vulnerabilities have been added to the Known Exploited Vulnerabilities Catalog due to evidence of active exploitation. These vulnerabilities affect Ivanti Endpoint Manager Mobile, MDaemon Email Server, Srimax Output Messenger, Synacor Zimbra Collaboration Suite (ZCS), and ZKTeco BioTime, and are frequent attack vectors for malicious cyber actors, posing significant risks to the federal enterprise.</description>
+      <guid isPermaLink="false">/node/23401</guid>
+      <pubDate>Mon, 19 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why CTEM is the Winning Bet for CISOs in 2025</title>
@@ -355,20 +369,6 @@ FYSA: The competition has awarded a cumulative total of $695,000 with participan
       <description>Vulnerable Product: macOS; CVE(s): None; Summary: FrigidStealer is an information-stealing malware that targets macOS users by masquerading as routine browser updates. It bypasses Gatekeeper protections and steals sensitive data such as browser credentials, cryptocurrency wallets, and system information. The malware operates with sophistication, establishing persistence through launchservicesd and employing Apple Events for unauthorized inter-process communication to harvest data.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136377</guid>
       <pubDate>Fri, 16 May 2025 11:17:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT Group 123 Targets Windows Systems in Ongoing Malicious Payload Campaign</title>
-      <link>https://gbhackers.com/apt-group-123-targets-windows-systems/</link>
-      <description>Vulnerable Product: None; Summary: This article is about Group123, a North Korean state-sponsored APT group that targets Windows-based systems across multiple regions. The group's primary motivation is information theft and espionage, often aligning with North Korea's strategic interests. They use various tactics, techniques, and procedures (TTPs) to carry out their attacks, including spear phishing, exploiting software vulnerabilities, and using custom malware.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136321</guid>
-      <pubDate>Fri, 16 May 2025 11:09:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>SSH Auth Key Reuse Uncovers Advanced Targeted Phishing Campaign</title>
-      <link>https://gbhackers.com/ssh-auth-key-reuse-targeted-phishing-campaign/</link>
-      <description>A sophisticated phishing campaign targeting Kuwait's fisheries, telecommunications, and insurance sectors has been exposed by Hunt.io researchers. The campaign uses 230 malicious domains, a network of servers, and advanced tradecraft to harvest credentials from unsuspecting users. It leverages reused SSH authentication keys, consistent Autonomous System Number (ASN) usage, and multi-tenant server usage for efficiency, underscoring the threat actors' focus on scalability and persistence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136349</guid>
-      <pubDate>Fri, 16 May 2025 10:54:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
