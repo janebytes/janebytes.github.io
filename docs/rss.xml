@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 21:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 22:01:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fake KeePass password manager leads to ESXi ransomware attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/</link>
+      <description>Threat actors have been distributing trojanized versions of KeePass password manager for at least eight months to install Cobalt Strike beacons, steal credentials, and deploy ransomware. The campaign started with malicious KeePass installer promoted through Bing advertisements that led to fake software sites. The attack ultimately led to the company's VMware ESXi servers being encrypted with ransomware.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/</guid>
+      <pubDate>Mon, 19 May 2025 21:17:33 +0000</pubDate>
+    </item>
     <item>
       <title>New Phishing Attack Poses as Zoom Meeting Invites to Steal Login Credentials</title>
       <link>https://gbhackers.com/new-phishing-attack-poses-as-zoom-meeting/</link>
@@ -362,13 +369,6 @@ FYSA: The competition has awarded a cumulative total of $695,000 with participan
       <description>Vulnerable Product: Procolored printers; CVE(s): None; Summary: The official software supplied with Procolored printers included a remote access trojan (XRedRAT) and a cryptocurrency stealer (SnipVex) for at least six months. These malware were delivered through the companion software and drivers for Procolored UV printer models F8, F13, F13 Pro, V6, V11 Pro, and VF13 Pro.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/</guid>
       <pubDate>Fri, 16 May 2025 14:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware gangs increasingly use Skitnet post-exploitation malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/</link>
-      <description>Skitnet ("Bossnet") is a new malware used by ransomware gangs for post-exploitation activities. It uses a Rust-based loader to decrypt a Nim binary and establish a DNS-based reverse shell for communication with the command and control server. The malware supports various commands, including persistence, screenshot capture, remote access tool installation, and antivirus enumeration.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/</guid>
-      <pubDate>Fri, 16 May 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
