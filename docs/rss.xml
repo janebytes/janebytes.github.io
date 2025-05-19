@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 17:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 18:02:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 10 emergency updates fix BitLocker recovery issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: Windows 10 systems with Intel vPro processors (10th gen or later) and Intel Trusted Execution Technology (TXT) enabled may boot into BitLocker recovery after installing the May 2025 security updates. Installing KB5061768 emergency update or disabling TXT from BIOS can fix the issue.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/</guid>
+      <pubDate>Mon, 19 May 2025 17:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arla Foods confirms cyberattack disrupts production, causes delays</title>
+      <link>https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/</link>
+      <description>Arla Foods has been targeted by a cyberattack that disrupted its production operations at a facility in Germany, leading to product delivery delays or cancellations. The attack did not appear to involve data theft or encryption, and the type of attack and perpetrators remain unknown.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/</guid>
+      <pubDate>Mon, 19 May 2025 17:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Report Finds 67% of Organizations Experienced Cyber Attacks in the Last Year</title>
+      <link>https://gbhackers.com/new-report-finds-67-of-organizations/</link>
+      <description>A report by Hiscox Cyber Readiness Report 2024 shows a rising trend of cyberattacks across eight worldwide markets, with 67% of businesses experiencing attacks in the previous 12 months. The report highlights the impact of attacks on reputations, finances, and employee behavior, emphasizing the need for organizations to prioritize cybersecurity training and leadership.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136820</guid>
+      <pubDate>Mon, 19 May 2025 17:31:21 +0000</pubDate>
+    </item>
     <item>
       <title>Auth0-PHP Vulnerability Enables Unauthorized Access for Attackers</title>
       <link>https://gbhackers.com/auth0-php-vulnerability-enables-unauthorized-access/</link>
@@ -348,27 +369,6 @@ FYSA: The competition has awarded a cumulative total of $695,000 with participan
       <description>A sophisticated phishing campaign targeting Kuwait's fisheries, telecommunications, and insurance sectors has been exposed by Hunt.io researchers. The campaign uses 230 malicious domains, a network of servers, and advanced tradecraft to harvest credentials from unsuspecting users. It leverages reused SSH authentication keys, consistent Autonomous System Number (ASN) usage, and multi-tenant server usage for efficiency, underscoring the threat actors' focus on scalability and persistence.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136349</guid>
       <pubDate>Fri, 16 May 2025 10:54:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Endpoint Manager Vulnerabilities Allow Unauthenticated Remote Code Execution</title>
-      <link>https://gbhackers.com/ivanti-endpoint-manager-vulnerabilities/</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: A critical vulnerability chain in Ivanti EPMM allows pre-authenticated remote code execution attacks without credentials. The chain consists of an authentication bypass (CVE-2025-4427) and a remote code execution (RCE) vulnerability (CVE-2025-4428), enabling attackers to compromise systems without credentials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136342</guid>
-      <pubDate>Fri, 16 May 2025 10:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Best Practices for Effective Data Protection</title>
-      <link>https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html</link>
-      <description>This article discusses data protection best practices to safeguard sensitive data from cyber threats. It covers topics such as understanding the outcome you want, identifying crown jewel data, defining a data protection program, using AI-powered classification, adopting a zero-trust architecture, and ensuring compliance with regulations. The article also touches on unmanaged devices, browser isolation, cloud posture management, and data security training.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html</guid>
-      <pubDate>Fri, 16 May 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jenkins Released Security Updates – Multiple Vulnerabilities Fixed That Allow Attackers to Exploit CI/CD Pipelines</title>
-      <link>https://gbhackers.com/jenkins-released-security-updates-multiple-vulnerabilities/</link>
-      <description>Vulnerable Product: Various Jenkins plugins; CVEs: CVE-2025-47884, CVE-2025-47889, CVE-2025-47885, CVE-2025-47886, CVE-2025-47887, CVE-2025-47888; Summary: Multiple vulnerabilities were identified in various Jenkins plugins, including authentication bypasses, cross-site scripting, and missing permission checks. These flaws could allow attackers to compromise Jenkins environments, bypass authentication, or gain elevated privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136288</guid>
-      <pubDate>Fri, 16 May 2025 10:14:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
