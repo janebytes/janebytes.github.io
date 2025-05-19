@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 19:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 20:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cache Timing Techniques Used to Bypass Windows 11 KASLR and Reveal Kernel Base</title>
+      <link>https://gbhackers.com/cache-timing-techniques-used-to-bypass-windows-11/</link>
+      <description>Vulnerable Product: Windows 11; CVE(s): None; Summary: The article describes a cache timing side-channel attack that can circumvent Kernel Address Space Layout Randomization (KASLR) on fully updated Windows 11 PCs, exploiting speculative execution and processor cache behavior to infer the base address of ntoskrnl.exe. This attack requires no elevated privileges and has been successfully tested on Windows 11 version 10.0.26100.3775.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136841</guid>
+      <pubDate>Mon, 19 May 2025 19:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>O2 UK patches bug leaking mobile user location from call metadata</title>
+      <link>https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/</link>
+      <description>Vulnerable Product: O2 UK (VoLTE and WiFi Calling technologies); CVE(s): None; Summary: A flaw in O2 UK's implementation of VoLTE and WiFi Calling technologies allows anyone to expose the general location of a person and other identifiers by calling the target, including IMSI, IMEI, and cell location data. The issue was resolved after being reported by security researcher Daniel Williams on March 26 and 27, 2025.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/</guid>
+      <pubDate>Mon, 19 May 2025 19:20:04 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Exploit AutoIT Scripts to Deploy Malware Targeting Windows Systems</title>
       <link>https://gbhackers.com/hackers-exploit-autoit-scripts-to-deploy-malware/</link>
@@ -355,20 +369,6 @@ FYSA: The competition has awarded a cumulative total of $695,000 with participan
       <description>The article discusses a botnet malware called HTTPBot that targets Windows systems in China's gaming industry, technology companies, and educational institutions. It uses various attack modules to launch distributed denial-of-service attacks with "scalpel-like" precision, bypassing traditional rule-based detection mechanisms by simulating HTTP protocols and mimicking legitimate browser behavior.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html</guid>
       <pubDate>Fri, 16 May 2025 11:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Alerts Public to Malicious Campaign Impersonating US Government Officials</title>
-      <link>https://gbhackers.com/fbi-alerts-public-to-malicious-campaign/</link>
-      <description>The Federal Bureau of Investigation has issued a warning about an ongoing malicious messaging campaign targeting current and former senior US government officials and their contacts. Threat actors are impersonating high-ranking US officials through text messages and AI-generated voice calls to gain access to personal accounts and potentially sensitive information, using "smishing" (SMS phishing) and "vishing" (voice phishing) tactics.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136383</guid>
-      <pubDate>Fri, 16 May 2025 11:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frigidstealer Malware Targets macOS Users to Harvest Login Credentials</title>
-      <link>https://gbhackers.com/frigidstealer-malware-targets-macos-users/</link>
-      <description>Vulnerable Product: macOS; CVE(s): None; Summary: FrigidStealer is an information-stealing malware that targets macOS users by masquerading as routine browser updates. It bypasses Gatekeeper protections and steals sensitive data such as browser credentials, cryptocurrency wallets, and system information. The malware operates with sophistication, establishing persistence through launchservicesd and employing Apple Events for unauthorized inter-process communication to harvest data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136377</guid>
-      <pubDate>Fri, 16 May 2025 11:17:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
