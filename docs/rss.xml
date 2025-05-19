@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 15:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 16:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UK Legal Aid Agency confirms applicant data stolen in data breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/</link>
+      <description>A data breach has occurred at the United Kingdom's Legal Aid Agency (LAA), where hackers stole a large amount of sensitive applicant data, including contact details, dates of birth, national ID numbers, criminal history, employment status, and financial information. The agency is advising all applicants to be vigilant for potential scam attempts targeting them.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/</guid>
+      <pubDate>Mon, 19 May 2025 15:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Reveals Hackers Targeting US Following UK Retailer Attacks</title>
+      <link>https://gbhackers.com/google-reveals-hackers-targeting-us/</link>
+      <description>UNC3944, a well-known hacker collective, has been identified by the Google Threat Intelligence Group (GTIG) as a persistent and dynamic cyberthreat. The group has evolved from initial SIM swap operations to ransomware and data theft extortion tactics, with a focus on large enterprises in English-speaking countries. Their modus operandi relies heavily on sophisticated social engineering, and they have orchestrated sector-specific waves of attacks, including financial services, food services, and retail sectors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136669</guid>
+      <pubDate>Mon, 19 May 2025 15:03:53 +0000</pubDate>
+    </item>
     <item>
       <title>Skitnet Malware Employs Stealth Techniques to Execute Payload and Maintain Persistence Techniques</title>
       <link>https://gbhackers.com/skitnet-malware-employs-stealth-techniques/</link>
       <description>Skitnet (Bossnet) is a highly sophisticated multi-stage malware developed by the threat group LARVA-306. It features advanced stealth techniques and evasion methods to execute its malicious payload, maintain persistent access on infected systems, and evade detection by security defenses.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136656</guid>
       <pubDate>Mon, 19 May 2025 14:52:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access</title>
+      <link>https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html</link>
+      <description>Skitnet is a multi-stage malware used by ransomware actors for post-exploitation efforts, stealing sensitive data and establishing remote control over compromised hosts. It uses programming languages like Rust and Nim to evade detection, and incorporates persistence mechanisms, remote access tools, commands for data exfiltration, and download of additional payloads.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html</guid>
+      <pubDate>Mon, 19 May 2025 14:38:00 +0000</pubDate>
     </item>
     <item>
       <title>Mozilla fixes Firefox zero-days exploited at hacking contest</title>
@@ -354,27 +375,6 @@ Overall, the article provides valuable insights into the tactics and strategies 
       <description>The article discusses the VanHelsing ransomware operation, which has been emulated by cybersecurity researchers at AttackIQ. The emulation replicates the ransomware's behavioral patterns to help organizations validate their security controls against this evolving threat. The article details the tactics, techniques, and procedures (TTPs) used by VanHelsing, including local system reconnaissance, Ingress Tool Transfer, and file encryption.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136240</guid>
       <pubDate>Fri, 16 May 2025 08:01:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks</title>
-      <link>https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html</link>
-      <description>A new malware campaign uses PowerShell-based shellcode loader to deploy Remcos RAT, a remote access trojan. The attack chain delivers malicious LNK files embedded within ZIP archives, often disguised as Office documents, and leverages mshta.exe for proxy execution during the initial stage.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html</guid>
-      <pubDate>Fri, 16 May 2025 07:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications</title>
-      <link>https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html</link>
-      <description>The article discusses the challenges of security teams keeping up with modern app development in the cloud. It highlights how attackers quickly exploit vulnerabilities, while organizations often respond late to critical alerts. The article emphasizes the importance of unifying security tools and teams across silos (DevSecOps, CloudSec, SOC) to prevent 80% of cloud exposures from slipping through.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html</guid>
-      <pubDate>Fri, 16 May 2025 07:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proofpoint Buys Hornetsecurity, A Microsoft 365 Security Specialist For $1 Billion</title>
-      <link>https://gbhackers.com/a-microsoft-365-security-specialist-for-1-billion/</link>
-      <description>Proofpoint acquires Hornetsecurity Group to strengthen its position in delivering human-centric security solutions to small and mid-sized businesses worldwide. The deal brings over $160 million in annual recurring revenue and expands Proofpoint's presence in the SMB segment through managed service providers (MSPs).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136213</guid>
-      <pubDate>Fri, 16 May 2025 06:19:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
