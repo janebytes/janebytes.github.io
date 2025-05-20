@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 14:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 15:02:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>More_Eggs Malware Uses Job Application Emails to Distribute Malicious Payloads</title>
+      <link>https://gbhackers.com/more_eggs-malware-uses-job-application-emails/</link>
+      <description>The article describes the More_Eggs malware, a JavaScript backdoor that exploits human trust through social engineering. It targets HR departments by masquerading as job application emails and uses obfuscated scripts and legitimate system binaries to establish a foothold in targeted environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137245</guid>
+      <pubDate>Tue, 20 May 2025 14:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RVTools hit in supply chain attack to deliver Bumblebee malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/</link>
+      <description>Vulnerable Product: Robware RVTools; CVE(s): None; Summary: The official website for the RVTools VMware management tool was taken offline due to a supply chain attack that distributed a trojanized installer, dropping the Bumblebee malware loader on users' machines. The malware is designed to download and execute additional payloads, including Cobalt Strike beacons, information stealers, and ransomware.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/</guid>
+      <pubDate>Tue, 20 May 2025 14:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>RedisRaider Campaign Targets Linux Servers by Exploiting Misconfigured Redis Instances</title>
+      <link>https://gbhackers.com/redisraider-campaign-targets-linux-servers/</link>
+      <description>The RedisRaider campaign is a sophisticated Linux worm that targets publicly accessible Redis instances with misconfigured servers. It exploits vulnerabilities to deploy a customized XMRig miner and employs advanced obfuscation, anti-forensics measures, and manipulation of Redis configurations to evade detection. The malware also has a web-based mining component, revealing a broader monetization strategy.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137230</guid>
+      <pubDate>Tue, 20 May 2025 14:17:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Service desks are under attack: What can you do about it?</title>
+      <link>https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/</link>
+      <description>The article discusses social engineering attacks on service desk agents, where attackers use tactics such as pretexting, vishing, and building urgency and trust to gain initial access. This is often followed by privilege escalation or deploying ransomware. The article highlights the importance of verifying identities and implementing rigorous identity checks to prevent these attacks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/</guid>
+      <pubDate>Tue, 20 May 2025 14:01:11 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Abuse TikTok and Instagram APIs to Verify Stolen Account Credentials</title>
       <link>https://gbhackers.com/hackers-abuse-tiktok-and-instagram-apis/</link>
@@ -333,34 +361,6 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>A security researcher has published a method for gathering threat intelligence on Cobalt Strike beacons using Shodan and PowerShell. The technique allows security professionals to collect configuration data from active Cobalt Strike servers, including beacon SpawnTo values and watermarks, which are critical for detection and attribution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136752</guid>
       <pubDate>Mon, 19 May 2025 16:14:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volkswagen Car Hack Exposes Owner’s Personal Data and Service Records</title>
-      <link>https://gbhackers.com/volkswagen-car-hack-exposes-owners-personal-data/</link>
-      <description>Vulnerable Product: Volkswagen My Volkswagen app; CVE(s): None; Summary: The My Volkswagen app contains critical security flaws that allowed unauthorized access to vehicle information and personal data. A security researcher discovered the vulnerabilities by exploiting a fundamental authentication weakness and identified multiple API vulnerabilities, including the exposure of sensitive user information and internal system credentials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136714</guid>
-      <pubDate>Mon, 19 May 2025 16:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft confirms new "Advanced" Settings for Windows 11</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/</link>
-      <description>This article is not about a vulnerability, but rather discusses the new "Advanced Settings" feature in Windows 11. The feature allows users and developers to personalize their OS experience by customizing File Explorer and Virtual Machines settings.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/</guid>
-      <pubDate>Mon, 19 May 2025 16:06:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft open-sources Windows Subsystem for Linux at Build 2025</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/</link>
-      <description>Microsoft has open-sourced the Windows Subsystem for Linux (WSL), making its source code available on GitHub, except for a few components that are part of Windows. This move is expected to increase community involvement and contributions to the project, allowing developers to inspect the code, build it themselves, submit improvements, and understand how WSL works under the hood.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/</guid>
-      <pubDate>Mon, 19 May 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer</title>
-      <link>https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html</link>
-      <description>The official site for RVTools has been hacked to serve a compromised installer for the popular VMware environment reporting utility. Additionally, Procolored printers have been found to include malicious software with features such as collecting system information, logging keystrokes, and propagating via connected USB drives.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html</guid>
-      <pubDate>Mon, 19 May 2025 15:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
