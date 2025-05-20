@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 12:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 13:03:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cyberattack on Serviceaide Compromises Data of 480,000 Catholic Health Patients</title>
+      <link>https://gbhackers.com/cyberattack-on-serviceaide-compromises-data/</link>
+      <description>Vulnerable Product: Serviceaide; CVE(s): None; Summary: An improperly secured Elasticsearch database left sensitive information of approximately 480,000 patients exposed for nearly seven weeks. The incident was caused by a misconfigured database managed by Serviceaide, which became publicly accessible on September 19, 2024, and was only discovered on November 5.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137162</guid>
+      <pubDate>Tue, 20 May 2025 12:35:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Deploy Bumblebee Malware via Poisoned Bing SEO Results</title>
+      <link>https://gbhackers.com/threat-actors-deploy-bumblebee-malware/</link>
+      <description>The article discusses a cyberattack campaign that uses SEO poisoning to distribute the Bumblebee malware. The attackers create fake download websites mimicking legitimate software packages and optimize their malicious sites to rank at the top of Bing search results. The malware is used as a downloader for additional payloads, making it particularly dangerous in developer environments where privileged access could be leveraged for broader attacks or data theft.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137150</guid>
+      <pubDate>Tue, 20 May 2025 12:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Flaw in WordPress Plugin Puts 22,000 Websites at Risk of Cyber Attacks</title>
+      <link>https://gbhackers.com/security-flaw-in-wordpress-plugin-puts-22000-websites/</link>
+      <description>Vulnerable Product: StylemixThemes Motors; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme has an unauthenticated privilege escalation vulnerability that allows attackers to change passwords of any user, including administrators, without requiring prior authentication. This vulnerability, with a critical CVSS rating of 9.8, can be exploited by unauthenticated threat actors to gain complete control over compromised websites, enabling attacks such as uploading malicious files, injecting malware, or redirecting users to phishing sites.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137137</guid>
+      <pubDate>Tue, 20 May 2025 12:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical VMware Cloud Foundation Vulnerability Exposes Sensitive Data</title>
+      <link>https://gbhackers.com/critical-vmware-cloud-foundation-vulnerability/</link>
+      <description>Vulnerable Product: Broadcom VMware; CVE(s): CVE-2025-41229, CVE-2025-41230, CVE-2025-41231; Summary: Three significant security vulnerabilities in VMware Cloud Foundation platform allow attackers to gain unauthorized access to sensitive information and internal services. The flaws affect versions 4.5.x and 5.x and require immediate patching as no workarounds are available.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137120</guid>
+      <pubDate>Tue, 20 May 2025 12:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Exploits SAP Zero-Day Vulnerability Weeks Ahead of Public Disclosure</title>
+      <link>https://gbhackers.com/qilin-exploits-sap-zero-day-vulnerability/</link>
+      <description>Vulnerable Product: SAP NetWeaver Visual Composer; CVE(s): CVE-2025-31324; Summary: A critical zero-day vulnerability in SAP NetWeaver Visual Composer was actively exploited nearly three weeks before its public disclosure. The flaw lacks proper authentication and authorization controls, enabling unauthenticated attackers to upload malicious files like web shells, leading to potential remote code execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137125</guid>
+      <pubDate>Tue, 20 May 2025 11:53:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Plugin Flaw Puts 22,000 Websites at Risk of Cyber Attacks</title>
+      <link>https://gbhackers.com/wordpress-plugin-flaw-puts-22000-websites/</link>
+      <description>Vulnerable Product: StylemixThemes Motors WordPress Theme; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme contains a critical Privilege Escalation vulnerability (CVE-2025-4322) that allows unauthenticated attackers to reset the password of any user, including administrators, thereby gaining full control over affected websites.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137099</guid>
+      <pubDate>Tue, 20 May 2025 11:15:50 +0000</pubDate>
+    </item>
     <item>
       <title>The Crowded Battle: Key Insights from the 2025 State of Pentesting Report</title>
       <link>https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html</link>
@@ -319,56 +361,6 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>The article discusses the concept of Continuous Threat Exposure Management (CTEM), which solidifies its role as a strategic enabler for Chief Information Security Officers (CISOs). CTEM integrates Adversarial Exposure Validation (AEV) and Exposure Assessment Platforms (EAP) to empower CISOs to adopt a continuous, adaptive model that keeps pace with attacker techniques and the evolving threat landscape.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html</guid>
       <pubDate>Mon, 19 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards</title>
-      <link>https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two critical security flaws in Firefox browser could allow an attacker to perform out-of-bounds read or write, potentially accessing sensitive data or executing code. The vulnerabilities affect all versions of Firefox before 138.0.4 and certain ESR versions.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html</guid>
-      <pubDate>Mon, 19 May 2025 10:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More</title>
-      <link>https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html</link>
-      <description>The article discusses various cybersecurity-related topics, including:
-
-1. A Nomad Bridge crypto hack and its alleged perpetrator, Alexander Gurevich.
-2. Rogue communication devices found in some Chinese-made solar power inverters that could potentially allow remote control of energy infrastructure.
-3. Using V8 browser exploits to bypass Windows Defender Application Control (WDAC).
-4. Hidden threats in files users trust too much, such as .desktop files running hidden shell commands or .lnk files launching PowerShell or remote scripts.
-5. Cybersecurity tools and webinars for improving security practices.
-
-No specific software or hardware vulnerabilities are discussed in this article.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html</guid>
-      <pubDate>Mon, 19 May 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit RVTools to Deploy Bumblebee Malware on Windows Systems</title>
-      <link>https://gbhackers.com/hackers-exploit-rvtools-to-deploy-bumblebee-malware/</link>
-      <description>Vulnerable Product: RVTools; CVE(s): None; Summary: The RVTools installer was compromised with a custom variant of the Bumblebee loader malware, which served as an initial access vector for cyber campaigns. The vulnerability allowed attackers to exploit trust in the software supply chain and deploy malicious payloads.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136620</guid>
-      <pubDate>Mon, 19 May 2025 09:58:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Confluence Servers Under Attack: Hackers Leverage Vulnerability for RDP Access and Remote Code Execution</title>
-      <link>https://gbhackers.com/hackers-leverage-vulnerability-for-rdp-access-and-rce/</link>
-      <description>Vulnerable Product: Atlassian Confluence; CVE(s): CVE-2023-22527; Summary: A template injection flaw in unpatched Atlassian Confluence servers exposed to the internet allowed threat actors to exploit remote code execution (RCE), gaining initial access and establishing a foothold within targeted networks. The vulnerability was exploited through a meticulously planned intrusion, leading to data encryption and lateral movement using various tools and tactics.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136580</guid>
-      <pubDate>Mon, 19 May 2025 09:45:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ModiLoader Malware Campaign Targets Windows PCs, Harvesting User Credentials</title>
-      <link>https://gbhackers.com/new-modiloader-malware-campaign-targets-windows-pcs/</link>
-      <description>The article describes a malicious campaign distributing ModiLoader (DBatLoader) malware through phishing emails. The malware uses a multi-stage infection process to deploy SnakeKeylogger, an infostealer malware that steals sensitive data and transmits it to a Telegram bot. The infection process involves various evasion tactics, including DLL side-loading and manipulation of Windows Defender exclusion paths, making detection challenging for standard antivirus solutions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136549</guid>
-      <pubDate>Mon, 19 May 2025 09:35:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Health Care Data Breach Costs BreachForums Admin $700,000 Fine</title>
-      <link>https://gbhackers.com/health-care-data-breach-costs-breachforums/</link>
-      <description>Conor Brian Fitzpatrick, a former administrator of the cybercrime forum Breachforums, will forfeit approximately $700,000 to settle a civil lawsuit related to a healthcare data breach. This marks a rare instance where a cybercriminal's assets directly compensate victims of a data breach. The case highlights connections between cybercriminal communities and more serious offenses, such as possession of child sexual abuse material (CSAM).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136685</guid>
-      <pubDate>Mon, 19 May 2025 09:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
