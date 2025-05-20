@@ -6,8 +6,57 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 13:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 14:06:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Abuse TikTok and Instagram APIs to Verify Stolen Account Credentials</title>
+      <link>https://gbhackers.com/hackers-abuse-tiktok-and-instagram-apis/</link>
+      <description>Vulnerable Product: PyPI (Python Package Index); CVE(s): None; Summary: Cybercriminals are leveraging the PyPI to distribute malicious tools designed to exploit TikTok and Instagram APIs for verifying stolen account credentials. These packages, including checker-SaGaF, steinlurks, and sinnercore, automate the process of validating emails and usernames against social media platforms, posing significant supply chain security risks due to their unauthorized network access and malicious behavior.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137204</guid>
+      <pubDate>Tue, 20 May 2025 13:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Regeneron to Buy 23andMe for $256M Amid Growing Data Privacy Concerns</title>
+      <link>https://gbhackers.com/regeneron-to-buy-23andme-for-256m-amid/</link>
+      <description>The article discusses the acquisition of 23andMe by Regeneron Pharmaceuticals, with concerns about the fate of sensitive genetic information collected from millions of customers. Regeneron has emphasized its commitment to protecting customer data and pledged to comply with existing privacy policies and applicable laws. The acquisition is seen as a significant consolidation in the genetics industry, highlighting the value of large-scale genetic databases in modern drug development.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137206</guid>
+      <pubDate>Tue, 20 May 2025 13:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Profile: Aquatic Panda</title>
+      <link>https://socradar.io/dark-web-profile-aquatic-panda/</link>
+      <description>Aquatic Panda is a suspected China-based threat group focused on intelligence gathering and industrial espionage. The group operates within a wider network of government-linked teams and private contractors, reflecting China's modern cyber strategy.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060086</guid>
+      <pubDate>Tue, 20 May 2025 13:43:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Includes MDaemon Email Server XSS Flaw in KEV Catalog</title>
+      <link>https://gbhackers.com/cisa-includes-mdaemon-email-server-xss-flaw/</link>
+      <description>Vulnerable Product: MDaemon Email Server; CVE(s): CVE-2024-11182; Summary: The MDaemon Email Server prior to version 24.5.1c contains a cross-site scripting (XSS) vulnerability that allows attackers to inject malicious JavaScript code via crafted HTML emails, enabling them to execute arbitrary code within the user's browser window and potentially access sensitive data and functionality.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137183</guid>
+      <pubDate>Tue, 20 May 2025 13:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use Weaponized RAR Archives to Deliver Pure Malware in Targeted Attacks</title>
+      <link>https://gbhackers.com/hackers-use-weaponized-rar-archives/</link>
+      <description>The article discusses a sophisticated malware campaign targeting Russian organizations with the Pure malware family. The malware is distributed via spam emails containing malicious RAR archives or links to such archives, and once executed, allows attackers to gain persistent access to compromised systems, steal credentials, and exfiltrate data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137190</guid>
+      <pubDate>Tue, 20 May 2025 13:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware</title>
+      <link>https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2017-0199, CVE-2017-11882; Summary: SideWinder threat actors used spear phishing emails with geofenced payloads to target high-level government institutions in Sri Lanka, Bangladesh, and Pakistan. The attack chain leveraged remote code execution flaws in Microsoft Office (CVE-2017-0199 and CVE-2017-11882) to deploy StealerBot malware, which maintains persistent access and collects sensitive data from compromised hosts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html</guid>
+      <pubDate>Tue, 20 May 2025 12:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation</title>
+      <link>https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html</link>
+      <description>Vulnerable Product: Amazon Web Services; CVE(s): None; Summary: Default IAM roles in AWS services like SageMaker, Glue, EMR, and Lightsail grant overly broad permissions, allowing attackers to escalate privileges, manipulate other AWS services, and compromise entire AWS accounts. These roles can be exploited to perform administrative actions, break isolation boundaries between services, and move laterally across services within the same account.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html</guid>
+      <pubDate>Tue, 20 May 2025 12:42:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cyberattack on Serviceaide Compromises Data of 480,000 Catholic Health Patients</title>
       <link>https://gbhackers.com/cyberattack-on-serviceaide-compromises-data/</link>
@@ -70,6 +119,13 @@
       <description>Vulnerable Product: npm Multer; CVE(s): None; Summary: All versions of Multer from 1.4.4-lts.1 to but not including 2.0.0 are vulnerable to denial-of-service attacks through maliciously crafted multi-part upload requests, potentially crashing Node.js processes and taking down entire web services.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137064</guid>
       <pubDate>Tue, 20 May 2025 10:23:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram Ban Bypass, AI Identity Forgery, and Nova Ransomware Affiliate Drive</title>
+      <link>https://socradar.io/instagram-ban-bypass-ai-identity-forgery-and-nova-ransomware-affiliate-drive/</link>
+      <description>Threat actors are offering various malicious services on underground forums, including an alleged affiliate program for Nova ransomware, deepfake tools for identity manipulation, and databases containing credit card information and SIM registration data. Additionally, a service is being offered to reverse Instagram bans, highlighting the commoditization of platform abuse.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060074</guid>
+      <pubDate>Tue, 20 May 2025 10:00:51 +0000</pubDate>
     </item>
     <item>
       <title>Duping Cloud Functions: An emerging serverless attack vector</title>
@@ -305,62 +361,6 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>The official site for RVTools has been hacked to serve a compromised installer for the popular VMware environment reporting utility. Additionally, Procolored printers have been found to include malicious software with features such as collecting system information, logging keystrokes, and propagating via connected USB drives.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html</guid>
       <pubDate>Mon, 19 May 2025 15:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Legal Aid Agency confirms applicant data stolen in data breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/</link>
-      <description>A data breach has occurred at the United Kingdom's Legal Aid Agency (LAA), where hackers stole a large amount of sensitive applicant data, including contact details, dates of birth, national ID numbers, criminal history, employment status, and financial information. The agency is advising all applicants to be vigilant for potential scam attempts targeting them.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/</guid>
-      <pubDate>Mon, 19 May 2025 15:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Reveals Hackers Targeting US Following UK Retailer Attacks</title>
-      <link>https://gbhackers.com/google-reveals-hackers-targeting-us/</link>
-      <description>UNC3944, a well-known hacker collective, has been identified by the Google Threat Intelligence Group (GTIG) as a persistent and dynamic cyberthreat. The group has evolved from initial SIM swap operations to ransomware and data theft extortion tactics, with a focus on large enterprises in English-speaking countries. Their modus operandi relies heavily on sophisticated social engineering, and they have orchestrated sector-specific waves of attacks, including financial services, food services, and retail sectors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136669</guid>
-      <pubDate>Mon, 19 May 2025 15:03:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skitnet Malware Employs Stealth Techniques to Execute Payload and Maintain Persistence Techniques</title>
-      <link>https://gbhackers.com/skitnet-malware-employs-stealth-techniques/</link>
-      <description>Skitnet (Bossnet) is a highly sophisticated multi-stage malware developed by the threat group LARVA-306. It features advanced stealth techniques and evasion methods to execute its malicious payload, maintain persistent access on infected systems, and evade detection by security defenses.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136656</guid>
-      <pubDate>Mon, 19 May 2025 14:52:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access</title>
-      <link>https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html</link>
-      <description>Skitnet is a multi-stage malware used by ransomware actors for post-exploitation efforts, stealing sensitive data and establishing remote control over compromised hosts. It uses programming languages like Rust and Nim to evade detection, and incorporates persistence mechanisms, remote access tools, commands for data exfiltration, and download of additional payloads.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html</guid>
-      <pubDate>Mon, 19 May 2025 14:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla fixes Firefox zero-days exploited at hacking contest</title>
-      <link>https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two Firefox zero-day vulnerabilities were demonstrated at the Pwn2Own Berlin 2025 hacking competition. The flaws, tracked under CVE-2025-4918 and CVE-2025-4919, are an out-of-bounds read/write issue in the JavaScript engine and a flaw allowing attackers to perform out-of-bounds reads/writes on a JavaScript object.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/</guid>
-      <pubDate>Mon, 19 May 2025 14:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers earn $1,078,750 for 28 zero-days at Pwn2Own Berlin</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/</link>
-      <description>The article reports on the Pwn2Own Berlin 2025 hacking competition, where security researchers exploited 29 zero-day vulnerabilities and earned $1,078,750 in cash awards. No specific vulnerability details are provided.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/</guid>
-      <pubDate>Mon, 19 May 2025 14:03:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/19/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM), MDaemon Email Server, Srimax Output Messenger, Synacor Zimbra Collaboration Suite (ZCS), ZKTeco BioTime; CVE(s): CVE-2025-4427, CVE-2025-4428, CVE-2024-11182, CVE-2025-27920, CVE-2024-27443, CVE-2023-38950; Summary: Six new vulnerabilities have been added to the Known Exploited Vulnerabilities Catalog due to evidence of active exploitation. These vulnerabilities affect Ivanti Endpoint Manager Mobile, MDaemon Email Server, Srimax Output Messenger, Synacor Zimbra Collaboration Suite (ZCS), and ZKTeco BioTime, and are frequent attack vectors for malicious cyber actors, posing significant risks to the federal enterprise.</description>
-      <guid isPermaLink="false">/node/23401</guid>
-      <pubDate>Mon, 19 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why CTEM is the Winning Bet for CISOs in 2025</title>
-      <link>https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html</link>
-      <description>The article discusses the concept of Continuous Threat Exposure Management (CTEM), which solidifies its role as a strategic enabler for Chief Information Security Officers (CISOs). CTEM integrates Adversarial Exposure Validation (AEV) and Exposure Assessment Platforms (EAP) to empower CISOs to adopt a continuous, adaptive model that keeps pace with attacker techniques and the evolving threat landscape.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html</guid>
-      <pubDate>Mon, 19 May 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
