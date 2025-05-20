@@ -6,8 +6,99 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 22:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 10:07:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 11 Privilege Escalation Vulnerability Let Attackers Gain Admin Access in Under 300 Milliseconds</title>
+      <link>https://gbhackers.com/windows-privilege-escalation-flaw-allows-attackers/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): CVE-2025-24076; Summary: A critical vulnerability in Windows 11 allowed attackers to escalate privileges from a standard user to system-level administrator in just 300 milliseconds through DLL hijacking. The flaw leveraged a Dynamic-link Library (DLL) hijacking technique within Windows 11's "Mobile devices" feature, enabling attackers to execute arbitrary code with system privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137032</guid>
+      <pubDate>Tue, 20 May 2025 09:52:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization</title>
+      <link>https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html</link>
+      <description>No vulnerabilities mentioned in the article; instead, it discusses threat actors and their tactics, techniques, and procedures (TTPs) used to target organizations.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html</guid>
+      <pubDate>Tue, 20 May 2025 09:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O2 VoLTE Flaw Allows Tracking of Customers’ Locations Through Phone Calls</title>
+      <link>https://gbhackers.com/o2-volte-flaw-allows-tracking-of-customers-locations/</link>
+      <description>Vulnerable Product: O2 UK; CVE(s): None; Summary: The VoLTE implementation in O2 UK's network contained a significant privacy vulnerability that exposed precise location data of call recipients. The vulnerability allowed any caller to access the recipient's IMSI and IMEI numbers, as well as cell tower identification data, which could be used to geolocate the recipient with minimal technical expertise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136985</guid>
+      <pubDate>Tue, 20 May 2025 09:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Issues Urgent Patch to Resolve BitLocker Recovery Problem</title>
+      <link>https://gbhackers.com/microsoft-issues-urgent-patch-to-resolve-bitlocker/</link>
+      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: A critical issue affecting Windows 10 devices with specific Intel processors causes unexpected system failures and forces users to enter BitLocker recovery keys. The issue was introduced in the May 13, 2025 security update and is fixed by the emergency update KB5061768, which addresses a severe problem impacting devices with Intel Trusted Execution Technology (TXT) enabled on 10th generation or later Intel vPro processors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136969</guid>
+      <pubDate>Tue, 20 May 2025 09:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Package in Koishi Chatbots Steals Sensitive Data in Real Time</title>
+      <link>https://gbhackers.com/malicious-npm-package-in-koishi-chatbots/</link>
+      <description>Vulnerable Product: Koishi; CVE(s): None; Summary: The koishi-plugin-pinhaofa plugin for the Koishi chatbot framework contains a data-exfiltration backdoor that scans messages for eight-character hexadecimal strings and silently forwards sensitive data to a hardcoded QQ account, allowing real-time data theft.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137002</guid>
+      <pubDate>Tue, 20 May 2025 08:55:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse</title>
+      <link>https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</link>
+      <description>The article discusses two separate cybersecurity threats. The first is RedisRaider, a Linux cryptojacking campaign targeting publicly accessible Redis servers. The attackers use a bespoke scanner to identify vulnerable systems and inject malicious cron jobs using Redis's SET command. The end goal is to drop an XMRig miner on compromised systems. The second threat is a targeted campaign exploiting legacy authentication protocols in Microsoft Entra ID, bypassing defenses like MFA and Conditional Access.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</guid>
+      <pubDate>Tue, 20 May 2025 08:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tor Browser 14.5.2 Released: Bug Fixes and Enhanced Features</title>
+      <link>https://gbhackers.com/tor-browser-14-5-2-released/</link>
+      <description>The article discusses the release of Tor Browser 14.5.2, which addresses security vulnerabilities, resolves privacy-related bugs, and implements infrastructural improvements. The update rebases its underlying engine on Firefox 128.10.1esr, prioritizes security by closing a potential loophole allowing malicious actors to bypass privacy controls, and strengthens cryptographic integrity by expanding the list of authorized signers for Tor Browser and Mullvad Browser tags.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136933</guid>
+      <pubDate>Tue, 20 May 2025 07:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>W3LL Phishing Kit Launches Active Campaign to Steal Outlook Login Credentials</title>
+      <link>https://gbhackers.com/w3ll-phishing-kit-launches-active-campaign/</link>
+      <description>Vulnerable Product: W3LL Phishing Kit; CVE(s): None; Summary: The W3LL phishing kit is a sophisticated tool that uses advanced adversary-in-the-middle (AitM) techniques to harvest Microsoft 365 Outlook login credentials. It allows threat actors to purchase functionalities and components needed to conduct tailored phishing campaigns, making it more accessible and adaptable than conventional off-the-shelf kits.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136966</guid>
+      <pubDate>Tue, 20 May 2025 07:47:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Actively Exploited Ivanti EPMM Zero-Day to KEV Catalog</title>
+      <link>https://gbhackers.com/ivanti-epmm-zero-day-to-kev-catalog/</link>
+      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The vulnerabilities enable authentication bypass and remote code execution, respectively, due to insecure implementations of open-source libraries. CVE-2025-4427 allows unauthenticated attackers to bypass authentication mechanisms, while CVE-2025-4428 enables authenticated attackers to execute arbitrary code. These flaws could permit access to sensitive data without credentials or escalate privileges for malicious activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136915</guid>
+      <pubDate>Tue, 20 May 2025 06:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical pfSense Firewall Flaws Enable Attackers to Inject Malicious Code</title>
+      <link>https://gbhackers.com/critical-pfsense-firewall-flaws/</link>
+      <description>Vulnerable Product: Netgate pfSense; CVE(s): CVE-2024-57273, CVE-2024-54780, CVE-2024-54779; Summary: Three critical vulnerabilities were discovered in pfSense firewall software, allowing attackers to inject malicious code, corrupt configurations, and gain unauthorized access. The first vulnerability affects the Automatic Configuration Backup service, while the second involves authenticated command injection in the OpenVPN management interface. The third allows XML injection in dashboard widgets, enabling persistent XSS attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136900</guid>
+      <pubDate>Tue, 20 May 2025 06:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 Users Targeted by Tycoon2FA Linked Phishing Attack to Steal Credentials</title>
+      <link>https://gbhackers.com/microsoft-365-users-targeted-by-tycoon2fa-linked/</link>
+      <description>Vulnerable Product: Microsoft 365; CVE(s): None; Summary: A new wave of targeted phishing campaigns is targeting Microsoft 365 users. The attackers are leveraging malformed URLs with backslash characters (https:\\) to bypass conventional email security filters and evade URL-based detection mechanisms. Despite the apparent incorrect format, modern web browsers can still parse and resolve these links, landing victims on sophisticated credential harvesting sites.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=136917</guid>
+      <pubDate>Tue, 20 May 2025 06:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts</title>
+      <link>https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html</link>
+      <description>Vulnerable Product: Python Package Index (PyPI); CVE(s): None; Summary: Malicious packages "checker-SaGaF", "steinlurks", and "sinnercore" were uploaded to PyPI, allowing threat actors to validate stolen email addresses against TikTok and Instagram APIs. These packages can be used to threaten account holders, sell validated user lists on the dark web, or launch credential stuffing or password spraying exploits.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html</guid>
+      <pubDate>Tue, 20 May 2025 05:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI plans to combine multiple models into GPT-5</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/</link>
+      <description>OpenAI plans to combine multiple products into its next foundational model, GPT-5, aiming to make existing models better and more efficient. This move may reduce confusion caused by identical model names across different tasks. The company is also focusing on building the best coding model, Codex, which will be built upon the o3 reasoning model.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/</guid>
+      <pubDate>Mon, 19 May 2025 22:11:51 +0000</pubDate>
+    </item>
     <item>
       <title>Fake KeePass password manager leads to ESXi ransomware attack</title>
       <link>https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/</link>
@@ -276,99 +367,6 @@ No specific software or hardware vulnerabilities are discussed in this article.<
       <description>Vulnerable Product: GNU C Library (glibc); CVE(s): CVE-2025-4802; Summary: A vulnerability in the glibc library allows attackers to execute malicious code with elevated privileges by placing a malicious shared library in a location specified by the LD_LIBRARY_PATH environment variable. The flaw affects statically linked setuid binaries that incorrectly search library paths, potentially allowing local attackers to elevate their privileges.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136576</guid>
       <pubDate>Mon, 19 May 2025 06:23:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploiting dMSA for Advanced Active Directory Persistence</title>
-      <link>https://gbhackers.com/exploiting-dmsa-for-advanced-ad-persistence/</link>
-      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: Delegated Managed Service Accounts (dMSAs) in Windows Server 2025 can be manipulated by attackers with specific permissions to establish persistent access. Attackers can exploit Access Control List (ACL) inheritance to gain full visibility and control over dMSA objects, achieving persistence through creating additional dMSAs or adding unauthorized entities to the PrincipalAllowedToRetrieveManagedPassword attribute.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136553</guid>
-      <pubDate>Mon, 19 May 2025 06:17:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>New 'Defendnot' tool tricks Windows into disabling Microsoft Defender</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/</link>
-      <description>Vulnerable Product: No specific product mentioned; Defendnot is the tool being discussed; CVE(s): None; Summary: The Defendnot tool can disable Microsoft Defender on Windows devices by registering a fake antivirus product, using an undocumented Windows Security Center API. This allows the tool to bypass Windows' safeguards and register the dummy antivirus, effectively disabling real-time protection for the device.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/</guid>
-      <pubDate>Sat, 17 May 2025 14:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware ESXi, Firefox, Red Hat Linux &amp; SharePoint Hacked – Pwn2Own Day 2</title>
-      <link>https://gbhackers.com/vmware-esxi-firefox-red-hat-linux-sharepoint-hacked/</link>
-      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): None; Summary: Viettel Cyber Security used an OOB Write for a Guest-to-Host escape on Oracle VirtualBox, earning $40,000 and 4 Master of Pwn points.
-
-FYSA: The competition has awarded a cumulative total of $695,000 with participants revealing 20 unique zero-day vulnerabilities thus far.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136532</guid>
-      <pubDate>Sat, 17 May 2025 11:39:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft confirms May Windows 10 updates trigger BitLocker recovery</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/</link>
-      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: Some Windows 10 and Windows 10 Enterprise LTSC 2021 systems will boot into BitLocker recovery after installing the May 2025 security updates. This issue may trigger an Automatic Repair, which requires input of a BitLocker recovery key to initiate the repair.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/</guid>
-      <pubDate>Fri, 16 May 2025 18:36:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical WordPress Plugin Flaw Puts Over 10,000 Sites of Cyberattack</title>
-      <link>https://gbhackers.com/critical-wordpress-plugin-flaw/</link>
-      <description>Vulnerable Product: Eventin plugin for WordPress; CVE(s): None; Summary: The Eventin plugin allows unauthenticated users to gain administrative access to affected sites due to a lack of proper permission checks in the /wp-json/eventin/v2/speakers/import REST API endpoint. This vulnerability can be exploited by uploading a CSV file containing user details, including the desired role set to administrator.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136486</guid>
-      <pubDate>Fri, 16 May 2025 17:12:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophisticated NPM Attack Leverages Google Calendar2 for Advanced Communication</title>
-      <link>https://gbhackers.com/sophisticated-npm-attack-leverages-google-calendar2/</link>
-      <description>Vulnerable Product: os-info-checker-es6; CVE(s): None; Summary: A sophisticated malware campaign was embedded within the npm package os-info-checker-es6, which evolved from gathering basic OS information to a complex threat using platform-specific compiled Node.js modules and obfuscation techniques. The malware employed steganography, Unicode-based hiding of malicious payloads, and a command-and-control mechanism utilizing Google Calendar short links.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136460</guid>
-      <pubDate>Fri, 16 May 2025 17:05:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Ransomware Attack Targets Elon Musk Supporters Using PowerShell to Deploy Payloads</title>
-      <link>https://gbhackers.com/new-ransomware-attack-targets-elon-musk-supporters/</link>
-      <description>A newly identified ransomware campaign targets supporters of Elon Musk through a sophisticated phishing-based attack. The attack begins with a deceptive PDF document, which leads to the download of malicious ZIP files hosted on Netlify. The infection chain involves multi-stage PowerShell scripts and executables designed to compromise the target system, ultimately deploying a variant of the Fog ransomware for financial gain.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136498</guid>
-      <pubDate>Fri, 16 May 2025 16:59:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Printer Company Distributes Malicious Drivers Infected with XRed Malware</title>
-      <link>https://gbhackers.com/printer-company-distributes-malicious-drivers-infected/</link>
-      <description>Vulnerable Product: Procolored; CVE(s): None; Summary: Procolored's software drivers contained malicious code, including the XRed backdoor malware and SnipVex virus. The XRed backdoor facilitated keylogging, file downloads, screenshots, and remote command execution, while SnipVex posed a persistent threat by targeting .exe files and replacing Bitcoin addresses in the clipboard to divert transactions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136473</guid>
-      <pubDate>Fri, 16 May 2025 16:47:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Agent Impersonate as Stanford Student For Intelligence Gathering</title>
-      <link>https://gbhackers.com/chinese-agent-impersonate-as-stanford-student/</link>
-      <description>A Chinese intelligence operative posing as a Stanford University student has been uncovered, targeting students conducting China-related research. The agent used the alias "Charles Chen" and employed a "crowdsourced approach" to gather sensitive information, including using civilians unaffiliated with intelligence agencies to collect data. This case highlights concerns about Chinese intelligence activities at American universities and the need for increased awareness.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136455</guid>
-      <pubDate>Fri, 16 May 2025 16:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel arrests new suspect behind Nomad Bridge $190M crypto hack</title>
-      <link>https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/</link>
-      <description>Vulnerable Product: Nomad bridge smart-contract; CVE(s): None; Summary: The Nomad bridge smart-contract introduced a critical vulnerability in its Replica smart contract, allowing hackers to siphon over $190 million worth of assets. The flaw allowed any message with a correct root hash to be accepted, even if the underlying proof was invalid.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/</guid>
-      <pubDate>Fri, 16 May 2025 16:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT rolls out Codex, an AI tool for software programming</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/</link>
-      <description>The article discusses OpenAI's new AI agent, Codex, which automates and delegates programming tasks for software engineers. Codex can write new code, propose pull requests, and run each task in its own sandbox, making developers more productive with AI.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/</guid>
-      <pubDate>Fri, 16 May 2025 15:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers exploit VMware ESXi, Microsoft SharePoint zero-days at Pwn2Own</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/</link>
-      <description>Vulnerable Product: Multiple; CVE(s): None; Summary: Competitors successfully exploited zero-day bugs in multiple products, including Microsoft SharePoint, VMware ESXi, Oracle VirtualBox, Red Hat Enterprise Linux, and Mozilla Firefox, earning a total of $695,000 over the first two days of the contest.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/</guid>
-      <pubDate>Fri, 16 May 2025 15:23:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Printer maker Procolored offered malware-laced drivers for months</title>
-      <link>https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/</link>
-      <description>Vulnerable Product: Procolored printers; CVE(s): None; Summary: The official software supplied with Procolored printers included a remote access trojan (XRedRAT) and a cryptocurrency stealer (SnipVex) for at least six months. These malware were delivered through the companion software and drivers for Procolored UV printer models F8, F13, F13 Pro, V6, V11 Pro, and VF13 Pro.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/</guid>
-      <pubDate>Fri, 16 May 2025 14:56:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
