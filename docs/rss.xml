@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 10:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 11:01:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DPRK IT Workers Impersonate Polish and US Nationals to Secure Full-Stack Developer Positions</title>
+      <link>https://gbhackers.com/dprk-it-workers-impersonate-polish-and-us-nationals/</link>
+      <description>A sophisticated employment scam network potentially affiliated with the Democratic People's Republic of Korea (DPRK) targets remote engineering and full-stack blockchain developer roles by impersonating Polish and US nationals. The threat actors employ deceptive tactics, including the use of GitHub accounts, portfolio websites, and freelancer profiles to deceive companies into hiring them for full-time or project-based freelance gigs.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137070</guid>
+      <pubDate>Tue, 20 May 2025 10:35:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Multer Vulnerability Puts Millions of Node.js Apps at Risk</title>
+      <link>https://gbhackers.com/critical-multer-vulnerability/</link>
+      <description>Vulnerable Product: npm Multer; CVE(s): None; Summary: All versions of Multer from 1.4.4-lts.1 to but not including 2.0.0 are vulnerable to denial-of-service attacks through maliciously crafted multi-part upload requests, potentially crashing Node.js processes and taking down entire web services.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137064</guid>
+      <pubDate>Tue, 20 May 2025 10:23:46 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 11 Privilege Escalation Vulnerability Let Attackers Gain Admin Access in Under 300 Milliseconds</title>
       <link>https://gbhackers.com/windows-privilege-escalation-flaw-allows-attackers/</link>
@@ -353,20 +367,6 @@ No specific software or hardware vulnerabilities are discussed in this article.<
       <description>CISA has announced changes to its communication strategy for cybersecurity updates and guidance, shifting away from listing advisories on its webpage to focus on direct communication channels. The change was temporarily paused after community feedback, with the agency reassessing its approach to information sharing.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136652</guid>
       <pubDate>Mon, 19 May 2025 09:08:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pwn2Own Day 3: Zero-Day Exploits Windows 11, VMware ESXi, and Firefox</title>
-      <link>https://gbhackers.com/pwn2own-day-3-zero-day-exploits/</link>
-      <description>The Pwn2Own Berlin 2025 competition showcased impressive technological achievements, demonstrating critical zero-day vulnerabilities in high-profile targets like Windows 11, VMware ESXi, and Mozilla Firefox. The event's prize pool reached $1,078,750, highlighting the growing importance of security research in an increasingly connected world.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136611</guid>
-      <pubDate>Mon, 19 May 2025 08:56:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>GNU C(glibc) Vulnerability Let Attackers Execute Arbitrary Code on Millions of Linux Systems</title>
-      <link>https://gbhackers.com/critical-glibc-flaw/</link>
-      <description>Vulnerable Product: GNU C Library (glibc); CVE(s): CVE-2025-4802; Summary: A vulnerability in the glibc library allows attackers to execute malicious code with elevated privileges by placing a malicious shared library in a location specified by the LD_LIBRARY_PATH environment variable. The flaw affects statically linked setuid binaries that incorrectly search library paths, potentially allowing local attackers to elevate their privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136576</guid>
-      <pubDate>Mon, 19 May 2025 06:23:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
