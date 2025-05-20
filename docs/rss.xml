@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 21:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 22:02:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS</title>
+      <link>https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/</link>
+      <description>A massive distributed denial-of-service (DDoS) attack of over 6.3 terabits per second was launched against KrebsOnSecurity, with the attacker believed to be testing a new Internet of Things (IoT) botnet capable of launching crippling digital assaults. The botnet, known as Aisuru, is reportedly controlled by a 21-year-old individual claiming to reside in Brazil who has been peddling access to their DDoS machine on public Telegram chat channels.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71303</guid>
+      <pubDate>Tue, 20 May 2025 21:30:30 +0000</pubDate>
+    </item>
     <item>
       <title>Mobile carrier Cellcom confirms cyberattack behind extended outages</title>
       <link>https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/</link>
@@ -352,13 +359,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>The article discusses two separate cybersecurity threats. The first is RedisRaider, a Linux cryptojacking campaign targeting publicly accessible Redis servers. The attackers use a bespoke scanner to identify vulnerable systems and inject malicious cron jobs using Redis's SET command. The end goal is to drop an XMRig miner on compromised systems. The second threat is a targeted campaign exploiting legacy authentication protocols in Microsoft Entra ID, bypassing defenses like MFA and Conditional Access.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</guid>
       <pubDate>Tue, 20 May 2025 08:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tor Browser 14.5.2 Released: Bug Fixes and Enhanced Features</title>
-      <link>https://gbhackers.com/tor-browser-14-5-2-released/</link>
-      <description>The article discusses the release of Tor Browser 14.5.2, which addresses security vulnerabilities, resolves privacy-related bugs, and implements infrastructural improvements. The update rebases its underlying engine on Firefox 128.10.1esr, prioritizes security by closing a potential loophole allowing malicious actors to bypass privacy controls, and strengthens cryptographic integrity by expanding the list of authorized signers for Tor Browser and Mullvad Browser tags.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136933</guid>
-      <pubDate>Tue, 20 May 2025 07:56:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
