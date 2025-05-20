@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 17:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 18:06:58 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SK Telecom says malware breach lasted 3 years, impacted 27 million numbers</title>
+      <link>https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/</link>
+      <description>SK Telecom suffered a malware attack that exposed USIM data of 27 million subscribers, including IMSI, USIM authentication keys, network usage data, and SMS/contacts stored in the SIM. The company detected the malware on April 19, 2025, and isolated equipment suspected of being hacked, but initially undetected for nearly three years from June 15, 2022.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/</guid>
+      <pubDate>Tue, 20 May 2025 17:07:40 +0000</pubDate>
+    </item>
     <item>
       <title>Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains</title>
       <link>https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</link>
@@ -352,13 +359,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>Vulnerable Product: Microsoft 365; CVE(s): None; Summary: A new wave of targeted phishing campaigns is targeting Microsoft 365 users. The attackers are leveraging malformed URLs with backslash characters (https:\\) to bypass conventional email security filters and evade URL-based detection mechanisms. Despite the apparent incorrect format, modern web browsers can still parse and resolve these links, landing victims on sophisticated credential harvesting sites.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136917</guid>
       <pubDate>Tue, 20 May 2025 06:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts</title>
-      <link>https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html</link>
-      <description>Vulnerable Product: Python Package Index (PyPI); CVE(s): None; Summary: Malicious packages "checker-SaGaF", "steinlurks", and "sinnercore" were uploaded to PyPI, allowing threat actors to validate stolen email addresses against TikTok and Instagram APIs. These packages can be used to threaten account holders, sell validated user lists on the dark web, or launch credential stuffing or password spraying exploits.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html</guid>
-      <pubDate>Tue, 20 May 2025 05:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
