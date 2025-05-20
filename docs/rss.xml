@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 16:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 17:08:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains</title>
@@ -14,6 +14,13 @@
       <description>A threat actor known as "Hazy Hawk" is hijacking forgotten DNS CNAME records pointing to abandoned cloud services, using the compromised domains to distribute scams, fake apps, and malicious ads. The attacker's technique involves registering a new cloud resource with the same name as the original one, causing the subdomain to resolve to their new site.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</guid>
       <pubDate>Tue, 20 May 2025 15:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery</title>
+      <link>https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html</link>
+      <description>A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in DNS records. The hijacked domains are used to host URLs that direct users to scams and malware via traffic distribution systems.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html</guid>
+      <pubDate>Tue, 20 May 2025 15:53:00 +0000</pubDate>
     </item>
     <item>
       <title>Kimsuky APT Group Deploys PowerShell Payloads to Deliver XWorm RAT</title>
@@ -133,6 +140,90 @@
       <description>Vulnerable Product: Broadcom VMware; CVE(s): CVE-2025-41229, CVE-2025-41230, CVE-2025-41231; Summary: Three significant security vulnerabilities in VMware Cloud Foundation platform allow attackers to gain unauthorized access to sensitive information and internal services. The flaws affect versions 4.5.x and 5.x and require immediate patching as no workarounds are available.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137120</guid>
       <pubDate>Tue, 20 May 2025 12:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Danfoss AK-SM 8xxA Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-03</link>
+      <description>Vulnerable Product: Danfoss AK-SM 8xxA Series; CVE(s): CVE-2025-41450; Summary: The AK-SM 800A system manager has an improper authentication vulnerability due to datetime-based password generation, which could allow a remote attacker to bypass authentication and execute arbitrary code. The affected versions are prior to R4.2, and Danfoss has released version R4.2 to address the issue.</description>
+      <guid isPermaLink="false">/node/23408</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vertiv Liebert RDU101 and UNITY</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-10</link>
+      <description>Vulnerable Product: Vertiv Liebert RDU101 and Liebert UNITY; CVE(s): CVE-2025-46412, CVE-2025-41426; Summary: The Liebert RDU101 and Liebert UNITY products contain vulnerabilities that could allow an attacker to bypass authentication, cause a denial-of-service condition, or achieve remote code execution.</description>
+      <guid isPermaLink="false">/node/23415</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electric Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-04</link>
+      <description>Vulnerable Product: Mitsubishi Electric Iconics Digital Solutions, ICONICS Product Suite and Mitsubishi Electric MC Works64; CVE(s): CVE-2025-0921; Summary: An execution with unnecessary privileges vulnerability in the AlarmWorX64 MMX Pager agent can allow an attacker to make unauthorized writes to arbitrary files, potentially leading to information tampering or denial-of-service (DoS) conditions on affected PCs.</description>
+      <guid isPermaLink="false">/node/23409</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AutomationDirect MB-Gateway</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-09</link>
+      <description>Vulnerable Product: AutomationDirect MB-Gateway; CVE(s): CVE-2025-36535; Summary: The MB-Gateway's embedded webserver lacks authentication and access controls, allowing unrestricted remote access. Successful exploitation could allow attackers to make configuration changes, disrupt operations, or achieve arbitrary code execution with a CVSS v4 base score of 10.0.</description>
+      <guid isPermaLink="false">/node/23414</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABUP IoT Cloud Platform</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-01</link>
+      <description>Vulnerable Product: ABUP IoT Cloud Platform; CVE(s): CVE-2025-4692; Summary: Incorrect Privilege Assignment vulnerability allows an attacker to access device profiles for which they are not authorized by submitting a malicious JSON Web Token (JWT) to the cloud platform. Successful exploitation can escalate privileges to access any device managed by the Cloud Update Platform.</description>
+      <guid isPermaLink="false">/node/23406</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assured Telematics Inc (ATI) Fleet Management System with Geotab Integration</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-11</link>
+      <description>Vulnerable Product: Assured Telematics Inc. Fleet Management System; CVE(s): CVE-2025-4364; Summary: The vulnerability allows an unauthenticated attacker to access sensitive file system information or obtain administrative credentials, exposing the system to potential exploitation. Successful exploitation could lead to further unauthorized access and data theft.</description>
+      <guid isPermaLink="false">/node/23416</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric PrismaSeT Active - Wireless Panel Server</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-06</link>
+      <description>Vulnerable Product: Schneider Electric PrismaSeT Active - Wireless Panel Server; CVE(s): CVE-2023-4041; Summary: A buffer copy without checking size of input (classic buffer overflow) vulnerability in the Silicon Labs Gecko Bootloader on ARM allows code injection, authentication bypass. Successful exploitation could result in unauthorized code execution and unavailability of the PrismaSeT Active - Wireless Panel Server for voltage loss monitoring.</description>
+      <guid isPermaLink="false">/node/23411</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Modicon Controllers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-08</link>
+      <description>Vulnerable Product: Schneider Electric Modicon Controllers M241/M251/M258/LMC058; CVE(s): CVE-2025-2875; Summary: The vulnerability, CWE-610, is an externally controlled reference to a resource in another sphere, which can cause a loss of confidentiality when an unauthenticated attacker manipulates a controller's webserver URL to access resources. Exploitation could occur remotely with low attack complexity.</description>
+      <guid isPermaLink="false">/node/23413</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Thirteen Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/20/cisa-releases-thirteen-industrial-control-systems-advisories</link>
+      <description>CISA released 13 Industrial Control Systems (ICS) advisories on May 20, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories cover various products from vendors such as ICONICS, Mitsubishi Electric, Siemens, Schneider Electric, and AutomationDirect.</description>
+      <guid isPermaLink="false">/node/23417</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Galaxy VS, Galaxy VL, Galaxy VXL</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-07</link>
+      <description>Vulnerable Product: Schneider Electric Galaxy VS, Galaxy VL, Galaxy VXL; CVE(s): CVE-2025-32433; Summary: A missing authentication vulnerability in the SSH server of affected Schneider Electric products allows an attacker to perform unauthenticated remote code execution (RCE) with a low attack complexity. Successful exploitation could grant unauthorized access and execute arbitrary commands without valid credentials.</description>
+      <guid isPermaLink="false">/node/23412</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Siveillance Video</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-05</link>
+      <description>Vulnerable Product: Siemens Siveillance Video; CVE(s): CVE-2025-1688; Summary: Missing encryption of sensitive data in Siemens Siveillance Video allows removal of password protection from system configuration files, affecting backup data sets. Successful exploitation has a high attack complexity and may reset system configuration passwords.</description>
+      <guid isPermaLink="false">/node/23410</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Instruments Circuit Design Suite</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-02</link>
+      <description>Vulnerable Product: National Instruments Circuit Design Suite; CVE(s): CVE-2025-30417, CVE-2025-30418, CVE-2025-30419, CVE-2025-30420; Summary: The Circuit Design Suite contains multiple vulnerabilities that could allow an attacker to disclose information or execute arbitrary code. Exploitation requires tricking a user into opening a specially crafted SYM file.</description>
+      <guid isPermaLink="false">/node/23407</guid>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Qilin Exploits SAP Zero-Day Vulnerability Weeks Ahead of Public Disclosure</title>
@@ -268,97 +359,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>Vulnerable Product: Python Package Index (PyPI); CVE(s): None; Summary: Malicious packages "checker-SaGaF", "steinlurks", and "sinnercore" were uploaded to PyPI, allowing threat actors to validate stolen email addresses against TikTok and Instagram APIs. These packages can be used to threaten account holders, sell validated user lists on the dark web, or launch credential stuffing or password spraying exploits.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html</guid>
       <pubDate>Tue, 20 May 2025 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI plans to combine multiple models into GPT-5</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/</link>
-      <description>OpenAI plans to combine multiple products into its next foundational model, GPT-5, aiming to make existing models better and more efficient. This move may reduce confusion caused by identical model names across different tasks. The company is also focusing on building the best coding model, Codex, which will be built upon the o3 reasoning model.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/</guid>
-      <pubDate>Mon, 19 May 2025 22:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake KeePass password manager leads to ESXi ransomware attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/</link>
-      <description>Threat actors have been distributing trojanized versions of KeePass password manager for at least eight months to install Cobalt Strike beacons, steal credentials, and deploy ransomware. The campaign started with malicious KeePass installer promoted through Bing advertisements that led to fake software sites. The attack ultimately led to the company's VMware ESXi servers being encrypted with ransomware.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/</guid>
-      <pubDate>Mon, 19 May 2025 21:17:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phishing Attack Poses as Zoom Meeting Invites to Steal Login Credentials</title>
-      <link>https://gbhackers.com/new-phishing-attack-poses-as-zoom-meeting/</link>
-      <description>A newly identified phishing campaign targets users by masquerading as urgent Zoom meeting invitations from colleagues. The campaign leverages realism and psychological manipulation to steal login credentials, with a focus on customizing URLs using stolen data. Users are advised to verify authenticity and avoid interacting with suspicious links.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136865</guid>
-      <pubDate>Mon, 19 May 2025 20:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Hannibal Stealer Uses Stealth and Obfuscation to Evade Detection</title>
-      <link>https://gbhackers.com/new-hannibal-stealer-uses-stealth-and-obfuscation/</link>
-      <description>The Hannibal Stealer is a modular .NET info-stealer and credential harvester that demonstrates advanced stealth mechanisms and obfuscation techniques to bypass modern detection systems. It can extract sensitive data from browsers, cryptocurrency wallets, and popular applications, and features geofencing capabilities to avoid scrutiny in certain countries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136874</guid>
-      <pubDate>Mon, 19 May 2025 20:14:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese APT Hackers Target Organizations Using Korplug Loaders and Malicious USB Drives</title>
-      <link>https://gbhackers.com/chinese-apt-hackers-target-organizations/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article reports on advanced persistent threat (APT) groups with ties to China that have been targeting European governmental and industrial entities. These groups use sophisticated tactics and tools, including Korplug loaders, malicious USB drives, and backdoors, to infiltrate sensitive networks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136854</guid>
-      <pubDate>Mon, 19 May 2025 20:06:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cache Timing Techniques Used to Bypass Windows 11 KASLR and Reveal Kernel Base</title>
-      <link>https://gbhackers.com/cache-timing-techniques-used-to-bypass-windows-11/</link>
-      <description>Vulnerable Product: Windows 11; CVE(s): None; Summary: The article describes a cache timing side-channel attack that can circumvent Kernel Address Space Layout Randomization (KASLR) on fully updated Windows 11 PCs, exploiting speculative execution and processor cache behavior to infer the base address of ntoskrnl.exe. This attack requires no elevated privileges and has been successfully tested on Windows 11 version 10.0.26100.3775.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136841</guid>
-      <pubDate>Mon, 19 May 2025 19:44:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>O2 UK patches bug leaking mobile user location from call metadata</title>
-      <link>https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/</link>
-      <description>Vulnerable Product: O2 UK (VoLTE and WiFi Calling technologies); CVE(s): None; Summary: A flaw in O2 UK's implementation of VoLTE and WiFi Calling technologies allows anyone to expose the general location of a person and other identifiers by calling the target, including IMSI, IMEI, and cell location data. The issue was resolved after being reported by security researcher Daniel Williams on March 26 and 27, 2025.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/</guid>
-      <pubDate>Mon, 19 May 2025 19:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit AutoIT Scripts to Deploy Malware Targeting Windows Systems</title>
-      <link>https://gbhackers.com/hackers-exploit-autoit-scripts-to-deploy-malware/</link>
-      <description>A sophisticated attack leveraging AutoIT scripting language was discovered, featuring a double-layered AutoIT script designed to deploy a potentially devastating payload. The attack involves the deployment of malicious DLLs, including AsyncRAT and PureHVNC, allowing attackers to maintain long-term access to infected systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136828</guid>
-      <pubDate>Mon, 19 May 2025 18:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 emergency updates fix BitLocker recovery issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: Windows 10 systems with Intel vPro processors (10th gen or later) and Intel Trusted Execution Technology (TXT) enabled may boot into BitLocker recovery after installing the May 2025 security updates. Installing KB5061768 emergency update or disabling TXT from BIOS can fix the issue.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/</guid>
-      <pubDate>Mon, 19 May 2025 17:59:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arla Foods confirms cyberattack disrupts production, causes delays</title>
-      <link>https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/</link>
-      <description>Arla Foods has been targeted by a cyberattack that disrupted its production operations at a facility in Germany, leading to product delivery delays or cancellations. The attack did not appear to involve data theft or encryption, and the type of attack and perpetrators remain unknown.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/</guid>
-      <pubDate>Mon, 19 May 2025 17:53:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Report Finds 67% of Organizations Experienced Cyber Attacks in the Last Year</title>
-      <link>https://gbhackers.com/new-report-finds-67-of-organizations/</link>
-      <description>A report by Hiscox Cyber Readiness Report 2024 shows a rising trend of cyberattacks across eight worldwide markets, with 67% of businesses experiencing attacks in the previous 12 months. The report highlights the impact of attacks on reputations, finances, and employee behavior, emphasizing the need for organizations to prioritize cybersecurity training and leadership.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136820</guid>
-      <pubDate>Mon, 19 May 2025 17:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auth0-PHP Vulnerability Enables Unauthorized Access for Attackers</title>
-      <link>https://gbhackers.com/auth0-php-vulnerability-enables-unauthorized-access/</link>
-      <description>Vulnerable Product: Auth0-PHP SDK; CVE(s): None; Summary: The Auth0-PHP SDK versions 8.0.0-BETA1 and newer have a critical security vulnerability that allows unauthorized access to applications through brute force attacks on session cookie authentication tags, potentially leading to session hijacking and exploitation of sensitive information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136783</guid>
-      <pubDate>Mon, 19 May 2025 16:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Active Exploitation of Ivanti EPMM Zero-Day Vulnerability in the Wild</title>
-      <link>https://gbhackers.com/ivanti-epmm-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: Ivanti Enterprise Mobility Management (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The zero-day vulnerability in Ivanti's EPMM platform can be chained with another vulnerability to achieve remote code execution, posing a significant threat to unpatched systems. Attackers have already attempted to exploit these security flaws, and many vulnerable instances remain exposed despite public disclosure.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136770</guid>
-      <pubDate>Mon, 19 May 2025 16:19:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
