@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 11:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 12:03:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>The Crowded Battle: Key Insights from the 2025 State of Pentesting Report</title>
+      <link>https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html</link>
+      <description>The article presents findings from the 2025 State of Pentesting Report, highlighting the strategies, tactics, and tools used by CISOs to cope with security alerts, breaches, and growing cyber risks. Key takeaways include the growth of software-based pentesting, increasing trust in automated tools, and the influence of cyber insurance providers on enterprise security priorities.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html</guid>
+      <pubDate>Tue, 20 May 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DPRK IT Workers Impersonate Polish and US Nationals to Secure Full-Stack Developer Positions</title>
       <link>https://gbhackers.com/dprk-it-workers-impersonate-polish-and-us-nationals/</link>
@@ -21,6 +28,15 @@
       <description>Vulnerable Product: npm Multer; CVE(s): None; Summary: All versions of Multer from 1.4.4-lts.1 to but not including 2.0.0 are vulnerable to denial-of-service attacks through maliciously crafted multi-part upload requests, potentially crashing Node.js processes and taking down entire web services.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137064</guid>
       <pubDate>Tue, 20 May 2025 10:23:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duping Cloud Functions: An emerging serverless attack vector</title>
+      <link>https://blog.talosintelligence.com/duping-cloud-functions-an-emerging-serverless-attack-vector/</link>
+      <description>Vulnerable Product: Google Cloud Platform (GCP) Cloud Functions; CVE(s): None; Summary: A vulnerability was discovered in GCP's Cloud Functions serverless compute service and its Cloud Build continuous integration and continuous delivery pipeline service. An attacker could create or update a cloud function to escalate privileges to the default Cloud Build service account. The vulnerability has since been partially addressed by Google.
+
+FYSA: Cisco Talos' research demonstrated that the technique used to exploit the GCP Cloud Functions vulnerability could be adapted to perform other malicious activities in other cloud-based environments, such as AWS Lambda and Azure Functions. Threat actors can use this method to gather valuable enumeration information about network devices, CPU scheduling, control group container IDs, and more.</description>
+      <guid isPermaLink="false">682b779afed2140001359170</guid>
+      <pubDate>Tue, 20 May 2025 10:00:08 +0000</pubDate>
     </item>
     <item>
       <title>Windows 11 Privilege Escalation Vulnerability Let Attackers Gain Admin Access in Under 300 Milliseconds</title>
@@ -353,20 +369,6 @@ No specific software or hardware vulnerabilities are discussed in this article.<
       <description>Conor Brian Fitzpatrick, a former administrator of the cybercrime forum Breachforums, will forfeit approximately $700,000 to settle a civil lawsuit related to a healthcare data breach. This marks a rare instance where a cybercriminal's assets directly compensate victims of a data breach. The case highlights connections between cybercriminal communities and more serious offenses, such as possession of child sexual abuse material (CSAM).</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136685</guid>
       <pubDate>Mon, 19 May 2025 09:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Firefox 0-Day Flaws Allow Remote Code Execution</title>
-      <link>https://gbhackers.com/critical-firefox-0-day-flaws/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two critical 0-day vulnerabilities in Firefox allow remote attackers to execute malicious code. The flaws, tracked as CVE-2025-4918 and CVE-2025-4919, arise from out-of-bounds access conditions when resolving Promise objects or handling linear sums in array operations, allowing data leakage, browser crashes, or arbitrary code execution under the context of the browser.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136587</guid>
-      <pubDate>Mon, 19 May 2025 09:25:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA to Stop Publishing Cybersecurity Alerts and Advisories on Webpages</title>
-      <link>https://gbhackers.com/cisa-to-stop-publishing-cybersecurity-alerts/</link>
-      <description>CISA has announced changes to its communication strategy for cybersecurity updates and guidance, shifting away from listing advisories on its webpage to focus on direct communication channels. The change was temporarily paused after community feedback, with the agency reassessing its approach to information sharing.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136652</guid>
-      <pubDate>Mon, 19 May 2025 09:08:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
