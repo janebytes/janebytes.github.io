@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 18:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 19:00:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Here’s how Windows 11 aims to make the world safe in the post-quantum era</title>
+      <link>https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses the security concerns surrounding Post-Quantum Cryptography (PQC) algorithms, specifically the increased key sizes and potential errors introduced into software during the transition away from RSA and Elliptic Curve cryptography.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/</guid>
+      <pubDate>Tue, 20 May 2025 18:48:54 +0000</pubDate>
+    </item>
     <item>
       <title>SK Telecom says malware breach lasted 3 years, impacted 27 million numbers</title>
       <link>https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/</link>
@@ -352,13 +359,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>Vulnerable Product: Netgate pfSense; CVE(s): CVE-2024-57273, CVE-2024-54780, CVE-2024-54779; Summary: Three critical vulnerabilities were discovered in pfSense firewall software, allowing attackers to inject malicious code, corrupt configurations, and gain unauthorized access. The first vulnerability affects the Automatic Configuration Backup service, while the second involves authenticated command injection in the OpenVPN management interface. The third allows XML injection in dashboard widgets, enabling persistent XSS attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136900</guid>
       <pubDate>Tue, 20 May 2025 06:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 Users Targeted by Tycoon2FA Linked Phishing Attack to Steal Credentials</title>
-      <link>https://gbhackers.com/microsoft-365-users-targeted-by-tycoon2fa-linked/</link>
-      <description>Vulnerable Product: Microsoft 365; CVE(s): None; Summary: A new wave of targeted phishing campaigns is targeting Microsoft 365 users. The attackers are leveraging malformed URLs with backslash characters (https:\\) to bypass conventional email security filters and evade URL-based detection mechanisms. Despite the apparent incorrect format, modern web browsers can still parse and resolve these links, landing victims on sophisticated credential harvesting sites.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136917</guid>
-      <pubDate>Tue, 20 May 2025 06:30:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
