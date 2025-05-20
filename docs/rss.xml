@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 15:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 16:02:19 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains</title>
+      <link>https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</link>
+      <description>A threat actor known as "Hazy Hawk" is hijacking forgotten DNS CNAME records pointing to abandoned cloud services, using the compromised domains to distribute scams, fake apps, and malicious ads. The attacker's technique involves registering a new cloud resource with the same name as the original one, causing the subdomain to resolve to their new site.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</guid>
+      <pubDate>Tue, 20 May 2025 15:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimsuky APT Group Deploys PowerShell Payloads to Deliver XWorm RAT</title>
+      <link>https://gbhackers.com/kimsuky-apt-group-deploys-powershell-payloads/</link>
+      <description>This article describes a malware campaign orchestrated by the Kimsuky APT group, using PowerShell payloads to deliver the XWorm Remote Access Trojan (RAT). The campaign involves multi-stage attacks, fileless execution, and Living-off-the-Land Binaries and Scripts (LOLBAS) techniques to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137257</guid>
+      <pubDate>Tue, 20 May 2025 15:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads</title>
+      <link>https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html</link>
+      <description>Vulnerable Product: Unknown threat actor; CVE(s): None; Summary: The article describes malicious Chrome Browser extensions created by an unknown threat actor since February 2024. These extensions masquerade as seemingly benign utilities but can exfiltrate data, receive commands, and execute arbitrary code. They also enable credential and cookie theft, session hijacking, ad injection, and phishing via DOM manipulation.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html</guid>
+      <pubDate>Tue, 20 May 2025 15:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>More_Eggs Malware Uses Job Application Emails to Distribute Malicious Payloads</title>
       <link>https://gbhackers.com/more_eggs-malware-uses-job-application-emails/</link>
@@ -338,29 +359,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>Vulnerable Product: Ivanti Enterprise Mobility Management (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The zero-day vulnerability in Ivanti's EPMM platform can be chained with another vulnerability to achieve remote code execution, posing a significant threat to unpatched systems. Attackers have already attempted to exploit these security flaws, and many vulnerable instances remain exposed despite public disclosure.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136770</guid>
       <pubDate>Mon, 19 May 2025 16:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft unveils Windows AI Foundry for AI-powered PC apps</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/</link>
-      <description>FYSA:
-
-The article discusses Microsoft's new Windows AI Foundry, a tool that helps developers build, experiment, and reach users with AI experiences in their apps. The feature allows for the integration of various AI models, including open-source ones from Nvidia, and provides ready-to-use APIs for tasks such as text intelligence and image description. Additionally, it includes features like Foundry Local, which automatically matches models to a device's hardware, and developer tools like a command-line tool and SDK.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/</guid>
-      <pubDate>Mon, 19 May 2025 16:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker Arrested for Taking Over SEC Social Media to Spread False Bitcoin News</title>
-      <link>https://gbhackers.com/hacker-arrested-for-taking-over-sec-social-media/</link>
-      <description>A 26-year-old man, Eric Council Jr., has been sentenced to 14 months in prison for orchestrating a sophisticated SIM swap attack that allowed him to hijack the U.S. Securities and Exchange Commission's (SEC) social media account on X, formerly known as Twitter. The unauthorized access was used to post false information about Bitcoin ETF approvals, causing significant market volatility in cryptocurrency prices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136763</guid>
-      <pubDate>Mon, 19 May 2025 16:17:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating Cobalt Strike Beacons Using Shodan: A Researcher’s Guide</title>
-      <link>https://gbhackers.com/investigating-cobalt-strike-beacons-using-shodan/</link>
-      <description>A security researcher has published a method for gathering threat intelligence on Cobalt Strike beacons using Shodan and PowerShell. The technique allows security professionals to collect configuration data from active Cobalt Strike servers, including beacon SpawnTo values and watermarks, which are critical for detection and attribution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136752</guid>
-      <pubDate>Mon, 19 May 2025 16:14:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
