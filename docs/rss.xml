@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 20:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 21:01:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Mobile carrier Cellcom confirms cyberattack behind extended outages</title>
+      <link>https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/</link>
+      <description>Cellcom, a Wisconsin wireless provider, has confirmed that a cyberattack is responsible for the widespread service outage and disruptions that began on May 14, 2025. The attack affected voice and SMS services, leaving customers unable to make phone calls or send text messages. Cellcom's CEO has assured that the company has protocols in place for such incidents and is working to restore full service by the end of the week.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/</guid>
+      <pubDate>Tue, 20 May 2025 20:19:34 +0000</pubDate>
+    </item>
     <item>
       <title>Premium WordPress 'Motors' theme vulnerable to admin takeover attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/</link>
@@ -352,13 +359,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>The article discusses the release of Tor Browser 14.5.2, which addresses security vulnerabilities, resolves privacy-related bugs, and implements infrastructural improvements. The update rebases its underlying engine on Firefox 128.10.1esr, prioritizes security by closing a potential loophole allowing malicious actors to bypass privacy controls, and strengthens cryptographic integrity by expanding the list of authorized signers for Tor Browser and Mullvad Browser tags.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136933</guid>
       <pubDate>Tue, 20 May 2025 07:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>W3LL Phishing Kit Launches Active Campaign to Steal Outlook Login Credentials</title>
-      <link>https://gbhackers.com/w3ll-phishing-kit-launches-active-campaign/</link>
-      <description>Vulnerable Product: W3LL Phishing Kit; CVE(s): None; Summary: The W3LL phishing kit is a sophisticated tool that uses advanced adversary-in-the-middle (AitM) techniques to harvest Microsoft 365 Outlook login credentials. It allows threat actors to purchase functionalities and components needed to conduct tailored phishing campaigns, making it more accessible and adaptable than conventional off-the-shelf kits.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136966</guid>
-      <pubDate>Tue, 20 May 2025 07:47:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
