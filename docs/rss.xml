@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 19:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 20:01:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Premium WordPress 'Motors' theme vulnerable to admin takeover attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/</link>
+      <description>Vulnerable Product: StylemixThemes Motors; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme contains a privilege escalation vulnerability that allows unauthenticated attackers to hijack administrator accounts and take complete control of websites. This flaw affects all versions up to 5.6.67, and exploitation enables attackers to implant malware, exfiltrate sensitive data, or redirect visitors to dangerous sites.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/</guid>
+      <pubDate>Tue, 20 May 2025 19:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>VanHelsing ransomware builder leaked on hacking forum</title>
+      <link>https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/</link>
+      <description>Vulnerable Product: VanHelsing RaaS; CVE(s): None; Summary: The source code for the VanHelsing ransomware-as-a-service operation's affiliate panel, data leak blog, and Windows encryptor builder was leaked after an old developer tried to sell it on the RAMP cybercrime forum. The leaked code includes the legitimate builder for the Windows encryptor and the source code for the affiliate panel and data leak site, but is incomplete as it does not include the Linux builder or any databases.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/</guid>
+      <pubDate>Tue, 20 May 2025 19:06:25 +0000</pubDate>
+    </item>
     <item>
       <title>Here’s how Windows 11 aims to make the world safe in the post-quantum era</title>
       <link>https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/</link>
@@ -345,20 +359,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>Vulnerable Product: W3LL Phishing Kit; CVE(s): None; Summary: The W3LL phishing kit is a sophisticated tool that uses advanced adversary-in-the-middle (AitM) techniques to harvest Microsoft 365 Outlook login credentials. It allows threat actors to purchase functionalities and components needed to conduct tailored phishing campaigns, making it more accessible and adaptable than conventional off-the-shelf kits.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136966</guid>
       <pubDate>Tue, 20 May 2025 07:47:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited Ivanti EPMM Zero-Day to KEV Catalog</title>
-      <link>https://gbhackers.com/ivanti-epmm-zero-day-to-kev-catalog/</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The vulnerabilities enable authentication bypass and remote code execution, respectively, due to insecure implementations of open-source libraries. CVE-2025-4427 allows unauthenticated attackers to bypass authentication mechanisms, while CVE-2025-4428 enables authenticated attackers to execute arbitrary code. These flaws could permit access to sensitive data without credentials or escalate privileges for malicious activities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136915</guid>
-      <pubDate>Tue, 20 May 2025 06:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical pfSense Firewall Flaws Enable Attackers to Inject Malicious Code</title>
-      <link>https://gbhackers.com/critical-pfsense-firewall-flaws/</link>
-      <description>Vulnerable Product: Netgate pfSense; CVE(s): CVE-2024-57273, CVE-2024-54780, CVE-2024-54779; Summary: Three critical vulnerabilities were discovered in pfSense firewall software, allowing attackers to inject malicious code, corrupt configurations, and gain unauthorized access. The first vulnerability affects the Automatic Configuration Backup service, while the second involves authenticated command injection in the OpenVPN management interface. The third allows XML injection in dashboard widgets, enabling persistent XSS attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136900</guid>
-      <pubDate>Tue, 20 May 2025 06:39:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
