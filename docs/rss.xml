@@ -6,8 +6,99 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 22:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 10:07:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ivanti EPMM 0-Day RCE Vulnerability Under Active Attack</title>
+      <link>https://gbhackers.com/ivanti-epmm-0-day-rce-vulnerability/</link>
+      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The EPMM contains a critical vulnerability chain that allows unauthenticated attackers to execute arbitrary code on vulnerable systems. The vulnerability combines an authentication bypass (CVE-2025-4427) and a remote code execution flaw (CVE-2025-4428) to create a critical attack vector. Exploitation has been observed since May 16th following the publication of proof-of-concept exploits by multiple security firms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137448</guid>
+      <pubDate>Wed, 21 May 2025 09:50:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coinbase says recent data breach impacts 69,461 customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/</link>
+      <description>A data breach at Coinbase affected 69,461 individuals, exposing customer and corporate data. The breached information included personal identifiers such as name, date of birth, social security numbers, and account information, which could be used in social engineering attacks to convince victims to move their funds.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/</guid>
+      <pubDate>Wed, 21 May 2025 09:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlassian Alerts Users to Multiple Critical Vulnerabilities Affecting Data Center Server</title>
+      <link>https://gbhackers.com/atlassian-alerts-users-to-multiple-critical-vulnerabilities/</link>
+      <description>Vulnerable Product: Atlassian; CVE(s): CVE-2025-31650, CVE-2024-47072, CVE-2024-57699, CVE-2025-24970, CVE-2025-22157; Summary: Eight high-severity vulnerabilities affecting multiple enterprise products in Atlassian's Data Center and Server offerings, including denial-of-service attacks and privilege escalation. The vulnerabilities were discovered through various means, including the Bug Bounty program, penetration testing, and third-party library scans.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137415</guid>
+      <pubDate>Wed, 21 May 2025 09:28:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Could Leverage Google Cloud Platform for Malicious Activities</title>
+      <link>https://gbhackers.com/cybercriminals-could-leverage-google-cloud-platform/</link>
+      <description>Vulnerable Product: Google Cloud Platform's (GCP) Cloud Functions and Cloud Build services; CVE(s): None; Summary: The default Cloud Build Service Account (SA) previously granted excessive permissions during the deployment of Cloud Functions, allowing attackers to escalate privileges by exploiting the deployment process. This could have enabled malicious activities, including environment enumeration, across multiple cloud platforms, despite Google's partial remediation patch.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137427</guid>
+      <pubDate>Wed, 21 May 2025 09:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Hackers Create Fake AI Tool to Exploit Millions of Users</title>
+      <link>https://gbhackers.com/malicious-hackers-create-fake-ai-tool/</link>
+      <description>The article reports on a sophisticated campaign by hostile actors posing as Kling AI, an AI-powered picture and video synthesis platform. The attackers use counterfeit Facebook pages and paid advertisements to lure users into downloading malicious Windows executables disguised with double extensions and Hangul Filler characters, which execute anti-analysis tricks and deploy a PureHVNC Remote Access Trojan (RAT) that steals credentials and session tokens from various browser extensions and standalone applications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137358</guid>
+      <pubDate>Wed, 21 May 2025 09:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Phishing Attack Uses AES &amp; Malicious npm Packages to Office 365 Login Credentials</title>
+      <link>https://gbhackers.com/new-phishing-attack-uses-aes-malicious-npm-packages/</link>
+      <description>A highly sophisticated phishing campaign targeting Microsoft Office 365 (O365) credentials was uncovered by Fortra's Suspicious Email Analysis team. The attack employed modern technologies and developer infrastructure, including AES encryption, malicious npm packages, and content delivery networks (CDNs), to deliver a counterfeit O365 login page designed to steal credentials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137312</guid>
+      <pubDate>Wed, 21 May 2025 08:50:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kettering Health Experiences System-Wide Outage Due to Ransomware Attack</title>
+      <link>https://gbhackers.com/kettering-health-experiences-system-wide-outage/</link>
+      <description>A ransomware attack has hit Kettering Health, a major healthcare provider, causing a system-wide technology outage that has severely limited access to critical patient care systems. The attack is part of a troubling trend of cyber attacks targeting healthcare institutions, which are particularly vulnerable due to their critical need for immediate access to patient information and the life-or-death nature of their services.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137342</guid>
+      <pubDate>Wed, 21 May 2025 08:44:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Lexmark Printers Enables Remote Code Execution</title>
+      <link>https://gbhackers.com/critical-vulnerability-in-lexmark-printers/</link>
+      <description>Vulnerable Product: Lexmark; CVE(s): CVE-2025-1127; Summary: The vulnerability is a critical security flaw affecting over 150 Lexmark printer and multifunction device models. It enables remote attackers to execute malicious code on unpatched systems through a combination of path traversal and concurrent execution flaws, with the potential for full system compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137322</guid>
+      <pubDate>Wed, 21 May 2025 08:41:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attaxion Leads the Way as First EASM Platform to Integrate ENISA’s EU Vulnerability Database (EUVD)</title>
+      <link>https://gbhackers.com/attaxion-becomes-the-first-easm-platform-to-integrate-enisas-eu-vulnerability-database-euvd/</link>
+      <description>The article announces the integration of the European Vulnerability Database (EUVD) into Attaxion's external attack surface management platform. This integration provides broader coverage and context for vulnerability prioritization, including EUVD IDs, exploitation confirmation, affected products, and references.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137374</guid>
+      <pubDate>Wed, 21 May 2025 08:19:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager</title>
+      <link>https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html</link>
+      <description>Google has announced a new feature in its Chrome browser that enables automated password changes when compromised credentials are detected during sign-in. The feature aims to reduce friction and help users keep their accounts secure without requiring manual intervention. Website owners can support this feature by adopting specific methods, such as using well-known URLs for password change forms.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html</guid>
+      <pubDate>Wed, 21 May 2025 07:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Palo Alto GlobalProtect Gateway &amp; Portal Enables Remote Code Execution</title>
+      <link>https://gbhackers.com/critical-vulnerability-in-palo-alto-globalprotect-gateway-portal/</link>
+      <description>Vulnerable Product: Palo Alto Networks; CVE(s): CVE-2025-0133; Summary: A reflected cross-site scripting (XSS) vulnerability in Palo Alto Networks' GlobalProtect gateway and portal features allows attackers to execute malicious JavaScript code in authenticated users' browsers, posing risks of phishing and credential theft, particularly for organizations using Clientless VPN.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137308</guid>
+      <pubDate>Wed, 21 May 2025 06:55:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hazy Hawk Targets DNS Vulnerabilities to Hijack Cloud Resources and Spread Malware</title>
+      <link>https://gbhackers.com/hazy-hawk-targets-dns-vulnerabilities/</link>
+      <description>Sophisticated threat actor "Hazy Hawk" has been exploiting DNS misconfigurations since at least December 2023 to hijack abandoned cloud resources from high-profile organizations. The actor utilizes these hijacked subdomains to distribute scams and malware, leveraging the inherent trustworthiness of the compromised domains to evade security controls and achieve higher rankings in search results.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137293</guid>
+      <pubDate>Wed, 21 May 2025 06:49:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>PowerSchool hacker pleads guilty to student data extortion scheme</title>
+      <link>https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/</link>
+      <description>This article is about a cyberattack on PowerSchool that resulted in the theft of personal data for millions of students and teachers. The attacker, Matthew D. Lane, 19, has agreed to plead guilty to four federal charges related to the attack, including cyber extortion conspiracy, unauthorized access to protected computers, and aggravated identity theft.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/</guid>
+      <pubDate>Tue, 20 May 2025 23:27:17 +0000</pubDate>
+    </item>
     <item>
       <title>KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS</title>
       <link>https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/</link>
@@ -266,99 +357,6 @@
       <description>Vulnerable Product: National Instruments Circuit Design Suite; CVE(s): CVE-2025-30417, CVE-2025-30418, CVE-2025-30419, CVE-2025-30420; Summary: The Circuit Design Suite contains multiple vulnerabilities that could allow an attacker to disclose information or execute arbitrary code. Exploitation requires tricking a user into opening a specially crafted SYM file.</description>
       <guid isPermaLink="false">/node/23407</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Exploits SAP Zero-Day Vulnerability Weeks Ahead of Public Disclosure</title>
-      <link>https://gbhackers.com/qilin-exploits-sap-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: SAP NetWeaver Visual Composer; CVE(s): CVE-2025-31324; Summary: A critical zero-day vulnerability in SAP NetWeaver Visual Composer was actively exploited nearly three weeks before its public disclosure. The flaw lacks proper authentication and authorization controls, enabling unauthenticated attackers to upload malicious files like web shells, leading to potential remote code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137125</guid>
-      <pubDate>Tue, 20 May 2025 11:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Plugin Flaw Puts 22,000 Websites at Risk of Cyber Attacks</title>
-      <link>https://gbhackers.com/wordpress-plugin-flaw-puts-22000-websites/</link>
-      <description>Vulnerable Product: StylemixThemes Motors WordPress Theme; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme contains a critical Privilege Escalation vulnerability (CVE-2025-4322) that allows unauthenticated attackers to reset the password of any user, including administrators, thereby gaining full control over affected websites.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137099</guid>
-      <pubDate>Tue, 20 May 2025 11:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Crowded Battle: Key Insights from the 2025 State of Pentesting Report</title>
-      <link>https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html</link>
-      <description>The article presents findings from the 2025 State of Pentesting Report, highlighting the strategies, tactics, and tools used by CISOs to cope with security alerts, breaches, and growing cyber risks. Key takeaways include the growth of software-based pentesting, increasing trust in automated tools, and the influence of cyber insurance providers on enterprise security priorities.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html</guid>
-      <pubDate>Tue, 20 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DPRK IT Workers Impersonate Polish and US Nationals to Secure Full-Stack Developer Positions</title>
-      <link>https://gbhackers.com/dprk-it-workers-impersonate-polish-and-us-nationals/</link>
-      <description>A sophisticated employment scam network potentially affiliated with the Democratic People's Republic of Korea (DPRK) targets remote engineering and full-stack blockchain developer roles by impersonating Polish and US nationals. The threat actors employ deceptive tactics, including the use of GitHub accounts, portfolio websites, and freelancer profiles to deceive companies into hiring them for full-time or project-based freelance gigs.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137070</guid>
-      <pubDate>Tue, 20 May 2025 10:35:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Multer Vulnerability Puts Millions of Node.js Apps at Risk</title>
-      <link>https://gbhackers.com/critical-multer-vulnerability/</link>
-      <description>Vulnerable Product: npm Multer; CVE(s): None; Summary: All versions of Multer from 1.4.4-lts.1 to but not including 2.0.0 are vulnerable to denial-of-service attacks through maliciously crafted multi-part upload requests, potentially crashing Node.js processes and taking down entire web services.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137064</guid>
-      <pubDate>Tue, 20 May 2025 10:23:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram Ban Bypass, AI Identity Forgery, and Nova Ransomware Affiliate Drive</title>
-      <link>https://socradar.io/instagram-ban-bypass-ai-identity-forgery-and-nova-ransomware-affiliate-drive/</link>
-      <description>Threat actors are offering various malicious services on underground forums, including an alleged affiliate program for Nova ransomware, deepfake tools for identity manipulation, and databases containing credit card information and SIM registration data. Additionally, a service is being offered to reverse Instagram bans, highlighting the commoditization of platform abuse.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060074</guid>
-      <pubDate>Tue, 20 May 2025 10:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Duping Cloud Functions: An emerging serverless attack vector</title>
-      <link>https://blog.talosintelligence.com/duping-cloud-functions-an-emerging-serverless-attack-vector/</link>
-      <description>Vulnerable Product: Google Cloud Platform (GCP) Cloud Functions; CVE(s): None; Summary: A vulnerability was discovered in GCP's Cloud Functions serverless compute service and its Cloud Build continuous integration and continuous delivery pipeline service. An attacker could create or update a cloud function to escalate privileges to the default Cloud Build service account. The vulnerability has since been partially addressed by Google.
-
-FYSA: Cisco Talos' research demonstrated that the technique used to exploit the GCP Cloud Functions vulnerability could be adapted to perform other malicious activities in other cloud-based environments, such as AWS Lambda and Azure Functions. Threat actors can use this method to gather valuable enumeration information about network devices, CPU scheduling, control group container IDs, and more.</description>
-      <guid isPermaLink="false">682b779afed2140001359170</guid>
-      <pubDate>Tue, 20 May 2025 10:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Privilege Escalation Vulnerability Let Attackers Gain Admin Access in Under 300 Milliseconds</title>
-      <link>https://gbhackers.com/windows-privilege-escalation-flaw-allows-attackers/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): CVE-2025-24076; Summary: A critical vulnerability in Windows 11 allowed attackers to escalate privileges from a standard user to system-level administrator in just 300 milliseconds through DLL hijacking. The flaw leveraged a Dynamic-link Library (DLL) hijacking technique within Windows 11's "Mobile devices" feature, enabling attackers to execute arbitrary code with system privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137032</guid>
-      <pubDate>Tue, 20 May 2025 09:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization</title>
-      <link>https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html</link>
-      <description>No vulnerabilities mentioned in the article; instead, it discusses threat actors and their tactics, techniques, and procedures (TTPs) used to target organizations.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html</guid>
-      <pubDate>Tue, 20 May 2025 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>O2 VoLTE Flaw Allows Tracking of Customers’ Locations Through Phone Calls</title>
-      <link>https://gbhackers.com/o2-volte-flaw-allows-tracking-of-customers-locations/</link>
-      <description>Vulnerable Product: O2 UK; CVE(s): None; Summary: The VoLTE implementation in O2 UK's network contained a significant privacy vulnerability that exposed precise location data of call recipients. The vulnerability allowed any caller to access the recipient's IMSI and IMEI numbers, as well as cell tower identification data, which could be used to geolocate the recipient with minimal technical expertise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136985</guid>
-      <pubDate>Tue, 20 May 2025 09:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Issues Urgent Patch to Resolve BitLocker Recovery Problem</title>
-      <link>https://gbhackers.com/microsoft-issues-urgent-patch-to-resolve-bitlocker/</link>
-      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: A critical issue affecting Windows 10 devices with specific Intel processors causes unexpected system failures and forces users to enter BitLocker recovery keys. The issue was introduced in the May 13, 2025 security update and is fixed by the emergency update KB5061768, which addresses a severe problem impacting devices with Intel Trusted Execution Technology (TXT) enabled on 10th generation or later Intel vPro processors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136969</guid>
-      <pubDate>Tue, 20 May 2025 09:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Package in Koishi Chatbots Steals Sensitive Data in Real Time</title>
-      <link>https://gbhackers.com/malicious-npm-package-in-koishi-chatbots/</link>
-      <description>Vulnerable Product: Koishi; CVE(s): None; Summary: The koishi-plugin-pinhaofa plugin for the Koishi chatbot framework contains a data-exfiltration backdoor that scans messages for eight-character hexadecimal strings and silently forwards sensitive data to a hardcoded QQ account, allowing real-time data theft.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137002</guid>
-      <pubDate>Tue, 20 May 2025 08:55:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse</title>
-      <link>https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</link>
-      <description>The article discusses two separate cybersecurity threats. The first is RedisRaider, a Linux cryptojacking campaign targeting publicly accessible Redis servers. The attackers use a bespoke scanner to identify vulnerable systems and inject malicious cron jobs using Redis's SET command. The end goal is to drop an XMRig miner on compromised systems. The second threat is a targeted campaign exploiting legacy authentication protocols in Microsoft Entra ID, bypassing defenses like MFA and Conditional Access.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</guid>
-      <pubDate>Tue, 20 May 2025 08:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
