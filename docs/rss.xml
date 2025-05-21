@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 10:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 11:02:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cellcom Confirms Cybersecurity Breach After Network Failure</title>
+      <link>https://gbhackers.com/cellcom-confirms-cybersecurity-breach/</link>
+      <description>The article reports a cyberattack on Cellcom/Nsight's network infrastructure, causing a five-day service disruption. The company confirmed the incident and assured customers that sensitive personal information remains secure. The attack did not compromise customer data repositories.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137500</guid>
+      <pubDate>Wed, 21 May 2025 10:51:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit Internal Data Leak Reveals Payload Creation Methods and Ransom Demands</title>
+      <link>https://gbhackers.com/lockbit-internal-data-leak-reveals-payload/</link>
+      <description>This article reveals a major data breach of the LockBit ransomware group's operations, exposing internal processes and sensitive data. The leak includes details on ransomware payload creation, negotiation tactics with victims, and configuration data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137506</guid>
+      <pubDate>Wed, 21 May 2025 10:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marks &amp; Spencer faces $402 million profit hit after cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/</link>
+      <description>Marks &amp; Spencer, a British retailer, is bracing for a potential profit hit of up to £300 million ($402 million) following a recent cyberattack that led to widespread operational and sales disruptions. The company's online retail systems are still disabled, and the disruptions are expected to last at least until July. The attack was linked to the Scattered Spider, a collective of cybercriminals known for breaching high-profile organizations worldwide.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/</guid>
+      <pubDate>Wed, 21 May 2025 10:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 100 Malicious Chrome Extensions Exploiting Users to Steal Login Credentials and Execute Remote Code</title>
+      <link>https://gbhackers.com/over-100-malicious-chrome-extensions-exploiting-users/</link>
+      <description>A network of over 100 malicious Chrome extensions has been discovered, stealing login credentials and executing unauthorized remote code. The extensions inject harmful scripts into the browser environment, harvesting critical data and exploiting vulnerabilities to establish backdoor access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137460</guid>
+      <pubDate>Wed, 21 May 2025 10:02:17 +0000</pubDate>
+    </item>
     <item>
       <title>Ivanti EPMM 0-Day RCE Vulnerability Under Active Attack</title>
       <link>https://gbhackers.com/ivanti-epmm-0-day-rce-vulnerability/</link>
@@ -42,6 +70,13 @@
       <description>The article reports on a sophisticated campaign by hostile actors posing as Kling AI, an AI-powered picture and video synthesis platform. The attackers use counterfeit Facebook pages and paid advertisements to lure users into downloading malicious Windows executables disguised with double extensions and Hangul Filler characters, which execute anti-analysis tricks and deploy a PureHVNC Remote Access Trojan (RAT) that steals credentials and session tokens from various browser extensions and standalone applications.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137358</guid>
       <pubDate>Wed, 21 May 2025 09:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps</title>
+      <link>https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html</link>
+      <description>A new campaign has been discovered that employs malicious JavaScript injections on mobile devices to redirect site visitors to a Chinese adult-content Progressive Web App (PWA) scam, aiming to bypass basic browser protections and retain users longer. The attack only triggers on mobile devices and is designed to evade detection mechanisms.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html</guid>
+      <pubDate>Wed, 21 May 2025 09:01:00 +0000</pubDate>
     </item>
     <item>
       <title>New Phishing Attack Uses AES &amp; Malicious npm Packages to Office 365 Login Credentials</title>
@@ -321,41 +356,6 @@
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-06</link>
       <description>Vulnerable Product: Schneider Electric PrismaSeT Active - Wireless Panel Server; CVE(s): CVE-2023-4041; Summary: A buffer copy without checking size of input (classic buffer overflow) vulnerability in the Silicon Labs Gecko Bootloader on ARM allows code injection, authentication bypass. Successful exploitation could result in unauthorized code execution and unavailability of the PrismaSeT Active - Wireless Panel Server for voltage loss monitoring.</description>
       <guid isPermaLink="false">/node/23411</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Modicon Controllers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-08</link>
-      <description>Vulnerable Product: Schneider Electric Modicon Controllers M241/M251/M258/LMC058; CVE(s): CVE-2025-2875; Summary: The vulnerability, CWE-610, is an externally controlled reference to a resource in another sphere, which can cause a loss of confidentiality when an unauthenticated attacker manipulates a controller's webserver URL to access resources. Exploitation could occur remotely with low attack complexity.</description>
-      <guid isPermaLink="false">/node/23413</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Thirteen Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/20/cisa-releases-thirteen-industrial-control-systems-advisories</link>
-      <description>CISA released 13 Industrial Control Systems (ICS) advisories on May 20, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories cover various products from vendors such as ICONICS, Mitsubishi Electric, Siemens, Schneider Electric, and AutomationDirect.</description>
-      <guid isPermaLink="false">/node/23417</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Galaxy VS, Galaxy VL, Galaxy VXL</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-07</link>
-      <description>Vulnerable Product: Schneider Electric Galaxy VS, Galaxy VL, Galaxy VXL; CVE(s): CVE-2025-32433; Summary: A missing authentication vulnerability in the SSH server of affected Schneider Electric products allows an attacker to perform unauthenticated remote code execution (RCE) with a low attack complexity. Successful exploitation could grant unauthorized access and execute arbitrary commands without valid credentials.</description>
-      <guid isPermaLink="false">/node/23412</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Siveillance Video</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-05</link>
-      <description>Vulnerable Product: Siemens Siveillance Video; CVE(s): CVE-2025-1688; Summary: Missing encryption of sensitive data in Siemens Siveillance Video allows removal of password protection from system configuration files, affecting backup data sets. Successful exploitation has a high attack complexity and may reset system configuration passwords.</description>
-      <guid isPermaLink="false">/node/23410</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>National Instruments Circuit Design Suite</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-02</link>
-      <description>Vulnerable Product: National Instruments Circuit Design Suite; CVE(s): CVE-2025-30417, CVE-2025-30418, CVE-2025-30419, CVE-2025-30420; Summary: The Circuit Design Suite contains multiple vulnerabilities that could allow an attacker to disclose information or execute arbitrary code. Exploitation requires tricking a user into opening a specially crafted SYM file.</description>
-      <guid isPermaLink="false">/node/23407</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
