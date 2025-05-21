@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 15:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 16:02:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Scan Uncovers 150K Industrial Systems Worldwide Vulnerable to Cyberattacks</title>
+      <link>https://gbhackers.com/new-scan-uncovers-150k-industrial-systems/</link>
+      <description>The article reports that approximately 150,000 industrial control systems (ICS) worldwide are directly accessible on the public internet, posing severe risks of catastrophic cyberattacks. The study utilized advanced application-layer scanning to identify ICS devices, revealing a large number of exposed systems globally, with many not designed with robust security measures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137582</guid>
+      <pubDate>Wed, 21 May 2025 15:57:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Introduces Enhanced Administrator Protection to Strengthen Security Against Elevated Privilege Attacks</title>
+      <link>https://gbhackers.com/windows-11-introduces-enhanced-administrator-protection/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The article discusses the introduction of Administrator Protection, a security feature designed to safeguard systems against privilege escalation attacks. This feature creates a security boundary around administrative operations by implementing a hidden system-managed profile-separated local user account that generates isolated admin tokens, preventing user-level malware from compromising code running in elevated contexts and eliminating auto-elevation functionality.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137592</guid>
+      <pubDate>Wed, 21 May 2025 15:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs</title>
+      <link>https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</link>
+      <description>Vulnerable Product: Google Chrome Web Store; CVE(s): None; Summary: A malicious campaign has been discovered on the Google Chrome Web Store, featuring over 100 fake browser extensions that mimic legitimate tools to steal browser cookies and execute remote scripts. The extensions offer some functionality but also connect to threat actor infrastructure to steal user information or receive commands to execute.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</guid>
+      <pubDate>Wed, 21 May 2025 15:13:34 +0000</pubDate>
+    </item>
     <item>
       <title>ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows</title>
       <link>https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</link>
@@ -354,27 +375,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>The article discusses social engineering attacks on service desk agents, where attackers use tactics such as pretexting, vishing, and building urgency and trust to gain initial access. This is often followed by privilege escalation or deploying ransomware. The article highlights the importance of verifying identities and implementing rigorous identity checks to prevent these attacks.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/</guid>
       <pubDate>Tue, 20 May 2025 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Abuse TikTok and Instagram APIs to Verify Stolen Account Credentials</title>
-      <link>https://gbhackers.com/hackers-abuse-tiktok-and-instagram-apis/</link>
-      <description>Vulnerable Product: PyPI (Python Package Index); CVE(s): None; Summary: Cybercriminals are leveraging the PyPI to distribute malicious tools designed to exploit TikTok and Instagram APIs for verifying stolen account credentials. These packages, including checker-SaGaF, steinlurks, and sinnercore, automate the process of validating emails and usernames against social media platforms, posing significant supply chain security risks due to their unauthorized network access and malicious behavior.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137204</guid>
-      <pubDate>Tue, 20 May 2025 13:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Regeneron to Buy 23andMe for $256M Amid Growing Data Privacy Concerns</title>
-      <link>https://gbhackers.com/regeneron-to-buy-23andme-for-256m-amid/</link>
-      <description>The article discusses the acquisition of 23andMe by Regeneron Pharmaceuticals, with concerns about the fate of sensitive genetic information collected from millions of customers. Regeneron has emphasized its commitment to protecting customer data and pledged to comply with existing privacy policies and applicable laws. The acquisition is seen as a significant consolidation in the genetics industry, highlighting the value of large-scale genetic databases in modern drug development.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137206</guid>
-      <pubDate>Tue, 20 May 2025 13:51:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: Aquatic Panda</title>
-      <link>https://socradar.io/dark-web-profile-aquatic-panda/</link>
-      <description>Aquatic Panda is a suspected China-based threat group focused on intelligence gathering and industrial espionage. The group operates within a wider network of government-linked teams and private contractors, reflecting China's modern cyber strategy.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060086</guid>
-      <pubDate>Tue, 20 May 2025 13:43:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
