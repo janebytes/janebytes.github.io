@@ -6,8 +6,143 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 17:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 18:07:17 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-291: (Pwn2Own) Mozilla Firefox IonMonkey JIT Compiler Integer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-291/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The IonMonkey JIT compiler in Mozilla Firefox contains an integer overflow remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-27172</guid>
+      <pubDate>Wed, 21 May 2025 18:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-292: (Pwn2Own) Mozilla Firefox SpiderMonkey Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-292/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Mozilla Firefox. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists within the SpiderMonkey engine due to lack of proper validation of user-supplied data, resulting in a write past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-27202</guid>
+      <pubDate>Wed, 21 May 2025 18:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-293: Microsoft Windows Installer Service Link Following Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-293/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29837; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by creating a symbolic link within the Windows Installer service, granting read access to arbitrary files and potentially disclosing stored credentials. An attacker must first obtain low-privileged code execution to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-26153</guid>
+      <pubDate>Wed, 21 May 2025 18:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-294: Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-294/</link>
+      <description>Vulnerable Product: Microsoft PC Manager; CVE(s): CVE-2025-29975; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft PC Manager by creating a symbolic link and abusing the MSPCManagerService, allowing deletion of arbitrary files. An attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be leveraged to escalate privileges and execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26137</guid>
+      <pubDate>Wed, 21 May 2025 18:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-295: Trend Micro Apex Central widget getObjWGFServiceApiByApiName Local File Inclusion Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-295/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47865; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central by leveraging a local file inclusion remote code execution flaw in the getObjWGFServiceApiByApiName function, requiring authentication to exploit.</description>
+      <guid isPermaLink="false">ZDI-CAN-24938</guid>
+      <pubDate>Wed, 21 May 2025 18:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-296: Trend Micro Apex Central modTMCM Unrestricted File Upload Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-296/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47866; Summary: This vulnerability allows remote attackers to upload arbitrary files on affected installations of Trend Micro Apex Central, requiring authentication to exploit. The issue stems from a lack of proper validation of user-supplied data, enabling the upload of arbitrary files and potentially allowing code execution in the context of IUSR.</description>
+      <guid isPermaLink="false">ZDI-CAN-25331</guid>
+      <pubDate>Wed, 21 May 2025 18:05:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-297: Trend Micro Apex Central widget getBlock Local File Inclusion Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-297/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47867; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central, requiring authentication. The issue stems from the lack of proper validation of user-supplied data prior to passing it to a PHP include function, which can be exploited to execute code in the context of IUSR.</description>
+      <guid isPermaLink="false">ZDI-CAN-24936</guid>
+      <pubDate>Wed, 21 May 2025 18:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-298: Apple macOS MP4 File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-298/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31233; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS, requiring user interaction. It exists within the parsing of MP4 files due to lack of proper validation of user-supplied data, resulting in memory corruption.</description>
+      <guid isPermaLink="false">ZDI-CAN-26826</guid>
+      <pubDate>Wed, 21 May 2025 18:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-299: Apple macOS acv2 Codec Converter Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-299/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31208; Summary: The acv2 codec converter in Apple macOS allows remote attackers to disclose sensitive information through an out-of-bounds read information disclosure vulnerability. User interaction is required, and the issue stems from a lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26783</guid>
+      <pubDate>Wed, 21 May 2025 18:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-300: Apple macOS PDF Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-300/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31209; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. The flaw exists within the parsing of PDF files due to lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26714</guid>
+      <pubDate>Wed, 21 May 2025 18:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-301: Apple Safari Scrollbar Animation Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-301/</link>
+      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-31238; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari, requiring user interaction. The flaw exists in the handling of scrollbar animation due to a lack of validating an object's existence before performing operations on it.</description>
+      <guid isPermaLink="false">ZDI-CAN-26150</guid>
+      <pubDate>Wed, 21 May 2025 18:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-302: Apple macOS CoreMedia Framework Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-302/</link>
+      <description>Vulnerable Product: Apple macOS CoreMedia Framework; CVE(s): CVE-2025-31239; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. User interaction is required, and the specific flaw exists within the CoreMedia framework due to a lack of proper validation of user-supplied data, resulting in memory corruption.</description>
+      <guid isPermaLink="false">ZDI-CAN-26650</guid>
+      <pubDate>Wed, 21 May 2025 18:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-303: Apple Safari SandboxBroker ZIP File Processing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-303/</link>
+      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-24222; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple Safari by reading past the end of an allocated buffer when processing ZIP files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26148</guid>
+      <pubDate>Wed, 21 May 2025 18:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-304: Apple macOS JPEG Image Decoding Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-304/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31251; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS by exploiting an out-of-bounds write in the JPEG image decoding functionality. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26603</guid>
+      <pubDate>Wed, 21 May 2025 18:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-305: Apple XNU kernel vm_map Race Condition Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-305/</link>
+      <description>Vulnerable Product: Apple XNU kernel; CVE(s): CVE-2025-31219; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Apple macOS. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the handling of virtual memory allocations in the macOS kernel.</description>
+      <guid isPermaLink="false">ZDI-CAN-24156</guid>
+      <pubDate>Wed, 21 May 2025 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Target Mobile Users Using PWA JavaScript to Bypass Browser Security</title>
+      <link>https://gbhackers.com/hackers-target-mobile-users-using-pwa-javascript/</link>
+      <description>A new injection campaign targets mobile users through malicious third-party JavaScript, delivering a Chinese adult-content Progressive Web App (PWA) scam. The attack injects scripts into compromised websites, filtering out desktop users and exclusively targeting mobile devices to deliver fake adult content zones and push malware downloads for Android and iOS devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137642</guid>
+      <pubDate>Wed, 21 May 2025 17:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>3AM ransomware uses spoofed IT calls, email bombing to breach networks</title>
+      <link>https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</link>
+      <description>The article describes a targeted ransomware attack campaign conducted by a 3AM ransomware affiliate using email bombing and spoofed IT support calls to socially engineer employees into giving credentials for remote access. The attackers used tactics such as vishing via Microsoft Teams, Quick Assist abuse, and real phone phishing to gain access to corporate systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</guid>
+      <pubDate>Wed, 21 May 2025 17:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docker Zombie Malware Infects Containers for Crypto Mining and Self-Replication</title>
+      <link>https://gbhackers.com/docker-zombie-malware-infects-containers/</link>
+      <description>Vulnerable Product: Docker; CVE(s): None; Summary: The article describes a novel malware campaign that targets containerized infrastructures by exploiting insecurely exposed Docker APIs. The attack spreads malicious containers and mines Dero cryptocurrency using self-replicating propagation mechanism, transforming compromised containers into "zombies" that mine cryptocurrency and infect new victims.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137633</guid>
+      <pubDate>Wed, 21 May 2025 17:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Masquerade as Organizations to Steal Payroll Logins and Redirect Payments from Employees</title>
+      <link>https://gbhackers.com/hackers-masquerade-as-organizations-to-steal-payroll-logins/</link>
+      <description>A sophisticated search engine optimization (SEO) poisoning scheme has been deployed to orchestrate payroll fraud against a manufacturing sector customer. The attack involves creating fake authentication portals that mirror legitimate organizational login pages, manipulating search engine results to rank malicious sites at the top, and exploiting mobile-specific SEO manipulation to redirect users to phishing pages mimicking Microsoft login portals.
+
+Note: There is no specific product or software mentioned in the article, but rather a technique used by attackers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137623</guid>
+      <pubDate>Wed, 21 May 2025 17:12:27 +0000</pubDate>
+    </item>
     <item>
       <title>PupkinStealer Exploits Web Browser Passwords and App Tokens to Exfiltrate Data Through Telegram</title>
       <link>https://gbhackers.com/pupkinstealer-exploits-web-browser-passwords/</link>
@@ -107,6 +242,13 @@
 FYSA: Vietnamese threat actors are using Facebook malvertising techniques to distribute stealer malware, leveraging the popularity of generative AI tools as lures. The campaign impersonated Kling AI through fake ads and deceptive websites, demonstrating social engineering tactics combined with advanced malware.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</guid>
       <pubDate>Wed, 21 May 2025 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Target U.S. Critical Infrastructure with LummaC2 Malware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/threat-actors-target-us-critical-infrastructure-lummac2-malware</link>
+      <description>The joint Cybersecurity Advisory by CISA and the FBI details the tactics, techniques, and procedures, as well as indicators of compromise (IOCs), linked to threat actors deploying LummaC2 malware. This malware poses a serious threat capable of infiltrating networks and exfiltrating sensitive information across U.S. critical infrastructure sectors. The advisory urges organizations to review it and implement recommended mitigations to reduce exposure and impact.</description>
+      <guid isPermaLink="false">/node/23422</guid>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations</title>
@@ -235,146 +377,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>The article reports on a sophisticated campaign by hostile actors posing as Kling AI, an AI-powered picture and video synthesis platform. The attackers use counterfeit Facebook pages and paid advertisements to lure users into downloading malicious Windows executables disguised with double extensions and Hangul Filler characters, which execute anti-analysis tricks and deploy a PureHVNC Remote Access Trojan (RAT) that steals credentials and session tokens from various browser extensions and standalone applications.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137358</guid>
       <pubDate>Wed, 21 May 2025 09:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps</title>
-      <link>https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html</link>
-      <description>A new campaign has been discovered that employs malicious JavaScript injections on mobile devices to redirect site visitors to a Chinese adult-content Progressive Web App (PWA) scam, aiming to bypass basic browser protections and retain users longer. The attack only triggers on mobile devices and is designed to evade detection mechanisms.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html</guid>
-      <pubDate>Wed, 21 May 2025 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phishing Attack Uses AES &amp; Malicious npm Packages to Office 365 Login Credentials</title>
-      <link>https://gbhackers.com/new-phishing-attack-uses-aes-malicious-npm-packages/</link>
-      <description>A highly sophisticated phishing campaign targeting Microsoft Office 365 (O365) credentials was uncovered by Fortra's Suspicious Email Analysis team. The attack employed modern technologies and developer infrastructure, including AES encryption, malicious npm packages, and content delivery networks (CDNs), to deliver a counterfeit O365 login page designed to steal credentials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137312</guid>
-      <pubDate>Wed, 21 May 2025 08:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kettering Health Experiences System-Wide Outage Due to Ransomware Attack</title>
-      <link>https://gbhackers.com/kettering-health-experiences-system-wide-outage/</link>
-      <description>A ransomware attack has hit Kettering Health, a major healthcare provider, causing a system-wide technology outage that has severely limited access to critical patient care systems. The attack is part of a troubling trend of cyber attacks targeting healthcare institutions, which are particularly vulnerable due to their critical need for immediate access to patient information and the life-or-death nature of their services.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137342</guid>
-      <pubDate>Wed, 21 May 2025 08:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Lexmark Printers Enables Remote Code Execution</title>
-      <link>https://gbhackers.com/critical-vulnerability-in-lexmark-printers/</link>
-      <description>Vulnerable Product: Lexmark; CVE(s): CVE-2025-1127; Summary: The vulnerability is a critical security flaw affecting over 150 Lexmark printer and multifunction device models. It enables remote attackers to execute malicious code on unpatched systems through a combination of path traversal and concurrent execution flaws, with the potential for full system compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137322</guid>
-      <pubDate>Wed, 21 May 2025 08:41:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attaxion Leads the Way as First EASM Platform to Integrate ENISA’s EU Vulnerability Database (EUVD)</title>
-      <link>https://gbhackers.com/attaxion-becomes-the-first-easm-platform-to-integrate-enisas-eu-vulnerability-database-euvd/</link>
-      <description>The article announces the integration of the European Vulnerability Database (EUVD) into Attaxion's external attack surface management platform. This integration provides broader coverage and context for vulnerability prioritization, including EUVD IDs, exploitation confirmation, affected products, and references.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137374</guid>
-      <pubDate>Wed, 21 May 2025 08:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager</title>
-      <link>https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html</link>
-      <description>Google has announced a new feature in its Chrome browser that enables automated password changes when compromised credentials are detected during sign-in. The feature aims to reduce friction and help users keep their accounts secure without requiring manual intervention. Website owners can support this feature by adopting specific methods, such as using well-known URLs for password change forms.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html</guid>
-      <pubDate>Wed, 21 May 2025 07:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Palo Alto GlobalProtect Gateway &amp; Portal Enables Remote Code Execution</title>
-      <link>https://gbhackers.com/critical-vulnerability-in-palo-alto-globalprotect-gateway-portal/</link>
-      <description>Vulnerable Product: Palo Alto Networks; CVE(s): CVE-2025-0133; Summary: A reflected cross-site scripting (XSS) vulnerability in Palo Alto Networks' GlobalProtect gateway and portal features allows attackers to execute malicious JavaScript code in authenticated users' browsers, posing risks of phishing and credential theft, particularly for organizations using Clientless VPN.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137308</guid>
-      <pubDate>Wed, 21 May 2025 06:55:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hazy Hawk Targets DNS Vulnerabilities to Hijack Cloud Resources and Spread Malware</title>
-      <link>https://gbhackers.com/hazy-hawk-targets-dns-vulnerabilities/</link>
-      <description>Sophisticated threat actor "Hazy Hawk" has been exploiting DNS misconfigurations since at least December 2023 to hijack abandoned cloud resources from high-profile organizations. The actor utilizes these hijacked subdomains to distribute scams and malware, leveraging the inherent trustworthiness of the compromised domains to evade security controls and achieve higher rankings in search results.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137293</guid>
-      <pubDate>Wed, 21 May 2025 06:49:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>PowerSchool hacker pleads guilty to student data extortion scheme</title>
-      <link>https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/</link>
-      <description>This article is about a cyberattack on PowerSchool that resulted in the theft of personal data for millions of students and teachers. The attacker, Matthew D. Lane, 19, has agreed to plead guilty to four federal charges related to the attack, including cyber extortion conspiracy, unauthorized access to protected computers, and aggravated identity theft.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/</guid>
-      <pubDate>Tue, 20 May 2025 23:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS</title>
-      <link>https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/</link>
-      <description>A massive distributed denial-of-service (DDoS) attack of over 6.3 terabits per second was launched against KrebsOnSecurity, with the attacker believed to be testing a new Internet of Things (IoT) botnet capable of launching crippling digital assaults. The botnet, known as Aisuru, is reportedly controlled by a 21-year-old individual claiming to reside in Brazil who has been peddling access to their DDoS machine on public Telegram chat channels.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71303</guid>
-      <pubDate>Tue, 20 May 2025 21:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile carrier Cellcom confirms cyberattack behind extended outages</title>
-      <link>https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/</link>
-      <description>Cellcom, a Wisconsin wireless provider, has confirmed that a cyberattack is responsible for the widespread service outage and disruptions that began on May 14, 2025. The attack affected voice and SMS services, leaving customers unable to make phone calls or send text messages. Cellcom's CEO has assured that the company has protocols in place for such incidents and is working to restore full service by the end of the week.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/</guid>
-      <pubDate>Tue, 20 May 2025 20:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Premium WordPress 'Motors' theme vulnerable to admin takeover attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/</link>
-      <description>Vulnerable Product: StylemixThemes Motors; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme contains a privilege escalation vulnerability that allows unauthenticated attackers to hijack administrator accounts and take complete control of websites. This flaw affects all versions up to 5.6.67, and exploitation enables attackers to implant malware, exfiltrate sensitive data, or redirect visitors to dangerous sites.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/</guid>
-      <pubDate>Tue, 20 May 2025 19:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>VanHelsing ransomware builder leaked on hacking forum</title>
-      <link>https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/</link>
-      <description>Vulnerable Product: VanHelsing RaaS; CVE(s): None; Summary: The source code for the VanHelsing ransomware-as-a-service operation's affiliate panel, data leak blog, and Windows encryptor builder was leaked after an old developer tried to sell it on the RAMP cybercrime forum. The leaked code includes the legitimate builder for the Windows encryptor and the source code for the affiliate panel and data leak site, but is incomplete as it does not include the Linux builder or any databases.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/</guid>
-      <pubDate>Tue, 20 May 2025 19:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s how Windows 11 aims to make the world safe in the post-quantum era</title>
-      <link>https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses the security concerns surrounding Post-Quantum Cryptography (PQC) algorithms, specifically the increased key sizes and potential errors introduced into software during the transition away from RSA and Elliptic Curve cryptography.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/</guid>
-      <pubDate>Tue, 20 May 2025 18:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>SK Telecom says malware breach lasted 3 years, impacted 27 million numbers</title>
-      <link>https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/</link>
-      <description>SK Telecom suffered a malware attack that exposed USIM data of 27 million subscribers, including IMSI, USIM authentication keys, network usage data, and SMS/contacts stored in the SIM. The company detected the malware on April 19, 2025, and isolated equipment suspected of being hacked, but initially undetected for nearly three years from June 15, 2022.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/</guid>
-      <pubDate>Tue, 20 May 2025 17:07:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains</title>
-      <link>https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</link>
-      <description>A threat actor known as "Hazy Hawk" is hijacking forgotten DNS CNAME records pointing to abandoned cloud services, using the compromised domains to distribute scams, fake apps, and malicious ads. The attacker's technique involves registering a new cloud resource with the same name as the original one, causing the subdomain to resolve to their new site.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</guid>
-      <pubDate>Tue, 20 May 2025 15:57:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery</title>
-      <link>https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html</link>
-      <description>A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in DNS records. The hijacked domains are used to host URLs that direct users to scams and malware via traffic distribution systems.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html</guid>
-      <pubDate>Tue, 20 May 2025 15:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky APT Group Deploys PowerShell Payloads to Deliver XWorm RAT</title>
-      <link>https://gbhackers.com/kimsuky-apt-group-deploys-powershell-payloads/</link>
-      <description>This article describes a malware campaign orchestrated by the Kimsuky APT group, using PowerShell payloads to deliver the XWorm Remote Access Trojan (RAT). The campaign involves multi-stage attacks, fileless execution, and Living-off-the-Land Binaries and Scripts (LOLBAS) techniques to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137257</guid>
-      <pubDate>Tue, 20 May 2025 15:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads</title>
-      <link>https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html</link>
-      <description>Vulnerable Product: Unknown threat actor; CVE(s): None; Summary: The article describes malicious Chrome Browser extensions created by an unknown threat actor since February 2024. These extensions masquerade as seemingly benign utilities but can exfiltrate data, receive commands, and execute arbitrary code. They also enable credential and cookie theft, session hijacking, ad injection, and phishing via DOM manipulation.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html</guid>
-      <pubDate>Tue, 20 May 2025 15:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>More_Eggs Malware Uses Job Application Emails to Distribute Malicious Payloads</title>
-      <link>https://gbhackers.com/more_eggs-malware-uses-job-application-emails/</link>
-      <description>The article describes the More_Eggs malware, a JavaScript backdoor that exploits human trust through social engineering. It targets HR departments by masquerading as job application emails and uses obfuscated scripts and legitimate system binaries to establish a foothold in targeted environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137245</guid>
-      <pubDate>Tue, 20 May 2025 14:40:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
