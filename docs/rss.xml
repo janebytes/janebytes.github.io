@@ -6,8 +6,68 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 12:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 13:09:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>PowerDNS Vulnerability Allows Attackers to Trigger DoS Attacks Through Malicious TCP Connections</title>
+      <link>https://gbhackers.com/powerdns-vulnerability-let-attacker-trigger-dos-attack/</link>
+      <description>Vulnerable Product: PowerDNS DNSdist; CVE(s): CVE-2025-30193; Summary: The DNSdist load balancer has a vulnerability (CVE-2025-30193) that allows remote attackers to trigger denial of service attacks without authentication, affecting all versions prior to 1.9.10.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137557</guid>
+      <pubDate>Wed, 21 May 2025 12:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>VanHelsing Ransomware Builder Exposed on Hacker Forums</title>
+      <link>https://gbhackers.com/vanhelsing-ransomware-builder-exposed/</link>
+      <description>Vulnerable Product: VanHelsing Ransomware; CVE(s): None; Summary: The source code for the VanHelsing ransomware operation has been leaked publicly due to an internal dispute with a former developer. The leak includes critical components of the ransomware infrastructure, but some elements remain missing, limiting immediate exploitation by opportunistic threat actors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137537</guid>
+      <pubDate>Wed, 21 May 2025 12:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Warns: One-Third of Cyber Attacks Use Advanced Tactics to Steal Login Credentials</title>
+      <link>https://gbhackers.com/ibm-warns-one-third-of-cyber-attacks/</link>
+      <description>The article discusses a trend in cyber intrusions that rely on identity-based attacks, exploiting valid login credentials to breach systems. This trend is driven by the use of generative AI (gen AI) and other sophisticated tools to scale phishing campaigns and harvest credentials through infostealer malware and credential phishing.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137563</guid>
+      <pubDate>Wed, 21 May 2025 12:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>19-Year-Old Hacker Admits Guilt in Major Cyberattack on PowerSchool</title>
+      <link>https://gbhackers.com/hacker-admits-guilt-in-major-cyberattack-on-powerschool/</link>
+      <description>Matthew D. Lane, a 19-year-old Massachusetts college student, has been accused of orchestrating a cyberattack on PowerSchool, a widely used educational software provider, resulting in the theft of confidential data from millions of students and teachers. The attack involved unauthorized access to cloud storage providers and the threat of publishing sensitive information unless a ransom was paid.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137511</guid>
+      <pubDate>Wed, 21 May 2025 12:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims</title>
+      <link>https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</link>
+      <description>Counterfeit Facebook pages and sponsored ads are being used to trick users into downloading malware. The fake websites offer AI-powered image and video generation, but actually download a malicious Windows executable that installs a remote access trojan (RAT) and stealer, which steals sensitive data and exfiltrates it to a command-and-control server.
+
+FYSA: Vietnamese threat actors are using Facebook malvertising techniques to distribute stealer malware, leveraging the popularity of generative AI tools as lures. The campaign impersonated Kling AI through fake ads and deceptive websites, demonstrating social engineering tactics combined with advanced malware.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</guid>
+      <pubDate>Wed, 21 May 2025 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian GRU Targeting Western Logistics Entities and Technology Companies</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a</link>
+      <description>FYSA:
+
+As a cybersecurity analyst, I analyzed the article provided, which appears to be a threat report on GRU unit 26165's tactics and techniques used in malicious activities. The article highlights various indicators of compromise (IoCs), tactics, techniques, and procedures (TTPs) employed by this actor group.
+
+The report discusses multiple aspects of cybersecurity, including:
+
+1. Identity and Access Management: It emphasizes the importance of strong access controls, multi-factor authentication, and account throttling or lockout to prevent credential theft.
+2. Network Security: The article suggests disabling NTLM entirely and migrating to more robust authentication processes like PKI certificate authentication.
+3. IP Camera Security: It provides guidelines for securing IP cameras by ensuring they are currently supported, applying security patches and firmware updates, disabling remote access if unnecessary, and using a VPN for remote connections.
+
+The report also includes several mitigation techniques, such as:
+
+1. Disable Universal Plug and Play (UPnP), Peer-to-Peer (P2P), and Anonymous Visit features on IP cameras and routers.
+2. Turn off other ports/services not in use (e.g., FTP, web interface, etc.).
+3. Configure, tune, and monitor logging if available on the IP camera.
+
+In conclusion, this report is a valuable resource for cybersecurity professionals seeking to understand and mitigate GRU unit 26165's tactics and techniques. It provides actionable guidance on various aspects of network security, identity and access management, and IP camera security.</description>
+      <guid isPermaLink="false">/node/23341</guid>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SideWinder APT Hackers Exploits Legacy Office Vulnerabilities to Deploy Malware Undetected</title>
       <link>https://gbhackers.com/sidewinder-apt-hackers-exploits-legacy-office-vulnerabilities/</link>
@@ -21,6 +81,13 @@
       <description>A healthcare network, Kettering Health, experienced a system-wide technology outage due to a cyberattack, which forced the cancellation of inpatient and outpatient procedures. The attack may have involved ransomware, as Interlock ransomware gang is suspected to be behind the incident.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</guid>
       <pubDate>Wed, 21 May 2025 11:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing CI/CD workflows with Wazuh</title>
+      <link>https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</link>
+      <description>The article discusses the risks associated with Continuous Integration and Continuous Delivery/Deployment (CI/CD) workflows, including supply chain attacks, insecure dependencies, insider threats, lack of visibility, compliance requirements, code and dependency vulnerabilities, container vulnerabilities, and misconfiguration of CI/CD tools. It highlights the importance of integrating security measures into CI/CD pipelines to maintain confidentiality, integrity, and availability.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</guid>
+      <pubDate>Wed, 21 May 2025 11:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Cellcom Confirms Cybersecurity Breach After Network Failure</title>
@@ -308,55 +375,6 @@
       <description>Vulnerable Product: Serviceaide; CVE(s): None; Summary: An improperly secured Elasticsearch database left sensitive information of approximately 480,000 patients exposed for nearly seven weeks. The incident was caused by a misconfigured database managed by Serviceaide, which became publicly accessible on September 19, 2024, and was only discovered on November 5.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137162</guid>
       <pubDate>Tue, 20 May 2025 12:35:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Deploy Bumblebee Malware via Poisoned Bing SEO Results</title>
-      <link>https://gbhackers.com/threat-actors-deploy-bumblebee-malware/</link>
-      <description>The article discusses a cyberattack campaign that uses SEO poisoning to distribute the Bumblebee malware. The attackers create fake download websites mimicking legitimate software packages and optimize their malicious sites to rank at the top of Bing search results. The malware is used as a downloader for additional payloads, making it particularly dangerous in developer environments where privileged access could be leveraged for broader attacks or data theft.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137150</guid>
-      <pubDate>Tue, 20 May 2025 12:23:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Flaw in WordPress Plugin Puts 22,000 Websites at Risk of Cyber Attacks</title>
-      <link>https://gbhackers.com/security-flaw-in-wordpress-plugin-puts-22000-websites/</link>
-      <description>Vulnerable Product: StylemixThemes Motors; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme has an unauthenticated privilege escalation vulnerability that allows attackers to change passwords of any user, including administrators, without requiring prior authentication. This vulnerability, with a critical CVSS rating of 9.8, can be exploited by unauthenticated threat actors to gain complete control over compromised websites, enabling attacks such as uploading malicious files, injecting malware, or redirecting users to phishing sites.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137137</guid>
-      <pubDate>Tue, 20 May 2025 12:05:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical VMware Cloud Foundation Vulnerability Exposes Sensitive Data</title>
-      <link>https://gbhackers.com/critical-vmware-cloud-foundation-vulnerability/</link>
-      <description>Vulnerable Product: Broadcom VMware; CVE(s): CVE-2025-41229, CVE-2025-41230, CVE-2025-41231; Summary: Three significant security vulnerabilities in VMware Cloud Foundation platform allow attackers to gain unauthorized access to sensitive information and internal services. The flaws affect versions 4.5.x and 5.x and require immediate patching as no workarounds are available.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137120</guid>
-      <pubDate>Tue, 20 May 2025 12:03:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Danfoss AK-SM 8xxA Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-03</link>
-      <description>Vulnerable Product: Danfoss AK-SM 8xxA Series; CVE(s): CVE-2025-41450; Summary: The AK-SM 800A system manager has an improper authentication vulnerability due to datetime-based password generation, which could allow a remote attacker to bypass authentication and execute arbitrary code. The affected versions are prior to R4.2, and Danfoss has released version R4.2 to address the issue.</description>
-      <guid isPermaLink="false">/node/23408</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vertiv Liebert RDU101 and UNITY</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-10</link>
-      <description>Vulnerable Product: Vertiv Liebert RDU101 and Liebert UNITY; CVE(s): CVE-2025-46412, CVE-2025-41426; Summary: The Liebert RDU101 and Liebert UNITY products contain vulnerabilities that could allow an attacker to bypass authentication, cause a denial-of-service condition, or achieve remote code execution.</description>
-      <guid isPermaLink="false">/node/23415</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electric Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-04</link>
-      <description>Vulnerable Product: Mitsubishi Electric Iconics Digital Solutions, ICONICS Product Suite and Mitsubishi Electric MC Works64; CVE(s): CVE-2025-0921; Summary: An execution with unnecessary privileges vulnerability in the AlarmWorX64 MMX Pager agent can allow an attacker to make unauthorized writes to arbitrary files, potentially leading to information tampering or denial-of-service (DoS) conditions on affected PCs.</description>
-      <guid isPermaLink="false">/node/23409</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AutomationDirect MB-Gateway</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-09</link>
-      <description>Vulnerable Product: AutomationDirect MB-Gateway; CVE(s): CVE-2025-36535; Summary: The MB-Gateway's embedded webserver lacks authentication and access controls, allowing unrestricted remote access. Successful exploitation could allow attackers to make configuration changes, disrupt operations, or achieve arbitrary code execution with a CVSS v4 base score of 10.0.</description>
-      <guid isPermaLink="false">/node/23414</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
