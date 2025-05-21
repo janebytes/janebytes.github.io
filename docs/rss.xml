@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 16:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 17:03:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>PupkinStealer Exploits Web Browser Passwords and App Tokens to Exfiltrate Data Through Telegram</title>
+      <link>https://gbhackers.com/pupkinstealer-exploits-web-browser-passwords/</link>
+      <description>PupkinStealer (also known as PumpkinStealer) is a .NET-based information-stealing malware that targets sensitive data such as web browser passwords and application session tokens. It uses Telegram's Bot API to exfiltrate stolen data, and employs tactics mapped to the MITRE ATT&amp;CK framework for initial access through phishing and social engineering.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137617</guid>
+      <pubDate>Wed, 21 May 2025 16:26:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>71 Fake Websites Impersonating German Retailer to Steal Payment Information</title>
+      <link>https://gbhackers.com/71-fake-websites-impersonating-german-retailer/</link>
+      <description>A sprawling network of 71 fraudulent e-commerce domains impersonating a German retailer has been detected, employing advanced brand impersonation tactics and designed to harvest personal and financial data. The primary goal is to facilitate downstream fraud and card compromise, posing significant financial risks to card issuers and merchant acquirers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137608</guid>
+      <pubDate>Wed, 21 May 2025 16:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumma infostealer malware operation disrupted, 2,300 domains seized</title>
+      <link>https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/</link>
+      <description>A coordinated disruption action targeted the Lumma malware-as-a-service information stealer operation, resulting in Microsoft's seizure of approximately 2,300 domains and multiple law enforcement authorities and tech companies disrupting its infrastructure. The effort denied access to the control panel, marketplace, and Internet infrastructure used by the malware, imposing operational and financial costs on both the operators and customers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/</guid>
+      <pubDate>Wed, 21 May 2025 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Scan Uncovers 150K Industrial Systems Worldwide Vulnerable to Cyberattacks</title>
       <link>https://gbhackers.com/new-scan-uncovers-150k-industrial-systems/</link>
@@ -86,6 +107,13 @@
 FYSA: Vietnamese threat actors are using Facebook malvertising techniques to distribute stealer malware, leveraging the popularity of generative AI tools as lures. The campaign impersonated Kling AI through fake ads and deceptive websites, demonstrating social engineering tactics combined with advanced malware.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</guid>
       <pubDate>Wed, 21 May 2025 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141b</link>
+      <description>The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) have issued a joint advisory on LummaC2 malware, highlighting its tactics, techniques, and procedures (TTPs). The advisory provides guidance on mitigations to reduce the risk of compromise by LummaC2 malware, including implementing application controls, protecting against phishing campaigns, and exercising, testing, and validating security programs.</description>
+      <guid isPermaLink="false">/node/23420</guid>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian GRU Cyber Actors Targeting Western Logistics Entities and Tech Companies</title>
@@ -347,34 +375,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>The article describes the More_Eggs malware, a JavaScript backdoor that exploits human trust through social engineering. It targets HR departments by masquerading as job application emails and uses obfuscated scripts and legitimate system binaries to establish a foothold in targeted environments.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137245</guid>
       <pubDate>Tue, 20 May 2025 14:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trojanized RVTools push Bumblebee malware in SEO poisoning campaign</title>
-      <link>https://www.bleepingcomputer.com/news/security/trojanized-rvtools-push-bumblebee-malware-in-seo-poisoning-campaign/</link>
-      <description>Vulnerable Product: RVTools; CVE(s): None; Summary: The official website for the RVTools VMware management tool was taken offline due to a supply chain attack that distributed trojanized installers disguising as Bumblebee malware loaders. The attackers used fake typo-squatted domains and SEO poisoning to promote the malicious installers, which attempted to execute a malicious version.dll that was detected as the Bumblebee malware loader.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/trojanized-rvtools-push-bumblebee-malware-in-seo-poisoning-campaign/</guid>
-      <pubDate>Tue, 20 May 2025 14:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RVTools hit in supply chain attack to deliver Bumblebee malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/</link>
-      <description>Vulnerable Product: Robware RVTools; CVE(s): None; Summary: The official website for the RVTools VMware management tool was taken offline due to a supply chain attack that distributed a trojanized installer, dropping the Bumblebee malware loader on users' machines. The malware is designed to download and execute additional payloads, including Cobalt Strike beacons, information stealers, and ransomware.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/</guid>
-      <pubDate>Tue, 20 May 2025 14:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>RedisRaider Campaign Targets Linux Servers by Exploiting Misconfigured Redis Instances</title>
-      <link>https://gbhackers.com/redisraider-campaign-targets-linux-servers/</link>
-      <description>The RedisRaider campaign is a sophisticated Linux worm that targets publicly accessible Redis instances with misconfigured servers. It exploits vulnerabilities to deploy a customized XMRig miner and employs advanced obfuscation, anti-forensics measures, and manipulation of Redis configurations to evade detection. The malware also has a web-based mining component, revealing a broader monetization strategy.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137230</guid>
-      <pubDate>Tue, 20 May 2025 14:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Service desks are under attack: What can you do about it?</title>
-      <link>https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/</link>
-      <description>The article discusses social engineering attacks on service desk agents, where attackers use tactics such as pretexting, vishing, and building urgency and trust to gain initial access. This is often followed by privilege escalation or deploying ransomware. The article highlights the importance of verifying identities and implementing rigorous identity checks to prevent these attacks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/</guid>
-      <pubDate>Tue, 20 May 2025 14:01:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
