@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 11:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 12:03:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SideWinder APT Hackers Exploits Legacy Office Vulnerabilities to Deploy Malware Undetected</title>
+      <link>https://gbhackers.com/sidewinder-apt-hackers-exploits-legacy-office-vulnerabilities/</link>
+      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2017-0199, CVE-2017-11882; Summary: The SideWinder APT group exploits unpatched legacy Microsoft Office vulnerabilities to deploy credential-stealing malware, using spear-phishing emails with malicious Word or RTF attachments. The exploit chain begins with remote code execution and memory corruption bugs, and ultimately leads to the exfiltration of sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137533</guid>
+      <pubDate>Wed, 21 May 2025 11:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kettering Health hit by system-wide outage after ransomware attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</link>
+      <description>A healthcare network, Kettering Health, experienced a system-wide technology outage due to a cyberattack, which forced the cancellation of inpatient and outpatient procedures. The attack may have involved ransomware, as Interlock ransomware gang is suspected to be behind the incident.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</guid>
+      <pubDate>Wed, 21 May 2025 11:45:08 +0000</pubDate>
+    </item>
     <item>
       <title>Cellcom Confirms Cybersecurity Breach After Network Failure</title>
       <link>https://gbhackers.com/cellcom-confirms-cybersecurity-breach/</link>
@@ -21,6 +35,13 @@
       <description>This article reveals a major data breach of the LockBit ransomware group's operations, exposing internal processes and sensitive data. The leak includes details on ransomware payload creation, negotiation tactics with victims, and configuration data.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137506</guid>
       <pubDate>Wed, 21 May 2025 10:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Detect Phishing Attacks Faster: Tycoon2FA Example</title>
+      <link>https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</link>
+      <description>The article discusses the importance of phishing detection in corporate environments and highlights the capabilities of ANY.RUN's Interactive Sandbox in detecting and analyzing evasive phishing attacks. It provides a real-world example of a suspicious email and walks through how the sandbox can be used to detonate every stage of an attack, from the first click to the final payload. The article emphasizes the benefits of using sandboxes like ANY.RUN in detecting and responding to phishing threats quickly and efficiently.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</guid>
+      <pubDate>Wed, 21 May 2025 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Marks &amp; Spencer faces $402 million profit hit after cyberattack</title>
@@ -335,27 +356,6 @@
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-09</link>
       <description>Vulnerable Product: AutomationDirect MB-Gateway; CVE(s): CVE-2025-36535; Summary: The MB-Gateway's embedded webserver lacks authentication and access controls, allowing unrestricted remote access. Successful exploitation could allow attackers to make configuration changes, disrupt operations, or achieve arbitrary code execution with a CVSS v4 base score of 10.0.</description>
       <guid isPermaLink="false">/node/23414</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ABUP IoT Cloud Platform</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-01</link>
-      <description>Vulnerable Product: ABUP IoT Cloud Platform; CVE(s): CVE-2025-4692; Summary: Incorrect Privilege Assignment vulnerability allows an attacker to access device profiles for which they are not authorized by submitting a malicious JSON Web Token (JWT) to the cloud platform. Successful exploitation can escalate privileges to access any device managed by the Cloud Update Platform.</description>
-      <guid isPermaLink="false">/node/23406</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assured Telematics Inc (ATI) Fleet Management System with Geotab Integration</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-11</link>
-      <description>Vulnerable Product: Assured Telematics Inc. Fleet Management System; CVE(s): CVE-2025-4364; Summary: The vulnerability allows an unauthenticated attacker to access sensitive file system information or obtain administrative credentials, exposing the system to potential exploitation. Successful exploitation could lead to further unauthorized access and data theft.</description>
-      <guid isPermaLink="false">/node/23416</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric PrismaSeT Active - Wireless Panel Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-06</link>
-      <description>Vulnerable Product: Schneider Electric PrismaSeT Active - Wireless Panel Server; CVE(s): CVE-2023-4041; Summary: A buffer copy without checking size of input (classic buffer overflow) vulnerability in the Silicon Labs Gecko Bootloader on ARM allows code injection, authentication bypass. Successful exploitation could result in unauthorized code execution and unavailability of the PrismaSeT Active - Wireless Panel Server for voltage loss monitoring.</description>
-      <guid isPermaLink="false">/node/23411</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
