@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 20:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 21:01:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>“Microsoft has simply given us no other option,” Signal says as it blocks Windows Recall</title>
+      <link>https://arstechnica.com/security/2025/05/signal-resorts-to-weird-trick-to-block-windows-recall-in-desktop-app/</link>
+      <description>Vulnerable Product: Microsoft Recall; CVE(s): None; Summary: The Recall feature indexes Zoom meetings, emails, photos, medical conditions, and Signal conversations without user consent. It still takes screenshots of payment card details, decrypts database contents with a simple fingerprint scan or PIN, and lacks granular control for developers to prevent content indexing.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/signal-resorts-to-weird-trick-to-block-windows-recall-in-desktop-app/</guid>
+      <pubDate>Wed, 21 May 2025 20:21:39 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-306: Docker Desktop Helper Service Link Following Local Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-306/</link>
@@ -370,13 +377,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>Marks &amp; Spencer, a British retailer, is bracing for a potential profit hit of up to £300 million ($402 million) following a recent cyberattack that led to widespread operational and sales disruptions. The company's online retail systems are still disabled, and the disruptions are expected to last at least until July. The attack was linked to the Scattered Spider, a collective of cybercriminals known for breaching high-profile organizations worldwide.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/</guid>
       <pubDate>Wed, 21 May 2025 10:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 100 Malicious Chrome Extensions Exploiting Users to Steal Login Credentials and Execute Remote Code</title>
-      <link>https://gbhackers.com/over-100-malicious-chrome-extensions-exploiting-users/</link>
-      <description>A network of over 100 malicious Chrome extensions has been discovered, stealing login credentials and executing unauthorized remote code. The extensions inject harmful scripts into the browser environment, harvesting critical data and exploiting vulnerabilities to establish backdoor access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137460</guid>
-      <pubDate>Wed, 21 May 2025 10:02:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
