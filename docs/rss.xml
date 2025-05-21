@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 14:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 15:01:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows</title>
+      <link>https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</link>
+      <description>The article discusses the importance of patch management in cybersecurity, highlighting the challenges organizations face in executing consistent and secure patching at scale. It introduces ThreatLocker's Patch Management solution as a way to provide security teams with greater control, visibility, and confidence over patching workflows while minimizing risks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</guid>
+      <pubDate>Wed, 21 May 2025 14:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>European Union sanctions Stark Industries for enabling cyberattacks</title>
       <link>https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/</link>
@@ -368,13 +375,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>Aquatic Panda is a suspected China-based threat group focused on intelligence gathering and industrial espionage. The group operates within a wider network of government-linked teams and private contractors, reflecting China's modern cyber strategy.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060086</guid>
       <pubDate>Tue, 20 May 2025 13:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Includes MDaemon Email Server XSS Flaw in KEV Catalog</title>
-      <link>https://gbhackers.com/cisa-includes-mdaemon-email-server-xss-flaw/</link>
-      <description>Vulnerable Product: MDaemon Email Server; CVE(s): CVE-2024-11182; Summary: The MDaemon Email Server prior to version 24.5.1c contains a cross-site scripting (XSS) vulnerability that allows attackers to inject malicious JavaScript code via crafted HTML emails, enabling them to execute arbitrary code within the user's browser window and potentially access sensitive data and functionality.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137183</guid>
-      <pubDate>Tue, 20 May 2025 13:20:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
