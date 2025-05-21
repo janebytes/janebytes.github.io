@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 18:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 19:02:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-306: Docker Desktop Helper Service Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-306/</link>
+      <description>Vulnerable Product: Docker Desktop; CVE(s): CVE-2024-5652; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Docker Desktop, requiring low-privileged code execution and exploiting the WindowsContainersController class by creating a junction to delete a folder. An attacker can leverage this vulnerability to execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-23513</guid>
+      <pubDate>Wed, 21 May 2025 19:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-307: Linux Kernel OpenvSwitch Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-307/</link>
+      <description>Vulnerable Product: Linux Kernel OpenvSwitch; CVE(s): ZDI-25-307, ZDI-CAN-26711; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of Linux Kernel. An attacker must obtain high-privileged code execution to exploit this vulnerability, which exists in the handling of userspace attributes due to lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26711</guid>
+      <pubDate>Wed, 21 May 2025 19:01:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-308: Adobe Dreamweaver V8 Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-308/</link>
+      <description>Vulnerable Product: Adobe Dreamweaver V8; CVE(s): CVE-2025-30310; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Dreamweaver. User interaction is required to exploit this vulnerability, which exists within the JavaScript engine due to a vulnerable version of V8.</description>
+      <guid isPermaLink="false">ZDI-CAN-25684</guid>
+      <pubDate>Wed, 21 May 2025 19:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia to enforce location tracking app on all foreigners in Moscow</title>
+      <link>https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/</link>
+      <description>The Russian government has introduced a mandatory tracking app for all foreign nationals in the Moscow region, aiming to tackle migrant crimes and strengthen control over migration. The app will monitor residence location, fingerprint, face photograph, and real-time geo-location. Critics argue that this proposal violates privacy rights and raises concerns about its feasibility and potential to deter labor migrants.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/</guid>
+      <pubDate>Wed, 21 May 2025 18:24:06 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-291: (Pwn2Own) Mozilla Firefox IonMonkey JIT Compiler Integer Overflow Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-291/</link>
@@ -42,6 +70,13 @@
       <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47865; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central by leveraging a local file inclusion remote code execution flaw in the getObjWGFServiceApiByApiName function, requiring authentication to exploit.</description>
       <guid isPermaLink="false">ZDI-CAN-24938</guid>
       <pubDate>Wed, 21 May 2025 18:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics</title>
+      <link>https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2020-12641, CVE-2020-35730, CVE-2021-44026, CVE-2023-23397, CVE-2023-38831; Summary: APT28 (aka BlueDelta, Fancy Bear, or Forest Blizzard) has been attributed to a state-sponsored campaign targeting Western logistics entities and technology companies since 2022. The campaign uses a mix of previously disclosed tactics, techniques, and procedures (TTPs), including password spraying, spear-phishing, modifying Microsoft Exchange mailbox permissions for espionage purposes, and exploiting vulnerabilities in various webmail services like Roundcube, Horde, MDaemon, and Zimbra.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html</guid>
+      <pubDate>Wed, 21 May 2025 18:06:00 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-296: Trend Micro Apex Central modTMCM Unrestricted File Upload Vulnerability</title>
@@ -342,41 +377,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>A network of over 100 malicious Chrome extensions has been discovered, stealing login credentials and executing unauthorized remote code. The extensions inject harmful scripts into the browser environment, harvesting critical data and exploiting vulnerabilities to establish backdoor access.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137460</guid>
       <pubDate>Wed, 21 May 2025 10:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti EPMM 0-Day RCE Vulnerability Under Active Attack</title>
-      <link>https://gbhackers.com/ivanti-epmm-0-day-rce-vulnerability/</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The EPMM contains a critical vulnerability chain that allows unauthenticated attackers to execute arbitrary code on vulnerable systems. The vulnerability combines an authentication bypass (CVE-2025-4427) and a remote code execution flaw (CVE-2025-4428) to create a critical attack vector. Exploitation has been observed since May 16th following the publication of proof-of-concept exploits by multiple security firms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137448</guid>
-      <pubDate>Wed, 21 May 2025 09:50:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coinbase says recent data breach impacts 69,461 customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/</link>
-      <description>A data breach at Coinbase affected 69,461 individuals, exposing customer and corporate data. The breached information included personal identifiers such as name, date of birth, social security numbers, and account information, which could be used in social engineering attacks to convince victims to move their funds.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/</guid>
-      <pubDate>Wed, 21 May 2025 09:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atlassian Alerts Users to Multiple Critical Vulnerabilities Affecting Data Center Server</title>
-      <link>https://gbhackers.com/atlassian-alerts-users-to-multiple-critical-vulnerabilities/</link>
-      <description>Vulnerable Product: Atlassian; CVE(s): CVE-2025-31650, CVE-2024-47072, CVE-2024-57699, CVE-2025-24970, CVE-2025-22157; Summary: Eight high-severity vulnerabilities affecting multiple enterprise products in Atlassian's Data Center and Server offerings, including denial-of-service attacks and privilege escalation. The vulnerabilities were discovered through various means, including the Bug Bounty program, penetration testing, and third-party library scans.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137415</guid>
-      <pubDate>Wed, 21 May 2025 09:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Could Leverage Google Cloud Platform for Malicious Activities</title>
-      <link>https://gbhackers.com/cybercriminals-could-leverage-google-cloud-platform/</link>
-      <description>Vulnerable Product: Google Cloud Platform's (GCP) Cloud Functions and Cloud Build services; CVE(s): None; Summary: The default Cloud Build Service Account (SA) previously granted excessive permissions during the deployment of Cloud Functions, allowing attackers to escalate privileges by exploiting the deployment process. This could have enabled malicious activities, including environment enumeration, across multiple cloud platforms, despite Google's partial remediation patch.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137427</guid>
-      <pubDate>Wed, 21 May 2025 09:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Hackers Create Fake AI Tool to Exploit Millions of Users</title>
-      <link>https://gbhackers.com/malicious-hackers-create-fake-ai-tool/</link>
-      <description>The article reports on a sophisticated campaign by hostile actors posing as Kling AI, an AI-powered picture and video synthesis platform. The attackers use counterfeit Facebook pages and paid advertisements to lure users into downloading malicious Windows executables disguised with double extensions and Hangul Filler characters, which execute anti-analysis tricks and deploy a PureHVNC Remote Access Trojan (RAT) that steals credentials and session tokens from various browser extensions and standalone applications.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137358</guid>
-      <pubDate>Wed, 21 May 2025 09:02:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
