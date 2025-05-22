@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 17:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 18:01:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Russian Hackers Exploit Oracle Cloud Infrastructure to Target Scaleway Object Storage</title>
+      <link>https://gbhackers.com/russian-hackers-exploit-oracle-cloud-infrastructure/</link>
+      <description>Russian-speaking attackers are using trusted cloud infrastructure platforms like Oracle Cloud Infrastructure (OCI) Object Storage and Scaleway Object Storage to propagate Lumma Stealer malware. The attacks target Windows systems, stealing credentials, system data, and cryptocurrency wallets, and exploit fake reCAPTCHA pages hosted on legitimate cloud services to trick users into executing malicious commands.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137929</guid>
+      <pubDate>Thu, 22 May 2025 17:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Netwrix Password Manager Enables Authenticated Remote Code Execution</title>
+      <link>https://gbhackers.com/critical-vulnerability-in-netwrix-password-manager/</link>
+      <description>Vulnerable Product: Netwrix Password Secure; CVE(s): None; Summary: A critical security vulnerability was discovered in Netwrix Password Secure, allowing authenticated attackers to execute remote code on other users' systems by exploiting a flaw in the document-sharing functionality. The issue stems from the application's failure to verify the file path and document type attributes when updating document links, which can be used to bypass whitelisting of allowed file types and execute malicious payloads.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137917</guid>
+      <pubDate>Thu, 22 May 2025 17:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers use fake Ledger apps to steal Mac users’ seed phrases</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/</link>
@@ -1425,20 +1439,6 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>Skitnet (Bossnet) is a highly sophisticated multi-stage malware developed by the threat group LARVA-306. It features advanced stealth techniques and evasion methods to execute its malicious payload, maintain persistent access on infected systems, and evade detection by security defenses.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136656</guid>
       <pubDate>Mon, 19 May 2025 14:52:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access</title>
-      <link>https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html</link>
-      <description>Skitnet is a multi-stage malware used by ransomware actors for post-exploitation efforts, stealing sensitive data and establishing remote control over compromised hosts. It uses programming languages like Rust and Nim to evade detection, and incorporates persistence mechanisms, remote access tools, commands for data exfiltration, and download of additional payloads.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html</guid>
-      <pubDate>Mon, 19 May 2025 14:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla fixes Firefox zero-days exploited at hacking contest</title>
-      <link>https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two Firefox zero-day vulnerabilities were demonstrated at the Pwn2Own Berlin 2025 hacking competition. The flaws, tracked under CVE-2025-4918 and CVE-2025-4919, are an out-of-bounds read/write issue in the JavaScript engine and a flaw allowing attackers to perform out-of-bounds reads/writes on a JavaScript object.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/</guid>
-      <pubDate>Mon, 19 May 2025 14:10:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
