@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 16:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 16:11:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Warn of ‘Smiao Network’ Cyber Threat Against Taiwan’s Federal Staff</title>
+      <link>https://gbhackers.com/researchers-warn-of-smiao-network-cyber-threat/</link>
+      <description>The Smiao Network is a Chinese intelligence operation targeting federal workers in the US and Taiwan. It uses deceptive online recruitment schemes to extract sensitive information from high-value professionals. The operation employs fake consulting firms and social engineering tactics to recruit insiders, with some success in the US and potential threats in Taiwan.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137891</guid>
+      <pubDate>Thu, 22 May 2025 16:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vidar and StealC Malware Delivered Through Viral TikTok Videos by Hackers</title>
+      <link>https://gbhackers.com/vidar-and-stealc-malware-delivered/</link>
+      <description>A sophisticated social engineering campaign is using TikTok to distribute information-stealing malware Vidar and StealC. The campaign leverages AI-generated video content, fake voices, and step-by-step instructions to deceive users into executing harmful PowerShell commands, posing significant risks to individual users and businesses through data exfiltration and credential theft.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137875</guid>
+      <pubDate>Thu, 22 May 2025 16:05:12 +0000</pubDate>
+    </item>
     <item>
       <title>Authorities carry out global takedown of infostealer used by cybercriminals</title>
       <link>https://arstechnica.com/security/2025/05/authorities-carry-out-global-takedown-of-infostealer-used-by-cybercriminals/</link>
@@ -147,6 +161,27 @@
       <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The pair of security flaws allows execution of arbitrary code on a vulnerable device without authentication. They were exploited by UNC5221, a Chinese cyber espionage group, to target various sectors across Europe, North America, and Asia-Pacific. The attack chain involves targeting the "/mifs/rs/api/v2/" endpoint to obtain an interactive reverse shell and remotely execute commands.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</guid>
       <pubDate>Thu, 22 May 2025 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/cisa-releases-two-industrial-control-systems-advisories</link>
+      <description>CISA released two Industrial Control Systems (ICS) advisories on May 22, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories are related to Lantronix Device Installer and Rockwell Automation FactoryTalk Historian ThingWorx products.</description>
+      <guid isPermaLink="false">/node/23426</guid>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk Historian ThingWorx</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-142-02</link>
+      <description>Vulnerable Product: Rockwell Automation FactoryTalk Historian ThingWorx, 95057C-FTHTWXCT11; CVE(s): CVE-2018-1285; Summary: Successful exploitation of this XXE-based vulnerability could allow an attacker to launch attacks on applications that accept malicious log4net configuration files. The vulnerability affects versions v4.02.00 and prior.</description>
+      <guid isPermaLink="false">/node/23425</guid>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lantronix Device Installer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-142-01</link>
+      <description>Vulnerable Product: Lantronix Device Installer; CVE(s): CVE-2025-4338; Summary: Improper Restriction of XML External Entity Reference vulnerability in the Device Installer software, allowing an attacker to gain access to the host machine or obtain credentials to access network devices. Successful exploitation could allow an attacker to modify configurations and gain access to the password hash of the user running the application.</description>
+      <guid isPermaLink="false">/node/23424</guid>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Best Practices Guide for Securing AI Data Released</title>
@@ -365,6 +400,341 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The IonMonkey JIT compiler in Mozilla Firefox contains an integer overflow remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
       <guid isPermaLink="false">ZDI-CAN-27172</guid>
       <pubDate>Wed, 21 May 2025 18:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-292: (Pwn2Own) Mozilla Firefox SpiderMonkey Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-292/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Mozilla Firefox. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists within the SpiderMonkey engine due to lack of proper validation of user-supplied data, resulting in a write past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-27202</guid>
+      <pubDate>Wed, 21 May 2025 18:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-293: Microsoft Windows Installer Service Link Following Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-293/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29837; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by creating a symbolic link within the Windows Installer service, granting read access to arbitrary files and potentially disclosing stored credentials. An attacker must first obtain low-privileged code execution to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-26153</guid>
+      <pubDate>Wed, 21 May 2025 18:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-294: Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-294/</link>
+      <description>Vulnerable Product: Microsoft PC Manager; CVE(s): CVE-2025-29975; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft PC Manager by creating a symbolic link and abusing the MSPCManagerService, allowing deletion of arbitrary files. An attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be leveraged to escalate privileges and execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26137</guid>
+      <pubDate>Wed, 21 May 2025 18:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-295: Trend Micro Apex Central widget getObjWGFServiceApiByApiName Local File Inclusion Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-295/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47865; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central by leveraging a local file inclusion remote code execution flaw in the getObjWGFServiceApiByApiName function, requiring authentication to exploit.</description>
+      <guid isPermaLink="false">ZDI-CAN-24938</guid>
+      <pubDate>Wed, 21 May 2025 18:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics</title>
+      <link>https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2020-12641, CVE-2020-35730, CVE-2021-44026, CVE-2023-23397, CVE-2023-38831; Summary: APT28 (aka BlueDelta, Fancy Bear, or Forest Blizzard) has been attributed to a state-sponsored campaign targeting Western logistics entities and technology companies since 2022. The campaign uses a mix of previously disclosed tactics, techniques, and procedures (TTPs), including password spraying, spear-phishing, modifying Microsoft Exchange mailbox permissions for espionage purposes, and exploiting vulnerabilities in various webmail services like Roundcube, Horde, MDaemon, and Zimbra.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html</guid>
+      <pubDate>Wed, 21 May 2025 18:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-296: Trend Micro Apex Central modTMCM Unrestricted File Upload Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-296/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47866; Summary: This vulnerability allows remote attackers to upload arbitrary files on affected installations of Trend Micro Apex Central, requiring authentication to exploit. The issue stems from a lack of proper validation of user-supplied data, enabling the upload of arbitrary files and potentially allowing code execution in the context of IUSR.</description>
+      <guid isPermaLink="false">ZDI-CAN-25331</guid>
+      <pubDate>Wed, 21 May 2025 18:05:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-297: Trend Micro Apex Central widget getBlock Local File Inclusion Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-297/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47867; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central, requiring authentication. The issue stems from the lack of proper validation of user-supplied data prior to passing it to a PHP include function, which can be exploited to execute code in the context of IUSR.</description>
+      <guid isPermaLink="false">ZDI-CAN-24936</guid>
+      <pubDate>Wed, 21 May 2025 18:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-298: Apple macOS MP4 File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-298/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31233; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS, requiring user interaction. It exists within the parsing of MP4 files due to lack of proper validation of user-supplied data, resulting in memory corruption.</description>
+      <guid isPermaLink="false">ZDI-CAN-26826</guid>
+      <pubDate>Wed, 21 May 2025 18:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-299: Apple macOS acv2 Codec Converter Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-299/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31208; Summary: The acv2 codec converter in Apple macOS allows remote attackers to disclose sensitive information through an out-of-bounds read information disclosure vulnerability. User interaction is required, and the issue stems from a lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26783</guid>
+      <pubDate>Wed, 21 May 2025 18:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-300: Apple macOS PDF Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-300/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31209; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. The flaw exists within the parsing of PDF files due to lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26714</guid>
+      <pubDate>Wed, 21 May 2025 18:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-301: Apple Safari Scrollbar Animation Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-301/</link>
+      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-31238; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari, requiring user interaction. The flaw exists in the handling of scrollbar animation due to a lack of validating an object's existence before performing operations on it.</description>
+      <guid isPermaLink="false">ZDI-CAN-26150</guid>
+      <pubDate>Wed, 21 May 2025 18:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-302: Apple macOS CoreMedia Framework Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-302/</link>
+      <description>Vulnerable Product: Apple macOS CoreMedia Framework; CVE(s): CVE-2025-31239; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. User interaction is required, and the specific flaw exists within the CoreMedia framework due to a lack of proper validation of user-supplied data, resulting in memory corruption.</description>
+      <guid isPermaLink="false">ZDI-CAN-26650</guid>
+      <pubDate>Wed, 21 May 2025 18:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-303: Apple Safari SandboxBroker ZIP File Processing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-303/</link>
+      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-24222; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple Safari by reading past the end of an allocated buffer when processing ZIP files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26148</guid>
+      <pubDate>Wed, 21 May 2025 18:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-304: Apple macOS JPEG Image Decoding Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-304/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31251; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS by exploiting an out-of-bounds write in the JPEG image decoding functionality. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26603</guid>
+      <pubDate>Wed, 21 May 2025 18:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-305: Apple XNU kernel vm_map Race Condition Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-305/</link>
+      <description>Vulnerable Product: Apple XNU kernel; CVE(s): CVE-2025-31219; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Apple macOS. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the handling of virtual memory allocations in the macOS kernel.</description>
+      <guid isPermaLink="false">ZDI-CAN-24156</guid>
+      <pubDate>Wed, 21 May 2025 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Target Mobile Users Using PWA JavaScript to Bypass Browser Security</title>
+      <link>https://gbhackers.com/hackers-target-mobile-users-using-pwa-javascript/</link>
+      <description>A new injection campaign targets mobile users through malicious third-party JavaScript, delivering a Chinese adult-content Progressive Web App (PWA) scam. The attack injects scripts into compromised websites, filtering out desktop users and exclusively targeting mobile devices to deliver fake adult content zones and push malware downloads for Android and iOS devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137642</guid>
+      <pubDate>Wed, 21 May 2025 17:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>3AM ransomware uses spoofed IT calls, email bombing to breach networks</title>
+      <link>https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</link>
+      <description>The article describes a targeted ransomware attack campaign conducted by a 3AM ransomware affiliate using email bombing and spoofed IT support calls to socially engineer employees into giving credentials for remote access. The attackers used tactics such as vishing via Microsoft Teams, Quick Assist abuse, and real phone phishing to gain access to corporate systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</guid>
+      <pubDate>Wed, 21 May 2025 17:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docker Zombie Malware Infects Containers for Crypto Mining and Self-Replication</title>
+      <link>https://gbhackers.com/docker-zombie-malware-infects-containers/</link>
+      <description>Vulnerable Product: Docker; CVE(s): None; Summary: The article describes a novel malware campaign that targets containerized infrastructures by exploiting insecurely exposed Docker APIs. The attack spreads malicious containers and mines Dero cryptocurrency using self-replicating propagation mechanism, transforming compromised containers into "zombies" that mine cryptocurrency and infect new victims.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137633</guid>
+      <pubDate>Wed, 21 May 2025 17:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Masquerade as Organizations to Steal Payroll Logins and Redirect Payments from Employees</title>
+      <link>https://gbhackers.com/hackers-masquerade-as-organizations-to-steal-payroll-logins/</link>
+      <description>A sophisticated search engine optimization (SEO) poisoning scheme has been deployed to orchestrate payroll fraud against a manufacturing sector customer. The attack involves creating fake authentication portals that mirror legitimate organizational login pages, manipulating search engine results to rank malicious sites at the top, and exploiting mobile-specific SEO manipulation to redirect users to phishing pages mimicking Microsoft login portals.
+
+Note: There is no specific product or software mentioned in the article, but rather a technique used by attackers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137623</guid>
+      <pubDate>Wed, 21 May 2025 17:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>PupkinStealer Exploits Web Browser Passwords and App Tokens to Exfiltrate Data Through Telegram</title>
+      <link>https://gbhackers.com/pupkinstealer-exploits-web-browser-passwords/</link>
+      <description>PupkinStealer (also known as PumpkinStealer) is a .NET-based information-stealing malware that targets sensitive data such as web browser passwords and application session tokens. It uses Telegram's Bot API to exfiltrate stolen data, and employs tactics mapped to the MITRE ATT&amp;CK framework for initial access through phishing and social engineering.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137617</guid>
+      <pubDate>Wed, 21 May 2025 16:26:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>71 Fake Websites Impersonating German Retailer to Steal Payment Information</title>
+      <link>https://gbhackers.com/71-fake-websites-impersonating-german-retailer/</link>
+      <description>A sprawling network of 71 fraudulent e-commerce domains impersonating a German retailer has been detected, employing advanced brand impersonation tactics and designed to harvest personal and financial data. The primary goal is to facilitate downstream fraud and card compromise, posing significant financial risks to card issuers and merchant acquirers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137608</guid>
+      <pubDate>Wed, 21 May 2025 16:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumma infostealer malware operation disrupted, 2,300 domains seized</title>
+      <link>https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/</link>
+      <description>A coordinated disruption action targeted the Lumma malware-as-a-service information stealer operation, resulting in Microsoft's seizure of approximately 2,300 domains and multiple law enforcement authorities and tech companies disrupting its infrastructure. The effort denied access to the control panel, marketplace, and Internet infrastructure used by the malware, imposing operational and financial costs on both the operators and customers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/</guid>
+      <pubDate>Wed, 21 May 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Scan Uncovers 150K Industrial Systems Worldwide Vulnerable to Cyberattacks</title>
+      <link>https://gbhackers.com/new-scan-uncovers-150k-industrial-systems/</link>
+      <description>The article reports that approximately 150,000 industrial control systems (ICS) worldwide are directly accessible on the public internet, posing severe risks of catastrophic cyberattacks. The study utilized advanced application-layer scanning to identify ICS devices, revealing a large number of exposed systems globally, with many not designed with robust security measures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137582</guid>
+      <pubDate>Wed, 21 May 2025 15:57:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Introduces Enhanced Administrator Protection to Strengthen Security Against Elevated Privilege Attacks</title>
+      <link>https://gbhackers.com/windows-11-introduces-enhanced-administrator-protection/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The article discusses the introduction of Administrator Protection, a security feature designed to safeguard systems against privilege escalation attacks. This feature creates a security boundary around administrative operations by implementing a hidden system-managed profile-separated local user account that generates isolated admin tokens, preventing user-level malware from compromising code running in elevated contexts and eliminating auto-elevation functionality.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137592</guid>
+      <pubDate>Wed, 21 May 2025 15:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs</title>
+      <link>https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</link>
+      <description>Vulnerable Product: Google Chrome Web Store; CVE(s): None; Summary: A malicious campaign has been discovered on the Google Chrome Web Store, featuring over 100 fake browser extensions that mimic legitimate tools to steal browser cookies and execute remote scripts. The extensions offer some functionality but also connect to threat actor infrastructure to steal user information or receive commands to execute.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</guid>
+      <pubDate>Wed, 21 May 2025 15:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows</title>
+      <link>https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</link>
+      <description>The article discusses the importance of patch management in cybersecurity, highlighting the challenges organizations face in executing consistent and secure patching at scale. It introduces ThreatLocker's Patch Management solution as a way to provide security teams with greater control, visibility, and confidence over patching workflows while minimizing risks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</guid>
+      <pubDate>Wed, 21 May 2025 14:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>European Union sanctions Stark Industries for enabling cyberattacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/</link>
+      <description>This article does not discuss a specific vulnerability, but rather the imposition of sanctions by the European Union against web-hosting provider Stark Industries and its owners for enabling "destabilising activities" against the EU.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/</guid>
+      <pubDate>Wed, 21 May 2025 13:37:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms</title>
+      <link>https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html</link>
+      <description>The article discusses a phishing campaign targeting Russian organizations, distributing malware called PureRAT. The attack chain begins with a phishing email containing a RAR file attachment or link, which extracts an executable that unpacks and runs the main payload, PureRAT.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html</guid>
+      <pubDate>Wed, 21 May 2025 13:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PowerDNS Vulnerability Allows Attackers to Trigger DoS Attacks Through Malicious TCP Connections</title>
+      <link>https://gbhackers.com/powerdns-vulnerability-let-attacker-trigger-dos-attack/</link>
+      <description>Vulnerable Product: PowerDNS DNSdist; CVE(s): CVE-2025-30193; Summary: The DNSdist load balancer has a vulnerability (CVE-2025-30193) that allows remote attackers to trigger denial of service attacks without authentication, affecting all versions prior to 1.9.10.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137557</guid>
+      <pubDate>Wed, 21 May 2025 12:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>VanHelsing Ransomware Builder Exposed on Hacker Forums</title>
+      <link>https://gbhackers.com/vanhelsing-ransomware-builder-exposed/</link>
+      <description>Vulnerable Product: VanHelsing Ransomware; CVE(s): None; Summary: The source code for the VanHelsing ransomware operation has been leaked publicly due to an internal dispute with a former developer. The leak includes critical components of the ransomware infrastructure, but some elements remain missing, limiting immediate exploitation by opportunistic threat actors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137537</guid>
+      <pubDate>Wed, 21 May 2025 12:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Warns: One-Third of Cyber Attacks Use Advanced Tactics to Steal Login Credentials</title>
+      <link>https://gbhackers.com/ibm-warns-one-third-of-cyber-attacks/</link>
+      <description>The article discusses a trend in cyber intrusions that rely on identity-based attacks, exploiting valid login credentials to breach systems. This trend is driven by the use of generative AI (gen AI) and other sophisticated tools to scale phishing campaigns and harvest credentials through infostealer malware and credential phishing.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137563</guid>
+      <pubDate>Wed, 21 May 2025 12:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>19-Year-Old Hacker Admits Guilt in Major Cyberattack on PowerSchool</title>
+      <link>https://gbhackers.com/hacker-admits-guilt-in-major-cyberattack-on-powerschool/</link>
+      <description>Matthew D. Lane, a 19-year-old Massachusetts college student, has been accused of orchestrating a cyberattack on PowerSchool, a widely used educational software provider, resulting in the theft of confidential data from millions of students and teachers. The attack involved unauthorized access to cloud storage providers and the threat of publishing sensitive information unless a ransom was paid.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137511</guid>
+      <pubDate>Wed, 21 May 2025 12:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims</title>
+      <link>https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</link>
+      <description>Counterfeit Facebook pages and sponsored ads are being used to trick users into downloading malware. The fake websites offer AI-powered image and video generation, but actually download a malicious Windows executable that installs a remote access trojan (RAT) and stealer, which steals sensitive data and exfiltrates it to a command-and-control server.
+
+FYSA: Vietnamese threat actors are using Facebook malvertising techniques to distribute stealer malware, leveraging the popularity of generative AI tools as lures. The campaign impersonated Kling AI through fake ads and deceptive websites, demonstrating social engineering tactics combined with advanced malware.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</guid>
+      <pubDate>Wed, 21 May 2025 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Target U.S. Critical Infrastructure with LummaC2 Malware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/threat-actors-target-us-critical-infrastructure-lummac2-malware</link>
+      <description>The joint Cybersecurity Advisory by CISA and the FBI details the tactics, techniques, and procedures, as well as indicators of compromise (IOCs), linked to threat actors deploying LummaC2 malware. This malware poses a serious threat capable of infiltrating networks and exfiltrating sensitive information across U.S. critical infrastructure sectors. The advisory urges organizations to review it and implement recommended mitigations to reduce exposure and impact.</description>
+      <guid isPermaLink="false">/node/23422</guid>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141b</link>
+      <description>The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) have issued a joint advisory on LummaC2 malware, highlighting its tactics, techniques, and procedures (TTPs). The advisory provides guidance on mitigations to reduce the risk of compromise by LummaC2 malware, including implementing application controls, protecting against phishing campaigns, and exercising, testing, and validating security programs.</description>
+      <guid isPermaLink="false">/node/23420</guid>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian GRU Cyber Actors Targeting Western Logistics Entities and Tech Companies</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/russian-gru-cyber-actors-targeting-western-logistics-entities-and-tech-companies</link>
+      <description>A joint cybersecurity advisory was released by CISA, NSA, FBI, and other U.S. and international partners regarding a Russian state-sponsored cyber espionage campaign targeting Western logistics entities and technology companies, including those involved in delivering foreign assistance to Ukraine. The campaign is attributed to the Russian General Staff Main Intelligence Directorate (GRU) 85th Main Special Service Center, military unit 26165, which has been previously linked to IP camera attacks in Ukraine and bordering NATO nations.</description>
+      <guid isPermaLink="false">/node/23421</guid>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian GRU Targeting Western Logistics Entities and Technology Companies</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a</link>
+      <description>FYSA:
+
+As a cybersecurity analyst, I analyzed the article provided, which appears to be a threat report on GRU unit 26165's tactics and techniques used in malicious activities. The article highlights various indicators of compromise (IoCs), tactics, techniques, and procedures (TTPs) employed by this actor group.
+
+The report discusses multiple aspects of cybersecurity, including:
+
+1. Identity and Access Management: It emphasizes the importance of strong access controls, multi-factor authentication, and account throttling or lockout to prevent credential theft.
+2. Network Security: The article suggests disabling NTLM entirely and migrating to more robust authentication processes like PKI certificate authentication.
+3. IP Camera Security: It provides guidelines for securing IP cameras by ensuring they are currently supported, applying security patches and firmware updates, disabling remote access if unnecessary, and using a VPN for remote connections.
+
+The report also includes several mitigation techniques, such as:
+
+1. Disable Universal Plug and Play (UPnP), Peer-to-Peer (P2P), and Anonymous Visit features on IP cameras and routers.
+2. Turn off other ports/services not in use (e.g., FTP, web interface, etc.).
+3. Configure, tune, and monitor logging if available on the IP camera.
+
+In conclusion, this report is a valuable resource for cybersecurity professionals seeking to understand and mitigate GRU unit 26165's tactics and techniques. It provides actionable guidance on various aspects of network security, identity and access management, and IP camera security.</description>
+      <guid isPermaLink="false">/node/23341</guid>
+      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SideWinder APT Hackers Exploits Legacy Office Vulnerabilities to Deploy Malware Undetected</title>
+      <link>https://gbhackers.com/sidewinder-apt-hackers-exploits-legacy-office-vulnerabilities/</link>
+      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2017-0199, CVE-2017-11882; Summary: The SideWinder APT group exploits unpatched legacy Microsoft Office vulnerabilities to deploy credential-stealing malware, using spear-phishing emails with malicious Word or RTF attachments. The exploit chain begins with remote code execution and memory corruption bugs, and ultimately leads to the exfiltration of sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137533</guid>
+      <pubDate>Wed, 21 May 2025 11:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kettering Health hit by system-wide outage after ransomware attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</link>
+      <description>A healthcare network, Kettering Health, experienced a system-wide technology outage due to a cyberattack, which forced the cancellation of inpatient and outpatient procedures. The attack may have involved ransomware, as Interlock ransomware gang is suspected to be behind the incident.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</guid>
+      <pubDate>Wed, 21 May 2025 11:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing CI/CD workflows with Wazuh</title>
+      <link>https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</link>
+      <description>The article discusses the risks associated with Continuous Integration and Continuous Delivery/Deployment (CI/CD) workflows, including supply chain attacks, insecure dependencies, insider threats, lack of visibility, compliance requirements, code and dependency vulnerabilities, container vulnerabilities, and misconfiguration of CI/CD tools. It highlights the importance of integrating security measures into CI/CD pipelines to maintain confidentiality, integrity, and availability.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</guid>
+      <pubDate>Wed, 21 May 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cellcom Confirms Cybersecurity Breach After Network Failure</title>
+      <link>https://gbhackers.com/cellcom-confirms-cybersecurity-breach/</link>
+      <description>The article reports a cyberattack on Cellcom/Nsight's network infrastructure, causing a five-day service disruption. The company confirmed the incident and assured customers that sensitive personal information remains secure. The attack did not compromise customer data repositories.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137500</guid>
+      <pubDate>Wed, 21 May 2025 10:51:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit Internal Data Leak Reveals Payload Creation Methods and Ransom Demands</title>
+      <link>https://gbhackers.com/lockbit-internal-data-leak-reveals-payload/</link>
+      <description>This article reveals a major data breach of the LockBit ransomware group's operations, exposing internal processes and sensitive data. The leak includes details on ransomware payload creation, negotiation tactics with victims, and configuration data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137506</guid>
+      <pubDate>Wed, 21 May 2025 10:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Detect Phishing Attacks Faster: Tycoon2FA Example</title>
+      <link>https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</link>
+      <description>The article discusses the importance of phishing detection in corporate environments and highlights the capabilities of ANY.RUN's Interactive Sandbox in detecting and analyzing evasive phishing attacks. It provides a real-world example of a suspicious email and walks through how the sandbox can be used to detonate every stage of an attack, from the first click to the final payload. The article emphasizes the benefits of using sandboxes like ANY.RUN in detecting and responding to phishing threats quickly and efficiently.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</guid>
+      <pubDate>Wed, 21 May 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marks &amp; Spencer faces $402 million profit hit after cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/</link>
+      <description>Marks &amp; Spencer, a British retailer, is bracing for a potential profit hit of up to £300 million ($402 million) following a recent cyberattack that led to widespread operational and sales disruptions. The company's online retail systems are still disabled, and the disruptions are expected to last at least until July. The attack was linked to the Scattered Spider, a collective of cybercriminals known for breaching high-profile organizations worldwide.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/</guid>
+      <pubDate>Wed, 21 May 2025 10:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 100 Malicious Chrome Extensions Exploiting Users to Steal Login Credentials and Execute Remote Code</title>
+      <link>https://gbhackers.com/over-100-malicious-chrome-extensions-exploiting-users/</link>
+      <description>A network of over 100 malicious Chrome extensions has been discovered, stealing login credentials and executing unauthorized remote code. The extensions inject harmful scripts into the browser environment, harvesting critical data and exploiting vulnerabilities to establish backdoor access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137460</guid>
+      <pubDate>Wed, 21 May 2025 10:02:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
