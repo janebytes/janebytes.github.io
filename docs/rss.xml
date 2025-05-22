@@ -6,8 +6,117 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 22:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 10:12:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware</title>
+      <link>https://blog.talosintelligence.com/uat-6382-exploits-cityworks-vulnerability/</link>
+      <description>FYSA:
+
+The provided article appears to be a technical analysis of a malicious software campaign, specifically focusing on the VShell stager and its components. The article details the tactics used by threat actors to deliver malware through TetraLoader and VShell, as well as the characteristics of the CobaltStrike beacons used in this campaign.
+
+Based on the provided information, I did not identify any specific vulnerabilities discussed in the article. Instead, the analysis highlights the techniques employed by malicious actors to evade detection and compromise target systems.</description>
+      <guid isPermaLink="false">682c99a99e517d0001f3c25e</guid>
+      <pubDate>Thu, 22 May 2025 10:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Versa Concerto 0-Day Flaw Enables Remote Code Execution by Bypassing Authentication</title>
+      <link>https://gbhackers.com/versa-concerto-0-day-flaw-enables-remote-code-execution/</link>
+      <description>Vulnerable Product: Versa Concerto; CVE(s): CVE-2025-34025, CVE-2025-34026, CVE-2025-34027; Summary: Multiple critical vulnerabilities were discovered in Versa Concerto's network security and SD-WAN orchestration platform, including authentication bypass flaws, arbitrary file write vulnerabilities, and container escape techniques that allow attackers to fully compromise both the application and underlying host system. The issues stem from inconsistent URL processing and a Time-of-Check to Time-of-Use (TOCTOU) vulnerability in the AuthenticationFilter class.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137765</guid>
+      <pubDate>Thu, 22 May 2025 09:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpatched critical bugs in Versa Concerto lead to auth bypass, RCE</title>
+      <link>https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/</link>
+      <description>Vulnerable Product: Versa Concerto; CVE(s): CVE-2025-34027, CVE-2025-34026, CVE-2025-34025; Summary: Critical vulnerabilities in Versa Concerto allow remote attackers to bypass authentication and execute arbitrary code. Two critical issues (CVE-2025-34027 and CVE-2025-34026) allow for authentication bypass and remote code execution, while a high-severity issue (CVE-2025-34025) exposes host binaries to container writes, enabling full host compromise.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/</guid>
+      <pubDate>Thu, 22 May 2025 09:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Targets Coinbase Users Targeted in Advanced Social Engineering Hack</title>
+      <link>https://gbhackers.com/hackers-targets-coinbase-users/</link>
+      <description>Coinbase users are being targeted by a social engineering campaign that manipulates human psychology and leverages stolen insider data to execute highly personalized fraud. The attackers use a four-stage methodology that bypasses Coinbase's technical infrastructure, impersonating official support and using phishing emails and texts to guide victims into transferring assets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137747</guid>
+      <pubDate>Thu, 22 May 2025 08:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit PyBitmessage Library to Evade Antivirus and Network Security Detection</title>
+      <link>https://gbhackers.com/hackers-exploit-pybitmessage-library/</link>
+      <description>A new strain of backdoor malware is distributed alongside a Monero coin miner, utilizing the PyBitmessage library for covert peer-to-peer communications. The malware encrypts data exchanges and anonymizes identities, making it challenging to detect by antivirus software and network security solutions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137699</guid>
+      <pubDate>Thu, 22 May 2025 08:39:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Several GitLab Vulnerabilities Enable Attackers to Launch DoS Attacks</title>
+      <link>https://gbhackers.com/several-gitlab-vulnerabilities-enable-attackers/</link>
+      <description>Vulnerable Product: GitLab; CVE(s): CVE-2025-0993, CVE-2024-7803, CVE-2024-12093, CVE-2025-4979, CVE-2025-0679, CVE-2024-9163, CVE-2025-1110; Summary: GitLab issued critical security patches addressing 11 vulnerabilities across its Community Edition (CE) and Enterprise Edition (EE) platforms. The most severe vulnerability (CVE-2025-0993) enables authenticated attackers to trigger server resource exhaustion through an unprotected large blob endpoint, scoring 7.5 on the CVSS v3.1 scale.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137744</guid>
+      <pubDate>Thu, 22 May 2025 08:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Identity Services RADIUS Vulnerability Allows Attackers to Trigger Denial of Service Condition</title>
+      <link>https://gbhackers.com/cisco-identity-services-radius-vulnerability-allows-attackers/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): None; Summary: The vulnerability allows unauthenticated remote attackers to cause a denial of service condition by exploiting flaws in the RADIUS message processing feature, causing affected devices to reload and disrupt network authentication services.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137737</guid>
+      <pubDate>Thu, 22 May 2025 08:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grafana Zero-Day Vulnerability Allows Attackers to Redirect Users to Malicious Sites</title>
+      <link>https://gbhackers.com/grafana-zero-day-vulnerability-allows-attackers-to-redirect-users/</link>
+      <description>Vulnerable Product: Grafana; CVE(s): CVE-2025-4123; Summary: The Grafana XSS vulnerability (CVE-2025-4123) allows attackers to redirect users to malicious websites, enabling execution of arbitrary JavaScript code. The vulnerability can be exploited without editor permissions and has a CVSS score of 7.6 (HIGH). It impacts all supported versions of Grafana OSS and Enterprise, including versions 11.2 through 12.0, as well as unsupported versions dating back to at least Grafana 8.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137731</guid>
+      <pubDate>Thu, 22 May 2025 08:28:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections</title>
+      <link>https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html</link>
+      <description>The article discusses the takedown of 2,300 domains associated with the LummaC2 infostealer malware by global law enforcement agencies and private sector firms. The malware is used to steal sensitive information from millions of victims for fraudulent purposes.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html</guid>
+      <pubDate>Thu, 22 May 2025 08:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Exploit BIND DNS Server Vulnerability to Crash Servers Using Malicious Packets</title>
+      <link>https://gbhackers.com/attackers-exploit-bind-dns-server-vulnerability/</link>
+      <description>Vulnerable Product: Internet Systems Consortium (ISC) BIND; CVE(s): CVE-2023-5517, CVE-2023-5679, CVE-2024-0760, CVE-2024-12705; Summary: The vulnerability in BIND DNS server software allowed attackers to crash DNS servers by sending specifically crafted malicious packets. This flaw could cause named (the BIND DNS server process) to terminate unexpectedly with an assertion failure when specific queries were processed with certain features enabled, posing a significant risk to DNS infrastructure and potentially affecting thousands of users and dependent systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137701</guid>
+      <pubDate>Thu, 22 May 2025 08:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Process Injection Technique Evades EDR by Injecting Malicious Code into Windows Processes</title>
+      <link>https://gbhackers.com/new-process-injection-technique-evades-edr/</link>
+      <description>Researchers discovered a novel process injection technique that exploits shared memory regions and thread context manipulation to execute malicious payloads without triggering standard detection heuristics. This method bypasses leading Endpoint Detection and Response (EDR) systems by avoiding traditional memory allocation and modification patterns, evading detection in multiple commercial EDR products.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137682</guid>
+      <pubDate>Thu, 22 May 2025 08:19:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatBook Recognized as a Notable Vendor in Global Network Analysis and Visibility (NAV) Report</title>
+      <link>https://gbhackers.com/threatbook-recognized-as-a-notable-vendor-in-global-network-analysis-and-visibility/</link>
+      <description>ThreatBook, a global leader in cyber threat and response solutions, has been recognized as a notable vendor in Forrester's Network Analysis And Visibility Solutions Landscape, Q2 2025 report. This recognition highlights ThreatBook's technical excellence and strong market performance in delivering real-time security insights across cloud, hybrid, and on-premises environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137688</guid>
+      <pubDate>Thu, 22 May 2025 05:23:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic web config hints at Claude Sonnet 4 and Opus 4</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/</link>
+      <description>Anthropic, the AI company, is reportedly working on new advanced AI models called Claude Sonnet 4 and Opus 4. These models are believed to be part of the Claude 4 series and are being tested or promoted internally with features like "show_raw_thinking" pointing to reasoning capabilities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/</guid>
+      <pubDate>Wed, 21 May 2025 23:01:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI hints at a big upgrade for ChatGPT Operator Agent</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hints-at-a-big-upgrade-for-chatgpt-operator-agent/</link>
+      <description>OpenAI's Operator AI agent, currently in research preview, will soon become a useful tool according to Jerry Tworek, VP of Research at OpenAI. The AI agent allows users to delegate web tasks and automate repetitive browser tasks, with plans for significant improvements soon.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hints-at-a-big-upgrade-for-chatgpt-operator-agent/</guid>
+      <pubDate>Wed, 21 May 2025 22:33:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Samlify SSO flaw lets attackers log in as admin</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/</link>
+      <description>Vulnerable Product: Samlify; CVE(s): CVE-2025-47949; Summary: A critical authentication bypass vulnerability allows attackers to impersonate admin users by injecting unsigned malicious assertions into legitimately signed SAML responses, impacting all versions of Samlify before 2.10.0. The flaw can be exploited with access to a valid signed XML blob, allowing unauthorized remote attackers to perform privilege escalation and log in as administrators.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/</guid>
+      <pubDate>Wed, 21 May 2025 22:11:28 +0000</pubDate>
+    </item>
     <item>
       <title>Russian hackers breach orgs to track aid routes to Ukraine</title>
       <link>https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/</link>
@@ -254,129 +363,6 @@ Note: There is no specific product or software mentioned in the article, but rat
       <description>The article discusses a phishing campaign targeting Russian organizations, distributing malware called PureRAT. The attack chain begins with a phishing email containing a RAR file attachment or link, which extracts an executable that unpacks and runs the main payload, PureRAT.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html</guid>
       <pubDate>Wed, 21 May 2025 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PowerDNS Vulnerability Allows Attackers to Trigger DoS Attacks Through Malicious TCP Connections</title>
-      <link>https://gbhackers.com/powerdns-vulnerability-let-attacker-trigger-dos-attack/</link>
-      <description>Vulnerable Product: PowerDNS DNSdist; CVE(s): CVE-2025-30193; Summary: The DNSdist load balancer has a vulnerability (CVE-2025-30193) that allows remote attackers to trigger denial of service attacks without authentication, affecting all versions prior to 1.9.10.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137557</guid>
-      <pubDate>Wed, 21 May 2025 12:32:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>VanHelsing Ransomware Builder Exposed on Hacker Forums</title>
-      <link>https://gbhackers.com/vanhelsing-ransomware-builder-exposed/</link>
-      <description>Vulnerable Product: VanHelsing Ransomware; CVE(s): None; Summary: The source code for the VanHelsing ransomware operation has been leaked publicly due to an internal dispute with a former developer. The leak includes critical components of the ransomware infrastructure, but some elements remain missing, limiting immediate exploitation by opportunistic threat actors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137537</guid>
-      <pubDate>Wed, 21 May 2025 12:29:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM Warns: One-Third of Cyber Attacks Use Advanced Tactics to Steal Login Credentials</title>
-      <link>https://gbhackers.com/ibm-warns-one-third-of-cyber-attacks/</link>
-      <description>The article discusses a trend in cyber intrusions that rely on identity-based attacks, exploiting valid login credentials to breach systems. This trend is driven by the use of generative AI (gen AI) and other sophisticated tools to scale phishing campaigns and harvest credentials through infostealer malware and credential phishing.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137563</guid>
-      <pubDate>Wed, 21 May 2025 12:19:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>19-Year-Old Hacker Admits Guilt in Major Cyberattack on PowerSchool</title>
-      <link>https://gbhackers.com/hacker-admits-guilt-in-major-cyberattack-on-powerschool/</link>
-      <description>Matthew D. Lane, a 19-year-old Massachusetts college student, has been accused of orchestrating a cyberattack on PowerSchool, a widely used educational software provider, resulting in the theft of confidential data from millions of students and teachers. The attack involved unauthorized access to cloud storage providers and the threat of publishing sensitive information unless a ransom was paid.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137511</guid>
-      <pubDate>Wed, 21 May 2025 12:15:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims</title>
-      <link>https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</link>
-      <description>Counterfeit Facebook pages and sponsored ads are being used to trick users into downloading malware. The fake websites offer AI-powered image and video generation, but actually download a malicious Windows executable that installs a remote access trojan (RAT) and stealer, which steals sensitive data and exfiltrates it to a command-and-control server.
-
-FYSA: Vietnamese threat actors are using Facebook malvertising techniques to distribute stealer malware, leveraging the popularity of generative AI tools as lures. The campaign impersonated Kling AI through fake ads and deceptive websites, demonstrating social engineering tactics combined with advanced malware.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</guid>
-      <pubDate>Wed, 21 May 2025 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Target U.S. Critical Infrastructure with LummaC2 Malware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/threat-actors-target-us-critical-infrastructure-lummac2-malware</link>
-      <description>The joint Cybersecurity Advisory by CISA and the FBI details the tactics, techniques, and procedures, as well as indicators of compromise (IOCs), linked to threat actors deploying LummaC2 malware. This malware poses a serious threat capable of infiltrating networks and exfiltrating sensitive information across U.S. critical infrastructure sectors. The advisory urges organizations to review it and implement recommended mitigations to reduce exposure and impact.</description>
-      <guid isPermaLink="false">/node/23422</guid>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141b</link>
-      <description>The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) have issued a joint advisory on LummaC2 malware, highlighting its tactics, techniques, and procedures (TTPs). The advisory provides guidance on mitigations to reduce the risk of compromise by LummaC2 malware, including implementing application controls, protecting against phishing campaigns, and exercising, testing, and validating security programs.</description>
-      <guid isPermaLink="false">/node/23420</guid>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian GRU Cyber Actors Targeting Western Logistics Entities and Tech Companies</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/russian-gru-cyber-actors-targeting-western-logistics-entities-and-tech-companies</link>
-      <description>A joint cybersecurity advisory was released by CISA, NSA, FBI, and other U.S. and international partners regarding a Russian state-sponsored cyber espionage campaign targeting Western logistics entities and technology companies, including those involved in delivering foreign assistance to Ukraine. The campaign is attributed to the Russian General Staff Main Intelligence Directorate (GRU) 85th Main Special Service Center, military unit 26165, which has been previously linked to IP camera attacks in Ukraine and bordering NATO nations.</description>
-      <guid isPermaLink="false">/node/23421</guid>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian GRU Targeting Western Logistics Entities and Technology Companies</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a</link>
-      <description>FYSA:
-
-As a cybersecurity analyst, I analyzed the article provided, which appears to be a threat report on GRU unit 26165's tactics and techniques used in malicious activities. The article highlights various indicators of compromise (IoCs), tactics, techniques, and procedures (TTPs) employed by this actor group.
-
-The report discusses multiple aspects of cybersecurity, including:
-
-1. Identity and Access Management: It emphasizes the importance of strong access controls, multi-factor authentication, and account throttling or lockout to prevent credential theft.
-2. Network Security: The article suggests disabling NTLM entirely and migrating to more robust authentication processes like PKI certificate authentication.
-3. IP Camera Security: It provides guidelines for securing IP cameras by ensuring they are currently supported, applying security patches and firmware updates, disabling remote access if unnecessary, and using a VPN for remote connections.
-
-The report also includes several mitigation techniques, such as:
-
-1. Disable Universal Plug and Play (UPnP), Peer-to-Peer (P2P), and Anonymous Visit features on IP cameras and routers.
-2. Turn off other ports/services not in use (e.g., FTP, web interface, etc.).
-3. Configure, tune, and monitor logging if available on the IP camera.
-
-In conclusion, this report is a valuable resource for cybersecurity professionals seeking to understand and mitigate GRU unit 26165's tactics and techniques. It provides actionable guidance on various aspects of network security, identity and access management, and IP camera security.</description>
-      <guid isPermaLink="false">/node/23341</guid>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SideWinder APT Hackers Exploits Legacy Office Vulnerabilities to Deploy Malware Undetected</title>
-      <link>https://gbhackers.com/sidewinder-apt-hackers-exploits-legacy-office-vulnerabilities/</link>
-      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2017-0199, CVE-2017-11882; Summary: The SideWinder APT group exploits unpatched legacy Microsoft Office vulnerabilities to deploy credential-stealing malware, using spear-phishing emails with malicious Word or RTF attachments. The exploit chain begins with remote code execution and memory corruption bugs, and ultimately leads to the exfiltration of sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137533</guid>
-      <pubDate>Wed, 21 May 2025 11:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kettering Health hit by system-wide outage after ransomware attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</link>
-      <description>A healthcare network, Kettering Health, experienced a system-wide technology outage due to a cyberattack, which forced the cancellation of inpatient and outpatient procedures. The attack may have involved ransomware, as Interlock ransomware gang is suspected to be behind the incident.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</guid>
-      <pubDate>Wed, 21 May 2025 11:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing CI/CD workflows with Wazuh</title>
-      <link>https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</link>
-      <description>The article discusses the risks associated with Continuous Integration and Continuous Delivery/Deployment (CI/CD) workflows, including supply chain attacks, insecure dependencies, insider threats, lack of visibility, compliance requirements, code and dependency vulnerabilities, container vulnerabilities, and misconfiguration of CI/CD tools. It highlights the importance of integrating security measures into CI/CD pipelines to maintain confidentiality, integrity, and availability.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</guid>
-      <pubDate>Wed, 21 May 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cellcom Confirms Cybersecurity Breach After Network Failure</title>
-      <link>https://gbhackers.com/cellcom-confirms-cybersecurity-breach/</link>
-      <description>The article reports a cyberattack on Cellcom/Nsight's network infrastructure, causing a five-day service disruption. The company confirmed the incident and assured customers that sensitive personal information remains secure. The attack did not compromise customer data repositories.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137500</guid>
-      <pubDate>Wed, 21 May 2025 10:51:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit Internal Data Leak Reveals Payload Creation Methods and Ransom Demands</title>
-      <link>https://gbhackers.com/lockbit-internal-data-leak-reveals-payload/</link>
-      <description>This article reveals a major data breach of the LockBit ransomware group's operations, exposing internal processes and sensitive data. The leak includes details on ransomware payload creation, negotiation tactics with victims, and configuration data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137506</guid>
-      <pubDate>Wed, 21 May 2025 10:38:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Detect Phishing Attacks Faster: Tycoon2FA Example</title>
-      <link>https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</link>
-      <description>The article discusses the importance of phishing detection in corporate environments and highlights the capabilities of ANY.RUN's Interactive Sandbox in detecting and analyzing evasive phishing attacks. It provides a real-world example of a suspicious email and walks through how the sandbox can be used to detonate every stage of an attack, from the first click to the final payload. The article emphasizes the benefits of using sandboxes like ANY.RUN in detecting and responding to phishing threats quickly and efficiently.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</guid>
-      <pubDate>Wed, 21 May 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
