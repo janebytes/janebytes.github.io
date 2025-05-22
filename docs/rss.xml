@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 18:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 19:03:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CefSharp Enumeration Tool Identifies Critical Security Issues in .NET Desktop Applications</title>
+      <link>https://gbhackers.com/cefsharp-enumeration-tool-identifies-critical-security/</link>
+      <description>Vulnerable Product: CefSharp; CVE(s): None; Summary: CefSharp, a lightweight wrapper around the Chromium Embedded Framework (CEF), allows developers to embed Chromium browsers within .NET applications. However, this powerful framework often lacks proper security hardening, exposing applications to severe risks such as stealthy exploitation, persistence mechanisms, and even Remote Code Execution (RCE) when misconfigurations are present.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137943</guid>
+      <pubDate>Thu, 22 May 2025 18:01:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ghosted by a cybercriminal</title>
+      <link>https://blog.talosintelligence.com/ghosted-by-a-cybercriminal/</link>
+      <description>FYSA:
+
+The article discusses the trend of threat actors forming partnerships or "partnerships" across the attack chain, with each group handling a slice of the operation. The author notes that this compartmentalized approach can lead to fragile supply chains and potential issues if one actor drops out. The article also mentions recent examples of cybercriminal groups imploding due to poor communication, infighting, or other issues.</description>
+      <guid isPermaLink="false">682e27f35a640a000109c19a</guid>
+      <pubDate>Thu, 22 May 2025 18:00:30 +0000</pubDate>
+    </item>
     <item>
       <title>Russian Hackers Exploit Oracle Cloud Infrastructure to Target Scaleway Object Storage</title>
       <link>https://gbhackers.com/russian-hackers-exploit-oracle-cloud-infrastructure/</link>
@@ -196,6 +212,13 @@
       <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The pair of security flaws allows execution of arbitrary code on a vulnerable device without authentication. They were exploited by UNC5221, a Chinese cyber espionage group, to target various sectors across Europe, North America, and Asia-Pacific. The attack chain involves targeting the "/mifs/rs/api/v2/" endpoint to obtain an interactive reverse shell and remotely execute commands.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</guid>
       <pubDate>Thu, 22 May 2025 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-4632; Summary: The vulnerability allows for path traversal, posing a significant risk to the federal enterprise and other organizations. It has been added to the Known Exploited Vulnerabilities Catalog due to evidence of active exploitation.</description>
+      <guid isPermaLink="false">/node/23428</guid>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Releases Two Industrial Control Systems Advisories</title>
@@ -1418,27 +1441,6 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>The official site for RVTools has been hacked to serve a compromised installer for the popular VMware environment reporting utility. Additionally, Procolored printers have been found to include malicious software with features such as collecting system information, logging keystrokes, and propagating via connected USB drives.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html</guid>
       <pubDate>Mon, 19 May 2025 15:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Legal Aid Agency confirms applicant data stolen in data breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/</link>
-      <description>A data breach has occurred at the United Kingdom's Legal Aid Agency (LAA), where hackers stole a large amount of sensitive applicant data, including contact details, dates of birth, national ID numbers, criminal history, employment status, and financial information. The agency is advising all applicants to be vigilant for potential scam attempts targeting them.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/</guid>
-      <pubDate>Mon, 19 May 2025 15:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Reveals Hackers Targeting US Following UK Retailer Attacks</title>
-      <link>https://gbhackers.com/google-reveals-hackers-targeting-us/</link>
-      <description>UNC3944, a well-known hacker collective, has been identified by the Google Threat Intelligence Group (GTIG) as a persistent and dynamic cyberthreat. The group has evolved from initial SIM swap operations to ransomware and data theft extortion tactics, with a focus on large enterprises in English-speaking countries. Their modus operandi relies heavily on sophisticated social engineering, and they have orchestrated sector-specific waves of attacks, including financial services, food services, and retail sectors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136669</guid>
-      <pubDate>Mon, 19 May 2025 15:03:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skitnet Malware Employs Stealth Techniques to Execute Payload and Maintain Persistence Techniques</title>
-      <link>https://gbhackers.com/skitnet-malware-employs-stealth-techniques/</link>
-      <description>Skitnet (Bossnet) is a highly sophisticated multi-stage malware developed by the threat group LARVA-306. It features advanced stealth techniques and evasion methods to execute its malicious payload, maintain persistent access on infected systems, and evade detection by security defenses.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136656</guid>
-      <pubDate>Mon, 19 May 2025 14:52:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
