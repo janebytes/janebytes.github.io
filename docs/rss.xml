@@ -6,8 +6,71 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 15:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 16:04:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Authorities carry out global takedown of infostealer used by cybercriminals</title>
+      <link>https://arstechnica.com/security/2025/05/authorities-carry-out-global-takedown-of-infostealer-used-by-cybercriminals/</link>
+      <description>Vulnerable Product: None; Summary: Lumma is an info stealer malware used by various cybercriminal groups, including Scattered Spider and nation-state actors, to steal sensitive information such as credit card numbers, cryptocurrency data, and more. The malware's prevalence has made it easier for attackers to hide their tracks, and its usage has exploded in recent years.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/authorities-carry-out-global-takedown-of-infostealer-used-by-cybercriminals/</guid>
+      <pubDate>Thu, 22 May 2025 16:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Deploy Weaponized npm Packages to Target React and Node.js JavaScript Frameworks</title>
+      <link>https://gbhackers.com/hackers-deploy-weaponized-npm-packages/</link>
+      <description>Vulnerable Product: Various npm packages; CVE(s): None; Summary: A series of malicious npm packages have been found targeting popular frameworks like React, Vue.js, Vite, Node.js, and the Quill Editor. The packages were crafted by a threat actor under the npm alias “xuxingfeng” and carry destructive payloads aimed at corrupting data, deleting critical files, and triggering system shutdowns.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137855</guid>
+      <pubDate>Thu, 22 May 2025 15:50:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police arrests 270 dark web vendors, buyers in global crackdown</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-arrests-270-dark-web-vendors-buyers-in-global-crackdown/</link>
+      <description>The article reports on an international law enforcement operation called "Operation RapTor" that targeted dark web vendors and customers from ten countries. The operation resulted in 270 arrests, the seizure of €184 million in cash and cryptocurrency, over 2 tonnes of drugs, and over 180 firearms.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-arrests-270-dark-web-vendors-buyers-in-global-crackdown/</guid>
+      <pubDate>Thu, 22 May 2025 15:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious VS Code Extensions Target Windows Solidity Developers to Steal Login Credentials</title>
+      <link>https://gbhackers.com/malicious-vs-code-extensions-target-windows-solidity-developers/</link>
+      <description>A targeted malware campaign targeting Solidity developers on Windows systems uses malicious Visual Studio Code (VS Code) extensions as the initial attack vector. The campaign delivers a complex multi-stage infection chain to steal cryptocurrency wallet credentials and establish persistence on victim systems, highlighting the risk of supply chain attacks in development environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137794</guid>
+      <pubDate>Thu, 22 May 2025 15:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumma Stealer Infrastructure Behind Global Attacks on Millions of Users Dismantled</title>
+      <link>https://gbhackers.com/lumma-stealer-infrastructure-behind-global-attacks/</link>
+      <description>The US Justice Department, in collaboration with the FBI and private sector partners like Microsoft, has disrupted the Lumma Stealer malware infrastructure, a notorious Malware-as-a-Service platform linked to over 1.7 million instances of data theft worldwide. The operation involved seizing five critical internet domains used as user panels for deploying the malware and marks a decisive step in curbing one of the most active cyber threats in recent years.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137953</guid>
+      <pubDate>Thu, 22 May 2025 15:32:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Using Trusted Google Domains to Spread Malicious Code</title>
+      <link>https://gbhackers.com/cybercriminals-using-trusted-google-domains/</link>
+      <description>Vulnerable Product: Google APIs; CVE(s): None; Summary: Cybercriminals are exploiting integrations with Google APIs, specifically through JSONP calls, to inject malicious scripts into legitimate online stores, redirecting unsuspecting shoppers to fraudulent payment pages and tricking them into disclosing sensitive credit card information.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137756</guid>
+      <pubDate>Thu, 22 May 2025 15:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel Zero-Day SMB Vulnerability Discovered via ChatGPT</title>
+      <link>https://gbhackers.com/linux-kernel-zero-day-smb-vulnerability/</link>
+      <description>Vulnerable Product: The Linux kernel's SMB server implementation using OpenAI's o3 language model; CVE(s): CVE-2025-37899; Summary: A zero-day use-after-free bug in the Linux kernel's SMB server implementation allows remote attackers to execute arbitrary code with kernel privileges by exploiting a race condition.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137893</guid>
+      <pubDate>Thu, 22 May 2025 15:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks</title>
+      <link>https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html</link>
+      <description>Vulnerable Product: Trimble Cityworks; CVE(s): CVE-2025-0944; Summary: A remote-code-execution vulnerability in Trimble Cityworks, tracked as CVE-2025-0944 (CVSS score: 8.6), allows attackers to deliver Cobalt Strike and VShell. The vulnerability has been exploited by the Chinese-speaking threat actor UAT-6382 to conduct reconnaissance, deploy web shells, and maintain long-term access to infected systems.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html</guid>
+      <pubDate>Thu, 22 May 2025 15:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gujarat Teen Arrested for Orchestrating Over 50 Cyberattacks in ‘Operation Sindoor’</title>
+      <link>https://gbhackers.com/gujarat-teen-arrested-for-orchestrating-over-50-cyberattacks/</link>
+      <description>The Gujarat Anti-Terrorism Squad (ATS) apprehended two individuals, including a minor, for orchestrating sophisticated cyber attacks against Indian websites and disseminating anti-national content online. The suspects demonstrated advanced technical proficiency despite limited formal education, having established multiple communication channels to document and share their exploits.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137879</guid>
+      <pubDate>Thu, 22 May 2025 15:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco Webex Meetings Vulnerability Enables HTTP Response Manipulation</title>
       <link>https://gbhackers.com/cisco-webex-meetings-vulnerability/</link>
@@ -302,69 +365,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The IonMonkey JIT compiler in Mozilla Firefox contains an integer overflow remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
       <guid isPermaLink="false">ZDI-CAN-27172</guid>
       <pubDate>Wed, 21 May 2025 18:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-292: (Pwn2Own) Mozilla Firefox SpiderMonkey Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-292/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Mozilla Firefox. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists within the SpiderMonkey engine due to lack of proper validation of user-supplied data, resulting in a write past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-27202</guid>
-      <pubDate>Wed, 21 May 2025 18:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-293: Microsoft Windows Installer Service Link Following Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-293/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29837; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by creating a symbolic link within the Windows Installer service, granting read access to arbitrary files and potentially disclosing stored credentials. An attacker must first obtain low-privileged code execution to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-26153</guid>
-      <pubDate>Wed, 21 May 2025 18:06:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-294: Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-294/</link>
-      <description>Vulnerable Product: Microsoft PC Manager; CVE(s): CVE-2025-29975; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft PC Manager by creating a symbolic link and abusing the MSPCManagerService, allowing deletion of arbitrary files. An attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be leveraged to escalate privileges and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26137</guid>
-      <pubDate>Wed, 21 May 2025 18:06:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-295: Trend Micro Apex Central widget getObjWGFServiceApiByApiName Local File Inclusion Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-295/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47865; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central by leveraging a local file inclusion remote code execution flaw in the getObjWGFServiceApiByApiName function, requiring authentication to exploit.</description>
-      <guid isPermaLink="false">ZDI-CAN-24938</guid>
-      <pubDate>Wed, 21 May 2025 18:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics</title>
-      <link>https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2020-12641, CVE-2020-35730, CVE-2021-44026, CVE-2023-23397, CVE-2023-38831; Summary: APT28 (aka BlueDelta, Fancy Bear, or Forest Blizzard) has been attributed to a state-sponsored campaign targeting Western logistics entities and technology companies since 2022. The campaign uses a mix of previously disclosed tactics, techniques, and procedures (TTPs), including password spraying, spear-phishing, modifying Microsoft Exchange mailbox permissions for espionage purposes, and exploiting vulnerabilities in various webmail services like Roundcube, Horde, MDaemon, and Zimbra.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html</guid>
-      <pubDate>Wed, 21 May 2025 18:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-296: Trend Micro Apex Central modTMCM Unrestricted File Upload Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-296/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47866; Summary: This vulnerability allows remote attackers to upload arbitrary files on affected installations of Trend Micro Apex Central, requiring authentication to exploit. The issue stems from a lack of proper validation of user-supplied data, enabling the upload of arbitrary files and potentially allowing code execution in the context of IUSR.</description>
-      <guid isPermaLink="false">ZDI-CAN-25331</guid>
-      <pubDate>Wed, 21 May 2025 18:05:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-297: Trend Micro Apex Central widget getBlock Local File Inclusion Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-297/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47867; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central, requiring authentication. The issue stems from the lack of proper validation of user-supplied data prior to passing it to a PHP include function, which can be exploited to execute code in the context of IUSR.</description>
-      <guid isPermaLink="false">ZDI-CAN-24936</guid>
-      <pubDate>Wed, 21 May 2025 18:05:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-298: Apple macOS MP4 File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-298/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31233; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS, requiring user interaction. It exists within the parsing of MP4 files due to lack of proper validation of user-supplied data, resulting in memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26826</guid>
-      <pubDate>Wed, 21 May 2025 18:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-299: Apple macOS acv2 Codec Converter Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-299/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31208; Summary: The acv2 codec converter in Apple macOS allows remote attackers to disclose sensitive information through an out-of-bounds read information disclosure vulnerability. User interaction is required, and the issue stems from a lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26783</guid>
-      <pubDate>Wed, 21 May 2025 18:04:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
