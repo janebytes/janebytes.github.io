@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 19:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 20:00:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Destructive malware available in NPM repo went unnoticed for 2 years</title>
+      <link>https://arstechnica.com/information-technology/2025/05/destructive-malware-available-in-npm-repo-went-unnoticed-for-2-years/</link>
+      <description>Vulnerable Product: NPM (Node Package Manager); CVE(s): None; Summary: The article reports on malicious NPM packages that were designed to detonate on specific dates in 2023 and beyond. The packages, masquerading as legitimate development tools, targeted users of popular JavaScript ecosystems such as React, Vue, and Vite. The impact includes system shutdowns, file deletion, and JavaScript prototype corruption if installed.</description>
+      <guid isPermaLink="true">https://arstechnica.com/information-technology/2025/05/destructive-malware-available-in-npm-repo-went-unnoticed-for-2-years/</guid>
+      <pubDate>Thu, 22 May 2025 19:15:27 +0000</pubDate>
+    </item>
     <item>
       <title>CefSharp Enumeration Tool Identifies Critical Security Issues in .NET Desktop Applications</title>
       <link>https://gbhackers.com/cefsharp-enumeration-tool-identifies-critical-security/</link>
@@ -1434,13 +1441,6 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>Microsoft has open-sourced the Windows Subsystem for Linux (WSL), making its source code available on GitHub, except for a few components that are part of Windows. This move is expected to increase community involvement and contributions to the project, allowing developers to inspect the code, build it themselves, submit improvements, and understand how WSL works under the hood.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/</guid>
       <pubDate>Mon, 19 May 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer</title>
-      <link>https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html</link>
-      <description>The official site for RVTools has been hacked to serve a compromised installer for the popular VMware environment reporting utility. Additionally, Procolored printers have been found to include malicious software with features such as collecting system information, logging keystrokes, and propagating via connected USB drives.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html</guid>
-      <pubDate>Mon, 19 May 2025 15:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
