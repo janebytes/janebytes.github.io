@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 21:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 22:01:44 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Oops: DanaBot Malware Devs Infected Their Own PCs</title>
+      <link>https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/</link>
+      <description>This article reports on a malware-as-a-service platform called DanaBot, which was used for credential theft and banking fraud. The FBI unsealed criminal charges against 16 individuals accused of operating and selling the malware, which infected over 300,000 systems globally and caused estimated losses of more than $50 million.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71351</guid>
+      <pubDate>Thu, 22 May 2025 21:53:21 +0000</pubDate>
+    </item>
     <item>
       <title>US indicts leader of Qakbot botnet linked to ransomware attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/</link>
@@ -226,6 +233,13 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The pair of security flaws allows execution of arbitrary code on a vulnerable device without authentication. They were exploited by UNC5221, a Chinese cyber espionage group, to target various sectors across Europe, North America, and Asia-Pacific. The attack chain involves targeting the "/mifs/rs/api/v2/" endpoint to obtain an interactive reverse shell and remotely execute commands.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</guid>
       <pubDate>Thu, 22 May 2025 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advisory Update on Cyber Threat Activity Targeting Commvault’s SaaS Cloud Application (Metallic)</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/advisory-update-cyber-threat-activity-targeting-commvaults-saas-cloud-application-metallic</link>
+      <description>Vulnerable Product: Commvault Metallic Microsoft 365 backup software-as-a-service (SaaS); CVE(s): CVE-2025-3928; Summary: Threat actors may have accessed client secrets for Commvault's Metallic M365 backup SaaS solution, hosted in Azure, providing unauthorized access to customers' M365 environments. This vulnerability is part of a larger campaign targeting various SaaS companies' cloud applications with default configurations and elevated permissions.</description>
+      <guid isPermaLink="false">/node/23430</guid>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
@@ -1427,20 +1441,6 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>A security researcher has published a method for gathering threat intelligence on Cobalt Strike beacons using Shodan and PowerShell. The technique allows security professionals to collect configuration data from active Cobalt Strike servers, including beacon SpawnTo values and watermarks, which are critical for detection and attribution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136752</guid>
       <pubDate>Mon, 19 May 2025 16:14:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volkswagen Car Hack Exposes Owner’s Personal Data and Service Records</title>
-      <link>https://gbhackers.com/volkswagen-car-hack-exposes-owners-personal-data/</link>
-      <description>Vulnerable Product: Volkswagen My Volkswagen app; CVE(s): None; Summary: The My Volkswagen app contains critical security flaws that allowed unauthorized access to vehicle information and personal data. A security researcher discovered the vulnerabilities by exploiting a fundamental authentication weakness and identified multiple API vulnerabilities, including the exposure of sensitive user information and internal system credentials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136714</guid>
-      <pubDate>Mon, 19 May 2025 16:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft confirms new "Advanced" Settings for Windows 11</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/</link>
-      <description>This article is not about a vulnerability, but rather discusses the new "Advanced Settings" feature in Windows 11. The feature allows users and developers to personalize their OS experience by customizing File Explorer and Virtual Machines settings.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/</guid>
-      <pubDate>Mon, 19 May 2025 16:06:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
