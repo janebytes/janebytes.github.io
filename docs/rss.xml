@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 16:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 17:01:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers use fake Ledger apps to steal Mac users’ seed phrases</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/</link>
+      <description>Vulnerable Product: Ledger; CVE(s): None; Summary: Cybercriminals are using fake Ledger apps to target macOS users and steal seed phrases that protect access to digital cryptocurrency wallets. The malicious apps impersonate the legitimate Ledger app, tricking users into entering their seed phrase on a phishing page.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/</guid>
+      <pubDate>Thu, 22 May 2025 16:45:56 +0000</pubDate>
+    </item>
     <item>
       <title>Cityworks Zero-Day Vulnerability Used by UAT-638 Hackers to Infect IIS Servers with Shell Malware</title>
       <link>https://gbhackers.com/cityworks-zero-day-vulnerability-used-by-uat-638-hackers/</link>
@@ -35,6 +42,13 @@
       <description>Vulnerable Product: None; Summary: Lumma is an info stealer malware used by various cybercriminal groups, including Scattered Spider and nation-state actors, to steal sensitive information such as credit card numbers, cryptocurrency data, and more. The malware's prevalence has made it easier for attackers to hide their tracks, and its usage has exploded in recent years.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/05/authorities-carry-out-global-takedown-of-infostealer-used-by-cybercriminals/</guid>
       <pubDate>Thu, 22 May 2025 16:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Halo Security Achieves SOC 2 Type 1 Compliance, Validating Security Controls for Its Attack Surface Management Platform</title>
+      <link>https://gbhackers.com/halo-security-achieves-soc-2-type-1-compliance/</link>
+      <description>Halo Security, a provider of attack surface management and penetration testing services, has achieved SOC 2 Type 1 compliance following an audit by Insight Assurance. This certification demonstrates the company's commitment to protecting customer data with robust security measures, implemented policies, and defined access controls. The achievement is seen as essential for a company that helps organizations identify and remediate security vulnerabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138008</guid>
+      <pubDate>Thu, 22 May 2025 15:53:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Deploy Weaponized npm Packages to Target React and Node.js JavaScript Frameworks</title>
@@ -1425,20 +1439,6 @@ The article discusses Microsoft's new Windows AI Foundry, a tool that helps deve
       <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two Firefox zero-day vulnerabilities were demonstrated at the Pwn2Own Berlin 2025 hacking competition. The flaws, tracked under CVE-2025-4918 and CVE-2025-4919, are an out-of-bounds read/write issue in the JavaScript engine and a flaw allowing attackers to perform out-of-bounds reads/writes on a JavaScript object.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/</guid>
       <pubDate>Mon, 19 May 2025 14:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers earn $1,078,750 for 28 zero-days at Pwn2Own Berlin</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/</link>
-      <description>The article reports on the Pwn2Own Berlin 2025 hacking competition, where security researchers exploited 29 zero-day vulnerabilities and earned $1,078,750 in cash awards. No specific vulnerability details are provided.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/</guid>
-      <pubDate>Mon, 19 May 2025 14:03:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/19/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM), MDaemon Email Server, Srimax Output Messenger, Synacor Zimbra Collaboration Suite (ZCS), ZKTeco BioTime; CVE(s): CVE-2025-4427, CVE-2025-4428, CVE-2024-11182, CVE-2025-27920, CVE-2024-27443, CVE-2023-38950; Summary: Six new vulnerabilities have been added to the Known Exploited Vulnerabilities Catalog due to evidence of active exploitation. These vulnerabilities affect Ivanti Endpoint Manager Mobile, MDaemon Email Server, Srimax Output Messenger, Synacor Zimbra Collaboration Suite (ZCS), and ZKTeco BioTime, and are frequent attack vectors for malicious cyber actors, posing significant risks to the federal enterprise.</description>
-      <guid isPermaLink="false">/node/23401</guid>
-      <pubDate>Mon, 19 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
