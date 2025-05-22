@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 12:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 13:02:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>FTC finalizes order requiring GoDaddy to secure hosting services</title>
+      <link>https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/</link>
+      <description>GoDaddy has finalized an order with the FTC to secure its services after allegations of data security failures led to several breaches since 2018. The order requires GoDaddy to establish a robust information security program, secure APIs, and implement multi-factor authentication (MFA) among other measures.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/</guid>
+      <pubDate>Thu, 22 May 2025 12:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks</title>
+      <link>https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</link>
+      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The pair of security flaws allows execution of arbitrary code on a vulnerable device without authentication. They were exploited by UNC5221, a Chinese cyber espionage group, to target various sectors across Europe, North America, and Asia-Pacific. The attack chain involves targeting the "/mifs/rs/api/v2/" endpoint to obtain an interactive reverse shell and remotely execute commands.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</guid>
+      <pubDate>Thu, 22 May 2025 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program</title>
+      <link>https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html</link>
+      <description>The article discusses the importance of having a structured cybersecurity program to meet legal and industry standards, citing new privacy laws, ransomware lawsuits, and regulatory investigations as examples of the increasing expectations on organizations. It promotes a free webinar hosted with the Center for Internet Security (CIS) that provides a practical approach to building a cybersecurity program that meets these standards.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html</guid>
+      <pubDate>Thu, 22 May 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpatched Versa Concerto Flaws Let Attackers Escape Docker and Compromise Host</title>
+      <link>https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html</link>
+      <description>Vulnerable Product: Versa Concerto; CVE(s): CVE-2025-34025, CVE-2025-34026, CVE-2025-34027; Summary: The Versa Concerto network security and SD-WAN orchestration platform has multiple critical vulnerabilities that can be exploited to take control of susceptible instances. These vulnerabilities include a privilege escalation and Docker container escape vulnerability (CVE-2025-34025), an authentication bypass vulnerability in the Traefik reverse proxy configuration (CVE-2025-34026 and CVE-2025-34027), which could allow remote code execution using LD_PRELOAD and a reverse shell.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html</guid>
+      <pubDate>Thu, 22 May 2025 11:06:00 +0000</pubDate>
+    </item>
     <item>
       <title>Signal now blocks Microsoft Recall screenshots on Windows 11</title>
       <link>https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/</link>
@@ -335,34 +363,6 @@ Note: There is no specific product or software mentioned in the article, but rat
       <description>A coordinated disruption action targeted the Lumma malware-as-a-service information stealer operation, resulting in Microsoft's seizure of approximately 2,300 domains and multiple law enforcement authorities and tech companies disrupting its infrastructure. The effort denied access to the control panel, marketplace, and Internet infrastructure used by the malware, imposing operational and financial costs on both the operators and customers.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/</guid>
       <pubDate>Wed, 21 May 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Scan Uncovers 150K Industrial Systems Worldwide Vulnerable to Cyberattacks</title>
-      <link>https://gbhackers.com/new-scan-uncovers-150k-industrial-systems/</link>
-      <description>The article reports that approximately 150,000 industrial control systems (ICS) worldwide are directly accessible on the public internet, posing severe risks of catastrophic cyberattacks. The study utilized advanced application-layer scanning to identify ICS devices, revealing a large number of exposed systems globally, with many not designed with robust security measures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137582</guid>
-      <pubDate>Wed, 21 May 2025 15:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Introduces Enhanced Administrator Protection to Strengthen Security Against Elevated Privilege Attacks</title>
-      <link>https://gbhackers.com/windows-11-introduces-enhanced-administrator-protection/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The article discusses the introduction of Administrator Protection, a security feature designed to safeguard systems against privilege escalation attacks. This feature creates a security boundary around administrative operations by implementing a hidden system-managed profile-separated local user account that generates isolated admin tokens, preventing user-level malware from compromising code running in elevated contexts and eliminating auto-elevation functionality.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137592</guid>
-      <pubDate>Wed, 21 May 2025 15:51:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs</title>
-      <link>https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</link>
-      <description>Vulnerable Product: Google Chrome Web Store; CVE(s): None; Summary: A malicious campaign has been discovered on the Google Chrome Web Store, featuring over 100 fake browser extensions that mimic legitimate tools to steal browser cookies and execute remote scripts. The extensions offer some functionality but also connect to threat actor infrastructure to steal user information or receive commands to execute.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</guid>
-      <pubDate>Wed, 21 May 2025 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows</title>
-      <link>https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</link>
-      <description>The article discusses the importance of patch management in cybersecurity, highlighting the challenges organizations face in executing consistent and secure patching at scale. It introduces ThreatLocker's Patch Management solution as a way to provide security teams with greater control, visibility, and confidence over patching workflows while minimizing risks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</guid>
-      <pubDate>Wed, 21 May 2025 14:02:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
