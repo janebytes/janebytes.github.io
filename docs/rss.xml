@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 10:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 11:01:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Signal now blocks Microsoft Recall screenshots on Windows 11</title>
+      <link>https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The Microsoft Recall feature, introduced in May 2024, continuously takes screenshots of all active windows every few seconds and analyzes them to build a database that can be searched using natural language. This has been criticized by security experts as a privacy nightmare and significant security risk due to the potential for attackers to steal user data.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/</guid>
+      <pubDate>Thu, 22 May 2025 10:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Security Has an Automation Problem—And It's Bigger Than You Think</title>
+      <link>https://thehackernews.com/2025/05/identity-security-has-automation.html</link>
+      <description>New research from Cerby reveals that human error remains a significant threat to enterprise security, with few organizations having fully automated their core identity workflows. Manual processes and reliance on humans for tasks like password management, MFA enablement, and user provisioning leave organizations exposed to breaches and compliance failures. The study highlights the need for automation in identity security, citing a 41% manual sharing of passwords and an 89% reliance on users for MFA enablement.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/identity-security-has-automation.html</guid>
+      <pubDate>Thu, 22 May 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware</title>
       <link>https://blog.talosintelligence.com/uat-6382-exploits-cityworks-vulnerability/</link>
@@ -349,20 +363,6 @@ Note: There is no specific product or software mentioned in the article, but rat
       <description>The article discusses the importance of patch management in cybersecurity, highlighting the challenges organizations face in executing consistent and secure patching at scale. It introduces ThreatLocker's Patch Management solution as a way to provide security teams with greater control, visibility, and confidence over patching workflows while minimizing risks.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</guid>
       <pubDate>Wed, 21 May 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Union sanctions Stark Industries for enabling cyberattacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/</link>
-      <description>This article does not discuss a specific vulnerability, but rather the imposition of sanctions by the European Union against web-hosting provider Stark Industries and its owners for enabling "destabilising activities" against the EU.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/</guid>
-      <pubDate>Wed, 21 May 2025 13:37:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms</title>
-      <link>https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html</link>
-      <description>The article discusses a phishing campaign targeting Russian organizations, distributing malware called PureRAT. The attack chain begins with a phishing email containing a RAR file attachment or link, which extracts an executable that unpacks and runs the main payload, PureRAT.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html</guid>
-      <pubDate>Wed, 21 May 2025 13:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
