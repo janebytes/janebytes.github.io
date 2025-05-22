@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 14:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 15:08:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cisco Webex Meetings Vulnerability Enables HTTP Response Manipulation</title>
+      <link>https://gbhackers.com/cisco-webex-meetings-vulnerability/</link>
+      <description>Vulnerable Product: Cisco Webex Meetings; CVE(s): None; Summary: The vulnerability in Cisco Webex Meetings allows remote attackers to manipulate HTTP responses without authentication using HTTP cache poisoning techniques. This could potentially disrupt how the service delivers responses to client applications, allowing attackers to compromise the integrity of HTTP responses and return incorrect information to legitimate clients.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137838</guid>
+      <pubDate>Thu, 22 May 2025 14:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Expert Reveals the Hidden Dangers of Bad Code on Your PC’s Performance</title>
+      <link>https://gbhackers.com/microsoft-expert-reveals-the-hidden-dangers-of-bad-code/</link>
+      <description>Vulnerable Product: Microsoft .NET; CVE(s): None; Summary: The .NET framework has a memory leak when using the "reloadOnChange: true" parameter in configuration files. This can cause gradual system resource consumption, leading to slow performance or crashes. The issue is more prominent in .NET 7 and higher due to changes in memory management architecture.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137866</guid>
+      <pubDate>Thu, 22 May 2025 14:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti EPMM flaw exploited by Chinese hackers to breach govt agencies</title>
+      <link>https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/</link>
+      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4428; Summary: A remote code execution flaw (CVE-2025-4428) allows attackers to execute code remotely on Ivanti EPMM version 12.5.0.0 and earlier via specially crafted API requests, which has been exploited by the UNC5221 activity cluster since May 15, 2025.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/</guid>
+      <pubDate>Thu, 22 May 2025 14:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Unified Intelligence Center Vulnerability Allows Privilege Escalation</title>
+      <link>https://gbhackers.com/cisco-unified-intelligence-center-vulnerability/</link>
+      <description>Vulnerable Product: Cisco Unified Intelligence Center; CVE(s): CVE-2025-20113, CVE-2025-20114; Summary: The Unified Intelligence Center contains two security vulnerabilities that allow authenticated remote attackers to escalate privileges. The more severe flaw (CVE-2025-20113) has a CVSS score of 7.1 and enables attackers to elevate their privileges to Administrator level for a limited set of functions, while the secondary vulnerability (CVE-2025-20114) allows horizontal privilege escalation attacks through insecure direct object references.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137830</guid>
+      <pubDate>Thu, 22 May 2025 14:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-47949: Samlify Authentication Bypass Vulnerability</title>
+      <link>https://socradar.io/cve-2025-47949-samlify-authentication-bypass-flaw/</link>
+      <description>Vulnerable Product: Samlify; CVE(s): CVE-2025-47949; Summary: A critical Signature Wrapping vulnerability (CVE-2025-47949) in Samlify versions prior to v2.10.0 allows attackers to bypass authentication mechanisms, granting unauthorized access. The flaw enables manipulation of signed SAML responses, posing a significant risk to systems relying on SAML-based Single Sign-On (SSO).</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060162</guid>
+      <pubDate>Thu, 22 May 2025 14:13:23 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese hackers breach US local governments using Cityworks zero-day</title>
       <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/</link>
@@ -21,6 +56,13 @@
       <description>The National Institute of Standards and Technology (NIST) and the Cybersecurity and Infrastructure Security Agency (CISA) have introduced a new security metric called Likely Exploited Vulnerabilities (LEV) to improve vulnerability management. The LEV metric aims to predict which vulnerabilities are most likely to be exploited, enabling organizations to prioritize remediation efforts more efficiently.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137799</guid>
       <pubDate>Thu, 22 May 2025 13:22:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disrupting Lumma Stealer Malware – Microsoft Leads Global Action</title>
+      <link>https://socradar.io/disrupting-lumma-stealer-malware-microsoft-leads-global-action/</link>
+      <description>This article is not about a vulnerability, but rather discusses the takedown of LummaC2, an infostealer malware strain used by threat actors worldwide. The malware was distributed via spear phishing emails, malicious links, and spoofed software downloads, and had features such as browser data theft, credential harvesting, and crypto wallet extraction.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060152</guid>
+      <pubDate>Thu, 22 May 2025 13:09:13 +0000</pubDate>
     </item>
     <item>
       <title>Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise</title>
@@ -63,6 +105,17 @@
       <description>Vulnerable Product: Versa Concerto; CVE(s): CVE-2025-34025, CVE-2025-34026, CVE-2025-34027; Summary: The Versa Concerto network security and SD-WAN orchestration platform has multiple critical vulnerabilities that can be exploited to take control of susceptible instances. These vulnerabilities include a privilege escalation and Docker container escape vulnerability (CVE-2025-34025), an authentication bypass vulnerability in the Traefik reverse proxy configuration (CVE-2025-34026 and CVE-2025-34027), which could allow remote code execution using LD_PRELOAD and a reverse shell.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html</guid>
       <pubDate>Thu, 22 May 2025 11:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Cyber Attacks in Review: April 2025</title>
+      <link>https://socradar.io/major-cyber-attacks-in-review-april-2025/</link>
+      <description>FYSA:
+
+This article provides a roundup of 10 notable cybersecurity incidents that occurred in April 2025. The incidents include data breaches at healthcare providers, telecom giants, and open-source ecosystems, as well as ransomware attacks and hacktivist activity. The article highlights the patterns behind these incidents, including credential theft, misconfigurations, and vulnerable third parties. It also provides an overview of the impact of these incidents and the measures taken to contain them.
+
+Additionally, the article touches on various cybersecurity-relevant topics, such as SIM swapping, phishing-resistant MFA, and the importance of connected visibility across digital footprints.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060131</guid>
+      <pubDate>Thu, 22 May 2025 10:44:49 +0000</pubDate>
     </item>
     <item>
       <title>Signal now blocks Microsoft Recall screenshots on Windows 11</title>
@@ -158,6 +211,13 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Researchers discovered a novel process injection technique that exploits shared memory regions and thread context manipulation to execute malicious payloads without triggering standard detection heuristics. This method bypasses leading Endpoint Detection and Response (EDR) systems by avoiding traditional memory allocation and modification patterns, evading detection in multiple commercial EDR products.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137682</guid>
       <pubDate>Thu, 22 May 2025 08:19:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Deep Web and Dark Web Forums</title>
+      <link>https://socradar.io/top-10-deep-web-and-dark-web-forums/</link>
+      <description>The article discusses the top Dark Web hacker forums, which serve as key platforms for threat actors to share tools, trade stolen data, and coordinate illicit activities. These forums are not static and can evolve, vanish, or reappear under new names and leadership. The article highlights the importance of tracking these forums for security researchers and professionals engaged in Dark Web threat intelligence.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100043222</guid>
+      <pubDate>Thu, 22 May 2025 08:00:57 +0000</pubDate>
     </item>
     <item>
       <title>ThreatBook Recognized as a Notable Vendor in Global Network Analysis and Visibility (NAV) Report</title>
@@ -305,62 +365,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31208; Summary: The acv2 codec converter in Apple macOS allows remote attackers to disclose sensitive information through an out-of-bounds read information disclosure vulnerability. User interaction is required, and the issue stems from a lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26783</guid>
       <pubDate>Wed, 21 May 2025 18:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-300: Apple macOS PDF Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-300/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31209; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. The flaw exists within the parsing of PDF files due to lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26714</guid>
-      <pubDate>Wed, 21 May 2025 18:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-301: Apple Safari Scrollbar Animation Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-301/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-31238; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari, requiring user interaction. The flaw exists in the handling of scrollbar animation due to a lack of validating an object's existence before performing operations on it.</description>
-      <guid isPermaLink="false">ZDI-CAN-26150</guid>
-      <pubDate>Wed, 21 May 2025 18:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-302: Apple macOS CoreMedia Framework Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-302/</link>
-      <description>Vulnerable Product: Apple macOS CoreMedia Framework; CVE(s): CVE-2025-31239; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. User interaction is required, and the specific flaw exists within the CoreMedia framework due to a lack of proper validation of user-supplied data, resulting in memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26650</guid>
-      <pubDate>Wed, 21 May 2025 18:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-303: Apple Safari SandboxBroker ZIP File Processing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-303/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-24222; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple Safari by reading past the end of an allocated buffer when processing ZIP files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26148</guid>
-      <pubDate>Wed, 21 May 2025 18:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-304: Apple macOS JPEG Image Decoding Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-304/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31251; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS by exploiting an out-of-bounds write in the JPEG image decoding functionality. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26603</guid>
-      <pubDate>Wed, 21 May 2025 18:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-305: Apple XNU kernel vm_map Race Condition Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-305/</link>
-      <description>Vulnerable Product: Apple XNU kernel; CVE(s): CVE-2025-31219; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Apple macOS. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the handling of virtual memory allocations in the macOS kernel.</description>
-      <guid isPermaLink="false">ZDI-CAN-24156</guid>
-      <pubDate>Wed, 21 May 2025 18:03:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target Mobile Users Using PWA JavaScript to Bypass Browser Security</title>
-      <link>https://gbhackers.com/hackers-target-mobile-users-using-pwa-javascript/</link>
-      <description>A new injection campaign targets mobile users through malicious third-party JavaScript, delivering a Chinese adult-content Progressive Web App (PWA) scam. The attack injects scripts into compromised websites, filtering out desktop users and exclusively targeting mobile devices to deliver fake adult content zones and push malware downloads for Android and iOS devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137642</guid>
-      <pubDate>Wed, 21 May 2025 17:27:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>3AM ransomware uses spoofed IT calls, email bombing to breach networks</title>
-      <link>https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</link>
-      <description>The article describes a targeted ransomware attack campaign conducted by a 3AM ransomware affiliate using email bombing and spoofed IT support calls to socially engineer employees into giving credentials for remote access. The attackers used tactics such as vishing via Microsoft Teams, Quick Assist abuse, and real phone phishing to gain access to corporate systems.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</guid>
-      <pubDate>Wed, 21 May 2025 17:27:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
