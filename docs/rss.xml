@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 13:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 14:04:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Chinese hackers breach US local governments using Cityworks zero-day</title>
+      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/</link>
+      <description>Vulnerable Product: Trimble Cityworks; CVE(s): CVE-2025-0994; Summary: The Trimble Cityworks GIS-based asset management software contains a high-severity deserialization vulnerability (CVE-2025-0994) that allows authenticated threat actors to execute code remotely on Microsoft IIS servers. The vulnerability was exploited by Chinese-speaking hackers, known as UAT-6382, to breach multiple local governing bodies across the United States.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/</guid>
+      <pubDate>Thu, 22 May 2025 13:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>New NIST Security Metric Aims to Pinpoint Exploited Vulnerabilities</title>
+      <link>https://gbhackers.com/nist-security-metric-aims-to-pinpoint/</link>
+      <description>The National Institute of Standards and Technology (NIST) and the Cybersecurity and Infrastructure Security Agency (CISA) have introduced a new security metric called Likely Exploited Vulnerabilities (LEV) to improve vulnerability management. The LEV metric aims to predict which vulnerabilities are most likely to be exploited, enabling organizations to prioritize remediation efforts more efficiently.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=137799</guid>
+      <pubDate>Thu, 22 May 2025 13:22:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise</title>
+      <link>https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html</link>
+      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: A privilege escalation flaw has been demonstrated in Windows Server 2025 that makes it possible for attackers to compromise any user in Active Directory (AD) by exploiting the delegated Managed Service Account (dMSA) feature. The attack simulates the dMSA migration process, allowing an attacker to gain similar privileges and breach the entire domain even if the organization's Windows Server 2025 domain isn't using dMSAs at all.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html</guid>
+      <pubDate>Thu, 22 May 2025 12:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>FTC finalizes order requiring GoDaddy to secure hosting services</title>
       <link>https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/</link>
@@ -21,6 +42,13 @@
       <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The pair of security flaws allows execution of arbitrary code on a vulnerable device without authentication. They were exploited by UNC5221, a Chinese cyber espionage group, to target various sectors across Europe, North America, and Asia-Pacific. The attack chain involves targeting the "/mifs/rs/api/v2/" endpoint to obtain an interactive reverse shell and remotely execute commands.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</guid>
       <pubDate>Thu, 22 May 2025 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Best Practices Guide for Securing AI Data Released</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/new-best-practices-guide-securing-ai-data-released</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency, the Federal Bureau of Investigation, and international partners released a joint information sheet on AI data security best practices. The document highlights the importance of securing data used to train and operate AI systems to ensure their accuracy, integrity, and trustworthiness. It provides recommendations for organizations to adopt robust data protection measures, proactively manage risks, and strengthen monitoring and threat detection capabilities.</description>
+      <guid isPermaLink="false">/node/23419</guid>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program</title>
@@ -137,6 +165,13 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>ThreatBook, a global leader in cyber threat and response solutions, has been recognized as a notable vendor in Forrester's Network Analysis And Visibility Solutions Landscape, Q2 2025 report. This recognition highlights ThreatBook's technical excellence and strong market performance in delivering real-time security insights across cloud, hybrid, and on-premises environments.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137688</guid>
       <pubDate>Thu, 22 May 2025 05:23:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-Aligned TAG-110 Targets Tajikistan with Macro-Enabled</title>
+      <link>https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-tajikistan-with-macro-enabled</link>
+      <description>This article reports on a phishing campaign attributed to TAG-110, a Russia-aligned threat actor. The campaign targets Tajikistan government institutions and educational/research bodies, using macro-enabled Word template files (.dotm) as lure material. The documents share VBA code with previous campaigns, indicating the group's persistence in targeting Central Asia. Insikt Group warns of potential further attacks and provides recommendations for detection and prevention.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-tajikistan-with-macro-enabled</guid>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic web config hints at Claude Sonnet 4 and Opus 4</title>
@@ -326,43 +361,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>The article describes a targeted ransomware attack campaign conducted by a 3AM ransomware affiliate using email bombing and spoofed IT support calls to socially engineer employees into giving credentials for remote access. The attackers used tactics such as vishing via Microsoft Teams, Quick Assist abuse, and real phone phishing to gain access to corporate systems.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</guid>
       <pubDate>Wed, 21 May 2025 17:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docker Zombie Malware Infects Containers for Crypto Mining and Self-Replication</title>
-      <link>https://gbhackers.com/docker-zombie-malware-infects-containers/</link>
-      <description>Vulnerable Product: Docker; CVE(s): None; Summary: The article describes a novel malware campaign that targets containerized infrastructures by exploiting insecurely exposed Docker APIs. The attack spreads malicious containers and mines Dero cryptocurrency using self-replicating propagation mechanism, transforming compromised containers into "zombies" that mine cryptocurrency and infect new victims.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137633</guid>
-      <pubDate>Wed, 21 May 2025 17:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Masquerade as Organizations to Steal Payroll Logins and Redirect Payments from Employees</title>
-      <link>https://gbhackers.com/hackers-masquerade-as-organizations-to-steal-payroll-logins/</link>
-      <description>A sophisticated search engine optimization (SEO) poisoning scheme has been deployed to orchestrate payroll fraud against a manufacturing sector customer. The attack involves creating fake authentication portals that mirror legitimate organizational login pages, manipulating search engine results to rank malicious sites at the top, and exploiting mobile-specific SEO manipulation to redirect users to phishing pages mimicking Microsoft login portals.
-
-Note: There is no specific product or software mentioned in the article, but rather a technique used by attackers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137623</guid>
-      <pubDate>Wed, 21 May 2025 17:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>PupkinStealer Exploits Web Browser Passwords and App Tokens to Exfiltrate Data Through Telegram</title>
-      <link>https://gbhackers.com/pupkinstealer-exploits-web-browser-passwords/</link>
-      <description>PupkinStealer (also known as PumpkinStealer) is a .NET-based information-stealing malware that targets sensitive data such as web browser passwords and application session tokens. It uses Telegram's Bot API to exfiltrate stolen data, and employs tactics mapped to the MITRE ATT&amp;CK framework for initial access through phishing and social engineering.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137617</guid>
-      <pubDate>Wed, 21 May 2025 16:26:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>71 Fake Websites Impersonating German Retailer to Steal Payment Information</title>
-      <link>https://gbhackers.com/71-fake-websites-impersonating-german-retailer/</link>
-      <description>A sprawling network of 71 fraudulent e-commerce domains impersonating a German retailer has been detected, employing advanced brand impersonation tactics and designed to harvest personal and financial data. The primary goal is to facilitate downstream fraud and card compromise, posing significant financial risks to card issuers and merchant acquirers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137608</guid>
-      <pubDate>Wed, 21 May 2025 16:15:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma infostealer malware operation disrupted, 2,300 domains seized</title>
-      <link>https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/</link>
-      <description>A coordinated disruption action targeted the Lumma malware-as-a-service information stealer operation, resulting in Microsoft's seizure of approximately 2,300 domains and multiple law enforcement authorities and tech companies disrupting its infrastructure. The effort denied access to the control panel, marketplace, and Internet infrastructure used by the malware, imposing operational and financial costs on both the operators and customers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/</guid>
-      <pubDate>Wed, 21 May 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
