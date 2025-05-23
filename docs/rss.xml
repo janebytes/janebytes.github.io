@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 18:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 19:01:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Dozens of malicious packages on NPM collect host and network data</title>
@@ -42,6 +42,15 @@
       <description>Hackers are targeting macOS users with malicious clones of Ledger Live, stealing passwords, wallet details, and seed phrases. The malware campaign uses social engineering tactics to bypass security defenses and exfiltrate sensitive data. The attacks involve fake apps, phishing pages, and command-and-control servers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138255</guid>
       <pubDate>Fri, 23 May 2025 17:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique</title>
+      <link>https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html</link>
+      <description>Latrodectus malware uses ClickFix as a distribution vector, allowing it to execute in memory and bypass detection by browsers or security tools. The malware is a downloader for other payloads, such as ransomware, and has been observed using PowerShell commands to trick users into executing malicious files.
+
+FYSA: A new social engineering campaign is spreading on TikTok, using AI-generated videos to deliver Vidar and StealC information stealers. The videos instruct users to run malicious commands to activate Windows, Microsoft Office, CapCut, and Spotify, compromising their own systems.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html</guid>
+      <pubDate>Fri, 23 May 2025 17:24:00 +0000</pubDate>
     </item>
     <item>
       <title>Hacker steals $223 million in Cetus Protocol cryptocurrency heist</title>
@@ -1431,13 +1440,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-06</link>
       <description>Vulnerable Product: Schneider Electric PrismaSeT Active - Wireless Panel Server; CVE(s): CVE-2023-4041; Summary: A buffer copy without checking size of input (classic buffer overflow) vulnerability in the Silicon Labs Gecko Bootloader on ARM allows code injection, authentication bypass. Successful exploitation could result in unauthorized code execution and unavailability of the PrismaSeT Active - Wireless Panel Server for voltage loss monitoring.</description>
       <guid isPermaLink="false">/node/23411</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Modicon Controllers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-08</link>
-      <description>Vulnerable Product: Schneider Electric Modicon Controllers M241/M251/M258/LMC058; CVE(s): CVE-2025-2875; Summary: The vulnerability, CWE-610, is an externally controlled reference to a resource in another sphere, which can cause a loss of confidentiality when an unauthenticated attacker manipulates a controller's webserver URL to access resources. Exploitation could occur remotely with low attack complexity.</description>
-      <guid isPermaLink="false">/node/23413</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
