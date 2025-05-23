@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 19:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 20:00:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Feds charge 16 Russians allegedly tied to botnets used in cyberattacks and spying</title>
+      <link>https://arstechnica.com/security/2025/05/feds-charge-16-russians-allegedly-tied-to-botnets-used-in-cyberattacks-and-spying/</link>
+      <description>A significant milestone was achieved in disrupting a large-scale Russian-origin hacking operation, DanaBot, which was involved in both state-sponsored and criminal activities. The takedown of DanaBot's infrastructure may have created a vacuum, allowing another group to take its place, but repeated disruptions can keep the threat actors on their heels.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/feds-charge-16-russians-allegedly-tied-to-botnets-used-in-cyberattacks-and-spying/</guid>
+      <pubDate>Fri, 23 May 2025 19:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers cause GitLab AI developer assistant to turn safe code malicious</title>
+      <link>https://arstechnica.com/security/2025/05/researchers-cause-gitlab-ai-developer-assistant-to-turn-safe-code-malicious/</link>
+      <description>Vulnerable Product: None; Summary: An attacker can embed an instruction into source code or a merge request to leak confidential resources available to the targeted user by exploiting Duo's chatbot feature. The exploit uses base64 encoding and appending the stolen data inside a GET request sent to a user-controlled website, allowing exfiltration of sensitive information such as source code or vulnerability reports.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/researchers-cause-gitlab-ai-developer-assistant-to-turn-safe-code-malicious/</guid>
+      <pubDate>Fri, 23 May 2025 19:06:59 +0000</pubDate>
+    </item>
     <item>
       <title>Dozens of malicious packages on NPM collect host and network data</title>
       <link>https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/</link>
@@ -1426,20 +1440,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-01</link>
       <description>Vulnerable Product: ABUP IoT Cloud Platform; CVE(s): CVE-2025-4692; Summary: Incorrect Privilege Assignment vulnerability allows an attacker to access device profiles for which they are not authorized by submitting a malicious JSON Web Token (JWT) to the cloud platform. Successful exploitation can escalate privileges to access any device managed by the Cloud Update Platform.</description>
       <guid isPermaLink="false">/node/23406</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assured Telematics Inc (ATI) Fleet Management System with Geotab Integration</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-11</link>
-      <description>Vulnerable Product: Assured Telematics Inc. Fleet Management System; CVE(s): CVE-2025-4364; Summary: The vulnerability allows an unauthenticated attacker to access sensitive file system information or obtain administrative credentials, exposing the system to potential exploitation. Successful exploitation could lead to further unauthorized access and data theft.</description>
-      <guid isPermaLink="false">/node/23416</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric PrismaSeT Active - Wireless Panel Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-06</link>
-      <description>Vulnerable Product: Schneider Electric PrismaSeT Active - Wireless Panel Server; CVE(s): CVE-2023-4041; Summary: A buffer copy without checking size of input (classic buffer overflow) vulnerability in the Silicon Labs Gecko Bootloader on ARM allows code injection, authentication bypass. Successful exploitation could result in unauthorized code execution and unavailability of the PrismaSeT Active - Wireless Panel Server for voltage loss monitoring.</description>
-      <guid isPermaLink="false">/node/23411</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
