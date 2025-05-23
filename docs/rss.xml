@@ -6,8 +6,115 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 22:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 10:08:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>TikTok videos now push infostealer malware in ClickFix attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/</link>
+      <description>Cybercriminals are using TikTok videos, possibly generated using AI, to trick users into infecting themselves with Vidar and StealC information-stealing malware through ClickFix attacks. The videos instruct viewers to run PowerShell commands, which download and execute remote scripts that install the malware, allowing it to steal sensitive information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/</guid>
+      <pubDate>Fri, 23 May 2025 09:50:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Endgame Crushes DanaBot Malware, Shuts Down 150 C2 Servers and Halts 1,000 Daily Attacks</title>
+      <link>https://gbhackers.com/operation-endgame-crushes-danabot-malware/</link>
+      <description>This article is not about a vulnerability, but rather an operation to disrupt a notorious malware called DanaBot. The operation, known as Operation Endgame II, successfully dismantled a significant portion of DanaBot's infrastructure and exposed its sophisticated tactics behind its resilience.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138098</guid>
+      <pubDate>Fri, 23 May 2025 09:28:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple XNU Kernel Flaw Enables Attackers to Escalate Privileges</title>
+      <link>https://gbhackers.com/apple-xnu-kernel-flaw/</link>
+      <description>Vulnerable Product: Apple; CVE(s): CVE-2025-31219; Summary: The vulnerability in Apple's XNU kernel (CVE-2025-31219) allows local attackers to escalate privileges and execute arbitrary code with kernel-level access. The flaw arises from improper memory handling and a race condition, which can be exploited by an attacker with low privileges on the target system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138079</guid>
+      <pubDate>Fri, 23 May 2025 09:12:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside LockBit: Data Leak Reveals Leading Affiliates and How They Operate</title>
+      <link>https://gbhackers.com/lockbit-data-leak-reveals-leading-affiliates/</link>
+      <description>The article provides a unique glimpse into the inner workings of the LockBit ransomware group's "LockBit Lite" panel, which offers an accessible entry point for novice threat actors. The leaked data reveals the group's focus on Chinese organizations and Russian targets, as well as its attempts to recruit new members. The article also highlights the operational inefficiencies within the Lite program, including decryptor failures and instances where affiliates provided basic security advice to victims.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138082</guid>
+      <pubDate>Fri, 23 May 2025 09:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ViciousTrap Hackers Breaches 5,500+ Edge Devices from 50+ Brands, Turns Them into Honeypots</title>
+      <link>https://gbhackers.com/vicioustrap-hackers-breaches-5500-edge-devices/</link>
+      <description>Vulnerable Product: Various; CVEs: CVE-2023-20118, CVE-2021-32030; Summary: A sophisticated threat actor, dubbed ViciousTrap, has compromised over 5,500 edge devices from multiple brands, transforming them into a massive honeypot-like network. The attack chain begins with the exploitation of known vulnerabilities and deploys a shell script to redirect inbound traffic to attacker-controlled interception servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138035</guid>
+      <pubDate>Fri, 23 May 2025 09:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Notepad gets AI-powered text writing capabilities</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/</link>
+      <description>The article discusses the development of AI-powered features in Microsoft's Notepad application, including a new "Write" feature that generates text based on custom prompts. It also mentions updates to Paint and Snipping Tool, as well as other related news and announcements from Microsoft.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/</guid>
+      <pubDate>Fri, 23 May 2025 08:26:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hacker Indicted Over $24 Million Qakbot Ransomware Operation</title>
+      <link>https://gbhackers.com/24-million-qakbot-operation/</link>
+      <description>The U.S. Department of Justice has indicted Rustam Rafailevich Gallyamov for leading the development and deployment of the Qakbot malware, which infected over 700,000 computers globally and enabled ransomware attacks, credential theft, and botnet activity. The malware's capabilities included credential harvesting, lateral movement, payload delivery, persistence, and evasion.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138073</guid>
+      <pubDate>Fri, 23 May 2025 07:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Zero-Day Under Attack: PoC Now Publicly Available</title>
+      <link>https://gbhackers.com/fortinet-zero-day-poc/</link>
+      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-32756; Summary: The vulnerability allows for unauthenticated remote code execution due to a stack-based buffer overflow in the handling of session cookies within the administrative API. Attackers can supply a base64-encoded string that exceeds the allocated buffer size, resulting in an overflow and potential arbitrary code execution with elevated privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138030</guid>
+      <pubDate>Fri, 23 May 2025 07:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation</title>
+      <link>https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html</link>
+      <description>This article is not about a vulnerability, but rather discusses the disruption of an online infrastructure associated with DanaBot malware and unsealed charges against 16 individuals for their alleged involvement in its development and deployment. The article highlights the impact of DanaBot on hundreds of thousands of victims worldwide, causing millions of dollars in losses, and its capabilities to steal data, hijack banking sessions, and provide remote access.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html</guid>
+      <pubDate>Fri, 23 May 2025 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police takes down 300 servers in ransomware supply-chain crackdown</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-takes-down-300-servers-in-ransomware-supply-chain-crackdown/</link>
+      <description>Operation Endgame, an international law enforcement operation, seized 300 servers and 650 domains used for launching ransomware attacks. The operation targeted various cybercrime operations, including Bumblebee, Lactrodectus, Qakbot, DanaBot, Trickbot, and Warmcookie, disrupting the services criminals rely on to deploy ransomware.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-takes-down-300-servers-in-ransomware-supply-chain-crackdown/</guid>
+      <pubDate>Fri, 23 May 2025 06:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Crackdown Nets 270 Dark Web Vendors in Major Arrests</title>
+      <link>https://gbhackers.com/global-crackdown-nets-270-dark-web-vendors-in-major-arrests/</link>
+      <description>FYSA:
+
+Operation RapTor was a coordinated international crackdown on cyber-enabled crime on the dark web, resulting in the arrest of 270 individuals involved in trafficking drugs, weapons, counterfeit goods, and illicit services. The operation used sophisticated intelligence gathering and technical forensics to identify vendors and buyers who had conducted thousands of illicit trades, despite relying on end-to-end encryption and anonymizing networks like Tor.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138029</guid>
+      <pubDate>Fri, 23 May 2025 06:37:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Alerts on Threat Actors Targeting Commvault Azure App to Steal Secrets</title>
+      <link>https://gbhackers.com/cisa-alerts-commvault-azure-app/</link>
+      <description>Vulnerable Product: Commvault Metallic software-as-a-service (SaaS); CVE(s): CVE-2025-3928, CVE-2025-34028; Summary: A zero-day vulnerability (CVE-2025-3928) in Commvault's web server was exploited by threat actors to access client secrets for the MetallicMicrosoft 365 (M365)backup solution. The compromise allowed attackers to potentially access customers' M365 environments and pose a risk to sensitive enterprise data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138028</guid>
+      <pubDate>Fri, 23 May 2025 06:12:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs</title>
+      <link>https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html</link>
+      <description>Vulnerable Product: Commvault Web Server; CVE(s): CVE-2025-3928; Summary: A zero-day vulnerability in the Commvault Web Server (CVE-2025-3928) allows remote, authenticated attackers to create and execute web shells, enabling unauthorized access to customer M365 environments. The vulnerability was exploited by a nation-state threat actor, which may have accessed client secrets and app credentials.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html</guid>
+      <pubDate>Fri, 23 May 2025 05:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts</title>
+      <link>https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html</link>
+      <description>Vulnerable Product: GitLab Duo; CVE(s): None; Summary: An indirect prompt injection flaw in GitLab's AI-powered coding assistant Duo allows attackers to steal source code, manipulate code suggestions, and exfiltrate confidential information. The vulnerability enables threat actors to inject hidden prompts within merge requests, commit messages, or comments, which can then be used to execute malicious JavaScript packages or redirect users to fake login pages.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html</guid>
+      <pubDate>Fri, 23 May 2025 04:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude 4 benchmarks show improvements, but context is still 200K</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/</link>
+      <description>Anthropic announced Claude 4 models, which outperform previous models and competitors in coding benchmarks. However, the model still has a limited context window of 200,000 tokens, lagging behind competitors like Google's Gemini 2.5 Pro and ChatGPT's 4.1 models.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/</guid>
+      <pubDate>Thu, 22 May 2025 23:17:10 +0000</pubDate>
+    </item>
     <item>
       <title>Oops: DanaBot Malware Devs Infected Their Own PCs</title>
       <link>https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/</link>
@@ -1334,113 +1441,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>OpenAI plans to combine multiple products into its next foundational model, GPT-5, aiming to make existing models better and more efficient. This move may reduce confusion caused by identical model names across different tasks. The company is also focusing on building the best coding model, Codex, which will be built upon the o3 reasoning model.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/</guid>
       <pubDate>Mon, 19 May 2025 22:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake KeePass password manager leads to ESXi ransomware attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/</link>
-      <description>Threat actors have been distributing trojanized versions of KeePass password manager for at least eight months to install Cobalt Strike beacons, steal credentials, and deploy ransomware. The campaign started with malicious KeePass installer promoted through Bing advertisements that led to fake software sites. The attack ultimately led to the company's VMware ESXi servers being encrypted with ransomware.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/</guid>
-      <pubDate>Mon, 19 May 2025 21:17:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phishing Attack Poses as Zoom Meeting Invites to Steal Login Credentials</title>
-      <link>https://gbhackers.com/new-phishing-attack-poses-as-zoom-meeting/</link>
-      <description>A newly identified phishing campaign targets users by masquerading as urgent Zoom meeting invitations from colleagues. The campaign leverages realism and psychological manipulation to steal login credentials, with a focus on customizing URLs using stolen data. Users are advised to verify authenticity and avoid interacting with suspicious links.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136865</guid>
-      <pubDate>Mon, 19 May 2025 20:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Hannibal Stealer Uses Stealth and Obfuscation to Evade Detection</title>
-      <link>https://gbhackers.com/new-hannibal-stealer-uses-stealth-and-obfuscation/</link>
-      <description>The Hannibal Stealer is a modular .NET info-stealer and credential harvester that demonstrates advanced stealth mechanisms and obfuscation techniques to bypass modern detection systems. It can extract sensitive data from browsers, cryptocurrency wallets, and popular applications, and features geofencing capabilities to avoid scrutiny in certain countries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136874</guid>
-      <pubDate>Mon, 19 May 2025 20:14:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese APT Hackers Target Organizations Using Korplug Loaders and Malicious USB Drives</title>
-      <link>https://gbhackers.com/chinese-apt-hackers-target-organizations/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article reports on advanced persistent threat (APT) groups with ties to China that have been targeting European governmental and industrial entities. These groups use sophisticated tactics and tools, including Korplug loaders, malicious USB drives, and backdoors, to infiltrate sensitive networks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136854</guid>
-      <pubDate>Mon, 19 May 2025 20:06:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cache Timing Techniques Used to Bypass Windows 11 KASLR and Reveal Kernel Base</title>
-      <link>https://gbhackers.com/cache-timing-techniques-used-to-bypass-windows-11/</link>
-      <description>Vulnerable Product: Windows 11; CVE(s): None; Summary: The article describes a cache timing side-channel attack that can circumvent Kernel Address Space Layout Randomization (KASLR) on fully updated Windows 11 PCs, exploiting speculative execution and processor cache behavior to infer the base address of ntoskrnl.exe. This attack requires no elevated privileges and has been successfully tested on Windows 11 version 10.0.26100.3775.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136841</guid>
-      <pubDate>Mon, 19 May 2025 19:44:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>O2 UK patches bug leaking mobile user location from call metadata</title>
-      <link>https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/</link>
-      <description>Vulnerable Product: O2 UK (VoLTE and WiFi Calling technologies); CVE(s): None; Summary: A flaw in O2 UK's implementation of VoLTE and WiFi Calling technologies allows anyone to expose the general location of a person and other identifiers by calling the target, including IMSI, IMEI, and cell location data. The issue was resolved after being reported by security researcher Daniel Williams on March 26 and 27, 2025.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/</guid>
-      <pubDate>Mon, 19 May 2025 19:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit AutoIT Scripts to Deploy Malware Targeting Windows Systems</title>
-      <link>https://gbhackers.com/hackers-exploit-autoit-scripts-to-deploy-malware/</link>
-      <description>A sophisticated attack leveraging AutoIT scripting language was discovered, featuring a double-layered AutoIT script designed to deploy a potentially devastating payload. The attack involves the deployment of malicious DLLs, including AsyncRAT and PureHVNC, allowing attackers to maintain long-term access to infected systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136828</guid>
-      <pubDate>Mon, 19 May 2025 18:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 emergency updates fix BitLocker recovery issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: Windows 10 systems with Intel vPro processors (10th gen or later) and Intel Trusted Execution Technology (TXT) enabled may boot into BitLocker recovery after installing the May 2025 security updates. Installing KB5061768 emergency update or disabling TXT from BIOS can fix the issue.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/</guid>
-      <pubDate>Mon, 19 May 2025 17:59:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arla Foods confirms cyberattack disrupts production, causes delays</title>
-      <link>https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/</link>
-      <description>Arla Foods has been targeted by a cyberattack that disrupted its production operations at a facility in Germany, leading to product delivery delays or cancellations. The attack did not appear to involve data theft or encryption, and the type of attack and perpetrators remain unknown.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/</guid>
-      <pubDate>Mon, 19 May 2025 17:53:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Report Finds 67% of Organizations Experienced Cyber Attacks in the Last Year</title>
-      <link>https://gbhackers.com/new-report-finds-67-of-organizations/</link>
-      <description>A report by Hiscox Cyber Readiness Report 2024 shows a rising trend of cyberattacks across eight worldwide markets, with 67% of businesses experiencing attacks in the previous 12 months. The report highlights the impact of attacks on reputations, finances, and employee behavior, emphasizing the need for organizations to prioritize cybersecurity training and leadership.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136820</guid>
-      <pubDate>Mon, 19 May 2025 17:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auth0-PHP Vulnerability Enables Unauthorized Access for Attackers</title>
-      <link>https://gbhackers.com/auth0-php-vulnerability-enables-unauthorized-access/</link>
-      <description>Vulnerable Product: Auth0-PHP SDK; CVE(s): None; Summary: The Auth0-PHP SDK versions 8.0.0-BETA1 and newer have a critical security vulnerability that allows unauthorized access to applications through brute force attacks on session cookie authentication tags, potentially leading to session hijacking and exploitation of sensitive information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136783</guid>
-      <pubDate>Mon, 19 May 2025 16:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Active Exploitation of Ivanti EPMM Zero-Day Vulnerability in the Wild</title>
-      <link>https://gbhackers.com/ivanti-epmm-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: Ivanti Enterprise Mobility Management (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The zero-day vulnerability in Ivanti's EPMM platform can be chained with another vulnerability to achieve remote code execution, posing a significant threat to unpatched systems. Attackers have already attempted to exploit these security flaws, and many vulnerable instances remain exposed despite public disclosure.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136770</guid>
-      <pubDate>Mon, 19 May 2025 16:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft unveils Windows AI Foundry for AI-powered PC apps</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/</link>
-      <description>FYSA:
-
-The article discusses Microsoft's new Windows AI Foundry, a tool that helps developers build, experiment, and reach users with AI experiences in their apps. The feature allows for the integration of various AI models, including open-source ones from Nvidia, and provides ready-to-use APIs for tasks such as text intelligence and image description. Additionally, it includes features like Foundry Local, which automatically matches models to a device's hardware, and developer tools like a command-line tool and SDK.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/</guid>
-      <pubDate>Mon, 19 May 2025 16:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker Arrested for Taking Over SEC Social Media to Spread False Bitcoin News</title>
-      <link>https://gbhackers.com/hacker-arrested-for-taking-over-sec-social-media/</link>
-      <description>A 26-year-old man, Eric Council Jr., has been sentenced to 14 months in prison for orchestrating a sophisticated SIM swap attack that allowed him to hijack the U.S. Securities and Exchange Commission's (SEC) social media account on X, formerly known as Twitter. The unauthorized access was used to post false information about Bitcoin ETF approvals, causing significant market volatility in cryptocurrency prices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136763</guid>
-      <pubDate>Mon, 19 May 2025 16:17:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating Cobalt Strike Beacons Using Shodan: A Researcher’s Guide</title>
-      <link>https://gbhackers.com/investigating-cobalt-strike-beacons-using-shodan/</link>
-      <description>A security researcher has published a method for gathering threat intelligence on Cobalt Strike beacons using Shodan and PowerShell. The technique allows security professionals to collect configuration data from active Cobalt Strike servers, including beacon SpawnTo values and watermarks, which are critical for detection and attribution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136752</guid>
-      <pubDate>Mon, 19 May 2025 16:14:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
