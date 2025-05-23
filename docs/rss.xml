@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 10:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 11:02:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Winos 4.0 Malware Masquerades as VPN and QQBrowser to Target Users</title>
+      <link>https://gbhackers.com/winos-4-0-malware-masquerades-as-vpn-and-qqbrowser/</link>
+      <description>A sophisticated malware campaign using Winos 4.0, a memory-resident stager, has been uncovered by Rapid7, targeting users through fake installers of popular software like LetsVPN and QQBrowser. The campaign employs a multi-layered infection chain dubbed the Catena loader, which uses trojanized NSIS installers to deliver payloads entirely in memory, evading traditional antivirus tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138123</guid>
+      <pubDate>Fri, 23 May 2025 10:43:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection</title>
+      <link>https://thehackernews.com/2025/05/safeline-waf-open-source-web.html</link>
+      <description>None (This article is not about a vulnerability but provides information on the features and benefits of an open-source Web Application Firewall called SafeLine.)</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/safeline-waf-open-source-web.html</guid>
+      <pubDate>Fri, 23 May 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NETGEAR Router Flaw Allows Full Admin Access by Attackers</title>
+      <link>https://gbhackers.com/netgear-router-flaw/</link>
+      <description>Vulnerable Product: NETGEAR DGND3700v2 wireless routers; CVE(s): CVE-2025-4978; Summary: A severe authentication bypass vulnerability allows unauthenticated attackers to gain full administrative control over affected devices, enabling complete network compromise, credential theft, malware deployment, and traffic interception.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138115</guid>
+      <pubDate>Fri, 23 May 2025 10:20:24 +0000</pubDate>
+    </item>
     <item>
       <title>TikTok videos now push infostealer malware in ClickFix attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/</link>
@@ -1420,27 +1441,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>Vulnerable Product: Netgate pfSense; CVE(s): CVE-2024-57273, CVE-2024-54780, CVE-2024-54779; Summary: Three critical vulnerabilities were discovered in pfSense firewall software, allowing attackers to inject malicious code, corrupt configurations, and gain unauthorized access. The first vulnerability affects the Automatic Configuration Backup service, while the second involves authenticated command injection in the OpenVPN management interface. The third allows XML injection in dashboard widgets, enabling persistent XSS attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=136900</guid>
       <pubDate>Tue, 20 May 2025 06:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 Users Targeted by Tycoon2FA Linked Phishing Attack to Steal Credentials</title>
-      <link>https://gbhackers.com/microsoft-365-users-targeted-by-tycoon2fa-linked/</link>
-      <description>Vulnerable Product: Microsoft 365; CVE(s): None; Summary: A new wave of targeted phishing campaigns is targeting Microsoft 365 users. The attackers are leveraging malformed URLs with backslash characters (https:\\) to bypass conventional email security filters and evade URL-based detection mechanisms. Despite the apparent incorrect format, modern web browsers can still parse and resolve these links, landing victims on sophisticated credential harvesting sites.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136917</guid>
-      <pubDate>Tue, 20 May 2025 06:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts</title>
-      <link>https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html</link>
-      <description>Vulnerable Product: Python Package Index (PyPI); CVE(s): None; Summary: Malicious packages "checker-SaGaF", "steinlurks", and "sinnercore" were uploaded to PyPI, allowing threat actors to validate stolen email addresses against TikTok and Instagram APIs. These packages can be used to threaten account holders, sell validated user lists on the dark web, or launch credential stuffing or password spraying exploits.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html</guid>
-      <pubDate>Tue, 20 May 2025 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI plans to combine multiple models into GPT-5</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/</link>
-      <description>OpenAI plans to combine multiple products into its next foundational model, GPT-5, aiming to make existing models better and more efficient. This move may reduce confusion caused by identical model names across different tasks. The company is also focusing on building the best coding model, Codex, which will be built upon the o3 reasoning model.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/</guid>
-      <pubDate>Mon, 19 May 2025 22:11:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
