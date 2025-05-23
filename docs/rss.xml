@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 12:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 13:03:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>GenAI Assistant DIANNA Uncovers New Obfuscated Malware</title>
+      <link>https://gbhackers.com/genai-assistant-dianna/</link>
+      <description>BypassERWDirectSyscallShellcodeLoader is a sophisticated new malware strain generated with the assistance of large language models (LLMs) such as ChatGPT and DeepSeek. It is engineered with unprecedented speed, complexity, and obfuscation, rendering legacy antivirus (AV) solutions and signature-based defenses obsolete.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138230</guid>
+      <pubDate>Fri, 23 May 2025 12:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices</title>
+      <link>https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html</link>
+      <description>Vulnerable Product: Cisco Small Business RV016, RV042, RV042G, RV082, RV320, RV325 Routers; CVE(s): CVE-2023-20118; Summary: The vulnerability (CVE-2023-2018) is a critical security flaw that allows threat actors to compromise nearly 5,300 unique network edge devices and turn them into honeypot-like networks. Exploitation involves the execution of a shell script (NetGhost), which redirects incoming traffic to a honeypot infrastructure under attacker control, allowing interception of network flows.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html</guid>
+      <pubDate>Fri, 23 May 2025 12:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Expose 184 Million User Passwords via Open Directory</title>
+      <link>https://gbhackers.com/expose-184-million-user-passwords/</link>
+      <description>A publicly accessible database containing 184,162,718 unique logins and passwords has been discovered, exposing sensitive information such as emails, usernames, passwords, and direct URLs to login pages for various services. The database was not password-protected or encrypted, leaving it vulnerable to anyone who found it.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138222</guid>
+      <pubDate>Fri, 23 May 2025 12:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Formjacking Malware Targets E-Commerce Sites to Steal Credit Card Data</title>
+      <link>https://gbhackers.com/new-formjacking-malware-targets-e-commerce-sites/</link>
+      <description>Vulnerable Product: WooCommerce; CVE(s): None; Summary: A new formjacking malware targets WooCommerce-based e-commerce sites to steal sensitive credit card information. The malware seamlessly integrates into the legitimate payment workflow, mimicking design and functionality with precision, making it difficult for site owners and customers to detect. It captures input in real-time, ensuring data is harvested even if a transaction isn’t completed.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138207</guid>
+      <pubDate>Fri, 23 May 2025 12:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Duo Vulnerability Exploited to Inject Malicious Links and Steal Source Code</title>
+      <link>https://gbhackers.com/gitlab-duo-vulnerability-exploited/</link>
+      <description>Vulnerable Product: GitLab Duo; CVE(s): None; Summary: Attackers could exploit an indirect prompt injection flaw to exfiltrate private source code, manipulate AI-generated code suggestions, and leak confidential zero-day vulnerabilities by embedding malicious instructions in project content. The vulnerability leveraged GitLab Duo's real-time Markdown rendering and insufficient input sanitization, allowing attackers to inject raw HTML tags into the AI's responses.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138145</guid>
+      <pubDate>Fri, 23 May 2025 12:13:21 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Uncover Infrastructure and TTPs Behind ALCATRAZ Malware</title>
       <link>https://gbhackers.com/researchers-uncover-infrastructure-and-ttps/</link>
@@ -1406,41 +1441,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>Vulnerable Product: Microsoft Windows 11; CVE(s): CVE-2025-24076; Summary: A critical vulnerability in Windows 11 allowed attackers to escalate privileges from a standard user to system-level administrator in just 300 milliseconds through DLL hijacking. The flaw leveraged a Dynamic-link Library (DLL) hijacking technique within Windows 11's "Mobile devices" feature, enabling attackers to execute arbitrary code with system privileges.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137032</guid>
       <pubDate>Tue, 20 May 2025 09:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization</title>
-      <link>https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html</link>
-      <description>No vulnerabilities mentioned in the article; instead, it discusses threat actors and their tactics, techniques, and procedures (TTPs) used to target organizations.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html</guid>
-      <pubDate>Tue, 20 May 2025 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>O2 VoLTE Flaw Allows Tracking of Customers’ Locations Through Phone Calls</title>
-      <link>https://gbhackers.com/o2-volte-flaw-allows-tracking-of-customers-locations/</link>
-      <description>Vulnerable Product: O2 UK; CVE(s): None; Summary: The VoLTE implementation in O2 UK's network contained a significant privacy vulnerability that exposed precise location data of call recipients. The vulnerability allowed any caller to access the recipient's IMSI and IMEI numbers, as well as cell tower identification data, which could be used to geolocate the recipient with minimal technical expertise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136985</guid>
-      <pubDate>Tue, 20 May 2025 09:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Issues Urgent Patch to Resolve BitLocker Recovery Problem</title>
-      <link>https://gbhackers.com/microsoft-issues-urgent-patch-to-resolve-bitlocker/</link>
-      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: A critical issue affecting Windows 10 devices with specific Intel processors causes unexpected system failures and forces users to enter BitLocker recovery keys. The issue was introduced in the May 13, 2025 security update and is fixed by the emergency update KB5061768, which addresses a severe problem impacting devices with Intel Trusted Execution Technology (TXT) enabled on 10th generation or later Intel vPro processors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136969</guid>
-      <pubDate>Tue, 20 May 2025 09:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Package in Koishi Chatbots Steals Sensitive Data in Real Time</title>
-      <link>https://gbhackers.com/malicious-npm-package-in-koishi-chatbots/</link>
-      <description>Vulnerable Product: Koishi; CVE(s): None; Summary: The koishi-plugin-pinhaofa plugin for the Koishi chatbot framework contains a data-exfiltration backdoor that scans messages for eight-character hexadecimal strings and silently forwards sensitive data to a hardcoded QQ account, allowing real-time data theft.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137002</guid>
-      <pubDate>Tue, 20 May 2025 08:55:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse</title>
-      <link>https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</link>
-      <description>The article discusses two separate cybersecurity threats. The first is RedisRaider, a Linux cryptojacking campaign targeting publicly accessible Redis servers. The attackers use a bespoke scanner to identify vulnerable systems and inject malicious cron jobs using Redis's SET command. The end goal is to drop an XMRig miner on compromised systems. The second threat is a targeted campaign exploiting legacy authentication protocols in Microsoft Entra ID, bypassing defenses like MFA and Conditional Access.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</guid>
-      <pubDate>Tue, 20 May 2025 08:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
