@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 11:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 12:02:47 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Uncover Infrastructure and TTPs Behind ALCATRAZ Malware</title>
+      <link>https://gbhackers.com/researchers-uncover-infrastructure-and-ttps/</link>
+      <description>The article discusses a new malware family called DOUBLELOADER, which is protected by the open-source obfuscator ALCATRAZ. The malware uses various techniques such as control flow flattening, instruction mutation, and anti-disassembly tricks to hinder analysis.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138185</guid>
+      <pubDate>Fri, 23 May 2025 11:58:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>TAG-110 Hackers Deploy Malicious Word Templates in Targeted Attacks</title>
+      <link>https://gbhackers.com/tag-110-hackers-deploy-malicious-word-templates/</link>
+      <description>TAG-110, a Russia-aligned threat actor, has shifted tactics to target government, educational, and research entities in Tajikistan by leveraging macro-enabled Microsoft Word template files (.dotm) for initial access and persistence. The campaign involves the use of VBA macros to collect system information and transmit it to a command-and-control (C2) server, potentially deploying known TAG-110 malware.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138135</guid>
+      <pubDate>Fri, 23 May 2025 11:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide</title>
+      <link>https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html</link>
+      <description>As part of Operation Endgame, law enforcement agencies took down 300 servers, neutralized 650 domains, and issued arrest warrants against 20 targets. Additionally, €3.5 million in cryptocurrency was seized, bringing the total amount seized during the operation to over €21.2 million.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html</guid>
+      <pubDate>Fri, 23 May 2025 10:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Winos 4.0 Malware Masquerades as VPN and QQBrowser to Target Users</title>
       <link>https://gbhackers.com/winos-4-0-malware-masquerades-as-vpn-and-qqbrowser/</link>
@@ -28,6 +49,13 @@
       <description>Vulnerable Product: NETGEAR DGND3700v2 wireless routers; CVE(s): CVE-2025-4978; Summary: A severe authentication bypass vulnerability allows unauthenticated attackers to gain full administrative control over affected devices, enabling complete network compromise, credential theft, malware deployment, and traffic interception.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138115</guid>
       <pubDate>Fri, 23 May 2025 10:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scarcity signals: Are rare activities red flags?</title>
+      <link>https://blog.talosintelligence.com/scarcity-signals-are-rare-activities-red-flags/</link>
+      <description>The article presents a study by Cisco Talos analyzing PowerShell network connection logs from June 1, 2024 to December 31, 2024. The researchers found that domains that PowerShell rarely connects to are more likely to be malicious than frequently contacted domains, regardless of the PowerShell module used. The study highlights the importance of considering subdomains when looking for malicious network traffic and suggests focusing investigations on rare domains due to their higher likelihood of being malicious.</description>
+      <guid isPermaLink="false">682f3d9733f1ee0001266aae</guid>
+      <pubDate>Fri, 23 May 2025 10:00:34 +0000</pubDate>
     </item>
     <item>
       <title>TikTok videos now push infostealer malware in ClickFix attacks</title>
@@ -1413,34 +1441,6 @@ FYSA: Cisco Talos' research demonstrated that the technique used to exploit the 
       <description>The article discusses two separate cybersecurity threats. The first is RedisRaider, a Linux cryptojacking campaign targeting publicly accessible Redis servers. The attackers use a bespoke scanner to identify vulnerable systems and inject malicious cron jobs using Redis's SET command. The end goal is to drop an XMRig miner on compromised systems. The second threat is a targeted campaign exploiting legacy authentication protocols in Microsoft Entra ID, bypassing defenses like MFA and Conditional Access.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html</guid>
       <pubDate>Tue, 20 May 2025 08:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tor Browser 14.5.2 Released: Bug Fixes and Enhanced Features</title>
-      <link>https://gbhackers.com/tor-browser-14-5-2-released/</link>
-      <description>The article discusses the release of Tor Browser 14.5.2, which addresses security vulnerabilities, resolves privacy-related bugs, and implements infrastructural improvements. The update rebases its underlying engine on Firefox 128.10.1esr, prioritizes security by closing a potential loophole allowing malicious actors to bypass privacy controls, and strengthens cryptographic integrity by expanding the list of authorized signers for Tor Browser and Mullvad Browser tags.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136933</guid>
-      <pubDate>Tue, 20 May 2025 07:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>W3LL Phishing Kit Launches Active Campaign to Steal Outlook Login Credentials</title>
-      <link>https://gbhackers.com/w3ll-phishing-kit-launches-active-campaign/</link>
-      <description>Vulnerable Product: W3LL Phishing Kit; CVE(s): None; Summary: The W3LL phishing kit is a sophisticated tool that uses advanced adversary-in-the-middle (AitM) techniques to harvest Microsoft 365 Outlook login credentials. It allows threat actors to purchase functionalities and components needed to conduct tailored phishing campaigns, making it more accessible and adaptable than conventional off-the-shelf kits.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136966</guid>
-      <pubDate>Tue, 20 May 2025 07:47:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited Ivanti EPMM Zero-Day to KEV Catalog</title>
-      <link>https://gbhackers.com/ivanti-epmm-zero-day-to-kev-catalog/</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The vulnerabilities enable authentication bypass and remote code execution, respectively, due to insecure implementations of open-source libraries. CVE-2025-4427 allows unauthenticated attackers to bypass authentication mechanisms, while CVE-2025-4428 enables authenticated attackers to execute arbitrary code. These flaws could permit access to sensitive data without credentials or escalate privileges for malicious activities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136915</guid>
-      <pubDate>Tue, 20 May 2025 06:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical pfSense Firewall Flaws Enable Attackers to Inject Malicious Code</title>
-      <link>https://gbhackers.com/critical-pfsense-firewall-flaws/</link>
-      <description>Vulnerable Product: Netgate pfSense; CVE(s): CVE-2024-57273, CVE-2024-54780, CVE-2024-54779; Summary: Three critical vulnerabilities were discovered in pfSense firewall software, allowing attackers to inject malicious code, corrupt configurations, and gain unauthorized access. The first vulnerability affects the Automatic Configuration Backup service, while the second involves authenticated command injection in the OpenVPN management interface. The third allows XML injection in dashboard widgets, enabling persistent XSS attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=136900</guid>
-      <pubDate>Tue, 20 May 2025 06:39:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
