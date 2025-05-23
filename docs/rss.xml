@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 14:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 15:01:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>EU Targets Stark Industries in Cyberattack Sanctions Crackdown</title>
@@ -105,6 +105,13 @@
       <description>The article presents a study by Cisco Talos analyzing PowerShell network connection logs from June 1, 2024 to December 31, 2024. The researchers found that domains that PowerShell rarely connects to are more likely to be malicious than frequently contacted domains, regardless of the PowerShell module used. The study highlights the importance of considering subdomains when looking for malicious network traffic and suggests focusing investigations on rare domains due to their higher likelihood of being malicious.</description>
       <guid isPermaLink="false">682f3d9733f1ee0001266aae</guid>
       <pubDate>Fri, 23 May 2025 10:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Market: Torzon Market</title>
+      <link>https://socradar.io/dark-web-market-torzon-market/</link>
+      <description>No vulnerability is discussed in this article. The article provides an overview of a Dark Web marketplace called Torzon Market, which hosts illegal products and services and facilitates transactions through cryptocurrencies like Bitcoin and Monero. The article highlights the market's features, product categories, security measures, and threat implications.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060183</guid>
+      <pubDate>Fri, 23 May 2025 09:53:38 +0000</pubDate>
     </item>
     <item>
       <title>TikTok videos now push infostealer malware in ClickFix attacks</title>
@@ -368,6 +375,13 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <description>The Gujarat Anti-Terrorism Squad (ATS) apprehended two individuals, including a minor, for orchestrating sophisticated cyber attacks against Indian websites and disseminating anti-national content online. The suspects demonstrated advanced technical proficiency despite limited formal education, having established multiple communication channels to document and share their exploits.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137879</guid>
       <pubDate>Thu, 22 May 2025 15:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SANS 2025 Cyber Threat Intelligence (CTI) Survey: Navigating Uncertainty in Today’s Threat Landscape</title>
+      <link>https://socradar.io/sans-2025-cyber-threat-intelligence-cti-survey/</link>
+      <description>Vulnerable Product: None; Summary: This article is not about a vulnerability but provides insights into the Cyber Threat Intelligence (CTI) landscape, highlighting trends and best practices in 2025. It discusses the use of MITRE ATT&amp;CK framework, leveraging Artificial Intelligence (AI) in CTI workflows, and challenges faced by CTI teams.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060170</guid>
+      <pubDate>Thu, 22 May 2025 14:53:50 +0000</pubDate>
     </item>
     <item>
       <title>Cisco Webex Meetings Vulnerability Enables HTTP Response Manipulation</title>
@@ -1425,20 +1439,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>The article presents findings from the 2025 State of Pentesting Report, highlighting the strategies, tactics, and tools used by CISOs to cope with security alerts, breaches, and growing cyber risks. Key takeaways include the growth of software-based pentesting, increasing trust in automated tools, and the influence of cyber insurance providers on enterprise security priorities.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html</guid>
       <pubDate>Tue, 20 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DPRK IT Workers Impersonate Polish and US Nationals to Secure Full-Stack Developer Positions</title>
-      <link>https://gbhackers.com/dprk-it-workers-impersonate-polish-and-us-nationals/</link>
-      <description>A sophisticated employment scam network potentially affiliated with the Democratic People's Republic of Korea (DPRK) targets remote engineering and full-stack blockchain developer roles by impersonating Polish and US nationals. The threat actors employ deceptive tactics, including the use of GitHub accounts, portfolio websites, and freelancer profiles to deceive companies into hiring them for full-time or project-based freelance gigs.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137070</guid>
-      <pubDate>Tue, 20 May 2025 10:35:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Multer Vulnerability Puts Millions of Node.js Apps at Risk</title>
-      <link>https://gbhackers.com/critical-multer-vulnerability/</link>
-      <description>Vulnerable Product: npm Multer; CVE(s): None; Summary: All versions of Multer from 1.4.4-lts.1 to but not including 2.0.0 are vulnerable to denial-of-service attacks through maliciously crafted multi-part upload requests, potentially crashing Node.js processes and taking down entire web services.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137064</guid>
-      <pubDate>Tue, 20 May 2025 10:23:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
