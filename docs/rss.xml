@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 17:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 18:03:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Dozens of malicious packages on NPM collect host and network data</title>
+      <link>https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/</link>
+      <description>Vulnerable Product: NPM packages; CVE(s): None; Summary: A threat actor uploaded 60 malicious packages to the NPM repository, which collect sensitive host and network data and send it to a Discord webhook controlled by the attacker. The packages were designed to appear legitimate and target developers who use CI/CD pipelines.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/</guid>
+      <pubDate>Fri, 23 May 2025 17:37:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-Trust Policy Bypass Enables Exploitation of Vulnerabilities and Manipulation of NHI Secrets</title>
+      <link>https://gbhackers.com/zero-trust-policy-bypass-enables-exploitation/</link>
+      <description>Vulnerable Product: ISC BIND; CVE(s): CVE-2025-40775; Summary: A critical attack vector exploits protocol vulnerabilities to disrupt DNS infrastructure and manipulate Non-Human Identity (NHI) secrets, ultimately bypassing zero-trust security frameworks. Attackers craft a malformed TSIG DNS packet with an invalid algorithm field to trigger an assertion failure in BIND versions 9.20.0-9.20.8, crashing the server and disrupting DNS resolution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138300</guid>
+      <pubDate>Fri, 23 May 2025 17:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actor Sells Burger King Backup System RCE Vulnerability for $4,000</title>
+      <link>https://gbhackers.com/threat-actor-sells-burger-king-backup-system/</link>
+      <description>Vulnerable Product: AhsayCBS; CVE(s): None; Summary: The threat actor #LongNight has reportedly put up for sale remote code execution (RCE) access to Burger King Spain's backup system, leveraging vulnerabilities in the AhsayCBS platform. This exploit offers malicious actors a potential gateway to compromise critical infrastructural components of Burger King Spain's operations in Spain, posing a catastrophic risk of data breaches or ransomware attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138275</guid>
+      <pubDate>Fri, 23 May 2025 17:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Nexus Hackers Exploit Ivanti Endpoint Manager Mobile Vulnerability</title>
+      <link>https://gbhackers.com/chinese-nexus-hackers-exploit-ivanti/</link>
+      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Two critical vulnerabilities in EPMM version 12.5.0.0 and earlier allow unauthenticated remote code execution on internet-facing systems, posing a severe risk to enterprise security.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138285</guid>
+      <pubDate>Fri, 23 May 2025 17:26:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Target macOS Users with Fake Ledger Apps to Deploy Malware</title>
+      <link>https://gbhackers.com/hackers-target-macos-users/</link>
+      <description>Hackers are targeting macOS users with malicious clones of Ledger Live, stealing passwords, wallet details, and seed phrases. The malware campaign uses social engineering tactics to bypass security defenses and exfiltrate sensitive data. The attacks involve fake apps, phishing pages, and command-and-control servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138255</guid>
+      <pubDate>Fri, 23 May 2025 17:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacker steals $223 million in Cetus Protocol cryptocurrency heist</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/</link>
+      <description>The Cetus Protocol decentralized exchange (DEX) suffered a theft of $223 million in cryptocurrency, with the attacker exploiting a vulnerable package. The incident occurred after an emergency vote by validators paused $162 million on the Sui blockchain. The platform offered a time-sensitive whitehat settlement to return the stolen funds and announced a $5 million bounty for information leading to the identification and arrest of the hacker.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/</guid>
+      <pubDate>Fri, 23 May 2025 15:46:22 +0000</pubDate>
+    </item>
     <item>
       <title>FBI warns of Luna Moth extortion attacks targeting law firms</title>
       <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/</link>
@@ -1397,48 +1439,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>Vulnerable Product: Schneider Electric Modicon Controllers M241/M251/M258/LMC058; CVE(s): CVE-2025-2875; Summary: The vulnerability, CWE-610, is an externally controlled reference to a resource in another sphere, which can cause a loss of confidentiality when an unauthenticated attacker manipulates a controller's webserver URL to access resources. Exploitation could occur remotely with low attack complexity.</description>
       <guid isPermaLink="false">/node/23413</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Thirteen Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/20/cisa-releases-thirteen-industrial-control-systems-advisories</link>
-      <description>CISA released 13 Industrial Control Systems (ICS) advisories on May 20, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories cover various products from vendors such as ICONICS, Mitsubishi Electric, Siemens, Schneider Electric, and AutomationDirect.</description>
-      <guid isPermaLink="false">/node/23417</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Galaxy VS, Galaxy VL, Galaxy VXL</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-07</link>
-      <description>Vulnerable Product: Schneider Electric Galaxy VS, Galaxy VL, Galaxy VXL; CVE(s): CVE-2025-32433; Summary: A missing authentication vulnerability in the SSH server of affected Schneider Electric products allows an attacker to perform unauthenticated remote code execution (RCE) with a low attack complexity. Successful exploitation could grant unauthorized access and execute arbitrary commands without valid credentials.</description>
-      <guid isPermaLink="false">/node/23412</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Siveillance Video</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-05</link>
-      <description>Vulnerable Product: Siemens Siveillance Video; CVE(s): CVE-2025-1688; Summary: Missing encryption of sensitive data in Siemens Siveillance Video allows removal of password protection from system configuration files, affecting backup data sets. Successful exploitation has a high attack complexity and may reset system configuration passwords.</description>
-      <guid isPermaLink="false">/node/23410</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>National Instruments Circuit Design Suite</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-02</link>
-      <description>Vulnerable Product: National Instruments Circuit Design Suite; CVE(s): CVE-2025-30417, CVE-2025-30418, CVE-2025-30419, CVE-2025-30420; Summary: The Circuit Design Suite contains multiple vulnerabilities that could allow an attacker to disclose information or execute arbitrary code. Exploitation requires tricking a user into opening a specially crafted SYM file.</description>
-      <guid isPermaLink="false">/node/23407</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Exploits SAP Zero-Day Vulnerability Weeks Ahead of Public Disclosure</title>
-      <link>https://gbhackers.com/qilin-exploits-sap-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: SAP NetWeaver Visual Composer; CVE(s): CVE-2025-31324; Summary: A critical zero-day vulnerability in SAP NetWeaver Visual Composer was actively exploited nearly three weeks before its public disclosure. The flaw lacks proper authentication and authorization controls, enabling unauthenticated attackers to upload malicious files like web shells, leading to potential remote code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137125</guid>
-      <pubDate>Tue, 20 May 2025 11:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Plugin Flaw Puts 22,000 Websites at Risk of Cyber Attacks</title>
-      <link>https://gbhackers.com/wordpress-plugin-flaw-puts-22000-websites/</link>
-      <description>Vulnerable Product: StylemixThemes Motors WordPress Theme; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme contains a critical Privilege Escalation vulnerability (CVE-2025-4322) that allows unauthenticated attackers to reset the password of any user, including administrators, thereby gaining full control over affected websites.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137099</guid>
-      <pubDate>Tue, 20 May 2025 11:15:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
