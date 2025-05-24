@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 22:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 10:00:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>OpenAI confirms Operator Agent is now more accurate with o3</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/</link>
+      <description>OpenAI has updated its Operator Agent, a tool that allows users to delegate web tasks to AI, using the o3 model. This improvement enables more persistent and accurate interactions with the browser, increasing overall task success rate. The feature is currently exclusive to the $200 Pro subscription but may be available for lower-tier subscribers in the future.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/</guid>
+      <pubDate>Fri, 23 May 2025 23:10:35 +0000</pubDate>
+    </item>
     <item>
       <title>Feds charge 16 Russians allegedly tied to botnets used in cyberattacks and spying</title>
       <link>https://arstechnica.com/security/2025/05/feds-charge-16-russians-allegedly-tied-to-botnets-used-in-cyberattacks-and-spying/</link>
@@ -1433,13 +1440,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-09</link>
       <description>Vulnerable Product: AutomationDirect MB-Gateway; CVE(s): CVE-2025-36535; Summary: The MB-Gateway's embedded webserver lacks authentication and access controls, allowing unrestricted remote access. Successful exploitation could allow attackers to make configuration changes, disrupt operations, or achieve arbitrary code execution with a CVSS v4 base score of 10.0.</description>
       <guid isPermaLink="false">/node/23414</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ABUP IoT Cloud Platform</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-01</link>
-      <description>Vulnerable Product: ABUP IoT Cloud Platform; CVE(s): CVE-2025-4692; Summary: Incorrect Privilege Assignment vulnerability allows an attacker to access device profiles for which they are not authorized by submitting a malicious JSON Web Token (JWT) to the cloud platform. Successful exploitation can escalate privileges to access any device managed by the Cloud Update Platform.</description>
-      <guid isPermaLink="false">/node/23406</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
