@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 16:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 17:01:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Glitch to end app hosting and user profiles on July 8</title>
+      <link>https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/</link>
+      <description>Glitch, a platform for web development, is shutting down app hosting and user profiles due to rising costs and extensive abuse problems. The platform will continue to allow users to download code and set up redirects for subdomains. A new feature will enable setting up redirects for project subdomains until at least the end of 2026, giving users time to adjust to the changes.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/</guid>
+      <pubDate>Sun, 25 May 2025 14:36:48 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware</title>
       <link>https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html</link>
       <description>The article describes a malware campaign that uses fake software installers to deliver the Winos 4.0 framework, a remote access trojan written in C++. The campaign uses a multi-stage loader called Catena, which evades traditional antivirus tools and allows the malware to maintain persistence on infected hosts.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html</guid>
       <pubDate>Sun, 25 May 2025 07:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/</link>
+      <description>The article discusses a malware campaign using typosquatting domains to infect devices used by IT staff. The campaign uses fake websites mimicking popular open-source projects, such as Zenmap and WinMTR, to deliver the Bumblebee malware loader.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/</guid>
+      <pubDate>Sat, 24 May 2025 14:26:32 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI confirms Operator Agent is now more accurate with o3</title>
@@ -1426,20 +1440,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-03</link>
       <description>Vulnerable Product: Danfoss AK-SM 8xxA Series; CVE(s): CVE-2025-41450; Summary: The AK-SM 800A system manager has an improper authentication vulnerability due to datetime-based password generation, which could allow a remote attacker to bypass authentication and execute arbitrary code. The affected versions are prior to R4.2, and Danfoss has released version R4.2 to address the issue.</description>
       <guid isPermaLink="false">/node/23408</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vertiv Liebert RDU101 and UNITY</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-10</link>
-      <description>Vulnerable Product: Vertiv Liebert RDU101 and Liebert UNITY; CVE(s): CVE-2025-46412, CVE-2025-41426; Summary: The Liebert RDU101 and Liebert UNITY products contain vulnerabilities that could allow an attacker to bypass authentication, cause a denial-of-service condition, or achieve remote code execution.</description>
-      <guid isPermaLink="false">/node/23415</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electric Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-04</link>
-      <description>Vulnerable Product: Mitsubishi Electric Iconics Digital Solutions, ICONICS Product Suite and Mitsubishi Electric MC Works64; CVE(s): CVE-2025-0921; Summary: An execution with unnecessary privileges vulnerability in the AlarmWorX64 MMX Pager agent can allow an attacker to make unauthorized writes to arbitrary files, potentially leading to information tampering or denial-of-service (DoS) conditions on affected PCs.</description>
-      <guid isPermaLink="false">/node/23409</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
