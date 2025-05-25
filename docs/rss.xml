@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 22:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 10:01:17 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware</title>
+      <link>https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html</link>
+      <description>The article describes a malware campaign that uses fake software installers to deliver the Winos 4.0 framework, a remote access trojan written in C++. The campaign uses a multi-stage loader called Catena, which evades traditional antivirus tools and allows the malware to maintain persistence on infected hosts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html</guid>
+      <pubDate>Sun, 25 May 2025 07:36:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI confirms Operator Agent is now more accurate with o3</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/</link>
@@ -1433,13 +1440,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-04</link>
       <description>Vulnerable Product: Mitsubishi Electric Iconics Digital Solutions, ICONICS Product Suite and Mitsubishi Electric MC Works64; CVE(s): CVE-2025-0921; Summary: An execution with unnecessary privileges vulnerability in the AlarmWorX64 MMX Pager agent can allow an attacker to make unauthorized writes to arbitrary files, potentially leading to information tampering or denial-of-service (DoS) conditions on affected PCs.</description>
       <guid isPermaLink="false">/node/23409</guid>
-      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AutomationDirect MB-Gateway</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-140-09</link>
-      <description>Vulnerable Product: AutomationDirect MB-Gateway; CVE(s): CVE-2025-36535; Summary: The MB-Gateway's embedded webserver lacks authentication and access controls, allowing unrestricted remote access. Successful exploitation could allow attackers to make configuration changes, disrupt operations, or achieve arbitrary code execution with a CVSS v4 base score of 10.0.</description>
-      <guid isPermaLink="false">/node/23414</guid>
       <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
