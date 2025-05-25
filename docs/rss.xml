@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 21:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 22:00:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Leak suggests xAI is getting ready to ship Grok 3.5</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-suggests-xai-is-getting-ready-to-ship-grok-35/</link>
+      <description>Vulnerable Product: None; Summary: This article does not contain information about a specific vulnerability. It appears to be an article discussing the upcoming release of Grok 3.5, an AI model from xAI, and provides some general details about the company's products.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leak-suggests-xai-is-getting-ready-to-ship-grok-35/</guid>
+      <pubDate>Sun, 25 May 2025 21:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Deep Research can now pull data from Dropbox and Box</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-can-now-pull-data-from-dropbox-and-box/</link>
+      <description>The article discusses the integration of Box and Dropbox cloud storage services with Deep Research, an AI agent that automates research. This integration allows users to pull data from these sources and use it for research purposes. Additionally, the article mentions the upcoming support for custom apps or services (MCP) to be integrated into ChatGPT, which could revolutionize how AI works in organizations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-can-now-pull-data-from-dropbox-and-box/</guid>
+      <pubDate>Sun, 25 May 2025 21:09:54 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers claim ChatGPT o3 bypassed shutdown in controlled test</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/</link>
@@ -1427,20 +1441,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>The article discusses a cyberattack campaign that uses SEO poisoning to distribute the Bumblebee malware. The attackers create fake download websites mimicking legitimate software packages and optimize their malicious sites to rank at the top of Bing search results. The malware is used as a downloader for additional payloads, making it particularly dangerous in developer environments where privileged access could be leveraged for broader attacks or data theft.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137150</guid>
       <pubDate>Tue, 20 May 2025 12:23:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Flaw in WordPress Plugin Puts 22,000 Websites at Risk of Cyber Attacks</title>
-      <link>https://gbhackers.com/security-flaw-in-wordpress-plugin-puts-22000-websites/</link>
-      <description>Vulnerable Product: StylemixThemes Motors; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme has an unauthenticated privilege escalation vulnerability that allows attackers to change passwords of any user, including administrators, without requiring prior authentication. This vulnerability, with a critical CVSS rating of 9.8, can be exploited by unauthenticated threat actors to gain complete control over compromised websites, enabling attacks such as uploading malicious files, injecting malware, or redirecting users to phishing sites.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137137</guid>
-      <pubDate>Tue, 20 May 2025 12:05:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical VMware Cloud Foundation Vulnerability Exposes Sensitive Data</title>
-      <link>https://gbhackers.com/critical-vmware-cloud-foundation-vulnerability/</link>
-      <description>Vulnerable Product: Broadcom VMware; CVE(s): CVE-2025-41229, CVE-2025-41230, CVE-2025-41231; Summary: Three significant security vulnerabilities in VMware Cloud Foundation platform allow attackers to gain unauthorized access to sensitive information and internal services. The flaws affect versions 4.5.x and 5.x and require immediate patching as no workarounds are available.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137120</guid>
-      <pubDate>Tue, 20 May 2025 12:03:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
