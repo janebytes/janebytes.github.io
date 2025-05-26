@@ -6,8 +6,64 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 17:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 18:04:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Meteobridge Web Interface Vulnerability Let Attackers Inject Commands Remotely</title>
+      <link>https://gbhackers.com/meteobridge-web-interface-vulnerability/</link>
+      <description>Vulnerable Product: MeteoBridge; CVE(s): CVE-2025-4008; Summary: The MeteoBridge firmware has a severe command injection vulnerability (CVE-2025-4008) in versions 6.1 and below, allowing remote, unauthenticated attackers to execute arbitrary commands with root privileges. The vulnerability resides in the CGI shell script accessible at /cgi-bin/template.cgi, which processes user input without proper sanitization, making it vulnerable to command injection attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138552</guid>
+      <pubDate>Mon, 26 May 2025 17:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Reportedly Selling Over 500 Stolen Crypto Databases on Dark-Web Forums</title>
+      <link>https://gbhackers.com/hackers-reportedly-selling-over-500-stolen-crypto-databases/</link>
+      <description>A threat actor is allegedly selling a ZIP archive containing over 500 compromised databases related to cryptocurrency platforms. The leaked data reportedly includes user information, wallet details, balances, transaction histories, and email addresses connected to the accounts. This breach highlights the need for enhanced security measures in the crypto industry.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138561</guid>
+      <pubDate>Mon, 26 May 2025 17:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Deep Research Now Integrates with Dropbox and OneDrive to Retrieve Data</title>
+      <link>https://gbhackers.com/chatgpt-deep-research-now-integrates-with-dropbox-and-onedrive/</link>
+      <description>The article discusses the beta feature "Deep Research Connectors" in ChatGPT, which allows users to access and analyze live data from third-party applications such as Dropbox, Microsoft OneDrive, GitHub, Microsoft SharePoint, and Box directly within ChatGPT's interface. This integration aims to streamline workflows by embedding search and analysis functionalities into a single platform, while adhering to strict privacy protocols and offering varying levels of access based on subscription plans.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138509</guid>
+      <pubDate>Mon, 26 May 2025 17:45:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Issues on Silent Ransom Group Using Fake IT Support Calls to Target Victims</title>
+      <link>https://gbhackers.com/fbi-issues-on-silent-ransom-group/</link>
+      <description>The Silent Ransom Group (SRG) has shifted its tactics to impersonate IT department employees through unsolicited phone calls to trick individuals into granting remote access to their systems. SRG targets organizations across multiple sectors, including medical and insurance industries, using socially engineered phishing schemes to install remote access software and steal sensitive information.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138497</guid>
+      <pubDate>Mon, 26 May 2025 17:41:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake DigiYatra Apps Target Indian Users to Steal Financial Data</title>
+      <link>https://gbhackers.com/fake-digiyatra-apps-target-indian-users/</link>
+      <description>Threat actors have been exploiting India's digital public infrastructure by setting up a deceptive phishing site, digiyatra[.]in, impersonating the DigiYatra Foundation. The site is designed to harvest personal user data and has been flagged by ThreatWatch360 as a potential threat to unauthorized data collection, public deception, and reputational damage.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138533</guid>
+      <pubDate>Mon, 26 May 2025 17:36:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Katz Stealer Targets Chrome, Edge, Brave, and Firefox to Steal Login Credentials</title>
+      <link>https://gbhackers.com/katz-stealer-targets-chrome-edge-brave-and-firefox/</link>
+      <description>Vulnerable Product: Katz Stealer; CVE(s): None; Summary: Katz Stealer is a credential-stealing malware-as-a-service that targets popular web browsers, cryptocurrency wallets, communication platforms, email clients, and gaming platforms. It conducts extensive system reconnaissance and data theft by extracting saved passwords, cookies, and session tokens, and employs advanced evasion mechanisms to avoid detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138480</guid>
+      <pubDate>Mon, 26 May 2025 17:33:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>60 Malicious npm Packages Exfiltrate Hostnames, IP Addresses, and DNS Server Details</title>
+      <link>https://gbhackers.com/60-malicious-npm-packages/</link>
+      <description>Vulnerable Product: Multiple malicious packages in the npm registry; CVE(s): None; Summary: A threat actor has published 60 malicious packages in the npm registry, which embed a covert script that gathers sensitive system data during the npm install process. The harvested data is exfiltrated to a Discord webhook, enabling real-time tracking of infected systems across Windows, macOS, and Linux environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138445</guid>
+      <pubDate>Mon, 26 May 2025 17:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Deploy Database Client Tools on Targeted Systems to Exfiltrate Sensitive Data</title>
+      <link>https://gbhackers.com/threat-actors-deploy-database-client-tools/</link>
+      <description>Vulnerable Product: Various; CVE(s): None; Summary: Cybersecurity experts have observed an increase in data breaches where threat actors are using legitimate database client tools such as DBeaver, Navicat, and sqlcmd to steal sensitive information. These tools, often used by administrators for database management, blend into normal system operations, making detection challenging.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138406</guid>
+      <pubDate>Mon, 26 May 2025 17:13:38 +0000</pubDate>
+    </item>
     <item>
       <title>Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto</title>
       <link>https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html</link>
@@ -1391,62 +1447,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>Google has announced a new feature in its Chrome browser that enables automated password changes when compromised credentials are detected during sign-in. The feature aims to reduce friction and help users keep their accounts secure without requiring manual intervention. Website owners can support this feature by adopting specific methods, such as using well-known URLs for password change forms.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html</guid>
       <pubDate>Wed, 21 May 2025 07:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Palo Alto GlobalProtect Gateway &amp; Portal Enables Remote Code Execution</title>
-      <link>https://gbhackers.com/critical-vulnerability-in-palo-alto-globalprotect-gateway-portal/</link>
-      <description>Vulnerable Product: Palo Alto Networks; CVE(s): CVE-2025-0133; Summary: A reflected cross-site scripting (XSS) vulnerability in Palo Alto Networks' GlobalProtect gateway and portal features allows attackers to execute malicious JavaScript code in authenticated users' browsers, posing risks of phishing and credential theft, particularly for organizations using Clientless VPN.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137308</guid>
-      <pubDate>Wed, 21 May 2025 06:55:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hazy Hawk Targets DNS Vulnerabilities to Hijack Cloud Resources and Spread Malware</title>
-      <link>https://gbhackers.com/hazy-hawk-targets-dns-vulnerabilities/</link>
-      <description>Sophisticated threat actor "Hazy Hawk" has been exploiting DNS misconfigurations since at least December 2023 to hijack abandoned cloud resources from high-profile organizations. The actor utilizes these hijacked subdomains to distribute scams and malware, leveraging the inherent trustworthiness of the compromised domains to evade security controls and achieve higher rankings in search results.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137293</guid>
-      <pubDate>Wed, 21 May 2025 06:49:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>PowerSchool hacker pleads guilty to student data extortion scheme</title>
-      <link>https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/</link>
-      <description>This article is about a cyberattack on PowerSchool that resulted in the theft of personal data for millions of students and teachers. The attacker, Matthew D. Lane, 19, has agreed to plead guilty to four federal charges related to the attack, including cyber extortion conspiracy, unauthorized access to protected computers, and aggravated identity theft.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/</guid>
-      <pubDate>Tue, 20 May 2025 23:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS</title>
-      <link>https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/</link>
-      <description>A massive distributed denial-of-service (DDoS) attack of over 6.3 terabits per second was launched against KrebsOnSecurity, with the attacker believed to be testing a new Internet of Things (IoT) botnet capable of launching crippling digital assaults. The botnet, known as Aisuru, is reportedly controlled by a 21-year-old individual claiming to reside in Brazil who has been peddling access to their DDoS machine on public Telegram chat channels.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71303</guid>
-      <pubDate>Tue, 20 May 2025 21:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile carrier Cellcom confirms cyberattack behind extended outages</title>
-      <link>https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/</link>
-      <description>Cellcom, a Wisconsin wireless provider, has confirmed that a cyberattack is responsible for the widespread service outage and disruptions that began on May 14, 2025. The attack affected voice and SMS services, leaving customers unable to make phone calls or send text messages. Cellcom's CEO has assured that the company has protocols in place for such incidents and is working to restore full service by the end of the week.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/</guid>
-      <pubDate>Tue, 20 May 2025 20:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Premium WordPress 'Motors' theme vulnerable to admin takeover attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/</link>
-      <description>Vulnerable Product: StylemixThemes Motors; CVE(s): CVE-2025-4322; Summary: The Motors WordPress theme contains a privilege escalation vulnerability that allows unauthenticated attackers to hijack administrator accounts and take complete control of websites. This flaw affects all versions up to 5.6.67, and exploitation enables attackers to implant malware, exfiltrate sensitive data, or redirect visitors to dangerous sites.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/</guid>
-      <pubDate>Tue, 20 May 2025 19:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>VanHelsing ransomware builder leaked on hacking forum</title>
-      <link>https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/</link>
-      <description>Vulnerable Product: VanHelsing RaaS; CVE(s): None; Summary: The source code for the VanHelsing ransomware-as-a-service operation's affiliate panel, data leak blog, and Windows encryptor builder was leaked after an old developer tried to sell it on the RAMP cybercrime forum. The leaked code includes the legitimate builder for the Windows encryptor and the source code for the affiliate panel and data leak site, but is incomplete as it does not include the Linux builder or any databases.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/</guid>
-      <pubDate>Tue, 20 May 2025 19:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s how Windows 11 aims to make the world safe in the post-quantum era</title>
-      <link>https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses the security concerns surrounding Post-Quantum Cryptography (PQC) algorithms, specifically the increased key sizes and potential errors introduced into software during the transition away from RSA and Elliptic Curve cryptography.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/</guid>
-      <pubDate>Tue, 20 May 2025 18:48:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
