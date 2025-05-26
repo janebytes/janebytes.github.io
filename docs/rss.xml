@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 13:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 14:01:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SharpSuccessor PoC Released to Weaponize Windows Server 2025 BadSuccessor Flaw</title>
+      <link>https://gbhackers.com/sharpsuccessor-poc-released/</link>
+      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): CVE-2025-XXXX; Summary: A privilege escalation vulnerability in the delegated Managed Service Account (dMSA) feature allows attackers to compromise Active Directory domains using tools like SharpSuccessor. The attack chain exploits default configurations and improper validation of the msDS-ManagedAccountPrecededByLink attribute during dMSA migration, enabling attackers to create a malicious dMSA object, manipulate Kerberos tickets, and gain Domain Admin privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138544</guid>
+      <pubDate>Mon, 26 May 2025 13:14:22 +0000</pubDate>
+    </item>
     <item>
       <title>Oracle TNS Flaw Exposes System Memory to Unauthorized Access</title>
       <link>https://gbhackers.com/oracle-tns-flaw-exposes-system-memory-to-unauthorized-access/</link>
@@ -1438,13 +1445,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>SK Telecom suffered a malware attack that exposed USIM data of 27 million subscribers, including IMSI, USIM authentication keys, network usage data, and SMS/contacts stored in the SIM. The company detected the malware on April 19, 2025, and isolated equipment suspected of being hacked, but initially undetected for nearly three years from June 15, 2022.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/</guid>
       <pubDate>Tue, 20 May 2025 17:07:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains</title>
-      <link>https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</link>
-      <description>A threat actor known as "Hazy Hawk" is hijacking forgotten DNS CNAME records pointing to abandoned cloud services, using the compromised domains to distribute scams, fake apps, and malicious ads. The attacker's technique involves registering a new cloud resource with the same name as the original one, causing the subdomain to resolve to their new site.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</guid>
-      <pubDate>Tue, 20 May 2025 15:57:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
