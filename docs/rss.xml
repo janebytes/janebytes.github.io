@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 14:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 15:01:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto</title>
+      <link>https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html</link>
+      <description>Vulnerable Product: npm packages; CVE(s): None; Summary: As many as 60 malicious npm packages have been discovered, including 20 packages under three different accounts. The packages install with an executable script that targets Windows, macOS, or Linux systems and includes basic sandbox-evasion checks. The harvested information is transmitted to a Discord webhook, enabling a threat actor to chart the network and identify high-value targets.
+
+FYSA: Threat actors have been discovered abusing open-source repositories for malware distribution, including malicious npm packages, Microsoft's Visual Studio Code (VS Code) Marketplace, and GitHub. The threats include supply chain attacks at scale, phishing campaigns, and cryptocurrency wallet credential theft.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html</guid>
+      <pubDate>Mon, 26 May 2025 14:17:00 +0000</pubDate>
+    </item>
     <item>
       <title>SharpSuccessor PoC Released to Weaponize Windows Server 2025 BadSuccessor Flaw</title>
       <link>https://gbhackers.com/sharpsuccessor-poc-released/</link>
@@ -1438,13 +1447,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses the security concerns surrounding Post-Quantum Cryptography (PQC) algorithms, specifically the increased key sizes and potential errors introduced into software during the transition away from RSA and Elliptic Curve cryptography.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/05/heres-how-windows-11-aims-to-make-the-world-safe-in-the-post-quantum-era/</guid>
       <pubDate>Tue, 20 May 2025 18:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>SK Telecom says malware breach lasted 3 years, impacted 27 million numbers</title>
-      <link>https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/</link>
-      <description>SK Telecom suffered a malware attack that exposed USIM data of 27 million subscribers, including IMSI, USIM authentication keys, network usage data, and SMS/contacts stored in the SIM. The company detected the malware on April 19, 2025, and isolated equipment suspected of being hacked, but initially undetected for nearly three years from June 15, 2022.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/</guid>
-      <pubDate>Tue, 20 May 2025 17:07:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
