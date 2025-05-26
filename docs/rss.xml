@@ -6,14 +6,42 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 12:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 13:02:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Oracle TNS Flaw Exposes System Memory to Unauthorized Access</title>
+      <link>https://gbhackers.com/oracle-tns-flaw-exposes-system-memory-to-unauthorized-access/</link>
+      <description>Vulnerable Product: Oracle; CVE(s): CVE-2025-30733; Summary: The vulnerability allows unauthenticated remote attackers to access sensitive system memory, including environment variables and connection data, by exploiting a memory leak in the Oracle Database Server's RDBMS Listener. The flaw affects Oracle Database Server versions 19.3–19.26, 21.3–21.17, and 23.4–23.7, with a CVSS 3.1 Base Score of 6.5, indicating a medium severity risk.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138521</guid>
+      <pubDate>Mon, 26 May 2025 12:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google claims users find ads in AI search 'helpful'</title>
+      <link>https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/</link>
+      <description>The article discusses Google's introduction of ads in their AI mode and AI Overviews, claiming that users find them helpful. However, critics argue that ads can be misleading or disrupt the flow of content.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/</guid>
+      <pubDate>Mon, 26 May 2025 12:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI plans to ship an interesting ChatGPT product by 2026</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/</link>
+      <description>OpenAI is planning to release a new product by 2026 that combines their ChatGPT technology with hardware, allowing users to use AI natively. This could potentially expand the reach of AI-powered services beyond just apps and websites.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/</guid>
+      <pubDate>Mon, 26 May 2025 12:02:23 +0000</pubDate>
+    </item>
     <item>
       <title>Severe vBulletin Flaw Allows Remote Code Execution by Attackers</title>
       <link>https://gbhackers.com/severe-vbulletin-flaw/</link>
       <description>Vulnerable Product: vBulletin; CVE(s): None; Summary: A vulnerability in vBulletin versions 5.x and 6.x running on PHP 8.1 or later allows attackers to invoke protected methods remotely without authentication due to a change in PHP's ReflectionAPI behavior, which enables calling protected and private methods by default. This flaw enables template injection and bypassing of filters, allowing arbitrary PHP code execution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138508</guid>
       <pubDate>Mon, 26 May 2025 11:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISO's Guide To Web Privacy Validation And Why It's Important</title>
+      <link>https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html</link>
+      <description>The article discusses the importance of continuous web privacy validation for organizations, highlighting the gap between claimed and actual privacy practices. It emphasizes that relying on static audits and ineffective cookie banners is no longer sufficient in today's dynamic digital landscape, and that a proactive approach is necessary to ensure regulatory compliance, maintain user trust, and avoid reputational damage.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html</guid>
+      <pubDate>Mon, 26 May 2025 11:25:00 +0000</pubDate>
     </item>
     <item>
       <title>ChatGPT-03 Exploited to Override Critical Shutdown Protocols</title>
@@ -42,6 +70,13 @@
       <description>This article is about the new features and enhancements in the Linux 6.15 kernel release, including Rust-written Direct Rendering Manager (DRM) driver, improved file system operations, networking improvements, and expanded hardware compatibility. It highlights the impact of Rust's integration into the kernel, reducing memory safety vulnerabilities, and showcases various technical examples.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138420</guid>
       <pubDate>Mon, 26 May 2025 09:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coca-Cola and DocuSign Breaches Claimed as Insider Recruiting and Card Sales Surface</title>
+      <link>https://socradar.io/coca-cola-and-docusign-breaches-claimed-as-insider-recruiting-and-card-sales-surface/</link>
+      <description>A report from SOCRadar's Dark Web Team highlights various developments on underground forums, including alleged breaches tied to Coca-Cola and DocuSign, recruitment efforts targeting insiders within the French police, and the sale of 100,000 reused credit cards. The findings demonstrate ongoing targeting of global enterprises, public institutions, and financial data in dark web marketplaces.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060204</guid>
+      <pubDate>Mon, 26 May 2025 09:40:44 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches and Critical CVEs</title>
@@ -1410,41 +1445,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>A threat actor known as "Hazy Hawk" is hijacking forgotten DNS CNAME records pointing to abandoned cloud services, using the compromised domains to distribute scams, fake apps, and malicious ads. The attacker's technique involves registering a new cloud resource with the same name as the original one, causing the subdomain to resolve to their new site.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/</guid>
       <pubDate>Tue, 20 May 2025 15:57:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery</title>
-      <link>https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html</link>
-      <description>A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in DNS records. The hijacked domains are used to host URLs that direct users to scams and malware via traffic distribution systems.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html</guid>
-      <pubDate>Tue, 20 May 2025 15:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky APT Group Deploys PowerShell Payloads to Deliver XWorm RAT</title>
-      <link>https://gbhackers.com/kimsuky-apt-group-deploys-powershell-payloads/</link>
-      <description>This article describes a malware campaign orchestrated by the Kimsuky APT group, using PowerShell payloads to deliver the XWorm Remote Access Trojan (RAT). The campaign involves multi-stage attacks, fileless execution, and Living-off-the-Land Binaries and Scripts (LOLBAS) techniques to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137257</guid>
-      <pubDate>Tue, 20 May 2025 15:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads</title>
-      <link>https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html</link>
-      <description>Vulnerable Product: Unknown threat actor; CVE(s): None; Summary: The article describes malicious Chrome Browser extensions created by an unknown threat actor since February 2024. These extensions masquerade as seemingly benign utilities but can exfiltrate data, receive commands, and execute arbitrary code. They also enable credential and cookie theft, session hijacking, ad injection, and phishing via DOM manipulation.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html</guid>
-      <pubDate>Tue, 20 May 2025 15:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Role of Multi-Factor Authentication in Mobile Banking Security</title>
-      <link>https://socradar.io/multi-factor-authentication-in-mobile-banking-security/</link>
-      <description>The article discusses the importance of Multi-Factor Authentication (MFA) in securing mobile banking transactions. It highlights the effectiveness of MFA in reducing financial fraud incidents, with biometric authentication emerging as the most secure method. The article also touches on encryption, tokenization, and user education as additional measures to ensure secure transactions.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060102</guid>
-      <pubDate>Tue, 20 May 2025 15:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>More_Eggs Malware Uses Job Application Emails to Distribute Malicious Payloads</title>
-      <link>https://gbhackers.com/more_eggs-malware-uses-job-application-emails/</link>
-      <description>The article describes the More_Eggs malware, a JavaScript backdoor that exploits human trust through social engineering. It targets HR departments by masquerading as job application emails and uses obfuscated scripts and legitimate system binaries to establish a foothold in targeted environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137245</guid>
-      <pubDate>Tue, 20 May 2025 14:40:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
