@@ -6,8 +6,75 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 22:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 10:08:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Linux 6.15 Launches with Major Performance and Hardware Upgrades</title>
+      <link>https://gbhackers.com/linux-6-15-launches/</link>
+      <description>This article is about the new features and enhancements in the Linux 6.15 kernel release, including Rust-written Direct Rendering Manager (DRM) driver, improved file system operations, networking improvements, and expanded hardware compatibility. It highlights the impact of Rust's integration into the kernel, reducing memory safety vulnerabilities, and showcases various technical examples.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138420</guid>
+      <pubDate>Mon, 26 May 2025 09:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches and Critical CVEs</title>
+      <link>https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html</link>
+      <description>This week's cybersecurity news highlights various threats and attack vectors that security teams should be aware of. The articles discuss tactics such as SIM swapping, Cookie-Bite attacks, and exploiting non-human identities to gain access to systems. It is essential for organizations to stay vigilant and implement robust defenses to prevent these types of attacks.
+
+Additionally, the article emphasizes the importance of reviewing and revoking old OAuth app permissions to ensure that sensitive data is not compromised. This is a crucial step in maintaining data security and preventing unauthorized access.
+
+Overall, this week's news reinforces the need for continuous awareness and education on emerging threats and best practices in cybersecurity.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html</guid>
+      <pubDate>Mon, 26 May 2025 09:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>D-Link Routers Exposed by Hard-Coded Telnet Credential</title>
+      <link>https://gbhackers.com/d-link-exposed-hard-coded/</link>
+      <description>Vulnerable Product: D-Link DIR-605L and DIR-816L routers; CVE(s): CVE-2025-46176; Summary: A vulnerability in the firmware of D-Link's DIR-605L and DIR-816L routers allows for remote command execution due to hardcoded Telnet credentials. The flaw enables unauthenticated attackers to execute arbitrary commands, modify router configurations, and deploy malware or pivot to internal networks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138419</guid>
+      <pubDate>Mon, 26 May 2025 09:09:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>TA-ShadowCricket: Sophisticated Hacker Group Targeting Government and Enterprise Networks</title>
+      <link>https://gbhackers.com/ta-shadowcricket-sophisticated-hacker-group/</link>
+      <description>This article discusses a decade-long cyber espionage campaign conducted by the APT group TA-ShadowCricket, which has compromised over 2,000 systems across 72 countries. The group's tactics include using legacy tools and modern SQL-based backdoors to exfiltrate data, with a focus on long-term data extraction rather than immediate financial gain.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138350</guid>
+      <pubDate>Mon, 26 May 2025 09:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privilege Escalation Flaws Found in Tenable Network Monitor</title>
+      <link>https://gbhackers.com/flaws-tenable-network/</link>
+      <description>Vulnerable Product: Tenable Network Monitor; CVE(s): CVE-2025-24916, CVE-2025-24917; Summary: The update resolves two high-severity local privilege escalation vulnerabilities, allowing unauthorized users to escalate privileges and potentially compromise system security. The flaws were discovered in the installation routines and third-party libraries used by the product.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138395</guid>
+      <pubDate>Mon, 26 May 2025 08:22:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitwarden Flaw Allows Upload of Malicious PDFs, Posing Security Risk</title>
+      <link>https://gbhackers.com/bitwarden-flaw/</link>
+      <description>Vulnerable Product: Bitwarden; CVE(s): CVE-2025-5138; Summary: The popular password management platform Bitwarden has a serious security vulnerability allowing attackers to execute cross-site scripting (XSS) attacks through malicious PDF files uploaded to the platform's file handling system. The flaw, designated CVE-2025-5138, can lead to account hijacking, credential theft, and unauthorized actions performed on behalf of victims.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138380</guid>
+      <pubDate>Mon, 26 May 2025 08:06:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache Tomcat RCE Vulnerability Exposed with PoC Released</title>
+      <link>https://gbhackers.com/apache-tomcat-rce-vulnerability/</link>
+      <description>Vulnerable Product: Apache Tomcat; CVE(s): CVE-2025-24813; Summary: The vulnerability, tracked as CVE-2025-24813, allows attackers to bypass security controls and execute remote code, disclose information, or inject malicious content. It affects Tomcat versions 11.0.0-M1 through 11.0.2, 10.1.0-M1 through 10.1.34, and 9.0.0.M1 through 9.0.98. Exploitation requires write-enabled default servlet and file-based session persistence.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138365</guid>
+      <pubDate>Mon, 26 May 2025 06:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Severe WSO2 SOAP Flaw Allows Unauthorized Password Resets for Any Use</title>
+      <link>https://gbhackers.com/severe-wso2-soap-flaw/</link>
+      <description>Vulnerable Product: WSO2; CVE(s): CVE-2024-6914; Summary: A critical vulnerability (CVSS score 9.8) in multiple WSO2 products allows attackers to reset the password of any user account, including those with administrative privileges, by exploiting an incorrect authorization mechanism in the SOAP admin service. Attackers can craft SOAP requests to invoke password reset functions for arbitrary user accounts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138356</guid>
+      <pubDate>Mon, 26 May 2025 06:06:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibe coding company says Claude 4 reduced syntax errors by 25%</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/vibe-coding-company-says-claude-4-reduced-syntax-errors-by-25-percent/</link>
+      <description>The article discusses the performance improvements of Claude 4, a Vibe coding tool, and its capabilities in coding. It also mentions the competition with Google's Gemini model and provides tips on how to mix models for better results. No cybersecurity-relevant content is present in this article.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/vibe-coding-company-says-claude-4-reduced-syntax-errors-by-25-percent/</guid>
+      <pubDate>Sun, 25 May 2025 23:04:44 +0000</pubDate>
+    </item>
     <item>
       <title>Leak suggests xAI is getting ready to ship Grok 3.5</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-suggests-xai-is-getting-ready-to-ship-grok-35/</link>
@@ -1378,69 +1445,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>The article discusses social engineering attacks on service desk agents, where attackers use tactics such as pretexting, vishing, and building urgency and trust to gain initial access. This is often followed by privilege escalation or deploying ransomware. The article highlights the importance of verifying identities and implementing rigorous identity checks to prevent these attacks.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/</guid>
       <pubDate>Tue, 20 May 2025 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Abuse TikTok and Instagram APIs to Verify Stolen Account Credentials</title>
-      <link>https://gbhackers.com/hackers-abuse-tiktok-and-instagram-apis/</link>
-      <description>Vulnerable Product: PyPI (Python Package Index); CVE(s): None; Summary: Cybercriminals are leveraging the PyPI to distribute malicious tools designed to exploit TikTok and Instagram APIs for verifying stolen account credentials. These packages, including checker-SaGaF, steinlurks, and sinnercore, automate the process of validating emails and usernames against social media platforms, posing significant supply chain security risks due to their unauthorized network access and malicious behavior.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137204</guid>
-      <pubDate>Tue, 20 May 2025 13:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Regeneron to Buy 23andMe for $256M Amid Growing Data Privacy Concerns</title>
-      <link>https://gbhackers.com/regeneron-to-buy-23andme-for-256m-amid/</link>
-      <description>The article discusses the acquisition of 23andMe by Regeneron Pharmaceuticals, with concerns about the fate of sensitive genetic information collected from millions of customers. Regeneron has emphasized its commitment to protecting customer data and pledged to comply with existing privacy policies and applicable laws. The acquisition is seen as a significant consolidation in the genetics industry, highlighting the value of large-scale genetic databases in modern drug development.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137206</guid>
-      <pubDate>Tue, 20 May 2025 13:51:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: Aquatic Panda</title>
-      <link>https://socradar.io/dark-web-profile-aquatic-panda/</link>
-      <description>Aquatic Panda is a suspected China-based threat group focused on intelligence gathering and industrial espionage. The group operates within a wider network of government-linked teams and private contractors, reflecting China's modern cyber strategy.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060086</guid>
-      <pubDate>Tue, 20 May 2025 13:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Includes MDaemon Email Server XSS Flaw in KEV Catalog</title>
-      <link>https://gbhackers.com/cisa-includes-mdaemon-email-server-xss-flaw/</link>
-      <description>Vulnerable Product: MDaemon Email Server; CVE(s): CVE-2024-11182; Summary: The MDaemon Email Server prior to version 24.5.1c contains a cross-site scripting (XSS) vulnerability that allows attackers to inject malicious JavaScript code via crafted HTML emails, enabling them to execute arbitrary code within the user's browser window and potentially access sensitive data and functionality.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137183</guid>
-      <pubDate>Tue, 20 May 2025 13:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use Weaponized RAR Archives to Deliver Pure Malware in Targeted Attacks</title>
-      <link>https://gbhackers.com/hackers-use-weaponized-rar-archives/</link>
-      <description>The article discusses a sophisticated malware campaign targeting Russian organizations with the Pure malware family. The malware is distributed via spam emails containing malicious RAR archives or links to such archives, and once executed, allows attackers to gain persistent access to compromised systems, steal credentials, and exfiltrate data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137190</guid>
-      <pubDate>Tue, 20 May 2025 13:12:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware</title>
-      <link>https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2017-0199, CVE-2017-11882; Summary: SideWinder threat actors used spear phishing emails with geofenced payloads to target high-level government institutions in Sri Lanka, Bangladesh, and Pakistan. The attack chain leveraged remote code execution flaws in Microsoft Office (CVE-2017-0199 and CVE-2017-11882) to deploy StealerBot malware, which maintains persistent access and collects sensitive data from compromised hosts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html</guid>
-      <pubDate>Tue, 20 May 2025 12:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation</title>
-      <link>https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html</link>
-      <description>Vulnerable Product: Amazon Web Services; CVE(s): None; Summary: Default IAM roles in AWS services like SageMaker, Glue, EMR, and Lightsail grant overly broad permissions, allowing attackers to escalate privileges, manipulate other AWS services, and compromise entire AWS accounts. These roles can be exploited to perform administrative actions, break isolation boundaries between services, and move laterally across services within the same account.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html</guid>
-      <pubDate>Tue, 20 May 2025 12:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack on Serviceaide Compromises Data of 480,000 Catholic Health Patients</title>
-      <link>https://gbhackers.com/cyberattack-on-serviceaide-compromises-data/</link>
-      <description>Vulnerable Product: Serviceaide; CVE(s): None; Summary: An improperly secured Elasticsearch database left sensitive information of approximately 480,000 patients exposed for nearly seven weeks. The incident was caused by a misconfigured database managed by Serviceaide, which became publicly accessible on September 19, 2024, and was only discovered on November 5.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137162</guid>
-      <pubDate>Tue, 20 May 2025 12:35:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Deploy Bumblebee Malware via Poisoned Bing SEO Results</title>
-      <link>https://gbhackers.com/threat-actors-deploy-bumblebee-malware/</link>
-      <description>The article discusses a cyberattack campaign that uses SEO poisoning to distribute the Bumblebee malware. The attackers create fake download websites mimicking legitimate software packages and optimize their malicious sites to rank at the top of Bing search results. The malware is used as a downloader for additional payloads, making it particularly dangerous in developer environments where privileged access could be leveraged for broader attacks or data theft.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137150</guid>
-      <pubDate>Tue, 20 May 2025 12:23:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
