@@ -6,8 +6,92 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 22:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 10:06:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>GIMP Image Editor Vulnerability Allows Remote Attackers to Execute Arbitrary Code</title>
+      <link>https://gbhackers.com/gimp-image-editor-vulnerability/</link>
+      <description>Vulnerable Product: GIMP; CVE(s): CVE-2025-2760, CVE-2025-2761; Summary: Two high-severity vulnerabilities (CVE-2025-2760 and CVE-2025-2761) were discovered in GIMP image editing software, allowing remote attackers to execute arbitrary code with user privileges. The vulnerabilities impact users who open malicious image files or visit compromised websites, and can lead to remote code execution, data exposure, malware installation, or persistent system compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138701</guid>
+      <pubDate>Tue, 27 May 2025 09:52:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Server emergency update fixes Hyper-V VM freezes, restart issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The article discusses an emergency update from Microsoft to address a known issue causing some Hyper-V virtual machines with Windows Server 2022 to freeze or restart unexpectedly, mainly affecting Azure confidential VMs. The issue is fixed by the KB5061906 cumulative update for Windows Server 2022.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/</guid>
+      <pubDate>Tue, 27 May 2025 09:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Red Hat and AMD Team Up to Boost AI Processing Power and Performance</title>
+      <link>https://gbhackers.com/red-hat-and-amd-team-up-to-boost-ai/</link>
+      <description>This article is about a strategic collaboration between Red Hat and AMD to revolutionize artificial intelligence (AI) workloads. The partnership aims to simplify access to validated GPU Operators for enterprise users by integrating AMD Instinct GPUs within Red Hat OpenShift AI, a Kubernetes-based platform for building and scaling AI/ML models.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138682</guid>
+      <pubDate>Tue, 27 May 2025 09:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Malware GhostSpy Grants Attackers Full Control Over Infected Devices</title>
+      <link>https://gbhackers.com/new-android-malware-ghostspy-grants-attackers/</link>
+      <description>GhostSpy is a high-risk Android malware that employs advanced evasion, persistence, and surveillance techniques to seize control over infected devices. It has capabilities such as keylogging, bypassing banking app protections, screen capture, audio/video recording, GPS tracking, SMS interception, and unauthorized financial transactions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138665</guid>
+      <pubDate>Tue, 27 May 2025 08:32:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adidas warns of data breach after customer service provider hack</title>
+      <link>https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/</link>
+      <description>Adidas disclosed a data breach where an unauthorized party hacked a third-party customer service provider and stole some customers' data. The stolen information did not include payment-related information or passwords, but only contact information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/</guid>
+      <pubDate>Tue, 27 May 2025 08:29:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SiPass Flaw Allows Remote Attackers to Cause DoS Conditions</title>
+      <link>https://gbhackers.com/siemens-sipass-flaw/</link>
+      <description>Vulnerable Product: Siemens SiPass integrated; CVE(s): CVE-2022-31812; Summary: A critical out-of-bounds read vulnerability (CVE-2022-31812) affects all SiPass integrated versions before V2.95.3.18, allowing unauthenticated remote attackers to trigger a denial of service condition and disrupting access control operations for organizations relying on SiPass for physical security management.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138663</guid>
+      <pubDate>Tue, 27 May 2025 08:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arm Mali GPU Vulnerability Enables Bypass of MTE and Arbitrary Kernel Code Execution</title>
+      <link>https://gbhackers.com/arm-mali-gpu-vulnerability-enables-bypass-of-mte/</link>
+      <description>Vulnerable Product: Arm Mali GPU driver; CVE(s): CVE-2025-0072; Summary: A critical vulnerability in the Arm Mali GPU driver (CVE-2025-0072) allows a malicious Android app to bypass the Memory Tagging Extension (MTE) and achieve arbitrary kernel code execution. The exploit manipulates queue-&gt;phys fields to point to newly allocated GPU memory pages while maintaining user-space mappings to previously freed pages, creating a use-after-free scenario.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138641</guid>
+      <pubDate>Tue, 27 May 2025 07:49:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit HTTP/2 Flaw to Launch Arbitrary Cross-Site Scripting Attacks</title>
+      <link>https://gbhackers.com/hackers-exploit-http-2-flaw/</link>
+      <description>Vulnerable Product: Multiple web infrastructure products; CVE(s): None; Summary: A study by Tsinghua University and Zhongguancun Laboratory has discovered critical vulnerabilities in modern web infrastructure related to HTTP/2 serverpush and Signed HTTP Exchange (SXG) features. These vulnerabilities can be exploited to bypass the Same-Origin Policy, allowing attackers to push malicious resources that are treated as legitimate by the browser.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138640</guid>
+      <pubDate>Tue, 27 May 2025 07:17:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth’s Stealth Phishing Campaign</title>
+      <link>https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html</link>
+      <description>The FBI has warned of social engineering attacks by criminal extortion actor Luna Moth targeting law firms over two years, using IT-themed calls and callback phishing emails to gain remote access to systems or steal sensitive data. The attackers have shifted tactics, now posing as employees from the company's IT department to gain access to devices.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html</guid>
+      <pubDate>Tue, 27 May 2025 07:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical GitHub MCP Server Vulnerability Allows Unauthorized Access to Private Repositories</title>
+      <link>https://gbhackers.com/critical-github-mcp-server-vulnerability/</link>
+      <description>Vulnerable Product: GitHub MCP integration; CVE(s): None; Summary: A critical vulnerability in the GitHub MCP integration allows attackers to manipulate a user's agent via a malicious GitHub Issue, coercing it into leaking sensitive information from private repositories. The exploit occurs when an attacker crafts a malicious issue in a user's public repository, embedding a prompt injection payload that triggers a toxic agent flow and exposes private data through autonomously created pull requests.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138619</guid>
+      <pubDate>Tue, 27 May 2025 06:54:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents</title>
+      <link>https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html</link>
+      <description>This article describes a spear-phishing campaign conducted by the Russia-aligned threat actor TAG-110 targeting Tajikistan using macro-enabled Word templates as an initial payload. The attack chain is a departure from the threat actor's previously documented use of an HTML Application (.HTA) loader dubbed HATVIBE, and the goal is likely to gather intelligence for influencing regional politics or security.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html</guid>
+      <pubDate>Tue, 27 May 2025 06:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Google Meet Pages Are Exploited to Deliver PowerShell Malware</title>
+      <link>https://gbhackers.com/how-google-meet-exploited/</link>
+      <description>A new wave of cyberattacks, dubbed ClickFix, exploits user trust in Google Meet by deploying fake meeting pages that trick victims into running malicious PowerShell commands. The attack bypasses traditional security measures and targets Windows and macOS systems, ultimately leading to the download and execution of a remote access trojan (RAT).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138622</guid>
+      <pubDate>Tue, 27 May 2025 06:23:25 +0000</pubDate>
+    </item>
     <item>
       <title>Meteobridge Web Interface Vulnerability Let Attackers Inject Commands Remotely</title>
       <link>https://gbhackers.com/meteobridge-web-interface-vulnerability/</link>
@@ -1363,90 +1447,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>Marks &amp; Spencer, a British retailer, is bracing for a potential profit hit of up to £300 million ($402 million) following a recent cyberattack that led to widespread operational and sales disruptions. The company's online retail systems are still disabled, and the disruptions are expected to last at least until July. The attack was linked to the Scattered Spider, a collective of cybercriminals known for breaching high-profile organizations worldwide.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/</guid>
       <pubDate>Wed, 21 May 2025 10:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 100 Malicious Chrome Extensions Exploiting Users to Steal Login Credentials and Execute Remote Code</title>
-      <link>https://gbhackers.com/over-100-malicious-chrome-extensions-exploiting-users/</link>
-      <description>A network of over 100 malicious Chrome extensions has been discovered, stealing login credentials and executing unauthorized remote code. The extensions inject harmful scripts into the browser environment, harvesting critical data and exploiting vulnerabilities to establish backdoor access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137460</guid>
-      <pubDate>Wed, 21 May 2025 10:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti EPMM 0-Day RCE Vulnerability Under Active Attack</title>
-      <link>https://gbhackers.com/ivanti-epmm-0-day-rce-vulnerability/</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The EPMM contains a critical vulnerability chain that allows unauthenticated attackers to execute arbitrary code on vulnerable systems. The vulnerability combines an authentication bypass (CVE-2025-4427) and a remote code execution flaw (CVE-2025-4428) to create a critical attack vector. Exploitation has been observed since May 16th following the publication of proof-of-concept exploits by multiple security firms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137448</guid>
-      <pubDate>Wed, 21 May 2025 09:50:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coinbase says recent data breach impacts 69,461 customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/</link>
-      <description>A data breach at Coinbase affected 69,461 individuals, exposing customer and corporate data. The breached information included personal identifiers such as name, date of birth, social security numbers, and account information, which could be used in social engineering attacks to convince victims to move their funds.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/</guid>
-      <pubDate>Wed, 21 May 2025 09:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atlassian Alerts Users to Multiple Critical Vulnerabilities Affecting Data Center Server</title>
-      <link>https://gbhackers.com/atlassian-alerts-users-to-multiple-critical-vulnerabilities/</link>
-      <description>Vulnerable Product: Atlassian; CVE(s): CVE-2025-31650, CVE-2024-47072, CVE-2024-57699, CVE-2025-24970, CVE-2025-22157; Summary: Eight high-severity vulnerabilities affecting multiple enterprise products in Atlassian's Data Center and Server offerings, including denial-of-service attacks and privilege escalation. The vulnerabilities were discovered through various means, including the Bug Bounty program, penetration testing, and third-party library scans.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137415</guid>
-      <pubDate>Wed, 21 May 2025 09:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Could Leverage Google Cloud Platform for Malicious Activities</title>
-      <link>https://gbhackers.com/cybercriminals-could-leverage-google-cloud-platform/</link>
-      <description>Vulnerable Product: Google Cloud Platform's (GCP) Cloud Functions and Cloud Build services; CVE(s): None; Summary: The default Cloud Build Service Account (SA) previously granted excessive permissions during the deployment of Cloud Functions, allowing attackers to escalate privileges by exploiting the deployment process. This could have enabled malicious activities, including environment enumeration, across multiple cloud platforms, despite Google's partial remediation patch.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137427</guid>
-      <pubDate>Wed, 21 May 2025 09:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Hackers Create Fake AI Tool to Exploit Millions of Users</title>
-      <link>https://gbhackers.com/malicious-hackers-create-fake-ai-tool/</link>
-      <description>The article reports on a sophisticated campaign by hostile actors posing as Kling AI, an AI-powered picture and video synthesis platform. The attackers use counterfeit Facebook pages and paid advertisements to lure users into downloading malicious Windows executables disguised with double extensions and Hangul Filler characters, which execute anti-analysis tricks and deploy a PureHVNC Remote Access Trojan (RAT) that steals credentials and session tokens from various browser extensions and standalone applications.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137358</guid>
-      <pubDate>Wed, 21 May 2025 09:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps</title>
-      <link>https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html</link>
-      <description>A new campaign has been discovered that employs malicious JavaScript injections on mobile devices to redirect site visitors to a Chinese adult-content Progressive Web App (PWA) scam, aiming to bypass basic browser protections and retain users longer. The attack only triggers on mobile devices and is designed to evade detection mechanisms.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html</guid>
-      <pubDate>Wed, 21 May 2025 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phishing Attack Uses AES &amp; Malicious npm Packages to Office 365 Login Credentials</title>
-      <link>https://gbhackers.com/new-phishing-attack-uses-aes-malicious-npm-packages/</link>
-      <description>A highly sophisticated phishing campaign targeting Microsoft Office 365 (O365) credentials was uncovered by Fortra's Suspicious Email Analysis team. The attack employed modern technologies and developer infrastructure, including AES encryption, malicious npm packages, and content delivery networks (CDNs), to deliver a counterfeit O365 login page designed to steal credentials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137312</guid>
-      <pubDate>Wed, 21 May 2025 08:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kettering Health Experiences System-Wide Outage Due to Ransomware Attack</title>
-      <link>https://gbhackers.com/kettering-health-experiences-system-wide-outage/</link>
-      <description>A ransomware attack has hit Kettering Health, a major healthcare provider, causing a system-wide technology outage that has severely limited access to critical patient care systems. The attack is part of a troubling trend of cyber attacks targeting healthcare institutions, which are particularly vulnerable due to their critical need for immediate access to patient information and the life-or-death nature of their services.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137342</guid>
-      <pubDate>Wed, 21 May 2025 08:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Lexmark Printers Enables Remote Code Execution</title>
-      <link>https://gbhackers.com/critical-vulnerability-in-lexmark-printers/</link>
-      <description>Vulnerable Product: Lexmark; CVE(s): CVE-2025-1127; Summary: The vulnerability is a critical security flaw affecting over 150 Lexmark printer and multifunction device models. It enables remote attackers to execute malicious code on unpatched systems through a combination of path traversal and concurrent execution flaws, with the potential for full system compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137322</guid>
-      <pubDate>Wed, 21 May 2025 08:41:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attaxion Leads the Way as First EASM Platform to Integrate ENISA’s EU Vulnerability Database (EUVD)</title>
-      <link>https://gbhackers.com/attaxion-becomes-the-first-easm-platform-to-integrate-enisas-eu-vulnerability-database-euvd/</link>
-      <description>The article announces the integration of the European Vulnerability Database (EUVD) into Attaxion's external attack surface management platform. This integration provides broader coverage and context for vulnerability prioritization, including EUVD IDs, exploitation confirmation, affected products, and references.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137374</guid>
-      <pubDate>Wed, 21 May 2025 08:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager</title>
-      <link>https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html</link>
-      <description>Google has announced a new feature in its Chrome browser that enables automated password changes when compromised credentials are detected during sign-in. The feature aims to reduce friction and help users keep their accounts secure without requiring manual intervention. Website owners can support this feature by adopting specific methods, such as using well-known URLs for password change forms.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html</guid>
-      <pubDate>Wed, 21 May 2025 07:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
