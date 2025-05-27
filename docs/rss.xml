@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 19:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 20:01:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years</title>
+      <link>https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/</link>
+      <description>Sina Gholinejad, an Iranian national, has pleaded guilty to participating in the Robbinhood ransomware operation that targeted U.S. cities and organizations over a five-year period, breaching networks, stealing data, and encrypting devices to extort millions of dollars. The operation often used administrator accounts or vulnerabilities to access victim networks and demanded payment through Tor dark web sites.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/</guid>
+      <pubDate>Tue, 27 May 2025 19:14:56 +0000</pubDate>
+    </item>
     <item>
       <title>New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency</title>
       <link>https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html</link>
@@ -35,6 +42,13 @@
       <description>The article discusses the release of a comprehensive series of publications by international cybersecurity agencies to guide organizations in implementing and prioritizing Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) platforms. The resources aim to help executives and practitioners navigate modern cyber defense complexities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138803</guid>
       <pubDate>Tue, 27 May 2025 14:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets</title>
+      <link>https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html</link>
+      <description>The article reports a new malicious campaign using a fake website advertising Bitdefender antivirus software to dupe victims into downloading the Venom RAT remote access trojan. The campaign targets individuals for financial gain by compromising their credentials, crypto wallets, and potentially selling access to their systems.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html</guid>
+      <pubDate>Tue, 27 May 2025 14:10:00 +0000</pubDate>
     </item>
     <item>
       <title>WordPress TI WooCommerce Wishlist Plugin Flaw Puts Over 100,000 Websites at Risk of Cyberattack</title>
@@ -1413,20 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>A new injection campaign targets mobile users through malicious third-party JavaScript, delivering a Chinese adult-content Progressive Web App (PWA) scam. The attack injects scripts into compromised websites, filtering out desktop users and exclusively targeting mobile devices to deliver fake adult content zones and push malware downloads for Android and iOS devices.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137642</guid>
       <pubDate>Wed, 21 May 2025 17:27:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>3AM ransomware uses spoofed IT calls, email bombing to breach networks</title>
-      <link>https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</link>
-      <description>The article describes a targeted ransomware attack campaign conducted by a 3AM ransomware affiliate using email bombing and spoofed IT support calls to socially engineer employees into giving credentials for remote access. The attackers used tactics such as vishing via Microsoft Teams, Quick Assist abuse, and real phone phishing to gain access to corporate systems.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/</guid>
-      <pubDate>Wed, 21 May 2025 17:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docker Zombie Malware Infects Containers for Crypto Mining and Self-Replication</title>
-      <link>https://gbhackers.com/docker-zombie-malware-infects-containers/</link>
-      <description>Vulnerable Product: Docker; CVE(s): None; Summary: The article describes a novel malware campaign that targets containerized infrastructures by exploiting insecurely exposed Docker APIs. The attack spreads malicious containers and mines Dero cryptocurrency using self-replicating propagation mechanism, transforming compromised containers into "zombies" that mine cryptocurrency and infect new victims.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137633</guid>
-      <pubDate>Wed, 21 May 2025 17:20:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
