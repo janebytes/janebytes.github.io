@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 17:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 18:00:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency</title>
+      <link>https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html</link>
+      <description>Vulnerable Product: Docker API; CVE(s): None; Summary: A new malware campaign is targeting misconfigured Docker API instances, transforming them into a cryptocurrency mining botnet. The attack propagates through worm-like capabilities to infect other exposed Docker instances and creates malicious containers to launch external attacks and spread the malware further.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html</guid>
+      <pubDate>Tue, 27 May 2025 16:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Use Fake DocuSign Notifications to Steal Corporate Data</title>
       <link>https://gbhackers.com/threat-actors-use-fake-docusign-notifications/</link>
@@ -1420,15 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Docker; CVE(s): None; Summary: The article describes a novel malware campaign that targets containerized infrastructures by exploiting insecurely exposed Docker APIs. The attack spreads malicious containers and mines Dero cryptocurrency using self-replicating propagation mechanism, transforming compromised containers into "zombies" that mine cryptocurrency and infect new victims.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137633</guid>
       <pubDate>Wed, 21 May 2025 17:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Masquerade as Organizations to Steal Payroll Logins and Redirect Payments from Employees</title>
-      <link>https://gbhackers.com/hackers-masquerade-as-organizations-to-steal-payroll-logins/</link>
-      <description>A sophisticated search engine optimization (SEO) poisoning scheme has been deployed to orchestrate payroll fraud against a manufacturing sector customer. The attack involves creating fake authentication portals that mirror legitimate organizational login pages, manipulating search engine results to rank malicious sites at the top, and exploiting mobile-specific SEO manipulation to redirect users to phishing pages mimicking Microsoft login portals.
-
-Note: There is no specific product or software mentioned in the article, but rather a technique used by attackers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137623</guid>
-      <pubDate>Wed, 21 May 2025 17:12:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
