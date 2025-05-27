@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 13:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 14:03:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Alerts on Void Blizzard Hackers Targeting Telecommunications and IT Sectors</title>
+      <link>https://gbhackers.com/microsoft-alerts-on-void-blizzard-hackers/</link>
+      <description>A Russian-affiliated threat actor tracked as Void Blizzard, also known as LAUNDRY BEAR, has been conducting cyberespionage operations targeting NATO member states and Ukraine since at least April 2024. The group's tactics include password spraying, stolen credentials, and adversary-in-the-middle (AitM) spear phishing campaigns, posing a heightened risk to nations supporting Ukraine militarily or through humanitarian aid.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138869</guid>
+      <pubDate>Tue, 27 May 2025 13:53:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use Fake OneNote Login to Capture Office365 and Outlook Credentials</title>
+      <link>https://gbhackers.com/fake-onenote-login/</link>
+      <description>A persistent phishing campaign targeting Italian and U.S. users has been uncovered, utilizing free cloud platforms and Telegram bots for credential harvesting and data exfiltration. The attackers lack advanced technical skills but use a consistent exfiltration mechanism, relying on Telegram bot-based command-and-control infrastructure. The campaign's focus is on access brokering, selling harvested credentials to other cybercriminals, rather than direct exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138802</guid>
+      <pubDate>Tue, 27 May 2025 13:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>MATLAB dev confirms ransomware attack behind service outage</title>
+      <link>https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/</link>
+      <description>MathWorks, a developer of mathematical computing software, has experienced a ransomware attack that caused an ongoing service outage. The attack affected the company's IT systems and online applications, leading to issues with account creation and login.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/</guid>
+      <pubDate>Tue, 27 May 2025 13:37:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Craft CMS Vulnerability to Inject Cryptocurrency Miner Malware</title>
+      <link>https://gbhackers.com/hackers-exploit-craft-cms-vulnerability/</link>
+      <description>Vulnerable Product: Craft Content Management System (CMS); CVE(s): CVE-2025-32432; Summary: The Craft CMS has a critical Remote Code Execution (RCE) vulnerability, identified as CVE-2025-32432, which allows unauthenticated attackers to deploy malicious payloads, including cryptocurrency miners and proxyware. The vulnerability affects versions 3.0.0-RC1 to 5.6.17 and has been under active exploitation since its discovery in mid-February 2025.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138851</guid>
+      <pubDate>Tue, 27 May 2025 13:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT36 and Sidecopy Hackers Target India’s Critical Infrastructure with Malware Attacks</title>
+      <link>https://gbhackers.com/apt36-and-sidecopy-hackers-target-indias-critical-infrastructure/</link>
+      <description>This article reports on a state-sponsored Advanced Persistent Threat (APT) campaign called Operation Sindoor, orchestrated by Pakistan-aligned threat groups APT36 and Sidecopy. The campaign targeted Indian critical sectors using spear phishing, malicious scripts, website defacements, and data leaks, with the goal of destabilizing national operations through cyber espionage and hybrid warfare tactics.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138834</guid>
+      <pubDate>Tue, 27 May 2025 13:11:50 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 11 Notepad Introduces AI-Powered Writing with Copilot Integration</title>
       <link>https://gbhackers.com/windows-11-notepad-copilot/</link>
@@ -28,6 +63,13 @@
       <description>The DPRK-linked Velvet Chollima APT group has launched a sophisticated cyberattack campaign targeting South Korean government officials, NGOs, government agencies, media organizations across multiple continents. The attack uses spear-phishing emails with weaponized PDF attachments and a novel social engineering tactic called "ClickFix" to trick users into running PowerShell commands as administrators.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138792</guid>
       <pubDate>Tue, 27 May 2025 12:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Guidance for SIEM and SOAR Implementation</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/27/new-guidance-siem-and-soar-implementation</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has released new guidance for organizations on procuring and implementing Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) platforms. The guidance aims to help executives and practitioners enhance their organization's cybersecurity framework by improving visibility into network activities, detecting cyber threats quickly, and streamlining incident response processes.</description>
+      <guid isPermaLink="false">/node/23432</guid>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages</title>
@@ -1387,48 +1429,6 @@ Note: There is no specific product or software mentioned in the article, but rat
       <description>Vulnerable Product: Google Chrome Web Store; CVE(s): None; Summary: A malicious campaign has been discovered on the Google Chrome Web Store, featuring over 100 fake browser extensions that mimic legitimate tools to steal browser cookies and execute remote scripts. The extensions offer some functionality but also connect to threat actor infrastructure to steal user information or receive commands to execute.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</guid>
       <pubDate>Wed, 21 May 2025 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows</title>
-      <link>https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</link>
-      <description>The article discusses the importance of patch management in cybersecurity, highlighting the challenges organizations face in executing consistent and secure patching at scale. It introduces ThreatLocker's Patch Management solution as a way to provide security teams with greater control, visibility, and confidence over patching workflows while minimizing risks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/</guid>
-      <pubDate>Wed, 21 May 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>European Union sanctions Stark Industries for enabling cyberattacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/</link>
-      <description>This article does not discuss a specific vulnerability, but rather the imposition of sanctions by the European Union against web-hosting provider Stark Industries and its owners for enabling "destabilising activities" against the EU.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/</guid>
-      <pubDate>Wed, 21 May 2025 13:37:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms</title>
-      <link>https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html</link>
-      <description>The article discusses a phishing campaign targeting Russian organizations, distributing malware called PureRAT. The attack chain begins with a phishing email containing a RAR file attachment or link, which extracts an executable that unpacks and runs the main payload, PureRAT.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html</guid>
-      <pubDate>Wed, 21 May 2025 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PowerDNS Vulnerability Allows Attackers to Trigger DoS Attacks Through Malicious TCP Connections</title>
-      <link>https://gbhackers.com/powerdns-vulnerability-let-attacker-trigger-dos-attack/</link>
-      <description>Vulnerable Product: PowerDNS DNSdist; CVE(s): CVE-2025-30193; Summary: The DNSdist load balancer has a vulnerability (CVE-2025-30193) that allows remote attackers to trigger denial of service attacks without authentication, affecting all versions prior to 1.9.10.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137557</guid>
-      <pubDate>Wed, 21 May 2025 12:32:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>VanHelsing Ransomware Builder Exposed on Hacker Forums</title>
-      <link>https://gbhackers.com/vanhelsing-ransomware-builder-exposed/</link>
-      <description>Vulnerable Product: VanHelsing Ransomware; CVE(s): None; Summary: The source code for the VanHelsing ransomware operation has been leaked publicly due to an internal dispute with a former developer. The leak includes critical components of the ransomware infrastructure, but some elements remain missing, limiting immediate exploitation by opportunistic threat actors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137537</guid>
-      <pubDate>Wed, 21 May 2025 12:29:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM Warns: One-Third of Cyber Attacks Use Advanced Tactics to Steal Login Credentials</title>
-      <link>https://gbhackers.com/ibm-warns-one-third-of-cyber-attacks/</link>
-      <description>The article discusses a trend in cyber intrusions that rely on identity-based attacks, exploiting valid login credentials to breach systems. This trend is driven by the use of generative AI (gen AI) and other sophisticated tools to scale phishing campaigns and harvest credentials through infostealer malware and credential phishing.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137563</guid>
-      <pubDate>Wed, 21 May 2025 12:19:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
