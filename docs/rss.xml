@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 11:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 12:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Mozilla Quickly Fixes Firefox Vulnerabilities from Pwn2Own 2025 with Urgent Patches</title>
+      <link>https://gbhackers.com/mozilla-quickly-fixes-firefox-vulnerabilities/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two zero-day exploits were demonstrated against Mozilla Firefox's content process at Pwn2OwnBerlin, targeting the browser's JavaScript engine. The vulnerabilities allowed out-of-bounds memory access and raised the risk of remote code execution and sensitive data exposure. However, neither exploit succeeded in escaping Firefox's sandbox, a critical security boundary designed to prevent attackers from gaining full control over the user's system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138744</guid>
+      <pubDate>Tue, 27 May 2025 11:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Void Blizzard cyberspies linked to Dutch police breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/</link>
+      <description>The article discusses a Russian-backed cyberespionage group, Void Blizzard, which has been linked to a September 2024 Dutch police security breach. The attackers stole work-related contact information of multiple officers using a pass-the-cookie attack and infostealer malware.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/</guid>
+      <pubDate>Tue, 27 May 2025 11:16:03 +0000</pubDate>
+    </item>
     <item>
       <title>Adidas Customer Information Compromised Through Third-Party Vendor</title>
       <link>https://gbhackers.com/adidas-customer-information-compromised/</link>
@@ -1433,20 +1447,6 @@ The report also includes several mitigation techniques, such as:
 In conclusion, this report is a valuable resource for cybersecurity professionals seeking to understand and mitigate GRU unit 26165's tactics and techniques. It provides actionable guidance on various aspects of network security, identity and access management, and IP camera security.</description>
       <guid isPermaLink="false">/node/23341</guid>
       <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SideWinder APT Hackers Exploits Legacy Office Vulnerabilities to Deploy Malware Undetected</title>
-      <link>https://gbhackers.com/sidewinder-apt-hackers-exploits-legacy-office-vulnerabilities/</link>
-      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2017-0199, CVE-2017-11882; Summary: The SideWinder APT group exploits unpatched legacy Microsoft Office vulnerabilities to deploy credential-stealing malware, using spear-phishing emails with malicious Word or RTF attachments. The exploit chain begins with remote code execution and memory corruption bugs, and ultimately leads to the exfiltration of sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137533</guid>
-      <pubDate>Wed, 21 May 2025 11:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kettering Health hit by system-wide outage after ransomware attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</link>
-      <description>A healthcare network, Kettering Health, experienced a system-wide technology outage due to a cyberattack, which forced the cancellation of inpatient and outpatient procedures. The attack may have involved ransomware, as Interlock ransomware gang is suspected to be behind the incident.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</guid>
-      <pubDate>Wed, 21 May 2025 11:45:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
