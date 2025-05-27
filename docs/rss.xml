@@ -6,14 +6,49 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 10:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 11:03:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Adidas Customer Information Compromised Through Third-Party Vendor</title>
+      <link>https://gbhackers.com/adidas-customer-information-compromised/</link>
+      <description>A third-party customer service provider of Adidas was compromised by cybercriminals, exposing contact information of customers who interacted with the help desk. The breach did not involve sensitive information such as passwords or payment details, but may have exposed names, email addresses, phone numbers, and possibly home addresses and birthdates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138743</guid>
+      <pubDate>Tue, 27 May 2025 10:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple Vulnerabilities in Hardy Barth EV Station Allow Unauthenticated Network Access</title>
+      <link>https://gbhackers.com/vulnerabilities-hardy-barth-ev-station/</link>
+      <description>Vulnerable Product: Hardy Barth eCharge Hardy Barth cPH2 and cPP2 charging stations; CVE(s): CVE-2025-27803, CVE-2025-27804, CVE-2025-48413, CVE-2025-48414, CVE-2025-48415, CVE-2025-48416, CVE-2025-48417; Summary: The eCharge Hardy Barth cPH2 and cPP2 charging stations have been found to have several critical security flaws, including missing authentication, OS command injection, hard-coded OS backdoor user, undocumented web interface credentials, USB backdoor, SSH backdoor, and hard-coded TLS certificates. These vulnerabilities can be exploited to compromise the system, exfiltrate sensitive data, disrupt charging operations, and launch man-in-the-middle attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138742</guid>
+      <pubDate>Tue, 27 May 2025 10:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silver RAT Malware Employs New Anti-Virus Bypass Techniques to Execute Malicious Activities</title>
+      <link>https://gbhackers.com/silver-rat-malware-employs-new-anti-virus-bypass-techniques/</link>
+      <description>The article discusses a newly identified malware strain called Silver RAT, which is a remote access trojan (RAT) that leverages anti-virus bypass techniques to evade detection and compromise Windows-based systems. It uses process hollowing, dynamic API resolution, and obfuscated code execution to remain undetected, making it difficult for security tools to detect its behavior.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138753</guid>
+      <pubDate>Tue, 27 May 2025 10:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover macOS ‘AppleProcessHub’ Stealer: TTPs and C2 Server Details Revealed</title>
+      <link>https://gbhackers.com/researchers-uncover-macos-appleprocesshub-stealer/</link>
+      <description>AppleProcessHub malware has been identified as an information-stealing malware designed to infiltrate Apple systems and exfiltrate sensitive user data. The malware employs advanced tactics, techniques, and procedures (TTPs) to evade detection and establish persistent communication with command-and-control (C2) servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138692</guid>
+      <pubDate>Tue, 27 May 2025 10:04:32 +0000</pubDate>
+    </item>
     <item>
       <title>GIMP Image Editor Vulnerability Allows Remote Attackers to Execute Arbitrary Code</title>
       <link>https://gbhackers.com/gimp-image-editor-vulnerability/</link>
       <description>Vulnerable Product: GIMP; CVE(s): CVE-2025-2760, CVE-2025-2761; Summary: Two high-severity vulnerabilities (CVE-2025-2760 and CVE-2025-2761) were discovered in GIMP image editing software, allowing remote attackers to execute arbitrary code with user privileges. The vulnerabilities impact users who open malicious image files or visit compromised websites, and can lead to remote code execution, data exposure, malware installation, or persistent system compromise.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138701</guid>
       <pubDate>Tue, 27 May 2025 09:52:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers</title>
+      <link>https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html</link>
+      <description>Threat hunters have exposed a novel campaign that uses search engine optimization (SEO) poisoning techniques to target employee mobile devices and facilitate payroll fraud. The attackers use fake login pages to access the employee payroll portal and redirect paychecks into accounts under their control, exploiting weaknesses in home office routers and mobile networks to mask their traffic.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html</guid>
+      <pubDate>Tue, 27 May 2025 09:52:00 +0000</pubDate>
     </item>
     <item>
       <title>Windows Server emergency update fixes Hyper-V VM freezes, restart issues</title>
@@ -1412,41 +1447,6 @@ In conclusion, this report is a valuable resource for cybersecurity professional
       <description>A healthcare network, Kettering Health, experienced a system-wide technology outage due to a cyberattack, which forced the cancellation of inpatient and outpatient procedures. The attack may have involved ransomware, as Interlock ransomware gang is suspected to be behind the incident.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/</guid>
       <pubDate>Wed, 21 May 2025 11:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing CI/CD workflows with Wazuh</title>
-      <link>https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</link>
-      <description>The article discusses the risks associated with Continuous Integration and Continuous Delivery/Deployment (CI/CD) workflows, including supply chain attacks, insecure dependencies, insider threats, lack of visibility, compliance requirements, code and dependency vulnerabilities, container vulnerabilities, and misconfiguration of CI/CD tools. It highlights the importance of integrating security measures into CI/CD pipelines to maintain confidentiality, integrity, and availability.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html</guid>
-      <pubDate>Wed, 21 May 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cellcom Confirms Cybersecurity Breach After Network Failure</title>
-      <link>https://gbhackers.com/cellcom-confirms-cybersecurity-breach/</link>
-      <description>The article reports a cyberattack on Cellcom/Nsight's network infrastructure, causing a five-day service disruption. The company confirmed the incident and assured customers that sensitive personal information remains secure. The attack did not compromise customer data repositories.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137500</guid>
-      <pubDate>Wed, 21 May 2025 10:51:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>LockBit Internal Data Leak Reveals Payload Creation Methods and Ransom Demands</title>
-      <link>https://gbhackers.com/lockbit-internal-data-leak-reveals-payload/</link>
-      <description>This article reveals a major data breach of the LockBit ransomware group's operations, exposing internal processes and sensitive data. The leak includes details on ransomware payload creation, negotiation tactics with victims, and configuration data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137506</guid>
-      <pubDate>Wed, 21 May 2025 10:38:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Detect Phishing Attacks Faster: Tycoon2FA Example</title>
-      <link>https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</link>
-      <description>The article discusses the importance of phishing detection in corporate environments and highlights the capabilities of ANY.RUN's Interactive Sandbox in detecting and analyzing evasive phishing attacks. It provides a real-world example of a suspicious email and walks through how the sandbox can be used to detonate every stage of an attack, from the first click to the final payload. The article emphasizes the benefits of using sandboxes like ANY.RUN in detecting and responding to phishing threats quickly and efficiently.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html</guid>
-      <pubDate>Wed, 21 May 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marks &amp; Spencer faces $402 million profit hit after cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/</link>
-      <description>Marks &amp; Spencer, a British retailer, is bracing for a potential profit hit of up to £300 million ($402 million) following a recent cyberattack that led to widespread operational and sales disruptions. The company's online retail systems are still disabled, and the disruptions are expected to last at least until July. The attack was linked to the Scattered Spider, a collective of cybercriminals known for breaching high-profile organizations worldwide.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/</guid>
-      <pubDate>Wed, 21 May 2025 10:10:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
