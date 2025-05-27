@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 21:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 22:01:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DragonForce ransomware abuses MSP’s SimpleHelp RMM to encrypt customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-msps-simplehelp-rmm-to-encrypt-customers/</link>
+      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, CVE-2024-57728, and CVE-2024-57726; Summary: The DragonForce ransomware operation exploited a chain of older SimpleHelp vulnerabilities to breach a managed service provider's system, steal data, and deploy encryptors on downstream customers' systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-msps-simplehelp-rmm-to-encrypt-customers/</guid>
+      <pubDate>Tue, 27 May 2025 21:44:15 +0000</pubDate>
+    </item>
     <item>
       <title>Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years</title>
       <link>https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/</link>
@@ -28,6 +35,13 @@
       <description>Threat actors are leveraging the trusted reputation of DocuSign to deploy sophisticated phishing campaigns that harvest corporate credentials, infiltrate networks, and execute financial fraud. These attacks often employ social engineering tactics, such as mimicking legitimate DocuSign "envelopes" or using QR code attachments to deceive users into compromising their security.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138905</guid>
       <pubDate>Tue, 27 May 2025 15:10:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>How GRU-Backed APT28 is Waging Cyber War on NATO’s Digital Frontlines</title>
+      <link>https://socradar.io/gru-backed-apt28-cyber-war-on-nato/</link>
+      <description>APT28, a GRU-backed threat actor, is conducting a campaign targeting critical infrastructure, government entities, and NATO-aligned organizations, particularly those supporting Ukraine. The campaign uses various tactics such as spear phishing, password spraying, exploitation of public-facing apps, and living-off-the-land binaries to gain initial access, maintain persistence, and evade detection.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060340</guid>
+      <pubDate>Tue, 27 May 2025 14:52:27 +0000</pubDate>
     </item>
     <item>
       <title>Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable</title>
@@ -1413,20 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31251; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS by exploiting an out-of-bounds write in the JPEG image decoding functionality. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26603</guid>
       <pubDate>Wed, 21 May 2025 18:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-305: Apple XNU kernel vm_map Race Condition Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-305/</link>
-      <description>Vulnerable Product: Apple XNU kernel; CVE(s): CVE-2025-31219; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Apple macOS. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the handling of virtual memory allocations in the macOS kernel.</description>
-      <guid isPermaLink="false">ZDI-CAN-24156</guid>
-      <pubDate>Wed, 21 May 2025 18:03:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target Mobile Users Using PWA JavaScript to Bypass Browser Security</title>
-      <link>https://gbhackers.com/hackers-target-mobile-users-using-pwa-javascript/</link>
-      <description>A new injection campaign targets mobile users through malicious third-party JavaScript, delivering a Chinese adult-content Progressive Web App (PWA) scam. The attack injects scripts into compromised websites, filtering out desktop users and exclusively targeting mobile devices to deliver fake adult content zones and push malware downloads for Android and iOS devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137642</guid>
-      <pubDate>Wed, 21 May 2025 17:27:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
