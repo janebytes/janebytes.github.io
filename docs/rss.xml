@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 14:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 15:02:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable</title>
+      <link>https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/</link>
+      <description>The article discusses the limitations of traditional vulnerability prioritization methods, such as CVSS and EPSS, which score vulnerabilities based on technical factors but don't consider an organization's specific environment or controls. It proposes a new approach called exposure validation, which tests whether a vulnerability is actually exploitable in an organization's actual environment. This approach uses safe, non-destructive tools to simulate attacks and assess the risk of exploitation, taking into account factors such as existing controls and the importance of affected systems. The article highlights the benefits of this approach, including reducing the noise of false positives, improving prioritization, and increasing the effectiveness of security teams.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/</guid>
+      <pubDate>Tue, 27 May 2025 14:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Government Calls on Organizations to Adopt SIEM and SOAR Solutions</title>
+      <link>https://gbhackers.com/government-calls-on-organizations-to-adopt-siem-and-soar-solutions/</link>
+      <description>The article discusses the release of a comprehensive series of publications by international cybersecurity agencies to guide organizations in implementing and prioritizing Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) platforms. The resources aim to help executives and practitioners navigate modern cyber defense complexities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138803</guid>
+      <pubDate>Tue, 27 May 2025 14:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress TI WooCommerce Wishlist Plugin Flaw Puts Over 100,000 Websites at Risk of Cyberattack</title>
+      <link>https://gbhackers.com/wordpress-ti-woocommerce-wishlist-plugin-flaw/</link>
+      <description>Vulnerable Product: TI WooCommerce Wishlist; CVE(s): CVE-2025-47577; Summary: The TI WooCommerce Wishlist plugin contains an unauthenticated arbitrary file upload vulnerability, tracked as CVE-2025-47577, allowing attackers to upload malicious files and achieve remote code execution. This flaw affects all versions prior to 2.9.2, with no patched version currently available, and requires the WC Fields Factory plugin to be active.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138886</guid>
+      <pubDate>Tue, 27 May 2025 14:00:59 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Alerts on Void Blizzard Hackers Targeting Telecommunications and IT Sectors</title>
       <link>https://gbhackers.com/microsoft-alerts-on-void-blizzard-hackers/</link>
@@ -1408,27 +1429,6 @@ Note: There is no specific product or software mentioned in the article, but rat
       <description>A coordinated disruption action targeted the Lumma malware-as-a-service information stealer operation, resulting in Microsoft's seizure of approximately 2,300 domains and multiple law enforcement authorities and tech companies disrupting its infrastructure. The effort denied access to the control panel, marketplace, and Internet infrastructure used by the malware, imposing operational and financial costs on both the operators and customers.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/</guid>
       <pubDate>Wed, 21 May 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Scan Uncovers 150K Industrial Systems Worldwide Vulnerable to Cyberattacks</title>
-      <link>https://gbhackers.com/new-scan-uncovers-150k-industrial-systems/</link>
-      <description>The article reports that approximately 150,000 industrial control systems (ICS) worldwide are directly accessible on the public internet, posing severe risks of catastrophic cyberattacks. The study utilized advanced application-layer scanning to identify ICS devices, revealing a large number of exposed systems globally, with many not designed with robust security measures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137582</guid>
-      <pubDate>Wed, 21 May 2025 15:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Introduces Enhanced Administrator Protection to Strengthen Security Against Elevated Privilege Attacks</title>
-      <link>https://gbhackers.com/windows-11-introduces-enhanced-administrator-protection/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The article discusses the introduction of Administrator Protection, a security feature designed to safeguard systems against privilege escalation attacks. This feature creates a security boundary around administrative operations by implementing a hidden system-managed profile-separated local user account that generates isolated admin tokens, preventing user-level malware from compromising code running in elevated contexts and eliminating auto-elevation functionality.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137592</guid>
-      <pubDate>Wed, 21 May 2025 15:51:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs</title>
-      <link>https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</link>
-      <description>Vulnerable Product: Google Chrome Web Store; CVE(s): None; Summary: A malicious campaign has been discovered on the Google Chrome Web Store, featuring over 100 fake browser extensions that mimic legitimate tools to steal browser cookies and execute remote scripts. The extensions offer some functionality but also connect to threat actor infrastructure to steal user information or receive commands to execute.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/</guid>
-      <pubDate>Wed, 21 May 2025 15:13:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
