@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 12:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 13:04:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 11 Notepad Introduces AI-Powered Writing with Copilot Integration</title>
+      <link>https://gbhackers.com/windows-11-notepad-copilot/</link>
+      <description>Microsoft's Notepad, Paint, and Snipping Tool are integrating generative AI features, allowing users to generate text, code, and images with prompts. This introduces concerns about data privacy, compliance, and potential exposure of sensitive information, as well as the need for robust access controls, regular audits, and clear policies to mitigate risks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138801</guid>
+      <pubDate>Tue, 27 May 2025 12:42:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Cybergroup Toufan Targets Organizations to Steal Login Credentials</title>
+      <link>https://gbhackers.com/iranian-cybergroup-toufan-targets-organizations/</link>
+      <description>Cyber Toufan, an ideologically driven group, has orchestrated over 100 breaches targeting Israeli groups, focusing on critical sectors like government, defense, finance, and infrastructure. They exploit weak or reused credentials, poor cybersecurity hygiene, and lack of multi-factor authentication (MFA) to gain initial access and execute stealthy lateral movement using native tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138806</guid>
+      <pubDate>Tue, 27 May 2025 12:38:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Velvet Chollima APTHackers Target Government Officials Using Weaponized PDFs</title>
+      <link>https://gbhackers.com/velvet-chollima-apthackers-target-government-officials/</link>
+      <description>The DPRK-linked Velvet Chollima APT group has launched a sophisticated cyberattack campaign targeting South Korean government officials, NGOs, government agencies, media organizations across multiple continents. The attack uses spear-phishing emails with weaponized PDF attachments and a novel social engineering tactic called "ClickFix" to trick users into running PowerShell commands as administrators.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138792</guid>
+      <pubDate>Tue, 27 May 2025 12:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages</title>
+      <link>https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html</link>
+      <description>A Russia-affiliated threat actor known as Void Blizzard (aka Laundry Bear) has been attributed to "worldwide cloud abuse" since at least April 2024. The group targets organizations important to Russian government objectives, including those in government, defense, transportation, media, NGOs, and healthcare sectors in Europe and North America.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html</guid>
+      <pubDate>Tue, 27 May 2025 11:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Drive-By Downloads: How to Stay Protected</title>
+      <link>https://socradar.io/the-rise-of-drive-by-downloads-how-to-stay-protected/</link>
+      <description>Drive-by downloads are a type of cyber attack that installs harmful software on a device without the user's knowledge or permission. The attack takes advantage of vulnerabilities within old browsers, plugins, or trusted sites and can install malware payloads quickly and silently.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060321</guid>
+      <pubDate>Tue, 27 May 2025 11:49:05 +0000</pubDate>
+    </item>
     <item>
       <title>Mozilla Quickly Fixes Firefox Vulnerabilities from Pwn2Own 2025 with Urgent Patches</title>
       <link>https://gbhackers.com/mozilla-quickly-fixes-firefox-vulnerabilities/</link>
@@ -21,6 +56,13 @@
       <description>The article discusses a Russian-backed cyberespionage group, Void Blizzard, which has been linked to a September 2024 Dutch police security breach. The attackers stole work-related contact information of multiple officers using a pass-the-cookie attack and infostealer malware.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/</guid>
       <pubDate>Tue, 27 May 2025 11:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale</title>
+      <link>https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html</link>
+      <description>The article discusses the risks associated with the increasing use of Artificial Intelligence (AI) in enterprise environments. Non-human identities (NHIs), such as machine identities, service accounts, and AI agents, are overwhelming corporate clouds, making it difficult to manage secrets effectively. The article highlights five actionable controls to reduce AI-related NHI risk: auditing and cleaning up data sources, centralizing NHI management, preventing secrets leaks in LLM deployments, improving logging security, and restricting AI data access.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html</guid>
+      <pubDate>Tue, 27 May 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Adidas Customer Information Compromised Through Third-Party Vendor</title>
@@ -1387,66 +1429,6 @@ Note: There is no specific product or software mentioned in the article, but rat
       <description>The article discusses a trend in cyber intrusions that rely on identity-based attacks, exploiting valid login credentials to breach systems. This trend is driven by the use of generative AI (gen AI) and other sophisticated tools to scale phishing campaigns and harvest credentials through infostealer malware and credential phishing.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137563</guid>
       <pubDate>Wed, 21 May 2025 12:19:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>19-Year-Old Hacker Admits Guilt in Major Cyberattack on PowerSchool</title>
-      <link>https://gbhackers.com/hacker-admits-guilt-in-major-cyberattack-on-powerschool/</link>
-      <description>Matthew D. Lane, a 19-year-old Massachusetts college student, has been accused of orchestrating a cyberattack on PowerSchool, a widely used educational software provider, resulting in the theft of confidential data from millions of students and teachers. The attack involved unauthorized access to cloud storage providers and the threat of publishing sensitive information unless a ransom was paid.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137511</guid>
-      <pubDate>Wed, 21 May 2025 12:15:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims</title>
-      <link>https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</link>
-      <description>Counterfeit Facebook pages and sponsored ads are being used to trick users into downloading malware. The fake websites offer AI-powered image and video generation, but actually download a malicious Windows executable that installs a remote access trojan (RAT) and stealer, which steals sensitive data and exfiltrates it to a command-and-control server.
-
-FYSA: Vietnamese threat actors are using Facebook malvertising techniques to distribute stealer malware, leveraging the popularity of generative AI tools as lures. The campaign impersonated Kling AI through fake ads and deceptive websites, demonstrating social engineering tactics combined with advanced malware.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html</guid>
-      <pubDate>Wed, 21 May 2025 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Target U.S. Critical Infrastructure with LummaC2 Malware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/threat-actors-target-us-critical-infrastructure-lummac2-malware</link>
-      <description>The joint Cybersecurity Advisory by CISA and the FBI details the tactics, techniques, and procedures, as well as indicators of compromise (IOCs), linked to threat actors deploying LummaC2 malware. This malware poses a serious threat capable of infiltrating networks and exfiltrating sensitive information across U.S. critical infrastructure sectors. The advisory urges organizations to review it and implement recommended mitigations to reduce exposure and impact.</description>
-      <guid isPermaLink="false">/node/23422</guid>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141b</link>
-      <description>The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) have issued a joint advisory on LummaC2 malware, highlighting its tactics, techniques, and procedures (TTPs). The advisory provides guidance on mitigations to reduce the risk of compromise by LummaC2 malware, including implementing application controls, protecting against phishing campaigns, and exercising, testing, and validating security programs.</description>
-      <guid isPermaLink="false">/node/23420</guid>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian GRU Cyber Actors Targeting Western Logistics Entities and Tech Companies</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/21/russian-gru-cyber-actors-targeting-western-logistics-entities-and-tech-companies</link>
-      <description>A joint cybersecurity advisory was released by CISA, NSA, FBI, and other U.S. and international partners regarding a Russian state-sponsored cyber espionage campaign targeting Western logistics entities and technology companies, including those involved in delivering foreign assistance to Ukraine. The campaign is attributed to the Russian General Staff Main Intelligence Directorate (GRU) 85th Main Special Service Center, military unit 26165, which has been previously linked to IP camera attacks in Ukraine and bordering NATO nations.</description>
-      <guid isPermaLink="false">/node/23421</guid>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian GRU Targeting Western Logistics Entities and Technology Companies</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a</link>
-      <description>FYSA:
-
-As a cybersecurity analyst, I analyzed the article provided, which appears to be a threat report on GRU unit 26165's tactics and techniques used in malicious activities. The article highlights various indicators of compromise (IoCs), tactics, techniques, and procedures (TTPs) employed by this actor group.
-
-The report discusses multiple aspects of cybersecurity, including:
-
-1. Identity and Access Management: It emphasizes the importance of strong access controls, multi-factor authentication, and account throttling or lockout to prevent credential theft.
-2. Network Security: The article suggests disabling NTLM entirely and migrating to more robust authentication processes like PKI certificate authentication.
-3. IP Camera Security: It provides guidelines for securing IP cameras by ensuring they are currently supported, applying security patches and firmware updates, disabling remote access if unnecessary, and using a VPN for remote connections.
-
-The report also includes several mitigation techniques, such as:
-
-1. Disable Universal Plug and Play (UPnP), Peer-to-Peer (P2P), and Anonymous Visit features on IP cameras and routers.
-2. Turn off other ports/services not in use (e.g., FTP, web interface, etc.).
-3. Configure, tune, and monitor logging if available on the IP camera.
-
-In conclusion, this report is a valuable resource for cybersecurity professionals seeking to understand and mitigate GRU unit 26165's tactics and techniques. It provides actionable guidance on various aspects of network security, identity and access management, and IP camera security.</description>
-      <guid isPermaLink="false">/node/23341</guid>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
