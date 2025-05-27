@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 16:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 17:01:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Threat Actors Use Fake DocuSign Notifications to Steal Corporate Data</title>
@@ -91,6 +91,20 @@
       <description>The DPRK-linked Velvet Chollima APT group has launched a sophisticated cyberattack campaign targeting South Korean government officials, NGOs, government agencies, media organizations across multiple continents. The attack uses spear-phishing emails with weaponized PDF attachments and a novel social engineering tactic called "ClickFix" to trick users into running PowerShell commands as administrators.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138792</guid>
       <pubDate>Tue, 27 May 2025 12:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Johnson Controls iSTAR Configuration Utility (ICU) Tool</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-146-01</link>
+      <description>Vulnerable Product: Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool; CVE(s): CVE-2025-26383; Summary: The ICU tool leaks memory, which could result in unintended exposure of unauthorized data. Successful exploitation may allow an attacker to gain access to memory leaked from the ICU.</description>
+      <guid isPermaLink="false">/node/23434</guid>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases One Industrial Control Systems Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/27/cisa-releases-one-industrial-control-systems-advisory</link>
+      <description>CISA released one Industrial Control Systems (ICS) advisory on May 27, 2025, providing timely information about current security issues and vulnerabilities surrounding ICS. The advisory is related to the Johnson Controls iSTAR Configuration Utility (ICU) Tool, but no further details are provided in this article.</description>
+      <guid isPermaLink="false">/node/23435</guid>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Guidance for SIEM and SOAR Implementation</title>
@@ -1415,20 +1429,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
 Note: There is no specific product or software mentioned in the article, but rather a technique used by attackers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137623</guid>
       <pubDate>Wed, 21 May 2025 17:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>PupkinStealer Exploits Web Browser Passwords and App Tokens to Exfiltrate Data Through Telegram</title>
-      <link>https://gbhackers.com/pupkinstealer-exploits-web-browser-passwords/</link>
-      <description>PupkinStealer (also known as PumpkinStealer) is a .NET-based information-stealing malware that targets sensitive data such as web browser passwords and application session tokens. It uses Telegram's Bot API to exfiltrate stolen data, and employs tactics mapped to the MITRE ATT&amp;CK framework for initial access through phishing and social engineering.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137617</guid>
-      <pubDate>Wed, 21 May 2025 16:26:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>71 Fake Websites Impersonating German Retailer to Steal Payment Information</title>
-      <link>https://gbhackers.com/71-fake-websites-impersonating-german-retailer/</link>
-      <description>A sprawling network of 71 fraudulent e-commerce domains impersonating a German retailer has been detected, employing advanced brand impersonation tactics and designed to harvest personal and financial data. The primary goal is to facilitate downstream fraud and card compromise, posing significant financial risks to card issuers and merchant acquirers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137608</guid>
-      <pubDate>Wed, 21 May 2025 16:15:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
