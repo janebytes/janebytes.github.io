@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 17:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 18:02:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Pakistan Arrests 21 in ‘Heartsender’ Malware Service</title>
+      <link>https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/</link>
+      <description>Pakistani authorities arrested 21 individuals accused of operating "Heartsender," a spam and malware dissemination service that allegedly operated for over a decade. The group's tools were connected to losses exceeding $50 million in the United States, with European authorities investigating additional cases. The operation was marketed as "Fully Un-Detectable" (Fud) and primarily used to run business email compromise schemes.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71337</guid>
+      <pubDate>Wed, 28 May 2025 17:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zanubis Android Malware Harvests Banking Credentials and Executes Remote Commands</title>
+      <link>https://gbhackers.com/zanubis-android-malware-harvests-banking-credentials/</link>
+      <description>The Zanubis Android banking Trojan has evolved into a sophisticated threat targeting financial institutions, virtual cards, and cryptocurrency wallets. It uses various techniques to evade detection, including obfuscation, encryption, and social engineering tactics, allowing it to steal data, intercept two-factor authentication codes, and execute remote commands without user awareness.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139155</guid>
+      <pubDate>Wed, 28 May 2025 17:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore</title>
+      <link>https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html</link>
+      <description>A 37-year-old Iranian national, Sina Gholinejad (aka Sina Ghaaf), has pleaded guilty to involvement in an international ransomware and extortion scheme using the Robbinhood ransomware. The scheme caused significant disruptions and tens of millions in losses, including to the City of Greenville, North Carolina, and the City of Baltimore, Maryland.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html</guid>
+      <pubDate>Wed, 28 May 2025 17:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Are Turning Ordinary Citizens Into Money Mules in a New ‘Rent-a-Bank-Account’ Scam</title>
+      <link>https://gbhackers.com/cybercriminals-are-turning-ordinary-citizens/</link>
+      <description>Cybercriminals are exploiting individuals by transforming them into unwitting money mules through a sophisticated fraud known as the "rent-a-bank-account" scam. The scam involves fraudsters enticing people with promises of quick cash in exchange for temporarily "lending" their bank accounts, resulting in severe criminal charges and financial risks for the victims.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139179</guid>
+      <pubDate>Wed, 28 May 2025 17:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor</title>
       <link>https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/</link>
@@ -37,6 +65,13 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Apple has thwarted over $9 billion in fraudulent transactions across its App Store platform, with a focus on multilayered security approaches to combat evolving threats from deceptive apps and payment scams. The company's efforts include proactive and reactive measures, such as human oversight, automated detection systems, and termination of developer accounts engaged in fraudulent activity.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139131</guid>
       <pubDate>Wed, 28 May 2025 16:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack</title>
+      <link>https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html</link>
+      <description>The article reports a malicious cyber campaign targeting the Czech Ministry of Foreign Affairs, attributed to a state-sponsored threat actor tracked as APT31. The attack is believed to have occurred since 2022 and affected an institution designated as critical infrastructure.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html</guid>
+      <pubDate>Wed, 28 May 2025 16:01:00 +0000</pubDate>
     </item>
     <item>
       <title>DragonForce Ransomware Actors Exploits RMM Tools to Gain Access to Organizations</title>
@@ -1386,45 +1421,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <description>The Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency, the Federal Bureau of Investigation, and international partners released a joint information sheet on AI data security best practices. The document highlights the importance of securing data used to train and operate AI systems to ensure their accuracy, integrity, and trustworthiness. It provides recommendations for organizations to adopt robust data protection measures, proactively manage risks, and strengthen monitoring and threat detection capabilities.</description>
       <guid isPermaLink="false">/node/23419</guid>
       <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program</title>
-      <link>https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html</link>
-      <description>The article discusses the importance of having a structured cybersecurity program to meet legal and industry standards, citing new privacy laws, ransomware lawsuits, and regulatory investigations as examples of the increasing expectations on organizations. It promotes a free webinar hosted with the Center for Internet Security (CIS) that provides a practical approach to building a cybersecurity program that meets these standards.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html</guid>
-      <pubDate>Thu, 22 May 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unpatched Versa Concerto Flaws Let Attackers Escape Docker and Compromise Host</title>
-      <link>https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html</link>
-      <description>Vulnerable Product: Versa Concerto; CVE(s): CVE-2025-34025, CVE-2025-34026, CVE-2025-34027; Summary: The Versa Concerto network security and SD-WAN orchestration platform has multiple critical vulnerabilities that can be exploited to take control of susceptible instances. These vulnerabilities include a privilege escalation and Docker container escape vulnerability (CVE-2025-34025), an authentication bypass vulnerability in the Traefik reverse proxy configuration (CVE-2025-34026 and CVE-2025-34027), which could allow remote code execution using LD_PRELOAD and a reverse shell.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html</guid>
-      <pubDate>Thu, 22 May 2025 11:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Cyber Attacks in Review: April 2025</title>
-      <link>https://socradar.io/major-cyber-attacks-in-review-april-2025/</link>
-      <description>FYSA:
-
-This article provides a roundup of 10 notable cybersecurity incidents that occurred in April 2025. The incidents include data breaches at healthcare providers, telecom giants, and open-source ecosystems, as well as ransomware attacks and hacktivist activity. The article highlights the patterns behind these incidents, including credential theft, misconfigurations, and vulnerable third parties. It also provides an overview of the impact of these incidents and the measures taken to contain them.
-
-Additionally, the article touches on various cybersecurity-relevant topics, such as SIM swapping, phishing-resistant MFA, and the importance of connected visibility across digital footprints.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060131</guid>
-      <pubDate>Thu, 22 May 2025 10:44:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal now blocks Microsoft Recall screenshots on Windows 11</title>
-      <link>https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The Microsoft Recall feature, introduced in May 2024, continuously takes screenshots of all active windows every few seconds and analyzes them to build a database that can be searched using natural language. This has been criticized by security experts as a privacy nightmare and significant security risk due to the potential for attackers to steal user data.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/</guid>
-      <pubDate>Thu, 22 May 2025 10:32:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Identity Security Has an Automation Problem—And It's Bigger Than You Think</title>
-      <link>https://thehackernews.com/2025/05/identity-security-has-automation.html</link>
-      <description>New research from Cerby reveals that human error remains a significant threat to enterprise security, with few organizations having fully automated their core identity workflows. Manual processes and reliance on humans for tasks like password management, MFA enablement, and user provisioning leave organizations exposed to breaches and compliance failures. The study highlights the need for automation in identity security, citing a 41% manual sharing of passwords and an 89% reliance on users for MFA enablement.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/identity-security-has-automation.html</guid>
-      <pubDate>Thu, 22 May 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
