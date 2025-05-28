@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 19:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 20:00:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New PumaBot botnet brute forces SSH credentials to breach devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses a newly discovered Go-based Linux botnet malware named PumaBot that targets specific IoT devices by brute-forcing SSH credentials. The malware receives a list of target IPs from its command-and-control (C2) server and attempts to perform brute-force login attempts on port 22 for open SSH access.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/</guid>
+      <pubDate>Wed, 28 May 2025 19:59:38 +0000</pubDate>
+    </item>
     <item>
       <title>Interlock ransomware gang deploys new NodeSnake RAT on universities</title>
       <link>https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/</link>
@@ -1413,13 +1420,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-142-02</link>
       <description>Vulnerable Product: Rockwell Automation FactoryTalk Historian ThingWorx, 95057C-FTHTWXCT11; CVE(s): CVE-2018-1285; Summary: Successful exploitation of this XXE-based vulnerability could allow an attacker to launch attacks on applications that accept malicious log4net configuration files. The vulnerability affects versions v4.02.00 and prior.</description>
       <guid isPermaLink="false">/node/23425</guid>
-      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lantronix Device Installer</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-142-01</link>
-      <description>Vulnerable Product: Lantronix Device Installer; CVE(s): CVE-2025-4338; Summary: Improper Restriction of XML External Entity Reference vulnerability in the Device Installer software, allowing an attacker to gain access to the host machine or obtain credentials to access network devices. Successful exploitation could allow an attacker to modify configurations and gain access to the password hash of the user running the application.</description>
-      <guid isPermaLink="false">/node/23424</guid>
       <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
