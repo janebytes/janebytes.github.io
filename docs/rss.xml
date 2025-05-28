@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 20:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 21:01:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-309: (Pwn2Own) Canon imageCLASS MF656Cdw sfpcmAuthenticateSecAdmin Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-309/</link>
+      <description>Vulnerable Product: Canon imageCLASS MF656Cdw; CVE(s): CVE-2025-2146; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Canon imageCLASS MF656Cdw printers without authentication. The issue exists within the sfpcmAuthenticateSecAdmin function due to a lack of proper validation of user-supplied data, resulting in a stack-based buffer overflow.</description>
+      <guid isPermaLink="false">ZDI-CAN-25779</guid>
+      <pubDate>Wed, 28 May 2025 21:01:10 +0000</pubDate>
+    </item>
     <item>
       <title>New PumaBot botnet brute forces SSH credentials to breach devices</title>
       <link>https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/</link>
@@ -1413,13 +1420,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <link>https://www.cisa.gov/news-events/alerts/2025/05/22/cisa-releases-two-industrial-control-systems-advisories</link>
       <description>CISA released two Industrial Control Systems (ICS) advisories on May 22, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories are related to Lantronix Device Installer and Rockwell Automation FactoryTalk Historian ThingWorx products.</description>
       <guid isPermaLink="false">/node/23426</guid>
-      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk Historian ThingWorx</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-142-02</link>
-      <description>Vulnerable Product: Rockwell Automation FactoryTalk Historian ThingWorx, 95057C-FTHTWXCT11; CVE(s): CVE-2018-1285; Summary: Successful exploitation of this XXE-based vulnerability could allow an attacker to launch attacks on applications that accept malicious log4net configuration files. The vulnerability affects versions v4.02.00 and prior.</description>
-      <guid isPermaLink="false">/node/23425</guid>
       <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
