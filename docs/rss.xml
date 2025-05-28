@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 13:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 14:01:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft introduces new Windows backup tool for businesses</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/</link>
+      <description>Microsoft has introduced Windows Backup for Organizations, a new tool simplifying backups and making the transition to Windows 11 easier. The tool helps back up and restore user settings after resetting or reimaging devices, reducing migration overhead and minimizing user disruption. It is available for Microsoft Entra joined Windows 10 or Windows 11 systems during limited public preview.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/</guid>
+      <pubDate>Wed, 28 May 2025 13:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Weaponizing DCOM to Harvest Credentials on Windows Systems</title>
+      <link>https://gbhackers.com/threat-actors-weaponizing-dcom-to-harvest-credentials/</link>
+      <description>Vulnerable Product: Windows; CVE(s): None; Summary: Threat actors are exploiting Component Object Model (COM) and Distributed Component Object Model (DCOM) to harvest credentials on Windows systems without deploying payloads or triggering common security alerts. This attack vector, detailed in the RemoteMonologue tool, allows attackers to coerce NTLM authentications and capture user and machine account credentials, posing a significant challenge to organizations not on the latest Windows versions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138970</guid>
+      <pubDate>Wed, 28 May 2025 13:03:54 +0000</pubDate>
+    </item>
     <item>
       <title>VenomRAT Malware Introduces New Tools for Password Theft and Stealthy Access</title>
       <link>https://gbhackers.com/venomrat-malware-introduces-new-tools/</link>
@@ -1413,20 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Anthropic, the AI company, is reportedly working on new advanced AI models called Claude Sonnet 4 and Opus 4. These models are believed to be part of the Claude 4 series and are being tested or promoted internally with features like "show_raw_thinking" pointing to reasoning capabilities.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/</guid>
       <pubDate>Wed, 21 May 2025 23:01:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI hints at a big upgrade for ChatGPT Operator Agent</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hints-at-a-big-upgrade-for-chatgpt-operator-agent/</link>
-      <description>OpenAI's Operator AI agent, currently in research preview, will soon become a useful tool according to Jerry Tworek, VP of Research at OpenAI. The AI agent allows users to delegate web tasks and automate repetitive browser tasks, with plans for significant improvements soon.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hints-at-a-big-upgrade-for-chatgpt-operator-agent/</guid>
-      <pubDate>Wed, 21 May 2025 22:33:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Samlify SSO flaw lets attackers log in as admin</title>
-      <link>https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/</link>
-      <description>Vulnerable Product: Samlify; CVE(s): CVE-2025-47949; Summary: A critical authentication bypass vulnerability allows attackers to impersonate admin users by injecting unsigned malicious assertions into legitimately signed SAML responses, impacting all versions of Samlify before 2.10.0. The flaw can be exploited with access to a valid signed XML blob, allowing unauthorized remote attackers to perform privilege escalation and log in as administrators.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/</guid>
-      <pubDate>Wed, 21 May 2025 22:11:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
