@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 18:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 19:00:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Interlock ransomware gang deploys new NodeSnake RAT on universities</title>
+      <link>https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/</link>
+      <description>The article discusses the NodeSnake remote access trojan (RAT) deployed by the Interlock ransomware gang against educational institutions. NodeSnake establishes persistence, collects metadata, and exfiltrates data to a command-and-control server, allowing real-time shell interaction.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/</guid>
+      <pubDate>Wed, 28 May 2025 18:14:01 +0000</pubDate>
+    </item>
     <item>
       <title>Pakistan Arrests 21 in ‘Heartsender’ Malware Service</title>
       <link>https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/</link>
@@ -1413,13 +1420,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-142-01</link>
       <description>Vulnerable Product: Lantronix Device Installer; CVE(s): CVE-2025-4338; Summary: Improper Restriction of XML External Entity Reference vulnerability in the Device Installer software, allowing an attacker to gain access to the host machine or obtain credentials to access network devices. Successful exploitation could allow an attacker to modify configurations and gain access to the password hash of the user running the application.</description>
       <guid isPermaLink="false">/node/23424</guid>
-      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Best Practices Guide for Securing AI Data Released</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/new-best-practices-guide-securing-ai-data-released</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency, the Federal Bureau of Investigation, and international partners released a joint information sheet on AI data security best practices. The document highlights the importance of securing data used to train and operate AI systems to ensure their accuracy, integrity, and trustworthiness. It provides recommendations for organizations to adopt robust data protection measures, proactively manage risks, and strengthen monitoring and threat detection capabilities.</description>
-      <guid isPermaLink="false">/node/23419</guid>
       <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
