@@ -6,8 +6,64 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 22:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 10:04:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SOCRadar Named One of the 100 Most Loved Workplaces by Newsweek</title>
+      <link>https://socradar.io/socradar-named-one-of-the-100-most-loved-workplaces-by-newsweek/</link>
+      <description>The article is about SOCRadar's recognition as one of Newsweek's 100 Most Loved Workplaces, highlighting the company's culture of innovation, growth, and inclusivity. The recognition emphasizes the importance of creating a workplace where employees feel valued and supported.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060366</guid>
+      <pubDate>Wed, 28 May 2025 09:43:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>MATLAB, Serving Over 5 Million Users, Hit by Ransomware Attack</title>
+      <link>https://gbhackers.com/matlab-ransomware-attack/</link>
+      <description>This article is not about a vulnerability, but rather discusses a ransomware attack that occurred at MathWorks, the developer of MATLAB and Simulink. The incident affected both customer-facing and internal IT systems, resulting in the unavailability of several online applications and internal systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138950</guid>
+      <pubDate>Wed, 28 May 2025 08:54:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Publishes ICS Advisories Highlighting New Vulnerabilities and Exploits</title>
+      <link>https://gbhackers.com/cisa-publishes-ics-advisories/</link>
+      <description>Vulnerable Product: Johnson Controls iSTAR Configuration Utility (ICU) Tool; CVE(s): CVE-2025-26383; Summary: The ICU Tool contains a vulnerability tracked as CVE-2025-26383, which can lead to memory leakage and exposure of sensitive data such as user credentials or cryptographic materials. An attacker with access to the affected system could potentially obtain unauthorized access or tamper with access control settings in sensitive environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138949</guid>
+      <pubDate>Wed, 28 May 2025 08:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome Security Patch Addresses High-Severity Vulnerabilities Enabling Code Execution</title>
+      <link>https://gbhackers.com/chrome-security-patch/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5063, CVE-2025-5280, CVE-2025-5283; Summary: This update includes 11 security fixes, including use-after-free vulnerabilities in Compositing and libvpx, out-of-bounds write vulnerability in V8 JavaScript engine, and inappropriate implementation flaws in APIs like Background Fetch, FileSystemAccess, and Messages. These vulnerabilities could allow attackers to execute arbitrary code, corrupt memory, or crash the browser if left unpatched.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138947</guid>
+      <pubDate>Wed, 28 May 2025 08:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-Interaction libvpx Flaw in Firefox Allows Attackers to Run Arbitrary Code</title>
+      <link>https://gbhackers.com/zero-interaction-libvpx-flaw/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-5264, CVE-2025-5265, CVE-2025-5263, CVE-2025-5266, CVE-2025-5268, CVE-2025-5272, CVE-2025-5270, CVE-2025-5271, CVE-2025-5267; Summary: Mozilla Firefox 139 addresses several critical and moderate security vulnerabilities, including a double-free bug in the libvpx encoder that could lead to memory corruption and arbitrary code execution, as well as multiple flaws in the "Copy as cURL" developer tool feature and other issues.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138933</guid>
+      <pubDate>Wed, 28 May 2025 06:45:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>INE Security And RedTeam Hacker Academy Announce Partnership To Advance Cybersecurity Skills In The Middle East</title>
+      <link>https://gbhackers.com/ine-security-and-redteam-hacker-academy-partnership/</link>
+      <description>INE Security and RedTeam Hacker Academy have formed a strategic partnership to accelerate INE's expansion in the Middle East and Africa (MEA) region, enhancing cybersecurity training capabilities across the market. The partnership aims to address the growing cybersecurity skills gap and empower the next generation of cybersecurity professionals in the region.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138974</guid>
+      <pubDate>Wed, 28 May 2025 06:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats</title>
+      <link>https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html</link>
+      <description>Apple has taken measures to prevent fraudulent transactions, terminating developer accounts and rejecting submissions due to fraud concerns. The company also blocked illegitimate apps, stopped attempts to install unauthorized apps, and removed malicious content from its App Store charts and search results. These efforts have prevented over $9 billion in fraudulent transactions over the past five years.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html</guid>
+      <pubDate>Wed, 28 May 2025 06:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DragonForce ransomware abuses SimpleHelp in MSP supply chain attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/</link>
+      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, CVE-2024-57728, CVE-2024-57726; Summary: The DragonForce ransomware operation exploited a chain of older SimpleHelp vulnerabilities to breach a managed service provider's system and steal data.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/</guid>
+      <pubDate>Tue, 27 May 2025 21:44:15 +0000</pubDate>
+    </item>
     <item>
       <title>DragonForce ransomware abuses MSP’s SimpleHelp RMM to encrypt customers</title>
       <link>https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-msps-simplehelp-rmm-to-encrypt-customers/</link>
@@ -1371,62 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47866; Summary: This vulnerability allows remote attackers to upload arbitrary files on affected installations of Trend Micro Apex Central, requiring authentication to exploit. The issue stems from a lack of proper validation of user-supplied data, enabling the upload of arbitrary files and potentially allowing code execution in the context of IUSR.</description>
       <guid isPermaLink="false">ZDI-CAN-25331</guid>
       <pubDate>Wed, 21 May 2025 18:05:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-297: Trend Micro Apex Central widget getBlock Local File Inclusion Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-297/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47867; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central, requiring authentication. The issue stems from the lack of proper validation of user-supplied data prior to passing it to a PHP include function, which can be exploited to execute code in the context of IUSR.</description>
-      <guid isPermaLink="false">ZDI-CAN-24936</guid>
-      <pubDate>Wed, 21 May 2025 18:05:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-298: Apple macOS MP4 File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-298/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31233; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS, requiring user interaction. It exists within the parsing of MP4 files due to lack of proper validation of user-supplied data, resulting in memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26826</guid>
-      <pubDate>Wed, 21 May 2025 18:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-299: Apple macOS acv2 Codec Converter Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-299/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31208; Summary: The acv2 codec converter in Apple macOS allows remote attackers to disclose sensitive information through an out-of-bounds read information disclosure vulnerability. User interaction is required, and the issue stems from a lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26783</guid>
-      <pubDate>Wed, 21 May 2025 18:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-300: Apple macOS PDF Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-300/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31209; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. The flaw exists within the parsing of PDF files due to lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26714</guid>
-      <pubDate>Wed, 21 May 2025 18:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-301: Apple Safari Scrollbar Animation Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-301/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-31238; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari, requiring user interaction. The flaw exists in the handling of scrollbar animation due to a lack of validating an object's existence before performing operations on it.</description>
-      <guid isPermaLink="false">ZDI-CAN-26150</guid>
-      <pubDate>Wed, 21 May 2025 18:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-302: Apple macOS CoreMedia Framework Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-302/</link>
-      <description>Vulnerable Product: Apple macOS CoreMedia Framework; CVE(s): CVE-2025-31239; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. User interaction is required, and the specific flaw exists within the CoreMedia framework due to a lack of proper validation of user-supplied data, resulting in memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26650</guid>
-      <pubDate>Wed, 21 May 2025 18:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-303: Apple Safari SandboxBroker ZIP File Processing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-303/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-24222; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple Safari by reading past the end of an allocated buffer when processing ZIP files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26148</guid>
-      <pubDate>Wed, 21 May 2025 18:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-304: Apple macOS JPEG Image Decoding Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-304/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31251; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS by exploiting an out-of-bounds write in the JPEG image decoding functionality. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26603</guid>
-      <pubDate>Wed, 21 May 2025 18:03:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
