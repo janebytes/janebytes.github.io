@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 11:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 12:01:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Circulate Over 93 Billion Stolen User Cookies on the Dark Web</title>
+      <link>https://gbhackers.com/circulate-over-stolen-cookies-dark-web/</link>
+      <description>This article discusses the vulnerability of web cookies, which are small text files stored on devices by websites. Cookies can be used for tracking and data theft, with malicious programs like infostealers, trojans, and keyloggers harvesting cookie data from browser storage.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138999</guid>
+      <pubDate>Wed, 28 May 2025 11:17:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware</title>
+      <link>https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html</link>
+      <description>Vulnerable Product: Craft CMS; CVE(s): CVE-2025-32432; Summary: A remote code execution flaw in Craft CMS allows an attacker to deploy payloads, including cryptocurrency miners and residential proxyware. The vulnerability was patched in versions 3.9.15, 4.14.15, and 5.6.17, but threat actors have exploited it to obtain unauthorized access and deploy malware.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html</guid>
+      <pubDate>Wed, 28 May 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Robinhood Ransomware Operator Arrested for Attacks on Government and Private Networks</title>
       <link>https://gbhackers.com/robinhood-ransomware-operator-arrested/</link>
@@ -1413,20 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>The Russian government has introduced a mandatory tracking app for all foreign nationals in the Moscow region, aiming to tackle migrant crimes and strengthen control over migration. The app will monitor residence location, fingerprint, face photograph, and real-time geo-location. Critics argue that this proposal violates privacy rights and raises concerns about its feasibility and potential to deter labor migrants.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/</guid>
       <pubDate>Wed, 21 May 2025 18:24:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-291: (Pwn2Own) Mozilla Firefox IonMonkey JIT Compiler Integer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-291/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The IonMonkey JIT compiler in Mozilla Firefox contains an integer overflow remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-27172</guid>
-      <pubDate>Wed, 21 May 2025 18:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-292: (Pwn2Own) Mozilla Firefox SpiderMonkey Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-292/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Mozilla Firefox. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists within the SpiderMonkey engine due to lack of proper validation of user-supplied data, resulting in a write past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-27202</guid>
-      <pubDate>Wed, 21 May 2025 18:06:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
