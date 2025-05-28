@@ -6,14 +6,49 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 10:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 11:02:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Robinhood Ransomware Operator Arrested for Attacks on Government and Private Networks</title>
+      <link>https://gbhackers.com/robinhood-ransomware-operator-arrested/</link>
+      <description>Vulnerable Product: None; CVE(s): "None"; Summary: The article describes the Robbinhood ransomware campaign that targeted U.S. cities, corporations, and healthcare organizations from January 2019 to March 2024. The attackers used sophisticated evasion techniques, including exploiting a vulnerable Gigabyte driver (CVE-2018-19320), to disable endpoint security software at the kernel level.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138997</guid>
+      <pubDate>Wed, 28 May 2025 10:52:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Executive Guide on SIEM and SOAR Platforms for Rapid Threat Detection</title>
+      <link>https://gbhackers.com/cisa-releases-executive-guide/</link>
+      <description>This article discusses the importance of Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) platforms in organizational cybersecurity strategies. It highlights their benefits, including enhanced visibility, accelerated detection, and swift responses to threats, as well as the need for skilled personnel, ongoing tuning, and clear governance to ensure success.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138998</guid>
+      <pubDate>Wed, 28 May 2025 10:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple blocked over $9 billion in App Store fraud in five years</title>
+      <link>https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/</link>
+      <description>The article discusses Apple's efforts to prevent fraudulent activity on the App Store, including blocking transactions, rejecting malicious apps, and terminating developer accounts. It also highlights Apple's success in preventing suspicious transactions and removing fraudulent ratings and reviews from the App Store.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/</guid>
+      <pubDate>Wed, 28 May 2025 10:18:34 +0000</pubDate>
+    </item>
     <item>
       <title>SOCRadar Named One of the 100 Most Loved Workplaces by Newsweek</title>
       <link>https://socradar.io/socradar-named-one-of-the-100-most-loved-workplaces-by-newsweek/</link>
       <description>The article is about SOCRadar's recognition as one of Newsweek's 100 Most Loved Workplaces, highlighting the company's culture of innovation, growth, and inclusivity. The recognition emphasizes the importance of creating a workplace where employees feel valued and supported.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060366</guid>
       <pubDate>Wed, 28 May 2025 09:43:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>How 'Browser-in-the-Middle' Attacks Steal Sessions in Seconds</title>
+      <link>https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses Browser-in-the-Middle (BiTM) attacks, which involve criminals controlling data flow between a victim's browser and a target service. This attack allows criminals to capture, record, and alter data exchange, making it possible for them to intercept usernames and passwords.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html</guid>
+      <pubDate>Wed, 28 May 2025 09:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch</title>
+      <link>https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html</link>
+      <description>Cybersecurity researchers have disclosed details of a coordinated cloud-based scanning activity that targeted 75 distinct "exposure points" earlier this month. The scanning efforts ranged from exploitation attempts for known CVEs to probes for misconfigurations and other weak points in web infrastructure, indicating that the threat actors were looking indiscriminately for any susceptible system.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html</guid>
+      <pubDate>Wed, 28 May 2025 09:23:00 +0000</pubDate>
     </item>
     <item>
       <title>MATLAB, Serving Over 5 Million Users, Hit by Ransomware Attack</title>
@@ -1392,41 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4919; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Mozilla Firefox. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists within the SpiderMonkey engine due to lack of proper validation of user-supplied data, resulting in a write past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-27202</guid>
       <pubDate>Wed, 21 May 2025 18:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-293: Microsoft Windows Installer Service Link Following Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-293/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29837; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by creating a symbolic link within the Windows Installer service, granting read access to arbitrary files and potentially disclosing stored credentials. An attacker must first obtain low-privileged code execution to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-26153</guid>
-      <pubDate>Wed, 21 May 2025 18:06:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-294: Microsoft PC Manager MSPCManagerService Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-294/</link>
-      <description>Vulnerable Product: Microsoft PC Manager; CVE(s): CVE-2025-29975; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft PC Manager by creating a symbolic link and abusing the MSPCManagerService, allowing deletion of arbitrary files. An attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be leveraged to escalate privileges and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26137</guid>
-      <pubDate>Wed, 21 May 2025 18:06:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-295: Trend Micro Apex Central widget getObjWGFServiceApiByApiName Local File Inclusion Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-295/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47865; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central by leveraging a local file inclusion remote code execution flaw in the getObjWGFServiceApiByApiName function, requiring authentication to exploit.</description>
-      <guid isPermaLink="false">ZDI-CAN-24938</guid>
-      <pubDate>Wed, 21 May 2025 18:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics</title>
-      <link>https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2020-12641, CVE-2020-35730, CVE-2021-44026, CVE-2023-23397, CVE-2023-38831; Summary: APT28 (aka BlueDelta, Fancy Bear, or Forest Blizzard) has been attributed to a state-sponsored campaign targeting Western logistics entities and technology companies since 2022. The campaign uses a mix of previously disclosed tactics, techniques, and procedures (TTPs), including password spraying, spear-phishing, modifying Microsoft Exchange mailbox permissions for espionage purposes, and exploiting vulnerabilities in various webmail services like Roundcube, Horde, MDaemon, and Zimbra.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html</guid>
-      <pubDate>Wed, 21 May 2025 18:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-296: Trend Micro Apex Central modTMCM Unrestricted File Upload Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-296/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-47866; Summary: This vulnerability allows remote attackers to upload arbitrary files on affected installations of Trend Micro Apex Central, requiring authentication to exploit. The issue stems from a lack of proper validation of user-supplied data, enabling the upload of arbitrary files and potentially allowing code execution in the context of IUSR.</description>
-      <guid isPermaLink="false">ZDI-CAN-25331</guid>
-      <pubDate>Wed, 21 May 2025 18:05:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
