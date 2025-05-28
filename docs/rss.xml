@@ -6,14 +6,58 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 16:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 17:04:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor</title>
+      <link>https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/</link>
+      <description>Vulnerable Product: ASUS; CVE(s): CVE-2023-39780; Summary: The vulnerability allows attackers to add their own SSH public key and enable the SSH daemon to listen on a non-standard TCP port, enabling backdoor access to the device even after reboots and firmware updates. This is exploited by the AyySSHush botnet to compromise over 9,000 ASUS routers, including models RT-AC3100, RT-AC3200, and RT-AX55.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/</guid>
+      <pubDate>Wed, 28 May 2025 16:44:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Partners cybercrime gang fuels large-scale crypto heists</title>
+      <link>https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/</link>
+      <description>The "Dark Partner" threat actors are using a network of fake AI, VPN, and crypto software download sites to deliver Poseidon (macOS) and Lumma (Windows) infostealers and malware loaders like Payday. These malware tools steal cryptocurrency and sensitive data, which is likely sold on the cybercriminal market.
+
+FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and crypto software download sites to conduct crypto theft attacks worldwide. The sites impersonate popular apps, including at least 37 apps and tools, some of which use generative AI technology to create illustrations and videos. The malware delivered by these sites includes Poseidon Stealer for macOS and Lumma Stealer for Windows, as well as Payday Loader for Windows.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/</guid>
+      <pubDate>Wed, 28 May 2025 16:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Worldwide Operation Shuts Down Hundreds of Ransomware Servers and Domains, Ending Key Attack Infrastructure</title>
+      <link>https://gbhackers.com/operation-shuts-down-hundreds-of-ransomware-servers/</link>
+      <description>International law enforcement agencies, including Europol and Eurojust, have conducted a historic operation called Operation Endgame to disrupt the global ransomware ecosystem. The operation targeted critical infrastructure, dismantling approximately 300 servers and neutralizing 650 malicious domains worldwide, as well as seizing cryptocurrency worth EUR 3.5 million. The effort also resulted in the issuance of international arrest warrants for 20 high-value targets believed to be key players in providing initial access services to ransomware operators.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139146</guid>
+      <pubDate>Wed, 28 May 2025 16:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Blocked 2 million Malicious App &amp; $9 Billion in Fraudulent Transactions</title>
+      <link>https://gbhackers.com/apple-blocked-2-million-malicious-app/</link>
+      <description>Apple has thwarted over $9 billion in fraudulent transactions across its App Store platform, with a focus on multilayered security approaches to combat evolving threats from deceptive apps and payment scams. The company's efforts include proactive and reactive measures, such as human oversight, automated detection systems, and termination of developer accounts engaged in fraudulent activity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139131</guid>
+      <pubDate>Wed, 28 May 2025 16:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>DragonForce Ransomware Actors Exploits RMM Tools to Gain Access to Organizations</title>
       <link>https://gbhackers.com/dragonforce-ransomware-actors-exploits-rmm-tools/</link>
       <description>Vulnerable Product: SimpleHelp (MSP's remote monitoring and management tool); CVE(s): CVE-2024-57727, CVE-2024-57728, CVE-2024-57726; Summary: A targeted attack exploited multiple vulnerabilities in SimpleHelp to deploy DragonForce ransomware across endpoints and exfiltrate sensitive data. The attackers gained unauthorized access to the MSP's RMM tool, which was used as a conduit for the attack.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139122</guid>
       <pubDate>Wed, 28 May 2025 15:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth Lamia Hackers Exploits Vulnerabilities in Web Applications to Attack Multiple Industries</title>
+      <link>https://gbhackers.com/earth-lamia-hackers-exploits-vulnerabilities/</link>
+      <description>Earth Lamia, an Advanced Persistent Threat (APT) group with a China-nexus, has been targeting organizations across Brazil, India, and Southeast Asia since 2023. They use SQL injection vulnerabilities to infiltrate SQL servers and exploit known flaws in public-facing systems, employing tactics like DLL sideloading and privilege escalation tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139101</guid>
+      <pubDate>Wed, 28 May 2025 15:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evertz SDN Vulnerabilities Enable Unauthenticated Arbitrary Command Execution</title>
+      <link>https://gbhackers.com/evertz-sdn-vulnerabilities/</link>
+      <description>Vulnerable Product: Evertz; CVE(s): CVE-2025-4009; Summary: A critical vulnerability (CVE-2025-4009) in Evertz's Software Defined Video Network (SDVN) product line allows unauthenticated remote code execution, enabling attackers to execute arbitrary system commands as root. The flaw affects multiple Evertz devices and puts global media operations at risk due to the lack of authentication mechanism in the web administration interface.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139226</guid>
+      <pubDate>Wed, 28 May 2025 15:01:31 +0000</pubDate>
     </item>
     <item>
       <title>Russian APT28 Hackers Attacking NATO-aligned Organizations to Steal Sensitive Data</title>
@@ -1381,52 +1425,6 @@ Additionally, the article touches on various cybersecurity-relevant topics, such
       <description>New research from Cerby reveals that human error remains a significant threat to enterprise security, with few organizations having fully automated their core identity workflows. Manual processes and reliance on humans for tasks like password management, MFA enablement, and user provisioning leave organizations exposed to breaches and compliance failures. The study highlights the need for automation in identity security, citing a 41% manual sharing of passwords and an 89% reliance on users for MFA enablement.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/identity-security-has-automation.html</guid>
       <pubDate>Thu, 22 May 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAT-6382 exploits Cityworks zero-day vulnerability to deliver malware</title>
-      <link>https://blog.talosintelligence.com/uat-6382-exploits-cityworks-vulnerability/</link>
-      <description>FYSA:
-
-The provided article appears to be a technical analysis of a malicious software campaign, specifically focusing on the VShell stager and its components. The article details the tactics used by threat actors to deliver malware through TetraLoader and VShell, as well as the characteristics of the CobaltStrike beacons used in this campaign.
-
-Based on the provided information, I did not identify any specific vulnerabilities discussed in the article. Instead, the analysis highlights the techniques employed by malicious actors to evade detection and compromise target systems.</description>
-      <guid isPermaLink="false">682c99a99e517d0001f3c25e</guid>
-      <pubDate>Thu, 22 May 2025 10:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Versa Concerto 0-Day Flaw Enables Remote Code Execution by Bypassing Authentication</title>
-      <link>https://gbhackers.com/versa-concerto-0-day-flaw-enables-remote-code-execution/</link>
-      <description>Vulnerable Product: Versa Concerto; CVE(s): CVE-2025-34025, CVE-2025-34026, CVE-2025-34027; Summary: Multiple critical vulnerabilities were discovered in Versa Concerto's network security and SD-WAN orchestration platform, including authentication bypass flaws, arbitrary file write vulnerabilities, and container escape techniques that allow attackers to fully compromise both the application and underlying host system. The issues stem from inconsistent URL processing and a Time-of-Check to Time-of-Use (TOCTOU) vulnerability in the AuthenticationFilter class.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137765</guid>
-      <pubDate>Thu, 22 May 2025 09:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unpatched critical bugs in Versa Concerto lead to auth bypass, RCE</title>
-      <link>https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/</link>
-      <description>Vulnerable Product: Versa Concerto; CVE(s): CVE-2025-34027, CVE-2025-34026, CVE-2025-34025; Summary: Critical vulnerabilities in Versa Concerto allow remote attackers to bypass authentication and execute arbitrary code. Two critical issues (CVE-2025-34027 and CVE-2025-34026) allow for authentication bypass and remote code execution, while a high-severity issue (CVE-2025-34025) exposes host binaries to container writes, enabling full host compromise.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/</guid>
-      <pubDate>Thu, 22 May 2025 09:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Targets Coinbase Users Targeted in Advanced Social Engineering Hack</title>
-      <link>https://gbhackers.com/hackers-targets-coinbase-users/</link>
-      <description>Coinbase users are being targeted by a social engineering campaign that manipulates human psychology and leverages stolen insider data to execute highly personalized fraud. The attackers use a four-stage methodology that bypasses Coinbase's technical infrastructure, impersonating official support and using phishing emails and texts to guide victims into transferring assets.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137747</guid>
-      <pubDate>Thu, 22 May 2025 08:46:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit PyBitmessage Library to Evade Antivirus and Network Security Detection</title>
-      <link>https://gbhackers.com/hackers-exploit-pybitmessage-library/</link>
-      <description>A new strain of backdoor malware is distributed alongside a Monero coin miner, utilizing the PyBitmessage library for covert peer-to-peer communications. The malware encrypts data exchanges and anonymizes identities, making it challenging to detect by antivirus software and network security solutions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137699</guid>
-      <pubDate>Thu, 22 May 2025 08:39:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Several GitLab Vulnerabilities Enable Attackers to Launch DoS Attacks</title>
-      <link>https://gbhackers.com/several-gitlab-vulnerabilities-enable-attackers/</link>
-      <description>Vulnerable Product: GitLab; CVE(s): CVE-2025-0993, CVE-2024-7803, CVE-2024-12093, CVE-2025-4979, CVE-2025-0679, CVE-2024-9163, CVE-2025-1110; Summary: GitLab issued critical security patches addressing 11 vulnerabilities across its Community Edition (CE) and Enterprise Edition (EE) platforms. The most severe vulnerability (CVE-2025-0993) enables authenticated attackers to trigger server resource exhaustion through an unprotected large blob endpoint, scoring 7.5 on the CVSS v3.1 scale.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137744</guid>
-      <pubDate>Thu, 22 May 2025 08:35:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
