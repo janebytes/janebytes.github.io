@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 12:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 13:03:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>VenomRAT Malware Introduces New Tools for Password Theft and Stealthy Access</title>
+      <link>https://gbhackers.com/venomrat-malware-introduces-new-tools/</link>
+      <description>A malicious cyber campaign using VenomRAT Remote Access Trojan (RAT) and other malware components has been uncovered. The campaign uses phishing tactics to distribute malware through a fake Bitdefender download page, with the goal of stealing credentials and compromising systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138953</guid>
+      <pubDate>Wed, 28 May 2025 12:55:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>SilentWerewolf Attack Combines Legitimate Tools with Code Obfuscation for Stealthy Infiltration</title>
+      <link>https://gbhackers.com/silentwerewolf-attack-combines-legitimate-tools/</link>
+      <description>The SilentWerewolf threat actor has employed advanced phishing techniques to infiltrate organizations in Russia and Moldova, using social engineering tactics, obfuscation methods, and DLL side-loading to evade detection. They have demonstrated exceptional technical prowess, blending legitimate tools with sophisticated evasive measures to trick users into executing malicious files and initiate a complex infection chain.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138934</guid>
+      <pubDate>Wed, 28 May 2025 12:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto</title>
+      <link>https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html</link>
+      <description>The article describes a botnet called PumaBot that targets embedded Linux-based IoT devices. The malware uses brute-force attacks against SSH instances to gain access and deliver additional malware. It then sets up persistence and executes commands received from a command-and-control (C2) server, allowing it to survive reboots and disguise itself as a legitimate system file.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html</guid>
+      <pubDate>Wed, 28 May 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emerging FormBook Malware Threatens Windows Users with Complete System Takeover</title>
+      <link>https://gbhackers.com/emerging-formbook-malware-threatens-windows-users/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2017-11882; Summary: FormBook malware targets Microsoft Windows users by enabling attackers to gain full remote control over a victim's computer. The malware delivers payload through phishing emails and uses sophisticated anti-analysis methods, evasion techniques, and process hollowing to maintain persistence on compromised systems. It can collect sensitive information, execute files, download additional malware, or even reboot/power off the device, demonstrating its potential for complete system domination.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=138922</guid>
+      <pubDate>Wed, 28 May 2025 12:29:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft wants Windows to update all software on your PC</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/</link>
+      <description>Microsoft has introduced a new update orchestration platform built on the existing Windows Update infrastructure, aiming to unify updating systems for all apps, drivers, and system components on Windows systems. The platform allows developers and IT product teams to onboard their updates via Windows Runtime (WinRT) APIs or PowerShell commands, providing a consistent notification experience and centralized app update history in the Settings app.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/</guid>
+      <pubDate>Wed, 28 May 2025 12:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign</title>
+      <link>https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html</link>
+      <description>Stealer malware is no longer just stealing passwords, but also stealing live sessions, allowing attackers to hijack enterprise sessions in less than 24 hours. The malware extracts browser cookies, saved credentials, session tokens, and crypto wallets, and exfiltrates data to Telegram bots or command-and-control servers.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html</guid>
+      <pubDate>Wed, 28 May 2025 11:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Circulate Over 93 Billion Stolen User Cookies on the Dark Web</title>
       <link>https://gbhackers.com/circulate-over-stolen-cookies-dark-web/</link>
@@ -1385,48 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Samlify; CVE(s): CVE-2025-47949; Summary: A critical authentication bypass vulnerability allows attackers to impersonate admin users by injecting unsigned malicious assertions into legitimately signed SAML responses, impacting all versions of Samlify before 2.10.0. The flaw can be exploited with access to a valid signed XML blob, allowing unauthorized remote attackers to perform privilege escalation and log in as administrators.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/</guid>
       <pubDate>Wed, 21 May 2025 22:11:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian hackers breach orgs to track aid routes to Ukraine</title>
-      <link>https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/</link>
-      <description>APT28 (Fancy Bear/Forest Blizzard) hackers, sponsored by the Russian government, have been conducting a cyberespionage campaign targeting international organizations since 2022, compromising entities in defense, transportation, IT services, air traffic, and maritime sectors in 12 European countries and the United States. The hackers used various tactics, including password spraying, spear-phishing, and exploiting Microsoft Exchange vulnerabilities, to gain initial access and then move laterally within victim networks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/</guid>
-      <pubDate>Wed, 21 May 2025 21:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Microsoft has simply given us no other option,” Signal says as it blocks Windows Recall</title>
-      <link>https://arstechnica.com/security/2025/05/signal-resorts-to-weird-trick-to-block-windows-recall-in-desktop-app/</link>
-      <description>Vulnerable Product: Microsoft Recall; CVE(s): None; Summary: The Recall feature indexes Zoom meetings, emails, photos, medical conditions, and Signal conversations without user consent. It still takes screenshots of payment card details, decrypts database contents with a simple fingerprint scan or PIN, and lacks granular control for developers to prevent content indexing.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/signal-resorts-to-weird-trick-to-block-windows-recall-in-desktop-app/</guid>
-      <pubDate>Wed, 21 May 2025 20:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-306: Docker Desktop Helper Service Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-306/</link>
-      <description>Vulnerable Product: Docker Desktop; CVE(s): CVE-2024-5652; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Docker Desktop, requiring low-privileged code execution and exploiting the WindowsContainersController class by creating a junction to delete a folder. An attacker can leverage this vulnerability to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-23513</guid>
-      <pubDate>Wed, 21 May 2025 19:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-307: Linux Kernel OpenvSwitch Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-307/</link>
-      <description>Vulnerable Product: Linux Kernel OpenvSwitch; CVE(s): ZDI-25-307, ZDI-CAN-26711; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of Linux Kernel. An attacker must obtain high-privileged code execution to exploit this vulnerability, which exists in the handling of userspace attributes due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26711</guid>
-      <pubDate>Wed, 21 May 2025 19:01:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-308: Adobe Dreamweaver V8 Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-308/</link>
-      <description>Vulnerable Product: Adobe Dreamweaver V8; CVE(s): CVE-2025-30310; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Dreamweaver. User interaction is required to exploit this vulnerability, which exists within the JavaScript engine due to a vulnerable version of V8.</description>
-      <guid isPermaLink="false">ZDI-CAN-25684</guid>
-      <pubDate>Wed, 21 May 2025 19:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia to enforce location tracking app on all foreigners in Moscow</title>
-      <link>https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/</link>
-      <description>The Russian government has introduced a mandatory tracking app for all foreign nationals in the Moscow region, aiming to tackle migrant crimes and strengthen control over migration. The app will monitor residence location, fingerprint, face photograph, and real-time geo-location. Critics argue that this proposal violates privacy rights and raises concerns about its feasibility and potential to deter labor migrants.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/</guid>
-      <pubDate>Wed, 21 May 2025 18:24:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
