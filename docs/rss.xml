@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 15:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 16:01:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DragonForce Ransomware Actors Exploits RMM Tools to Gain Access to Organizations</title>
+      <link>https://gbhackers.com/dragonforce-ransomware-actors-exploits-rmm-tools/</link>
+      <description>Vulnerable Product: SimpleHelp (MSP's remote monitoring and management tool); CVE(s): CVE-2024-57727, CVE-2024-57728, CVE-2024-57726; Summary: A targeted attack exploited multiple vulnerabilities in SimpleHelp to deploy DragonForce ransomware across endpoints and exfiltrate sensitive data. The attackers gained unauthorized access to the MSP's RMM tool, which was used as a conduit for the attack.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139122</guid>
+      <pubDate>Wed, 28 May 2025 15:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russian APT28 Hackers Attacking NATO-aligned Organizations to Steal Sensitive Data</title>
       <link>https://gbhackers.com/russian-apt28-hackers-attacking-nato-aligned-organizations/</link>
@@ -1420,13 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: GitLab; CVE(s): CVE-2025-0993, CVE-2024-7803, CVE-2024-12093, CVE-2025-4979, CVE-2025-0679, CVE-2024-9163, CVE-2025-1110; Summary: GitLab issued critical security patches addressing 11 vulnerabilities across its Community Edition (CE) and Enterprise Edition (EE) platforms. The most severe vulnerability (CVE-2025-0993) enables authenticated attackers to trigger server resource exhaustion through an unprotected large blob endpoint, scoring 7.5 on the CVSS v3.1 scale.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137744</guid>
       <pubDate>Thu, 22 May 2025 08:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Identity Services RADIUS Vulnerability Allows Attackers to Trigger Denial of Service Condition</title>
-      <link>https://gbhackers.com/cisco-identity-services-radius-vulnerability-allows-attackers/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): None; Summary: The vulnerability allows unauthenticated remote attackers to cause a denial of service condition by exploiting flaws in the RADIUS message processing feature, causing affected devices to reload and disrupt network authentication services.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137737</guid>
-      <pubDate>Thu, 22 May 2025 08:32:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
