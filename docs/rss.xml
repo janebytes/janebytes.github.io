@@ -6,8 +6,64 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 14:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 15:05:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Russian APT28 Hackers Attacking NATO-aligned Organizations to Steal Sensitive Data</title>
+      <link>https://gbhackers.com/russian-apt28-hackers-attacking-nato-aligned-organizations/</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2023-23397 (Microsoft Outlook), CVE-2023-20273 (Cisco ASA/FTD devices); Summary: APT28, a GRU-backed threat actor, is conducting cyber espionage campaigns against NATO-aligned organizations, using tactics like spear phishing, password spraying, and exploiting known vulnerabilities. Their primary objective is to steal sensitive data, with potential for future supply chain disruption and business continuity threats during geopolitical tensions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139046</guid>
+      <pubDate>Wed, 28 May 2025 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XenServer Windows VM Tools Flaw Enables Attackers to Run Arbitrary Code</title>
+      <link>https://gbhackers.com/xenserver-windows-vm-tools-flaw/</link>
+      <description>Vulnerable Product: Citrix XenServer VM Tools for Windows; CVE(s): CVE-2025-27462, CVE-2025-27463, and CVE-2025-27464; Summary: The vulnerabilities allow attackers to execute arbitrary unprivileged code within a guest Windows VM and escalate privileges, potentially gaining SYSTEM-level access. Affected platforms include Windows VMs running on XenServer 8.4 and Citrix Hypervisor 8.2 CU1 LTSR, with all supported versions before 9.4.1 being vulnerable.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139115</guid>
+      <pubDate>Wed, 28 May 2025 14:43:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Czechia blames China for Ministry of Foreign Affairs cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/</link>
+      <description>The article reveals that the Chinese-backed APT31 hacking group was behind cyberattacks targeting the Czech Republic's Ministry of Foreign Affairs and critical infrastructure organizations. This is part of a broader trend of malicious cyber activities linked to China, which has been condemned by the European Union and NATO allies.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/</guid>
+      <pubDate>Wed, 28 May 2025 14:39:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Weaponize Fake AI-Themed Websites to Deliver Python-based infostealers</title>
+      <link>https://gbhackers.com/threat-actors-weaponize-fake-ai-themed-websites/</link>
+      <description>A malicious campaign orchestrated by UNC6032 has been distributing malware targeting users through fake AI video generator websites and social media ads. The malware steals sensitive data, facilitates information theft, and exfiltrates it via Telegram API or TCP connections.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139006</guid>
+      <pubDate>Wed, 28 May 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zscaler to Acquire Red Canary, Enhancing AI-Powered Security Operations</title>
+      <link>https://gbhackers.com/zscaler-to-acquire-red-canary-enhancing-ai-powered-security-operations/</link>
+      <description>Zscaler, a cloud security company, is acquiring Red Canary, a Managed Detection and Response (MDR) provider. The combined entity aims to integrate AI-driven Zero Trust Exchange platform with Red Canary's advanced threat detection and response capabilities, transforming security operations by detecting, analyzing, and responding to cyber threats at unprecedented speed and accuracy.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139121</guid>
+      <pubDate>Wed, 28 May 2025 14:18:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>251 Malicious IPs Target Cloud-Based Device Exploiting 75 Exposure Points</title>
+      <link>https://gbhackers.com/251-malicious-ips/</link>
+      <description>Vulnerable Product: N/A; CVE(s): CVE-2018-15961, CVE-2017-5638, CVE-2015-1427, CVE-2022-26134, CVE-2014-6271; Summary: A coordinated scanning operation was detected by GreyNoise on May 8, targeting 75 known exposure points across the internet. The campaign exploited various technologies, including Adobe ColdFusion, Apache Struts, Elasticsearch, Atlassian Confluence, and Bash, using a mix of exploit attempts and reconnaissance activity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139112</guid>
+      <pubDate>Wed, 28 May 2025 14:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>DragonForce Exploits SimpleHelp Flaws in Targeted MSP Ransomware Attack</title>
+      <link>https://socradar.io/dragonforce-exploits-simplehelp-msp-ransomware/</link>
+      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57726 (CVSS 9.9), CVE-2024-57727 (CVSS 7.5), CVE-2024-57728 (CVSS 7.2); Summary: The vulnerability in SimpleHelp, a popular Remote Monitoring and Management tool, allowed attackers to exploit three severe vulnerabilities, including privilege escalation, path traversal, and arbitrary file upload flaws, which enabled the deployment of ransomware across multiple client environments.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060406</guid>
+      <pubDate>Wed, 28 May 2025 13:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File</title>
+      <link>https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html</link>
+      <description>Vulnerable Product: Microsoft OneDrive File Picker; CVE(s): None; Summary: The OneDrive File Picker has a security flaw that allows websites to access a user's entire cloud storage content if successfully exploited. This is due to overly broad OAuth scopes and misleading consent screens, which could lead to customer data leakage and violation of compliance regulations.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html</guid>
+      <pubDate>Wed, 28 May 2025 13:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft introduces new Windows backup tool for businesses</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/</link>
@@ -1371,62 +1427,6 @@ Based on the provided information, I did not identify any specific vulnerabiliti
       <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): None; Summary: The vulnerability allows unauthenticated remote attackers to cause a denial of service condition by exploiting flaws in the RADIUS message processing feature, causing affected devices to reload and disrupt network authentication services.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137737</guid>
       <pubDate>Thu, 22 May 2025 08:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grafana Zero-Day Vulnerability Allows Attackers to Redirect Users to Malicious Sites</title>
-      <link>https://gbhackers.com/grafana-zero-day-vulnerability-allows-attackers-to-redirect-users/</link>
-      <description>Vulnerable Product: Grafana; CVE(s): CVE-2025-4123; Summary: The Grafana XSS vulnerability (CVE-2025-4123) allows attackers to redirect users to malicious websites, enabling execution of arbitrary JavaScript code. The vulnerability can be exploited without editor permissions and has a CVSS score of 7.6 (HIGH). It impacts all supported versions of Grafana OSS and Enterprise, including versions 11.2 through 12.0, as well as unsupported versions dating back to at least Grafana 8.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137731</guid>
-      <pubDate>Thu, 22 May 2025 08:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections</title>
-      <link>https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html</link>
-      <description>The article discusses the takedown of 2,300 domains associated with the LummaC2 infostealer malware by global law enforcement agencies and private sector firms. The malware is used to steal sensitive information from millions of victims for fraudulent purposes.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html</guid>
-      <pubDate>Thu, 22 May 2025 08:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Exploit BIND DNS Server Vulnerability to Crash Servers Using Malicious Packets</title>
-      <link>https://gbhackers.com/attackers-exploit-bind-dns-server-vulnerability/</link>
-      <description>Vulnerable Product: Internet Systems Consortium (ISC) BIND; CVE(s): CVE-2023-5517, CVE-2023-5679, CVE-2024-0760, CVE-2024-12705; Summary: The vulnerability in BIND DNS server software allowed attackers to crash DNS servers by sending specifically crafted malicious packets. This flaw could cause named (the BIND DNS server process) to terminate unexpectedly with an assertion failure when specific queries were processed with certain features enabled, posing a significant risk to DNS infrastructure and potentially affecting thousands of users and dependent systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137701</guid>
-      <pubDate>Thu, 22 May 2025 08:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Process Injection Technique Evades EDR by Injecting Malicious Code into Windows Processes</title>
-      <link>https://gbhackers.com/new-process-injection-technique-evades-edr/</link>
-      <description>Researchers discovered a novel process injection technique that exploits shared memory regions and thread context manipulation to execute malicious payloads without triggering standard detection heuristics. This method bypasses leading Endpoint Detection and Response (EDR) systems by avoiding traditional memory allocation and modification patterns, evading detection in multiple commercial EDR products.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137682</guid>
-      <pubDate>Thu, 22 May 2025 08:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Deep Web and Dark Web Forums</title>
-      <link>https://socradar.io/top-10-deep-web-and-dark-web-forums/</link>
-      <description>The article discusses the top Dark Web hacker forums, which serve as key platforms for threat actors to share tools, trade stolen data, and coordinate illicit activities. These forums are not static and can evolve, vanish, or reappear under new names and leadership. The article highlights the importance of tracking these forums for security researchers and professionals engaged in Dark Web threat intelligence.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100043222</guid>
-      <pubDate>Thu, 22 May 2025 08:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatBook Recognized as a Notable Vendor in Global Network Analysis and Visibility (NAV) Report</title>
-      <link>https://gbhackers.com/threatbook-recognized-as-a-notable-vendor-in-global-network-analysis-and-visibility/</link>
-      <description>ThreatBook, a global leader in cyber threat and response solutions, has been recognized as a notable vendor in Forrester's Network Analysis And Visibility Solutions Landscape, Q2 2025 report. This recognition highlights ThreatBook's technical excellence and strong market performance in delivering real-time security insights across cloud, hybrid, and on-premises environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137688</guid>
-      <pubDate>Thu, 22 May 2025 05:23:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-Aligned TAG-110 Targets Tajikistan with Macro-Enabled</title>
-      <link>https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-tajikistan-with-macro-enabled</link>
-      <description>This article reports on a phishing campaign attributed to TAG-110, a Russia-aligned threat actor. The campaign targets Tajikistan government institutions and educational/research bodies, using macro-enabled Word template files (.dotm) as lure material. The documents share VBA code with previous campaigns, indicating the group's persistence in targeting Central Asia. Insikt Group warns of potential further attacks and provides recommendations for detection and prevention.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/russia-aligned-tag-110-targets-tajikistan-with-macro-enabled</guid>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic web config hints at Claude Sonnet 4 and Opus 4</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/</link>
-      <description>Anthropic, the AI company, is reportedly working on new advanced AI models called Claude Sonnet 4 and Opus 4. These models are believed to be part of the Claude 4 series and are being tested or promoted internally with features like "show_raw_thinking" pointing to reasoning capabilities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/</guid>
-      <pubDate>Wed, 21 May 2025 23:01:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
