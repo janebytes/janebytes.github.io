@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 15:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 16:01:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>US sanctions firm linked to cyber scams behind $200 million in losses</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/</link>
+      <description>The U.S. Treasury Department has sanctioned Funnull Technology, a Philippines-based company, and its administrator Liu Lizhi for facilitating virtual currency investment scams linked to over $200 million in losses for Americans. The company is responsible for generating numerous unique domain names and providing hosting services to cybercriminals, enabling them to host malicious websites.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/</guid>
+      <pubDate>Thu, 29 May 2025 15:42:38 +0000</pubDate>
+    </item>
     <item>
       <title>Apache InLong JDBC Vulnerability Enables Deserialization of Untrusted Data</title>
       <link>https://gbhackers.com/apache-inlong-jdbc-vulnerability/</link>
@@ -1418,13 +1425,6 @@ Operation RapTor was a coordinated international crackdown on cyber-enabled crim
       <description>Anthropic announced Claude 4 models, which outperform previous models and competitors in coding benchmarks. However, the model still has a limited context window of 200,000 tokens, lagging behind competitors like Google's Gemini 2.5 Pro and ChatGPT's 4.1 models.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/</guid>
       <pubDate>Thu, 22 May 2025 23:17:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oops: DanaBot Malware Devs Infected Their Own PCs</title>
-      <link>https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/</link>
-      <description>This article reports on a malware-as-a-service platform called DanaBot, which was used for credential theft and banking fraud. The FBI unsealed criminal charges against 16 individuals accused of operating and selling the malware, which infected over 300,000 systems globally and caused estimated losses of more than $50 million.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71351</guid>
-      <pubDate>Thu, 22 May 2025 21:53:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
