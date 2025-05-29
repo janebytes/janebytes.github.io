@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 16:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 17:04:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat actors abuse Google Apps Script in evasive phishing attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/</link>
+      <description>Threat actors are using the "Google Apps Script" development platform to host phishing pages that appear legitimate and steal login credentials. The phishing pages are designed to look like a legitimate login screen, and the attackers use email masquerading as an invoice to trick recipients into handing over sensitive information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/</guid>
+      <pubDate>Thu, 29 May 2025 16:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Safari exposes users to fullscreen browser-in-the-middle attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/</link>
+      <description>Vulnerable Product: Apple Safari; CVE(s): None; Summary: A weakness in Apple's Safari web browser allows threat actors to exploit the fullscreen browser-in-the-middle (BitM) technique, making guardrails less visible and tricking users into typing sensitive data in an attacker-controlled window. The attack abuses the Fullscreen API, which is not properly alerted to users on Safari, unlike Firefox and Chromium-based browsers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/</guid>
+      <pubDate>Thu, 29 May 2025 16:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Target AI Users with Malware-Loaded Installers Posing as Popular Tools</title>
+      <link>https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html</link>
+      <description>Vulnerable Product: Various AI tools (OpenAI ChatGPT, InVideo AI, and others); CVE(s): None; Summary: Fake installers for popular AI tools are being used as lures to propagate various threats, including CyberLock ransomware, Lucky_Gh0$t ransomware, and Numero malware. The fake installers claim to offer free access to the tool for the first year, with a monthly subscription of $95 thereafter.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html</guid>
+      <pubDate>Thu, 29 May 2025 15:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>US sanctions firm linked to cyber scams behind $200 million in losses</title>
       <link>https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/</link>
@@ -100,6 +121,48 @@ FYSA: Threat actors linked to lesser-known ransomware and malware projects are n
       <description>Vulnerable Product: Cloudflare, Cloudflared; CVE(s): None; Summary: Adversaries have been exploiting Cloudflared, a legitimate tunneling tool by Cloudflare, to orchestrate stealthy cyberattacks. The vulnerability lies in the exploitation of Cloudflared's capabilities for maintaining persistent access in compromised environments, using it as a beachhead for lateral movement within networks after gaining initial entry through methods like VPN breaches or RDP exploits.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139399</guid>
       <pubDate>Thu, 29 May 2025 12:29:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Santesoft Sante DICOM Viewer Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-148-01</link>
+      <description>Vulnerable Product: Santesoft, Sante DICOM Viewer Pro; CVE(s): CVE-2025-5307; Summary: The vulnerability is an out-of-bounds read that could allow an attacker to disclose information or execute arbitrary code. A local attacker could exploit this issue to potentially disclose information and execute arbitrary code on affected installations of Sante DICOM Viewer Pro.</description>
+      <guid isPermaLink="false">/node/23440</guid>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SiPass</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-148-01</link>
+      <description>Vulnerable Product: Siemens SiPass integrated AC5102 (ACC-G2) and ACC-AP; CVE(s): CVE-2022-31807; Summary: The vulnerability allows an attacker to upload a maliciously modified firmware onto the device, either locally or remotely. It is caused by improper verification of cryptographic signatures.</description>
+      <guid isPermaLink="false">/node/23436</guid>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Five Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/05/29/cisa-releases-five-industrial-control-systems-advisories</link>
+      <description>CISA released five Industrial Control Systems (ICS) advisories on May 29, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. These advisories aim to inform users and administrators of technical details and mitigations for the affected products.</description>
+      <guid isPermaLink="false">/node/23441</guid>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instantel Micromate</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-148-04</link>
+      <description>Vulnerable Product: Instantel Micromate; CVE(s): CVE-2025-1907; Summary: The Micromate device lacks authentication on its configuration port, allowing an unauthenticated attacker to execute commands and access the device's configuration. Successful exploitation could lead to unauthorized changes or data theft.</description>
+      <guid isPermaLink="false">/node/23439</guid>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consilium Safety CS5000 Fire Panel</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-148-03</link>
+      <description>Vulnerable Product: Consilium Safety CS5000 Fire Panel; CVE(s): CVE-2025-41438, CVE-2025-46352; Summary: The CS5000 Fire Panel is vulnerable to exploitation due to an insecure default account and a hard-coded password on the VNC server. Successful exploitation could allow an attacker to gain high-level access to the device, potentially putting it into a non-functional state.</description>
+      <guid isPermaLink="false">/node/23438</guid>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SiPass Integrated</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-148-02</link>
+      <description>Vulnerable Product: Siemens SiPass integrated; CVE(s): CVE-2022-31812; Summary: The vulnerability is an out-of-bounds read past the end of an allocated buffer in affected server applications, allowing an unauthenticated remote attacker to cause a denial-of-service condition. Successful exploitation could allow an attacker to create a denial-of-service condition.</description>
+      <guid isPermaLink="false">/node/23437</guid>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Victoria’s Secret takes down website after security incident</title>
@@ -1360,71 +1423,6 @@ FYSA: A new social engineering campaign is spreading on TikTok, using AI-generat
       <description>The U.S. Department of Justice has indicted Rustam Rafailevich Gallyamov for leading the development and deployment of the Qakbot malware, which infected over 700,000 computers globally and enabled ransomware attacks, credential theft, and botnet activity. The malware's capabilities included credential harvesting, lateral movement, payload delivery, persistence, and evasion.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138073</guid>
       <pubDate>Fri, 23 May 2025 07:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Zero-Day Under Attack: PoC Now Publicly Available</title>
-      <link>https://gbhackers.com/fortinet-zero-day-poc/</link>
-      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-32756; Summary: The vulnerability allows for unauthenticated remote code execution due to a stack-based buffer overflow in the handling of session cookies within the administrative API. Attackers can supply a base64-encoded string that exceeds the allocated buffer size, resulting in an overflow and potential arbitrary code execution with elevated privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138030</guid>
-      <pubDate>Fri, 23 May 2025 07:30:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation</title>
-      <link>https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html</link>
-      <description>This article is not about a vulnerability, but rather discusses the disruption of an online infrastructure associated with DanaBot malware and unsealed charges against 16 individuals for their alleged involvement in its development and deployment. The article highlights the impact of DanaBot on hundreds of thousands of victims worldwide, causing millions of dollars in losses, and its capabilities to steal data, hijack banking sessions, and provide remote access.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html</guid>
-      <pubDate>Fri, 23 May 2025 07:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police takes down 300 servers in ransomware supply-chain crackdown</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-takes-down-300-servers-in-ransomware-supply-chain-crackdown/</link>
-      <description>Operation Endgame, an international law enforcement operation, seized 300 servers and 650 domains used for launching ransomware attacks. The operation targeted various cybercrime operations, including Bumblebee, Lactrodectus, Qakbot, DanaBot, Trickbot, and Warmcookie, disrupting the services criminals rely on to deploy ransomware.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-takes-down-300-servers-in-ransomware-supply-chain-crackdown/</guid>
-      <pubDate>Fri, 23 May 2025 06:58:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Crackdown Nets 270 Dark Web Vendors in Major Arrests</title>
-      <link>https://gbhackers.com/global-crackdown-nets-270-dark-web-vendors-in-major-arrests/</link>
-      <description>FYSA:
-
-Operation RapTor was a coordinated international crackdown on cyber-enabled crime on the dark web, resulting in the arrest of 270 individuals involved in trafficking drugs, weapons, counterfeit goods, and illicit services. The operation used sophisticated intelligence gathering and technical forensics to identify vendors and buyers who had conducted thousands of illicit trades, despite relying on end-to-end encryption and anonymizing networks like Tor.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138029</guid>
-      <pubDate>Fri, 23 May 2025 06:37:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Alerts on Threat Actors Targeting Commvault Azure App to Steal Secrets</title>
-      <link>https://gbhackers.com/cisa-alerts-commvault-azure-app/</link>
-      <description>Vulnerable Product: Commvault Metallic software-as-a-service (SaaS); CVE(s): CVE-2025-3928, CVE-2025-34028; Summary: A zero-day vulnerability (CVE-2025-3928) in Commvault's web server was exploited by threat actors to access client secrets for the MetallicMicrosoft 365 (M365)backup solution. The compromise allowed attackers to potentially access customers' M365 environments and pose a risk to sensitive enterprise data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138028</guid>
-      <pubDate>Fri, 23 May 2025 06:12:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs</title>
-      <link>https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html</link>
-      <description>Vulnerable Product: Commvault Web Server; CVE(s): CVE-2025-3928; Summary: A zero-day vulnerability in the Commvault Web Server (CVE-2025-3928) allows remote, authenticated attackers to create and execute web shells, enabling unauthorized access to customer M365 environments. The vulnerability was exploited by a nation-state threat actor, which may have accessed client secrets and app credentials.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html</guid>
-      <pubDate>Fri, 23 May 2025 05:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts</title>
-      <link>https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html</link>
-      <description>Vulnerable Product: GitLab Duo; CVE(s): None; Summary: An indirect prompt injection flaw in GitLab's AI-powered coding assistant Duo allows attackers to steal source code, manipulate code suggestions, and exfiltrate confidential information. The vulnerability enables threat actors to inject hidden prompts within merge requests, commit messages, or comments, which can then be used to execute malicious JavaScript packages or redirect users to fake login pages.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html</guid>
-      <pubDate>Fri, 23 May 2025 04:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Langflow: CVE-2025-3248: Active Exploitation</title>
-      <link>https://www.recordedfuture.com/blog/langflow-cve-2025-3248</link>
-      <description>Vulnerable Product: Langflow; CVE(s): CVE-2025-3248; Summary: A critical missing authentication vulnerability allows remote, unauthenticated attackers to send crafted HTTP requests and execute arbitrary code by abusing Python decorators and default arguments. Exploiting the vulnerability can lead to remote code execution (RCE) without authentication or adequate restriction.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/blog/langflow-cve-2025-3248</guid>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude 4 benchmarks show improvements, but context is still 200K</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/</link>
-      <description>Anthropic announced Claude 4 models, which outperform previous models and competitors in coding benchmarks. However, the model still has a limited context window of 200,000 tokens, lagging behind competitors like Google's Gemini 2.5 Pro and ChatGPT's 4.1 models.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/</guid>
-      <pubDate>Thu, 22 May 2025 23:17:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
