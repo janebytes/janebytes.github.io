@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 13:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 14:02:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 11 File Explorer Vulnerability Enables NTLM Hash Theft</title>
+      <link>https://gbhackers.com/windows-11-file-explorer-vulnerability/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-24071; Summary: A vulnerability in Windows File Explorer allows attackers to capture NTLM authentication hashes by tricking users into extracting a malicious ZIP archive. The flaw exploits Windows Explorer's automatic file processing and can be exploited to gain access to networks for lateral movement or offline cracking of NTLM hashes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139389</guid>
+      <pubDate>Thu, 29 May 2025 13:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Partner Hackers Leverage Fake AI, VPN, and Crypto Sites to Target macOS and Windows Users</title>
+      <link>https://gbhackers.com/dark-partner-hackers-leverage-fake-ai-vpn-and-crypto-sites/</link>
+      <description>The "Dark Partners" group has launched a sophisticated malware campaign targeting both macOS and Windows users through deceptive websites impersonating well-known AI, VPN, and software brands. The campaign delivers either the Poseidon Stealer (macOS) or PayDay Loader (Windows) malwares, designed for data theft and further propagation, after capturing user information and exploiting trust in popular brands.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139426</guid>
+      <pubDate>Thu, 29 May 2025 13:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fullscreen BitM Attack Discovered by SquareX Exploits Browser Fullscreen APIs to Steal Credentials in Safari</title>
+      <link>https://gbhackers.com/fullscreen-bitm-attack-discovered-by-squarex/</link>
+      <description>Vulnerable Product: Apple Safari; CVE(s): None; Summary: A vulnerability in Safari's Fullscreen API allows attackers to create a convincing Browser-in-the-Middle (BitM) attack that tricks victims into divulging credentials and sensitive information. The attack works by displaying a legitimate login page of an enterprise SaaS app in a fullscreen BitM window, making it difficult for users to notice the suspicious URL.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139442</guid>
+      <pubDate>Thu, 29 May 2025 13:11:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Microsoft Entra Connect Update Replaces Legacy Login Methods</title>
+      <link>https://gbhackers.com/microsoft-entra-connect-update/</link>
+      <description>The article discusses the rapidly emerging field of quantum computing, highlighting its potential to revolutionize industries by solving complex problems. It explains key concepts such as qubits, superposition, entanglement, and quantum algorithms, providing a basic understanding of the technical landscape.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139388</guid>
+      <pubDate>Thu, 29 May 2025 13:01:41 +0000</pubDate>
+    </item>
     <item>
       <title>New PumaBot Hijacks IoT Devices via SSH Brute-Force for Persistent Access</title>
       <link>https://gbhackers.com/new-pumabot-hijacks-iot-devices/</link>
@@ -1397,34 +1425,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <description>Russian-speaking attackers are using trusted cloud infrastructure platforms like Oracle Cloud Infrastructure (OCI) Object Storage and Scaleway Object Storage to propagate Lumma Stealer malware. The attacks target Windows systems, stealing credentials, system data, and cryptocurrency wallets, and exploit fake reCAPTCHA pages hosted on legitimate cloud services to trick users into executing malicious commands.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137929</guid>
       <pubDate>Thu, 22 May 2025 17:52:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Netwrix Password Manager Enables Authenticated Remote Code Execution</title>
-      <link>https://gbhackers.com/critical-vulnerability-in-netwrix-password-manager/</link>
-      <description>Vulnerable Product: Netwrix Password Secure; CVE(s): None; Summary: A critical security vulnerability was discovered in Netwrix Password Secure, allowing authenticated attackers to execute remote code on other users' systems by exploiting a flaw in the document-sharing functionality. The issue stems from the application's failure to verify the file path and document type attributes when updating document links, which can be used to bypass whitelisting of allowed file types and execute malicious payloads.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137917</guid>
-      <pubDate>Thu, 22 May 2025 17:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers use fake Ledger apps to steal Mac users’ seed phrases</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/</link>
-      <description>Vulnerable Product: Ledger; CVE(s): None; Summary: Cybercriminals are using fake Ledger apps to target macOS users and steal seed phrases that protect access to digital cryptocurrency wallets. The malicious apps impersonate the legitimate Ledger app, tricking users into entering their seed phrase on a phishing page.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/</guid>
-      <pubDate>Thu, 22 May 2025 16:45:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cityworks Zero-Day Vulnerability Used by UAT-638 Hackers to Infect IIS Servers with Shell Malware</title>
-      <link>https://gbhackers.com/cityworks-zero-day-vulnerability-used-by-uat-638-hackers/</link>
-      <description>Vulnerable Product: Cityworks; CVE(s): CVE-2025-0994; Summary: A zero-day remote-code-execution vulnerability (CVE-2025-0994) in Cityworks, a widely used asset management system, has been actively exploited by Chinese-speaking threat actors (UAT-6382). The attackers target enterprise networks of local governing bodies in the United States, deploying web shells and custom malware on IIS web servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137905</guid>
-      <pubDate>Thu, 22 May 2025 16:18:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Warn of ‘Smiao Network’ Cyber Threat Against Taiwan’s Federal Staff</title>
-      <link>https://gbhackers.com/researchers-warn-of-smiao-network-cyber-threat/</link>
-      <description>The Smiao Network is a Chinese intelligence operation targeting federal workers in the US and Taiwan. It uses deceptive online recruitment schemes to extract sensitive information from high-value professionals. The operation employs fake consulting firms and social engineering tactics to recruit insiders, with some success in the US and potential threats in Taiwan.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137891</guid>
-      <pubDate>Thu, 22 May 2025 16:08:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
