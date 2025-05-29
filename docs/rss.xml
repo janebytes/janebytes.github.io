@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 20:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 21:00:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-310: Linux Kernel ksmbd Session Setup Null Pointer Dereference Denial-of-Service Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-310/</link>
+      <description>Vulnerable Product: Linux Kernel; CVE(s): ZDI-25-310, ZDI-CAN-26505; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Linux Kernel by dereferencing a null pointer in the handling of preauth hashes. Authentication is not required to exploit this vulnerability, but only systems with ksmbd enabled are vulnerable.</description>
+      <guid isPermaLink="false">ZDI-CAN-26505</guid>
+      <pubDate>Thu, 29 May 2025 21:00:46 +0000</pubDate>
+    </item>
     <item>
       <title>ConnectWise breached in cyberattack linked to nation-state hackers</title>
       <link>https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/</link>
@@ -1416,13 +1423,6 @@ FYSA: A new social engineering campaign is spreading on TikTok, using AI-generat
       <description>Cybercriminals are using TikTok videos, possibly generated using AI, to trick users into infecting themselves with Vidar and StealC information-stealing malware through ClickFix attacks. The videos instruct viewers to run PowerShell commands, which download and execute remote scripts that install the malware, allowing it to steal sensitive information.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/</guid>
       <pubDate>Fri, 23 May 2025 09:50:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Endgame Crushes DanaBot Malware, Shuts Down 150 C2 Servers and Halts 1,000 Daily Attacks</title>
-      <link>https://gbhackers.com/operation-endgame-crushes-danabot-malware/</link>
-      <description>This article is not about a vulnerability, but rather an operation to disrupt a notorious malware called DanaBot. The operation, known as Operation Endgame II, successfully dismantled a significant portion of DanaBot's infrastructure and exposed its sophisticated tactics behind its resilience.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138098</guid>
-      <pubDate>Fri, 23 May 2025 09:28:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
