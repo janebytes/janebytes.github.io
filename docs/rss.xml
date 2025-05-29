@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 12:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 13:02:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New PumaBot Hijacks IoT Devices via SSH Brute-Force for Persistent Access</title>
+      <link>https://gbhackers.com/new-pumabot-hijacks-iot-devices/</link>
+      <description>PumaBot is a sophisticated malware that targets IoT devices with exposed SSH ports, exploiting weak security configurations to gain unauthorized access and establish persistent control. The malware uses brute-force attacks, self-updates via encrypted channels, and employs obfuscation techniques to evade detection, posing a severe risk to individual users and large-scale network infrastructures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139410</guid>
+      <pubDate>Thu, 29 May 2025 13:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Argo CD Flaw Exposes Kubernetes Clusters to Full Resource Manipulation</title>
+      <link>https://gbhackers.com/critical-argo-cd-flaw/</link>
+      <description>Vulnerable Product: Argo CD; CVE(s): CVE-2025-47933, GHSA-2hj5-g64g-fp6p; Summary: A critical cross-site scripting (XSS) vulnerability in Argo CD's repository URL handling mechanism allows attackers to inject malicious URLs that execute arbitrary JavaScript in the context of authenticated users, enabling session hijacking or unauthorized actions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139387</guid>
+      <pubDate>Thu, 29 May 2025 12:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Cloudflare Tunnels to Launch Stealthy Cyberattacks</title>
+      <link>https://gbhackers.com/hackers-exploit-cloudflare-tunnels/</link>
+      <description>Vulnerable Product: Cloudflare, Cloudflared; CVE(s): None; Summary: Adversaries have been exploiting Cloudflared, a legitimate tunneling tool by Cloudflare, to orchestrate stealthy cyberattacks. The vulnerability lies in the exploitation of Cloudflared's capabilities for maintaining persistent access in compromised environments, using it as a beachhead for lateral movement within networks after gaining initial entry through methods like VPN breaches or RDP exploits.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139399</guid>
+      <pubDate>Thu, 29 May 2025 12:29:10 +0000</pubDate>
+    </item>
     <item>
       <title>Victoria’s Secret takes down website after security incident</title>
       <link>https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/</link>
@@ -1404,27 +1425,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <description>The Smiao Network is a Chinese intelligence operation targeting federal workers in the US and Taiwan. It uses deceptive online recruitment schemes to extract sensitive information from high-value professionals. The operation employs fake consulting firms and social engineering tactics to recruit insiders, with some success in the US and potential threats in Taiwan.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137891</guid>
       <pubDate>Thu, 22 May 2025 16:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vidar and StealC Malware Delivered Through Viral TikTok Videos by Hackers</title>
-      <link>https://gbhackers.com/vidar-and-stealc-malware-delivered/</link>
-      <description>A sophisticated social engineering campaign is using TikTok to distribute information-stealing malware Vidar and StealC. The campaign leverages AI-generated video content, fake voices, and step-by-step instructions to deceive users into executing harmful PowerShell commands, posing significant risks to individual users and businesses through data exfiltration and credential theft.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137875</guid>
-      <pubDate>Thu, 22 May 2025 16:05:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Authorities carry out global takedown of infostealer used by cybercriminals</title>
-      <link>https://arstechnica.com/security/2025/05/authorities-carry-out-global-takedown-of-infostealer-used-by-cybercriminals/</link>
-      <description>Vulnerable Product: None; Summary: Lumma is an info stealer malware used by various cybercriminal groups, including Scattered Spider and nation-state actors, to steal sensitive information such as credit card numbers, cryptocurrency data, and more. The malware's prevalence has made it easier for attackers to hide their tracks, and its usage has exploded in recent years.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/authorities-carry-out-global-takedown-of-infostealer-used-by-cybercriminals/</guid>
-      <pubDate>Thu, 22 May 2025 16:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Halo Security Achieves SOC 2 Type 1 Compliance, Validating Security Controls for Its Attack Surface Management Platform</title>
-      <link>https://gbhackers.com/halo-security-achieves-soc-2-type-1-compliance/</link>
-      <description>Halo Security, a provider of attack surface management and penetration testing services, has achieved SOC 2 Type 1 compliance following an audit by Insight Assurance. This certification demonstrates the company's commitment to protecting customer data with robust security measures, implemented policies, and defined access controls. The achievement is seen as essential for a company that helps organizations identify and remediate security vulnerabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138008</guid>
-      <pubDate>Thu, 22 May 2025 15:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
