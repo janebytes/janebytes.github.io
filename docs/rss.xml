@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 18:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 19:02:33 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Exploit Nifty[.]com Infrastructure in Sophisticated Phishing Attack</title>
+      <link>https://gbhackers.com/threat-actors-exploit-nifty-com-infrastructure/</link>
+      <description>Threat actors have orchestrated a multi-wave phishing campaign between April and May 2025, leveraging the legitimate infrastructure of Nifty[.]com, a prominent Japanese Internet Service Provider (ISP), to execute their attacks. The campaign used trusted domains, abusing free consumer accounts on Nifty[.]com, and employed various techniques such as HTML padding, display name spoofing, and flawless AI-generated grammar to evade traditional filters. The attack highlights the limitations of legacy email security systems and underscores the need for advanced behavioral analysis and anomaly detection to combat sophisticated phishing attempts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139489</guid>
+      <pubDate>Thu, 29 May 2025 18:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new author has appeared</title>
+      <link>https://blog.talosintelligence.com/a-new-author-has-appeared/</link>
+      <description>None, as this is not an article about a vulnerability or cybersecurity-relevant content. The article appears to be a newsletter introduction by a cybersecurity analyst who has recently joined Cisco Talos and discusses their background in anthropology and technical writing. They also provide information on emerging threats and offer insights into the human side of cybersecurity.</description>
+      <guid isPermaLink="false">683744165919a600012bd73e</guid>
+      <pubDate>Thu, 29 May 2025 18:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>PureHVNC RAT Uses Fake Job Offers and PowerShell to Evade Security Defenses</title>
       <link>https://gbhackers.com/purehvnc-rat-uses-fake-job-offers-and-powershell/</link>
       <description>A new malware campaign delivering the PureHVNC Remote Access Trojan (RAT) has been identified by Netskope Threat Labs. The campaign leverages fake job offers and advanced technical evasion methods to bypass security defenses, resulting in full system access for attackers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139472</guid>
       <pubDate>Thu, 29 May 2025 17:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interlock Ransomware Uses NodeSnake RAT for Persistent Access to Corporate Networks</title>
+      <link>https://gbhackers.com/interlock-ransomware-uses-nodesnake-rat/</link>
+      <description>NodeSnake, a Remote Access Trojan (RAT), has been used to compromise two UK-based universities. The malware, likely operated by the ransomware group Interlock, demonstrates advanced capabilities for persistent access and network infiltration, including long-term persistence, system reconnaissance, and remote command execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139501</guid>
+      <pubDate>Thu, 29 May 2025 17:08:46 +0000</pubDate>
     </item>
     <item>
       <title>Threat actors abuse Google Apps Script in evasive phishing attacks</title>
@@ -1402,27 +1423,6 @@ FYSA: A new social engineering campaign is spreading on TikTok, using AI-generat
       <description>Vulnerable Product: Apple; CVE(s): CVE-2025-31219; Summary: The vulnerability in Apple's XNU kernel (CVE-2025-31219) allows local attackers to escalate privileges and execute arbitrary code with kernel-level access. The flaw arises from improper memory handling and a race condition, which can be exploited by an attacker with low privileges on the target system.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138079</guid>
       <pubDate>Fri, 23 May 2025 09:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside LockBit: Data Leak Reveals Leading Affiliates and How They Operate</title>
-      <link>https://gbhackers.com/lockbit-data-leak-reveals-leading-affiliates/</link>
-      <description>The article provides a unique glimpse into the inner workings of the LockBit ransomware group's "LockBit Lite" panel, which offers an accessible entry point for novice threat actors. The leaked data reveals the group's focus on Chinese organizations and Russian targets, as well as its attempts to recruit new members. The article also highlights the operational inefficiencies within the Lite program, including decryptor failures and instances where affiliates provided basic security advice to victims.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138082</guid>
-      <pubDate>Fri, 23 May 2025 09:11:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ViciousTrap Hackers Breaches 5,500+ Edge Devices from 50+ Brands, Turns Them into Honeypots</title>
-      <link>https://gbhackers.com/vicioustrap-hackers-breaches-5500-edge-devices/</link>
-      <description>Vulnerable Product: Various; CVEs: CVE-2023-20118, CVE-2021-32030; Summary: A sophisticated threat actor, dubbed ViciousTrap, has compromised over 5,500 edge devices from multiple brands, transforming them into a massive honeypot-like network. The attack chain begins with the exploitation of known vulnerabilities and deploys a shell script to redirect inbound traffic to attacker-controlled interception servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138035</guid>
-      <pubDate>Fri, 23 May 2025 09:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Notepad gets AI-powered text writing capabilities</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/</link>
-      <description>The article discusses the development of AI-powered features in Microsoft's Notepad application, including a new "Write" feature that generates text based on custom prompts. It also mentions updates to Paint and Snipping Tool, as well as other related news and announcements from Microsoft.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/</guid>
-      <pubDate>Fri, 23 May 2025 08:26:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
