@@ -6,8 +6,38 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 14:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 15:02:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Apache InLong JDBC Vulnerability Enables Deserialization of Untrusted Data</title>
+      <link>https://gbhackers.com/apache-inlong-jdbc-vulnerability/</link>
+      <description>Vulnerable Product: Apache InLong; CVE(s): CVE-2025-27522; Summary: A moderate-severity vulnerability, tracked as CVE-2025-27522, allows threat actors to bypass security mechanisms in the InLong JDBC component, potentially leading to unauthorized data manipulation or information disclosure. The vulnerability occurs when the system fails to validate or sanitize incoming serialized objects, allowing attackers to craft malicious payloads that can trigger unintended behaviors such as arbitrary file reading or code execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139474</guid>
+      <pubDate>Thu, 29 May 2025 14:28:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals exploit AI hype to spread ransomware, malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/</link>
+      <description>Threat actors are using AI tools as lures to infect victims with malicious payloads, including a PowerShell-based ransomware called CyberLock and a new malware named Numero. The malware is delivered via fake AI tool websites and can encrypt files or render Windows systems unusable.
+
+FYSA: Threat actors linked to lesser-known ransomware and malware projects are now using AI tools as lures to infect unsuspecting victims with malicious payloads, including info-stealer malware operators and ransomware operations attempting to breach corporate networks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/</guid>
+      <pubDate>Thu, 29 May 2025 14:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Criminal IP Set to Make Its Debut at Infosecurity Europe 2025</title>
+      <link>https://gbhackers.com/criminal-ip-set-to-make-its-debut-at-infosecurity-europe-2025/</link>
+      <description>The article announces Criminal IP's participation in Infosecurity Europe 2025, a major cybersecurity conference in Europe. The platform will showcase its AI-powered threat intelligence solutions and engage with security professionals to accelerate its entry into the European market.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139478</guid>
+      <pubDate>Thu, 29 May 2025 14:14:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers are mapping your attack surface—are you?</title>
+      <link>https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/</link>
+      <description>The article discusses the importance of Attack Surface Management (ASM) in understanding an organization's digital footprint. It highlights how attackers use ASM to map out a target's infrastructure, and emphasizes the need for defenders to do the same to stay secure. The article promotes Sprocket Security's ASM tool as a solution to provide visibility into an attack surface, prioritize exposure by real-world risk, and close gaps before adversaries exploit them.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/</guid>
+      <pubDate>Thu, 29 May 2025 14:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 11 File Explorer Vulnerability Enables NTLM Hash Theft</title>
       <link>https://gbhackers.com/windows-11-file-explorer-vulnerability/</link>
@@ -21,6 +51,13 @@
       <description>The "Dark Partners" group has launched a sophisticated malware campaign targeting both macOS and Windows users through deceptive websites impersonating well-known AI, VPN, and software brands. The campaign delivers either the Poseidon Stealer (macOS) or PayDay Loader (Windows) malwares, designed for data theft and further propagation, after capturing user information and exploiting trust in popular brands.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139426</guid>
       <pubDate>Thu, 29 May 2025 13:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers</title>
+      <link>https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html</link>
+      <description>Malware with corrupted DOS and PE headers was discovered by Fortinet's researchers, which challenges analysis efforts. The malware is a remote access trojan (RAT) that captures screenshots, enumerates system services, and acts as a server for incoming client connections.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html</guid>
+      <pubDate>Thu, 29 May 2025 13:16:00 +0000</pubDate>
     </item>
     <item>
       <title>Fullscreen BitM Attack Discovered by SquareX Exploits Browser Fullscreen APIs to Steal Credentials in Safari</title>
@@ -1388,43 +1425,6 @@ Operation RapTor was a coordinated international crackdown on cyber-enabled crim
       <description>This article reports on a malware-as-a-service platform called DanaBot, which was used for credential theft and banking fraud. The FBI unsealed criminal charges against 16 individuals accused of operating and selling the malware, which infected over 300,000 systems globally and caused estimated losses of more than $50 million.</description>
       <guid isPermaLink="false">https://krebsonsecurity.com/?p=71351</guid>
       <pubDate>Thu, 22 May 2025 21:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>US indicts leader of Qakbot botnet linked to ransomware attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/</link>
-      <description>The article reports on the indictment of Russian national Rustam Rafailevich Gallyamov for leading the Qakbot botnet malware operation that compromised over 700,000 computers and enabled ransomware attacks. The operation was used to provide initial access for various ransomware gangs, resulting in hundreds of millions of dollars in damage.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/</guid>
-      <pubDate>Thu, 22 May 2025 20:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Destructive malware available in NPM repo went unnoticed for 2 years</title>
-      <link>https://arstechnica.com/information-technology/2025/05/destructive-malware-available-in-npm-repo-went-unnoticed-for-2-years/</link>
-      <description>Vulnerable Product: NPM (Node Package Manager); CVE(s): None; Summary: The article reports on malicious NPM packages that were designed to detonate on specific dates in 2023 and beyond. The packages, masquerading as legitimate development tools, targeted users of popular JavaScript ecosystems such as React, Vue, and Vite. The impact includes system shutdowns, file deletion, and JavaScript prototype corruption if installed.</description>
-      <guid isPermaLink="true">https://arstechnica.com/information-technology/2025/05/destructive-malware-available-in-npm-repo-went-unnoticed-for-2-years/</guid>
-      <pubDate>Thu, 22 May 2025 19:15:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>CefSharp Enumeration Tool Identifies Critical Security Issues in .NET Desktop Applications</title>
-      <link>https://gbhackers.com/cefsharp-enumeration-tool-identifies-critical-security/</link>
-      <description>Vulnerable Product: CefSharp; CVE(s): None; Summary: CefSharp, a lightweight wrapper around the Chromium Embedded Framework (CEF), allows developers to embed Chromium browsers within .NET applications. However, this powerful framework often lacks proper security hardening, exposing applications to severe risks such as stealthy exploitation, persistence mechanisms, and even Remote Code Execution (RCE) when misconfigurations are present.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137943</guid>
-      <pubDate>Thu, 22 May 2025 18:01:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ghosted by a cybercriminal</title>
-      <link>https://blog.talosintelligence.com/ghosted-by-a-cybercriminal/</link>
-      <description>FYSA:
-
-The article discusses the trend of threat actors forming partnerships or "partnerships" across the attack chain, with each group handling a slice of the operation. The author notes that this compartmentalized approach can lead to fragile supply chains and potential issues if one actor drops out. The article also mentions recent examples of cybercriminal groups imploding due to poor communication, infighting, or other issues.</description>
-      <guid isPermaLink="false">682e27f35a640a000109c19a</guid>
-      <pubDate>Thu, 22 May 2025 18:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit Oracle Cloud Infrastructure to Target Scaleway Object Storage</title>
-      <link>https://gbhackers.com/russian-hackers-exploit-oracle-cloud-infrastructure/</link>
-      <description>Russian-speaking attackers are using trusted cloud infrastructure platforms like Oracle Cloud Infrastructure (OCI) Object Storage and Scaleway Object Storage to propagate Lumma Stealer malware. The attacks target Windows systems, stealing credentials, system data, and cryptocurrency wallets, and exploit fake reCAPTCHA pages hosted on legitimate cloud services to trick users into executing malicious commands.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137929</guid>
-      <pubDate>Thu, 22 May 2025 17:52:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
