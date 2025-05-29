@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 11:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 12:03:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Victoria’s Secret takes down website after security incident</title>
+      <link>https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/</link>
+      <description>Victoria's Secret has taken down its website and some store services due to an ongoing security incident. The company is working to restore operations, but no further details are available on the nature of the incident or whether it was related to other recent attacks targeting retailers in the UK and US.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/</guid>
+      <pubDate>Thu, 29 May 2025 11:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>UTG-Q-015 Hackers Launch Massive Brute-Force Attacks on Government Web Servers</title>
+      <link>https://gbhackers.com/utg-q-015-hackers-launch-massive-brute-force-attacks/</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2021-38647, CVE-2017-12611, CVE-2017-9805, CVE-2023-48022; Summary: The UTG-Q-015 hacker group has escalated their malicious activities, targeting government and enterprise web servers with brute-force scanning and blasting campaigns. They have exploited 0day and Nday vulnerabilities, including the listed CVEs, to launch attacks on high-value targets such as blockchain platforms, financial institutions, and AI research servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139367</guid>
+      <pubDate>Thu, 29 May 2025 11:01:05 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Releases Dedicated SIEM &amp; SOAR Guide for Cybersecurity Professionals</title>
       <link>https://gbhackers.com/cisa-releases-dedicated-siem-soar-guide/</link>
@@ -23,6 +37,13 @@
       <pubDate>Thu, 29 May 2025 10:41:02 +0000</pubDate>
     </item>
     <item>
+      <title>DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints</title>
+      <link>https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html</link>
+      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, CVE-2024-57728, and CVE-2024-57726; Summary: Threat actors exploited multiple security flaws in SimpleHelp to gain access to an MSP's deployment, ultimately leading to data exfiltration and ransomware attacks on downstream customers.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html</guid>
+      <pubDate>Thu, 29 May 2025 10:34:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New Research Reveals Key TCP SYN Patterns for Detecting Malicious Activity</title>
       <link>https://gbhackers.com/new-research-reveals-key-tcp-syn-patterns/</link>
       <description>The article discusses a study by NETSCOUT that analyzed TCP SYN segments captured by honeypot systems. The research identifies trends and anomalies in network traffic that could signal potential threats, including variability in IPv4 TTL values, suspicious patterns in TCP header lengths, and correlations between header lengths, window sizes, and sequence numbers.</description>
@@ -35,6 +56,13 @@
       <description>Victoria's Secret has taken its US website offline and suspended some in-store services following a major cybersecurity incident. The company has not disclosed the exact nature of the breach or whether customer data was compromised. Industry analysts note that the timing aligns with common tactics among cybercriminals, who often launch attacks during holidays when IT staff coverage is reduced.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139318</guid>
       <pubDate>Thu, 29 May 2025 10:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals camouflaging threats as AI tool installers</title>
+      <link>https://blog.talosintelligence.com/fake-ai-tool-installers/</link>
+      <description>Talos has discovered multiple threats masquerading as AI tool installers, including the ransomware CyberLock, Lucky_Gh0$t, and a newly-discovered malware called "Numero". These threats are disguised as legitimate AI solutions and are targeting businesses in various industries. Threat actors are using SEO-poisoning tactics to manipulate search engine rankings and distribute these fraudulent installers through platforms like Telegram or social media messengers.</description>
+      <guid isPermaLink="false">6835f4ab9e70410001050ded</guid>
+      <pubDate>Thu, 29 May 2025 10:00:31 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft: Windows 11 might fail to start after installing KB5058405</title>
@@ -1397,34 +1425,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <description>Halo Security, a provider of attack surface management and penetration testing services, has achieved SOC 2 Type 1 compliance following an audit by Insight Assurance. This certification demonstrates the company's commitment to protecting customer data with robust security measures, implemented policies, and defined access controls. The achievement is seen as essential for a company that helps organizations identify and remediate security vulnerabilities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138008</guid>
       <pubDate>Thu, 22 May 2025 15:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Deploy Weaponized npm Packages to Target React and Node.js JavaScript Frameworks</title>
-      <link>https://gbhackers.com/hackers-deploy-weaponized-npm-packages/</link>
-      <description>Vulnerable Product: Various npm packages; CVE(s): None; Summary: A series of malicious npm packages have been found targeting popular frameworks like React, Vue.js, Vite, Node.js, and the Quill Editor. The packages were crafted by a threat actor under the npm alias “xuxingfeng” and carry destructive payloads aimed at corrupting data, deleting critical files, and triggering system shutdowns.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137855</guid>
-      <pubDate>Thu, 22 May 2025 15:50:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police arrests 270 dark web vendors, buyers in global crackdown</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-arrests-270-dark-web-vendors-buyers-in-global-crackdown/</link>
-      <description>The article reports on an international law enforcement operation called "Operation RapTor" that targeted dark web vendors and customers from ten countries. The operation resulted in 270 arrests, the seizure of €184 million in cash and cryptocurrency, over 2 tonnes of drugs, and over 180 firearms.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-arrests-270-dark-web-vendors-buyers-in-global-crackdown/</guid>
-      <pubDate>Thu, 22 May 2025 15:42:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious VS Code Extensions Target Windows Solidity Developers to Steal Login Credentials</title>
-      <link>https://gbhackers.com/malicious-vs-code-extensions-target-windows-solidity-developers/</link>
-      <description>A targeted malware campaign targeting Solidity developers on Windows systems uses malicious Visual Studio Code (VS Code) extensions as the initial attack vector. The campaign delivers a complex multi-stage infection chain to steal cryptocurrency wallet credentials and establish persistence on victim systems, highlighting the risk of supply chain attacks in development environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137794</guid>
-      <pubDate>Thu, 22 May 2025 15:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma Stealer Infrastructure Behind Global Attacks on Millions of Users Dismantled</title>
-      <link>https://gbhackers.com/lumma-stealer-infrastructure-behind-global-attacks/</link>
-      <description>The US Justice Department, in collaboration with the FBI and private sector partners like Microsoft, has disrupted the Lumma Stealer malware infrastructure, a notorious Malware-as-a-Service platform linked to over 1.7 million instances of data theft worldwide. The operation involved seizing five critical internet domains used as user panels for deploying the malware and marks a decisive step in curbing one of the most active cyber threats in recent years.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137953</guid>
-      <pubDate>Thu, 22 May 2025 15:32:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
