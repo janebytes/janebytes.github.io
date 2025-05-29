@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 21:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 22:01:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-311: (Pwn2Own) Sonos Era 300 Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-311/</link>
+      <description>Vulnerable Product: Sonos Era 300; CVE(s): CVE-2025-1051; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected Sonos Era 300 speakers without authentication. The specific flaw exists within the processing of ALAC data due to a lack of proper validation of user-supplied data length prior to copying it to a heap-based buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-25865</guid>
+      <pubDate>Thu, 29 May 2025 22:01:17 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-310: Linux Kernel ksmbd Session Setup Null Pointer Dereference Denial-of-Service Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-310/</link>
@@ -1416,13 +1423,6 @@ FYSA: A new social engineering campaign is spreading on TikTok, using AI-generat
       <description>No vulnerability is discussed in this article. The article provides an overview of a Dark Web marketplace called Torzon Market, which hosts illegal products and services and facilitates transactions through cryptocurrencies like Bitcoin and Monero. The article highlights the market's features, product categories, security measures, and threat implications.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060183</guid>
       <pubDate>Fri, 23 May 2025 09:53:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>TikTok videos now push infostealer malware in ClickFix attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/</link>
-      <description>Cybercriminals are using TikTok videos, possibly generated using AI, to trick users into infecting themselves with Vidar and StealC information-stealing malware through ClickFix attacks. The videos instruct viewers to run PowerShell commands, which download and execute remote scripts that install the malware, allowing it to steal sensitive information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/</guid>
-      <pubDate>Fri, 23 May 2025 09:50:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
