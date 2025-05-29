@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 10:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 11:02:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CISA Releases Dedicated SIEM &amp; SOAR Guide for Cybersecurity Professionals</title>
+      <link>https://gbhackers.com/cisa-releases-dedicated-siem-soar-guide/</link>
+      <description>The article discusses best practices for Security Information and Event Management (SIEM) log ingestion, emphasizing the importance of prioritizing high-value log sources, filtering out noise, and ensuring compatibility across diverse systems. It also highlights the role of log instrumentation in applications and provides examples of AQL queries for querying SIEM data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139360</guid>
+      <pubDate>Thu, 29 May 2025 10:51:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Dell PowerStore T Vulnerability Allows Full System Compromise</title>
+      <link>https://gbhackers.com/dell-powerstore-t-vulnerability/</link>
+      <description>Vulnerable Product: Dell PowerStore T; CVE(s): CVE-2025-36572, None; Summary: A series of vulnerabilities in the PowerStore T family can be exploited by malicious actors to compromise affected systems. The most critical proprietary issue involves the use of hard-coded credentials within the PowerStore image file, allowing a low-privileged attacker with remote access and knowledge of these credentials to gain unauthorized access, potentially exposing sensitive system resources.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139359</guid>
+      <pubDate>Thu, 29 May 2025 10:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research Reveals Key TCP SYN Patterns for Detecting Malicious Activity</title>
+      <link>https://gbhackers.com/new-research-reveals-key-tcp-syn-patterns/</link>
+      <description>The article discusses a study by NETSCOUT that analyzed TCP SYN segments captured by honeypot systems. The research identifies trends and anomalies in network traffic that could signal potential threats, including variability in IPv4 TTL values, suspicious patterns in TCP header lengths, and correlations between header lengths, window sizes, and sequence numbers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139352</guid>
+      <pubDate>Thu, 29 May 2025 10:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Victoria’s Secret Website Taken Offline After Cybersecurity Breach</title>
+      <link>https://gbhackers.com/victorias-secret-websit/</link>
+      <description>Victoria's Secret has taken its US website offline and suspended some in-store services following a major cybersecurity incident. The company has not disclosed the exact nature of the breach or whether customer data was compromised. Industry analysts note that the timing aligns with common tactics among cybercriminals, who often launch attacks during holidays when IT staff coverage is reduced.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139318</guid>
+      <pubDate>Thu, 29 May 2025 10:07:10 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft: Windows 11 might fail to start after installing KB5058405</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/</link>
@@ -1397,34 +1425,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <description>The US Justice Department, in collaboration with the FBI and private sector partners like Microsoft, has disrupted the Lumma Stealer malware infrastructure, a notorious Malware-as-a-Service platform linked to over 1.7 million instances of data theft worldwide. The operation involved seizing five critical internet domains used as user panels for deploying the malware and marks a decisive step in curbing one of the most active cyber threats in recent years.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137953</guid>
       <pubDate>Thu, 22 May 2025 15:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Using Trusted Google Domains to Spread Malicious Code</title>
-      <link>https://gbhackers.com/cybercriminals-using-trusted-google-domains/</link>
-      <description>Vulnerable Product: Google APIs; CVE(s): None; Summary: Cybercriminals are exploiting integrations with Google APIs, specifically through JSONP calls, to inject malicious scripts into legitimate online stores, redirecting unsuspecting shoppers to fraudulent payment pages and tricking them into disclosing sensitive credit card information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137756</guid>
-      <pubDate>Thu, 22 May 2025 15:23:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel Zero-Day SMB Vulnerability Discovered via ChatGPT</title>
-      <link>https://gbhackers.com/linux-kernel-zero-day-smb-vulnerability/</link>
-      <description>Vulnerable Product: The Linux kernel's SMB server implementation using OpenAI's o3 language model; CVE(s): CVE-2025-37899; Summary: A zero-day use-after-free bug in the Linux kernel's SMB server implementation allows remote attackers to execute arbitrary code with kernel privileges by exploiting a race condition.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137893</guid>
-      <pubDate>Thu, 22 May 2025 15:16:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks</title>
-      <link>https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html</link>
-      <description>Vulnerable Product: Trimble Cityworks; CVE(s): CVE-2025-0944; Summary: A remote-code-execution vulnerability in Trimble Cityworks, tracked as CVE-2025-0944 (CVSS score: 8.6), allows attackers to deliver Cobalt Strike and VShell. The vulnerability has been exploited by the Chinese-speaking threat actor UAT-6382 to conduct reconnaissance, deploy web shells, and maintain long-term access to infected systems.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html</guid>
-      <pubDate>Thu, 22 May 2025 15:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gujarat Teen Arrested for Orchestrating Over 50 Cyberattacks in ‘Operation Sindoor’</title>
-      <link>https://gbhackers.com/gujarat-teen-arrested-for-orchestrating-over-50-cyberattacks/</link>
-      <description>The Gujarat Anti-Terrorism Squad (ATS) apprehended two individuals, including a minor, for orchestrating sophisticated cyber attacks against Indian websites and disseminating anti-national content online. The suspects demonstrated advanced technical proficiency despite limited formal education, having established multiple communication channels to document and share their exploits.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137879</guid>
-      <pubDate>Thu, 22 May 2025 15:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
