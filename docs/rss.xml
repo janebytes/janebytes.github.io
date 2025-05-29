@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 17:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 18:01:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>PureHVNC RAT Uses Fake Job Offers and PowerShell to Evade Security Defenses</title>
+      <link>https://gbhackers.com/purehvnc-rat-uses-fake-job-offers-and-powershell/</link>
+      <description>A new malware campaign delivering the PureHVNC Remote Access Trojan (RAT) has been identified by Netskope Threat Labs. The campaign leverages fake job offers and advanced technical evasion methods to bypass security defenses, resulting in full system access for attackers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139472</guid>
+      <pubDate>Thu, 29 May 2025 17:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat actors abuse Google Apps Script in evasive phishing attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/</link>
@@ -1416,13 +1423,6 @@ FYSA: A new social engineering campaign is spreading on TikTok, using AI-generat
       <description>The article discusses the development of AI-powered features in Microsoft's Notepad application, including a new "Write" feature that generates text based on custom prompts. It also mentions updates to Paint and Snipping Tool, as well as other related news and announcements from Microsoft.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/</guid>
       <pubDate>Fri, 23 May 2025 08:26:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Hacker Indicted Over $24 Million Qakbot Ransomware Operation</title>
-      <link>https://gbhackers.com/24-million-qakbot-operation/</link>
-      <description>The U.S. Department of Justice has indicted Rustam Rafailevich Gallyamov for leading the development and deployment of the Qakbot malware, which infected over 700,000 computers globally and enabled ransomware attacks, credential theft, and botnet activity. The malware's capabilities included credential harvesting, lateral movement, payload delivery, persistence, and evasion.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138073</guid>
-      <pubDate>Fri, 23 May 2025 07:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
