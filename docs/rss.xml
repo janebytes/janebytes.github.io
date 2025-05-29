@@ -6,8 +6,117 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 22:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 10:10:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft: Windows 11 might fail to start after installing KB5058405</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: Some Windows 11 systems (22H2 and 23H2) may fail to start after installing the KB5058405 cumulative update, displaying a "0xc0000098" recovery error in ACPI.sys.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/</guid>
+      <pubDate>Thu, 29 May 2025 09:59:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Spear-Phishing Campaign Targets Financial Executives with NetBird Malware</title>
+      <link>https://gbhackers.com/new-spear-phishing-campaign-targets-financial-executives/</link>
+      <description>Trellix detected a sophisticated spear-phishing campaign targeting CFOs and finance executives across various industries. The campaign uses social engineering, legitimate tools like NetBird and OpenSSH, and custom math CAPTCHA to evade security defenses. It creates a persistent backdoor on victims' networks for lateral movement and data exfiltration.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139337</guid>
+      <pubDate>Thu, 29 May 2025 09:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ChoiceJacking Exploit Targets Android and iOS via Infected Charging Ports</title>
+      <link>https://gbhackers.com/choicejacking-exploit-android-and-ios/</link>
+      <description>Vulnerable Product: Various mobile devices from multiple vendors; CVE(s): CVE-2024-43085, CVE-2024-20900; Summary: ChoiceJacking is a new class of USB-based attacks that compromises Android and iOS devices by exploiting the dual-use nature of USB ports. The attack bypasses user consent and allows unauthorized data access, with three distinct techniques manipulating USB protocols and input channels to trick devices into allowing access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139317</guid>
+      <pubDate>Thu, 29 May 2025 09:27:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Woodpecker: Red Teaming Tool Targets AI, Kubernetes, and API Vulnerabilities</title>
+      <link>https://gbhackers.com/woodpecker-red-teaming-tool/</link>
+      <description>Vulnerable Product: None; Summary: Operant AI has released Woodpecker, an open-source automated red teaming engine designed to make advanced security testing accessible to organizations of all sizes. This tool automates red teaming across three critical domains (Kubernetes Security, API Security, and AI Security) and simulates over 50% of the OWASP Top 10 threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139316</guid>
+      <pubDate>Thu, 29 May 2025 08:28:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data broker LexisNexis discloses data breach affecting 364,000 people</title>
+      <link>https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/</link>
+      <description>LexisNexis Risk Solutions has disclosed a data breach that affected over 364,000 individuals. The breach occurred when an unknown threat actor stole personal information from GitHub using a compromised company account. The stolen information includes names, contact details, Social Security numbers, driver's license numbers, and dates of birth, but financial information was not accessed or stolen.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/</guid>
+      <pubDate>Thu, 29 May 2025 08:28:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive Botnet Targets ASUS Routers by Injecting Malicious SSH Keys</title>
+      <link>https://gbhackers.com/massive-botnet-targets-asus-routers/</link>
+      <description>Vulnerable Product: ASUS routers; CVE(s): CVE-2023-39780; Summary: The campaign compromises over 9,000 ASUS routers by using brute-force attacks, authentication bypasses, and a known command injection vulnerability (CVE-2023-39780) to gain unauthorized access. The attackers establish persistence by enabling SSH access on a non-standard port and insert their own SSH public key for remote access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139302</guid>
+      <pubDate>Thu, 29 May 2025 07:57:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious WordPress Plugin Disguised as Java Update Infects Site Visitors</title>
+      <link>https://gbhackers.com/malicious-wordpress-plugin-disguised-as-java-update/</link>
+      <description>Vulnerable Product: Yoast SEO; CVE(s): None; Summary: A malicious plugin masquerading as "Yoast SEO" injects a deceptive JavaScript into WordPress websites, targeting non-admin users and generating a fake "Java Update" pop-up to trick visitors into downloading harmful software. The ultimate goal is to download a malicious executable file from an suspicious domain, allowing the malware to monitor system processes and detect new activity, including sending notifications to the attacker via Telegram.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139291</guid>
+      <pubDate>Thu, 29 May 2025 07:52:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT Hackers Turn Google Calendar Into Command Hub Using TOUGHPROGRESS Malware, Google Alerts</title>
+      <link>https://gbhackers.com/apt-hackers-turn-google-calendar-into-command-hub/</link>
+      <description>APT41 (HOODOO) has been uncovered to be behind a sophisticated malware campaign dubbed "TOUGHPROGRESS", which exploits a compromised government website and leverages Google Calendar as a command and control (C2) hub to manage compromised systems. The campaign involves spear-phishing, LNK files disguised as PDFs, encrypted payloads, and advanced evasion techniques.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139279</guid>
+      <pubDate>Thu, 29 May 2025 06:54:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical OneDrive Flaw Lets Malicious Websites Access All Your Files</title>
+      <link>https://gbhackers.com/critical-onedrive-flaw/</link>
+      <description>Vulnerable Product: Microsoft OneDrive File Picker; CVE(s): None; Summary: The OneDrive File Picker has a vulnerability that allows popular web applications to gain full read access to users' entire OneDrive accounts due to excessive OAuth permissions and insecure token management. This design flaw enables apps like ChatGPT, Slack, Trello, and ClickUp to potentially read every file and folder in the user's OneDrive account without explicit permission.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139293</guid>
+      <pubDate>Thu, 29 May 2025 06:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations</title>
+      <link>https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html</link>
+      <description>APT41, a Chinese state-sponsored threat actor, used malware called TOUGHPROGRESS that leverages Google Calendar for command-and-control (C2) to target multiple government entities and organizations. The malware uses stealth and evasion techniques, including memory-only payloads, encryption, compression, and control flow obfuscation, to carry out specific functions such as process hollowing and injecting the final payload.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html</guid>
+      <pubDate>Thu, 29 May 2025 05:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin</title>
+      <link>https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html</link>
+      <description>Vulnerable Product: TI WooCommerce Wishlist; CVE(s): CVE-2025-47577; Summary: The TI WooCommerce Wishlist plugin for WordPress contains an unauthenticated arbitrary file upload vulnerability (CVE-2025-47577) that allows attackers to upload malicious files, including PHP files, which could lead to remote code execution. The vulnerability affects all versions of the plugin below and including 2.9.2, and there is currently no patch available.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html</guid>
+      <pubDate>Thu, 29 May 2025 05:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 10 KB5058481 update brings seconds back to calendar flyout</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/</link>
+      <description>This article is about the release of an optional cumulative update (KB5058481) for Windows 10 22H2. The update brings back seconds to the time display in the calendar flyout and includes several other changes, such as enhanced Rich Calendar features and fixes for various issues.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/</guid>
+      <pubDate>Wed, 28 May 2025 22:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 KB5058499 update rolls out new Share and Click to Do features</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/</link>
+      <description>The article discusses various changes and fixes made available in Windows 11 KB5058499 update. This update includes 30 new features and fixes, addressing issues such as blurry CJK text at 96 DPI, unresponsive game titles after upgrading to 24H2, and improved performance for multi-user, multi-lingual, and remote desktop usage.
+
+The article also highlights various new features, including the ability to make last-minute edits on images shared through Windows Share, an in-product experience for voice access, and improved accessibility settings. Additionally, it mentions that some fixes are available immediately with the KB5058502 update, which addresses issues such as blue screen errors after resuming from sleep or hybrid-booting.
+
+There is no discussion of vulnerabilities (software, hardware, or firmware) in this article.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/</guid>
+      <pubDate>Wed, 28 May 2025 22:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thousands of Asus routers are being hit with stealthy, persistent backdoors</title>
+      <link>https://arstechnica.com/security/2025/05/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/</link>
+      <description>Vulnerable Product: Asus routers; CVE(s): CVE-2023-39780; Summary: The vulnerability allows for the execution of system commands and is exploited by backdooring the devices, potentially allowing attackers to access the device. The attack vector is detected through SSH settings in the configuration panel or system logs indicating access from specific IP addresses.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/</guid>
+      <pubDate>Wed, 28 May 2025 22:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT41 malware abuses Google Calendar for stealthy C2 communication</title>
+      <link>https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/</link>
+      <description>The article discusses a new malware named 'ToughProgress' used by the Chinese APT41 hacking group, which exploits Google Calendar for command-and-control (C2) operations. The malware uses a legitimate cloud service to communicate with the attacker, making it difficult to detect.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/</guid>
+      <pubDate>Wed, 28 May 2025 22:04:04 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-309: (Pwn2Own) Canon imageCLASS MF656Cdw sfpcmAuthenticateSecAdmin Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-309/</link>
@@ -1316,111 +1425,6 @@ The article discusses the trend of threat actors forming partnerships or "partne
       <description>The Gujarat Anti-Terrorism Squad (ATS) apprehended two individuals, including a minor, for orchestrating sophisticated cyber attacks against Indian websites and disseminating anti-national content online. The suspects demonstrated advanced technical proficiency despite limited formal education, having established multiple communication channels to document and share their exploits.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=137879</guid>
       <pubDate>Thu, 22 May 2025 15:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SANS 2025 Cyber Threat Intelligence (CTI) Survey: Navigating Uncertainty in Today’s Threat Landscape</title>
-      <link>https://socradar.io/sans-2025-cyber-threat-intelligence-cti-survey/</link>
-      <description>Vulnerable Product: None; Summary: This article is not about a vulnerability but provides insights into the Cyber Threat Intelligence (CTI) landscape, highlighting trends and best practices in 2025. It discusses the use of MITRE ATT&amp;CK framework, leveraging Artificial Intelligence (AI) in CTI workflows, and challenges faced by CTI teams.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060170</guid>
-      <pubDate>Thu, 22 May 2025 14:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Webex Meetings Vulnerability Enables HTTP Response Manipulation</title>
-      <link>https://gbhackers.com/cisco-webex-meetings-vulnerability/</link>
-      <description>Vulnerable Product: Cisco Webex Meetings; CVE(s): None; Summary: The vulnerability in Cisco Webex Meetings allows remote attackers to manipulate HTTP responses without authentication using HTTP cache poisoning techniques. This could potentially disrupt how the service delivers responses to client applications, allowing attackers to compromise the integrity of HTTP responses and return incorrect information to legitimate clients.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137838</guid>
-      <pubDate>Thu, 22 May 2025 14:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Expert Reveals the Hidden Dangers of Bad Code on Your PC’s Performance</title>
-      <link>https://gbhackers.com/microsoft-expert-reveals-the-hidden-dangers-of-bad-code/</link>
-      <description>Vulnerable Product: Microsoft .NET; CVE(s): None; Summary: The .NET framework has a memory leak when using the "reloadOnChange: true" parameter in configuration files. This can cause gradual system resource consumption, leading to slow performance or crashes. The issue is more prominent in .NET 7 and higher due to changes in memory management architecture.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137866</guid>
-      <pubDate>Thu, 22 May 2025 14:45:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti EPMM flaw exploited by Chinese hackers to breach govt agencies</title>
-      <link>https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4428; Summary: A remote code execution flaw (CVE-2025-4428) allows attackers to execute code remotely on Ivanti EPMM version 12.5.0.0 and earlier via specially crafted API requests, which has been exploited by the UNC5221 activity cluster since May 15, 2025.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/</guid>
-      <pubDate>Thu, 22 May 2025 14:23:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Unified Intelligence Center Vulnerability Allows Privilege Escalation</title>
-      <link>https://gbhackers.com/cisco-unified-intelligence-center-vulnerability/</link>
-      <description>Vulnerable Product: Cisco Unified Intelligence Center; CVE(s): CVE-2025-20113, CVE-2025-20114; Summary: The Unified Intelligence Center contains two security vulnerabilities that allow authenticated remote attackers to escalate privileges. The more severe flaw (CVE-2025-20113) has a CVSS score of 7.1 and enables attackers to elevate their privileges to Administrator level for a limited set of functions, while the secondary vulnerability (CVE-2025-20114) allows horizontal privilege escalation attacks through insecure direct object references.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137830</guid>
-      <pubDate>Thu, 22 May 2025 14:17:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-47949: Samlify Authentication Bypass Vulnerability</title>
-      <link>https://socradar.io/cve-2025-47949-samlify-authentication-bypass-flaw/</link>
-      <description>Vulnerable Product: Samlify; CVE(s): CVE-2025-47949; Summary: A critical Signature Wrapping vulnerability (CVE-2025-47949) in Samlify versions prior to v2.10.0 allows attackers to bypass authentication mechanisms, granting unauthorized access. The flaw enables manipulation of signed SAML responses, posing a significant risk to systems relying on SAML-based Single Sign-On (SSO).</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060162</guid>
-      <pubDate>Thu, 22 May 2025 14:13:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese hackers breach US local governments using Cityworks zero-day</title>
-      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/</link>
-      <description>Vulnerable Product: Trimble Cityworks; CVE(s): CVE-2025-0994; Summary: The Trimble Cityworks GIS-based asset management software contains a high-severity deserialization vulnerability (CVE-2025-0994) that allows authenticated threat actors to execute code remotely on Microsoft IIS servers. The vulnerability was exploited by Chinese-speaking hackers, known as UAT-6382, to breach multiple local governing bodies across the United States.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/</guid>
-      <pubDate>Thu, 22 May 2025 13:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New NIST Security Metric Aims to Pinpoint Exploited Vulnerabilities</title>
-      <link>https://gbhackers.com/nist-security-metric-aims-to-pinpoint/</link>
-      <description>The National Institute of Standards and Technology (NIST) and the Cybersecurity and Infrastructure Security Agency (CISA) have introduced a new security metric called Likely Exploited Vulnerabilities (LEV) to improve vulnerability management. The LEV metric aims to predict which vulnerabilities are most likely to be exploited, enabling organizations to prioritize remediation efforts more efficiently.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=137799</guid>
-      <pubDate>Thu, 22 May 2025 13:22:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disrupting Lumma Stealer Malware – Microsoft Leads Global Action</title>
-      <link>https://socradar.io/disrupting-lumma-stealer-malware-microsoft-leads-global-action/</link>
-      <description>This article is not about a vulnerability, but rather discusses the takedown of LummaC2, an infostealer malware strain used by threat actors worldwide. The malware was distributed via spear phishing emails, malicious links, and spoofed software downloads, and had features such as browser data theft, credential harvesting, and crypto wallet extraction.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060152</guid>
-      <pubDate>Thu, 22 May 2025 13:09:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise</title>
-      <link>https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html</link>
-      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: A privilege escalation flaw has been demonstrated in Windows Server 2025 that makes it possible for attackers to compromise any user in Active Directory (AD) by exploiting the delegated Managed Service Account (dMSA) feature. The attack simulates the dMSA migration process, allowing an attacker to gain similar privileges and breach the entire domain even if the organization's Windows Server 2025 domain isn't using dMSAs at all.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html</guid>
-      <pubDate>Thu, 22 May 2025 12:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC finalizes order requiring GoDaddy to secure hosting services</title>
-      <link>https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/</link>
-      <description>GoDaddy has finalized an order with the FTC to secure its services after allegations of data security failures led to several breaches since 2018. The order requires GoDaddy to establish a robust information security program, secure APIs, and implement multi-factor authentication (MFA) among other measures.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/</guid>
-      <pubDate>Thu, 22 May 2025 12:28:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks</title>
-      <link>https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: The pair of security flaws allows execution of arbitrary code on a vulnerable device without authentication. They were exploited by UNC5221, a Chinese cyber espionage group, to target various sectors across Europe, North America, and Asia-Pacific. The attack chain involves targeting the "/mifs/rs/api/v2/" endpoint to obtain an interactive reverse shell and remotely execute commands.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html</guid>
-      <pubDate>Thu, 22 May 2025 12:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advisory Update on Cyber Threat Activity Targeting Commvault’s SaaS Cloud Application (Metallic)</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/advisory-update-cyber-threat-activity-targeting-commvaults-saas-cloud-application-metallic</link>
-      <description>Vulnerable Product: Commvault Metallic Microsoft 365 backup software-as-a-service (SaaS); CVE(s): CVE-2025-3928; Summary: Threat actors may have accessed client secrets for Commvault's Metallic M365 backup SaaS solution, hosted in Azure, providing unauthorized access to customers' M365 environments. This vulnerability is part of a larger campaign targeting various SaaS companies' cloud applications with default configurations and elevated permissions.</description>
-      <guid isPermaLink="false">/node/23430</guid>
-      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-4632; Summary: The vulnerability allows for path traversal, posing a significant risk to the federal enterprise and other organizations. It has been added to the Known Exploited Vulnerabilities Catalog due to evidence of active exploitation.</description>
-      <guid isPermaLink="false">/node/23428</guid>
-      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/22/cisa-releases-two-industrial-control-systems-advisories</link>
-      <description>CISA released two Industrial Control Systems (ICS) advisories on May 22, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories are related to Lantronix Device Installer and Rockwell Automation FactoryTalk Historian ThingWorx products.</description>
-      <guid isPermaLink="false">/node/23426</guid>
-      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
