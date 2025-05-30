@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 16:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 17:01:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Attackers Exploit Microsoft Entra Billing Roles to Escalate Privileges in Organizational Environments</title>
+      <link>https://gbhackers.com/attackers-exploit-microsoft-entra-billing-roles/</link>
+      <description>Vulnerable Product: Microsoft Entra ID and Azure environments; CVE(s): None; Summary: Attackers can exploit lesser-known billing roles to escalate privileges within organizational tenants by creating and controlling Azure subscriptions in external tenants where they hold no direct administrative rights. This vulnerability allows for unauthorized reconnaissance, persistence, and potential privilege escalation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139826</guid>
+      <pubDate>Fri, 30 May 2025 16:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police takes down AVCheck site used by cybercriminals to scan malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/</link>
+      <description>The article reports on the takedown of AVCheck, a service used by cybercriminals to test whether their malware is detected by commercial antivirus software. This service was seized as part of Operation Endgame, an international law enforcement operation aimed at disrupting ransomware attacks and related infrastructure.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/</guid>
+      <pubDate>Fri, 30 May 2025 16:46:02 +0000</pubDate>
+    </item>
     <item>
       <title>Germany doxxes Conti ransomware and TrickBot ring leader</title>
       <link>https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/</link>
@@ -1409,20 +1423,6 @@ Overall, this week's news reinforces the need for continuous awareness and educa
       <description>Vulnerable Product: Bitwarden; CVE(s): CVE-2025-5138; Summary: The popular password management platform Bitwarden has a serious security vulnerability allowing attackers to execute cross-site scripting (XSS) attacks through malicious PDF files uploaded to the platform's file handling system. The flaw, designated CVE-2025-5138, can lead to account hijacking, credential theft, and unauthorized actions performed on behalf of victims.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138380</guid>
       <pubDate>Mon, 26 May 2025 08:06:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache Tomcat RCE Vulnerability Exposed with PoC Released</title>
-      <link>https://gbhackers.com/apache-tomcat-rce-vulnerability/</link>
-      <description>Vulnerable Product: Apache Tomcat; CVE(s): CVE-2025-24813; Summary: The vulnerability, tracked as CVE-2025-24813, allows attackers to bypass security controls and execute remote code, disclose information, or inject malicious content. It affects Tomcat versions 11.0.0-M1 through 11.0.2, 10.1.0-M1 through 10.1.34, and 9.0.0.M1 through 9.0.98. Exploitation requires write-enabled default servlet and file-based session persistence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138365</guid>
-      <pubDate>Mon, 26 May 2025 06:31:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Severe WSO2 SOAP Flaw Allows Unauthorized Password Resets for Any Use</title>
-      <link>https://gbhackers.com/severe-wso2-soap-flaw/</link>
-      <description>Vulnerable Product: WSO2; CVE(s): CVE-2024-6914; Summary: A critical vulnerability (CVSS score 9.8) in multiple WSO2 products allows attackers to reset the password of any user account, including those with administrative privileges, by exploiting an incorrect authorization mechanism in the SOAP admin service. Attackers can craft SOAP requests to invoke password reset functions for arbitrary user accounts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138356</guid>
-      <pubDate>Mon, 26 May 2025 06:06:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
