@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 13:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 14:02:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Reveals Techniques for Defending Against Evolving AiTM Attacks</title>
+      <link>https://gbhackers.com/microsoft-reveals-techniques/</link>
+      <description>This article highlights the escalating sophistication of phishing attacks, particularly focusing on Adversary-in-the-Middle (AiTM) techniques. It emphasizes the importance of adopting phishing-resistant, passwordless authentication methods like passkeys, complementing MFA with risk-based Conditional Access policies, and user awareness training to recognize social engineering lures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139719</guid>
+      <pubDate>Fri, 30 May 2025 13:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Icinga 2 Vulnerability Allows Attackers to Obtain Valid Certificates</title>
+      <link>https://gbhackers.com/critical-icinga-2-vulnerability/</link>
+      <description>Vulnerable Product: Icinga 2; CVE(s): CVE-2025-48057; Summary: A critical vulnerability in Icinga 2's VerifyCertificate() function allows attackers to obtain valid certificates from the Icinga Certificate Authority, potentially impersonating trusted nodes and compromising monitoring environments. The flaw affects installations built with OpenSSL versions older than 1.1.0.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139725</guid>
+      <pubDate>Fri, 30 May 2025 13:37:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use Gh0st RAT to Hijack Internet Café Systems for Crypto Mining</title>
+      <link>https://gbhackers.com/hackers-use-gh0st-rat-to-hijack-internet-cafe/</link>
+      <description>Vulnerable Product: Korean Internet café management programs; CVE(s): None; Summary: Hackers have been targeting internet cafés in South Korea since 2022, exploiting specialized management software to install malicious tools for cryptocurrency mining. The attackers use Gh0st RAT and its droppers to seize control of systems and deploy the T-Rex CoinMiner to mine cryptocurrencies like Ethereum and RavenCoin.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139701</guid>
+      <pubDate>Fri, 30 May 2025 13:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Security Update for 22H2 &amp; 23H2 May Cause Recovery Errors</title>
+      <link>https://gbhackers.com/windows-11-security-update-for-22h2-23h2/</link>
+      <description>Vulnerable Product: Windows 11; CVE(s): None; Summary: The KB5058405 security update has caused significant boot failures in some users running Windows 11 versions 22H2 and 23H2, especially in enterprise and virtual environments. Affected systems display a recovery error with code 0xc0000098 referencing the ACPI.sys file, which is essential for power management and device configuration.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139724</guid>
+      <pubDate>Fri, 30 May 2025 13:04:11 +0000</pubDate>
+    </item>
     <item>
       <title>New Study Uncovers Multiple Vulnerabilities in WeChat and IM Apps</title>
       <link>https://gbhackers.com/vulnerabilities-in-wechat/</link>
@@ -1393,34 +1421,6 @@ Overall, this week's news reinforces the need for continuous awareness and educa
       <description>OpenAI has updated its Operator Agent, a tool that allows users to delegate web tasks to AI, using the o3 model. This improvement enables more persistent and accurate interactions with the browser, increasing overall task success rate. The feature is currently exclusive to the $200 Pro subscription but may be available for lower-tier subscribers in the future.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/</guid>
       <pubDate>Fri, 23 May 2025 23:10:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feds charge 16 Russians allegedly tied to botnets used in cyberattacks and spying</title>
-      <link>https://arstechnica.com/security/2025/05/feds-charge-16-russians-allegedly-tied-to-botnets-used-in-cyberattacks-and-spying/</link>
-      <description>A significant milestone was achieved in disrupting a large-scale Russian-origin hacking operation, DanaBot, which was involved in both state-sponsored and criminal activities. The takedown of DanaBot's infrastructure may have created a vacuum, allowing another group to take its place, but repeated disruptions can keep the threat actors on their heels.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/feds-charge-16-russians-allegedly-tied-to-botnets-used-in-cyberattacks-and-spying/</guid>
-      <pubDate>Fri, 23 May 2025 19:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers cause GitLab AI developer assistant to turn safe code malicious</title>
-      <link>https://arstechnica.com/security/2025/05/researchers-cause-gitlab-ai-developer-assistant-to-turn-safe-code-malicious/</link>
-      <description>Vulnerable Product: None; Summary: An attacker can embed an instruction into source code or a merge request to leak confidential resources available to the targeted user by exploiting Duo's chatbot feature. The exploit uses base64 encoding and appending the stolen data inside a GET request sent to a user-controlled website, allowing exfiltration of sensitive information such as source code or vulnerability reports.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/researchers-cause-gitlab-ai-developer-assistant-to-turn-safe-code-malicious/</guid>
-      <pubDate>Fri, 23 May 2025 19:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dozens of malicious packages on NPM collect host and network data</title>
-      <link>https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/</link>
-      <description>Vulnerable Product: NPM packages; CVE(s): None; Summary: A threat actor uploaded 60 malicious packages to the NPM repository, which collect sensitive host and network data and send it to a Discord webhook controlled by the attacker. The packages were designed to appear legitimate and target developers who use CI/CD pipelines.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/</guid>
-      <pubDate>Fri, 23 May 2025 17:37:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Trust Policy Bypass Enables Exploitation of Vulnerabilities and Manipulation of NHI Secrets</title>
-      <link>https://gbhackers.com/zero-trust-policy-bypass-enables-exploitation/</link>
-      <description>Vulnerable Product: ISC BIND; CVE(s): CVE-2025-40775; Summary: A critical attack vector exploits protocol vulnerabilities to disrupt DNS infrastructure and manipulate Non-Human Identity (NHI) secrets, ultimately bypassing zero-trust security frameworks. Attackers craft a malformed TSIG DNS packet with an invalid algorithm field to trigger an assertion failure in BIND versions 9.20.0-9.20.8, crashing the server and disrupting DNS resolution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138300</guid>
-      <pubDate>Fri, 23 May 2025 17:34:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
