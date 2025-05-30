@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 18:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 19:00:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft now testing Notepad text formatting in Windows 11</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/</link>
+      <description>The article discusses Microsoft's updates and new features in the Windows 11 Notepad application, including text formatting support for Markdown-style input. Additionally, it mentions the introduction of AI-powered text summarization and generation features, as well as other minor updates. There is no mention of a vulnerability or cybersecurity threat.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/</guid>
+      <pubDate>Fri, 30 May 2025 18:41:24 +0000</pubDate>
+    </item>
     <item>
       <title>Attackers Exploit Microsoft Entra Billing Roles to Escalate Privileges in Organizational Environments</title>
       <link>https://gbhackers.com/attackers-exploit-microsoft-entra-billing-roles/</link>
@@ -1416,13 +1423,6 @@ Overall, this week's news reinforces the need for continuous awareness and educa
       <description>Vulnerable Product: Tenable Network Monitor; CVE(s): CVE-2025-24916, CVE-2025-24917; Summary: The update resolves two high-severity local privilege escalation vulnerabilities, allowing unauthorized users to escalate privileges and potentially compromise system security. The flaws were discovered in the installation routines and third-party libraries used by the product.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138395</guid>
       <pubDate>Mon, 26 May 2025 08:22:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitwarden Flaw Allows Upload of Malicious PDFs, Posing Security Risk</title>
-      <link>https://gbhackers.com/bitwarden-flaw/</link>
-      <description>Vulnerable Product: Bitwarden; CVE(s): CVE-2025-5138; Summary: The popular password management platform Bitwarden has a serious security vulnerability allowing attackers to execute cross-site scripting (XSS) attacks through malicious PDF files uploaded to the platform's file handling system. The flaw, designated CVE-2025-5138, can lead to account hijacking, credential theft, and unauthorized actions performed on behalf of victims.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138380</guid>
-      <pubDate>Mon, 26 May 2025 08:06:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
