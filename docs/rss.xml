@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 12:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 13:01:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Study Uncovers Multiple Vulnerabilities in WeChat and IM Apps</title>
+      <link>https://gbhackers.com/vulnerabilities-in-wechat/</link>
+      <description>Vulnerable Product: WeChat; CVE(s): CVE-2019-11932, CVE-2023-41064, CVE-2023-4863; Summary: A single WeChat message can be leveraged for persistent client-side attacks. Attackers can exploit lax URL validation to craft malicious links, and file processing vulnerabilities allow remote code execution. Additionally, built-in browser components, such as the XWEB engine, are vulnerable to known issues like CVE-2023-41064 and CVE-2023-4863 in the libwebp component.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139723</guid>
+      <pubDate>Fri, 30 May 2025 12:41:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>MICI NetFax Server Flaws Allow Attackers to Execute Remote Code</title>
+      <link>https://gbhackers.com/mici-netfax-server-flaws/</link>
+      <description>Vulnerable Product: MICI Network Co., Ltd's NetFax Server; CVE(s): CVE-2025-48045, CVE-2025-48046, and CVE-2025-48047; Summary: The NetFax Server has three severe vulnerabilities allowing attackers to gain root-level access through a chain of authenticated attacks. The flaws include default administrative credentials exposed in cleartext, stored SMTP passwords exposed, and improper input sanitization leading to remote code execution as the root user.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139636</guid>
+      <pubDate>Fri, 30 May 2025 12:04:59 +0000</pubDate>
+    </item>
     <item>
       <title>China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil</title>
       <link>https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html</link>
@@ -1407,20 +1421,6 @@ Overall, this week's news reinforces the need for continuous awareness and educa
       <description>Vulnerable Product: ISC BIND; CVE(s): CVE-2025-40775; Summary: A critical attack vector exploits protocol vulnerabilities to disrupt DNS infrastructure and manipulate Non-Human Identity (NHI) secrets, ultimately bypassing zero-trust security frameworks. Attackers craft a malformed TSIG DNS packet with an invalid algorithm field to trigger an assertion failure in BIND versions 9.20.0-9.20.8, crashing the server and disrupting DNS resolution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138300</guid>
       <pubDate>Fri, 23 May 2025 17:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actor Sells Burger King Backup System RCE Vulnerability for $4,000</title>
-      <link>https://gbhackers.com/threat-actor-sells-burger-king-backup-system/</link>
-      <description>Vulnerable Product: AhsayCBS; CVE(s): None; Summary: The threat actor #LongNight has reportedly put up for sale remote code execution (RCE) access to Burger King Spain's backup system, leveraging vulnerabilities in the AhsayCBS platform. This exploit offers malicious actors a potential gateway to compromise critical infrastructural components of Burger King Spain's operations in Spain, posing a catastrophic risk of data breaches or ransomware attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138275</guid>
-      <pubDate>Fri, 23 May 2025 17:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Nexus Hackers Exploit Ivanti Endpoint Manager Mobile Vulnerability</title>
-      <link>https://gbhackers.com/chinese-nexus-hackers-exploit-ivanti/</link>
-      <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Two critical vulnerabilities in EPMM version 12.5.0.0 and earlier allow unauthenticated remote code execution on internet-facing systems, posing a severe risk to enterprise security.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138285</guid>
-      <pubDate>Fri, 23 May 2025 17:26:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
