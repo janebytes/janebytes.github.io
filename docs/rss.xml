@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 19:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 20:01:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>US “insider threat” cybersecurity worker arrested… as insider threat</title>
+      <link>https://arstechnica.com/security/2025/05/us-insider-threat-cybersecurity-worker-arrested-as-insider-threat/</link>
+      <description>Vulnerable Product: None; Summary: This article describes the story of Laatsch, a DIA employee who allegedly leaked classified information to an unknown contact. The FBI tracked down and arrested him after tracing his digital footprints, including his email accounts and IP addresses, which were linked to his residence.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/us-insider-threat-cybersecurity-worker-arrested-as-insider-threat/</guid>
+      <pubDate>Fri, 30 May 2025 19:55:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers are exploiting critical flaw in vBulletin forum software</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/</link>
+      <description>Vulnerable Product: vBulletin; CVE(s): CVE-2025-48827, CVE-2025-48828; Summary: Two critical vulnerabilities, an API method invocation and a remote code execution (RCE) via template engine abuse, affecting vBulletin versions 5.0.0 through 5.7.5 and 6.0.0 through 6.0.3 when running on PHP 8.1 or later.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/</guid>
+      <pubDate>Fri, 30 May 2025 19:26:06 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft now testing Notepad text formatting in Windows 11</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/</link>
@@ -1409,20 +1423,6 @@ Overall, this week's news reinforces the need for continuous awareness and educa
       <description>Vulnerable Product: D-Link DIR-605L and DIR-816L routers; CVE(s): CVE-2025-46176; Summary: A vulnerability in the firmware of D-Link's DIR-605L and DIR-816L routers allows for remote command execution due to hardcoded Telnet credentials. The flaw enables unauthenticated attackers to execute arbitrary commands, modify router configurations, and deploy malware or pivot to internal networks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138419</guid>
       <pubDate>Mon, 26 May 2025 09:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>TA-ShadowCricket: Sophisticated Hacker Group Targeting Government and Enterprise Networks</title>
-      <link>https://gbhackers.com/ta-shadowcricket-sophisticated-hacker-group/</link>
-      <description>This article discusses a decade-long cyber espionage campaign conducted by the APT group TA-ShadowCricket, which has compromised over 2,000 systems across 72 countries. The group's tactics include using legacy tools and modern SQL-based backdoors to exfiltrate data, with a focus on long-term data extraction rather than immediate financial gain.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138350</guid>
-      <pubDate>Mon, 26 May 2025 09:05:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privilege Escalation Flaws Found in Tenable Network Monitor</title>
-      <link>https://gbhackers.com/flaws-tenable-network/</link>
-      <description>Vulnerable Product: Tenable Network Monitor; CVE(s): CVE-2025-24916, CVE-2025-24917; Summary: The update resolves two high-severity local privilege escalation vulnerabilities, allowing unauthorized users to escalate privileges and potentially compromise system security. The flaws were discovered in the installation routines and third-party libraries used by the product.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138395</guid>
-      <pubDate>Mon, 26 May 2025 08:22:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
