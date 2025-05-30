@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 10:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 11:02:12 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Use AI-Generated Videos on TikTok to Spread Info-Stealing Malware</title>
+      <link>https://gbhackers.com/hackers-use-ai-generated-videos-on-tiktok/</link>
+      <description>Cybercriminals are exploiting TikTok to distribute information-stealing malware, using AI-generated videos posing as tutorials for unlocking pirated software. The campaign uses social engineering and advanced technology like AI to trick unsuspecting viewers into executing malicious PowerShell commands, leading to the download of malware strains such as Vidar and StealC.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139685</guid>
+      <pubDate>Fri, 30 May 2025 10:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weaponized PyPI Package Executes Supply Chain Attack to Steal Solana Private Keys</title>
+      <link>https://gbhackers.com/weaponized-pypi-package-executes-supply-chain-attack/</link>
+      <description>Vulnerable Product: Python Package Index (PyPI); CVE(s): None; Summary: A malicious package named semantic-types was discovered in PyPI, which deploys a covert key-stealing payload targeting Solana blockchain developers. The attack leverages a backdoor that silently exfiltrates private keys, posing a severe risk to developer environments and CI/CD pipelines.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139644</guid>
+      <pubDate>Fri, 30 May 2025 10:13:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novel Malware Evades Detection by Skipping PE Header in Windows</title>
+      <link>https://gbhackers.com/novel-malware-evades-detection-by-skipping-pe-header/</link>
+      <description>Researchers have identified a new strain of malware that bypasses traditional detection mechanisms by omitting the Portable Executable (PE) header in Windows environments. This innovative evasion tactic makes many signature-based and heuristic analysis tools ineffective, allowing the malware to load its malicious payload directly into memory without relying on a structured PE header.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139625</guid>
+      <pubDate>Fri, 30 May 2025 10:07:29 +0000</pubDate>
+    </item>
     <item>
       <title>Safari Flaw Exploited by BitM Attack to Steal User Login Data</title>
       <link>https://gbhackers.com/safari-flaw-exploited-by-bitm/</link>
@@ -1402,27 +1423,6 @@ Overall, this week's news reinforces the need for continuous awareness and educa
 FYSA: A new social engineering campaign is spreading on TikTok, using AI-generated videos to deliver Vidar and StealC information stealers. The videos instruct users to run malicious commands to activate Windows, Microsoft Office, CapCut, and Spotify, compromising their own systems.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html</guid>
       <pubDate>Fri, 23 May 2025 17:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker steals $223 million in Cetus Protocol cryptocurrency heist</title>
-      <link>https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/</link>
-      <description>The Cetus Protocol decentralized exchange (DEX) suffered a theft of $223 million in cryptocurrency, with the attacker exploiting a vulnerable package. The incident occurred after an emergency vote by validators paused $162 million on the Sui blockchain. The platform offered a time-sensitive whitehat settlement to return the stolen funds and announced a $5 million bounty for information leading to the identification and arrest of the hacker.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/</guid>
-      <pubDate>Fri, 23 May 2025 15:46:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI warns of Luna Moth extortion attacks targeting law firms</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/</link>
-      <description>The Silent Ransom Group (SRG), also known as Luna Moth, has been targeting US law firms and financial institutions with callback phishing and social engineering attacks. They impersonate IT support to gain access to networks and extort victims by threatening to leak sensitive information online.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/</guid>
-      <pubDate>Fri, 23 May 2025 15:26:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU Targets Stark Industries in Cyberattack Sanctions Crackdown</title>
-      <link>https://gbhackers.com/eu-targets-stark-industries/</link>
-      <description>The European Union has expanded its sanctions against 21 individuals and 6 entities in response to Russia's campaign of hybrid threats. The new measures target a wider range of assets, including digital and communication networks, credit institutions, financial entities, and crypto-asset service providers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138257</guid>
-      <pubDate>Fri, 23 May 2025 13:58:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
