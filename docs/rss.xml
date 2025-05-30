@@ -6,8 +6,106 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 22:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 10:06:47 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Safari Flaw Exploited by BitM Attack to Steal User Login Data</title>
+      <link>https://gbhackers.com/safari-flaw-exploited-by-bitm/</link>
+      <description>Vulnerable Product: Multiple (browser-agnostic); CVE(s): None; Summary: A new type of phishing attack, known as Fullscreen Browser-in-the-Middle (BitM) attacks, uses the Fullscreen API to create convincing overlays that mask browser interface elements, making malicious activity nearly undetectable. The attack works by tricking users into clicking a malicious link or button, which triggers a remote browser session and allows attackers to capture credentials and sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139638</guid>
+      <pubDate>Fri, 30 May 2025 09:36:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next.js Dev Server Vulnerability Leads to Developer Data Exposure</title>
+      <link>https://gbhackers.com/next-js-dev-server-vulnerability/</link>
+      <description>Vulnerable Product: Next.js; CVE(s): CVE-2025-48068; Summary: The Next.js framework has a vulnerability (CVE-2025-48068) that allows attackers to exploit the development server via Cross-site WebSocket Hijacking (CSWSH), exposing sensitive application source code. The issue is fixed in version 15.2.2, but developers must upgrade and configure their environments securely to mitigate the risk of similar exploits.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139637</guid>
+      <pubDate>Fri, 30 May 2025 09:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Cisco IOS XE Flaw Permits Arbitrary File Upload — PoC Released</title>
+      <link>https://gbhackers.com/cisco-ios-xe-flaw/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188; Summary: A critical vulnerability in Cisco IOS XE Wireless LAN Controllers (WLCs) allows unauthenticated remote attackers to upload arbitrary files and potentially execute commands as root, granting full control over affected devices. The flaw arises from a hard-coded JSON Web Token (JWT) used in the Out-of-Band AP Image Download feature.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139592</guid>
+      <pubDate>Fri, 30 May 2025 08:24:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean IT Workers Exploit Legitimate Software and Network Tactics to Evade EDR</title>
+      <link>https://gbhackers.com/north-korean-it-workers-exploit-legitimate-software/</link>
+      <description>A North Korean IT worker infiltrated a Western organization using a remote-control system that exploited legitimate software and network protocols. The attacker used WebSockets for C2 communication and ARP packets for decentralized command propagation, making it difficult to detect with traditional EDR systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139607</guid>
+      <pubDate>Fri, 30 May 2025 08:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Rust-Based InfoStealer Uses Fake CAPTCHA to Deliver EDDIESTEALER</title>
+      <link>https://gbhackers.com/new-rust-based-infostealer-uses-fake-captcha/</link>
+      <description>A newly discovered infostealer, EDDIESTEALER, is spreading through social engineering tactics involving fake CAPTCHA verification pages. The malware, built in Rust, steals sensitive data such as credentials, browser information, and cryptocurrency wallet details by executing PowerShell scripts on Windows systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139597</guid>
+      <pubDate>Fri, 30 May 2025 08:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Sanctions Funnull for $200M Romance Baiting Scams Tied to Crypto Fraud</title>
+      <link>https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html</link>
+      <description>The article discusses a Philippines-based company, Funnull Technology Inc., and its administrator Liu Lizhi, who were sanctioned by the U.S. Department of Treasury's Office of Foreign Assets Control (OFAC) for providing infrastructure to conduct romance baiting scams that led to massive cryptocurrency losses.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html</guid>
+      <pubDate>Fri, 30 May 2025 07:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConnectWise Hit by Advanced Cyberattack: Internal Data at Risk</title>
+      <link>https://gbhackers.com/connectwise-cyberattack/</link>
+      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: A critical vulnerability (CVE-2025-3935) was exploited by a nation-state actor to execute remote code via ViewState code injection, leveraging unsafe deserialization in the ASP.NET framework. The vulnerability allowed attackers with privileged system-level access to execute arbitrary code on the server, and was fixed with the release of version 25.2.4.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139588</guid>
+      <pubDate>Fri, 30 May 2025 07:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache Tomcat CGI Servlet Flaw Enables Security Constraint Bypass</title>
+      <link>https://gbhackers.com/apache-tomcat-cgi-servlet-flaw/</link>
+      <description>Vulnerable Product: Apache Software Foundation Apache Tomcat; CVE(s): CVE-2025-46701; Summary: A vulnerability in Apache Tomcat's CGI servlet (CVE-2025-46701) allows attackers to bypass security constraints by manipulating the case of characters in the pathInfo portion of a URL, potentially granting unauthorized access to restricted CGI resources.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139576</guid>
+      <pubDate>Fri, 30 May 2025 06:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>SentinelOne Recovers: Platform Back Online After Extended Outage</title>
+      <link>https://gbhackers.com/sentinelone-recovers/</link>
+      <description>SentinelOne experienced a significant platform outage that disrupted access to its commercial customer consoles worldwide, affecting the Management Console and managed response services. The incident was caused by a technical issue within the platform's infrastructure, not a cyberattack or security breach.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139556</guid>
+      <pubDate>Fri, 30 May 2025 06:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConnectWise Hit by Cyberattack; Nation-State Actor Suspected in Targeted Breach</title>
+      <link>https://thehackernews.com/2025/05/connectwise-hit-by-cyberattack-nation.html</link>
+      <description>Vulnerable Product: ConnectWise; CVE(s): None; Summary: The article discusses a reported cyber attack on ConnectWise's ScreenConnect software that may have been perpetrated by a nation-state threat actor. While the exact details are unclear, the company has engaged Google Mandiant for forensic analysis and notified affected customers.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/connectwise-hit-by-cyberattack-nation.html</guid>
+      <pubDate>Fri, 30 May 2025 06:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Disrupts Influence Ops Targeting Romania, Azerbaijan, and Taiwan with Fake Personas</title>
+      <link>https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html</link>
+      <description>Meta disrupted three covert influence operations originating from Iran, China, and Romania during Q1 2025. The campaigns targeted various platforms, including Meta's services, TikTok, X, and YouTube, using fake accounts, off-platform websites, and AI-generated profile photos. Threat actors leveraged proxy IP infrastructure to conceal their origin and coordination, posting content related to news, current events, and politics.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html</guid>
+      <pubDate>Fri, 30 May 2025 04:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams</title>
+      <link>https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/</link>
+      <description>The U.S. government imposed sanctions on Funnull Technology Inc., a Philippines-based company, for facilitating virtual currency investment scams known as "pig butchering," resulting in over $200 million in financial losses to Americans.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71387</guid>
+      <pubDate>Fri, 30 May 2025 01:55:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs</title>
+      <link>https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): None; Summary: Firefox 139.0.1 update fixes graphical artifacts caused by re-enabled DirectComposition path behavior in Firefox 139, which exposed a graphics driver bug on NVIDIA cards under Windows 10, resulting in flickering or flashing videos and webpages. The issue was caused by the removal of a block list that prevented Firefox from using DirectComposition on mixed-refresh NVIDIA setups.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/</guid>
+      <pubDate>Thu, 29 May 2025 23:58:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Authenticator now warns to export passwords before July cutoff</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/</link>
+      <description>Microsoft Authenticator app is deprecating its password autofill feature, prompting users to export their saved passwords or switch to Microsoft Edge. The change will occur in July 2025, with a gradual phase-out starting June 2025 for saving new passwords and ending August 2025 for accessing saved passwords.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/</guid>
+      <pubDate>Thu, 29 May 2025 23:49:49 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-311: (Pwn2Own) Sonos Era 300 Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-311/</link>
@@ -1325,104 +1423,6 @@ FYSA: A new social engineering campaign is spreading on TikTok, using AI-generat
       <description>The European Union has expanded its sanctions against 21 individuals and 6 entities in response to Russia's campaign of hybrid threats. The new measures target a wider range of assets, including digital and communication networks, credit institutions, financial entities, and crypto-asset service providers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138257</guid>
       <pubDate>Fri, 23 May 2025 13:58:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venice.ai’s Unrestricted Access Sparks Concerns Over AI-Driven Cyber Threats</title>
-      <link>https://gbhackers.com/venice-ais-unrestricted-access/</link>
-      <description>Venice.ai, an AI platform that integrates open-source models without content moderation or ethical guardrails, has emerged as a hub for both legitimate users seeking creative freedom and malicious actors seeking to automate and scale cyberattacks. The platform's unrestricted nature has sparked debate among cybersecurity professionals, policymakers, and AI developers about the need for regulations and ethics in AI development.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138241</guid>
-      <pubDate>Fri, 23 May 2025 13:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>GenAI Assistant DIANNA Uncovers New Obfuscated Malware</title>
-      <link>https://gbhackers.com/genai-assistant-dianna/</link>
-      <description>BypassERWDirectSyscallShellcodeLoader is a sophisticated new malware strain generated with the assistance of large language models (LLMs) such as ChatGPT and DeepSeek. It is engineered with unprecedented speed, complexity, and obfuscation, rendering legacy antivirus (AV) solutions and signature-based defenses obsolete.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138230</guid>
-      <pubDate>Fri, 23 May 2025 12:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices</title>
-      <link>https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html</link>
-      <description>Vulnerable Product: Cisco Small Business RV016, RV042, RV042G, RV082, RV320, RV325 Routers; CVE(s): CVE-2023-20118; Summary: The vulnerability (CVE-2023-2018) is a critical security flaw that allows threat actors to compromise nearly 5,300 unique network edge devices and turn them into honeypot-like networks. Exploitation involves the execution of a shell script (NetGhost), which redirects incoming traffic to a honeypot infrastructure under attacker control, allowing interception of network flows.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html</guid>
-      <pubDate>Fri, 23 May 2025 12:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Expose 184 Million User Passwords via Open Directory</title>
-      <link>https://gbhackers.com/expose-184-million-user-passwords/</link>
-      <description>A publicly accessible database containing 184,162,718 unique logins and passwords has been discovered, exposing sensitive information such as emails, usernames, passwords, and direct URLs to login pages for various services. The database was not password-protected or encrypted, leaving it vulnerable to anyone who found it.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138222</guid>
-      <pubDate>Fri, 23 May 2025 12:32:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Formjacking Malware Targets E-Commerce Sites to Steal Credit Card Data</title>
-      <link>https://gbhackers.com/new-formjacking-malware-targets-e-commerce-sites/</link>
-      <description>Vulnerable Product: WooCommerce; CVE(s): None; Summary: A new formjacking malware targets WooCommerce-based e-commerce sites to steal sensitive credit card information. The malware seamlessly integrates into the legitimate payment workflow, mimicking design and functionality with precision, making it difficult for site owners and customers to detect. It captures input in real-time, ensuring data is harvested even if a transaction isn’t completed.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138207</guid>
-      <pubDate>Fri, 23 May 2025 12:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab Duo Vulnerability Exploited to Inject Malicious Links and Steal Source Code</title>
-      <link>https://gbhackers.com/gitlab-duo-vulnerability-exploited/</link>
-      <description>Vulnerable Product: GitLab Duo; CVE(s): None; Summary: Attackers could exploit an indirect prompt injection flaw to exfiltrate private source code, manipulate AI-generated code suggestions, and leak confidential zero-day vulnerabilities by embedding malicious instructions in project content. The vulnerability leveraged GitLab Duo's real-time Markdown rendering and insufficient input sanitization, allowing attackers to inject raw HTML tags into the AI's responses.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138145</guid>
-      <pubDate>Fri, 23 May 2025 12:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Infrastructure and TTPs Behind ALCATRAZ Malware</title>
-      <link>https://gbhackers.com/researchers-uncover-infrastructure-and-ttps/</link>
-      <description>The article discusses a new malware family called DOUBLELOADER, which is protected by the open-source obfuscator ALCATRAZ. The malware uses various techniques such as control flow flattening, instruction mutation, and anti-disassembly tricks to hinder analysis.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138185</guid>
-      <pubDate>Fri, 23 May 2025 11:58:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>TAG-110 Hackers Deploy Malicious Word Templates in Targeted Attacks</title>
-      <link>https://gbhackers.com/tag-110-hackers-deploy-malicious-word-templates/</link>
-      <description>TAG-110, a Russia-aligned threat actor, has shifted tactics to target government, educational, and research entities in Tajikistan by leveraging macro-enabled Microsoft Word template files (.dotm) for initial access and persistence. The campaign involves the use of VBA macros to collect system information and transmit it to a command-and-control (C2) server, potentially deploying known TAG-110 malware.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138135</guid>
-      <pubDate>Fri, 23 May 2025 11:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide</title>
-      <link>https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html</link>
-      <description>As part of Operation Endgame, law enforcement agencies took down 300 servers, neutralized 650 domains, and issued arrest warrants against 20 targets. Additionally, €3.5 million in cryptocurrency was seized, bringing the total amount seized during the operation to over €21.2 million.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html</guid>
-      <pubDate>Fri, 23 May 2025 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Winos 4.0 Malware Masquerades as VPN and QQBrowser to Target Users</title>
-      <link>https://gbhackers.com/winos-4-0-malware-masquerades-as-vpn-and-qqbrowser/</link>
-      <description>A sophisticated malware campaign using Winos 4.0, a memory-resident stager, has been uncovered by Rapid7, targeting users through fake installers of popular software like LetsVPN and QQBrowser. The campaign employs a multi-layered infection chain dubbed the Catena loader, which uses trojanized NSIS installers to deliver payloads entirely in memory, evading traditional antivirus tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138123</guid>
-      <pubDate>Fri, 23 May 2025 10:43:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection</title>
-      <link>https://thehackernews.com/2025/05/safeline-waf-open-source-web.html</link>
-      <description>None (This article is not about a vulnerability but provides information on the features and benefits of an open-source Web Application Firewall called SafeLine.)</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/safeline-waf-open-source-web.html</guid>
-      <pubDate>Fri, 23 May 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NETGEAR Router Flaw Allows Full Admin Access by Attackers</title>
-      <link>https://gbhackers.com/netgear-router-flaw/</link>
-      <description>Vulnerable Product: NETGEAR DGND3700v2 wireless routers; CVE(s): CVE-2025-4978; Summary: A severe authentication bypass vulnerability allows unauthenticated attackers to gain full administrative control over affected devices, enabling complete network compromise, credential theft, malware deployment, and traffic interception.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138115</guid>
-      <pubDate>Fri, 23 May 2025 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scarcity signals: Are rare activities red flags?</title>
-      <link>https://blog.talosintelligence.com/scarcity-signals-are-rare-activities-red-flags/</link>
-      <description>The article presents a study by Cisco Talos analyzing PowerShell network connection logs from June 1, 2024 to December 31, 2024. The researchers found that domains that PowerShell rarely connects to are more likely to be malicious than frequently contacted domains, regardless of the PowerShell module used. The study highlights the importance of considering subdomains when looking for malicious network traffic and suggests focusing investigations on rare domains due to their higher likelihood of being malicious.</description>
-      <guid isPermaLink="false">682f3d9733f1ee0001266aae</guid>
-      <pubDate>Fri, 23 May 2025 10:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Market: Torzon Market</title>
-      <link>https://socradar.io/dark-web-market-torzon-market/</link>
-      <description>No vulnerability is discussed in this article. The article provides an overview of a Dark Web marketplace called Torzon Market, which hosts illegal products and services and facilitates transactions through cryptocurrencies like Bitcoin and Monero. The article highlights the market's features, product categories, security measures, and threat implications.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060183</guid>
-      <pubDate>Fri, 23 May 2025 09:53:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
