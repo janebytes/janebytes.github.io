@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 11:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 12:01:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil</title>
+      <link>https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html</link>
+      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324; Summary: The article discusses a critical unauthenticated file upload vulnerability in SAP NetWeaver (CVE-2025-31324) exploited by the China-linked threat actor Earth Lamia. The vulnerability allows attackers to establish a reverse shell and gain control of infrastructure under their control.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html</guid>
+      <pubDate>Fri, 30 May 2025 11:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Use AI-Generated Videos on TikTok to Spread Info-Stealing Malware</title>
       <link>https://gbhackers.com/hackers-use-ai-generated-videos-on-tiktok/</link>
       <description>Cybercriminals are exploiting TikTok to distribute information-stealing malware, using AI-generated videos posing as tutorials for unlocking pirated software. The campaign uses social engineering and advanced technology like AI to trick unsuspecting viewers into executing malicious PowerShell commands, leading to the download of malware strains such as Vidar and StealC.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139685</guid>
       <pubDate>Fri, 30 May 2025 10:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>From the "Department of No" to a "Culture of Yes": A Healthcare CISO's Journey to Enabling Modern Care</title>
+      <link>https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html</link>
+      <description>The article discusses the challenges faced by healthcare organizations in balancing security requirements with the need for frictionless care delivery. It highlights the importance of integrating security and IT operations to enable a culture of yes, where security is no longer seen as a barrier but rather an enabler of modern healthcare.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html</guid>
+      <pubDate>Fri, 30 May 2025 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Weaponized PyPI Package Executes Supply Chain Attack to Steal Solana Private Keys</title>
@@ -1407,22 +1421,6 @@ Overall, this week's news reinforces the need for continuous awareness and educa
       <description>Vulnerable Product: Ivanti Endpoint Manager Mobile (EPMM); CVE(s): CVE-2025-4427, CVE-2025-4428; Summary: Two critical vulnerabilities in EPMM version 12.5.0.0 and earlier allow unauthenticated remote code execution on internet-facing systems, posing a severe risk to enterprise security.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138285</guid>
       <pubDate>Fri, 23 May 2025 17:26:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target macOS Users with Fake Ledger Apps to Deploy Malware</title>
-      <link>https://gbhackers.com/hackers-target-macos-users/</link>
-      <description>Hackers are targeting macOS users with malicious clones of Ledger Live, stealing passwords, wallet details, and seed phrases. The malware campaign uses social engineering tactics to bypass security defenses and exfiltrate sensitive data. The attacks involve fake apps, phishing pages, and command-and-control servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138255</guid>
-      <pubDate>Fri, 23 May 2025 17:24:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique</title>
-      <link>https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html</link>
-      <description>Latrodectus malware uses ClickFix as a distribution vector, allowing it to execute in memory and bypass detection by browsers or security tools. The malware is a downloader for other payloads, such as ransomware, and has been observed using PowerShell commands to trick users into executing malicious files.
-
-FYSA: A new social engineering campaign is spreading on TikTok, using AI-generated videos to deliver Vidar and StealC information stealers. The videos instruct users to run malicious commands to activate Windows, Microsoft Office, CapCut, and Spotify, compromising their own systems.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html</guid>
-      <pubDate>Fri, 23 May 2025 17:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
