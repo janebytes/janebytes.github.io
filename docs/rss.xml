@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 21:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 22:01:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Exploit details for max severity Cisco IOS XE flaw now public</title>
+      <link>https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188; Summary: A maximum-severity arbitrary file upload flaw tracked as CVE-2025-20188 allows an attacker to take over devices. The vulnerability exists due to a hardcoded JWT fallback secret ("notfound") used by the backend Lua scripts for upload endpoints combined with insufficient path validation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/</guid>
+      <pubDate>Sat, 31 May 2025 14:09:19 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware kingpin “Stern” apparently IDed by German law enforcement</title>
       <link>https://arstechnica.com/security/2025/05/german-police-say-theyve-identified-trickbot-ransomware-kingpin/</link>
@@ -1412,13 +1419,6 @@ FYSA: Threat actors have been discovered abusing open-source repositories for ma
       <description>The article discusses Google's introduction of ads in their AI mode and AI Overviews, claiming that users find them helpful. However, critics argue that ads can be misleading or disrupt the flow of content.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/</guid>
       <pubDate>Mon, 26 May 2025 12:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI plans to ship an interesting ChatGPT product by 2026</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/</link>
-      <description>OpenAI is planning to release a new product by 2026 that combines their ChatGPT technology with hardware, allowing users to use AI natively. This could potentially expand the reach of AI-powered services beyond just apps and websites.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/</guid>
-      <pubDate>Mon, 26 May 2025 12:02:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
