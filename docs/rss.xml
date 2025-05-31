@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 10:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 11:01:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora</title>
+      <link>https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html</link>
+      <description>Vulnerable Product: Ubuntu, Red Hat Enterprise Linux, Fedora; CVE(s): CVE-2025-5054, CVE-2025-4598; Summary: Two race condition bugs in apport and systemd-coredump allow local attackers to obtain sensitive information, including password hashes, by exploiting SUID programs and gaining read access to core dumps.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html</guid>
+      <pubDate>Sat, 31 May 2025 10:19:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation</title>
       <link>https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html</link>
@@ -1412,13 +1419,6 @@ FYSA: Threat actors have been discovered abusing open-source repositories for ma
       <description>Vulnerable Product: vBulletin; CVE(s): None; Summary: A vulnerability in vBulletin versions 5.x and 6.x running on PHP 8.1 or later allows attackers to invoke protected methods remotely without authentication due to a change in PHP's ReflectionAPI behavior, which enables calling protected and private methods by default. This flaw enables template injection and bypassing of filters, allowing arbitrary PHP code execution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138508</guid>
       <pubDate>Mon, 26 May 2025 11:49:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISO's Guide To Web Privacy Validation And Why It's Important</title>
-      <link>https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html</link>
-      <description>The article discusses the importance of continuous web privacy validation for organizations, highlighting the gap between claimed and actual privacy practices. It emphasizes that relying on static audits and ineffective cookie banners is no longer sufficient in today's dynamic digital landscape, and that a proactive approach is necessary to ensure regulatory compliance, maintain user trust, and avoid reputational damage.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html</guid>
-      <pubDate>Mon, 26 May 2025 11:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
