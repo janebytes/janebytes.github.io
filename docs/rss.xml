@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 13:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 14:01:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ransomware kingpin “Stern” apparently IDed by German law enforcement</title>
+      <link>https://arstechnica.com/security/2025/05/german-police-say-theyve-identified-trickbot-ransomware-kingpin/</link>
+      <description>The article discusses the cybersecurity threat actor known as "Stern", who is allegedly linked to Russia's intelligence apparatus and has been involved in ransomware attacks. According to experts, Stern's organization, Trickbot and Conti, has been highly effective due to its strong operational security and ability to remain hidden.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/german-police-say-theyve-identified-trickbot-ransomware-kingpin/</guid>
+      <pubDate>Sat, 31 May 2025 13:32:08 +0000</pubDate>
+    </item>
     <item>
       <title>New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora</title>
       <link>https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html</link>
@@ -1412,13 +1419,6 @@ FYSA: Threat actors have been discovered abusing open-source repositories for ma
       <description>OpenAI is planning to release a new product by 2026 that combines their ChatGPT technology with hardware, allowing users to use AI natively. This could potentially expand the reach of AI-powered services beyond just apps and websites.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/</guid>
       <pubDate>Mon, 26 May 2025 12:02:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Severe vBulletin Flaw Allows Remote Code Execution by Attackers</title>
-      <link>https://gbhackers.com/severe-vbulletin-flaw/</link>
-      <description>Vulnerable Product: vBulletin; CVE(s): None; Summary: A vulnerability in vBulletin versions 5.x and 6.x running on PHP 8.1 or later allows attackers to invoke protected methods remotely without authentication due to a change in PHP's ReflectionAPI behavior, which enables calling protected and private methods by default. This flaw enables template injection and bypassing of filters, allowing arbitrary PHP code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138508</guid>
-      <pubDate>Mon, 26 May 2025 11:49:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
