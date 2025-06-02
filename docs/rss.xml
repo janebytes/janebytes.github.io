@@ -6,8 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 16:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 17:02:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft and CrowdStrike partner to link hacking group names</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/</link>
+      <description>This article is not about a vulnerability, but rather announces a partnership between Microsoft and CrowdStrike to create a reference guide for tracking threat actors. The guide aims to facilitate the translation of different naming systems used by various cybersecurity companies, enabling defenders to respond faster and more efficiently to threats.
+
+FYSA: This initiative aims to bring clarity to the security community by mapping different naming systems used by various vendors, facilitating the sharing of intelligence and attribution.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/</guid>
+      <pubDate>Mon, 02 Jun 2025 16:56:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub</title>
+      <link>https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html</link>
+      <description>Vulnerable Product: Docker; CVE(s): None; Summary: The article discusses a cryptojacking campaign that targets publicly accessible DevOps web servers, including those associated with Docker. Attackers exploit known misconfigurations and vulnerabilities to deliver the miner payload.
+
+FYSA: Threat actors are targeting misconfigured Docker API instances to enlist them in a cryptocurrency mining botnet. The campaign is also exploiting misconfigurations in Gitea, HashiCorp Consul, and Nomad servers to illicitly mine cryptocurrencies.
+
+FYSA: There is no cybersecurity relevance in this article.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html</guid>
+      <pubDate>Mon, 02 Jun 2025 16:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preinstalled Apps on Ulefone, Krüger&amp;Matz Phones Let Any App Reset Device, Steal PIN</title>
+      <link>https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html</link>
+      <description>Vulnerable Product: Ulefone, Krüger&amp;Matz; CVE(s): CVE-2024-13915, CVE-2024-13916, CVE-2024-13917; Summary: Three vulnerabilities in preloaded Android applications on Ulefone and Krüger&amp;Matz smartphones allow any installed app to perform a factory reset or encrypt another app. The flaws expose services and methods that can be exploited by malicious apps, potentially leading to data exfiltration or system-level privileges.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html</guid>
+      <pubDate>Mon, 02 Jun 2025 15:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>Preinstalled Android Apps Found Leaking PINs and Executing Malicious Commands</title>
       <link>https://gbhackers.com/preinstalled-android-apps-found-leaking/</link>
@@ -1407,27 +1434,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>A third-party customer service provider of Adidas was compromised by cybercriminals, exposing contact information of customers who interacted with the help desk. The breach did not involve sensitive information such as passwords or payment details, but may have exposed names, email addresses, phone numbers, and possibly home addresses and birthdates.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138743</guid>
       <pubDate>Tue, 27 May 2025 10:47:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple Vulnerabilities in Hardy Barth EV Station Allow Unauthenticated Network Access</title>
-      <link>https://gbhackers.com/vulnerabilities-hardy-barth-ev-station/</link>
-      <description>Vulnerable Product: Hardy Barth eCharge Hardy Barth cPH2 and cPP2 charging stations; CVE(s): CVE-2025-27803, CVE-2025-27804, CVE-2025-48413, CVE-2025-48414, CVE-2025-48415, CVE-2025-48416, CVE-2025-48417; Summary: The eCharge Hardy Barth cPH2 and cPP2 charging stations have been found to have several critical security flaws, including missing authentication, OS command injection, hard-coded OS backdoor user, undocumented web interface credentials, USB backdoor, SSH backdoor, and hard-coded TLS certificates. These vulnerabilities can be exploited to compromise the system, exfiltrate sensitive data, disrupt charging operations, and launch man-in-the-middle attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138742</guid>
-      <pubDate>Tue, 27 May 2025 10:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Silver RAT Malware Employs New Anti-Virus Bypass Techniques to Execute Malicious Activities</title>
-      <link>https://gbhackers.com/silver-rat-malware-employs-new-anti-virus-bypass-techniques/</link>
-      <description>The article discusses a newly identified malware strain called Silver RAT, which is a remote access trojan (RAT) that leverages anti-virus bypass techniques to evade detection and compromise Windows-based systems. It uses process hollowing, dynamic API resolution, and obfuscated code execution to remain undetected, making it difficult for security tools to detect its behavior.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138753</guid>
-      <pubDate>Tue, 27 May 2025 10:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover macOS ‘AppleProcessHub’ Stealer: TTPs and C2 Server Details Revealed</title>
-      <link>https://gbhackers.com/researchers-uncover-macos-appleprocesshub-stealer/</link>
-      <description>AppleProcessHub malware has been identified as an information-stealing malware designed to infiltrate Apple systems and exfiltrate sensitive user data. The malware employs advanced tactics, techniques, and procedures (TTPs) to evade detection and establish persistent communication with command-and-control (C2) servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138692</guid>
-      <pubDate>Tue, 27 May 2025 10:04:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
