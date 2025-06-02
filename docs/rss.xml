@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 19:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 20:01:54 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Leverage ClickFix Technique to Deploy EddieStealer Malware</title>
+      <link>https://gbhackers.com/threat-actors-leverage-clickfix-technique/</link>
+      <description>A sophisticated malware campaign using deceptive CAPTCHA interfaces to distribute EddieStealer, a Rust-based information stealing malware that targets sensitive user data across multiple platforms. The campaign employs social engineering tactics and exploits user trust in common web security features.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140061</guid>
+      <pubDate>Mon, 02 Jun 2025 19:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stealth Syscall Technique Allows Hackers to Evade Event Tracing and EDR Detection</title>
       <link>https://gbhackers.com/stealth-syscall-technique-allows-hackers/</link>
@@ -111,6 +118,13 @@ FYSA: There is no cybersecurity relevance in this article.</description>
       <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The May 2025 security update (KB5058405) causes some Windows 11 systems to enter recovery mode and fail to start, resulting in a 0xc0000098 recovery error. This issue affects Windows 11 22H2/23H2 systems in enterprise environments, mainly impacting Azure Virtual Machines, Azure Virtual Desktop, and on-premises virtual machines hosted on Citrix or Hyper-V.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/</guid>
       <pubDate>Mon, 02 Jun 2025 12:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Five Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/02/cisa-adds-five-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: CISA KEV Catalog; CVE(s): CVE-2021-32030, CVE-2023-39780, CVE-2024-56145, CVE-2025-3935, CVE-2025-35939; Summary: Five new vulnerabilities have been added to the Known Exploited Vulnerabilities (KEV) Catalog, including ones affecting ASUS routers and Craft CMS, due to evidence of active exploitation. These vulnerabilities pose significant risks to the federal enterprise and require timely remediation to protect against cyberattacks.</description>
+      <guid isPermaLink="false">/node/23448</guid>
+      <pubDate>Mon, 02 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Haozi’s Plug-and-Play Phishing Attack Steals Over $280,000 From Users</title>
@@ -1420,20 +1434,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>A Russia-affiliated threat actor known as Void Blizzard (aka Laundry Bear) has been attributed to "worldwide cloud abuse" since at least April 2024. The group targets organizations important to Russian government objectives, including those in government, defense, transportation, media, NGOs, and healthcare sectors in Europe and North America.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html</guid>
       <pubDate>Tue, 27 May 2025 11:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Rise of Drive-By Downloads: How to Stay Protected</title>
-      <link>https://socradar.io/the-rise-of-drive-by-downloads-how-to-stay-protected/</link>
-      <description>Drive-by downloads are a type of cyber attack that installs harmful software on a device without the user's knowledge or permission. The attack takes advantage of vulnerabilities within old browsers, plugins, or trusted sites and can install malware payloads quickly and silently.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060321</guid>
-      <pubDate>Tue, 27 May 2025 11:49:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla Quickly Fixes Firefox Vulnerabilities from Pwn2Own 2025 with Urgent Patches</title>
-      <link>https://gbhackers.com/mozilla-quickly-fixes-firefox-vulnerabilities/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two zero-day exploits were demonstrated against Mozilla Firefox's content process at Pwn2OwnBerlin, targeting the browser's JavaScript engine. The vulnerabilities allowed out-of-bounds memory access and raised the risk of remote code execution and sensitive data exposure. However, neither exploit succeeded in escaping Firefox's sandbox, a critical security boundary designed to prevent attackers from gaining full control over the user's system.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138744</guid>
-      <pubDate>Tue, 27 May 2025 11:33:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
