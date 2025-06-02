@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 14:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 15:01:12 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>‘Russian Market’ emerges as a go-to shop for stolen credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/</link>
+      <description>The article discusses the Russian Market, a popular platform for buying and selling credentials stolen by information stealer malware. It highlights the surge in popularity of this market and the rise of new info-stealers such as Acreed, which is rapidly gaining traction following the takedown of Lumma.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/</guid>
+      <pubDate>Mon, 02 Jun 2025 14:28:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM DataStage Bug Exposes Database Credentials in Plain Tex</title>
+      <link>https://gbhackers.com/ibm-datastage-bug/</link>
+      <description>Vulnerable Product: IBM InfoSphere DataStage; CVE(s): CVE-2025-1499; Summary: The vulnerability allows for the storage of sensitive credential information in cleartext, exposing database authentication details to authenticated users. This can lead to a high confidentiality risk and potential unauthorized access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140084</guid>
+      <pubDate>Mon, 02 Jun 2025 14:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>Critical MediaTek Flaws Allow Hackers to Gain Elevated Access with No User Input</title>
       <link>https://gbhackers.com/mediatek-flaws/</link>
@@ -1414,20 +1428,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Threat hunters have exposed a novel campaign that uses search engine optimization (SEO) poisoning techniques to target employee mobile devices and facilitate payroll fraud. The attackers use fake login pages to access the employee payroll portal and redirect paychecks into accounts under their control, exploiting weaknesses in home office routers and mobile networks to mask their traffic.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html</guid>
       <pubDate>Tue, 27 May 2025 09:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Server emergency update fixes Hyper-V VM freezes, restart issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The article discusses an emergency update from Microsoft to address a known issue causing some Hyper-V virtual machines with Windows Server 2022 to freeze or restart unexpectedly, mainly affecting Azure confidential VMs. The issue is fixed by the KB5061906 cumulative update for Windows Server 2022.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/</guid>
-      <pubDate>Tue, 27 May 2025 09:25:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red Hat and AMD Team Up to Boost AI Processing Power and Performance</title>
-      <link>https://gbhackers.com/red-hat-and-amd-team-up-to-boost-ai/</link>
-      <description>This article is about a strategic collaboration between Red Hat and AMD to revolutionize artificial intelligence (AI) workloads. The partnership aims to simplify access to validated GPU Operators for enterprise users by integrating AMD Instinct GPUs within Red Hat OpenShift AI, a Kubernetes-based platform for building and scaling AI/ML models.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138682</guid>
-      <pubDate>Tue, 27 May 2025 09:11:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
