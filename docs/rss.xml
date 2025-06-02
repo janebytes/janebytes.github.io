@@ -6,8 +6,73 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 22:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 10:05:12 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Critical Denodo Scheduler Flaw Allows Remote Code Execution by Attackers</title>
+      <link>https://gbhackers.com/critical-denodo-scheduler-flaw/</link>
+      <description>Vulnerable Product: Denodo; CVE(s): CVE-2025-26147; Summary: The Denodo Scheduler product allows authenticated users to perform remote code execution (RCE) by manipulating the filename parameter in a multipart form data POST request. This vulnerability arises from the ability to write arbitrary files on the server's filesystem, allowing attackers to escalate to RCE.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139947</guid>
+      <pubDate>Mon, 02 Jun 2025 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Alleged Breaches: Bank Banten Customer Data, Deloitte Source Code, and TotalEnergies France</title>
+      <link>https://socradar.io/bank-banten-deloitte-source-code-totalenergies-france/</link>
+      <description>Multiple high-profile incidents have been tracked on the Dark Web, including posts advertising stolen data from Bank Banten, a source code leak allegedly tied to Deloitte's U.S. consulting division, and the sale of a massive dataset allegedly linked to TotalEnergies France. Additionally, a threat actor is recruiting marketing partners for aggressive bulk messaging campaigns, reflecting the increasingly professionalized and targeted nature of underground cybercrime operations.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060652</guid>
+      <pubDate>Mon, 02 Jun 2025 09:41:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Exploits Detected Targeting Critical vBulletin Vulnerability</title>
+      <link>https://gbhackers.com/active-exploits-detected-targeting-critical-vbulletin-vulnerability/</link>
+      <description>Vulnerable Product: vBulletin; CVE(s): CVE-2025-48827, CVE-2025-48828; Summary: Two critical vulnerabilities in vBulletin versions 5.0.0 to 6.0.3 allow unauthenticated attackers to achieve Remote Code Execution (RCE), putting thousands of online communities at risk. The flaws stem from architectural oversights and changes in PHP 8.1's handling of method visibility, enabling attackers to invoke protected and private methods via Reflection API. Successful exploitation grants attackers full control over the server, potentially leading to data theft, defacement, or further compromise of connected systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139928</guid>
+      <pubDate>Mon, 02 Jun 2025 08:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Roundcube Flaw Allows Remote Code Execution by Attackers</title>
+      <link>https://gbhackers.com/critical-roundcube-flaw/</link>
+      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2024-2961; Summary: A critical post-authentication remote code execution (RCE) vulnerability in Roundcube Webmail 1.6 and 1.5 LTS versions allows attackers with valid credentials to execute arbitrary PHP code on the server, posing significant risks to data integrity and server control.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139927</guid>
+      <pubDate>Mon, 02 Jun 2025 08:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Study Reveals Vulnerable Code Pattern Putting GitHub Projects at Risk of Path Traversal Attacks</title>
+      <link>https://gbhackers.com/new-study-reveals-vulnerable-code-pattern-putting-github-projects/</link>
+      <description>Vulnerable Product: Node.js; CVE(s): None; Summary: A widespread path traversal vulnerability (CWE-22) affects 1,756 open-source GitHub projects due to a commonly used Node.js code pattern for creating static HTTP file servers. Attackers can access files outside of restricted locations, compromising confidentiality and availability.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139916</guid>
+      <pubDate>Mon, 02 Jun 2025 08:21:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Severe Vulnerabilities in Consilium CS5000 Fire Panels Allow Remote System Takeover</title>
+      <link>https://gbhackers.com/vulnerabilities-in-consilium-cs5000/</link>
+      <description>Vulnerable Product: Consilium Safety CS5000 Fire Panel; CVE(s): CVE-2025-41438, CVE-2025-46352; Summary: Two severe vulnerabilities have been disclosed in the CS5000 Fire Panel, allowing remote attackers to gain high-level access and potentially render fire panels non-functional. The first vulnerability stems from a default high-privilege account with unchanged credentials, while the second involves a hard-coded password embedded within the VNC server binary. Both flaws are critical, with CVSS scores of 9.8 and 9.3 respectively, reflecting their ease of exploitation and severe potential impact.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139873</guid>
+      <pubDate>Mon, 02 Jun 2025 07:42:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>MITRE Releases Roadmap for Transition to Post-Quantum Cryptography</title>
+      <link>https://gbhackers.com/mitre-releases-roadmap-for-transition/</link>
+      <description>The article discusses a comprehensive roadmap from MITRE, guiding organizations through the transition from current cryptographic standards to quantum-resistant algorithms. The framework addresses the emerging threat of quantum computing and emphasizes the urgency of transitioning to post-quantum cryptographic standards before the advent of cryptographically relevant quantum computers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139887</guid>
+      <pubDate>Mon, 02 Jun 2025 07:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Linux Security Bugs Could Expose Password Hashes Across Millions of Devices</title>
+      <link>https://gbhackers.com/new-linux-security-bugs/</link>
+      <description>Vulnerable Product: Apport (Ubuntu) and systemd-coredump; CVE(s): CVE-2025-5054, CVE-2025-4598; Summary: Two local information disclosure vulnerabilities were disclosed, impacting the core-dump handlers Apport and systemd-coredump on millions of Linux systems. The vulnerabilities allow attackers to extract sensitive data, including password hashes, by manipulating crash reporting mechanisms in popular distributions like Ubuntu, RHEL, and Fedora.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139872</guid>
+      <pubDate>Mon, 02 Jun 2025 06:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake Recruiter Emails Target CFOs Using Legit NetBird Tool Across 6 Global Regions</title>
+      <link>https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html</link>
+      <description>This article reports on a spear-phishing campaign using the legitimate remote access tool Netbird to target financial executives. The attack involves a multi-stage phishing operation, including CAPTCHA verification and VBScript payloads.
+
+FYSA: A new spear-phishing campaign has been detected, targeting Chief Financial Officers (CFOs) and financial executives at banks, energy companies, insurers, and investment firms across Europe, Africa, Canada, the Middle East, and South Asia. The attackers use a legitimate remote access tool called Netbird to establish persistence and evade detection.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html</guid>
+      <pubDate>Mon, 02 Jun 2025 05:51:00 +0000</pubDate>
+    </item>
     <item>
       <title>Exploit details for max severity Cisco IOS XE flaw now public</title>
       <link>https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/</link>
@@ -1354,71 +1419,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>The article discusses the beta feature "Deep Research Connectors" in ChatGPT, which allows users to access and analyze live data from third-party applications such as Dropbox, Microsoft OneDrive, GitHub, Microsoft SharePoint, and Box directly within ChatGPT's interface. This integration aims to streamline workflows by embedding search and analysis functionalities into a single platform, while adhering to strict privacy protocols and offering varying levels of access based on subscription plans.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138509</guid>
       <pubDate>Mon, 26 May 2025 17:45:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI Issues on Silent Ransom Group Using Fake IT Support Calls to Target Victims</title>
-      <link>https://gbhackers.com/fbi-issues-on-silent-ransom-group/</link>
-      <description>The Silent Ransom Group (SRG) has shifted its tactics to impersonate IT department employees through unsolicited phone calls to trick individuals into granting remote access to their systems. SRG targets organizations across multiple sectors, including medical and insurance industries, using socially engineered phishing schemes to install remote access software and steal sensitive information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138497</guid>
-      <pubDate>Mon, 26 May 2025 17:41:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake DigiYatra Apps Target Indian Users to Steal Financial Data</title>
-      <link>https://gbhackers.com/fake-digiyatra-apps-target-indian-users/</link>
-      <description>Threat actors have been exploiting India's digital public infrastructure by setting up a deceptive phishing site, digiyatra[.]in, impersonating the DigiYatra Foundation. The site is designed to harvest personal user data and has been flagged by ThreatWatch360 as a potential threat to unauthorized data collection, public deception, and reputational damage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138533</guid>
-      <pubDate>Mon, 26 May 2025 17:36:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Katz Stealer Targets Chrome, Edge, Brave, and Firefox to Steal Login Credentials</title>
-      <link>https://gbhackers.com/katz-stealer-targets-chrome-edge-brave-and-firefox/</link>
-      <description>Vulnerable Product: Katz Stealer; CVE(s): None; Summary: Katz Stealer is a credential-stealing malware-as-a-service that targets popular web browsers, cryptocurrency wallets, communication platforms, email clients, and gaming platforms. It conducts extensive system reconnaissance and data theft by extracting saved passwords, cookies, and session tokens, and employs advanced evasion mechanisms to avoid detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138480</guid>
-      <pubDate>Mon, 26 May 2025 17:33:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>60 Malicious npm Packages Exfiltrate Hostnames, IP Addresses, and DNS Server Details</title>
-      <link>https://gbhackers.com/60-malicious-npm-packages/</link>
-      <description>Vulnerable Product: Multiple malicious packages in the npm registry; CVE(s): None; Summary: A threat actor has published 60 malicious packages in the npm registry, which embed a covert script that gathers sensitive system data during the npm install process. The harvested data is exfiltrated to a Discord webhook, enabling real-time tracking of infected systems across Windows, macOS, and Linux environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138445</guid>
-      <pubDate>Mon, 26 May 2025 17:27:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Deploy Database Client Tools on Targeted Systems to Exfiltrate Sensitive Data</title>
-      <link>https://gbhackers.com/threat-actors-deploy-database-client-tools/</link>
-      <description>Vulnerable Product: Various; CVE(s): None; Summary: Cybersecurity experts have observed an increase in data breaches where threat actors are using legitimate database client tools such as DBeaver, Navicat, and sqlcmd to steal sensitive information. These tools, often used by administrators for database management, blend into normal system operations, making detection challenging.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138406</guid>
-      <pubDate>Mon, 26 May 2025 17:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto</title>
-      <link>https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html</link>
-      <description>Vulnerable Product: npm packages; CVE(s): None; Summary: As many as 60 malicious npm packages have been discovered, including 20 packages under three different accounts. The packages install with an executable script that targets Windows, macOS, or Linux systems and includes basic sandbox-evasion checks. The harvested information is transmitted to a Discord webhook, enabling a threat actor to chart the network and identify high-value targets.
-
-FYSA: Threat actors have been discovered abusing open-source repositories for malware distribution, including malicious npm packages, Microsoft's Visual Studio Code (VS Code) Marketplace, and GitHub. The threats include supply chain attacks at scale, phishing campaigns, and cryptocurrency wallet credential theft.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html</guid>
-      <pubDate>Mon, 26 May 2025 14:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SharpSuccessor PoC Released to Weaponize Windows Server 2025 BadSuccessor Flaw</title>
-      <link>https://gbhackers.com/sharpsuccessor-poc-released/</link>
-      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): CVE-2025-XXXX; Summary: A privilege escalation vulnerability in the delegated Managed Service Account (dMSA) feature allows attackers to compromise Active Directory domains using tools like SharpSuccessor. The attack chain exploits default configurations and improper validation of the msDS-ManagedAccountPrecededByLink attribute during dMSA migration, enabling attackers to create a malicious dMSA object, manipulate Kerberos tickets, and gain Domain Admin privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138544</guid>
-      <pubDate>Mon, 26 May 2025 13:14:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle TNS Flaw Exposes System Memory to Unauthorized Access</title>
-      <link>https://gbhackers.com/oracle-tns-flaw-exposes-system-memory-to-unauthorized-access/</link>
-      <description>Vulnerable Product: Oracle; CVE(s): CVE-2025-30733; Summary: The vulnerability allows unauthenticated remote attackers to access sensitive system memory, including environment variables and connection data, by exploiting a memory leak in the Oracle Database Server's RDBMS Listener. The flaw affects Oracle Database Server versions 19.3–19.26, 21.3–21.17, and 23.4–23.7, with a CVSS 3.1 Base Score of 6.5, indicating a medium severity risk.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138521</guid>
-      <pubDate>Mon, 26 May 2025 12:51:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google claims users find ads in AI search 'helpful'</title>
-      <link>https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/</link>
-      <description>The article discusses Google's introduction of ads in their AI mode and AI Overviews, claiming that users find them helpful. However, critics argue that ads can be misleading or disrupt the flow of content.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/</guid>
-      <pubDate>Mon, 26 May 2025 12:45:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
