@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 10:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 11:01:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CISO Roles Take on Strategic Security Leadership Roles Beyond Cybersecurity as Organizations</title>
+      <link>https://gbhackers.com/ciso-roles-take-on-strategic-security-leadership-roles/</link>
+      <description>The article discusses the evolution of Chief Information Security Officers (CISOs) roles, revealing a fundamental transformation in cybersecurity leadership. CISOs are increasingly assuming strategic business responsibilities that extend beyond traditional information security functions, encompassing enterprise risk management, digital transformation, and broader organizational security functions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139962</guid>
+      <pubDate>Mon, 02 Jun 2025 10:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 50,000 Azure AD Users’ Access Tokens Exposed via Unauthenticated API Endpoint</title>
+      <link>https://gbhackers.com/over-50000-azure-ad-users-access-tokens-exposed/</link>
+      <description>Vulnerable Product: Unknown; CVE(s): None; Summary: A critical security vulnerability was discovered through CloudSEK's BeVigil platform, allowing unauthorized access to Microsoft Graph tokens with elevated privileges, exposing sensitive data of over 50,000 Azure Active Directory users. The vulnerability was caused by an exposed JavaScript file containing an unauthenticated API endpoint and could grant comprehensive access to user profile information and critical identity governance data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139950</guid>
+      <pubDate>Mon, 02 Jun 2025 10:28:34 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Denodo Scheduler Flaw Allows Remote Code Execution by Attackers</title>
       <link>https://gbhackers.com/critical-denodo-scheduler-flaw/</link>
@@ -1405,20 +1419,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Vulnerable Product: MeteoBridge; CVE(s): CVE-2025-4008; Summary: The MeteoBridge firmware has a severe command injection vulnerability (CVE-2025-4008) in versions 6.1 and below, allowing remote, unauthenticated attackers to execute arbitrary commands with root privileges. The vulnerability resides in the CGI shell script accessible at /cgi-bin/template.cgi, which processes user input without proper sanitization, making it vulnerable to command injection attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138552</guid>
       <pubDate>Mon, 26 May 2025 17:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Reportedly Selling Over 500 Stolen Crypto Databases on Dark-Web Forums</title>
-      <link>https://gbhackers.com/hackers-reportedly-selling-over-500-stolen-crypto-databases/</link>
-      <description>A threat actor is allegedly selling a ZIP archive containing over 500 compromised databases related to cryptocurrency platforms. The leaked data reportedly includes user information, wallet details, balances, transaction histories, and email addresses connected to the accounts. This breach highlights the need for enhanced security measures in the crypto industry.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138561</guid>
-      <pubDate>Mon, 26 May 2025 17:53:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Deep Research Now Integrates with Dropbox and OneDrive to Retrieve Data</title>
-      <link>https://gbhackers.com/chatgpt-deep-research-now-integrates-with-dropbox-and-onedrive/</link>
-      <description>The article discusses the beta feature "Deep Research Connectors" in ChatGPT, which allows users to access and analyze live data from third-party applications such as Dropbox, Microsoft OneDrive, GitHub, Microsoft SharePoint, and Box directly within ChatGPT's interface. This integration aims to streamline workflows by embedding search and analysis functionalities into a single platform, while adhering to strict privacy protocols and offering varying levels of access based on subscription plans.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138509</guid>
-      <pubDate>Mon, 26 May 2025 17:45:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
