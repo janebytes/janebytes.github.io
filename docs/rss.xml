@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 13:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 14:01:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Critical MediaTek Flaws Allow Hackers to Gain Elevated Access with No User Input</title>
+      <link>https://gbhackers.com/mediatek-flaws/</link>
+      <description>Vulnerable Product: MediaTek; CVE(s): CVE-2025-20672, CVE-2025-20673 through CVE-2025-20678; Summary: A range of MediaTek chipsets used in various devices are affected by several security vulnerabilities, including elevation of privilege, denial of service, heap overflow, NULL pointer dereference, incorrect authorization, and uncontrolled recursion. The high-severity vulnerability is CVE-2025-20672, while the medium-severity vulnerabilities are CVE-2025-20673 through CVE-2025-20678.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140045</guid>
+      <pubDate>Mon, 02 Jun 2025 13:38:05 +0000</pubDate>
+    </item>
     <item>
       <title>Realtek Bluetooth Driver Flaw Allows Attackers to Delete Any File on Windows Systems</title>
       <link>https://gbhackers.com/realtek-bluetooth-driver-flaw/</link>
@@ -1421,13 +1428,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>This article is about a strategic collaboration between Red Hat and AMD to revolutionize artificial intelligence (AI) workloads. The partnership aims to simplify access to validated GPU Operators for enterprise users by integrating AMD Instinct GPUs within Red Hat OpenShift AI, a Kubernetes-based platform for building and scaling AI/ML models.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138682</guid>
       <pubDate>Tue, 27 May 2025 09:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android Malware GhostSpy Grants Attackers Full Control Over Infected Devices</title>
-      <link>https://gbhackers.com/new-android-malware-ghostspy-grants-attackers/</link>
-      <description>GhostSpy is a high-risk Android malware that employs advanced evasion, persistence, and surveillance techniques to seize control over infected devices. It has capabilities such as keylogging, bypassing banking app protections, screen capture, audio/video recording, GPS tracking, SMS interception, and unauthorized financial transactions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138665</guid>
-      <pubDate>Tue, 27 May 2025 08:32:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
