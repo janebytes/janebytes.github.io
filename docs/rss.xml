@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 11:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 12:03:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Haozi’s Plug-and-Play Phishing Attack Steals Over $280,000 From Users</title>
+      <link>https://gbhackers.com/haozis-plug-and-play-phishing-attack/</link>
+      <description>Netcraft security researchers have identified a significant resurgence of the Chinese-language Haozi Phishing-as-a-Service (PhaaS) operation, characterized by its cartoon mouse mascot and user-friendly toolkit. This platform has eliminated technical barriers, allowing virtually anyone to deploy sophisticated phishing campaigns without requiring technical expertise. The operation's design prioritizes usability and automation, transforming complex phishing campaigns into point-and-click operations accessible to even the most technically inexperienced attackers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140028</guid>
+      <pubDate>Mon, 02 Jun 2025 11:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New PyPI Supply Chain Attacks Target Python and NPM Users on Windows and Linux</title>
+      <link>https://gbhackers.com/new-pypi-supply-chain-attacks-target-python-and-npm-users/</link>
+      <description>Vulnerable Product: PyPI and NPM; CVE(s): None; Summary: A malicious package campaign targeting Python and NPM users was discovered, exploiting typo-squatting and name-confusion attacks against popular packages. The attack involves uploading malicious packages with names designed to confuse developers into accidental installation through typographic errors, resulting in sensitive data exfiltration, remote access establishment, and comprehensive persistence mechanisms on both Windows and Linux platforms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140018</guid>
+      <pubDate>Mon, 02 Jun 2025 11:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Weaponize Free SSH Client PuTTY to Deliver Malware on Windows</title>
+      <link>https://gbhackers.com/weaponize-free-ssh-client-putty/</link>
+      <description>Vulnerable Product: OpenSSH; CVE(s): None; Summary: The article discusses a malware sample that uses OpenSSH as a "Living Off the Land Binary" (LOLBIN) to establish persistent access. The malware creates a custom SSH configuration file and uses it to connect to an attacker's Command and Control (C2) server, with the goal of enabling port forwarding and remote access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=139948</guid>
+      <pubDate>Mon, 02 Jun 2025 11:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm fixes three Adreno GPU zero-days exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/</link>
+      <description>Vulnerable Product: Qualcomm Adreno Graphics Processing Unit (GPU) driver; CVE(s): CVE-2025-21479, CVE-2025-21480, CVE-2025-27038; Summary: The Adreno GPU driver has three zero-day vulnerabilities that are actively exploited in targeted attacks. Two flaws are graphics framework incorrect authorization weaknesses leading to memory corruption, and one is a use-after-free causing memory corruption while rendering graphics using the Adreno GPU drivers in Chrome.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/</guid>
+      <pubDate>Mon, 02 Jun 2025 11:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats</title>
+      <link>https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html</link>
+      <description>The article discusses the importance of network detection and response (NDR) in various industries, including financial services, energy, transportation, and government. It highlights how NDR can provide valuable insights into network activity, detect anomalous behavior, and identify threat actors' tactics, techniques, and procedures (TTPs).</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html</guid>
+      <pubDate>Mon, 02 Jun 2025 10:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>CISO Roles Take on Strategic Security Leadership Roles Beyond Cybersecurity as Organizations</title>
       <link>https://gbhackers.com/ciso-roles-take-on-strategic-security-leadership-roles/</link>
@@ -1384,41 +1419,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Vulnerable Product: Multiple web infrastructure products; CVE(s): None; Summary: A study by Tsinghua University and Zhongguancun Laboratory has discovered critical vulnerabilities in modern web infrastructure related to HTTP/2 serverpush and Signed HTTP Exchange (SXG) features. These vulnerabilities can be exploited to bypass the Same-Origin Policy, allowing attackers to push malicious resources that are treated as legitimate by the browser.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138640</guid>
       <pubDate>Tue, 27 May 2025 07:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth’s Stealth Phishing Campaign</title>
-      <link>https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html</link>
-      <description>The FBI has warned of social engineering attacks by criminal extortion actor Luna Moth targeting law firms over two years, using IT-themed calls and callback phishing emails to gain remote access to systems or steal sensitive data. The attackers have shifted tactics, now posing as employees from the company's IT department to gain access to devices.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html</guid>
-      <pubDate>Tue, 27 May 2025 07:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical GitHub MCP Server Vulnerability Allows Unauthorized Access to Private Repositories</title>
-      <link>https://gbhackers.com/critical-github-mcp-server-vulnerability/</link>
-      <description>Vulnerable Product: GitHub MCP integration; CVE(s): None; Summary: A critical vulnerability in the GitHub MCP integration allows attackers to manipulate a user's agent via a malicious GitHub Issue, coercing it into leaking sensitive information from private repositories. The exploit occurs when an attacker crafts a malicious issue in a user's public repository, embedding a prompt injection payload that triggers a toxic agent flow and exposes private data through autonomously created pull requests.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138619</guid>
-      <pubDate>Tue, 27 May 2025 06:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents</title>
-      <link>https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html</link>
-      <description>This article describes a spear-phishing campaign conducted by the Russia-aligned threat actor TAG-110 targeting Tajikistan using macro-enabled Word templates as an initial payload. The attack chain is a departure from the threat actor's previously documented use of an HTML Application (.HTA) loader dubbed HATVIBE, and the goal is likely to gather intelligence for influencing regional politics or security.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html</guid>
-      <pubDate>Tue, 27 May 2025 06:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Google Meet Pages Are Exploited to Deliver PowerShell Malware</title>
-      <link>https://gbhackers.com/how-google-meet-exploited/</link>
-      <description>A new wave of cyberattacks, dubbed ClickFix, exploits user trust in Google Meet by deploying fake meeting pages that trick victims into running malicious PowerShell commands. The attack bypasses traditional security measures and targets Windows and macOS systems, ultimately leading to the download and execution of a remote access trojan (RAT).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138622</guid>
-      <pubDate>Tue, 27 May 2025 06:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meteobridge Web Interface Vulnerability Let Attackers Inject Commands Remotely</title>
-      <link>https://gbhackers.com/meteobridge-web-interface-vulnerability/</link>
-      <description>Vulnerable Product: MeteoBridge; CVE(s): CVE-2025-4008; Summary: The MeteoBridge firmware has a severe command injection vulnerability (CVE-2025-4008) in versions 6.1 and below, allowing remote, unauthenticated attackers to execute arbitrary commands with root privileges. The vulnerability resides in the CGI shell script accessible at /cgi-bin/template.cgi, which processes user input without proper sanitization, making it vulnerable to command injection attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138552</guid>
-      <pubDate>Mon, 26 May 2025 17:55:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
