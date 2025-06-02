@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 18:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 19:02:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Stealth Syscall Technique Allows Hackers to Evade Event Tracing and EDR Detection</title>
+      <link>https://gbhackers.com/stealth-syscall-technique-allows-hackers/</link>
+      <description>Advanced threat actors have developed sophisticated stealth syscall execution techniques to bypass modern security infrastructure, including Event Tracing for Windows (ETW), Sysmon monitoring, and Endpoint Detection and Response (EDR) systems. These techniques combine multiple evasion methods such as call stack spoofing, ETW API hooking, and encrypted syscall execution to render traditional detection mechanisms ineffective.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140077</guid>
+      <pubDate>Mon, 02 Jun 2025 18:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>SentinelOne: Last week’s 7-hour outage caused by software flaw</title>
+      <link>https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/</link>
+      <description>SentinelOne's software flaw caused a seven-hour-long outage on Thursday, affecting multiple customer-facing services. The incident was not a security breach or cyberattack, but rather a software glitch that deleted critical network routes and DNS resolver rules, leading to service disruptions.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/</guid>
+      <pubDate>Mon, 02 Jun 2025 18:24:17 +0000</pubDate>
+    </item>
     <item>
       <title>Google Chrome to distrust Chunghwa Telecom, Netlock certificates in August</title>
       <link>https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/</link>
@@ -1420,20 +1434,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-4918, CVE-2025-4919; Summary: Two zero-day exploits were demonstrated against Mozilla Firefox's content process at Pwn2OwnBerlin, targeting the browser's JavaScript engine. The vulnerabilities allowed out-of-bounds memory access and raised the risk of remote code execution and sensitive data exposure. However, neither exploit succeeded in escaping Firefox's sandbox, a critical security boundary designed to prevent attackers from gaining full control over the user's system.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138744</guid>
       <pubDate>Tue, 27 May 2025 11:33:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Void Blizzard cyberspies linked to Dutch police breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/</link>
-      <description>The article discusses a Russian-backed cyberespionage group, Void Blizzard, which has been linked to a September 2024 Dutch police security breach. The attackers stole work-related contact information of multiple officers using a pass-the-cookie attack and infostealer malware.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/</guid>
-      <pubDate>Tue, 27 May 2025 11:16:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale</title>
-      <link>https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html</link>
-      <description>The article discusses the risks associated with the increasing use of Artificial Intelligence (AI) in enterprise environments. Non-human identities (NHIs), such as machine identities, service accounts, and AI agents, are overwhelming corporate clouds, making it difficult to manage secrets effectively. The article highlights five actionable controls to reduce AI-related NHI risk: auditing and cleaning up data sources, centralizing NHI management, preventing secrets leaks in LLM deployments, improving logging security, and restricting AI data access.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html</guid>
-      <pubDate>Tue, 27 May 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
