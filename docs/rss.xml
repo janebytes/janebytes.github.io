@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 15:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 16:01:17 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Preinstalled Android Apps Found Leaking PINs and Executing Malicious Commands</title>
+      <link>https://gbhackers.com/preinstalled-android-apps-found-leaking/</link>
+      <description>Vulnerable Product: Ulefone, Krüger&amp;Matz; CVE(s): CVE-2024-13915, CVE-2024-13916, CVE-2024-13917; Summary: Three security vulnerabilities affect preinstalled Android applications on smartphones from Ulefone and Krüger&amp;Matz, exposing users to risks such as unauthorized device resets, theft of sensitive PIN codes, and privilege escalation by malicious applications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140085</guid>
+      <pubDate>Mon, 02 Jun 2025 15:10:45 +0000</pubDate>
+    </item>
     <item>
       <title>‘Russian Market’ emerges as a go-to shop for stolen credentials</title>
       <link>https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/</link>
@@ -21,6 +28,13 @@
       <description>Vulnerable Product: IBM InfoSphere DataStage; CVE(s): CVE-2025-1499; Summary: The vulnerability allows for the storage of sensitive credential information in cleartext, exposing database authentication details to authenticated users. This can lead to a high confidentiality risk and potential unauthorized access.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140084</guid>
       <pubDate>Mon, 02 Jun 2025 14:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm Fixes 3 Zero-Days Used in Targeted Android Attacks via Adreno GPU</title>
+      <link>https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html</link>
+      <description>Vulnerable Product: Qualcomm Adreno GPU driver; CVE(s): CVE-2025-21479, CVE-2025-21480, CVE-2025-27038; Summary: The vulnerabilities in the Graphics component of the Adreno GPU driver can result in memory corruption due to unauthorized command execution or use-after-free vulnerability while rendering graphics. These flaws have been exploited in limited, targeted attacks and Qualcomm recommends deploying updates as soon as possible.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html</guid>
+      <pubDate>Mon, 02 Jun 2025 14:22:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical MediaTek Flaws Allow Hackers to Gain Elevated Access with No User Input</title>
@@ -1414,20 +1428,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>AppleProcessHub malware has been identified as an information-stealing malware designed to infiltrate Apple systems and exfiltrate sensitive user data. The malware employs advanced tactics, techniques, and procedures (TTPs) to evade detection and establish persistent communication with command-and-control (C2) servers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138692</guid>
       <pubDate>Tue, 27 May 2025 10:04:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>GIMP Image Editor Vulnerability Allows Remote Attackers to Execute Arbitrary Code</title>
-      <link>https://gbhackers.com/gimp-image-editor-vulnerability/</link>
-      <description>Vulnerable Product: GIMP; CVE(s): CVE-2025-2760, CVE-2025-2761; Summary: Two high-severity vulnerabilities (CVE-2025-2760 and CVE-2025-2761) were discovered in GIMP image editing software, allowing remote attackers to execute arbitrary code with user privileges. The vulnerabilities impact users who open malicious image files or visit compromised websites, and can lead to remote code execution, data exposure, malware installation, or persistent system compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138701</guid>
-      <pubDate>Tue, 27 May 2025 09:52:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers</title>
-      <link>https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html</link>
-      <description>Threat hunters have exposed a novel campaign that uses search engine optimization (SEO) poisoning techniques to target employee mobile devices and facilitate payroll fraud. The attackers use fake login pages to access the employee payroll portal and redirect paychecks into accounts under their control, exploiting weaknesses in home office routers and mobile networks to mask their traffic.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html</guid>
-      <pubDate>Tue, 27 May 2025 09:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
