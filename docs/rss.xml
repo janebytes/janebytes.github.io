@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 17:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 18:00:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google Chrome to distrust Chunghwa Telecom, Netlock certificates in August</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/</link>
+      <description>Vulnerable Product: Chunghwa Telecom and Netlock; CVE(s): None; Summary: The root CA certificates signed by Chunghwa Telecom and Netlock will no longer be trusted by Google Chrome starting August 1, 2025, due to ongoing compliance failures and lack of measurable progress. This change will display a "Your connection is not private" warning when users visit websites that continue to use these certificates, creating trust issues for visitors.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/</guid>
+      <pubDate>Mon, 02 Jun 2025 17:36:30 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft and CrowdStrike partner to link hacking group names</title>
       <link>https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/</link>
@@ -1427,13 +1434,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>The article discusses the risks associated with the increasing use of Artificial Intelligence (AI) in enterprise environments. Non-human identities (NHIs), such as machine identities, service accounts, and AI agents, are overwhelming corporate clouds, making it difficult to manage secrets effectively. The article highlights five actionable controls to reduce AI-related NHI risk: auditing and cleaning up data sources, centralizing NHI management, preventing secrets leaks in LLM deployments, improving logging security, and restricting AI data access.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html</guid>
       <pubDate>Tue, 27 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adidas Customer Information Compromised Through Third-Party Vendor</title>
-      <link>https://gbhackers.com/adidas-customer-information-compromised/</link>
-      <description>A third-party customer service provider of Adidas was compromised by cybercriminals, exposing contact information of customers who interacted with the help desk. The breach did not involve sensitive information such as passwords or payment details, but may have exposed names, email addresses, phone numbers, and possibly home addresses and birthdates.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138743</guid>
-      <pubDate>Tue, 27 May 2025 10:47:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
