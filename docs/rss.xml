@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 11:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 12:03:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Abuse AI Tool Misconfigurations to Execute Malicious AI-Generated Payloads</title>
+      <link>https://gbhackers.com/hackers-abuse-ai-tool-misconfigurations/</link>
+      <description>Vulnerable Product: Open WebUI; CVE(s): None; Summary: A misconfigured instance of Open WebUI, a self-hosted AI interface, was exploited by an attacker to inject malicious Python scripts, deploy cryptominers, and execute infostealer malware. The vulnerability allowed attackers to access the system with administrative privileges and no authentication, highlighting the critical need for robust runtime security and multi-layer threat detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140225</guid>
+      <pubDate>Tue, 03 Jun 2025 11:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Research Uncovers Strengths and Vulnerabilities in Cloud-Based LLM Guardrails</title>
+      <link>https://gbhackers.com/new-research-uncovers-strengths-and-vulnerabilities/</link>
+      <description>The article discusses the vulnerabilities inherent in cloud-based Large Language Model (LLM) guardrails, which are designed to mitigate risks such as data leakage and malicious exploitation. Researchers reveal that while these guardrails offer robust protection in certain scenarios, they can be bypassed by sophisticated attackers using techniques like encoded prompts or fragmented queries, and also highlight the importance of adaptive security frameworks to address emerging threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140198</guid>
+      <pubDate>Tue, 03 Jun 2025 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization</title>
+      <link>https://thehackernews.com/2025/06/scattered-spider-understanding-help.html</link>
+      <description>Scattered Spider threat group uses help desk scams as a reliable way to bypass MFA and achieve account takeover. They target accounts likely to have top-tier admin privileges, allowing them to launch further attacks such as stealing data or deploying ransomware. The group has been using this tactic since 2022 and has successfully attacked several high-profile targets, including UK retailers Marks &amp; Spencer and Co-op.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/scattered-spider-understanding-help.html</guid>
+      <pubDate>Tue, 03 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Exploit DevOps Web Server Misconfigurations to Deploy Malware</title>
       <link>https://gbhackers.com/threat-actors-exploit-devops-web-server-misconfigurations/</link>
@@ -1429,27 +1450,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Vulnerable Product: Craft CMS; CVE(s): CVE-2025-32432; Summary: A remote code execution flaw in Craft CMS allows an attacker to deploy payloads, including cryptocurrency miners and residential proxyware. The vulnerability was patched in versions 3.9.15, 4.14.15, and 5.6.17, but threat actors have exploited it to obtain unauthorized access and deploy malware.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html</guid>
       <pubDate>Wed, 28 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robinhood Ransomware Operator Arrested for Attacks on Government and Private Networks</title>
-      <link>https://gbhackers.com/robinhood-ransomware-operator-arrested/</link>
-      <description>Vulnerable Product: None; CVE(s): "None"; Summary: The article describes the Robbinhood ransomware campaign that targeted U.S. cities, corporations, and healthcare organizations from January 2019 to March 2024. The attackers used sophisticated evasion techniques, including exploiting a vulnerable Gigabyte driver (CVE-2018-19320), to disable endpoint security software at the kernel level.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138997</guid>
-      <pubDate>Wed, 28 May 2025 10:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Executive Guide on SIEM and SOAR Platforms for Rapid Threat Detection</title>
-      <link>https://gbhackers.com/cisa-releases-executive-guide/</link>
-      <description>This article discusses the importance of Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) platforms in organizational cybersecurity strategies. It highlights their benefits, including enhanced visibility, accelerated detection, and swift responses to threats, as well as the need for skilled personnel, ongoing tuning, and clear governance to ensure success.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138998</guid>
-      <pubDate>Wed, 28 May 2025 10:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple blocked over $9 billion in App Store fraud in five years</title>
-      <link>https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/</link>
-      <description>The article discusses Apple's efforts to prevent fraudulent activity on the App Store, including blocking transactions, rejecting malicious apps, and terminating developer accounts. It also highlights Apple's success in preventing suspicious transactions and removing fraudulent ratings and reviews from the App Store.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/</guid>
-      <pubDate>Wed, 28 May 2025 10:18:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
