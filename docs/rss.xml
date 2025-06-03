@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 14:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 15:04:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Top Russian Dark Web Market Tools Drive Surge in Credential Theft Attacks</title>
+      <link>https://gbhackers.com/top-russian-dark-web-market-tools/</link>
+      <description>Russian Market, a notorious automated vending platform, has solidified its position as the leading hub for stolen credentials, fueling a dramatic rise in credential theft attacks worldwide. The platform offers an inventory of over 5 million logs containing tens to hundreds of compromised credentials, providing cybercriminals with affordable and efficient means to breach accounts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140306</guid>
+      <pubDate>Tue, 03 Jun 2025 14:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla launches new system to detect Firefox crypto drainer add-ons</title>
+      <link>https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/</link>
+      <description>Mozilla has developed a new security feature for its add-on portal to block malicious extensions that drain cryptocurrency wallets. The feature creates risk profiles for each submitted wallet extension and triggers automated risk alerts if a pre-defined threshold is exceeded, prompting human reviewers to remove malicious extensions from the store.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/</guid>
+      <pubDate>Tue, 03 Jun 2025 14:29:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>State-Sponsored Groups Intensify Attacks on Manufacturing Sector and OT Systems</title>
+      <link>https://gbhackers.com/state-sponsored-groups-intensify-attacks/</link>
+      <description>A recent report by Forescout Technologies reveals a significant surge in active threat actors targeting the manufacturing sector, with 71% growth compared to the previous year. The report highlights the involvement of state-sponsored groups, cybercriminals, and hacktivist groups, as well as the exploitation of vulnerabilities in VPNs, remote access solutions, and file transfer applications, and the use of advanced evasion strategies such as living-off-the-land techniques and endpoint detection response (EDR) bypass tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140290</guid>
+      <pubDate>Tue, 03 Jun 2025 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Security Update Addresses High-Severity Privilege Escalation Flaws</title>
+      <link>https://gbhackers.com/android-security-update-addresses/</link>
+      <description>Vulnerable Product: Multiple Android devices; CVE(s): None listed; Summary: A series of high-severity vulnerabilities affecting a wide range of Android devices were disclosed in the June 2025 Android Security Bulletin. The most critical vulnerability is an escalation of privilege flaw in the System component, which could allow an attacker to gain elevated access with minimal user interaction and no additional execution privileges required.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140280</guid>
+      <pubDate>Tue, 03 Jun 2025 14:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider: Three things the news doesn’t tell you</title>
+      <link>https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/</link>
+      <description>Scattered Spider is a group of cybercriminals that has been linked to several high-profile attacks on UK retailers and other organizations. They use a range of identity-based tactics, techniques, and procedures (TTPs) to bypass multi-factor authentication (MFA) and achieve account takeover. The group's methods include help desk scams, SIM swapping, smishing, basic credential phishing, and Attacker-in-the-Middle (AiTM) phishing toolkits. They have been known to target accounts with elevated permissions and use their initial intrusions as a foothold for further attacks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/</guid>
+      <pubDate>Tue, 03 Jun 2025 14:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>Aembit Extends Workload IAM to Microsoft Ecosystem, Securing Hybrid Access for Non-Human Identities</title>
       <link>https://gbhackers.com/aembit-extends-workload-iam-to-microsoft-ecosystem-securing-hybrid-access-for-non-human-identities/</link>
@@ -44,6 +79,13 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Vulnerable Product: Apple iOS Activation Backend; CVE(s): None; Summary: A severe vulnerability in Apple's iOS activation infrastructure allows attackers to inject unauthenticated XML .plist payloads without verification or signature validation. This enables arbitrary provisioning changes and persistent configuration manipulation, exposing devices to tampering before they are fully activated.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140255</guid>
       <pubDate>Tue, 03 Jun 2025 13:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code</title>
+      <link>https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html</link>
+      <description>Vulnerable Product: Roundcube Webmail; CVE(s): CVE-2025-49113; Summary: The vulnerability is a post-authenticated remote code execution via PHP object deserialization, affecting all versions of Roundcube before and including 1.6.10. It has a CVSS score of 9.9 out of 10.0 and can be exploited to take over susceptible systems and execute arbitrary code.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html</guid>
+      <pubDate>Tue, 03 Jun 2025 13:01:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Alerts on ConnectWise ScreenConnect Authentication Vulnerability Actively Exploited</title>
@@ -1410,48 +1452,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Vulnerable Product: Citrix XenServer VM Tools for Windows; CVE(s): CVE-2025-27462, CVE-2025-27463, and CVE-2025-27464; Summary: The vulnerabilities allow attackers to execute arbitrary unprivileged code within a guest Windows VM and escalate privileges, potentially gaining SYSTEM-level access. Affected platforms include Windows VMs running on XenServer 8.4 and Citrix Hypervisor 8.2 CU1 LTSR, with all supported versions before 9.4.1 being vulnerable.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139115</guid>
       <pubDate>Wed, 28 May 2025 14:43:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Czechia blames China for Ministry of Foreign Affairs cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/</link>
-      <description>The article reveals that the Chinese-backed APT31 hacking group was behind cyberattacks targeting the Czech Republic's Ministry of Foreign Affairs and critical infrastructure organizations. This is part of a broader trend of malicious cyber activities linked to China, which has been condemned by the European Union and NATO allies.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/</guid>
-      <pubDate>Wed, 28 May 2025 14:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Weaponize Fake AI-Themed Websites to Deliver Python-based infostealers</title>
-      <link>https://gbhackers.com/threat-actors-weaponize-fake-ai-themed-websites/</link>
-      <description>A malicious campaign orchestrated by UNC6032 has been distributing malware targeting users through fake AI video generator websites and social media ads. The malware steals sensitive data, facilitates information theft, and exfiltrates it via Telegram API or TCP connections.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139006</guid>
-      <pubDate>Wed, 28 May 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zscaler to Acquire Red Canary, Enhancing AI-Powered Security Operations</title>
-      <link>https://gbhackers.com/zscaler-to-acquire-red-canary-enhancing-ai-powered-security-operations/</link>
-      <description>Zscaler, a cloud security company, is acquiring Red Canary, a Managed Detection and Response (MDR) provider. The combined entity aims to integrate AI-driven Zero Trust Exchange platform with Red Canary's advanced threat detection and response capabilities, transforming security operations by detecting, analyzing, and responding to cyber threats at unprecedented speed and accuracy.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139121</guid>
-      <pubDate>Wed, 28 May 2025 14:18:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>251 Malicious IPs Target Cloud-Based Device Exploiting 75 Exposure Points</title>
-      <link>https://gbhackers.com/251-malicious-ips/</link>
-      <description>Vulnerable Product: N/A; CVE(s): CVE-2018-15961, CVE-2017-5638, CVE-2015-1427, CVE-2022-26134, CVE-2014-6271; Summary: A coordinated scanning operation was detected by GreyNoise on May 8, targeting 75 known exposure points across the internet. The campaign exploited various technologies, including Adobe ColdFusion, Apache Struts, Elasticsearch, Atlassian Confluence, and Bash, using a mix of exploit attempts and reconnaissance activity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139112</guid>
-      <pubDate>Wed, 28 May 2025 14:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>DragonForce Exploits SimpleHelp Flaws in Targeted MSP Ransomware Attack</title>
-      <link>https://socradar.io/dragonforce-exploits-simplehelp-msp-ransomware/</link>
-      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57726 (CVSS 9.9), CVE-2024-57727 (CVSS 7.5), CVE-2024-57728 (CVSS 7.2); Summary: The vulnerability in SimpleHelp, a popular Remote Monitoring and Management tool, allowed attackers to exploit three severe vulnerabilities, including privilege escalation, path traversal, and arbitrary file upload flaws, which enabled the deployment of ransomware across multiple client environments.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060406</guid>
-      <pubDate>Wed, 28 May 2025 13:54:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File</title>
-      <link>https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html</link>
-      <description>Vulnerable Product: Microsoft OneDrive File Picker; CVE(s): None; Summary: The OneDrive File Picker has a security flaw that allows websites to access a user's entire cloud storage content if successfully exploited. This is due to overly broad OAuth scopes and misleading consent screens, which could lead to customer data leakage and violation of compliance regulations.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html</guid>
-      <pubDate>Wed, 28 May 2025 13:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
