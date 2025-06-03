@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 16:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 17:03:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Microsoft adds quick machine recovery to Windows 11 settings</title>
@@ -163,6 +163,34 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>This article discusses unexplained local port access issues with Meta Pixel (formerly Facebook Pixel) on Android devices. It highlights concerns around privacy violations and tracking of user activities by Meta and other companies, but does not identify a specific vulnerability or exploitation details.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/06/headline-to-come/</guid>
       <pubDate>Tue, 03 Jun 2025 12:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure Power Build Rapsody</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-153-02</link>
+      <description>Vulnerable Product: Schneider Electric EcoStruxure Power Build Rapsody; CVE(s): CVE-2025-3916; Summary: A stack-based buffer overflow vulnerability exists in Schneider Electric's EcoStruxure Power Build Rapsody, allowing local attackers to execute arbitrary code by opening a malicious project file (SSD file) provided by the attacker. Successful exploitation could lead to arbitrary code execution on the affected device.</description>
+      <guid isPermaLink="false">/node/23470</guid>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/03/cisa-releases-three-industrial-control-systems-advisories</link>
+      <description>CISA releases three Industrial Control Systems (ICS) advisories on June 3, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories relate to Schneider Electric Wiser Home Automation, Schneider Electric EcoStruxure Power Build Rapsody, and Mitsubishi Electric MELSEC iQ-F Series products.</description>
+      <guid isPermaLink="false">/node/23472</guid>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Wiser Home Automation</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-153-01</link>
+      <description>Vulnerable Product: Schneider Electric Wiser AvatarOn 6K Freelocate and Wiser Cuadro H 5P Socket; CVE(s): CVE-2023-4041; Summary: A buffer copy without checking size of input ("Classic Buffer Overflow") vulnerability allows an attacker to inject code or bypass authentication, affecting all versions of Wiser AvatarOn 6K Freelocate and Wiser Cuadro H 5P Socket. Successful exploitation could lead to code injection or authentication bypass.</description>
+      <guid isPermaLink="false">/node/23469</guid>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric MELSEC iQ-F Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-153-03</link>
+      <description>Vulnerable Product: Mitsubishi Electric MELSEC iQ-F Series; CVE(s): CVE-2025-3755; Summary: The vulnerability allows a remote attacker to read confidential information, cause a denial-of-service condition, or stop operations by sending specially crafted packets. Exploitation can occur with low attack complexity and is exploitable remotely.</description>
+      <guid isPermaLink="false">/node/23471</guid>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Abuse AI Tool Misconfigurations to Execute Malicious AI-Generated Payloads</title>
@@ -1422,36 +1450,6 @@ There is no discussion of vulnerabilities (software, hardware, or firmware) in t
       <description>Cybercriminals are exploiting individuals by transforming them into unwitting money mules through a sophisticated fraud known as the "rent-a-bank-account" scam. The scam involves fraudsters enticing people with promises of quick cash in exchange for temporarily "lending" their bank accounts, resulting in severe criminal charges and financial risks for the victims.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139179</guid>
       <pubDate>Wed, 28 May 2025 17:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor</title>
-      <link>https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/</link>
-      <description>Vulnerable Product: ASUS; CVE(s): CVE-2023-39780; Summary: The vulnerability allows attackers to add their own SSH public key and enable the SSH daemon to listen on a non-standard TCP port, enabling backdoor access to the device even after reboots and firmware updates. This is exploited by the AyySSHush botnet to compromise over 9,000 ASUS routers, including models RT-AC3100, RT-AC3200, and RT-AX55.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/</guid>
-      <pubDate>Wed, 28 May 2025 16:44:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Partners cybercrime gang fuels large-scale crypto heists</title>
-      <link>https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/</link>
-      <description>The "Dark Partner" threat actors are using a network of fake AI, VPN, and crypto software download sites to deliver Poseidon (macOS) and Lumma (Windows) infostealers and malware loaders like Payday. These malware tools steal cryptocurrency and sensitive data, which is likely sold on the cybercriminal market.
-
-FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and crypto software download sites to conduct crypto theft attacks worldwide. The sites impersonate popular apps, including at least 37 apps and tools, some of which use generative AI technology to create illustrations and videos. The malware delivered by these sites includes Poseidon Stealer for macOS and Lumma Stealer for Windows, as well as Payday Loader for Windows.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/</guid>
-      <pubDate>Wed, 28 May 2025 16:39:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Worldwide Operation Shuts Down Hundreds of Ransomware Servers and Domains, Ending Key Attack Infrastructure</title>
-      <link>https://gbhackers.com/operation-shuts-down-hundreds-of-ransomware-servers/</link>
-      <description>International law enforcement agencies, including Europol and Eurojust, have conducted a historic operation called Operation Endgame to disrupt the global ransomware ecosystem. The operation targeted critical infrastructure, dismantling approximately 300 servers and neutralizing 650 malicious domains worldwide, as well as seizing cryptocurrency worth EUR 3.5 million. The effort also resulted in the issuance of international arrest warrants for 20 high-value targets believed to be key players in providing initial access services to ransomware operators.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139146</guid>
-      <pubDate>Wed, 28 May 2025 16:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Blocked 2 million Malicious App &amp; $9 Billion in Fraudulent Transactions</title>
-      <link>https://gbhackers.com/apple-blocked-2-million-malicious-app/</link>
-      <description>Apple has thwarted over $9 billion in fraudulent transactions across its App Store platform, with a focus on multilayered security approaches to combat evolving threats from deceptive apps and payment scams. The company's efforts include proactive and reactive measures, such as human oversight, automated detection systems, and termination of developer accounts engaged in fraudulent activity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139131</guid>
-      <pubDate>Wed, 28 May 2025 16:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
