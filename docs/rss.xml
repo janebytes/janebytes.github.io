@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 12:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 13:02:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CISA Alerts on ConnectWise ScreenConnect Authentication Vulnerability Actively Exploited</title>
+      <link>https://gbhackers.com/cisa-alerts-on-connectwise-screenconnect/</link>
+      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: The vulnerability affects all ScreenConnect versions up to and including 25.2.3, allowing ViewState code injection attacks that could result in remote code execution (RCE) if machine keys are compromised.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140222</guid>
+      <pubDate>Tue, 03 Jun 2025 12:52:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Safari XSS Vulnerability Exploits JavaScript Error Handling to Run Arbitrary Code</title>
+      <link>https://gbhackers.com/new-safari-xss-vulnerability/</link>
+      <description>Vulnerable Product: None; CVE(s): "None"; Summary: The article discusses a lesser-known technique to exploit cross-site scripting (XSS) by leveraging JavaScript TypeError messages in Safari. This technique involves forcing a TypeError and injecting a payload into the error message, which can be executed using the eval function or other methods.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140223</guid>
+      <pubDate>Tue, 03 Jun 2025 12:12:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Report: Governments Struggle to Regain Backdoor Access to Secure Communications</title>
+      <link>https://gbhackers.com/new-report-governments-struggle-to-regain-backdoor-access/</link>
+      <description>Governments worldwide are struggling with strong encryption in messaging apps, social media platforms, and VPNs, but a "golden key" or backdoor mechanism allowing authorized access remains mathematically and practically infeasible without introducing vulnerabilities exploitable by malicious actors. Despite decades of efforts, governments face an ever-widening gap between their surveillance ambitions and technological realities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140244</guid>
+      <pubDate>Tue, 03 Jun 2025 12:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta and Yandex are de-anonymizing Android users’ web browsing identifiers</title>
+      <link>https://arstechnica.com/security/2025/06/headline-to-come/</link>
+      <description>This article discusses unexplained local port access issues with Meta Pixel (formerly Facebook Pixel) on Android devices. It highlights concerns around privacy violations and tracking of user activities by Meta and other companies, but does not identify a specific vulnerability or exploitation details.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/headline-to-come/</guid>
+      <pubDate>Tue, 03 Jun 2025 12:00:48 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Abuse AI Tool Misconfigurations to Execute Malicious AI-Generated Payloads</title>
       <link>https://gbhackers.com/hackers-abuse-ai-tool-misconfigurations/</link>
@@ -1422,34 +1450,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2017-11882; Summary: FormBook malware targets Microsoft Windows users by enabling attackers to gain full remote control over a victim's computer. The malware delivers payload through phishing emails and uses sophisticated anti-analysis methods, evasion techniques, and process hollowing to maintain persistence on compromised systems. It can collect sensitive information, execute files, download additional malware, or even reboot/power off the device, demonstrating its potential for complete system domination.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138922</guid>
       <pubDate>Wed, 28 May 2025 12:29:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft wants Windows to update all software on your PC</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/</link>
-      <description>Microsoft has introduced a new update orchestration platform built on the existing Windows Update infrastructure, aiming to unify updating systems for all apps, drivers, and system components on Windows systems. The platform allows developers and IT product teams to onboard their updates via Windows Runtime (WinRT) APIs or PowerShell commands, providing a consistent notification experience and centralized app update history in the Settings app.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/</guid>
-      <pubDate>Wed, 28 May 2025 12:15:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign</title>
-      <link>https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html</link>
-      <description>Stealer malware is no longer just stealing passwords, but also stealing live sessions, allowing attackers to hijack enterprise sessions in less than 24 hours. The malware extracts browser cookies, saved credentials, session tokens, and crypto wallets, and exfiltrates data to Telegram bots or command-and-control servers.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html</guid>
-      <pubDate>Wed, 28 May 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Circulate Over 93 Billion Stolen User Cookies on the Dark Web</title>
-      <link>https://gbhackers.com/circulate-over-stolen-cookies-dark-web/</link>
-      <description>This article discusses the vulnerability of web cookies, which are small text files stored on devices by websites. Cookies can be used for tracking and data theft, with malicious programs like infostealers, trojans, and keyloggers harvesting cookie data from browser storage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138999</guid>
-      <pubDate>Wed, 28 May 2025 11:17:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware</title>
-      <link>https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html</link>
-      <description>Vulnerable Product: Craft CMS; CVE(s): CVE-2025-32432; Summary: A remote code execution flaw in Craft CMS allows an attacker to deploy payloads, including cryptocurrency miners and residential proxyware. The vulnerability was patched in versions 3.9.15, 4.14.15, and 5.6.17, but threat actors have exploited it to obtain unauthorized access and deploy malware.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html</guid>
-      <pubDate>Wed, 28 May 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
