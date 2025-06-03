@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 20:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 21:01:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ChatGPT rolls out Memory upgrade for free users</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/</link>
+      <description>The article discusses an update to ChatGPT's memory feature, which will allow free accounts to remember and reference past conversations. However, there are limitations to this feature for free users, who will only have access to short-term continuity across conversations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/</guid>
+      <pubDate>Tue, 03 Jun 2025 20:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hewlett Packard Enterprise warns of critical StoreOnce auth bypass</title>
+      <link>https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/</link>
+      <description>Vulnerable Product: Hewlett Packard Enterprise (HPE) StoreOnce; CVE(s): CVE-2025-37089, CVE-2025-37090, CVE-2025-37091, CVE-2025-37092, CVE-2025-37093, CVE-2025-37094, CVE-2025-37095, CVE-2025-37096; Summary: The HPE StoreOnce software has eight vulnerabilities, including a critical authentication bypass vulnerability (CVE-2025-37093) with a CVSS v3.1 score of 9.8, which can be exploited to gain unauthorized access to the system. Other flaws include remote code execution bugs, directory traversal problems, and server-side request forgery issues, all impacting versions of StoreOnce software before v4.3.11, which is now the recommended upgrade version.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/</guid>
+      <pubDate>Tue, 03 Jun 2025 20:55:02 +0000</pubDate>
+    </item>
     <item>
       <title>Coinbase breach tied to bribed TaskUs support agents in India</title>
       <link>https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/</link>
@@ -1436,20 +1450,6 @@ There is no discussion of vulnerabilities (software, hardware, or firmware) in t
       <description>The article discusses the NodeSnake remote access trojan (RAT) deployed by the Interlock ransomware gang against educational institutions. NodeSnake establishes persistence, collects metadata, and exfiltrates data to a command-and-control server, allowing real-time shell interaction.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/</guid>
       <pubDate>Wed, 28 May 2025 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistan Arrests 21 in ‘Heartsender’ Malware Service</title>
-      <link>https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/</link>
-      <description>Pakistani authorities arrested 21 individuals accused of operating "Heartsender," a spam and malware dissemination service that allegedly operated for over a decade. The group's tools were connected to losses exceeding $50 million in the United States, with European authorities investigating additional cases. The operation was marketed as "Fully Un-Detectable" (Fud) and primarily used to run business email compromise schemes.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71337</guid>
-      <pubDate>Wed, 28 May 2025 17:41:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zanubis Android Malware Harvests Banking Credentials and Executes Remote Commands</title>
-      <link>https://gbhackers.com/zanubis-android-malware-harvests-banking-credentials/</link>
-      <description>The Zanubis Android banking Trojan has evolved into a sophisticated threat targeting financial institutions, virtual cards, and cryptocurrency wallets. It uses various techniques to evade detection, including obfuscation, encryption, and social engineering tactics, allowing it to steal data, intercept two-factor authentication codes, and execute remote commands without user awareness.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139155</guid>
-      <pubDate>Wed, 28 May 2025 17:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
