@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 10:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 11:02:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Exploit DevOps Web Server Misconfigurations to Deploy Malware</title>
+      <link>https://gbhackers.com/threat-actors-exploit-devops-web-server-misconfigurations/</link>
+      <description>Threat actors are exploiting misconfigurations in DevOps-managed web servers to deploy malicious payloads, including malware strains like AsyncRAT and Lyrix Ransomware. Phishing scams play a pivotal role in the initial compromise, tricking DevOps personnel into granting access or downloading malicious scripts that initiate the infection chain. The attacks often bypass security tools through clever obfuscation techniques, highlighting the need for robust security practices and proactive defense mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140167</guid>
+      <pubDate>Tue, 03 Jun 2025 10:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Splunk Universal Forwarder for Windows Flaw Grants Non-Admin Users Full Content Access</title>
+      <link>https://gbhackers.com/splunk-universal-forwarder-for-windows-flaw/</link>
+      <description>Vulnerable Product: Splunk Universal Forwarder for Windows; CVE(s): CVE-2025-20298; Summary: The Splunk Universal Forwarder for Windows has a high-severity vulnerability (CVE-2025-20298) that allows non-administrator users to access and modify files in the installation directory, leading to local privilege escalation or compromising sensitive log data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140194</guid>
+      <pubDate>Tue, 03 Jun 2025 10:35:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google patches new Chrome zero-day bug exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5419; Summary: A high-severity out-of-bounds read and write weakness exists in Chrome's V8 JavaScript engine, which is being exploited in the wild. The vulnerability was mitigated by a configuration change and has since been fixed with the release of version 137.0.7151.68/.69 for Windows/Mac and Linux.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/</guid>
+      <pubDate>Tue, 03 Jun 2025 10:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Splunk Enterprise XSS Flaw Enables Attackers to Execute Unauthorized JavaScript</title>
+      <link>https://gbhackers.com/splunk-enterprise-xss-flaw/</link>
+      <description>Vulnerable Product: Splunk; CVE(s): CVE-2025-20297; Summary: The vulnerable product is Splunk Enterprise and Cloud Platform; a reflected Cross-Site Scripting (XSS) vulnerability in the dashboard PDF generation component, allowing low-privileged users to execute unauthorized JavaScript without user interaction.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140195</guid>
+      <pubDate>Tue, 03 Jun 2025 10:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware: Fake Booking.com Sites Spread AsyncRAT Malware to Infect Devices</title>
+      <link>https://gbhackers.com/fake-booking-com-sites-spread-asyncrat-malware/</link>
+      <description>Cybercriminals are redirecting links to counterfeit Booking.com websites, leading users to fake sites that compromise devices with malware. The scam uses a dynamic strategy and fake CAPTCHA prompts, ultimately downloading malicious files like the Backdoor.AsyncRAT Remote Access Trojan.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140153</guid>
+      <pubDate>Tue, 03 Jun 2025 10:09:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lost in Resolution: Azure OpenAI's DNS Resolution Issue</title>
       <link>https://unit42.paloaltonetworks.com/azure-openai-dns-resolution/</link>
@@ -42,6 +77,13 @@
       <description>Lyrix is a highly advanced ransomware that encrypts critical files and demands substantial ransoms for decryption keys. It uses polymorphic code to evade detection, disables system restore points and overwrites shadow copies, and communicates with its command-and-control servers via encrypted channels.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140124</guid>
       <pubDate>Tue, 03 Jun 2025 09:08:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android malware Crocodilus adds fake contacts to spoof trusted callers</title>
+      <link>https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/</link>
+      <description>The article discusses an updated version of the "Crocodilus" Android malware, which adds a fake contact to an infected device's contact list to deceive victims. This feature is used to impersonate trusted entities, making incoming calls appear more trustworthy.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/</guid>
+      <pubDate>Tue, 03 Jun 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actors Target PerimeterX CAPTCHA to Automate Microsoft Account Creation</title>
@@ -1408,48 +1450,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>The article discusses Apple's efforts to prevent fraudulent activity on the App Store, including blocking transactions, rejecting malicious apps, and terminating developer accounts. It also highlights Apple's success in preventing suspicious transactions and removing fraudulent ratings and reviews from the App Store.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/</guid>
       <pubDate>Wed, 28 May 2025 10:18:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOCRadar Named One of the 100 Most Loved Workplaces by Newsweek</title>
-      <link>https://socradar.io/socradar-named-one-of-the-100-most-loved-workplaces-by-newsweek/</link>
-      <description>The article is about SOCRadar's recognition as one of Newsweek's 100 Most Loved Workplaces, highlighting the company's culture of innovation, growth, and inclusivity. The recognition emphasizes the importance of creating a workplace where employees feel valued and supported.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060366</guid>
-      <pubDate>Wed, 28 May 2025 09:43:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>How 'Browser-in-the-Middle' Attacks Steal Sessions in Seconds</title>
-      <link>https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses Browser-in-the-Middle (BiTM) attacks, which involve criminals controlling data flow between a victim's browser and a target service. This attack allows criminals to capture, record, and alter data exchange, making it possible for them to intercept usernames and passwords.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html</guid>
-      <pubDate>Wed, 28 May 2025 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch</title>
-      <link>https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html</link>
-      <description>Cybersecurity researchers have disclosed details of a coordinated cloud-based scanning activity that targeted 75 distinct "exposure points" earlier this month. The scanning efforts ranged from exploitation attempts for known CVEs to probes for misconfigurations and other weak points in web infrastructure, indicating that the threat actors were looking indiscriminately for any susceptible system.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html</guid>
-      <pubDate>Wed, 28 May 2025 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MATLAB, Serving Over 5 Million Users, Hit by Ransomware Attack</title>
-      <link>https://gbhackers.com/matlab-ransomware-attack/</link>
-      <description>This article is not about a vulnerability, but rather discusses a ransomware attack that occurred at MathWorks, the developer of MATLAB and Simulink. The incident affected both customer-facing and internal IT systems, resulting in the unavailability of several online applications and internal systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138950</guid>
-      <pubDate>Wed, 28 May 2025 08:54:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Publishes ICS Advisories Highlighting New Vulnerabilities and Exploits</title>
-      <link>https://gbhackers.com/cisa-publishes-ics-advisories/</link>
-      <description>Vulnerable Product: Johnson Controls iSTAR Configuration Utility (ICU) Tool; CVE(s): CVE-2025-26383; Summary: The ICU Tool contains a vulnerability tracked as CVE-2025-26383, which can lead to memory leakage and exposure of sensitive data such as user credentials or cryptographic materials. An attacker with access to the affected system could potentially obtain unauthorized access or tamper with access control settings in sensitive environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138949</guid>
-      <pubDate>Wed, 28 May 2025 08:27:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome Security Patch Addresses High-Severity Vulnerabilities Enabling Code Execution</title>
-      <link>https://gbhackers.com/chrome-security-patch/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5063, CVE-2025-5280, CVE-2025-5283; Summary: This update includes 11 security fixes, including use-after-free vulnerabilities in Compositing and libvpx, out-of-bounds write vulnerability in V8 JavaScript engine, and inappropriate implementation flaws in APIs like Background Fetch, FileSystemAccess, and Messages. These vulnerabilities could allow attackers to execute arbitrary code, corrupt memory, or crash the browser if left unpatched.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138947</guid>
-      <pubDate>Wed, 28 May 2025 08:00:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
