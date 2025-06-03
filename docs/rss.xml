@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 21:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 22:02:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-321: GIMP ICO File Parsing Integer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-321/</link>
+      <description>Vulnerable Product: GIMP; CVE(s): CVE-2025-5473; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP, requiring user interaction. The flaw exists in the parsing of ICO files due to a lack of proper validation of user-supplied data, leading to an integer overflow before writing to memory.</description>
+      <guid isPermaLink="false">ZDI-CAN-26752</guid>
+      <pubDate>Tue, 03 Jun 2025 22:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-322: 2BrightSparks SyncBackFree Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-322/</link>
+      <description>Vulnerable Product: 2BrightSparks SyncBackFree; CVE(s): CVE-2025-5474; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of 2BrightSparks SyncBackFree by exploiting a local privilege escalation flaw in the Mirror functionality, requiring user interaction and low-privileged code execution.</description>
+      <guid isPermaLink="false">ZDI-CAN-26962</guid>
+      <pubDate>Tue, 03 Jun 2025 22:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-323: Action1 Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-323/</link>
+      <description>Vulnerable Product: Action1; CVE(s): CVE-2025-5480; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Action1 by exploiting an unsecured location where OpenSSL configuration files are loaded. The attacker must first obtain the ability to execute low-privileged code on the target system, and can then leverage this vulnerability to execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26767</guid>
+      <pubDate>Tue, 03 Jun 2025 22:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-324: Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-324/</link>
+      <description>Vulnerable Product: Sante, DICOM Viewer Pro; CVE(s): CVE-2025-5481; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Sante DICOM Viewer Pro by exploiting a lack of proper validation of user-supplied data in the parsing of DCM files. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26168</guid>
+      <pubDate>Tue, 03 Jun 2025 22:01:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI is hopeful GPT-5 will compete a little more</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/</link>
+      <description>OpenAI is developing a new AI model, GPT-5, which will be more competitive with existing models. The company is also working on upgrading its GPTs and Operator (AI Agent) products, but no specific timelines have been provided.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/</guid>
+      <pubDate>Tue, 03 Jun 2025 21:30:52 +0000</pubDate>
+    </item>
     <item>
       <title>ChatGPT rolls out Memory upgrade for free users</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/</link>
@@ -1415,41 +1450,6 @@ The article also highlights various new features, including the ability to make 
 There is no discussion of vulnerabilities (software, hardware, or firmware) in this article.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/</guid>
       <pubDate>Wed, 28 May 2025 22:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thousands of Asus routers are being hit with stealthy, persistent backdoors</title>
-      <link>https://arstechnica.com/security/2025/05/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/</link>
-      <description>Vulnerable Product: Asus routers; CVE(s): CVE-2023-39780; Summary: The vulnerability allows for the execution of system commands and is exploited by backdooring the devices, potentially allowing attackers to access the device. The attack vector is detected through SSH settings in the configuration panel or system logs indicating access from specific IP addresses.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/</guid>
-      <pubDate>Wed, 28 May 2025 22:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT41 malware abuses Google Calendar for stealthy C2 communication</title>
-      <link>https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/</link>
-      <description>The article discusses a new malware named 'ToughProgress' used by the Chinese APT41 hacking group, which exploits Google Calendar for command-and-control (C2) operations. The malware uses a legitimate cloud service to communicate with the attacker, making it difficult to detect.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/</guid>
-      <pubDate>Wed, 28 May 2025 22:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-309: (Pwn2Own) Canon imageCLASS MF656Cdw sfpcmAuthenticateSecAdmin Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-309/</link>
-      <description>Vulnerable Product: Canon imageCLASS MF656Cdw; CVE(s): CVE-2025-2146; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Canon imageCLASS MF656Cdw printers without authentication. The issue exists within the sfpcmAuthenticateSecAdmin function due to a lack of proper validation of user-supplied data, resulting in a stack-based buffer overflow.</description>
-      <guid isPermaLink="false">ZDI-CAN-25779</guid>
-      <pubDate>Wed, 28 May 2025 21:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PumaBot botnet brute forces SSH credentials to breach devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses a newly discovered Go-based Linux botnet malware named PumaBot that targets specific IoT devices by brute-forcing SSH credentials. The malware receives a list of target IPs from its command-and-control (C2) server and attempts to perform brute-force login attempts on port 22 for open SSH access.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/</guid>
-      <pubDate>Wed, 28 May 2025 19:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interlock ransomware gang deploys new NodeSnake RAT on universities</title>
-      <link>https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/</link>
-      <description>The article discusses the NodeSnake remote access trojan (RAT) deployed by the Interlock ransomware gang against educational institutions. NodeSnake establishes persistence, collects metadata, and exfiltrates data to a command-and-control server, allowing real-time shell interaction.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/</guid>
-      <pubDate>Wed, 28 May 2025 18:14:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
