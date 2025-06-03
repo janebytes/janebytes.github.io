@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 18:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 19:01:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Coinbase breach tied to bribed TaskUs support agents in India</title>
@@ -170,6 +170,13 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>This article discusses unexplained local port access issues with Meta Pixel (formerly Facebook Pixel) on Android devices. It highlights concerns around privacy violations and tracking of user activities by Meta and other companies, but does not identify a specific vulnerability or exploitation details.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/06/headline-to-come/</guid>
       <pubDate>Tue, 03 Jun 2025 12:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/03/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Qualcomm Multiple Chipsets; CVE(s): CVE-2025-21479, CVE-2025-21480, CVE-2025-27038; Summary: The three vulnerabilities added to the Known Exploited Vulnerabilities (KEV) Catalog are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. These vulnerabilities affect Qualcomm multiple chipsets and can lead to incorrect authorization or use-after-free issues if not remediated.</description>
+      <guid isPermaLink="false">/node/23465</guid>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Schneider Electric EcoStruxure Power Build Rapsody</title>
@@ -1443,13 +1450,6 @@ There is no discussion of vulnerabilities (software, hardware, or firmware) in t
       <description>The Zanubis Android banking Trojan has evolved into a sophisticated threat targeting financial institutions, virtual cards, and cryptocurrency wallets. It uses various techniques to evade detection, including obfuscation, encryption, and social engineering tactics, allowing it to steal data, intercept two-factor authentication codes, and execute remote commands without user awareness.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139155</guid>
       <pubDate>Wed, 28 May 2025 17:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore</title>
-      <link>https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html</link>
-      <description>A 37-year-old Iranian national, Sina Gholinejad (aka Sina Ghaaf), has pleaded guilty to involvement in an international ransomware and extortion scheme using the Robbinhood ransomware. The scheme caused significant disruptions and tens of millions in losses, including to the City of Greenville, North Carolina, and the City of Baltimore, Maryland.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html</guid>
-      <pubDate>Wed, 28 May 2025 17:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
