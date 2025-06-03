@@ -6,8 +6,45 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 13:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 14:03:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Aembit Extends Workload IAM to Microsoft Ecosystem, Securing Hybrid Access for Non-Human Identities</title>
+      <link>https://gbhackers.com/aembit-extends-workload-iam-to-microsoft-ecosystem-securing-hybrid-access-for-non-human-identities/</link>
+      <description>Aembit, a workload identity and access management (IAM) company, has expanded its platform to support Microsoft environments, enabling secure policy-based access for software workloads and agentic AI running on Windows Server, Active Directory, Microsoft Entra ID, and Azure. The launch aims to provide a unified approach to secure workload access management across the Microsoft ecosystem and beyond, reducing operational complexity while improving visibility, automation, and risk posture.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140315</guid>
+      <pubDate>Tue, 03 Jun 2025 13:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA warns of ConnectWise ScreenConnect bug exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/</link>
+      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: A recently patched vulnerability in ScreenConnect could allow remote code execution on the server through ViewState code injection attacks. The vulnerability, tracked as CVE-2025-3935, was found to be actively exploited by hackers.
+
+FYSA: CISA is warning federal agencies of four other security problems affecting ASUS routers and Craft CMS that are also actively exploited. The flaws include authentication bypass in ASUS GT-AC2900 and Lyra Mini devices (CVE-2021-32030), OS injection in ASUS RT-AX55 devices (CVE-2023-39780), code injection in Craft CMS (CVE-2024-56145), and an unauthenticated client could introduce PHP code to known file locations on the Craft CMS server (CVE-2025-35939).</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/</guid>
+      <pubDate>Tue, 03 Jun 2025 13:57:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Face Fashion Brand Alerts Customers to Credential Stuffing Attack</title>
+      <link>https://gbhackers.com/north-face-fashion-brand-alerts-customers/</link>
+      <description>This article is about a credential stuffing attack that occurred on The North Face's website. Attackers used stolen authentication credentials to gain unauthorized access to user accounts, exposing personal information such as email addresses, names, and purchase histories.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140273</guid>
+      <pubDate>Tue, 03 Jun 2025 13:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Victoria’s Secret delays earnings release after security incident</title>
+      <link>https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/</link>
+      <description>The article reports on a security incident at Victoria's Secret, where corporate systems were taken down as a precautionary measure. While the nature of the incident is not disclosed, it appears to be potentially related to ransomware and restoration efforts are ongoing.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/</guid>
+      <pubDate>Tue, 03 Jun 2025 13:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple iOS Activation Flaw Enables Injection of Unauthenticated XML Payloads</title>
+      <link>https://gbhackers.com/apple-ios-activation-flaw-enables-injection/</link>
+      <description>Vulnerable Product: Apple iOS Activation Backend; CVE(s): None; Summary: A severe vulnerability in Apple's iOS activation infrastructure allows attackers to inject unauthenticated XML .plist payloads without verification or signature validation. This enables arbitrary provisioning changes and persistent configuration manipulation, exposing devices to tampering before they are fully activated.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140255</guid>
+      <pubDate>Tue, 03 Jun 2025 13:20:15 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Alerts on ConnectWise ScreenConnect Authentication Vulnerability Actively Exploited</title>
       <link>https://gbhackers.com/cisa-alerts-on-connectwise-screenconnect/</link>
@@ -28,6 +65,13 @@
       <description>Governments worldwide are struggling with strong encryption in messaging apps, social media platforms, and VPNs, but a "golden key" or backdoor mechanism allowing authorized access remains mathematically and practically infeasible without introducing vulnerabilities exploitable by malicious actors. Despite decades of efforts, governments face an ever-widening gap between their surveillance ambitions and technological realities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140244</guid>
       <pubDate>Tue, 03 Jun 2025 12:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta and Yandex are de-anonymizing Android users’ web browsing identifiers</title>
+      <link>https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/</link>
+      <description>The article discusses a feature in Google's Android operating system that allows Meta (formerly Facebook) to track user activities on Android devices through the Meta Pixel. This is done by creating a local port access on port 12387, which can be accessed without explicit permission from the device owner.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/</guid>
+      <pubDate>Tue, 03 Jun 2025 12:00:48 +0000</pubDate>
     </item>
     <item>
       <title>Meta and Yandex are de-anonymizing Android users’ web browsing identifiers</title>
@@ -1408,48 +1452,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Vulnerable Product: Microsoft OneDrive File Picker; CVE(s): None; Summary: The OneDrive File Picker has a security flaw that allows websites to access a user's entire cloud storage content if successfully exploited. This is due to overly broad OAuth scopes and misleading consent screens, which could lead to customer data leakage and violation of compliance regulations.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html</guid>
       <pubDate>Wed, 28 May 2025 13:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft introduces new Windows backup tool for businesses</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/</link>
-      <description>Microsoft has introduced Windows Backup for Organizations, a new tool simplifying backups and making the transition to Windows 11 easier. The tool helps back up and restore user settings after resetting or reimaging devices, reducing migration overhead and minimizing user disruption. It is available for Microsoft Entra joined Windows 10 or Windows 11 systems during limited public preview.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/</guid>
-      <pubDate>Wed, 28 May 2025 13:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Weaponizing DCOM to Harvest Credentials on Windows Systems</title>
-      <link>https://gbhackers.com/threat-actors-weaponizing-dcom-to-harvest-credentials/</link>
-      <description>Vulnerable Product: Windows; CVE(s): None; Summary: Threat actors are exploiting Component Object Model (COM) and Distributed Component Object Model (DCOM) to harvest credentials on Windows systems without deploying payloads or triggering common security alerts. This attack vector, detailed in the RemoteMonologue tool, allows attackers to coerce NTLM authentications and capture user and machine account credentials, posing a significant challenge to organizations not on the latest Windows versions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138970</guid>
-      <pubDate>Wed, 28 May 2025 13:03:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>VenomRAT Malware Introduces New Tools for Password Theft and Stealthy Access</title>
-      <link>https://gbhackers.com/venomrat-malware-introduces-new-tools/</link>
-      <description>A malicious cyber campaign using VenomRAT Remote Access Trojan (RAT) and other malware components has been uncovered. The campaign uses phishing tactics to distribute malware through a fake Bitdefender download page, with the goal of stealing credentials and compromising systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138953</guid>
-      <pubDate>Wed, 28 May 2025 12:55:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>SilentWerewolf Attack Combines Legitimate Tools with Code Obfuscation for Stealthy Infiltration</title>
-      <link>https://gbhackers.com/silentwerewolf-attack-combines-legitimate-tools/</link>
-      <description>The SilentWerewolf threat actor has employed advanced phishing techniques to infiltrate organizations in Russia and Moldova, using social engineering tactics, obfuscation methods, and DLL side-loading to evade detection. They have demonstrated exceptional technical prowess, blending legitimate tools with sophisticated evasive measures to trick users into executing malicious files and initiate a complex infection chain.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138934</guid>
-      <pubDate>Wed, 28 May 2025 12:34:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto</title>
-      <link>https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html</link>
-      <description>The article describes a botnet called PumaBot that targets embedded Linux-based IoT devices. The malware uses brute-force attacks against SSH instances to gain access and deliver additional malware. It then sets up persistence and executes commands received from a command-and-control (C2) server, allowing it to survive reboots and disguise itself as a legitimate system file.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html</guid>
-      <pubDate>Wed, 28 May 2025 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerging FormBook Malware Threatens Windows Users with Complete System Takeover</title>
-      <link>https://gbhackers.com/emerging-formbook-malware-threatens-windows-users/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2017-11882; Summary: FormBook malware targets Microsoft Windows users by enabling attackers to gain full remote control over a victim's computer. The malware delivers payload through phishing emails and uses sophisticated anti-analysis methods, evasion techniques, and process hollowing to maintain persistence on compromised systems. It can collect sensitive information, execute files, download additional malware, or even reboot/power off the device, demonstrating its potential for complete system domination.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138922</guid>
-      <pubDate>Wed, 28 May 2025 12:29:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
