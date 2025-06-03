@@ -6,8 +6,116 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 22:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 10:18:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Lost in Resolution: Azure OpenAI's DNS Resolution Issue</title>
+      <link>https://unit42.paloaltonetworks.com/azure-openai-dns-resolution/</link>
+      <description>Vulnerable Product: Microsoft Azure OpenAI; CVE(s): None; Summary: The Azure OpenAI's DNS resolution logic had a misconfiguration that allowed multiple tenants to share the same custom domain, potentially enabling cross-tenant data leaks and man-in-the-middle (MitM) attacks. The flaw was due to the lack of unique custom domain names for each OpenAI instance in the API, whereas the UI required it.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142029</guid>
+      <pubDate>Tue, 03 Jun 2025 10:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious NPM Packages Exploit Ethereum Wallets with Obfuscated JavaScript</title>
+      <link>https://gbhackers.com/malicious-npm-packages-exploit-ethereum-wallets/</link>
+      <description>Vulnerable Product: NPM (Node Package Manager); CVE(s): None; Summary: A wave of malicious NPM packages has emerged, targeting Ethereum wallet holders by distributing harmful code disguised as legitimate libraries. The attack vector exploits the trust developers place in open-source repositories, embedding obfuscated JavaScript to steal sensitive data from unsuspecting users.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140136</guid>
+      <pubDate>Tue, 03 Jun 2025 09:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets</title>
+      <link>https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html</link>
+      <description>The Crocodilus Android banking trojan targets users in Europe and South America, uses obfuscation techniques to evade detection, and has features such as adding new contacts, capturing seed phrases, and launching overlay attacks against financial apps. It also uses various distribution vectors like Facebook ads and disguises itself as a web browser update or online casino.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html</guid>
+      <pubDate>Tue, 03 Jun 2025 09:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ModSecurity WAF Vulnerability Enables Attackers to Crash Systems</title>
+      <link>https://gbhackers.com/modsecurity-waf-vulnerability/</link>
+      <description>Vulnerable Product: Trustworthy Computing ModSecurity; CVE(s): CVE-2025-48866; Summary: The ModSecurity Apache module contains a high-severity denial-of-service (DoS) vulnerability that allows attackers to crash servers by exploiting argument sanitization logic. The vulnerability enables attackers to send requests with oversized payloads, causing memory exhaustion and CPU spikes, leading to service unavailability without authentication bypass. Patches are available in version 2.9.10.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140146</guid>
+      <pubDate>Tue, 03 Jun 2025 09:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lyrix Ransomware Targets Windows Users with Advanced Evasion Techniques</title>
+      <link>https://gbhackers.com/lyrix-ransomware-targets-windows-users/</link>
+      <description>Lyrix is a highly advanced ransomware that encrypts critical files and demands substantial ransoms for decryption keys. It uses polymorphic code to evade detection, disables system restore points and overwrites shadow copies, and communicates with its command-and-control servers via encrypted channels.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140124</guid>
+      <pubDate>Tue, 03 Jun 2025 09:08:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Target PerimeterX CAPTCHA to Automate Microsoft Account Creation</title>
+      <link>https://gbhackers.com/target-perimeterx-captcha/</link>
+      <description>Vulnerable Product: PerimeterX (now rebranded as HUMAN); CVE(s): None; Summary: A recent post on an underground forum offers USD 1,500 for a working bypass of PerimeterX's anti-fraud protections targeting the "hold CAPTCHA" on Microsoft's signup.live.com. The goal is to automate the creation of Microsoft accounts at scale, bypassing the interactive CAPTCHA challenge. The bypass requires advanced techniques such as fingerprint spoofing, biometric validation evasion, and browser emulation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140145</guid>
+      <pubDate>Tue, 03 Jun 2025 08:45:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Can MSSPs Scale Smarter with Cyber Threat Intelligence – Powered by SOCRadar</title>
+      <link>https://socradar.io/mssps-scale-cyber-threat-intelligence-socradar/</link>
+      <description>The article discusses the challenges faced by Managed Security Service Providers (MSSPs) in delivering tailored cybersecurity services to their clients. Despite growing demand for managed services, MSSPs must contend with operational complexities, such as managing high volumes of alerts, juggling disparate tools, and maintaining quality amid resource constraints. The article highlights SOCRadar's MSSP Edition as a solution that can help MSSPs overcome these challenges by providing a centralized platform for threat intelligence, management, and response.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060703</guid>
+      <pubDate>Tue, 03 Jun 2025 07:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome to Distrust Two Certificate Authorities Over Compliance and Conduct Issues</title>
+      <link>https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html</link>
+      <description>Vulnerable Product: Chunghwa Telecom, Netlock; CVE(s): None; Summary: Google will no longer trust digital certificates issued by Chunghwa Telecom and Netlock due to "patterns of concerning behavior observed over the past year", citing compliance failures, unmet improvement commitments, and absence of tangible progress. This change will affect all TLS server authentication certificates issued by these CAs after July 31, 2025, and will be introduced in Chrome 139.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html</guid>
+      <pubDate>Tue, 03 Jun 2025 07:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft and CrowdStrike Launch Shared Threat Actor Glossary to Cut Attribution Confusion</title>
+      <link>https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html</link>
+      <description>Vulnerable Product: None; Summary: The article does not discuss a vulnerability. Instead, it announces a collaboration between Microsoft, CrowdStrike, Google, Palo Alto Networks, and other cybersecurity companies to align their individual threat actor taxonomies by publishing a new joint threat actor mapping. This effort aims to reduce confusion when tracking overlapping threat actor activity, improve threat attribution, and enhance analysis and response.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html</guid>
+      <pubDate>Tue, 03 Jun 2025 07:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SolarWinds Dameware Vulnerability Could Let Attackers Gain Elevated Privileges</title>
+      <link>https://gbhackers.com/privilege-escalation-flaw/</link>
+      <description>Vulnerable Product: SolarWinds Dameware; CVE(s): CVE-2025-26396; Summary: The vulnerability is a Local Privilege Escalation (LPE) issue due to incorrect permissions in the Dameware Mini Remote Control Service. Exploitation could allow a local attacker with a low-privilege account to elevate their privileges on the affected system, with a CVSS v3.1 base score of 7.8 (High).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140116</guid>
+      <pubDate>Tue, 03 Jun 2025 07:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical HPE StoreOnce Flaws Allow Remote Code Execution by Attackers</title>
+      <link>https://gbhackers.com/critical-hpe-storeonce-flaw/</link>
+      <description>Vulnerable Product: Hewlett-Packard Enterprise (HPE) StoreOnce Software; CVE(s): CVE-2025-37093, CVE-2025-37094, and others (8 total); Summary: The HPE StoreOnce Software has been found to have multiple high-impact vulnerabilities that allow attackers to bypass authentication, execute arbitrary code remotely, perform server-side request forgery, delete files, and access sensitive information. One vulnerability enables remote attackers to gain system-level privileges without any user interaction or credentials, making it highly exploitable over the network.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140117</guid>
+      <pubDate>Tue, 03 Jun 2025 06:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch</title>
+      <link>https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5419; Summary: A high-severity out-of-bounds read and write vulnerability (CVE-2025-5419) in the V8 JavaScript and WebAssembly engine of Google Chrome, prior to version 137.0.7151.68, has been actively exploited in the wild. The flaw allows remote attackers to potentially exploit heap corruption via a crafted HTML page, and users are recommended to upgrade to the latest version to safeguard against potential threats.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html</guid>
+      <pubDate>Tue, 03 Jun 2025 04:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cartier discloses data breach amid fashion brand cyberattacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/</link>
+      <description>Vulnerable Product: Cartier; CVE(s): None; Summary: Hackers breached Cartier's systems and stole a limited amount of customer information, including names, email addresses, and countries where the customer resides. The stolen data could be used in targeted attacks, prompting Cartier to advise customers to remain vigilant against unsolicited or suspicious communications.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/</guid>
+      <pubDate>Mon, 02 Jun 2025 22:31:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Good Are the LLM Guardrails on the Market? A Comparative Study on the Effectiveness of LLM Content Filtering Across Major GenAI Platforms</title>
+      <link>https://unit42.paloaltonetworks.com/comparing-llm-guardrails-across-genai-platforms/</link>
+      <description>The article discusses the analysis of the input and output guardrails used in three different cybersecurity systems. The authors examined how well these guardrails performed in detecting malicious prompts and preventing the generation of harmful content.
+
+The main findings are:
+
+1. Input Guardrail False Positives (FPs): All three systems incorrectly blocked some benign prompts, with Platform 3 being the most aggressive.
+2. Input Guardrail False Negatives (FNs): Some malicious prompts were able to bypass the input guardrails and reach the model, leading to the generation of harmful content in five cases for Platform 1 and none for Platforms 2 and 3.
+3. Output Guardrail FNs: In one case, a malicious prompt was able to generate harmful content that was not detected by the output guardrail.
+
+The article identifies common patterns in the prompts that triggered these failures, including role-playing scenarios, narrative or hypothetical framing, misleading benign justifications, and targeting harmful or illicit topics.
+
+Overall, the study highlights the importance of robust input and output guardrails in preventing malicious content from being generated and delivered to users.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=141987</guid>
+      <pubDate>Mon, 02 Jun 2025 22:00:26 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-312: Hewlett Packard Enterprise StoreOnce VSA setLocateBeaconOnHardware Command Injection Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-312/</link>
@@ -77,6 +185,13 @@
       <description>A sophisticated malware campaign using deceptive CAPTCHA interfaces to distribute EddieStealer, a Rust-based information stealing malware that targets sensitive user data across multiple platforms. The campaign employs social engineering tactics and exploits user trust in common web security features.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140061</guid>
       <pubDate>Mon, 02 Jun 2025 19:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The North Face warns customers of April credential stuffing attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/the-north-face-warns-customers-of-april-credential-stuffing-attack/</link>
+      <description>Credential stuffing attacks targeting The North Face's website led to the theft of customers' personal information, including full name, purchase history, shipping address, email address, date of birth, and telephone number. However, payment information was not exposed as it is handled by an external provider.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/the-north-face-warns-customers-of-april-credential-stuffing-attack/</guid>
+      <pubDate>Mon, 02 Jun 2025 18:37:19 +0000</pubDate>
     </item>
     <item>
       <title>Stealth Syscall Technique Allows Hackers to Evade Event Tracing and EDR Detection</title>
@@ -153,6 +268,19 @@ FYSA: There is no cybersecurity relevance in this article.</description>
       <description>Vulnerable Product: Qualcomm Adreno GPU driver; CVE(s): CVE-2025-21479, CVE-2025-21480, CVE-2025-27038; Summary: The vulnerabilities in the Graphics component of the Adreno GPU driver can result in memory corruption due to unauthorized command execution or use-after-free vulnerability while rendering graphics. These flaws have been exploited in limited, targeted attacks and Qualcomm recommends deploying updates as soon as possible.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html</guid>
       <pubDate>Mon, 02 Jun 2025 14:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 Real-World Threat Intelligence Use Cases for the Finance Industry</title>
+      <link>https://socradar.io/14-threat-intelligence-use-cases-finance-industry/</link>
+      <description>FYSA:
+
+The article discusses various cyber threats and attacks that target financial institutions, including insider abuse, brand impersonation, vendor compromise, executive doxxing, zero-day exploitation, data extortion, business email compromise, and cryptocurrency fraud. These threats are becoming more targeted, persistent, and multifaceted, making it essential for financial institutions to stay ahead of the game.
+
+The article highlights the importance of threat intelligence in detecting and responding to emerging cyber risks. It emphasizes that proactive defense requires comprehensive visibility into the dark web's hidden corners, which can be achieved through advanced dark web monitoring tools like SOCRadar's Advanced Dark Web Monitoring.
+
+Overall, the article underscores the need for financial institutions to adopt a proactive approach to cybersecurity by leveraging threat intelligence, staying informed about emerging threats, and implementing robust security measures to protect sensitive financial data.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060665</guid>
+      <pubDate>Mon, 02 Jun 2025 13:50:07 +0000</pubDate>
     </item>
     <item>
       <title>Critical MediaTek Flaws Allow Hackers to Gain Elevated Access with No User Input</title>
@@ -1322,118 +1450,6 @@ FYSA: The "Dark Partner" threat actors are using a network of fake AI, VPN, and 
       <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5063, CVE-2025-5280, CVE-2025-5283; Summary: This update includes 11 security fixes, including use-after-free vulnerabilities in Compositing and libvpx, out-of-bounds write vulnerability in V8 JavaScript engine, and inappropriate implementation flaws in APIs like Background Fetch, FileSystemAccess, and Messages. These vulnerabilities could allow attackers to execute arbitrary code, corrupt memory, or crash the browser if left unpatched.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=138947</guid>
       <pubDate>Wed, 28 May 2025 08:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Interaction libvpx Flaw in Firefox Allows Attackers to Run Arbitrary Code</title>
-      <link>https://gbhackers.com/zero-interaction-libvpx-flaw/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-5264, CVE-2025-5265, CVE-2025-5263, CVE-2025-5266, CVE-2025-5268, CVE-2025-5272, CVE-2025-5270, CVE-2025-5271, CVE-2025-5267; Summary: Mozilla Firefox 139 addresses several critical and moderate security vulnerabilities, including a double-free bug in the libvpx encoder that could lead to memory corruption and arbitrary code execution, as well as multiple flaws in the "Copy as cURL" developer tool feature and other issues.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138933</guid>
-      <pubDate>Wed, 28 May 2025 06:45:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>INE Security And RedTeam Hacker Academy Announce Partnership To Advance Cybersecurity Skills In The Middle East</title>
-      <link>https://gbhackers.com/ine-security-and-redteam-hacker-academy-partnership/</link>
-      <description>INE Security and RedTeam Hacker Academy have formed a strategic partnership to accelerate INE's expansion in the Middle East and Africa (MEA) region, enhancing cybersecurity training capabilities across the market. The partnership aims to address the growing cybersecurity skills gap and empower the next generation of cybersecurity professionals in the region.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138974</guid>
-      <pubDate>Wed, 28 May 2025 06:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats</title>
-      <link>https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html</link>
-      <description>Apple has taken measures to prevent fraudulent transactions, terminating developer accounts and rejecting submissions due to fraud concerns. The company also blocked illegitimate apps, stopped attempts to install unauthorized apps, and removed malicious content from its App Store charts and search results. These efforts have prevented over $9 billion in fraudulent transactions over the past five years.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html</guid>
-      <pubDate>Wed, 28 May 2025 06:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DragonForce ransomware abuses SimpleHelp in MSP supply chain attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/</link>
-      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, CVE-2024-57728, CVE-2024-57726; Summary: The DragonForce ransomware operation exploited a chain of older SimpleHelp vulnerabilities to breach a managed service provider's system and steal data.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/</guid>
-      <pubDate>Tue, 27 May 2025 21:44:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>DragonForce ransomware abuses MSP’s SimpleHelp RMM to encrypt customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-msps-simplehelp-rmm-to-encrypt-customers/</link>
-      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, CVE-2024-57728, and CVE-2024-57726; Summary: The DragonForce ransomware operation exploited a chain of older SimpleHelp vulnerabilities to breach a managed service provider's system, steal data, and deploy encryptors on downstream customers' systems.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-msps-simplehelp-rmm-to-encrypt-customers/</guid>
-      <pubDate>Tue, 27 May 2025 21:44:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years</title>
-      <link>https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/</link>
-      <description>Sina Gholinejad, an Iranian national, has pleaded guilty to participating in the Robbinhood ransomware operation that targeted U.S. cities and organizations over a five-year period, breaching networks, stealing data, and encrypting devices to extort millions of dollars. The operation often used administrator accounts or vulnerabilities to access victim networks and demanded payment through Tor dark web sites.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/</guid>
-      <pubDate>Tue, 27 May 2025 19:14:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency</title>
-      <link>https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html</link>
-      <description>Vulnerable Product: Docker API; CVE(s): None; Summary: A new malware campaign is targeting misconfigured Docker API instances, transforming them into a cryptocurrency mining botnet. The attack propagates through worm-like capabilities to infect other exposed Docker instances and creates malicious containers to launch external attacks and spread the malware further.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html</guid>
-      <pubDate>Tue, 27 May 2025 16:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Use Fake DocuSign Notifications to Steal Corporate Data</title>
-      <link>https://gbhackers.com/threat-actors-use-fake-docusign-notifications/</link>
-      <description>Threat actors are leveraging the trusted reputation of DocuSign to deploy sophisticated phishing campaigns that harvest corporate credentials, infiltrate networks, and execute financial fraud. These attacks often employ social engineering tactics, such as mimicking legitimate DocuSign "envelopes" or using QR code attachments to deceive users into compromising their security.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138905</guid>
-      <pubDate>Tue, 27 May 2025 15:10:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>How GRU-Backed APT28 is Waging Cyber War on NATO’s Digital Frontlines</title>
-      <link>https://socradar.io/gru-backed-apt28-cyber-war-on-nato/</link>
-      <description>APT28, a GRU-backed threat actor, is conducting a campaign targeting critical infrastructure, government entities, and NATO-aligned organizations, particularly those supporting Ukraine. The campaign uses various tactics such as spear phishing, password spraying, exploitation of public-facing apps, and living-off-the-land binaries to gain initial access, maintain persistence, and evade detection.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060340</guid>
-      <pubDate>Tue, 27 May 2025 14:52:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable</title>
-      <link>https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/</link>
-      <description>The article discusses the limitations of traditional vulnerability prioritization methods, such as CVSS and EPSS, which score vulnerabilities based on technical factors but don't consider an organization's specific environment or controls. It proposes a new approach called exposure validation, which tests whether a vulnerability is actually exploitable in an organization's actual environment. This approach uses safe, non-destructive tools to simulate attacks and assess the risk of exploitation, taking into account factors such as existing controls and the importance of affected systems. The article highlights the benefits of this approach, including reducing the noise of false positives, improving prioritization, and increasing the effectiveness of security teams.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/</guid>
-      <pubDate>Tue, 27 May 2025 14:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Government Calls on Organizations to Adopt SIEM and SOAR Solutions</title>
-      <link>https://gbhackers.com/government-calls-on-organizations-to-adopt-siem-and-soar-solutions/</link>
-      <description>The article discusses the release of a comprehensive series of publications by international cybersecurity agencies to guide organizations in implementing and prioritizing Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) platforms. The resources aim to help executives and practitioners navigate modern cyber defense complexities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138803</guid>
-      <pubDate>Tue, 27 May 2025 14:18:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets</title>
-      <link>https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html</link>
-      <description>The article reports a new malicious campaign using a fake website advertising Bitdefender antivirus software to dupe victims into downloading the Venom RAT remote access trojan. The campaign targets individuals for financial gain by compromising their credentials, crypto wallets, and potentially selling access to their systems.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html</guid>
-      <pubDate>Tue, 27 May 2025 14:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress TI WooCommerce Wishlist Plugin Flaw Puts Over 100,000 Websites at Risk of Cyberattack</title>
-      <link>https://gbhackers.com/wordpress-ti-woocommerce-wishlist-plugin-flaw/</link>
-      <description>Vulnerable Product: TI WooCommerce Wishlist; CVE(s): CVE-2025-47577; Summary: The TI WooCommerce Wishlist plugin contains an unauthenticated arbitrary file upload vulnerability, tracked as CVE-2025-47577, allowing attackers to upload malicious files and achieve remote code execution. This flaw affects all versions prior to 2.9.2, with no patched version currently available, and requires the WC Fields Factory plugin to be active.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138886</guid>
-      <pubDate>Tue, 27 May 2025 14:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Alerts on Void Blizzard Hackers Targeting Telecommunications and IT Sectors</title>
-      <link>https://gbhackers.com/microsoft-alerts-on-void-blizzard-hackers/</link>
-      <description>A Russian-affiliated threat actor tracked as Void Blizzard, also known as LAUNDRY BEAR, has been conducting cyberespionage operations targeting NATO member states and Ukraine since at least April 2024. The group's tactics include password spraying, stolen credentials, and adversary-in-the-middle (AitM) spear phishing campaigns, posing a heightened risk to nations supporting Ukraine militarily or through humanitarian aid.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138869</guid>
-      <pubDate>Tue, 27 May 2025 13:53:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use Fake OneNote Login to Capture Office365 and Outlook Credentials</title>
-      <link>https://gbhackers.com/fake-onenote-login/</link>
-      <description>A persistent phishing campaign targeting Italian and U.S. users has been uncovered, utilizing free cloud platforms and Telegram bots for credential harvesting and data exfiltration. The attackers lack advanced technical skills but use a consistent exfiltration mechanism, relying on Telegram bot-based command-and-control infrastructure. The campaign's focus is on access brokering, selling harvested credentials to other cybercriminals, rather than direct exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=138802</guid>
-      <pubDate>Tue, 27 May 2025 13:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>MATLAB dev confirms ransomware attack behind service outage</title>
-      <link>https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/</link>
-      <description>MathWorks, a developer of mathematical computing software, has experienced a ransomware attack that caused an ongoing service outage. The attack affected the company's IT systems and online applications, leading to issues with account creation and login.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/</guid>
-      <pubDate>Tue, 27 May 2025 13:37:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
