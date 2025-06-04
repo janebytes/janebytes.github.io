@@ -6,8 +6,71 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 22:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 10:05:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Crocodilus Malware Grants Full Control Over Android Devices</title>
+      <link>https://gbhackers.com/new-crocodilus-malware-grants-full-control-over/</link>
+      <description>Vulnerable Product: Android; CVE(s): None; Summary: The Crocodilus Android banking Trojan has been identified as a sophisticated malware that can take control of devices, manipulate contact lists, and steal cryptocurrency wallet data. It uses advanced obfuscation techniques to evade detection and can be distributed through malicious ads on social platforms, bypassing Android 13+ restrictions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140437</guid>
+      <pubDate>Wed, 04 Jun 2025 09:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actor Bribes Overseas Support Agents to Steal Coinbase Customer Data</title>
+      <link>https://gbhackers.com/bribes-steal-coinbase-customer-data/</link>
+      <description>Coinbase disclosed a major security breach that exposed sensitive personal data of 69,461 users due to an advanced insider threat operation. Insiders in India were bribed by cybercriminals to exfiltrate confidential customer data from internal support tools. The breach was not a typical crypto hack exploiting blockchain vulnerabilities but rather a social engineering attack using stolen data for impersonation schemes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140426</guid>
+      <pubDate>Wed, 04 Jun 2025 08:55:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Abuse ‘Prove You Are Human’ System to Distribute Malware</title>
+      <link>https://gbhackers.com/threat-actors-abuse-prove-you-are-human-system/</link>
+      <description>Threat actors are exploiting "Prove You Are Human" verification systems by spoofing legitimate platforms like Gitcodes and DocuSign to distribute malicious software, including the NetSupport Remote Access Trojan (RAT), which installs malware on Windows systems. The attack involves multi-stage execution of scripts, clipboard poisoning, and command-and-control server communication.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140413</guid>
+      <pubDate>Wed, 04 Jun 2025 08:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Defender for Endpoint Prevents Cyberattack,Secures 180,000 Devices</title>
+      <link>https://gbhackers.com/microsoft-defender/</link>
+      <description>This article does not discuss a specific vulnerability. Instead, it highlights the importance of endpoint detection and response (EDR) in today's cybersecurity landscape, particularly with the rise of ransomware attacks. It introduces Microsoft Defender for Endpoint as a solution that leverages AI, machine learning, and global threat intelligence to deliver comprehensive protection across various devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140366</guid>
+      <pubDate>Wed, 04 Jun 2025 08:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Ruby Gems to Steal Telegram Tokens and Messages</title>
+      <link>https://gbhackers.com/hackers-exploit-ruby-gems/</link>
+      <description>Vulnerable Product: Ruby Gems; CVE(s): None; Summary: Malicious actors embedded backdoors in seemingly legitimate Ruby Gems, enabling them to steal sensitive Telegram tokens and private messages from unsuspecting developers and users. The attack begins with hackers uploading tainted Ruby Gems to the official repository, which silently execute code that scans the host system for Telegram API tokens and exfiltrates them to a remote command-and-control (C2) server.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140395</guid>
+      <pubDate>Wed, 04 Jun 2025 07:57:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom Active Directory Extensions Create Stealthy Backdoors for Corporate Attacks</title>
+      <link>https://gbhackers.com/custom-active-directory-extensions/</link>
+      <description>Vulnerable Product: Active Directory (AD); CVE(s): None; Summary: The article discusses a technique used by attackers to create custom Client-Side Extensions (CSEs) for Group Policy Objects (GPOs), allowing them to execute code with SYSTEM privileges during GPO refreshes. This can be done by creating a DLL that exports the ProcessGroupPolicy function and registering it using regsvr32.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140387</guid>
+      <pubDate>Wed, 04 Jun 2025 07:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreatBook Selected In The First-ever Gartner® Magic Quadrant™ For Network Detection And Response (NDR)</title>
+      <link>https://gbhackers.com/threatbook/</link>
+      <description>Vulnerable Product: None; Summary: This article does not discuss a vulnerability. Instead, it is about ThreatBook's Network Detection and Response (NDR) technology and its inclusion in Gartner's first Magic Quadrant for NDR. The article highlights the capabilities of ThreatBook TDP, including its ability to detect zero-day attacks, identify attack surfaces, and provide closed-loop response.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140368</guid>
+      <pubDate>Wed, 04 Jun 2025 07:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>DollyWay World Domination Attack Compromises 20,000+ Sites</title>
+      <link>https://gbhackers.com/dollyway-world-domination-attack/</link>
+      <description>Vulnerable Product: WordPress; CVE(s): None; Summary: A sophisticated malware campaign, dubbed "DollyWay World Domination", has compromised over 20,000 WordPress websites worldwide by exploiting vulnerabilities in plugins and themes. The malware injects JavaScript and PHP code to evade detection, disables security plugins, and redirects users to malicious destinations for affiliate monetization purposes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140379</guid>
+      <pubDate>Wed, 04 Jun 2025 06:29:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass</title>
+      <link>https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html</link>
+      <description>Vulnerable Product: Hewlett Packard Enterprise (HPE) StoreOnce; CVE(s): CVE-2025-37093, CVE-2025-37089, CVE-2025-37090, CVE-2025-37091, CVE-2025-37092, CVE-2025-37094, CVE-2025-37095, CVE-2025-37096; Summary: The StoreOnce data backup and deduplication solution has eight vulnerabilities that could lead to remote code execution, information disclosure, server-side request forgery, authentication bypass, arbitrary file deletion, and directory traversal. The most severe flaw is an authentication bypass bug (CVE-2025-37093) rated 9.8 on the CVSS scoring system, which could be chained with other flaws for more severe impacts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html</guid>
+      <pubDate>Wed, 04 Jun 2025 05:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-321: GIMP ICO File Parsing Integer Overflow Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-321/</link>
@@ -1383,73 +1446,6 @@ FYSA: Threat actors linked to lesser-known ransomware and malware projects are n
       <description>LexisNexis Risk Solutions has disclosed a data breach that affected over 364,000 individuals. The breach occurred when an unknown threat actor stole personal information from GitHub using a compromised company account. The stolen information includes names, contact details, Social Security numbers, driver's license numbers, and dates of birth, but financial information was not accessed or stolen.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/</guid>
       <pubDate>Thu, 29 May 2025 08:28:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Initial Assessment of the Alleged United Airlines SMS Data Leak</title>
-      <link>https://socradar.io/assessment-of-alleged-united-airlines-sms-data-leak/</link>
-      <description>A Russian hacker platform posted a claimed data leak involving United Airlines, allegedly exposing 272 million records. The SMS messages shared included flight details and URLs that resolved to legitimate United Airlines service pages. However, the presence of "FakeDLR" markers in the samples raises questions about their authenticity, as they are typically associated with internal test environments or simulated traffic.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060429</guid>
-      <pubDate>Thu, 29 May 2025 08:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Botnet Targets ASUS Routers by Injecting Malicious SSH Keys</title>
-      <link>https://gbhackers.com/massive-botnet-targets-asus-routers/</link>
-      <description>Vulnerable Product: ASUS routers; CVE(s): CVE-2023-39780; Summary: The campaign compromises over 9,000 ASUS routers by using brute-force attacks, authentication bypasses, and a known command injection vulnerability (CVE-2023-39780) to gain unauthorized access. The attackers establish persistence by enabling SSH access on a non-standard port and insert their own SSH public key for remote access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139302</guid>
-      <pubDate>Thu, 29 May 2025 07:57:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious WordPress Plugin Disguised as Java Update Infects Site Visitors</title>
-      <link>https://gbhackers.com/malicious-wordpress-plugin-disguised-as-java-update/</link>
-      <description>Vulnerable Product: Yoast SEO; CVE(s): None; Summary: A malicious plugin masquerading as "Yoast SEO" injects a deceptive JavaScript into WordPress websites, targeting non-admin users and generating a fake "Java Update" pop-up to trick visitors into downloading harmful software. The ultimate goal is to download a malicious executable file from an suspicious domain, allowing the malware to monitor system processes and detect new activity, including sending notifications to the attacker via Telegram.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139291</guid>
-      <pubDate>Thu, 29 May 2025 07:52:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT Hackers Turn Google Calendar Into Command Hub Using TOUGHPROGRESS Malware, Google Alerts</title>
-      <link>https://gbhackers.com/apt-hackers-turn-google-calendar-into-command-hub/</link>
-      <description>APT41 (HOODOO) has been uncovered to be behind a sophisticated malware campaign dubbed "TOUGHPROGRESS", which exploits a compromised government website and leverages Google Calendar as a command and control (C2) hub to manage compromised systems. The campaign involves spear-phishing, LNK files disguised as PDFs, encrypted payloads, and advanced evasion techniques.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139279</guid>
-      <pubDate>Thu, 29 May 2025 06:54:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical OneDrive Flaw Lets Malicious Websites Access All Your Files</title>
-      <link>https://gbhackers.com/critical-onedrive-flaw/</link>
-      <description>Vulnerable Product: Microsoft OneDrive File Picker; CVE(s): None; Summary: The OneDrive File Picker has a vulnerability that allows popular web applications to gain full read access to users' entire OneDrive accounts due to excessive OAuth permissions and insecure token management. This design flaw enables apps like ChatGPT, Slack, Trello, and ClickUp to potentially read every file and folder in the user's OneDrive account without explicit permission.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139293</guid>
-      <pubDate>Thu, 29 May 2025 06:53:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations</title>
-      <link>https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html</link>
-      <description>APT41, a Chinese state-sponsored threat actor, used malware called TOUGHPROGRESS that leverages Google Calendar for command-and-control (C2) to target multiple government entities and organizations. The malware uses stealth and evasion techniques, including memory-only payloads, encryption, compression, and control flow obfuscation, to carry out specific functions such as process hollowing and injecting the final payload.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html</guid>
-      <pubDate>Thu, 29 May 2025 05:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin</title>
-      <link>https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html</link>
-      <description>Vulnerable Product: TI WooCommerce Wishlist; CVE(s): CVE-2025-47577; Summary: The TI WooCommerce Wishlist plugin for WordPress contains an unauthenticated arbitrary file upload vulnerability (CVE-2025-47577) that allows attackers to upload malicious files, including PHP files, which could lead to remote code execution. The vulnerability affects all versions of the plugin below and including 2.9.2, and there is currently no patch available.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html</guid>
-      <pubDate>Thu, 29 May 2025 05:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 KB5058481 update brings seconds back to calendar flyout</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/</link>
-      <description>This article is about the release of an optional cumulative update (KB5058481) for Windows 10 22H2. The update brings back seconds to the time display in the calendar flyout and includes several other changes, such as enhanced Rich Calendar features and fixes for various issues.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/</guid>
-      <pubDate>Wed, 28 May 2025 22:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 KB5058499 update rolls out new Share and Click to Do features</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/</link>
-      <description>The article discusses various changes and fixes made available in Windows 11 KB5058499 update. This update includes 30 new features and fixes, addressing issues such as blurry CJK text at 96 DPI, unresponsive game titles after upgrading to 24H2, and improved performance for multi-user, multi-lingual, and remote desktop usage.
-
-The article also highlights various new features, including the ability to make last-minute edits on images shared through Windows Share, an in-product experience for voice access, and improved accessibility settings. Additionally, it mentions that some fixes are available immediately with the KB5058502 update, which addresses issues such as blue screen errors after resuming from sleep or hybrid-booting.
-
-There is no discussion of vulnerabilities (software, hardware, or firmware) in this article.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/</guid>
-      <pubDate>Wed, 28 May 2025 22:19:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
