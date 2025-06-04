@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 15:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 16:04:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DCRat Targets Latin American Users to Steal Banking Credentials</title>
+      <link>https://gbhackers.com/dcrat-targets-latin-american-users/</link>
+      <description>A financially motivated threat group, likely from South America, has been using a series of targeted email campaigns to deliver the DCRat banking trojan. The attacks aim to steal sensitive banking credentials and other personal information, with phishing emails containing PDF attachments or Google Docs links being used to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140537</guid>
+      <pubDate>Wed, 04 Jun 2025 15:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Eleven11bot Hacks 86,000 IP Cameras for Large-Scale DDoS Attack</title>
+      <link>https://gbhackers.com/new-eleven11bot-hacks-86000-ip-cameras/</link>
+      <description>The Eleven11bot malware has compromised over 86,000 IP cameras in the Asia-Pacific region, transforming them into a massive botnet for launching large-scale Distributed Denial of Service (DDoS) attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140521</guid>
+      <pubDate>Wed, 04 Jun 2025 15:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App</title>
+      <link>https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html</link>
+      <description>A financially motivated threat cluster, UNC6040, has been tracked by Google's Threat Intelligence Group (GTIG) for its voice phishing campaigns targeting Salesforce instances. The group uses social engineering tactics to impersonate IT support personnel and trick employees into granting access or sharing credentials, leading to large-scale data theft and subsequent extortion attempts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html</guid>
+      <pubDate>Wed, 04 Jun 2025 15:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumma Infostealer Developers Persist in Their Malicious Activities</title>
+      <link>https://gbhackers.com/lumma-infostealer-developers/</link>
+      <description>This article is not about a vulnerability but discusses a coordinated law enforcement operation to target and disrupt Lumma infostealer, a malware distributed via a malware-as-a-service (MaaS) model. The operation involved seizing domains associated with Lumma's command and control (C2) servers and management dashboards, as well as using psychological tactics such as posting messages on Telegram channels.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140512</guid>
+      <pubDate>Wed, 04 Jun 2025 15:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConnectWise ScreenConnect Breach and CVE-2025-3935: What You Need to Know</title>
+      <link>https://socradar.io/connectwise-screenconnect-breach-cve-2025-3935/</link>
+      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: A high-severity ViewState code injection vulnerability (CVE-2025-3935, CVSS 7.2) exists in ASP.NET Web Forms used by ScreenConnect, allowing attackers to steal machine keys and execute arbitrary code on the server. The vulnerability was patched in ScreenConnect version 25.2.4 released on April 24, 2025.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060799</guid>
+      <pubDate>Wed, 04 Jun 2025 14:34:25 +0000</pubDate>
+    </item>
     <item>
       <title>Media giant Lee Enterprises says data breach affects 39,000 people</title>
       <link>https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/</link>
@@ -42,6 +77,13 @@
       <description>AS-REP Roasting is a threat that targets user objects in Active Directory that don't require Kerberos pre-authentication. The attack involves sending an Authentication Server Request (AS-REQ) to the Domain Controller, which responds with an Authentication Server Response (AS-REP) containing a Ticket Granting Ticket (TGT). Malicious actors can then use tools like Rubeus or Impacket to access and exploit user objects without authentication.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/</guid>
       <pubDate>Wed, 04 Jun 2025 14:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Stealer Log Telegram Channels</title>
+      <link>https://socradar.io/top-stealer-log-telegram-channels/</link>
+      <description>This article discusses the misuse of Telegram by cybercriminals involved in the collection and trade of infostealer logs. The platform is exploited through automated bots and groups for sharing or selling stolen datasets.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060786</guid>
+      <pubDate>Wed, 04 Jun 2025 13:22:18 +0000</pubDate>
     </item>
     <item>
       <title>Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads</title>
@@ -1404,48 +1446,6 @@ FYSA: Threat actors linked to lesser-known ransomware and malware projects are n
       <description>PumaBot is a sophisticated malware that targets IoT devices with exposed SSH ports, exploiting weak security configurations to gain unauthorized access and establish persistent control. The malware uses brute-force attacks, self-updates via encrypted channels, and employs obfuscation techniques to evade detection, posing a severe risk to individual users and large-scale network infrastructures.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139410</guid>
       <pubDate>Thu, 29 May 2025 13:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Argo CD Flaw Exposes Kubernetes Clusters to Full Resource Manipulation</title>
-      <link>https://gbhackers.com/critical-argo-cd-flaw/</link>
-      <description>Vulnerable Product: Argo CD; CVE(s): CVE-2025-47933, GHSA-2hj5-g64g-fp6p; Summary: A critical cross-site scripting (XSS) vulnerability in Argo CD's repository URL handling mechanism allows attackers to inject malicious URLs that execute arbitrary JavaScript in the context of authenticated users, enabling session hijacking or unauthorized actions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139387</guid>
-      <pubDate>Thu, 29 May 2025 12:29:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Cloudflare Tunnels to Launch Stealthy Cyberattacks</title>
-      <link>https://gbhackers.com/hackers-exploit-cloudflare-tunnels/</link>
-      <description>Vulnerable Product: Cloudflare, Cloudflared; CVE(s): None; Summary: Adversaries have been exploiting Cloudflared, a legitimate tunneling tool by Cloudflare, to orchestrate stealthy cyberattacks. The vulnerability lies in the exploitation of Cloudflared's capabilities for maintaining persistent access in compromised environments, using it as a beachhead for lateral movement within networks after gaining initial entry through methods like VPN breaches or RDP exploits.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139399</guid>
-      <pubDate>Thu, 29 May 2025 12:29:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Santesoft Sante DICOM Viewer Pro</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-148-01</link>
-      <description>Vulnerable Product: Santesoft, Sante DICOM Viewer Pro; CVE(s): CVE-2025-5307; Summary: The vulnerability is an out-of-bounds read that could allow an attacker to disclose information or execute arbitrary code. A local attacker could exploit this issue to potentially disclose information and execute arbitrary code on affected installations of Sante DICOM Viewer Pro.</description>
-      <guid isPermaLink="false">/node/23440</guid>
-      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SiPass</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-148-01</link>
-      <description>Vulnerable Product: Siemens SiPass integrated AC5102 (ACC-G2) and ACC-AP; CVE(s): CVE-2022-31807; Summary: The vulnerability allows an attacker to upload a maliciously modified firmware onto the device, either locally or remotely. It is caused by improper verification of cryptographic signatures.</description>
-      <guid isPermaLink="false">/node/23436</guid>
-      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Five Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/05/29/cisa-releases-five-industrial-control-systems-advisories</link>
-      <description>CISA released five Industrial Control Systems (ICS) advisories on May 29, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. These advisories aim to inform users and administrators of technical details and mitigations for the affected products.</description>
-      <guid isPermaLink="false">/node/23441</guid>
-      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instantel Micromate</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-148-04</link>
-      <description>Vulnerable Product: Instantel Micromate; CVE(s): CVE-2025-1907; Summary: The Micromate device lacks authentication on its configuration port, allowing an unauthenticated attacker to execute commands and access the device's configuration. Successful exploitation could lead to unauthorized changes or data theft.</description>
-      <guid isPermaLink="false">/node/23439</guid>
-      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
