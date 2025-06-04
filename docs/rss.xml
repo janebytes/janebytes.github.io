@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 16:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 17:02:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Exploit Malware Loaders to Circumvent Android 13+ Accessibility Safeguards</title>
+      <link>https://gbhackers.com/threat-actors-exploit-malware-loaders/</link>
+      <description>Vulnerable Product: Android; CVE(s): None; Summary: Threat actors have successfully bypassed Google's accessibility restrictions in Android 13 and later versions using sophisticated malware loaders like TiramisuDropper and Brokewell. These loaders enable attackers to deploy malicious payloads, exploit accessibility features, and harvest sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140554</guid>
+      <pubDate>Wed, 04 Jun 2025 16:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/</link>
+      <description>The FBI is warning about a new scam where cybercriminals exploit NFT airdrops on the Hedera Hashgraph network to steal cryptocurrency from wallets. Scammers send unsolicited NFTs or tokens with memos prompting users to click on a URL, which leads to phishing sites or dApps that ask for sensitive information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/</guid>
+      <pubDate>Wed, 04 Jun 2025 16:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>SCATTERED SPIDER Hackers Target IT Support Teams &amp; Bypass Multi-Factor Authentication</title>
+      <link>https://gbhackers.com/scattered-spider-hackers-target-it-support-teams/</link>
+      <description>SCATTERED SPIDER is a cybercriminal group that has emerged as a formidable threat, targeting various sectors with advanced social engineering and technical expertise. They blend in by manipulating IT support teams, bypassing MFA through voice phishing, and using psychological tactics. Their partnership with DragonForce, a Ransomware-as-a-Service platform, amplifies their destructive potential.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140546</guid>
+      <pubDate>Wed, 04 Jun 2025 16:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>DCRat Targets Latin American Users to Steal Banking Credentials</title>
       <link>https://gbhackers.com/dcrat-targets-latin-american-users/</link>
@@ -1425,27 +1446,6 @@ FYSA: Threat actors linked to lesser-known ransomware and malware projects are n
       <description>Vulnerable Product: Apple Safari; CVE(s): None; Summary: A vulnerability in Safari's Fullscreen API allows attackers to create a convincing Browser-in-the-Middle (BitM) attack that tricks victims into divulging credentials and sensitive information. The attack works by displaying a legitimate login page of an enterprise SaaS app in a fullscreen BitM window, making it difficult for users to notice the suspicious URL.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139442</guid>
       <pubDate>Thu, 29 May 2025 13:11:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Alarming Rise of Cyber Threats in the NFT and Cryptocurrency Space</title>
-      <link>https://socradar.io/cyber-threats-in-the-nft-and-cryptocurrency-space/</link>
-      <description>Vulnerable Product: None; Summary: The article discusses the growing cyber threats targeting the NFT and cryptocurrency space, with attackers focusing on emerging markets and major platforms like Binance and Coinbase. Phishing is a major concern, with 75% of phishing sites using HTTPS to mimic well-known platforms, highlighting the need for proactive security measures.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060459</guid>
-      <pubDate>Thu, 29 May 2025 13:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Microsoft Entra Connect Update Replaces Legacy Login Methods</title>
-      <link>https://gbhackers.com/microsoft-entra-connect-update/</link>
-      <description>The article discusses the rapidly emerging field of quantum computing, highlighting its potential to revolutionize industries by solving complex problems. It explains key concepts such as qubits, superposition, entanglement, and quantum algorithms, providing a basic understanding of the technical landscape.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139388</guid>
-      <pubDate>Thu, 29 May 2025 13:01:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PumaBot Hijacks IoT Devices via SSH Brute-Force for Persistent Access</title>
-      <link>https://gbhackers.com/new-pumabot-hijacks-iot-devices/</link>
-      <description>PumaBot is a sophisticated malware that targets IoT devices with exposed SSH ports, exploiting weak security configurations to gain unauthorized access and establish persistent control. The malware uses brute-force attacks, self-updates via encrypted channels, and employs obfuscation techniques to evade detection, posing a severe risk to individual users and large-scale network infrastructures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139410</guid>
-      <pubDate>Thu, 29 May 2025 13:00:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
