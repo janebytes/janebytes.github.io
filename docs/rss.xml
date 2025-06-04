@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 19:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 20:01:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hacker arrested for breaching 5,000 hosting accounts to mine crypto</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/</link>
+      <description>A 35-year-old hacker was arrested by Ukrainian police for breaching over 5,000 accounts at an international hosting company and using them to mine cryptocurrency, resulting in $4.5 million in damages. The hacker used open-source intelligence to find and breach vulnerable infrastructure since 2018 and had multiple accounts on hacker forums.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/</guid>
+      <pubDate>Wed, 04 Jun 2025 19:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco warns of ISE and CCP flaws with public exploit code</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and Customer Collaboration Platform (CCP); CVE(s): CVE-2025-20286, CVE-2025-20130, CVE-2025-20129; Summary: The vulnerabilities allow unauthenticated attackers to access sensitive data, execute limited administrative operations, or disrupt services. The most severe vulnerability, CVE-2025-20286, is a critical static credential vulnerability that can be exploited by extracting user credentials from cloud deployments and using them to access installations in other cloud environments.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/</guid>
+      <pubDate>Wed, 04 Jun 2025 19:19:16 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker</title>
       <link>https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/</link>
@@ -147,6 +161,13 @@
       <description>The article highlights the shortcomings of traditional data leakage prevention (DLP) tools in modern businesses that heavily rely on Software as a Service (SaaS) applications. It discusses how current DLP methods struggle to secure SaaS-driven workflows due to the shift from traditional file-based data handling to browser-based interactions, resulting in significant vulnerabilities and data leaks.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html</guid>
       <pubDate>Wed, 04 Jun 2025 12:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated Guidance on Play Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/04/updated-guidance-play-ransomware</link>
+      <description>The Play ransomware group, also known as Playcrypt, has been highly active since June 2022, targeting various businesses and critical infrastructure across North America, South America, and Europe. The FBI has identified approximately 900 entities allegedly exploited by these actors as of May 2025.</description>
+      <guid isPermaLink="false">/node/23474</guid>
+      <pubDate>Wed, 04 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>35,000 Internet-Connected Solar Power Systems Vulnerable to Cyberattacks</title>
@@ -1425,27 +1446,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
 FYSA: Threat actors linked to lesser-known ransomware and malware projects are now using AI tools as lures to infect unsuspecting victims with malicious payloads, including info-stealer malware operators and ransomware operations attempting to breach corporate networks.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/</guid>
       <pubDate>Thu, 29 May 2025 14:25:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Criminal IP Set to Make Its Debut at Infosecurity Europe 2025</title>
-      <link>https://gbhackers.com/criminal-ip-set-to-make-its-debut-at-infosecurity-europe-2025/</link>
-      <description>The article announces Criminal IP's participation in Infosecurity Europe 2025, a major cybersecurity conference in Europe. The platform will showcase its AI-powered threat intelligence solutions and engage with security professionals to accelerate its entry into the European market.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139478</guid>
-      <pubDate>Thu, 29 May 2025 14:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers are mapping your attack surface—are you?</title>
-      <link>https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/</link>
-      <description>The article discusses the importance of Attack Surface Management (ASM) in understanding an organization's digital footprint. It highlights how attackers use ASM to map out a target's infrastructure, and emphasizes the need for defenders to do the same to stay secure. The article promotes Sprocket Security's ASM tool as a solution to provide visibility into an attack surface, prioritize exposure by real-world risk, and close gaps before adversaries exploit them.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/</guid>
-      <pubDate>Thu, 29 May 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 File Explorer Vulnerability Enables NTLM Hash Theft</title>
-      <link>https://gbhackers.com/windows-11-file-explorer-vulnerability/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-24071; Summary: A vulnerability in Windows File Explorer allows attackers to capture NTLM authentication hashes by tricking users into extracting a malicious ZIP archive. The flaw exploits Windows Explorer's automatic file processing and can be exploited to gain access to networks for lateral movement or offline cracking of NTLM hashes.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139389</guid>
-      <pubDate>Thu, 29 May 2025 13:47:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
