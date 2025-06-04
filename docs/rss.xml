@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 17:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 18:01:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker</title>
+      <link>https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/</link>
+      <description>The article describes a cyber espionage operation conducted by the Ukrainian Main Intelligence Directorate (GUR) against Russian aerospace and defense company Tupolev, which resulted in the theft of classified information, including personal data and internal communications.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/</guid>
+      <pubDate>Wed, 04 Jun 2025 18:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploiting Clickfix: AMOS macOS Stealer Evades Security to Deploy Malicious Code</title>
+      <link>https://gbhackers.com/clickfix-amos-macos-stealer-evades-security/</link>
+      <description>This article describes a campaign using an Atomic macOS Stealer (AMOS) variant, which delivers tailored payloads based on the victim's operating system. The attack involves typo-squatted domains, Clickfix method, and employs native macOS utilities to execute a devastating attack chain, stealing credentials and bypassing security mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140564</guid>
+      <pubDate>Wed, 04 Jun 2025 17:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BidenCash carding market domains seized in international operation</title>
+      <link>https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/</link>
+      <description>Law enforcement seized multiple domains of the BidenCash dark web market for stolen credit cards, personal information, and SSH access. The operation was led by the United States Secret Service (USSS) and the Federal Bureau of Investigation (FBI), with support from other agencies and organizations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/</guid>
+      <pubDate>Wed, 04 Jun 2025 17:10:50 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Exploit Malware Loaders to Circumvent Android 13+ Accessibility Safeguards</title>
       <link>https://gbhackers.com/threat-actors-exploit-malware-loaders/</link>
@@ -1425,27 +1446,6 @@ FYSA: Threat actors linked to lesser-known ransomware and malware projects are n
       <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-24071; Summary: A vulnerability in Windows File Explorer allows attackers to capture NTLM authentication hashes by tricking users into extracting a malicious ZIP archive. The flaw exploits Windows Explorer's automatic file processing and can be exploited to gain access to networks for lateral movement or offline cracking of NTLM hashes.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139389</guid>
       <pubDate>Thu, 29 May 2025 13:47:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Partner Hackers Leverage Fake AI, VPN, and Crypto Sites to Target macOS and Windows Users</title>
-      <link>https://gbhackers.com/dark-partner-hackers-leverage-fake-ai-vpn-and-crypto-sites/</link>
-      <description>The "Dark Partners" group has launched a sophisticated malware campaign targeting both macOS and Windows users through deceptive websites impersonating well-known AI, VPN, and software brands. The campaign delivers either the Poseidon Stealer (macOS) or PayDay Loader (Windows) malwares, designed for data theft and further propagation, after capturing user information and exploiting trust in popular brands.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139426</guid>
-      <pubDate>Thu, 29 May 2025 13:17:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers</title>
-      <link>https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html</link>
-      <description>Malware with corrupted DOS and PE headers was discovered by Fortinet's researchers, which challenges analysis efforts. The malware is a remote access trojan (RAT) that captures screenshots, enumerates system services, and acts as a server for incoming client connections.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html</guid>
-      <pubDate>Thu, 29 May 2025 13:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fullscreen BitM Attack Discovered by SquareX Exploits Browser Fullscreen APIs to Steal Credentials in Safari</title>
-      <link>https://gbhackers.com/fullscreen-bitm-attack-discovered-by-squarex/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): None; Summary: A vulnerability in Safari's Fullscreen API allows attackers to create a convincing Browser-in-the-Middle (BitM) attack that tricks victims into divulging credentials and sensitive information. The attack works by displaying a legitimate login page of an enterprise SaaS app in a fullscreen BitM window, making it difficult for users to notice the suspicious URL.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139442</guid>
-      <pubDate>Thu, 29 May 2025 13:11:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
