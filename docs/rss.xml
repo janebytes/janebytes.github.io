@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 11:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 12:02:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>35,000 Internet-Connected Solar Power Systems Vulnerable to Cyberattacks</title>
+      <link>https://gbhackers.com/35000-internet-connected-solar-power-systems/</link>
+      <description>Vulnerable Product: Multiple solar power devices from 42 vendors; CVE(s): CVE-2022-29303; Summary: Solar power devices, including inverters and gateways, are exposed on the internet with vulnerable management interfaces, posing a critical cybersecurity risk to global power grids. These devices can be exploited by attackers for botnet integration or as entry points into sensitive networks, potentially destabilizing power grids.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140498</guid>
+      <pubDate>Wed, 04 Jun 2025 11:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 certificate authorities booted from the good graces of Chrome</title>
+      <link>https://arstechnica.com/security/2025/06/chrome-boots-2-certificate-authorities-citing-a-lack-of-trust-and-confidence/</link>
+      <description>Vulnerable Product: Chunghwa Telecom and Netlock; CVE(s): None; Summary: Chrome will stop trusting all certificates issued by Chunghwa Telecom and Netlock after July 31, due to certificate distrust events caused by the misissuance of certificates and failure to provide updates. Certificates issued after that date will display an error page on Chrome.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/chrome-boots-2-certificate-authorities-citing-a-lack-of-trust-and-confidence/</guid>
+      <pubDate>Wed, 04 Jun 2025 11:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT37 Hackers Fake Academic Forum Invites to Deliver Malicious LNK Files via Dropbox Platform</title>
+      <link>https://gbhackers.com/apt37-hackers-fake-academic-forum-invites-to-deliver-malicious-lnk-files/</link>
+      <description>APT37, a North Korean state-sponsored hacking group, launched a sophisticated spear phishing campaign targeting activists focused on North Korean issues. The campaign used Dropbox to deliver malicious shortcut (LNK) files and exploit legitimate services for nefarious purposes, showcasing APT37's evolving tactics in exploiting platforms like pCloud and Yandex for command and control (C2) operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140469</guid>
+      <pubDate>Wed, 04 Jun 2025 11:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Malware Attack Uses Malicious Chrome &amp; Edge Extensions to Steal Sensitive Data</title>
       <link>https://gbhackers.com/new-malware-attack-uses-malicious-chrome-edge-extensions/</link>
@@ -28,6 +49,13 @@
       <description>The Wireshark Foundation has launched the Wireshark Certified Analyst (WCA-101) certification to validate advanced proficiency in network protocol analysis and troubleshooting using Wireshark. The certification is designed for IT professionals and network engineers, aiming to recognize analytical expertise and mastery of technical terms and concepts.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140435</guid>
       <pubDate>Wed, 04 Jun 2025 10:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks</title>
+      <link>https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html</link>
+      <description>Vulnerable Product: Various packages on npm, Python, and Ruby package repositories; CVE(s): None; Summary: Several malicious packages have been found across various open-source ecosystems, including npm, Python, and Ruby. The packages drain funds from cryptocurrency wallets, erase entire codebases after installation, and exfiltrate Telegram API tokens.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html</guid>
+      <pubDate>Wed, 04 Jun 2025 10:11:00 +0000</pubDate>
     </item>
     <item>
       <title>New Crocodilus Malware Grants Full Control Over Android Devices</title>
@@ -1418,34 +1446,6 @@ FYSA: Threat actors linked to lesser-known ransomware and malware projects are n
       <description>The article discusses a study by NETSCOUT that analyzed TCP SYN segments captured by honeypot systems. The research identifies trends and anomalies in network traffic that could signal potential threats, including variability in IPv4 TTL values, suspicious patterns in TCP header lengths, and correlations between header lengths, window sizes, and sequence numbers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139352</guid>
       <pubDate>Thu, 29 May 2025 10:28:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Victoria’s Secret Website Taken Offline After Cybersecurity Breach</title>
-      <link>https://gbhackers.com/victorias-secret-websit/</link>
-      <description>Victoria's Secret has taken its US website offline and suspended some in-store services following a major cybersecurity incident. The company has not disclosed the exact nature of the breach or whether customer data was compromised. Industry analysts note that the timing aligns with common tactics among cybercriminals, who often launch attacks during holidays when IT staff coverage is reduced.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139318</guid>
-      <pubDate>Thu, 29 May 2025 10:07:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals camouflaging threats as AI tool installers</title>
-      <link>https://blog.talosintelligence.com/fake-ai-tool-installers/</link>
-      <description>Talos has discovered multiple threats masquerading as AI tool installers, including the ransomware CyberLock, Lucky_Gh0$t, and a newly-discovered malware called "Numero". These threats are disguised as legitimate AI solutions and are targeting businesses in various industries. Threat actors are using SEO-poisoning tactics to manipulate search engine rankings and distribute these fraudulent installers through platforms like Telegram or social media messengers.</description>
-      <guid isPermaLink="false">6835f4ab9e70410001050ded</guid>
-      <pubDate>Thu, 29 May 2025 10:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Windows 11 might fail to start after installing KB5058405</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: Some Windows 11 systems (22H2 and 23H2) may fail to start after installing the KB5058405 cumulative update, displaying a "0xc0000098" recovery error in ACPI.sys.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/</guid>
-      <pubDate>Thu, 29 May 2025 09:59:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Spear-Phishing Campaign Targets Financial Executives with NetBird Malware</title>
-      <link>https://gbhackers.com/new-spear-phishing-campaign-targets-financial-executives/</link>
-      <description>Trellix detected a sophisticated spear-phishing campaign targeting CFOs and finance executives across various industries. The campaign uses social engineering, legitimate tools like NetBird and OpenSSH, and custom math CAPTCHA to evade security defenses. It creates a persistent backdoor on victims' networks for lateral movement and data exfiltration.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139337</guid>
-      <pubDate>Thu, 29 May 2025 09:33:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
