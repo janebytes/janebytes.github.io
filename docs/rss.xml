@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 12:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 13:01:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows Authentication Coercion Attacks Present Major Risks to Enterprise Networks</title>
+      <link>https://gbhackers.com/windows-authentication-coercion-attacks/</link>
+      <description>Vulnerable Product: Windows; CVE(s): None; Summary: Authentication coercion remains a potent attack vector in Windows environments, enabling attackers with low-privileged domain accounts to force targeted systems to authenticate to attacker-controlled hosts. This technique exploits NTLM and Kerberos relay attacks, potentially granting administrative access or enabling lateral movement across the network.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140479</guid>
+      <pubDate>Wed, 04 Jun 2025 12:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your SaaS Data Isn't Safe: Why Traditional DLP Solutions Fail in the Browser Era</title>
+      <link>https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html</link>
+      <description>The article highlights the shortcomings of traditional data leakage prevention (DLP) tools in modern businesses that heavily rely on Software as a Service (SaaS) applications. It discusses how current DLP methods struggle to secure SaaS-driven workflows due to the shift from traditional file-based data handling to browser-based interactions, resulting in significant vulnerabilities and data leaks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html</guid>
+      <pubDate>Wed, 04 Jun 2025 12:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>35,000 Internet-Connected Solar Power Systems Vulnerable to Cyberattacks</title>
       <link>https://gbhackers.com/35000-internet-connected-solar-power-systems/</link>
@@ -1432,20 +1446,6 @@ FYSA: Threat actors linked to lesser-known ransomware and malware projects are n
       <description>Vulnerable Product: Dell PowerStore T; CVE(s): CVE-2025-36572, None; Summary: A series of vulnerabilities in the PowerStore T family can be exploited by malicious actors to compromise affected systems. The most critical proprietary issue involves the use of hard-coded credentials within the PowerStore image file, allowing a low-privileged attacker with remote access and knowledge of these credentials to gain unauthorized access, potentially exposing sensitive system resources.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139359</guid>
       <pubDate>Thu, 29 May 2025 10:41:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints</title>
-      <link>https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html</link>
-      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, CVE-2024-57728, and CVE-2024-57726; Summary: Threat actors exploited multiple security flaws in SimpleHelp to gain access to an MSP's deployment, ultimately leading to data exfiltration and ransomware attacks on downstream customers.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html</guid>
-      <pubDate>Thu, 29 May 2025 10:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research Reveals Key TCP SYN Patterns for Detecting Malicious Activity</title>
-      <link>https://gbhackers.com/new-research-reveals-key-tcp-syn-patterns/</link>
-      <description>The article discusses a study by NETSCOUT that analyzed TCP SYN segments captured by honeypot systems. The research identifies trends and anomalies in network traffic that could signal potential threats, including variability in IPv4 TTL values, suspicious patterns in TCP header lengths, and correlations between header lengths, window sizes, and sequence numbers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139352</guid>
-      <pubDate>Thu, 29 May 2025 10:28:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
