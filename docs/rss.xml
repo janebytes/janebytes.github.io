@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 14:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 15:04:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Media giant Lee Enterprises says data breach affects 39,000 people</title>
+      <link>https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/</link>
+      <description>Lee Enterprises, a publishing giant, has notified over 39,000 individuals whose personal information was stolen in a February 2025 ransomware attack. The attackers, believed to be the Qilin ransomware gang, stole documents containing personally identifiable information, including Social Security numbers and government ID scans.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/</guid>
+      <pubDate>Wed, 04 Jun 2025 14:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious ‘Sleeper Agent’ Browser Extensions Infected 1.5 Million Users Globally</title>
+      <link>https://gbhackers.com/malicious-sleeper-agent/</link>
+      <description>Vulnerable Product: LayerX; CVE(s): None; Summary: A malicious network of browser extensions, dubbed "sleeper agents," has been discovered, installed on nearly 1.5 million devices worldwide. These extensions can execute remote commands, open background tabs, communicate with known malicious domains, and use encryption and base64 code obfuscation to hide their activity from traditional security tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140525</guid>
+      <pubDate>Wed, 04 Jun 2025 14:15:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aembit Recognized on the 2025 Rising in Cyber List of Top Cybersecurity Startups</title>
+      <link>https://gbhackers.com/aembit-named-to-rising-in-cyber-2025-list-of-top-cybersecurity-startups/</link>
+      <description>Aembit, a workload identity and access management (IAM) company, has been included in the "Rising in Cyber 2025" list, recognizing the most promising cybersecurity startups. The selection was based on real-world validation through nominations from leading cybersecurity venture firms and votes from nearly 150 chief information security officers (CISOs) and senior security executives.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140561</guid>
+      <pubDate>Wed, 04 Jun 2025 14:14:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google: Hackers target Salesforce accounts in data extortion attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/</link>
+      <description>ShinyHunters extortion group is conducting social engineering attacks against multi-national companies to steal data from organizations' Salesforce platforms. The attackers impersonate IT support personnel and trick employees into connecting a modified version of Salesforce's Data Loader application, allowing them to export data stored in Salesforce instances and move laterally through connected platforms such as Okta, Microsoft 365, and Workplace.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/</guid>
+      <pubDate>Wed, 04 Jun 2025 14:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kerberos AS-REP roasting attacks: What you need to know</title>
+      <link>https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/</link>
+      <description>AS-REP Roasting is a threat that targets user objects in Active Directory that don't require Kerberos pre-authentication. The attack involves sending an Authentication Server Request (AS-REQ) to the Domain Controller, which responds with an Authentication Server Response (AS-REP) containing a Ticket Granting Ticket (TGT). Malicious actors can then use tools like Rubeus or Impacket to access and exploit user objects without authentication.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/</guid>
+      <pubDate>Wed, 04 Jun 2025 14:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads</title>
+      <link>https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html</link>
+      <description>Vulnerable Product: Chaos RAT; CVE(s): CVE-2024-30850, CVSS score: 8.8 (command injection vulnerability), CVE-2024-31839, CVSS score: 4.8 (cross-site scripting flaw); Summary: A new variant of the remote access trojan (RAT) called Chaos RAT has been used in attacks targeting Windows and Linux systems. The malware's admin panel is susceptible to a command injection vulnerability that can be combined with a cross-site scripting flaw to execute arbitrary code on the server with elevated privileges.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html</guid>
+      <pubDate>Wed, 04 Jun 2025 12:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>Windows Authentication Coercion Attacks Present Major Risks to Enterprise Networks</title>
       <link>https://gbhackers.com/windows-authentication-coercion-attacks/</link>
@@ -70,6 +112,13 @@
       <description>Vulnerable Product: Various packages on npm, Python, and Ruby package repositories; CVE(s): None; Summary: Several malicious packages have been found across various open-source ecosystems, including npm, Python, and Ruby. The packages drain funds from cryptocurrency wallets, erase entire codebases after installation, and exfiltrate Telegram API tokens.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html</guid>
       <pubDate>Wed, 04 Jun 2025 10:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacker targets other hackers and gamers with backdoored GitHub code</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-targets-other-hackers-and-gamers-with-backdoored-github-code/</link>
+      <description>Vulnerable Product: ischhfd83 (GitHub repositories); CVE(s): None; Summary: A hacker has created a campaign on GitHub that hosts exploits, bots, and game cheats in source code containing hidden backdoors to grant remote access to infected devices. The backdoors are designed to download and install malware on devices attempting to compile the code, with obfuscated payloads and automated commits to maintain a false appearance of legitimacy.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-targets-other-hackers-and-gamers-with-backdoored-github-code/</guid>
+      <pubDate>Wed, 04 Jun 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Crocodilus Malware Grants Full Control Over Android Devices</title>
@@ -1397,55 +1446,6 @@ FYSA: Threat actors linked to lesser-known ransomware and malware projects are n
       <description>Vulnerable Product: Instantel Micromate; CVE(s): CVE-2025-1907; Summary: The Micromate device lacks authentication on its configuration port, allowing an unauthenticated attacker to execute commands and access the device's configuration. Successful exploitation could lead to unauthorized changes or data theft.</description>
       <guid isPermaLink="false">/node/23439</guid>
       <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consilium Safety CS5000 Fire Panel</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-148-03</link>
-      <description>Vulnerable Product: Consilium Safety CS5000 Fire Panel; CVE(s): CVE-2025-41438, CVE-2025-46352; Summary: The CS5000 Fire Panel is vulnerable to exploitation due to an insecure default account and a hard-coded password on the VNC server. Successful exploitation could allow an attacker to gain high-level access to the device, potentially putting it into a non-functional state.</description>
-      <guid isPermaLink="false">/node/23438</guid>
-      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SiPass Integrated</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-148-02</link>
-      <description>Vulnerable Product: Siemens SiPass integrated; CVE(s): CVE-2022-31812; Summary: The vulnerability is an out-of-bounds read past the end of an allocated buffer in affected server applications, allowing an unauthenticated remote attacker to cause a denial-of-service condition. Successful exploitation could allow an attacker to create a denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23437</guid>
-      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Victoria’s Secret takes down website after security incident</title>
-      <link>https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/</link>
-      <description>Victoria's Secret has taken down its website and some store services due to an ongoing security incident. The company is working to restore operations, but no further details are available on the nature of the incident or whether it was related to other recent attacks targeting retailers in the UK and US.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/</guid>
-      <pubDate>Thu, 29 May 2025 11:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT41 Targets Governments with New TOUGHPROGRESS Malware Using Google Calendar for C2</title>
-      <link>https://socradar.io/apt41-toughprogress-malware-google-calendar/</link>
-      <description>Vulnerable Product: APT41 (Chinese state-sponsored cyber threat group); CVE(s): None; Summary: APT41, a Chinese state-sponsored cyber threat group, has launched an advanced cyber campaign targeting multiple government organizations. The campaign uses novel malware dubbed TOUGHPROGRESS, which leverages Google Calendar as a stealthy Command and Control (C2) channel.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060441</guid>
-      <pubDate>Thu, 29 May 2025 11:24:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>UTG-Q-015 Hackers Launch Massive Brute-Force Attacks on Government Web Servers</title>
-      <link>https://gbhackers.com/utg-q-015-hackers-launch-massive-brute-force-attacks/</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2021-38647, CVE-2017-12611, CVE-2017-9805, CVE-2023-48022; Summary: The UTG-Q-015 hacker group has escalated their malicious activities, targeting government and enterprise web servers with brute-force scanning and blasting campaigns. They have exploited 0day and Nday vulnerabilities, including the listed CVEs, to launch attacks on high-value targets such as blockchain platforms, financial institutions, and AI research servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139367</guid>
-      <pubDate>Thu, 29 May 2025 11:01:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Dedicated SIEM &amp; SOAR Guide for Cybersecurity Professionals</title>
-      <link>https://gbhackers.com/cisa-releases-dedicated-siem-soar-guide/</link>
-      <description>The article discusses best practices for Security Information and Event Management (SIEM) log ingestion, emphasizing the importance of prioritizing high-value log sources, filtering out noise, and ensuring compatibility across diverse systems. It also highlights the role of log instrumentation in applications and provides examples of AQL queries for querying SIEM data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139360</guid>
-      <pubDate>Thu, 29 May 2025 10:51:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Dell PowerStore T Vulnerability Allows Full System Compromise</title>
-      <link>https://gbhackers.com/dell-powerstore-t-vulnerability/</link>
-      <description>Vulnerable Product: Dell PowerStore T; CVE(s): CVE-2025-36572, None; Summary: A series of vulnerabilities in the PowerStore T family can be exploited by malicious actors to compromise affected systems. The most critical proprietary issue involves the use of hard-coded credentials within the PowerStore image file, allowing a low-privileged attacker with remote access and knowledge of these credentials to gain unauthorized access, potentially exposing sensitive system resources.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139359</guid>
-      <pubDate>Thu, 29 May 2025 10:41:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
