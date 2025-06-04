@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 20:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 21:01:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft unveils free EU cybersecurity program for governments</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/</link>
+      <description>FYSA:
+
+The article announces Microsoft's new European Security Program, which aims to enhance cybersecurity for European governments by leveraging artificial intelligence, strengthening partnerships, and providing real-time threat insights. The program targets nation-state actors from Russia, Iran, China, and North Korea, who are believed to be engaged in espionage activities against the EU.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/</guid>
+      <pubDate>Wed, 04 Jun 2025 20:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI: Play ransomware breached 900 victims, including critical orgs</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/</link>
+      <description>The FBI reported that the Play ransomware gang has breached approximately 900 organizations as of May 2025, using recompiled malware to evade detection. The gang also uses social engineering tactics, including phone calls, to pressure victims into paying ransoms. Additionally, initial access brokers have exploited vulnerabilities in remote monitoring and management tools to target US organizations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/</guid>
+      <pubDate>Wed, 04 Jun 2025 20:06:14 +0000</pubDate>
+    </item>
     <item>
       <title>Hacker arrested for breaching 5,000 hosting accounts to mine crypto</title>
       <link>https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/</link>
@@ -1430,22 +1446,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>The U.S. Treasury Department has sanctioned Funnull Technology, a Philippines-based company, and its administrator Liu Lizhi for facilitating virtual currency investment scams linked to over $200 million in losses for Americans. The company is responsible for generating numerous unique domain names and providing hosting services to cybercriminals, enabling them to host malicious websites.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/</guid>
       <pubDate>Thu, 29 May 2025 15:42:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache InLong JDBC Vulnerability Enables Deserialization of Untrusted Data</title>
-      <link>https://gbhackers.com/apache-inlong-jdbc-vulnerability/</link>
-      <description>Vulnerable Product: Apache InLong; CVE(s): CVE-2025-27522; Summary: A moderate-severity vulnerability, tracked as CVE-2025-27522, allows threat actors to bypass security mechanisms in the InLong JDBC component, potentially leading to unauthorized data manipulation or information disclosure. The vulnerability occurs when the system fails to validate or sanitize incoming serialized objects, allowing attackers to craft malicious payloads that can trigger unintended behaviors such as arbitrary file reading or code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139474</guid>
-      <pubDate>Thu, 29 May 2025 14:28:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals exploit AI hype to spread ransomware, malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/</link>
-      <description>Threat actors are using AI tools as lures to infect victims with malicious payloads, including a PowerShell-based ransomware called CyberLock and a new malware named Numero. The malware is delivered via fake AI tool websites and can encrypt files or render Windows systems unusable.
-
-FYSA: Threat actors linked to lesser-known ransomware and malware projects are now using AI tools as lures to infect unsuspecting victims with malicious payloads, including info-stealer malware operators and ransomware operations attempting to breach corporate networks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/</guid>
-      <pubDate>Thu, 29 May 2025 14:25:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
