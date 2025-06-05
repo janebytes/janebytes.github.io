@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 11:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 12:02:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Germany fines Vodafone $51 million for privacy, security breaches</title>
+      <link>https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/</link>
+      <description>The article reports that Vodafone GmbH, a German subsidiary of the telecommunications company Vodafone, was fined €45 million for privacy and security violations. The fines were imposed due to malicious employees in partner agencies who brokered contracts with customers on behalf of Vodafone, resulting in fraud cases. Additionally, the company's MeinVodafone and hotline authentication vulnerabilities allowed attackers to access customer eSIM profiles.
+
+FYSA: None</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/</guid>
+      <pubDate>Thu, 05 Jun 2025 11:29:18 +0000</pubDate>
+    </item>
     <item>
       <title>UNC6040 APT Hackers Steals Salesforce data Without Exploit Any Vulnerabilities</title>
       <link>https://gbhackers.com/unc6040-apt-hackers-steals-salesforce-data/</link>
@@ -28,6 +37,13 @@
       <description>The U.S. Department of Justice (DoJ) seized cryptocurrency funds and domains associated with the illicit carding marketplace BidenCash, which allegedly supported over 117,000 customers, trafficked over 15 million payment card numbers, and generated $17 million in revenue. The platform specialized in selling compromised credentials and offered SSH services to buyers.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html</guid>
       <pubDate>Thu, 05 Jun 2025 10:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newly identified wiper malware “PathWiper” targets critical infrastructure in Ukraine</title>
+      <link>https://blog.talosintelligence.com/pathwiper-targets-ukraine/</link>
+      <description>The article describes a destructive attack on Ukrainian critical infrastructure, attributed to a Russia-nexus advanced persistent threat (APT) actor. The attack used a previously unknown wiper malware called "PathWiper" that was deployed via a legitimate endpoint administration framework. PathWiper overwrites file system artifacts and destroys files by writing random bytes to disk.</description>
+      <guid isPermaLink="false">683efe9726e1af0001c7835f</guid>
+      <pubDate>Thu, 05 Jun 2025 10:00:53 +0000</pubDate>
     </item>
     <item>
       <title>ViLE gang members sentenced for extortion, police portal breach</title>
@@ -1432,20 +1448,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>Meta disrupted three covert influence operations originating from Iran, China, and Romania during Q1 2025. The campaigns targeted various platforms, including Meta's services, TikTok, X, and YouTube, using fake accounts, off-platform websites, and AI-generated profile photos. Threat actors leveraged proxy IP infrastructure to conceal their origin and coordination, posting content related to news, current events, and politics.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html</guid>
       <pubDate>Fri, 30 May 2025 04:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams</title>
-      <link>https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/</link>
-      <description>The U.S. government imposed sanctions on Funnull Technology Inc., a Philippines-based company, for facilitating virtual currency investment scams known as "pig butchering," resulting in over $200 million in financial losses to Americans.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71387</guid>
-      <pubDate>Fri, 30 May 2025 01:55:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs</title>
-      <link>https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): None; Summary: Firefox 139.0.1 update fixes graphical artifacts caused by re-enabled DirectComposition path behavior in Firefox 139, which exposed a graphics driver bug on NVIDIA cards under Windows 10, resulting in flickering or flashing videos and webpages. The issue was caused by the removal of a block list that prevented Firefox from using DirectComposition on mixed-refresh NVIDIA setups.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/</guid>
-      <pubDate>Thu, 29 May 2025 23:58:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
