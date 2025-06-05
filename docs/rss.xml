@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 10:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 11:02:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UNC6040 APT Hackers Steals Salesforce data Without Exploit Any Vulnerabilities</title>
+      <link>https://gbhackers.com/unc6040-apt-hackers-steals-salesforce-data/</link>
+      <description>UNC6040 threat cluster uses voice phishing (vishing) campaigns to compromise Salesforce environments by manipulating human behavior and impersonating IT support personnel, leading to large-scale data theft and extortion attempts. The campaign relies on tricking victims into authorizing a malicious connected app, often using modified versions of Salesforce's Data Loader tool, and leveraging infrastructure like Mullvad VPN IPs and Okta phishing panels for lateral movement.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140639</guid>
+      <pubDate>Thu, 05 Jun 2025 10:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco IMC Vulnerability Allows Attackers to Gain Elevated Privileges</title>
+      <link>https://gbhackers.com/cisco-imc-vulnerability/</link>
+      <description>Vulnerable Product: Cisco Integrated Management Controller (IMC) software; CVE(s): CVE-2025-20261; Summary: A critical privilege escalation vulnerability in the IMC software allows an authenticated, remote attacker to gain elevated privileges and unauthorized access to internal services via SSH, potentially leading to full system compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140654</guid>
+      <pubDate>Thu, 05 Jun 2025 10:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown</title>
+      <link>https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html</link>
+      <description>The U.S. Department of Justice (DoJ) seized cryptocurrency funds and domains associated with the illicit carding marketplace BidenCash, which allegedly supported over 117,000 customers, trafficked over 15 million payment card numbers, and generated $17 million in revenue. The platform specialized in selling compromised credentials and offered SSH services to buyers.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html</guid>
+      <pubDate>Thu, 05 Jun 2025 10:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>ViLE gang members sentenced for extortion, police portal breach</title>
       <link>https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/</link>
@@ -1425,27 +1446,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>Vulnerable Product: Mozilla Firefox; CVE(s): None; Summary: Firefox 139.0.1 update fixes graphical artifacts caused by re-enabled DirectComposition path behavior in Firefox 139, which exposed a graphics driver bug on NVIDIA cards under Windows 10, resulting in flickering or flashing videos and webpages. The issue was caused by the removal of a block list that prevented Firefox from using DirectComposition on mixed-refresh NVIDIA setups.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/</guid>
       <pubDate>Thu, 29 May 2025 23:58:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Authenticator now warns to export passwords before July cutoff</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/</link>
-      <description>Microsoft Authenticator app is deprecating its password autofill feature, prompting users to export their saved passwords or switch to Microsoft Edge. The change will occur in July 2025, with a gradual phase-out starting June 2025 for saving new passwords and ending August 2025 for accessing saved passwords.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/</guid>
-      <pubDate>Thu, 29 May 2025 23:49:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-311: (Pwn2Own) Sonos Era 300 Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-311/</link>
-      <description>Vulnerable Product: Sonos Era 300; CVE(s): CVE-2025-1051; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected Sonos Era 300 speakers without authentication. The specific flaw exists within the processing of ALAC data due to a lack of proper validation of user-supplied data length prior to copying it to a heap-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-25865</guid>
-      <pubDate>Thu, 29 May 2025 22:01:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-310: Linux Kernel ksmbd Session Setup Null Pointer Dereference Denial-of-Service Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-310/</link>
-      <description>Vulnerable Product: Linux Kernel; CVE(s): ZDI-25-310, ZDI-CAN-26505; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Linux Kernel by dereferencing a null pointer in the handling of preauth hashes. Authentication is not required to exploit this vulnerability, but only systems with ksmbd enabled are vulnerable.</description>
-      <guid isPermaLink="false">ZDI-CAN-26505</guid>
-      <pubDate>Thu, 29 May 2025 21:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
