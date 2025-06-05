@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 14:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 15:01:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands</title>
+      <link>https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html</link>
+      <description>The article discusses the threat actor Bitter, also known as APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397. It is a state-backed hacking group that targets governments, diplomatic entities, and defense organizations to gather intelligence aligned with the interests of the Indian government. The group uses spear-phishing emails and masquerades as government and diplomatic entities from various countries to entice recipients into malware-laced attachments.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html</guid>
+      <pubDate>Thu, 05 Jun 2025 13:53:00 +0000</pubDate>
+    </item>
     <item>
       <title>Odoo Employee Database Allegedly Exposed and Put Up for Sale on Dark Web</title>
       <link>https://gbhackers.com/odoo-database-allegedly-exposed/</link>
@@ -1441,13 +1448,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>Vulnerable Product: Python Package Index (PyPI); CVE(s): None; Summary: A malicious package named semantic-types was discovered in PyPI, which deploys a covert key-stealing payload targeting Solana blockchain developers. The attack leverages a backdoor that silently exfiltrates private keys, posing a severe risk to developer environments and CI/CD pipelines.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139644</guid>
       <pubDate>Fri, 30 May 2025 10:13:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novel Malware Evades Detection by Skipping PE Header in Windows</title>
-      <link>https://gbhackers.com/novel-malware-evades-detection-by-skipping-pe-header/</link>
-      <description>Researchers have identified a new strain of malware that bypasses traditional detection mechanisms by omitting the Portable Executable (PE) header in Windows environments. This innovative evasion tactic makes many signature-based and heuristic analysis tools ineffective, allowing the malware to load its malicious payload directly into memory without relying on a structured PE header.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139625</guid>
-      <pubDate>Fri, 30 May 2025 10:07:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
