@@ -6,8 +6,47 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 18:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 19:03:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-325: Hewlett Packard Enterprise Insight Remote Support processAttachmentDataStream Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-325/</link>
+      <description>Vulnerable Product: Hewlett Packard Enterprise Insight Remote Support; CVE(s): CVE-2025-37099; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations without authentication. The issue occurs due to the lack of proper validation of a user-supplied path prior to using it in file operations, enabling an attacker to execute code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-25954</guid>
+      <pubDate>Thu, 05 Jun 2025 19:03:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Chaos RAT Targets Linux and Windows Users to Steal Sensitive Data</title>
+      <link>https://gbhackers.com/new-chaos-rat-targets-linux-and-windows-users/</link>
+      <description>Vulnerable Product: Chaos RAT; CVE(s): CVE-2024-30850, CVE-2024-31839; Summary: Chaos RAT is a remote administration tool that allows attackers to deploy payloads across diverse systems. The latest variants target both Linux and Windows environments with sophisticated capabilities for espionage and data exfiltration. A critical vulnerability in its web panel (CVE-2024-30850) allows remote code execution on the server itself, while an XSS issue (CVE-2024-31839) underscores its dual-edged nature as a tool for attackers and a potential target for counter-exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140796</guid>
+      <pubDate>Thu, 05 Jun 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ViperSoftX Malware Enhances Modularity, Stealth, and Persistence Techniques</title>
+      <link>https://gbhackers.com/vipersoftx-malware-enhances-modularity/</link>
+      <description>The article discusses a new variant of the ViperSoftX stealer malware that uses PowerShell and showcases advancements in modularity, stealth, and persistence mechanisms. It targets cryptocurrency users and enterprises, and its features include enhanced operational security, dynamic adaptability, and persistence mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140782</guid>
+      <pubDate>Thu, 05 Jun 2025 18:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Accuses Taiwan of Operating APT Groups with US Support</title>
+      <link>https://gbhackers.com/china-accuses-taiwan-of-operating-apt-groups/</link>
+      <description>Vulnerable Product: None; Summary: The article reports on Chinese allegations of Taiwan-based Advanced Persistent Threat (APT) groups conducting long-term cyber espionage and sabotage against critical infrastructure, government bodies, and key industries in China, Hong Kong, and Macao. These groups are accused of stealing sensitive intelligence, collaborating with the US government, and using tactics such as phishing campaigns, exploiting known vulnerabilities, and deploying open-source tools for initial access and persistence.
+
+FYSA: The article discusses the alleged activities of Taiwan-based APT groups, referred to as "T-APTs," which are claimed to be supported by Taiwan's Information, Communications and Electronic Force Command (ICEFCOM) and have close ties with the United States. These groups are accused of conducting cyber warfare, public opinion manipulation, and cognitive warfare against China, acting as proxies for a so-called "color revolution."</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140818</guid>
+      <pubDate>Thu, 05 Jun 2025 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Everyone's on the cyber target list</title>
+      <link>https://blog.talosintelligence.com/everyones-on-the-cyber-target-list/</link>
+      <description>This article is not about a vulnerability, but it contains cybersecurity-relevant content. The summary should focus on threat actors, tactics, infrastructure, scams, or impacts.
+
+FYSA: The article discusses the importance of cybersecurity awareness and the need for basic cyber hygiene. It highlights the fact that anyone can be a victim of a cyber attack and emphasizes the importance of ensuring endpoint security, monitoring for unusual administrative activity, and staying informed on evolving threats to mitigate potential risks. Additionally, the article mentions various cybersecurity-related events and conferences.</description>
+      <guid isPermaLink="false">68409ed526e1af0001c783cf</guid>
+      <pubDate>Thu, 05 Jun 2025 18:00:27 +0000</pubDate>
+    </item>
     <item>
       <title>Beware of Fake Zoom Client Downloads Granting Attackers Access to Your Computer</title>
       <link>https://gbhackers.com/beware-of-fake-zoom-client-downloads-granting-attackers/</link>
@@ -84,6 +123,13 @@
       <description>A suspected state-backed threat actor, TA397 (also known as Bitter), has been identified by Proofpoint Threat Research. The group is believed to be aligned with Indian intelligence interests and targets entities in Europe and Asia, particularly those connected to China, Pakistan, and the Indian subcontinent. Their tactics include spearphishing, scheduled tasks for malware deployment, and manual payload delivery, showcasing adaptability and consistency in evading detection.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140714</guid>
       <pubDate>Thu, 05 Jun 2025 12:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/05/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Google Chromium V8; CVE(s): CVE-2025-5419; Summary: This out-of-bounds read and write vulnerability in Google Chromium V8 poses significant risks to the federal enterprise, as it is a frequent attack vector for malicious cyber actors. The vulnerability has been added to CISA's Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation.</description>
+      <guid isPermaLink="false">/node/23475</guid>
+      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Releases Seven Industrial Control Systems Advisories</title>
@@ -1404,50 +1450,6 @@ FYSA: A new spear-phishing campaign has been detected, targeting Chief Financial
       <description>Pure Crypter is a malware-as-a-service (MaaS) loader used by threat actors to deploy information stealers like Lumma and Rhadamanthys. It has demonstrated adaptability in evading Microsoft's security enhancements in Windows 11 24H2, including bypassing Process Hollowing-based injection using a patch of the NtManageHotPatch API in memory.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139738</guid>
       <pubDate>Fri, 30 May 2025 14:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New EDDIESTEALER Malware Bypasses Chrome's App-Bound Encryption to Steal Browser Data</title>
-      <link>https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html</link>
-      <description>A novel Rust-based information stealer dubbed EDDIESTEALER is distributed using the ClickFix social engineering tactic, compromising legitimate websites with malicious JavaScript payloads that prompt site visitors to execute a PowerShell script, ultimately deploying the infostealer. The malware harvests sensitive data such as credentials, browser information, and cryptocurrency wallet details.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html</guid>
-      <pubDate>Fri, 30 May 2025 14:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Exploit Microsoft Entra Billing Roles to Escalate Privileges</title>
-      <link>https://gbhackers.com/exploit-microsoft-entra/</link>
-      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: A critical security gap in Microsoft Entra B2B guest accounts allows external guest users to gain powerful control over Azure environments by leveraging billing roles and creating new subscriptions without explicit administrative privileges. This behavior is not a software bug but rather an architectural design choice, enabling guests to spin up new subscriptions and move them into target tenants, opening potential attack vectors for attackers who become subscription Owners.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139787</guid>
-      <pubDate>Fri, 30 May 2025 14:11:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Getting Exposure Management Right: Insights from 500 CISOs</title>
-      <link>https://www.bleepingcomputer.com/news/security/getting-exposure-management-right-insights-from-500-cisos/</link>
-      <description>Vulnerable Product: None; Summary: The article discusses the importance of exposure management in cybersecurity, highlighting the growing complexity of attack surfaces and the need for a strategic approach to managing vulnerabilities. It also emphasizes the need for prioritizing exposures based on their impact rather than solely focusing on exploitability.
-
-FYSA: The article provides insights from Pentera's 4th Pentesting report, which reveals that despite increased pentesting efforts, attackers are still able to breach systems. It highlights the importance of exposure management in reducing cyber risk and emphasizes the need for a proactive approach to managing vulnerabilities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/getting-exposure-management-right-insights-from-500-cisos/</guid>
-      <pubDate>Fri, 30 May 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Reveals Techniques for Defending Against Evolving AiTM Attacks</title>
-      <link>https://gbhackers.com/microsoft-reveals-techniques/</link>
-      <description>This article highlights the escalating sophistication of phishing attacks, particularly focusing on Adversary-in-the-Middle (AiTM) techniques. It emphasizes the importance of adopting phishing-resistant, passwordless authentication methods like passkeys, complementing MFA with risk-based Conditional Access policies, and user awareness training to recognize social engineering lures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139719</guid>
-      <pubDate>Fri, 30 May 2025 13:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Dark Web Markets</title>
-      <link>https://socradar.io/top-10-dark-web-markets/</link>
-      <description>The article discusses the top 10 dark web markets, highlighting their features, categories, and user bases. These markets facilitate the trade of illegal goods and services, including drugs, stolen data, malware, and counterfeit documents. Despite frequent law enforcement takedowns and exit scams, new platforms continue to emerge with stronger security measures, making it harder to shut them down entirely. The article also highlights SOCRadar's Dark Web Report, which scans various sources to identify mentions of a company, employees, or assets on the dark web.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100045356</guid>
-      <pubDate>Fri, 30 May 2025 13:44:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Icinga 2 Vulnerability Allows Attackers to Obtain Valid Certificates</title>
-      <link>https://gbhackers.com/critical-icinga-2-vulnerability/</link>
-      <description>Vulnerable Product: Icinga 2; CVE(s): CVE-2025-48057; Summary: A critical vulnerability in Icinga 2's VerifyCertificate() function allows attackers to obtain valid certificates from the Icinga Certificate Authority, potentially impersonating trusted nodes and compromising monitoring environments. The flaw affects installations built with OpenSSL versions older than 1.1.0.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139725</guid>
-      <pubDate>Fri, 30 May 2025 13:37:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
