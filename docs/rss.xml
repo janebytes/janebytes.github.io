@@ -6,8 +6,64 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 13:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 14:04:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Odoo Employee Database Allegedly Exposed and Put Up for Sale on Dark Web</title>
+      <link>https://gbhackers.com/odoo-database-allegedly-exposed/</link>
+      <description>A data breach at Odoo, a Belgian provider of open-source business management software, has reportedly occurred. The breach allegedly involves a compromised employee database, with the seller demanding $25,000 in cryptocurrency for its release. The incident highlights the persistent threat posed by insiders in enterprise environments, emphasizing the importance of robust access controls and vigilant monitoring of privileged accounts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140748</guid>
+      <pubDate>Thu, 05 Jun 2025 13:44:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Members of ViLE Hacker Group Arrested for Hacking DEA Portal</title>
+      <link>https://gbhackers.com/vile-hacker-group-arrested/</link>
+      <description>Two members of the ViLE cybercriminal group were sentenced for a high-profile hacking and extortion scheme targeting a U.S. federal law enforcement web portal. The group specialized in "doxing" and used stolen credentials, impersonation, and social engineering tactics to obtain sensitive personal data and extort victims.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140747</guid>
+      <pubDate>Thu, 05 Jun 2025 13:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Dell PowerScale Vulnerability Allows Attackers Unauthorized Access to Filesystem</title>
+      <link>https://gbhackers.com/critical-dell-powerscale-vulnerability/</link>
+      <description>Vulnerable Product: Dell Technologies PowerScale OneFS; CVE(s): CVE-2024-53298, CVE-2025-32753; Summary: A critical vulnerability (CVE-2024-53298) allows unauthenticated remote attackers to gain unauthorized access to the file system, potentially enabling them to read, modify, or delete arbitrary files. Another vulnerability (CVE-2025-32753) is an SQL injection issue that can be triggered by sending specially crafted requests to the affected application, allowing a low-privileged local attacker to execute arbitrary SQL queries.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140746</guid>
+      <pubDate>Thu, 05 Jun 2025 12:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>TA397 Hackers Exploits Scheduled Tasks to Deploy Malware on Targeted Systems</title>
+      <link>https://gbhackers.com/ta397-hackers-exploits-scheduled-tasks-to-deploy-malware/</link>
+      <description>A suspected state-backed threat actor, TA397 (also known as Bitter), has been identified by Proofpoint Threat Research. The group is believed to be aligned with Indian intelligence interests and targets entities in Europe and Asia, particularly those connected to China, Pakistan, and the Indian subcontinent. Their tactics include spearphishing, scheduled tasks for malware deployment, and manual payload delivery, showcasing adaptability and consistency in evading detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140714</guid>
+      <pubDate>Thu, 05 Jun 2025 12:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware NSX XSS Vulnerability Exposes Systems to Malicious Code Injection</title>
+      <link>https://gbhackers.com/vmware-nsx-xss-vulnerability/</link>
+      <description>Vulnerable Product: VMware NSX; CVE(s): CVE-2025-22243, CVE-2025-22244, and CVE-2025-22245; Summary: Three stored Cross-Site Scripting (XSS) vulnerabilities were discovered in VMware NSX, affecting the NSX Manager UI, gateway firewall, and router port components. Authenticated attackers can inject malicious scripts that execute when affected interfaces are viewed by other users, exposing organizations to potential code injection attacks if left unpatched.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140694</guid>
+      <pubDate>Thu, 05 Jun 2025 11:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit New HTML Trick to Deceive Outlook Users into Clicking Malicious Links</title>
+      <link>https://gbhackers.com/hackers-exploit-new-html-trick-to-deceive-outlook-users/</link>
+      <description>Cybercriminals have employed a sophisticated phishing email campaign targeting Czech bank customers, using HTML conditional statements to exploit differences in email client rendering and bypass security measures. The tactic displays different links based on the email client or browser used, potentially tricking users into clicking malicious links. This approach highlights the attackers' understanding of user behavior and corporate security landscapes, emphasizing the importance of staying vigilant against evolving cyber threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140700</guid>
+      <pubDate>Thu, 05 Jun 2025 11:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wireshark Vulnerability Allows Attackers to Launch DoS Attacks</title>
+      <link>https://gbhackers.com/wireshark-vulnerability/</link>
+      <description>Vulnerable Product: Wireshark; CVE(s): CVE-2025-5601; Summary: The vulnerability allows attackers to cause a denial of service (DoS) by injecting malformed packets onto a network or by convincing a user to open a specially crafted capture file. The flaw stems from a bug in the column utility module used by Wireshark's dissectors, which can be triggered during live packet capture or when analyzing saved packet trace files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140723</guid>
+      <pubDate>Thu, 05 Jun 2025 11:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>830 Organizations Hacked via Glitch-hosted Phishing Attack Uses Telegram &amp; Fake CAPTCHAs</title>
+      <link>https://gbhackers.com/830-organizations-hacked-via-glitch-hosted-phishing-attack/</link>
+      <description>Netskope Threat Labs reported a significant increase in traffic to phishing pages hosted on the Glitch platform, targeting over 830 organizations and 3,000 users. The campaigns use sophisticated techniques, including Telegram's BotAPI for exfiltrating stolen data and custom-built fake CAPTCHAs to evade security tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140682</guid>
+      <pubDate>Thu, 05 Jun 2025 11:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Germany fines Vodafone $51 million for privacy, security breaches</title>
       <link>https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/</link>
@@ -23,6 +79,13 @@ FYSA: None</description>
       <description>The article discusses the importance of a Business Value Assessment (BVA) for organizations to better understand their cybersecurity posture and financial exposure. It highlights the disconnect between security metrics and business outcomes, and how a BVA can bridge this gap by linking exposures to cost, prioritization to return, and prevention to tangible value.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html</guid>
       <pubDate>Thu, 05 Jun 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researcher Found 6 Critical Vulnerabilities in NetMRI Allow Attackers Gain Complete Admin Access</title>
+      <link>https://gbhackers.com/researcher-found-6-critical-vulnerabilities-in-netmri/</link>
+      <description>Vulnerable Product: Infoblox NetMRI; CVE(s): CVE-2025-32813, CVE-2025-32814, CVE-2025-32815, CVE-2024-54188, CVE-2024-52874; Summary: Six critical vulnerabilities have been identified in Infoblox's NetMRI version 7.5.4.104695, including unauthenticated command injection, hardcoded credentials, arbitrary file read, and SQL injection flaws that can lead to complete administrative access and compromise of entire network infrastructures if exploited.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140660</guid>
+      <pubDate>Thu, 05 Jun 2025 11:04:00 +0000</pubDate>
     </item>
     <item>
       <title>Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware</title>
@@ -1385,69 +1448,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>Researchers have identified a new strain of malware that bypasses traditional detection mechanisms by omitting the Portable Executable (PE) header in Windows environments. This innovative evasion tactic makes many signature-based and heuristic analysis tools ineffective, allowing the malware to load its malicious payload directly into memory without relying on a structured PE header.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139625</guid>
       <pubDate>Fri, 30 May 2025 10:07:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Safari Flaw Exploited by BitM Attack to Steal User Login Data</title>
-      <link>https://gbhackers.com/safari-flaw-exploited-by-bitm/</link>
-      <description>Vulnerable Product: Multiple (browser-agnostic); CVE(s): None; Summary: A new type of phishing attack, known as Fullscreen Browser-in-the-Middle (BitM) attacks, uses the Fullscreen API to create convincing overlays that mask browser interface elements, making malicious activity nearly undetectable. The attack works by tricking users into clicking a malicious link or button, which triggers a remote browser session and allows attackers to capture credentials and sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139638</guid>
-      <pubDate>Fri, 30 May 2025 09:36:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js Dev Server Vulnerability Leads to Developer Data Exposure</title>
-      <link>https://gbhackers.com/next-js-dev-server-vulnerability/</link>
-      <description>Vulnerable Product: Next.js; CVE(s): CVE-2025-48068; Summary: The Next.js framework has a vulnerability (CVE-2025-48068) that allows attackers to exploit the development server via Cross-site WebSocket Hijacking (CSWSH), exposing sensitive application source code. The issue is fixed in version 15.2.2, but developers must upgrade and configure their environments securely to mitigate the risk of similar exploits.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139637</guid>
-      <pubDate>Fri, 30 May 2025 09:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Cisco IOS XE Flaw Permits Arbitrary File Upload — PoC Released</title>
-      <link>https://gbhackers.com/cisco-ios-xe-flaw/</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188; Summary: A critical vulnerability in Cisco IOS XE Wireless LAN Controllers (WLCs) allows unauthenticated remote attackers to upload arbitrary files and potentially execute commands as root, granting full control over affected devices. The flaw arises from a hard-coded JSON Web Token (JWT) used in the Out-of-Band AP Image Download feature.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139592</guid>
-      <pubDate>Fri, 30 May 2025 08:24:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean IT Workers Exploit Legitimate Software and Network Tactics to Evade EDR</title>
-      <link>https://gbhackers.com/north-korean-it-workers-exploit-legitimate-software/</link>
-      <description>A North Korean IT worker infiltrated a Western organization using a remote-control system that exploited legitimate software and network protocols. The attacker used WebSockets for C2 communication and ARP packets for decentralized command propagation, making it difficult to detect with traditional EDR systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139607</guid>
-      <pubDate>Fri, 30 May 2025 08:24:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Rust-Based InfoStealer Uses Fake CAPTCHA to Deliver EDDIESTEALER</title>
-      <link>https://gbhackers.com/new-rust-based-infostealer-uses-fake-captcha/</link>
-      <description>A newly discovered infostealer, EDDIESTEALER, is spreading through social engineering tactics involving fake CAPTCHA verification pages. The malware, built in Rust, steals sensitive data such as credentials, browser information, and cryptocurrency wallet details by executing PowerShell scripts on Windows systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139597</guid>
-      <pubDate>Fri, 30 May 2025 08:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Sanctions Funnull for $200M Romance Baiting Scams Tied to Crypto Fraud</title>
-      <link>https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html</link>
-      <description>The article discusses a Philippines-based company, Funnull Technology Inc., and its administrator Liu Lizhi, who were sanctioned by the U.S. Department of Treasury's Office of Foreign Assets Control (OFAC) for providing infrastructure to conduct romance baiting scams that led to massive cryptocurrency losses.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html</guid>
-      <pubDate>Fri, 30 May 2025 07:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ConnectWise Hit by Advanced Cyberattack: Internal Data at Risk</title>
-      <link>https://gbhackers.com/connectwise-cyberattack/</link>
-      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: A critical vulnerability (CVE-2025-3935) was exploited by a nation-state actor to execute remote code via ViewState code injection, leveraging unsafe deserialization in the ASP.NET framework. The vulnerability allowed attackers with privileged system-level access to execute arbitrary code on the server, and was fixed with the release of version 25.2.4.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139588</guid>
-      <pubDate>Fri, 30 May 2025 07:07:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache Tomcat CGI Servlet Flaw Enables Security Constraint Bypass</title>
-      <link>https://gbhackers.com/apache-tomcat-cgi-servlet-flaw/</link>
-      <description>Vulnerable Product: Apache Software Foundation Apache Tomcat; CVE(s): CVE-2025-46701; Summary: A vulnerability in Apache Tomcat's CGI servlet (CVE-2025-46701) allows attackers to bypass security constraints by manipulating the case of characters in the pathInfo portion of a URL, potentially granting unauthorized access to restricted CGI resources.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139576</guid>
-      <pubDate>Fri, 30 May 2025 06:25:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>SentinelOne Recovers: Platform Back Online After Extended Outage</title>
-      <link>https://gbhackers.com/sentinelone-recovers/</link>
-      <description>SentinelOne experienced a significant platform outage that disrupted access to its commercial customer consoles worldwide, affecting the Management Console and managed response services. The incident was caused by a technical issue within the platform's infrastructure, not a cyberattack or security breach.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139556</guid>
-      <pubDate>Fri, 30 May 2025 06:13:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
