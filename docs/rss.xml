@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 19:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 20:01:12 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Iranian APT ‘BladedFeline’ Remains Hidden in Networks for 8 Years</title>
+      <link>https://gbhackers.com/iranian-apt-bladedfeline-remains-hidden/</link>
+      <description>The article discusses the activities of BladedFeline, an Iranian-aligned Advanced Persistent Threat (APT) group that has maintained covert access to the networks of Kurdish and Iraqi government officials for nearly eight years. The group uses various tools and techniques, including backdoors, reverse shells, and custom tunneling tools, to exploit vulnerabilities and exfiltrate data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140811</guid>
+      <pubDate>Thu, 05 Jun 2025 19:27:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-325: Hewlett Packard Enterprise Insight Remote Support processAttachmentDataStream Directory Traversal Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-325/</link>
@@ -1443,13 +1450,6 @@ FYSA: A new spear-phishing campaign has been detected, targeting Chief Financial
       <description>The article discusses the risks associated with AI-powered notetaking tools, highlighting the potential for sensitive data breaches and privacy issues. It emphasizes the importance of careful implementation, secure storage, and robust access controls to mitigate these risks.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060523</guid>
       <pubDate>Fri, 30 May 2025 14:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pure Crypter Uses Multiple Evasion Methods to Bypass Windows 11 24H2 Security Features</title>
-      <link>https://gbhackers.com/pure-crypter-uses-multiple-evasion-methods/</link>
-      <description>Pure Crypter is a malware-as-a-service (MaaS) loader used by threat actors to deploy information stealers like Lumma and Rhadamanthys. It has demonstrated adaptability in evading Microsoft's security enhancements in Windows 11 24H2, including bypassing Process Hollowing-based injection using a patch of the NtManageHotPatch API in memory.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139738</guid>
-      <pubDate>Fri, 30 May 2025 14:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
