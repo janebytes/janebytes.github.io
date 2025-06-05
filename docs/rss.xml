@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 16:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 17:03:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hacker selling critical Roundcube webmail exploit as tech info disclosed</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/</link>
+      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2025-49113, CVE-2025-48745 (rejected as duplicate candidate); Summary: A critical remote code execution vulnerability (CVE-2025-49113) exists in Roundcube open-source webmail application versions 1.1.0 through 1.6.10. The vulnerability allows attackers to execute malicious code after authentication, and an exploit is already available for sale on underground forums.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/</guid>
+      <pubDate>Thu, 05 Jun 2025 16:55:54 +0000</pubDate>
+    </item>
     <item>
       <title>Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials</title>
       <link>https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html</link>
       <description>Vulnerable Product: Multiple Google Chrome extensions; CVE(s): None; Summary: Several popular Google Chrome extensions have been found to transmit sensitive data in HTTP, exposing users to privacy and security risks. The extensions hard-code secrets in their code, making them susceptible to adversary-in-the-middle (AitM) attacks, allowing malicious actors on the same network to intercept and modify the transmitted data.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html</guid>
       <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designing a Windows Service for Security</title>
+      <link>https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/</link>
+      <description>The article discusses the importance of designing a robust Windows Service with minimal attack surface, real-time monitoring, and response capabilities. It highlights five key design principles for developing an effective Windows Service: minimizing attack surface, real-time monitoring and response, robustness and resilience, scalability and performance, and logging and reporting.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/</guid>
+      <pubDate>Thu, 05 Jun 2025 14:20:12 +0000</pubDate>
     </item>
     <item>
       <title>Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands</title>
@@ -49,6 +63,27 @@
       <description>A suspected state-backed threat actor, TA397 (also known as Bitter), has been identified by Proofpoint Threat Research. The group is believed to be aligned with Indian intelligence interests and targets entities in Europe and Asia, particularly those connected to China, Pakistan, and the Indian subcontinent. Their tactics include spearphishing, scheduled tasks for malware deployment, and manual payload delivery, showcasing adaptability and consistency in evading detection.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140714</guid>
       <pubDate>Thu, 05 Jun 2025 12:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/05/cisa-releases-seven-industrial-control-systems-advisories</link>
+      <description>This article does not describe a specific vulnerability, but rather announces the release of seven Industrial Control Systems (ICS) advisories by CISA. These advisories provide information about current security issues and vulnerabilities in various ICS products from Hitachi Energy and Mitsubishi Electric.</description>
+      <guid isPermaLink="false">/node/23479</guid>
+      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Relion 670, 650 Series and SAM600-IO Product</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-155-02</link>
+      <description>Vulnerable Product: Hitachi Energy Relion 670, Relion 650, SAM600-IO; CVE(s): CVE-2020-28895, CVE-2020-35198; Summary: Integer Overflow or Wraparound vulnerabilities in the memory allocator of Wind River VxWorks allow an attacker to cause memory corruption on affected products.</description>
+      <guid isPermaLink="false">/node/23478</guid>
+      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberData 011209 SIP Emergency Intercom</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-155-01</link>
+      <description>Vulnerable Product: CyberData Equipment 011209 SIP Emergency Intercom; CVE(s): CVE-2025-30184, CVE-2025-26468, CVE-2025-30507, CVE-2025-30183, CVE-2025-30515; Summary: The 011209 SIP Emergency Intercom has multiple vulnerabilities, including authentication bypass, SQL injection, insufficiently protected credentials, and path traversal. Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information, cause a denial-of-service condition, or achieve code execution.</description>
+      <guid isPermaLink="false">/node/23477</guid>
+      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VMware NSX XSS Vulnerability Exposes Systems to Malicious Code Injection</title>
@@ -1413,41 +1448,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>Vulnerable Product: WeChat; CVE(s): CVE-2019-11932, CVE-2023-41064, CVE-2023-4863; Summary: A single WeChat message can be leveraged for persistent client-side attacks. Attackers can exploit lax URL validation to craft malicious links, and file processing vulnerabilities allow remote code execution. Additionally, built-in browser components, such as the XWEB engine, are vulnerable to known issues like CVE-2023-41064 and CVE-2023-4863 in the libwebp component.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139723</guid>
       <pubDate>Fri, 30 May 2025 12:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>MICI NetFax Server Flaws Allow Attackers to Execute Remote Code</title>
-      <link>https://gbhackers.com/mici-netfax-server-flaws/</link>
-      <description>Vulnerable Product: MICI Network Co., Ltd's NetFax Server; CVE(s): CVE-2025-48045, CVE-2025-48046, and CVE-2025-48047; Summary: The NetFax Server has three severe vulnerabilities allowing attackers to gain root-level access through a chain of authenticated attacks. The flaws include default administrative credentials exposed in cleartext, stored SMTP passwords exposed, and improper input sanitization leading to remote code execution as the root user.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139636</guid>
-      <pubDate>Fri, 30 May 2025 12:04:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil</title>
-      <link>https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html</link>
-      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324; Summary: The article discusses a critical unauthenticated file upload vulnerability in SAP NetWeaver (CVE-2025-31324) exploited by the China-linked threat actor Earth Lamia. The vulnerability allows attackers to establish a reverse shell and gain control of infrastructure under their control.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html</guid>
-      <pubDate>Fri, 30 May 2025 11:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use AI-Generated Videos on TikTok to Spread Info-Stealing Malware</title>
-      <link>https://gbhackers.com/hackers-use-ai-generated-videos-on-tiktok/</link>
-      <description>Cybercriminals are exploiting TikTok to distribute information-stealing malware, using AI-generated videos posing as tutorials for unlocking pirated software. The campaign uses social engineering and advanced technology like AI to trick unsuspecting viewers into executing malicious PowerShell commands, leading to the download of malware strains such as Vidar and StealC.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139685</guid>
-      <pubDate>Fri, 30 May 2025 10:57:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: NightSpire Ransomware</title>
-      <link>https://socradar.io/dark-web-profile-nightspire-ransomware/</link>
-      <description>Vulnerable Product: NightSpire Ransomware; CVE(s): CVE-2024-55591; Summary: NightSpire is a financially motivated ransomware group that employs double extortion tactics, encrypting data after exfiltration. They target small to medium-sized enterprises across multiple industries and countries, exploiting public-facing vulnerabilities like CVE-2024-55591.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060476</guid>
-      <pubDate>Fri, 30 May 2025 10:41:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>From the "Department of No" to a "Culture of Yes": A Healthcare CISO's Journey to Enabling Modern Care</title>
-      <link>https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html</link>
-      <description>The article discusses the challenges faced by healthcare organizations in balancing security requirements with the need for frictionless care delivery. It highlights the importance of integrating security and IT operations to enable a culture of yes, where security is no longer seen as a barrier but rather an enabler of modern healthcare.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html</guid>
-      <pubDate>Fri, 30 May 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
