@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 17:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 18:02:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Beware of Fake Zoom Client Downloads Granting Attackers Access to Your Computer</title>
+      <link>https://gbhackers.com/beware-of-fake-zoom-client-downloads-granting-attackers/</link>
+      <description>This article describes a phishing campaign that exploits the popularity of Zoom by tricking users into downloading malicious software under the guise of a legitimate update. The attack begins with a fake Zoom meeting invitation and ultimately installs a malware payload that grants attackers unrestricted access to the compromised system, allowing for data theft, ransomware deployment, or further network infiltration.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140770</guid>
+      <pubDate>Thu, 05 Jun 2025 17:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Old AT&amp;T data leak repackaged to link SSNs, DOBs to 49M phone numbers</title>
+      <link>https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/</link>
+      <description>A threat actor has re-released data from a 2021 AT&amp;T breach affecting 70 million customers, combining previously separate files to directly link Social Security numbers and birth dates to individual users. The leaked data is actually from the same 2021 breach that exposed 73 million customers' information, not a new leak.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/</guid>
+      <pubDate>Thu, 05 Jun 2025 17:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Admins Cautioned About Fake Cache Plugin Stealing Admin Credentials</title>
+      <link>https://gbhackers.com/wordpress-admins-cautioned-about-fake-cache-plugin/</link>
+      <description>Vulnerable Product: WordPress; CVE(s): None; Summary: A malicious plugin dubbed "wp-runtime-cache" targets WordPress sites to steal admin credentials. The plugin hides in the wp-content/plugins directory and activates during site login events, capturing user input and exfiltrating sensitive data to a remote server. It specifically targets high-privilege users and employs code obfuscation techniques to remain undetected.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140751</guid>
+      <pubDate>Thu, 05 Jun 2025 17:11:12 +0000</pubDate>
+    </item>
     <item>
       <title>Hacker selling critical Roundcube webmail exploit as tech info disclosed</title>
       <link>https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/</link>
@@ -1427,27 +1448,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>Vulnerable Product: Icinga 2; CVE(s): CVE-2025-48057; Summary: A critical vulnerability in Icinga 2's VerifyCertificate() function allows attackers to obtain valid certificates from the Icinga Certificate Authority, potentially impersonating trusted nodes and compromising monitoring environments. The flaw affects installations built with OpenSSL versions older than 1.1.0.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139725</guid>
       <pubDate>Fri, 30 May 2025 13:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use Gh0st RAT to Hijack Internet Café Systems for Crypto Mining</title>
-      <link>https://gbhackers.com/hackers-use-gh0st-rat-to-hijack-internet-cafe/</link>
-      <description>Vulnerable Product: Korean Internet café management programs; CVE(s): None; Summary: Hackers have been targeting internet cafés in South Korea since 2022, exploiting specialized management software to install malicious tools for cryptocurrency mining. The attackers use Gh0st RAT and its droppers to seize control of systems and deploy the T-Rex CoinMiner to mine cryptocurrencies like Ethereum and RavenCoin.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139701</guid>
-      <pubDate>Fri, 30 May 2025 13:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Security Update for 22H2 &amp; 23H2 May Cause Recovery Errors</title>
-      <link>https://gbhackers.com/windows-11-security-update-for-22h2-23h2/</link>
-      <description>Vulnerable Product: Windows 11; CVE(s): None; Summary: The KB5058405 security update has caused significant boot failures in some users running Windows 11 versions 22H2 and 23H2, especially in enterprise and virtual environments. Affected systems display a recovery error with code 0xc0000098 referencing the ACPI.sys file, which is essential for power management and device configuration.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139724</guid>
-      <pubDate>Fri, 30 May 2025 13:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Study Uncovers Multiple Vulnerabilities in WeChat and IM Apps</title>
-      <link>https://gbhackers.com/vulnerabilities-in-wechat/</link>
-      <description>Vulnerable Product: WeChat; CVE(s): CVE-2019-11932, CVE-2023-41064, CVE-2023-4863; Summary: A single WeChat message can be leveraged for persistent client-side attacks. Attackers can exploit lax URL validation to craft malicious links, and file processing vulnerabilities allow remote code execution. Additionally, built-in browser components, such as the XWEB engine, are vulnerable to known issues like CVE-2023-41064 and CVE-2023-4863 in the libwebp component.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139723</guid>
-      <pubDate>Fri, 30 May 2025 12:41:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
