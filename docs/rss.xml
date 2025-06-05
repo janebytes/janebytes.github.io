@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 15:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 16:01:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials</title>
+      <link>https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html</link>
+      <description>Vulnerable Product: Multiple Google Chrome extensions; CVE(s): None; Summary: Several popular Google Chrome extensions have been found to transmit sensitive data in HTTP, exposing users to privacy and security risks. The extensions hard-code secrets in their code, making them susceptible to adversary-in-the-middle (AitM) attacks, allowing malicious actors on the same network to intercept and modify the transmitted data.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html</guid>
+      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands</title>
       <link>https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html</link>
@@ -1441,13 +1448,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>The article discusses the challenges faced by healthcare organizations in balancing security requirements with the need for frictionless care delivery. It highlights the importance of integrating security and IT operations to enable a culture of yes, where security is no longer seen as a barrier but rather an enabler of modern healthcare.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html</guid>
       <pubDate>Fri, 30 May 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weaponized PyPI Package Executes Supply Chain Attack to Steal Solana Private Keys</title>
-      <link>https://gbhackers.com/weaponized-pypi-package-executes-supply-chain-attack/</link>
-      <description>Vulnerable Product: Python Package Index (PyPI); CVE(s): None; Summary: A malicious package named semantic-types was discovered in PyPI, which deploys a covert key-stealing payload targeting Solana blockchain developers. The attack leverages a backdoor that silently exfiltrates private keys, posing a severe risk to developer environments and CI/CD pipelines.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139644</guid>
-      <pubDate>Fri, 30 May 2025 10:13:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
