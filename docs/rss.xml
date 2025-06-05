@@ -6,8 +6,71 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 22:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 10:04:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ViLE gang members sentenced for extortion, police portal breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/</link>
+      <description>Two members of the cybercriminal group ViLE were sentenced for hacking into a federal law enforcement web portal and using obtained personal information to harass, threaten, or extort victims. The group used methods such as impersonation, fraudulent legal requests, bribing corporate insiders, and searching public and private online databases to collect sensitive information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/</guid>
+      <pubDate>Thu, 05 Jun 2025 09:26:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases TTPs &amp; IoCs for Play Ransomware That Hacked 900+ Orgs</title>
+      <link>https://gbhackers.com/cisa-releases-ttps-iocs-for-play-ransomware/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA), FBI, and Australian Signals Directorate's Australian Cyber Security Centre (ASD’s ACSC) have released detailed Tactics, Techniques, and Procedures (TTPs) and Indicators of Compromise (IoCs) for the Play ransomware group. The report highlights the group's tactics, including exploiting vulnerabilities in public-facing applications, abusing valid accounts, and using tools like AdFind and Grixba to gain domain administrator access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140630</guid>
+      <pubDate>Thu, 05 Jun 2025 09:18:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Cisco Nexus Dashboard Vulnerability Lets Attackers Impersonate Managed Devices</title>
+      <link>https://gbhackers.com/critical-cisco-nexus-dashboard-vulnerability/</link>
+      <description>Vulnerable Product: Cisco Nexus Dashboard Fabric Controller (NDFC); CVE(s): CVE-2025-20163; Summary: The NDFC suffers from a critical SSH host key validation vulnerability, allowing unauthenticated remote attackers to impersonate managed devices. This enables MitM attacks on SSH connections, posing significant risks to data center infrastructure and potentially compromising user credentials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140653</guid>
+      <pubDate>Thu, 05 Jun 2025 08:56:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Alerts Users to Critical ISE Vulnerability Exposing Sensitive Data</title>
+      <link>https://gbhackers.com/cisco-alerts-ise-vulnerability/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20286; Summary: The ISE vulnerability occurs when deployed on AWS, Azure, or OCI, allowing attackers to access other ISE instances with the same software release and platform using extracted credentials. This can lead to unauthorized access, data exposure, configuration changes, and service disruptions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140627</guid>
+      <pubDate>Thu, 05 Jun 2025 08:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Authorities Shut Down Major Dark Web Marketplace with 117,000 Users</title>
+      <link>https://gbhackers.com/u-s-authorities-shut-down-dark-web-marketplace/</link>
+      <description>Vulnerable Product: BidenCash; CVE(s): None; Summary: The BidenCash marketplace, operational since March 2022, was seized by law enforcement authorities, resulting in the confiscation of cryptocurrency funds and disruption of illicit transactions. The platform specialized in carding (trafficking stolen credit card data) and sold compromised credentials, including SSH access, generating upwards of $17 million in revenue.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140624</guid>
+      <pubDate>Thu, 05 Jun 2025 07:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interlock ransomware claims Kettering Health breach, leaks stolen data</title>
+      <link>https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/</link>
+      <description>The Interlock ransomware gang has claimed responsibility for a cyberattack on the Kettering Health healthcare network, leaking data allegedly stolen from breached systems. The incident affected over 15,000 employees and led to system outages and cancellations of elective procedures.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/</guid>
+      <pubDate>Thu, 05 Jun 2025 07:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outlook Users Targeted by New HTML-Based Phishing Scheme</title>
+      <link>https://gbhackers.com/outlook-html-based-phishing/</link>
+      <description>Vulnerable Product: Microsoft Outlook; CVE(s): None; Summary: The article describes a sophisticated phishing technique that exploits Microsoft Outlook's handling of HTML emails to conceal malicious links from corporate users. The technique uses conditional HTML comments to display different content depending on the email client used, allowing attackers to show a legitimate URL in Outlook while redirecting others to a credential-harvesting site.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140607</guid>
+      <pubDate>Thu, 05 Jun 2025 07:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>US offers $10M for tips on state hackers tied to RedLine malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/</link>
+      <description>The U.S. Department of State has announced a reward of up to $10 million for information on government-sponsored hackers with ties to the RedLine infostealer malware operation and its suspected creator, Russian national Maxim Alexandrovich Rudometov. This bounty covers leads on state hackers' use of this malware in cyber operations targeting critical infrastructure organizations in the United States.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/</guid>
+      <pubDate>Thu, 05 Jun 2025 06:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI</title>
+      <link>https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20286; Summary: A critical security flaw in Cisco ISE allows unauthenticated actors to access sensitive data, execute limited administrative operations, or disrupt services. The vulnerability stems from improper generation of static credentials when deploying Cisco ISE on cloud platforms, causing different deployments to share the same credentials.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html</guid>
+      <pubDate>Thu, 05 Jun 2025 05:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft unveils free EU cybersecurity program for governments</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/</link>
@@ -1383,69 +1446,6 @@ FYSA: The article provides insights from Pentera's 4th Pentesting report, which 
       <description>Vulnerable Product: Linux Kernel; CVE(s): ZDI-25-310, ZDI-CAN-26505; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Linux Kernel by dereferencing a null pointer in the handling of preauth hashes. Authentication is not required to exploit this vulnerability, but only systems with ksmbd enabled are vulnerable.</description>
       <guid isPermaLink="false">ZDI-CAN-26505</guid>
       <pubDate>Thu, 29 May 2025 21:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ConnectWise breached in cyberattack linked to nation-state hackers</title>
-      <link>https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/</link>
-      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: A high-severity ViewState code injection bug (CVE-2025-3935) allowed threat actors with privileged system-level access to steal secret machine keys, enabling remote code execution on the server.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/</guid>
-      <pubDate>Thu, 29 May 2025 19:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Nifty[.]com Infrastructure in Sophisticated Phishing Attack</title>
-      <link>https://gbhackers.com/threat-actors-exploit-nifty-com-infrastructure/</link>
-      <description>Threat actors have orchestrated a multi-wave phishing campaign between April and May 2025, leveraging the legitimate infrastructure of Nifty[.]com, a prominent Japanese Internet Service Provider (ISP), to execute their attacks. The campaign used trusted domains, abusing free consumer accounts on Nifty[.]com, and employed various techniques such as HTML padding, display name spoofing, and flawless AI-generated grammar to evade traditional filters. The attack highlights the limitations of legacy email security systems and underscores the need for advanced behavioral analysis and anomaly detection to combat sophisticated phishing attempts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139489</guid>
-      <pubDate>Thu, 29 May 2025 18:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A new author has appeared</title>
-      <link>https://blog.talosintelligence.com/a-new-author-has-appeared/</link>
-      <description>None, as this is not an article about a vulnerability or cybersecurity-relevant content. The article appears to be a newsletter introduction by a cybersecurity analyst who has recently joined Cisco Talos and discusses their background in anthropology and technical writing. They also provide information on emerging threats and offer insights into the human side of cybersecurity.</description>
-      <guid isPermaLink="false">683744165919a600012bd73e</guid>
-      <pubDate>Thu, 29 May 2025 18:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>PureHVNC RAT Uses Fake Job Offers and PowerShell to Evade Security Defenses</title>
-      <link>https://gbhackers.com/purehvnc-rat-uses-fake-job-offers-and-powershell/</link>
-      <description>A new malware campaign delivering the PureHVNC Remote Access Trojan (RAT) has been identified by Netskope Threat Labs. The campaign leverages fake job offers and advanced technical evasion methods to bypass security defenses, resulting in full system access for attackers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139472</guid>
-      <pubDate>Thu, 29 May 2025 17:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interlock Ransomware Uses NodeSnake RAT for Persistent Access to Corporate Networks</title>
-      <link>https://gbhackers.com/interlock-ransomware-uses-nodesnake-rat/</link>
-      <description>NodeSnake, a Remote Access Trojan (RAT), has been used to compromise two UK-based universities. The malware, likely operated by the ransomware group Interlock, demonstrates advanced capabilities for persistent access and network infiltration, including long-term persistence, system reconnaissance, and remote command execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139501</guid>
-      <pubDate>Thu, 29 May 2025 17:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors abuse Google Apps Script in evasive phishing attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/</link>
-      <description>Threat actors are using the "Google Apps Script" development platform to host phishing pages that appear legitimate and steal login credentials. The phishing pages are designed to look like a legitimate login screen, and the attackers use email masquerading as an invoice to trick recipients into handing over sensitive information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/</guid>
-      <pubDate>Thu, 29 May 2025 16:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Safari exposes users to fullscreen browser-in-the-middle attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): None; Summary: A weakness in Apple's Safari web browser allows threat actors to exploit the fullscreen browser-in-the-middle (BitM) technique, making guardrails less visible and tricking users into typing sensitive data in an attacker-controlled window. The attack abuses the Fullscreen API, which is not properly alerted to users on Safari, unlike Firefox and Chromium-based browsers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/</guid>
-      <pubDate>Thu, 29 May 2025 16:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Target AI Users with Malware-Loaded Installers Posing as Popular Tools</title>
-      <link>https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html</link>
-      <description>Vulnerable Product: Various AI tools (OpenAI ChatGPT, InVideo AI, and others); CVE(s): None; Summary: Fake installers for popular AI tools are being used as lures to propagate various threats, including CyberLock ransomware, Lucky_Gh0$t ransomware, and Numero malware. The fake installers claim to offer free access to the tool for the first year, with a monthly subscription of $95 thereafter.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html</guid>
-      <pubDate>Thu, 29 May 2025 15:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US sanctions firm linked to cyber scams behind $200 million in losses</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/</link>
-      <description>The U.S. Treasury Department has sanctioned Funnull Technology, a Philippines-based company, and its administrator Liu Lizhi for facilitating virtual currency investment scams linked to over $200 million in losses for Americans. The company is responsible for generating numerous unique domain names and providing hosting services to cybercriminals, enabling them to host malicious websites.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/</guid>
-      <pubDate>Thu, 29 May 2025 15:42:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
