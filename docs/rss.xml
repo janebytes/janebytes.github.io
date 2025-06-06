@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 18:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 19:01:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-331: Autodesk Revit RFA File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-331/</link>
+      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5036; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit. User interaction is required to exploit this vulnerability, which exists within the parsing of RFA files due to a lack of validating the existence of an object prior to performing operations on it.</description>
+      <guid isPermaLink="false">ZDI-CAN-26852</guid>
+      <pubDate>Fri, 06 Jun 2025 19:00:58 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft shares script to restore inetpub folder you shouldn’t delete</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/</link>
@@ -1430,15 +1437,6 @@ Overall, the study highlights the importance of robust input and output guardrai
       <description>Vulnerable Product: Chunghwa Telecom and Netlock; CVE(s): None; Summary: The root CA certificates signed by Chunghwa Telecom and Netlock will no longer be trusted by Google Chrome starting August 1, 2025, due to ongoing compliance failures and lack of measurable progress. This change will display a "Your connection is not private" warning when users visit websites that continue to use these certificates, creating trust issues for visitors.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/</guid>
       <pubDate>Mon, 02 Jun 2025 17:36:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft and CrowdStrike partner to link hacking group names</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/</link>
-      <description>This article is not about a vulnerability, but rather announces a partnership between Microsoft and CrowdStrike to create a reference guide for tracking threat actors. The guide aims to facilitate the translation of different naming systems used by various cybersecurity companies, enabling defenders to respond faster and more efficiently to threats.
-
-FYSA: This initiative aims to bring clarity to the security community by mapping different naming systems used by various vendors, facilitating the sharing of intelligence and attribution.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/</guid>
-      <pubDate>Mon, 02 Jun 2025 16:56:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
