@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 17:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 18:02:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft shares script to restore inetpub folder you shouldn’t delete</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-21204, None; Summary: A high-severity Windows Process Activation privilege escalation vulnerability was mitigated by the creation of an empty "inetpub" folder. Removing this folder can make systems vulnerable again to the patched vulnerability.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/</guid>
+      <pubDate>Fri, 06 Jun 2025 17:28:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tax resolution firm Optima Tax Relief hit by ransomware, data leaked</title>
+      <link>https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/</link>
+      <description>The article reports on a Chaos ransomware attack against Optima Tax Relief, a US-based tax resolution firm. The attackers stole 69 GB of corporate and customer data, including sensitive personal information such as Social Security numbers, phone numbers, and home addresses.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/</guid>
+      <pubDate>Fri, 06 Jun 2025 17:14:17 +0000</pubDate>
+    </item>
     <item>
       <title>New Rust-Developed InfoStealer Drains Sensitive Data from Chromium-Based Browsers</title>
       <link>https://gbhackers.com/new-rust-developed-infostealer/</link>
@@ -21,6 +35,13 @@
       <description>A sophisticated social engineering technique called ClickFix baiting has gained popularity among cybercriminals, targeting human end users as the weakest link in cybersecurity defenses. This method uses seemingly benign prompts to trick users into executing malicious commands, bypassing traditional security measures with ease. The attack chain involves spear phishing links, drive-by compromises, or fake CAPTCHA prompts that redirect users to malicious URLs, ultimately leading to the installation of malware families like XWorm, Lumma, and AsyncRAT.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141025</guid>
       <pubDate>Fri, 06 Jun 2025 16:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users</title>
+      <link>https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html</link>
+      <description>Cybersecurity researchers have detected a new malware campaign using the ClickFix social engineering tactic to distribute an information stealer malware, Atomic macOS Stealer (AMOS), on Apple macOS systems. The campaign leverages typosquat domains mimicking U.S.-based telecom provider Spectrum and tricks users into downloading the malware by serving malicious shell scripts designed to steal system passwords.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html</guid>
+      <pubDate>Fri, 06 Jun 2025 16:25:00 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-326: (0Day) (Pwn2Own) WOLFBOX Level 2 EV Charger MCU Command Parsing Misinterpretation of Input Remote Code Execution Vulnerability</title>
@@ -1418,31 +1439,6 @@ Overall, the study highlights the importance of robust input and output guardrai
 FYSA: This initiative aims to bring clarity to the security community by mapping different naming systems used by various vendors, facilitating the sharing of intelligence and attribution.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/</guid>
       <pubDate>Mon, 02 Jun 2025 16:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub</title>
-      <link>https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html</link>
-      <description>Vulnerable Product: Docker; CVE(s): None; Summary: The article discusses a cryptojacking campaign that targets publicly accessible DevOps web servers, including those associated with Docker. Attackers exploit known misconfigurations and vulnerabilities to deliver the miner payload.
-
-FYSA: Threat actors are targeting misconfigured Docker API instances to enlist them in a cryptocurrency mining botnet. The campaign is also exploiting misconfigurations in Gitea, HashiCorp Consul, and Nomad servers to illicitly mine cryptocurrencies.
-
-FYSA: There is no cybersecurity relevance in this article.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html</guid>
-      <pubDate>Mon, 02 Jun 2025 16:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preinstalled Apps on Ulefone, Krüger&amp;Matz Phones Let Any App Reset Device, Steal PIN</title>
-      <link>https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html</link>
-      <description>Vulnerable Product: Ulefone, Krüger&amp;Matz; CVE(s): CVE-2024-13915, CVE-2024-13916, CVE-2024-13917; Summary: Three vulnerabilities in preloaded Android applications on Ulefone and Krüger&amp;Matz smartphones allow any installed app to perform a factory reset or encrypt another app. The flaws expose services and methods that can be exploited by malicious apps, potentially leading to data exfiltration or system-level privileges.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html</guid>
-      <pubDate>Mon, 02 Jun 2025 15:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preinstalled Android Apps Found Leaking PINs and Executing Malicious Commands</title>
-      <link>https://gbhackers.com/preinstalled-android-apps-found-leaking/</link>
-      <description>Vulnerable Product: Ulefone, Krüger&amp;Matz; CVE(s): CVE-2024-13915, CVE-2024-13916, CVE-2024-13917; Summary: Three security vulnerabilities affect preinstalled Android applications on smartphones from Ulefone and Krüger&amp;Matz, exposing users to risks such as unauthorized device resets, theft of sensitive PIN codes, and privilege escalation by malicious applications.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140085</guid>
-      <pubDate>Mon, 02 Jun 2025 15:10:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
