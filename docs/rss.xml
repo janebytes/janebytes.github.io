@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 11:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 12:02:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Critical RCE Vulnerability in AWS Amplify Studio – PoC Now Public</title>
+      <link>https://gbhackers.com/rce-vulnerability-in-aws-amplify-studio/</link>
+      <description>Vulnerable Product: @aws-amplify/codegen-ui; CVE(s): CVE-2025-4318; Summary: The AWS Amplify codegen package contained a critical remote code execution (RCE) vulnerability due to improper input validation in expression-binding logic. The flaw allowed attackers to inject malicious expressions into component JSON files, enabling arbitrary code execution on backend build systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140936</guid>
+      <pubDate>Fri, 06 Jun 2025 11:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Mind of the Adversary: Why More Security Leaders Are Selecting AEV</title>
+      <link>https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html</link>
+      <description>The article discusses Adversarial Exposure Validation (AEV), an advanced offense technology that simulates real-world attacker behaviors to identify vulnerabilities in an organization's defenses. AEV provides continuous and automated testing, allowing for more efficient prioritization and remediation of security issues. The technology is designed to mimic how attackers would exploit weaknesses, enabling organizations to build resilience against attacks and provide a stronger defense posture.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html</guid>
+      <pubDate>Fri, 06 Jun 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Blitz Malware: A Tale of Game Cheats and Code Repositories</title>
       <link>https://unit42.paloaltonetworks.com/blitz-malware-2025/</link>
@@ -1442,20 +1456,6 @@ In terms of vulnerabilities, I would classify this article as a FYSA (For Your S
       <description>Vulnerable Product: Consilium Safety CS5000 Fire Panel; CVE(s): CVE-2025-41438, CVE-2025-46352; Summary: Two severe vulnerabilities have been disclosed in the CS5000 Fire Panel, allowing remote attackers to gain high-level access and potentially render fire panels non-functional. The first vulnerability stems from a default high-privilege account with unchanged credentials, while the second involves a hard-coded password embedded within the VNC server binary. Both flaws are critical, with CVSS scores of 9.8 and 9.3 respectively, reflecting their ease of exploitation and severe potential impact.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139873</guid>
       <pubDate>Mon, 02 Jun 2025 07:42:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>MITRE Releases Roadmap for Transition to Post-Quantum Cryptography</title>
-      <link>https://gbhackers.com/mitre-releases-roadmap-for-transition/</link>
-      <description>The article discusses a comprehensive roadmap from MITRE, guiding organizations through the transition from current cryptographic standards to quantum-resistant algorithms. The framework addresses the emerging threat of quantum computing and emphasizes the urgency of transitioning to post-quantum cryptographic standards before the advent of cryptographically relevant quantum computers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139887</guid>
-      <pubDate>Mon, 02 Jun 2025 07:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Linux Security Bugs Could Expose Password Hashes Across Millions of Devices</title>
-      <link>https://gbhackers.com/new-linux-security-bugs/</link>
-      <description>Vulnerable Product: Apport (Ubuntu) and systemd-coredump; CVE(s): CVE-2025-5054, CVE-2025-4598; Summary: Two local information disclosure vulnerabilities were disclosed, impacting the core-dump handlers Apport and systemd-coredump on millions of Linux systems. The vulnerabilities allow attackers to extract sensitive data, including password hashes, by manipulating crash reporting mechanisms in popular distributions like Ubuntu, RHEL, and Fedora.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139872</guid>
-      <pubDate>Mon, 02 Jun 2025 06:51:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
