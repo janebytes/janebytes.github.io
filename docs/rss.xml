@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 13:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 14:02:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Critical Fortinet flaws now exploited in Qilin ransomware attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/</link>
+      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2024-21762, CVE-2024-55591; Summary: The Qilin ransomware operation is exploiting two Fortinet vulnerabilities (CVE-2024-21762 and CVE-2024-55591) to bypass authentication on vulnerable devices and execute malicious code remotely.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/</guid>
+      <pubDate>Fri, 06 Jun 2025 13:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Empower Users and Protect Against GenAI Data Loss</title>
+      <link>https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html</link>
+      <description>The article discusses the increasing use of generative AI tools in the enterprise setting, despite attempts to block public AI apps. Employees have found workarounds to access AI systems, which creates a "Shadow AI" blind spot for organizations.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html</guid>
+      <pubDate>Fri, 06 Jun 2025 13:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam</title>
+      <link>https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html</link>
+      <description>India's Central Bureau of Investigation (CBI) has dismantled two illegal call centers engaged in a transnational tech support scam targeting Japanese citizens, arresting four individuals and seizing evidence. The scam involved advanced social engineering techniques and "technical subterfuge" to deceive victims into transferring funds.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html</guid>
+      <pubDate>Fri, 06 Jun 2025 13:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>ANY.RUN Empowers Government Agencies with Real-Time Threat Detection</title>
       <link>https://gbhackers.com/any-run-empowers-government/</link>
@@ -1435,27 +1456,6 @@ In terms of vulnerabilities, I would classify this article as a FYSA (For Your S
       <description>Multiple high-profile incidents have been tracked on the Dark Web, including posts advertising stolen data from Bank Banten, a source code leak allegedly tied to Deloitte's U.S. consulting division, and the sale of a massive dataset allegedly linked to TotalEnergies France. Additionally, a threat actor is recruiting marketing partners for aggressive bulk messaging campaigns, reflecting the increasingly professionalized and targeted nature of underground cybercrime operations.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060652</guid>
       <pubDate>Mon, 02 Jun 2025 09:41:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Active Exploits Detected Targeting Critical vBulletin Vulnerability</title>
-      <link>https://gbhackers.com/active-exploits-detected-targeting-critical-vbulletin-vulnerability/</link>
-      <description>Vulnerable Product: vBulletin; CVE(s): CVE-2025-48827, CVE-2025-48828; Summary: Two critical vulnerabilities in vBulletin versions 5.0.0 to 6.0.3 allow unauthenticated attackers to achieve Remote Code Execution (RCE), putting thousands of online communities at risk. The flaws stem from architectural oversights and changes in PHP 8.1's handling of method visibility, enabling attackers to invoke protected and private methods via Reflection API. Successful exploitation grants attackers full control over the server, potentially leading to data theft, defacement, or further compromise of connected systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139928</guid>
-      <pubDate>Mon, 02 Jun 2025 08:49:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Roundcube Flaw Allows Remote Code Execution by Attackers</title>
-      <link>https://gbhackers.com/critical-roundcube-flaw/</link>
-      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2024-2961; Summary: A critical post-authentication remote code execution (RCE) vulnerability in Roundcube Webmail 1.6 and 1.5 LTS versions allows attackers with valid credentials to execute arbitrary PHP code on the server, posing significant risks to data integrity and server control.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139927</guid>
-      <pubDate>Mon, 02 Jun 2025 08:26:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Study Reveals Vulnerable Code Pattern Putting GitHub Projects at Risk of Path Traversal Attacks</title>
-      <link>https://gbhackers.com/new-study-reveals-vulnerable-code-pattern-putting-github-projects/</link>
-      <description>Vulnerable Product: Node.js; CVE(s): None; Summary: A widespread path traversal vulnerability (CWE-22) affects 1,756 open-source GitHub projects due to a commonly used Node.js code pattern for creating static HTTP file servers. Attackers can access files outside of restricted locations, compromising confidentiality and availability.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139916</guid>
-      <pubDate>Mon, 02 Jun 2025 08:21:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
