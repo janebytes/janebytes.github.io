@@ -6,8 +6,114 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 22:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 10:12:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Blitz Malware: A Tale of Game Cheats and Code Repositories</title>
+      <link>https://unit42.paloaltonetworks.com/blitz-malware-2025/</link>
+      <description>The article provides a detailed technical analysis of Blitz malware, which consists of two phases: the Blitz downloader and the Blitz bot. The malware was distributed through backdoored game cheats, and it abused Hugging Face to host C2 infrastructure. The author claims to have quit distributing the malware.
+
+The article highlights the security risks associated with engaging in illegal software distribution, including cracked game cheats. It also provides information on how Palo Alto Networks customers can be better protected from Blitz malware through various security features and subscriptions.
+
+In summary, this article is not discussing a vulnerability (software, hardware, or firmware), but rather providing threat intelligence and analysis of the Blitz malware.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142254</guid>
+      <pubDate>Fri, 06 Jun 2025 10:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical FreeRTOS-Plus-TCP Flaw Allows Code Execution or System Crash</title>
+      <link>https://gbhackers.com/critical-freertos-plus-tcp-flaw/</link>
+      <description>Vulnerable Product: Amazon FreeRTOS-Plus-TCP; CVE(s): CVE-2025-5688; Summary: A critical memory corruption vulnerability exists in FreeRTOS-Plus-TCP due to the lack of adequate length checking when processing LLMNR and mDNS queries with excessively long DNS names. This can lead to system crashes or arbitrary code execution, making embedded systems a high-value target for attackers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140917</guid>
+      <pubDate>Fri, 06 Jun 2025 09:57:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome Extensions Flaw Exposes Sensitive API Keys, Secrets and Tokens</title>
+      <link>https://gbhackers.com/chrome-extensions-flaw/</link>
+      <description>Vulnerable Product: Various Chrome Extensions; CVE(s): None; Summary: Numerous popular Chrome extensions contain a critical security flaw that exposes sensitive credentials such as API keys, secrets, and tokens in their source code, allowing attackers to exploit them and potentially cause data manipulation, financial losses, and privacy breaches.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140918</guid>
+      <pubDate>Fri, 06 Jun 2025 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical RCE Flaw Found in HPE Insight Remote Support Tool</title>
+      <link>https://gbhackers.com/critical-rce-flaw-found/</link>
+      <description>Vulnerable Product: Hewlett-Packard Enterprise (HPE) Insight Remote Support; CVE(s): CVE-2025-37097, CVE-2025-37098, and CVE-2025-37099; Summary: Multiple high-impact vulnerabilities in HPE's Insight Remote Support (IRS) software allow remote attackers to execute arbitrary code, traverse directories, and exfiltrate sensitive information. The flaws are due to directory traversal and XML external entity (XXE) injection in the IRS service's file upload mechanism and XML input processing during device registration. Successful exploitation can result in full remote code execution under the privileges of the IRS service.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140884</guid>
+      <pubDate>Fri, 06 Jun 2025 09:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police arrests 20 suspects for distributing child sexual abuse content</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/</link>
+      <description>Law enforcement authorities from over a dozen countries have arrested 20 suspects in an international operation targeting the production and distribution of child sexual abuse material. The operation, which started in late 2024, involved multiple instant messaging groups dedicated to the circulation of child sexual exploitation images. Additionally, another joint international investigation led by the State Criminal Police of Bavaria and Bavarian cybercrime prosecutors took down Kidflix, one of the largest child sexual abuse material platforms on the dark web.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/</guid>
+      <pubDate>Fri, 06 Jun 2025 08:55:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>New pathWiper Malware Targets Critical Infrastructure to Deploy Admin Tools</title>
+      <link>https://gbhackers.com/new-pathwiper-malware-targets-critical-infrastructure/</link>
+      <description>This article reports a sophisticated cyberattack targeting Ukrainian critical infrastructure, deploying a previously unknown wiper malware dubbed "PathWiper." The attack is attributed to a Russia-nexus advanced persistent threat (APT) actor and showcases the evolving threat to Ukrainian critical infrastructure amid the ongoing conflict.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140897</guid>
+      <pubDate>Fri, 06 Jun 2025 08:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack</title>
+      <link>https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html</link>
+      <description>The article reports on a new data wiper malware named PathWiper that was used to target a critical infrastructure entity in Ukraine. The malware is designed to gather information about connected storage media, create threads for each drive and volume, and overwrite contents with randomized bytes. It also targets specific file systems and attempts to dismount volumes.
+
+FYSA: A Russia-nexus advanced persistent threat (APT) actor has been identified as the perpetrator of a new data wiper malware attack on Ukraine, using legitimate endpoint administration frameworks to issue malicious commands and deploy PathWiper across connected endpoints.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html</guid>
+      <pubDate>Fri, 06 Jun 2025 08:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BADBOX 2.0 Malware Hits Over a Million Android Devices in Global Cyber Threat</title>
+      <link>https://gbhackers.com/badbox-2-0-malware-hits-over-a-million-android-devices/</link>
+      <description>The article discusses a massive cyber fraud operation named BADBOX 2.0, which has infected over 1 million Android Open Source Project (AOSP) devices worldwide. The operation is attributed to four key threat actor groups working together through shared C2 infrastructure, and involves fraudulent activities such as ad fraud, click fraud, and the sale of residential proxy services.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140885</guid>
+      <pubDate>Fri, 06 Jun 2025 08:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paste.ee Turned Cyber Weapon: XWorm and AsyncRAT Delivered by Malicious Actors</title>
+      <link>https://gbhackers.com/paste-ee-turned-cyber-weapon/</link>
+      <description>The article discusses a new trend in phishing and malware delivery where attackers use the text-sharing website Paste.ee to host malicious payloads and scripts, often disguised as innocuous text snippets. This tactic allows threat actors to bypass traditional security defenses by exploiting the platform's accessibility and anonymity features.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140870</guid>
+      <pubDate>Fri, 06 Jun 2025 07:42:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>PoC Exploit Released for Apache Tomcat DoS Vulnerability</title>
+      <link>https://gbhackers.com/apache-tomcat-dos-vulnerability/</link>
+      <description>Vulnerable Product: Apache Tomcat; CVE(s): CVE-2025-31650; Summary: A critical memory leak vulnerability in Apache Tomcat's HTTP/2 implementation allows unauthenticated denial-of-service attacks through malformed priority headers. The flaw affects Tomcat versions 9.0.76–9.0.102, 10.1.10–10.1.39, and 11.0.0-M2–11.0.5, and public exploits are already circulating.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140862</guid>
+      <pubDate>Fri, 06 Jun 2025 07:10:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Roundcube Vulnerability to Steal User Credentials via XSS Attack</title>
+      <link>https://gbhackers.com/hackers-exploit-roundcube-vulnerability/</link>
+      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2024-42009, None; Summary: The Roundcube webmail platform has a critical Cross-Site Scripting (XSS) vulnerability (CVE-2024-42009) that allows attackers to execute arbitrary JavaScript code, enabling credential theft and potential server takeover.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140861</guid>
+      <pubDate>Fri, 06 Jun 2025 06:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s upcoming Gemini Kingfall is allegedly a coding beast</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/</link>
+      <description>Vulnerable Product: None; FYSA: The article discusses the advancements in Google's AI models, specifically the "Gemini Kingfall" model that was briefly available before being taken down. It highlights the capabilities of Gemini Kingfall, such as generating a working single HTML file Minecraft game clone using a three-line prompt.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/</guid>
+      <pubDate>Thu, 05 Jun 2025 23:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT prepares o3-pro model for $200 Pro subscribers</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/</link>
+      <description>Vulnerable Product: None; Summary: The article does not mention any vulnerabilities. It discusses updates to ChatGPT models, including the new o3 Pro model, and their capabilities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/</guid>
+      <pubDate>Thu, 05 Jun 2025 22:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proxy Services Feast on Ukraine’s IP Address Exodus</title>
+      <link>https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/</link>
+      <description>The article discusses how Ukraine's Internet Protocol Version 4 (IPv4) address space has been affected by the Russian invasion. Many Ukrainian ISPs have sold or leased their IPv4 address blocks to proxy and anonymity services, which are now being used to route traffic from multiple countries, including those with a high incidence of cybercrime activity. This has resulted in many former Ukrainian IP addresses being used in cyberattacks against Ukraine and other enemies of Russia.
+
+FYSA: The article highlights the vulnerability of Ukraine's Internet infrastructure to Russian control or manipulation, as well as the potential for proxy services to be abused for malicious purposes.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71386</guid>
+      <pubDate>Thu, 05 Jun 2025 22:44:33 +0000</pubDate>
+    </item>
     <item>
       <title>FBI: BADBOX 2.0 Android malware infects millions of consumer devices</title>
       <link>https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/</link>
@@ -1350,106 +1456,6 @@ In terms of vulnerabilities, I would classify this article as a FYSA (For Your S
       <description>Vulnerable Product: Apport (Ubuntu) and systemd-coredump; CVE(s): CVE-2025-5054, CVE-2025-4598; Summary: Two local information disclosure vulnerabilities were disclosed, impacting the core-dump handlers Apport and systemd-coredump on millions of Linux systems. The vulnerabilities allow attackers to extract sensitive data, including password hashes, by manipulating crash reporting mechanisms in popular distributions like Ubuntu, RHEL, and Fedora.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139872</guid>
       <pubDate>Mon, 02 Jun 2025 06:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Recruiter Emails Target CFOs Using Legit NetBird Tool Across 6 Global Regions</title>
-      <link>https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html</link>
-      <description>This article reports on a spear-phishing campaign using the legitimate remote access tool Netbird to target financial executives. The attack involves a multi-stage phishing operation, including CAPTCHA verification and VBScript payloads.
-
-FYSA: A new spear-phishing campaign has been detected, targeting Chief Financial Officers (CFOs) and financial executives at banks, energy companies, insurers, and investment firms across Europe, Africa, Canada, the Middle East, and South Asia. The attackers use a legitimate remote access tool called Netbird to establish persistence and evade detection.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html</guid>
-      <pubDate>Mon, 02 Jun 2025 05:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploit details for max severity Cisco IOS XE flaw now public</title>
-      <link>https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CVE-2025-20188; Summary: A maximum-severity arbitrary file upload flaw tracked as CVE-2025-20188 allows an attacker to take over devices. The vulnerability exists due to a hardcoded JWT fallback secret ("notfound") used by the backend Lua scripts for upload endpoints combined with insufficient path validation.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/</guid>
-      <pubDate>Sat, 31 May 2025 14:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware kingpin “Stern” apparently IDed by German law enforcement</title>
-      <link>https://arstechnica.com/security/2025/05/german-police-say-theyve-identified-trickbot-ransomware-kingpin/</link>
-      <description>The article discusses the cybersecurity threat actor known as "Stern", who is allegedly linked to Russia's intelligence apparatus and has been involved in ransomware attacks. According to experts, Stern's organization, Trickbot and Conti, has been highly effective due to its strong operational security and ability to remain hidden.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/german-police-say-theyve-identified-trickbot-ransomware-kingpin/</guid>
-      <pubDate>Sat, 31 May 2025 13:32:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora</title>
-      <link>https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html</link>
-      <description>Vulnerable Product: Ubuntu, Red Hat Enterprise Linux, Fedora; CVE(s): CVE-2025-5054, CVE-2025-4598; Summary: Two race condition bugs in apport and systemd-coredump allow local attackers to obtain sensitive information, including password hashes, by exploiting SUID programs and gaining read access to core dumps.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html</guid>
-      <pubDate>Sat, 31 May 2025 10:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation</title>
-      <link>https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html</link>
-      <description>This article is about a multinational law enforcement operation that took down an online cybercrime syndicate offering crypting services to threat actors. The operation seized four domains and associated servers, including AvCheck[.]net, Cryptor[.]biz, and Crypt[.]guru, which now display a seizure notice.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html</guid>
-      <pubDate>Sat, 31 May 2025 07:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US “insider threat” cybersecurity worker arrested… as insider threat</title>
-      <link>https://arstechnica.com/security/2025/05/us-insider-threat-cybersecurity-worker-arrested-as-insider-threat/</link>
-      <description>Vulnerable Product: None; Summary: This article describes the story of Laatsch, a DIA employee who allegedly leaked classified information to an unknown contact. The FBI tracked down and arrested him after tracing his digital footprints, including his email accounts and IP addresses, which were linked to his residence.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/05/us-insider-threat-cybersecurity-worker-arrested-as-insider-threat/</guid>
-      <pubDate>Fri, 30 May 2025 19:55:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers are exploiting critical flaw in vBulletin forum software</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/</link>
-      <description>Vulnerable Product: vBulletin; CVE(s): CVE-2025-48827, CVE-2025-48828; Summary: Two critical vulnerabilities, an API method invocation and a remote code execution (RCE) via template engine abuse, affecting vBulletin versions 5.0.0 through 5.7.5 and 6.0.0 through 6.0.3 when running on PHP 8.1 or later.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/</guid>
-      <pubDate>Fri, 30 May 2025 19:26:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft now testing Notepad text formatting in Windows 11</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/</link>
-      <description>The article discusses Microsoft's updates and new features in the Windows 11 Notepad application, including text formatting support for Markdown-style input. Additionally, it mentions the introduction of AI-powered text summarization and generation features, as well as other minor updates. There is no mention of a vulnerability or cybersecurity threat.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/</guid>
-      <pubDate>Fri, 30 May 2025 18:41:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Exploit Microsoft Entra Billing Roles to Escalate Privileges in Organizational Environments</title>
-      <link>https://gbhackers.com/attackers-exploit-microsoft-entra-billing-roles/</link>
-      <description>Vulnerable Product: Microsoft Entra ID and Azure environments; CVE(s): None; Summary: Attackers can exploit lesser-known billing roles to escalate privileges within organizational tenants by creating and controlling Azure subscriptions in external tenants where they hold no direct administrative rights. This vulnerability allows for unauthorized reconnaissance, persistence, and potential privilege escalation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139826</guid>
-      <pubDate>Fri, 30 May 2025 16:47:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police takes down AVCheck site used by cybercriminals to scan malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/</link>
-      <description>The article reports on the takedown of AVCheck, a service used by cybercriminals to test whether their malware is detected by commercial antivirus software. This service was seized as part of Operation Endgame, an international law enforcement operation aimed at disrupting ransomware attacks and related infrastructure.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/</guid>
-      <pubDate>Fri, 30 May 2025 16:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany doxxes Conti ransomware and TrickBot ring leader</title>
-      <link>https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/</link>
-      <description>Vitaly Nikolaevich Kovalev, leader of the Trickbot and Conti cybercrime gangs, is suspected of being a 36-year-old Russian. The article discusses his involvement in malware operations, including Trickbot, Bazarloader, SystemBC, IcedID, Ryuk, Conti, and Diavol.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/</guid>
-      <pubDate>Fri, 30 May 2025 15:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Google Apps Script to Host Phishing Sites</title>
-      <link>https://gbhackers.com/threat-actors-exploit-google-apps-script/</link>
-      <description>The Cofense Phishing Defense Center has uncovered a sophisticated phishing campaign that uses Google Apps Script to host deceptive pages. The attack leverages the trust users have in Google's platform to trick recipients into divulging sensitive information. Threat actors exploit this trust by embedding malicious content within a reputable domain, making it a particularly insidious form of social engineering.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139809</guid>
-      <pubDate>Fri, 30 May 2025 15:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dadsec Hacker Group Uses Tycoon2FA Infrastructure to Steal Office365 Credentials</title>
-      <link>https://gbhackers.com/dadsec-hacker-group-uses-tycoon2fa-infrastructure/</link>
-      <description>This article reports a large-scale phishing campaign orchestrated by the hacker group Storm-1575 (also known as "Dadsec"), using a Phishing-as-a-Service (PhaaS) platform called Tycoon2FA. The campaign targets Microsoft 365 users, aiming to harvest credentials through meticulously crafted phishing pages.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139769</guid>
-      <pubDate>Fri, 30 May 2025 15:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware: Weaponized AI Tool Installers Infect Devices with Ransomware</title>
-      <link>https://gbhackers.com/weaponized-ai-tool-installers-infect-devices/</link>
-      <description>The article discusses a series of malicious threats masquerading as legitimate AI tool installers, targeting users and businesses across multiple industries. The threats include CyberLock ransomware, Lucky_Gh0$t ransomware, and Numero malware, which exploit the growing popularity of AI solutions to compromise sensitive data and undermine trust in genuine AI tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139750</guid>
-      <pubDate>Fri, 30 May 2025 14:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
