@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 16:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 17:01:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Rust-Developed InfoStealer Drains Sensitive Data from Chromium-Based Browsers</title>
+      <link>https://gbhackers.com/new-rust-developed-infostealer/</link>
+      <description>RustStealer is an information-stealing malware designed to extract sensitive data from Chromium-based browsers such as Google Chrome and Microsoft Edge. It uses advanced obfuscation techniques, exploits unencrypted data stored in browser profiles, and can exfiltrate data to remote command-and-control servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141073</guid>
+      <pubDate>Fri, 06 Jun 2025 16:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Leverage New ClickFix Tactic to Exploit Human Error with Deceptive Prompts</title>
+      <link>https://gbhackers.com/hackers-leverage-new-clickfix-tactic-to-exploit-human-error/</link>
+      <description>A sophisticated social engineering technique called ClickFix baiting has gained popularity among cybercriminals, targeting human end users as the weakest link in cybersecurity defenses. This method uses seemingly benign prompts to trick users into executing malicious commands, bypassing traditional security measures with ease. The attack chain involves spear phishing links, drive-by compromises, or fake CAPTCHA prompts that redirect users to malicious URLs, ultimately leading to the installation of malware families like XWorm, Lumma, and AsyncRAT.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141025</guid>
+      <pubDate>Fri, 06 Jun 2025 16:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-326: (0Day) (Pwn2Own) WOLFBOX Level 2 EV Charger MCU Command Parsing Misinterpretation of Input Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-326/</link>
@@ -35,6 +49,13 @@
       <description>Vulnerable Product: WOLFBOX Level 2 EV Charger; CVE(s): CVE-2025-5750; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations without authentication. It occurs due to the lack of proper validation of user-supplied data length prior to copying it to a fixed-length heap-based buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26294</guid>
       <pubDate>Fri, 06 Jun 2025 16:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hundreds of Malicious GitHub Repos Targeting Novice Cybercriminals Traced to Single User</title>
+      <link>https://gbhackers.com/hundreds-of-malicious-github-repos-targeting-novice-cybercriminals/</link>
+      <description>The article reports on a campaign involving over 140 GitHub repositories laced with malicious backdoors orchestrated by a single threat actor. The backdoors employ four distinct types of backdoors, including PreBuild event scripts in Visual Basic project files, Python scripts, screensaver (.scr) files disguised as solution files, and JavaScript payloads.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141010</guid>
+      <pubDate>Fri, 06 Jun 2025 16:02:00 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-330: (0Day) (Pwn2Own) WOLFBOX Level 2 EV Charger Management Card Hard-coded Credentials Authentication Bypass Vulnerability</title>
@@ -1422,27 +1443,6 @@ FYSA: There is no cybersecurity relevance in this article.</description>
       <description>Vulnerable Product: Ulefone, Krüger&amp;Matz; CVE(s): CVE-2024-13915, CVE-2024-13916, CVE-2024-13917; Summary: Three security vulnerabilities affect preinstalled Android applications on smartphones from Ulefone and Krüger&amp;Matz, exposing users to risks such as unauthorized device resets, theft of sensitive PIN codes, and privilege escalation by malicious applications.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140085</guid>
       <pubDate>Mon, 02 Jun 2025 15:10:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Russian Market’ emerges as a go-to shop for stolen credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/</link>
-      <description>The article discusses the Russian Market, a popular platform for buying and selling credentials stolen by information stealer malware. It highlights the surge in popularity of this market and the rise of new info-stealers such as Acreed, which is rapidly gaining traction following the takedown of Lumma.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/</guid>
-      <pubDate>Mon, 02 Jun 2025 14:28:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM DataStage Bug Exposes Database Credentials in Plain Tex</title>
-      <link>https://gbhackers.com/ibm-datastage-bug/</link>
-      <description>Vulnerable Product: IBM InfoSphere DataStage; CVE(s): CVE-2025-1499; Summary: The vulnerability allows for the storage of sensitive credential information in cleartext, exposing database authentication details to authenticated users. This can lead to a high confidentiality risk and potential unauthorized access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140084</guid>
-      <pubDate>Mon, 02 Jun 2025 14:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm Fixes 3 Zero-Days Used in Targeted Android Attacks via Adreno GPU</title>
-      <link>https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html</link>
-      <description>Vulnerable Product: Qualcomm Adreno GPU driver; CVE(s): CVE-2025-21479, CVE-2025-21480, CVE-2025-27038; Summary: The vulnerabilities in the Graphics component of the Adreno GPU driver can result in memory corruption due to unauthorized command execution or use-after-free vulnerability while rendering graphics. These flaws have been exploited in limited, targeted attacks and Qualcomm recommends deploying updates as soon as possible.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html</guid>
-      <pubDate>Mon, 02 Jun 2025 14:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
