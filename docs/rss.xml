@@ -6,8 +6,52 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 14:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 15:05:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Beware: Fake AI Business Tools Spreading Hidden Ransomware</title>
+      <link>https://gbhackers.com/fake-ai-business-tools-spreading-hidden-ransomware/</link>
+      <description>Cybercriminals are deploying ransomware through deceptive campaigns targeting small businesses that adopt artificial intelligence (AI) tools. Attackers create fake websites and software installers that mimic popular AI services, leading to the installation of malware such as CyberLock, Lucky_Gh0$t, or Numero, which can render systems unusable or demand payment in cryptocurrency.
+
+FYSA: Cybercriminals are capitalizing on the AI boom by targeting small businesses with ransomware attacks, posing a dual risk of immediate system compromise and long-term damage to confidence in digital tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140946</guid>
+      <pubDate>Fri, 06 Jun 2025 14:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New PathWiper data wiper malware hits critical infrastructure in Ukraine</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/</link>
+      <description>PathWiper is a newly discovered data wiper malware used in targeted attacks against critical infrastructure in Ukraine, aimed at disrupting operations. The payload was deployed through a legitimate endpoint administration tool and has similar functionality to HermeticWiper, previously deployed by the 'Sandworm' threat group.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/</guid>
+      <pubDate>Fri, 06 Jun 2025 14:40:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider Hackers Target Tech Company Help-Desk Administrators</title>
+      <link>https://gbhackers.com/scattered-spider-hackers-target-tech-company/</link>
+      <description>The Scattered Spider hacking group has launched a targeted campaign against help-desk administrators at major technology companies, using advanced social engineering techniques and APT methodologies to breach corporate defenses. The attackers leverage phishing, credential stuffing, and impersonation tactics to gain unauthorized access to critical systems, often exploiting human vulnerabilities as effectively as technical ones. This campaign highlights the importance of robust employee training, multi-factor authentication protocols, and continuous monitoring to detect anomalous behavior.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140972</guid>
+      <pubDate>Fri, 06 Jun 2025 14:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Mirai Variant Exploits TBK DVR Flaw for Remote Code Execution</title>
+      <link>https://gbhackers.com/mirai-variant-exploits-tbk-dvr-flaw/</link>
+      <description>Vulnerable Product: TBK DVR-4104 and DVR-4216 devices; CVE(s): CVE-2024-3721; Summary: A critical command injection vulnerability (CVE-2024-3721) in TBK DVR-4104 and DVR-4216 devices allows attackers to exploit unpatched firmware, deploy a modified Mirai variant designed for IoT device hijacking and DDoS operations, and execute ARM32 binaries.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141005</guid>
+      <pubDate>Fri, 06 Jun 2025 13:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Unveils European Security Effort to Disrupt Cybercrime Networks</title>
+      <link>https://gbhackers.com/microsoft-unveils-european-security-effort/</link>
+      <description>Vulnerable Product: Microsoft Windows NTFS; CVE(s): CVE-2025-24993; Summary: A critical heap-based buffer overflow vulnerability in the Windows NTFS allows attackers to execute arbitrary code with local user privileges by crafting malicious VHD files and mounting them. The exploit requires social engineering or misleading users into believing the file is safe, and successful exploitation can result in privilege escalation, system compromise, data exfiltration, service disruption, and lateral movement.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140970</guid>
+      <pubDate>Fri, 06 Jun 2025 13:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>ViperSoftX Malware Used by Threat Actors to Steal Sensitive Information</title>
+      <link>https://gbhackers.com/vipersoftx-malware-used-by-threat-actor/</link>
+      <description>ViperSoftX is a sophisticated PowerShell-based malware designed to infiltrate infected systems, execute remote commands, steal sensitive data, and target cryptocurrency-related information. It employs deceptive tactics, abuses Windows Task Scheduler, and communicates with C&amp;C servers using HTTP headers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140954</guid>
+      <pubDate>Fri, 06 Jun 2025 13:54:02 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Fortinet flaws now exploited in Qilin ransomware attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/</link>
@@ -28,6 +72,13 @@
       <description>India's Central Bureau of Investigation (CBI) has dismantled two illegal call centers engaged in a transnational tech support scam targeting Japanese citizens, arresting four individuals and seizing evidence. The scam involved advanced social engineering techniques and "technical subterfuge" to deceive victims into transferring funds.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html</guid>
       <pubDate>Fri, 06 Jun 2025 13:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Offers $10M Bounty for Information on RedLine Malware Creator</title>
+      <link>https://gbhackers.com/u-s-offers-10m-bounty/</link>
+      <description>This article is not about a vulnerability. Instead, it discusses the RedLine infostealer malware and its alleged developer, Maxim Alexandrovich Rudometov, who is being sought with a $10 million reward under the Rewards for Justice program. The article details the malware's features, including configuration and C2 communication, host profiling, data exfiltration, remote execution and persistence, and anti-analysis measures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140965</guid>
+      <pubDate>Fri, 06 Jun 2025 13:11:32 +0000</pubDate>
     </item>
     <item>
       <title>ANY.RUN Empowers Government Agencies with Real-Time Threat Detection</title>
@@ -243,6 +294,13 @@ FYSA: The article discusses the importance of cybersecurity awareness and the ne
       <description>Vulnerable Product: Multiple Google Chrome extensions; CVE(s): None; Summary: Several popular Google Chrome extensions have been found to transmit sensitive data in HTTP, exposing users to privacy and security risks. The extensions hard-code secrets in their code, making them susceptible to adversary-in-the-middle (AitM) attacks, allowing malicious actors on the same network to intercept and modify the transmitted data.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html</guid>
       <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to build a robust Windows service to block malware and ransomware</title>
+      <link>https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/</link>
+      <description>This article discusses designing a security-focused Windows Service with principles such as minimal attack surface, real-time monitoring and response, robustness and resilience, scalability and performance. It also explores the components involved in building a robust security service, including monitoring engine, analysis and detection module, response and mitigation unit, logging and reporting, and communication interface.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/</guid>
+      <pubDate>Thu, 05 Jun 2025 14:20:12 +0000</pubDate>
     </item>
     <item>
       <title>Designing a Windows Service for Security</title>
@@ -1400,62 +1458,6 @@ Notable points from the article include:
 In terms of vulnerabilities, I would classify this article as a FYSA (For Your Security Awareness) piece, as it highlights various cybersecurity threats and techniques used by hackers, rather than discussing specific software or hardware vulnerabilities.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html</guid>
       <pubDate>Mon, 02 Jun 2025 11:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PyPI Supply Chain Attacks Target Python and NPM Users on Windows and Linux</title>
-      <link>https://gbhackers.com/new-pypi-supply-chain-attacks-target-python-and-npm-users/</link>
-      <description>Vulnerable Product: PyPI and NPM; CVE(s): None; Summary: A malicious package campaign targeting Python and NPM users was discovered, exploiting typo-squatting and name-confusion attacks against popular packages. The attack involves uploading malicious packages with names designed to confuse developers into accidental installation through typographic errors, resulting in sensitive data exfiltration, remote access establishment, and comprehensive persistence mechanisms on both Windows and Linux platforms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140018</guid>
-      <pubDate>Mon, 02 Jun 2025 11:14:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Weaponize Free SSH Client PuTTY to Deliver Malware on Windows</title>
-      <link>https://gbhackers.com/weaponize-free-ssh-client-putty/</link>
-      <description>Vulnerable Product: OpenSSH; CVE(s): None; Summary: The article discusses a malware sample that uses OpenSSH as a "Living Off the Land Binary" (LOLBIN) to establish persistent access. The malware creates a custom SSH configuration file and uses it to connect to an attacker's Command and Control (C2) server, with the goal of enabling port forwarding and remote access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139948</guid>
-      <pubDate>Mon, 02 Jun 2025 11:12:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm fixes three Adreno GPU zero-days exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/</link>
-      <description>Vulnerable Product: Qualcomm Adreno Graphics Processing Unit (GPU) driver; CVE(s): CVE-2025-21479, CVE-2025-21480, CVE-2025-27038; Summary: The Adreno GPU driver has three zero-day vulnerabilities that are actively exploited in targeted attacks. Two flaws are graphics framework incorrect authorization weaknesses leading to memory corruption, and one is a use-after-free causing memory corruption while rendering graphics using the Adreno GPU drivers in Chrome.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/</guid>
-      <pubDate>Mon, 02 Jun 2025 11:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats</title>
-      <link>https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html</link>
-      <description>The article discusses the importance of network detection and response (NDR) in various industries, including financial services, energy, transportation, and government. It highlights how NDR can provide valuable insights into network activity, detect anomalous behavior, and identify threat actors' tactics, techniques, and procedures (TTPs).</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html</guid>
-      <pubDate>Mon, 02 Jun 2025 10:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISO Roles Take on Strategic Security Leadership Roles Beyond Cybersecurity as Organizations</title>
-      <link>https://gbhackers.com/ciso-roles-take-on-strategic-security-leadership-roles/</link>
-      <description>The article discusses the evolution of Chief Information Security Officers (CISOs) roles, revealing a fundamental transformation in cybersecurity leadership. CISOs are increasingly assuming strategic business responsibilities that extend beyond traditional information security functions, encompassing enterprise risk management, digital transformation, and broader organizational security functions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139962</guid>
-      <pubDate>Mon, 02 Jun 2025 10:45:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 50,000 Azure AD Users’ Access Tokens Exposed via Unauthenticated API Endpoint</title>
-      <link>https://gbhackers.com/over-50000-azure-ad-users-access-tokens-exposed/</link>
-      <description>Vulnerable Product: Unknown; CVE(s): None; Summary: A critical security vulnerability was discovered through CloudSEK's BeVigil platform, allowing unauthorized access to Microsoft Graph tokens with elevated privileges, exposing sensitive data of over 50,000 Azure Active Directory users. The vulnerability was caused by an exposed JavaScript file containing an unauthenticated API endpoint and could grant comprehensive access to user profile information and critical identity governance data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139950</guid>
-      <pubDate>Mon, 02 Jun 2025 10:28:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Denodo Scheduler Flaw Allows Remote Code Execution by Attackers</title>
-      <link>https://gbhackers.com/critical-denodo-scheduler-flaw/</link>
-      <description>Vulnerable Product: Denodo; CVE(s): CVE-2025-26147; Summary: The Denodo Scheduler product allows authenticated users to perform remote code execution (RCE) by manipulating the filename parameter in a multipart form data POST request. This vulnerability arises from the ability to write arbitrary files on the server's filesystem, allowing attackers to escalate to RCE.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139947</guid>
-      <pubDate>Mon, 02 Jun 2025 09:48:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Alleged Breaches: Bank Banten Customer Data, Deloitte Source Code, and TotalEnergies France</title>
-      <link>https://socradar.io/bank-banten-deloitte-source-code-totalenergies-france/</link>
-      <description>Multiple high-profile incidents have been tracked on the Dark Web, including posts advertising stolen data from Bank Banten, a source code leak allegedly tied to Deloitte's U.S. consulting division, and the sale of a massive dataset allegedly linked to TotalEnergies France. Additionally, a threat actor is recruiting marketing partners for aggressive bulk messaging campaigns, reflecting the increasingly professionalized and targeted nature of underground cybercrime operations.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060652</guid>
-      <pubDate>Mon, 02 Jun 2025 09:41:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
