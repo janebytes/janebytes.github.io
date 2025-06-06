@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 19:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 20:00:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Millions of low-cost Android devices turn home networks into crime platforms</title>
+      <link>https://arstechnica.com/security/2025/06/millions-of-low-cost-android-devices-turn-home-networks-into-crime-platforms/</link>
+      <description>A coordinated effort by Google and others disrupted a new malware campaign, BadBox 2.0, affecting over 1 million off-brand Android devices not certified under Play Protect. The FBI warned consumers to evaluate their IoT devices for signs of compromise, such as automatic connections to malicious app markets or requests to disable Play Protect.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/millions-of-low-cost-android-devices-turn-home-networks-into-crime-platforms/</guid>
+      <pubDate>Fri, 06 Jun 2025 19:15:28 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-331: Autodesk Revit RFA File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-331/</link>
@@ -1430,13 +1437,6 @@ Overall, the study highlights the importance of robust input and output guardrai
       <description>SentinelOne's software flaw caused a seven-hour-long outage on Thursday, affecting multiple customer-facing services. The incident was not a security breach or cyberattack, but rather a software glitch that deleted critical network routes and DNS resolver rules, leading to service disruptions.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/</guid>
       <pubDate>Mon, 02 Jun 2025 18:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome to distrust Chunghwa Telecom, Netlock certificates in August</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/</link>
-      <description>Vulnerable Product: Chunghwa Telecom and Netlock; CVE(s): None; Summary: The root CA certificates signed by Chunghwa Telecom and Netlock will no longer be trusted by Google Chrome starting August 1, 2025, due to ongoing compliance failures and lack of measurable progress. This change will display a "Your connection is not private" warning when users visit websites that continue to use these certificates, creating trust issues for visitors.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/</guid>
-      <pubDate>Mon, 02 Jun 2025 17:36:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
