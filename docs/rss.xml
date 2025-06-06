@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 12:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 13:01:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ANY.RUN Empowers Government Agencies with Real-Time Threat Detection</title>
+      <link>https://gbhackers.com/any-run-empowers-government/</link>
+      <description>Government agencies worldwide are facing an unprecedented wave of cyberattacks, with attackers employing advanced tactics to breach critical infrastructure and steal sensitive data. The most prevalent attack vector remains phishing emails, with spoofed domains and malicious attachments being used to deliver malware such as FormBook.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=140944</guid>
+      <pubDate>Fri, 06 Jun 2025 11:26:34 +0000</pubDate>
+    </item>
     <item>
       <title>Critical RCE Vulnerability in AWS Amplify Studio – PoC Now Public</title>
       <link>https://gbhackers.com/rce-vulnerability-in-aws-amplify-studio/</link>
@@ -1449,13 +1456,6 @@ In terms of vulnerabilities, I would classify this article as a FYSA (For Your S
       <description>Vulnerable Product: Node.js; CVE(s): None; Summary: A widespread path traversal vulnerability (CWE-22) affects 1,756 open-source GitHub projects due to a commonly used Node.js code pattern for creating static HTTP file servers. Attackers can access files outside of restricted locations, compromising confidentiality and availability.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=139916</guid>
       <pubDate>Mon, 02 Jun 2025 08:21:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Severe Vulnerabilities in Consilium CS5000 Fire Panels Allow Remote System Takeover</title>
-      <link>https://gbhackers.com/vulnerabilities-in-consilium-cs5000/</link>
-      <description>Vulnerable Product: Consilium Safety CS5000 Fire Panel; CVE(s): CVE-2025-41438, CVE-2025-46352; Summary: Two severe vulnerabilities have been disclosed in the CS5000 Fire Panel, allowing remote attackers to gain high-level access and potentially render fire panels non-functional. The first vulnerability stems from a default high-privilege account with unchanged credentials, while the second involves a hard-coded password embedded within the VNC server binary. Both flaws are critical, with CVSS scores of 9.8 and 9.3 respectively, reflecting their ease of exploitation and severe potential impact.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=139873</guid>
-      <pubDate>Mon, 02 Jun 2025 07:42:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
