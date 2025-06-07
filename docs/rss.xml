@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jun 2025 19:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 20:01:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Supply chain attack hits Gluestack NPM packages with 960K weekly downloads</title>
+      <link>https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/</link>
+      <description>Vulnerable Product: Gluestack "react-native-aria" packages; CVE(s): None; Summary: A significant supply chain attack compromised 16 popular Gluestack packages on NPM, including over 950,000 weekly downloads. The malicious code acts as a remote access trojan (RAT), allowing attackers to execute commands and hijack systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/</guid>
+      <pubDate>Sat, 07 Jun 2025 19:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm packages posing as utilities delete project directories</title>
+      <link>https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/</link>
+      <description>Vulnerable Product: npm JavaScript package index; CVE(s): None; Summary: Two malicious packages, 'express-api-sync' and 'system-health-sync-api', were discovered in the npm JavaScript package index. These packages posed as database syncing and system health monitoring tools but contained backdoors that enabled remote data-wiping actions at infected hosts.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/</guid>
+      <pubDate>Sat, 07 Jun 2025 14:11:21 +0000</pubDate>
+    </item>
     <item>
       <title>Millions of low-cost Android devices turn home networks into crime platforms</title>
       <link>https://arstechnica.com/security/2025/06/millions-of-low-cost-android-devices-turn-home-networks-into-crime-platforms/</link>
@@ -1427,20 +1441,6 @@ Overall, the study highlights the importance of robust input and output guardrai
       <description>A sophisticated malware campaign using deceptive CAPTCHA interfaces to distribute EddieStealer, a Rust-based information stealing malware that targets sensitive user data across multiple platforms. The campaign employs social engineering tactics and exploits user trust in common web security features.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140061</guid>
       <pubDate>Mon, 02 Jun 2025 19:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The North Face warns customers of April credential stuffing attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/the-north-face-warns-customers-of-april-credential-stuffing-attack/</link>
-      <description>Credential stuffing attacks targeting The North Face's website led to the theft of customers' personal information, including full name, purchase history, shipping address, email address, date of birth, and telephone number. However, payment information was not exposed as it is handled by an external provider.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/the-north-face-warns-customers-of-april-credential-stuffing-attack/</guid>
-      <pubDate>Mon, 02 Jun 2025 18:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stealth Syscall Technique Allows Hackers to Evade Event Tracing and EDR Detection</title>
-      <link>https://gbhackers.com/stealth-syscall-technique-allows-hackers/</link>
-      <description>Advanced threat actors have developed sophisticated stealth syscall execution techniques to bypass modern security infrastructure, including Event Tracing for Windows (ETW), Sysmon monitoring, and Endpoint Detection and Response (EDR) systems. These techniques combine multiple evasion methods such as call stack spoofing, ETW API hooking, and encrypted syscall execution to render traditional detection mechanisms ineffective.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140077</guid>
-      <pubDate>Mon, 02 Jun 2025 18:34:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
