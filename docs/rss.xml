@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jun 2025 15:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 16:01:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Millions of low-cost Android devices turn home networks into crime platforms</title>
@@ -583,6 +583,17 @@ FYSA: None</description>
       <description>The Cybersecurity and Infrastructure Security Agency (CISA), FBI, and Australian Signals Directorate's Australian Cyber Security Centre (ASD’s ACSC) have released detailed Tactics, Techniques, and Procedures (TTPs) and Indicators of Compromise (IoCs) for the Play ransomware group. The report highlights the group's tactics, including exploiting vulnerabilities in public-facing applications, abusing valid accounts, and using tools like AdFind and Grixba to gain domain administrator access.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140630</guid>
       <pubDate>Thu, 05 Jun 2025 09:18:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Patches Severe Flaws in ISE (CVE-2025-20286) &amp; Other Products; PoC Exploits Confirmed for Some</title>
+      <link>https://socradar.io/cisco-flaws-in-ise-cve-2025-20286-poc-exploits/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20286; Summary: A critical vulnerability in the Cisco ISE allows an unauthenticated attacker to access sensitive data, perform limited administrative tasks, modify configurations, or disrupt services. The vulnerability affects cloud deployments and has a CVSS score of 9.9, with proof-of-concept exploit code available.
+
+Vulnerable Product: Cisco Integrated Management Controllers (IMC); CVE(s): CVE-2025-20261; Summary: A high-severity vulnerability in the Cisco IMC allows an authenticated attacker to elevate privileges on various UCS platforms, including Blade Servers, S-Series and C-Series Servers, and X-Series Modular Systems. The attacker can exploit SSH misconfigurations to gain unauthorized access to internal services and create new admin accounts.
+
+Vulnerable Product: Cisco Nexus Dashboard Fabric Controller (NDFC); CVE(s): CVE-2025-20163; Summary: A high-severity vulnerability in the Cisco NDFC allows an attacker to perform a Man-in-the-Middle (MitM) attack to impersonate a managed device and intercept sensitive traffic.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060833</guid>
+      <pubDate>Thu, 05 Jun 2025 09:12:25 +0000</pubDate>
     </item>
     <item>
       <title>Critical Cisco Nexus Dashboard Vulnerability Lets Attackers Impersonate Managed Devices</title>
@@ -1430,13 +1441,6 @@ Overall, the study highlights the importance of robust input and output guardrai
       <description>Advanced threat actors have developed sophisticated stealth syscall execution techniques to bypass modern security infrastructure, including Event Tracing for Windows (ETW), Sysmon monitoring, and Endpoint Detection and Response (EDR) systems. These techniques combine multiple evasion methods such as call stack spoofing, ETW API hooking, and encrypted syscall execution to render traditional detection mechanisms ineffective.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140077</guid>
       <pubDate>Mon, 02 Jun 2025 18:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>SentinelOne: Last week’s 7-hour outage caused by software flaw</title>
-      <link>https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/</link>
-      <description>SentinelOne's software flaw caused a seven-hour-long outage on Thursday, affecting multiple customer-facing services. The incident was not a security breach or cyberattack, but rather a software glitch that deleted critical network routes and DNS resolver rules, leading to service disruptions.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/</guid>
-      <pubDate>Mon, 02 Jun 2025 18:24:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
