@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jun 2025 14:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 15:01:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally</title>
+      <link>https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html</link>
+      <description>Vulnerable Product: GlueStack packages; CVE(s): None; Summary: The article reports a supply chain attack targeting over a dozen packages associated with GlueStack, delivering malware that allows attackers to run shell commands, take screenshots, and upload files to infected machines. The impacted packages collectively account for nearly 1 million weekly downloads.
+
+FYSA: This report highlights the emergence of threat actors focusing on system sabotage rather than financial gains, and their use of bogus libraries for information theft and credential harvesting. It also shows that attackers are leveraging email as a covert communication channel to blend in with legitimate application emails.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html</guid>
+      <pubDate>Sun, 08 Jun 2025 13:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cybercriminals turn to “residential proxy” services to hide malicious traffic</title>
       <link>https://arstechnica.com/security/2025/06/cybercriminals-turn-to-residential-proxy-services-to-hide-malicious-traffic/</link>
@@ -1434,13 +1443,6 @@ Overall, the study highlights the importance of robust input and output guardrai
       <description>Vulnerable Product: Hewlett Packard Enterprise StoreOnce VSA; CVE(s): CVE-2025-37095; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Hewlett Packard Enterprise StoreOnce VSA. The specific flaw exists within the implementation of the getServerPayload method and can be exploited by bypassing existing authentication mechanisms, resulting in disclosure of information in the context of root.</description>
       <guid isPermaLink="false">ZDI-CAN-25315</guid>
       <pubDate>Mon, 02 Jun 2025 21:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-319: Hewlett Packard Enterprise StoreOnce VSA getServerCertificate Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-319/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise StoreOnce VSA; CVE(s): CVE-2025-37096; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Hewlett Packard Enterprise StoreOnce VSA, bypassing existing authentication mechanisms. The flaw exists within the getServerCertificate method due to a lack of proper validation of user-supplied strings.</description>
-      <guid isPermaLink="false">ZDI-CAN-25316</guid>
-      <pubDate>Mon, 02 Jun 2025 21:01:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
