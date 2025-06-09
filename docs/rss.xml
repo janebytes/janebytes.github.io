@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 16:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 17:02:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Report Reveals Chinese Hackers Attempted to Breach SentinelOne Servers</title>
+      <link>https://gbhackers.com/new-report-reveals-chinese-hackers-attempted-to-breach/</link>
+      <description>The article discusses SentinelLABS, a reconnaissance operation targeting SentinelOne, a leading cybersecurity vendor. The operation was linked to China-nexus threat actors and affected over 70 organizations worldwide. Despite the persistent efforts, SentinelOne's infrastructure remained uncompromised due to robust monitoring and rapid response mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141325</guid>
+      <pubDate>Mon, 09 Jun 2025 16:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sensata Technologies says personal data stolen by ransomware gang</title>
+      <link>https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/</link>
+      <description>Sensata Technologies suffered a data breach after an April ransomware attack, affecting current and former employees and their dependents. The stolen data includes full name, address, Social Security Number (SSN), driver's license number, state ID card number, passport number, financial account information, payment card information, medical information, health insurance information, and date of birth.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/</guid>
+      <pubDate>Mon, 09 Jun 2025 16:09:35 +0000</pubDate>
+    </item>
     <item>
       <title>Bitter Malware Employs Custom-Built Tools to Evade Detection in Advanced Attacks</title>
       <link>https://gbhackers.com/bitter-malware-employs-custom-built-tools/</link>
       <description>This article discusses the malware arsenal of the Bitter group (TA397), a state-backed actor aligned with India's interests. The group has evolved from deploying rudimentary downloaders to sophisticated RATs and backdoors, showcasing technical prowess and adaptability.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141301</guid>
       <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group</title>
+      <link>https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html</link>
+      <description>The article discusses a series of cyberattacks attributed to China-nexus threat actors, targeting various organizations across different sectors. The attacks are believed to be part of a broader campaign, with some connections to previously reported APT15 and UNC5174 groups.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html</guid>
+      <pubDate>Mon, 09 Jun 2025 15:23:00 +0000</pubDate>
     </item>
     <item>
       <title>Skitnet Malware Actively Adopted by Ransomware Gangs to Enhance Operational Efficiency</title>
@@ -1423,27 +1444,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <link>https://www.cisa.gov/news-events/alerts/2025/06/03/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
       <description>Vulnerable Product: Qualcomm Multiple Chipsets; CVE(s): CVE-2025-21479, CVE-2025-21480, CVE-2025-27038; Summary: The three vulnerabilities added to the Known Exploited Vulnerabilities (KEV) Catalog are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. These vulnerabilities affect Qualcomm multiple chipsets and can lead to incorrect authorization or use-after-free issues if not remediated.</description>
       <guid isPermaLink="false">/node/23465</guid>
-      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric EcoStruxure Power Build Rapsody</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-153-02</link>
-      <description>Vulnerable Product: Schneider Electric EcoStruxure Power Build Rapsody; CVE(s): CVE-2025-3916; Summary: A stack-based buffer overflow vulnerability exists in Schneider Electric's EcoStruxure Power Build Rapsody, allowing local attackers to execute arbitrary code by opening a malicious project file (SSD file) provided by the attacker. Successful exploitation could lead to arbitrary code execution on the affected device.</description>
-      <guid isPermaLink="false">/node/23470</guid>
-      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Three Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/03/cisa-releases-three-industrial-control-systems-advisories</link>
-      <description>CISA releases three Industrial Control Systems (ICS) advisories on June 3, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories relate to Schneider Electric Wiser Home Automation, Schneider Electric EcoStruxure Power Build Rapsody, and Mitsubishi Electric MELSEC iQ-F Series products.</description>
-      <guid isPermaLink="false">/node/23472</guid>
-      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Wiser Home Automation</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-153-01</link>
-      <description>Vulnerable Product: Schneider Electric Wiser AvatarOn 6K Freelocate and Wiser Cuadro H 5P Socket; CVE(s): CVE-2023-4041; Summary: A buffer copy without checking size of input ("Classic Buffer Overflow") vulnerability allows an attacker to inject code or bypass authentication, affecting all versions of Wiser AvatarOn 6K Freelocate and Wiser Cuadro H 5P Socket. Successful exploitation could lead to code injection or authentication bypass.</description>
-      <guid isPermaLink="false">/node/23469</guid>
       <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
