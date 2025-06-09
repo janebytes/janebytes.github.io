@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 11:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 12:01:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Multiple QNAP Flaws Allow Remote Attackers to Hijack User Accounts</title>
+      <link>https://gbhackers.com/multiple-qnap-flaws-2/</link>
+      <description>Vulnerable Product: QNAP Qsync Central; CVE(s): CVE-2025-22482, CVE-2025-29892; Summary: Two critical vulnerabilities were found in Qsync Central, a file synchronization software used by QNAP NAS devices. The first vulnerability is a format string vulnerability that can allow attackers to obtain sensitive data or execute malicious code, while the second is an SQL injection vulnerability that can also lead to arbitrary code execution or command injection. Both require user-level access to exploit, but the impact is severe and prompt patching is essential.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141169</guid>
+      <pubDate>Mon, 09 Jun 2025 11:13:55 +0000</pubDate>
+    </item>
     <item>
       <title>New DuplexSpy RAT Gives Attackers Full Control Over Windows Machines</title>
       <link>https://gbhackers.com/new-duplexspy-rat-gives-attackers/</link>
@@ -1426,13 +1433,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Vulnerable Product: Chunghwa Telecom, Netlock; CVE(s): None; Summary: Google will no longer trust digital certificates issued by Chunghwa Telecom and Netlock due to "patterns of concerning behavior observed over the past year", citing compliance failures, unmet improvement commitments, and absence of tangible progress. This change will affect all TLS server authentication certificates issued by these CAs after July 31, 2025, and will be introduced in Chrome 139.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html</guid>
       <pubDate>Tue, 03 Jun 2025 07:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft and CrowdStrike Launch Shared Threat Actor Glossary to Cut Attribution Confusion</title>
-      <link>https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html</link>
-      <description>Vulnerable Product: None; Summary: The article does not discuss a vulnerability. Instead, it announces a collaboration between Microsoft, CrowdStrike, Google, Palo Alto Networks, and other cybersecurity companies to align their individual threat actor taxonomies by publishing a new joint threat actor mapping. This effort aims to reduce confusion when tracking overlapping threat actor activity, improve threat attribution, and enhance analysis and response.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html</guid>
-      <pubDate>Tue, 03 Jun 2025 07:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
