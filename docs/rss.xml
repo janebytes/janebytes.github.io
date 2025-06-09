@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 13:06:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 14:02:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>OpenAI Shuts Down ChatGPT Accounts Linked to Russian, Iranian &amp; Chinese Cyber</title>
+      <link>https://gbhackers.com/openai-shuts-down-chatgpt/</link>
+      <description>The article discusses the role of artificial intelligence (AI) in cybersecurity, highlighting its potential to detect and mitigate various threats such as social engineering campaigns, cyber espionage operations, scams, and spam. The organization uses AI-driven tools to analyze vast datasets, flag anomalies, and identify suspicious behaviors, with a focus on countering authoritarian regimes, child exploitation, and malicious cyber activity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141207</guid>
+      <pubDate>Mon, 09 Jun 2025 13:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Deploy FormBook Malware via Weaponized Excel Files to Target Windows Systems</title>
+      <link>https://gbhackers.com/hackers-deploy-formbook-malware-via-weaponized-excel-files/</link>
+      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2017-0199; Summary: A critical phishing campaign targets Windows users by exploiting a long-standing vulnerability in older versions of Microsoft Office (Office 2007/2010/2013/2016) using malicious Excel attachments. The exploit triggers an HTTP request to download additional payloads, ultimately unleashing the FormBook malware, which steals sensitive information and poses a severe threat to victims' devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141203</guid>
+      <pubDate>Mon, 09 Jun 2025 13:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 1,000 Employees Departed CISA Since Trump Administration Began</title>
+      <link>https://gbhackers.com/over-1000-employees-departed/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has lost nearly one-third of its workforce since the start of the Trump administration, with approximately 1,000 employees leaving due to buyouts, early retirements, and layoffs. This reduction in staff coincides with a proposed 17% to 30% reduction in CISA's budget, targeting critical programs such as continuous diagnostics and monitoring (CDM) tools and CyberSentry. The departures and funding cuts threaten the agency's ability to fulfill its core mission of defending federal networks, supporting critical infrastructure operators, and responding to cyber incidents.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141205</guid>
+      <pubDate>Mon, 09 Jun 2025 13:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grocery wholesale giant United Natural Foods hit by cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/</link>
+      <description>UNFI, North America's largest publicly traded wholesale distributor, was forced to shut down some systems following a recent cyberattack. The company reported $31 billion in annual revenues and has over 28,000 workers. An investigation is ongoing with the assistance of external cybersecurity experts, but no details have been released on the nature of the attack or whether data was stolen.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/</guid>
+      <pubDate>Mon, 09 Jun 2025 13:31:40 +0000</pubDate>
+    </item>
     <item>
       <title>Seraphic Security UnveilsBrowserTotal™ – Free AI-PoweredBrowser Security Assessment For Enterprises</title>
       <link>https://gbhackers.com/seraphic-security-unveilsbrowsertotal-free-ai-poweredbrowser-security-assessment-for-enterprises/</link>
@@ -1417,34 +1445,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Vulnerable Product: Microsoft Azure OpenAI; CVE(s): None; Summary: The Azure OpenAI's DNS resolution logic had a misconfiguration that allowed multiple tenants to share the same custom domain, potentially enabling cross-tenant data leaks and man-in-the-middle (MitM) attacks. The flaw was due to the lack of unique custom domain names for each OpenAI instance in the API, whereas the UI required it.</description>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142029</guid>
       <pubDate>Tue, 03 Jun 2025 10:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious NPM Packages Exploit Ethereum Wallets with Obfuscated JavaScript</title>
-      <link>https://gbhackers.com/malicious-npm-packages-exploit-ethereum-wallets/</link>
-      <description>Vulnerable Product: NPM (Node Package Manager); CVE(s): None; Summary: A wave of malicious NPM packages has emerged, targeting Ethereum wallet holders by distributing harmful code disguised as legitimate libraries. The attack vector exploits the trust developers place in open-source repositories, embedding obfuscated JavaScript to steal sensitive data from unsuspecting users.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140136</guid>
-      <pubDate>Tue, 03 Jun 2025 09:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets</title>
-      <link>https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html</link>
-      <description>The Crocodilus Android banking trojan targets users in Europe and South America, uses obfuscation techniques to evade detection, and has features such as adding new contacts, capturing seed phrases, and launching overlay attacks against financial apps. It also uses various distribution vectors like Facebook ads and disguises itself as a web browser update or online casino.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html</guid>
-      <pubDate>Tue, 03 Jun 2025 09:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ModSecurity WAF Vulnerability Enables Attackers to Crash Systems</title>
-      <link>https://gbhackers.com/modsecurity-waf-vulnerability/</link>
-      <description>Vulnerable Product: Trustworthy Computing ModSecurity; CVE(s): CVE-2025-48866; Summary: The ModSecurity Apache module contains a high-severity denial-of-service (DoS) vulnerability that allows attackers to crash servers by exploiting argument sanitization logic. The vulnerability enables attackers to send requests with oversized payloads, causing memory exhaustion and CPU spikes, leading to service unavailability without authentication bypass. Patches are available in version 2.9.10.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140146</guid>
-      <pubDate>Tue, 03 Jun 2025 09:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lyrix Ransomware Targets Windows Users with Advanced Evasion Techniques</title>
-      <link>https://gbhackers.com/lyrix-ransomware-targets-windows-users/</link>
-      <description>Lyrix is a highly advanced ransomware that encrypts critical files and demands substantial ransoms for decryption keys. It uses polymorphic code to evade detection, disables system restore points and overwrites shadow copies, and communicates with its command-and-control servers via encrypted channels.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140124</guid>
-      <pubDate>Tue, 03 Jun 2025 09:08:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
