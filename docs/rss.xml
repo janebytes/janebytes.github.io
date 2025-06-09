@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 18:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 19:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SentinelOne shares new details on China-linked breach attempt</title>
+      <link>https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/</link>
+      <description>Vulnerable Product: Ivanti Cloud Service Appliances, Check Point gateways; CVE(s): None; Summary: The vulnerabilities in exposed network devices were exploited by Chinese hackers in an attempted supply chain attack on SentinelOne.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/</guid>
+      <pubDate>Mon, 09 Jun 2025 18:26:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation unveils decentralized WordPress plugin manager</title>
+      <link>https://www.bleepingcomputer.com/news/technology/linux-foundation-unveils-decentralized-wordpress-plugin-manager/</link>
+      <description>The article discusses the launch of FAIR Package Manager, an independent distribution system for trusted WordPress plugins and themes. This move is a response to controversy between Automattic (WordPress.com) and WP Engine over plugin updates. The FAIR Package Manager aims to decentralize the ecosystem, bringing control back to developers and hosts, while improving security features such as cryptographic measures, browser compatibility checking, and reliance on trusted source security salts.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/linux-foundation-unveils-decentralized-wordpress-plugin-manager/</guid>
+      <pubDate>Mon, 09 Jun 2025 18:07:42 +0000</pubDate>
+    </item>
     <item>
       <title>New Report Reveals Chinese Hackers Attempted to Breach SentinelOne Servers</title>
       <link>https://gbhackers.com/new-report-reveals-chinese-hackers-attempted-to-breach/</link>
@@ -140,6 +154,13 @@
       <description>The article discusses a ransomware attack on Kettering Health, a major Ohio-based healthcare provider, which resulted in unauthorized access to the network, encryption of critical patient care systems, and exfiltration of sensitive patient data. The incident highlights the importance of robust cybersecurity frameworks, rapid incident response, and transparent communication with patients and staff.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141192</guid>
       <pubDate>Mon, 09 Jun 2025 12:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/09/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Erlang/OTP SSH Server, RoundCube Webmail; CVE(s): CVE-2025-32433, CVE-2024-42009; Summary: The two vulnerabilities added to the Known Exploited Vulnerabilities (KEV) Catalog are a missing authentication for critical function vulnerability in Erlang/OTP SSH Server and a cross-site scripting vulnerability in RoundCube Webmail. These vulnerabilities pose significant risks to the federal enterprise and can be exploited by malicious cyber actors.</description>
+      <guid isPermaLink="false">/node/23481</guid>
+      <pubDate>Mon, 09 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks</title>
@@ -1424,27 +1445,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Governments worldwide are struggling with strong encryption in messaging apps, social media platforms, and VPNs, but a "golden key" or backdoor mechanism allowing authorized access remains mathematically and practically infeasible without introducing vulnerabilities exploitable by malicious actors. Despite decades of efforts, governments face an ever-widening gap between their surveillance ambitions and technological realities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140244</guid>
       <pubDate>Tue, 03 Jun 2025 12:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta and Yandex are de-anonymizing Android users’ web browsing identifiers</title>
-      <link>https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/</link>
-      <description>The article discusses a feature in Google's Android operating system that allows Meta (formerly Facebook) to track user activities on Android devices through the Meta Pixel. This is done by creating a local port access on port 12387, which can be accessed without explicit permission from the device owner.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/</guid>
-      <pubDate>Tue, 03 Jun 2025 12:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta and Yandex are de-anonymizing Android users’ web browsing identifiers</title>
-      <link>https://arstechnica.com/security/2025/06/headline-to-come/</link>
-      <description>This article discusses unexplained local port access issues with Meta Pixel (formerly Facebook Pixel) on Android devices. It highlights concerns around privacy violations and tracking of user activities by Meta and other companies, but does not identify a specific vulnerability or exploitation details.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/headline-to-come/</guid>
-      <pubDate>Tue, 03 Jun 2025 12:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/03/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: Qualcomm Multiple Chipsets; CVE(s): CVE-2025-21479, CVE-2025-21480, CVE-2025-27038; Summary: The three vulnerabilities added to the Known Exploited Vulnerabilities (KEV) Catalog are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. These vulnerabilities affect Qualcomm multiple chipsets and can lead to incorrect authorization or use-after-free issues if not remediated.</description>
-      <guid isPermaLink="false">/node/23465</guid>
-      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
