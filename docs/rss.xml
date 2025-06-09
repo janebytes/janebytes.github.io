@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 20:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 21:01:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Over 84,000 Roundcube instances vulnerable to actively exploited flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/</link>
+      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2025-49113; Summary: The Roundcube webmail installation is vulnerable to a critical remote code execution (RCE) flaw, patched on June 1, 2025. The vulnerability stems from unsanitized $_GET['_from'] input, enabling PHP object deserialization and session corruption when session keys begin with an exclamation mark. Exploitation requires authentication, but attackers claim valid credentials can be obtained via CSRF, log scraping, or brute-forced.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/</guid>
+      <pubDate>Mon, 09 Jun 2025 20:14:16 +0000</pubDate>
+    </item>
     <item>
       <title>Google patched bug leaking phone numbers tied to accounts</title>
       <link>https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/</link>
@@ -1438,13 +1445,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: The vulnerability affects all ScreenConnect versions up to and including 25.2.3, allowing ViewState code injection attacks that could result in remote code execution (RCE) if machine keys are compromised.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140222</guid>
       <pubDate>Tue, 03 Jun 2025 12:52:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Safari XSS Vulnerability Exploits JavaScript Error Handling to Run Arbitrary Code</title>
-      <link>https://gbhackers.com/new-safari-xss-vulnerability/</link>
-      <description>Vulnerable Product: None; CVE(s): "None"; Summary: The article discusses a lesser-known technique to exploit cross-site scripting (XSS) by leveraging JavaScript TypeError messages in Safari. This technique involves forcing a TypeError and injecting a payload into the error message, which can be executed using the eval function or other methods.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140223</guid>
-      <pubDate>Tue, 03 Jun 2025 12:12:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
