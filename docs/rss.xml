@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 14:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 15:04:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google Warns of Surge in Cyberattacks Targeting US Users to Steal Login Credentials</title>
+      <link>https://gbhackers.com/google-warns-of-surge-in-cyberattacks-targeting-us-users/</link>
+      <description>The article highlights a significant increase in cyberattacks and scams targeting US consumers, with a focus on stealing login credentials. Scammers are leveraging text messages and email as attack vectors, and users are increasingly relying on modern authentication methods like passkeys and social sign-ins to stay secure. Google is actively combating these threats through AI-driven security features, including blocking over 99.9% of spam, phishing, and malware in Gmail.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141283</guid>
+      <pubDate>Mon, 09 Jun 2025 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Bypassed Privacy Protections to Track Android Users</title>
+      <link>https://gbhackers.com/meta-bypassed-privacy-protections/</link>
+      <description>Vulnerable Product: Meta (formerly Facebook) and Yandex; CVE(s): None; Summary: Meta and Yandex exploited a design feature of Android's localhost ports to track users' web activity and link it to their real identities. The tracking technique, which bypasses typical privacy protections, allows apps to receive browser metadata and cookies, enabling the creation of a persistent profile of a user's browsing habits.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141295</guid>
+      <pubDate>Mon, 09 Jun 2025 14:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Targets $7.7M in Crypto Tied to North Korean IT Worker Scam</title>
+      <link>https://gbhackers.com/u-s-targets-7-7m-in-crypto-tied/</link>
+      <description>The United States Department of Justice has seized over $7.7 million in cryptocurrency and digital assets linked to a sophisticated global laundering operation orchestrated by North Korea. The operation involved the use of falsified identities, virtual private networks (VPNs), and advanced obfuscation techniques to conceal the origin of the funds.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141208</guid>
+      <pubDate>Mon, 09 Jun 2025 14:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT41 Hackers Leverage Google Calendar for Malware C2 in Attacks on Government Entities</title>
+      <link>https://gbhackers.com/apt41-hackers-leverage-google-calendar-for-malware/</link>
+      <description>This article describes an APT41 campaign that uses Google Calendar as a command-and-control (C2) mechanism to exfiltrate information and retrieve commands from attackers. The malware, named ToughProgress, employs advanced obfuscation techniques, process hollowing, and driver-like handling to achieve persistence and privilege escalation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141247</guid>
+      <pubDate>Mon, 09 Jun 2025 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designing Blue Team playbooks with Wazuh for proactive cyber defense</title>
+      <link>https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-cyber-defense/</link>
+      <description>This article discusses Blue Team playbooks, which are detailed guides outlining how to identify, contain, and remediate specific security incidents. The article highlights the importance of structured processes in incident response and introduces Wazuh, an open-source security platform that provides real-time threat detection, automated response, and comprehensive incident management for various attack scenarios.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-cyber-defense/</guid>
+      <pubDate>Mon, 09 Jun 2025 14:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Blitz Malware Targets Windows Servers to Deploy Monero Miner</title>
+      <link>https://gbhackers.com/new-blitz-malware-targets-windows-servers/</link>
+      <description>The Blitz malware is a Windows-based malware that deploys a Monero cryptocurrency miner, information-stealer, and DoS capability. It spreads through backdoored game cheats for the popular mobile game Standoff 2 and communicates via a REST API built on the FastAPI framework.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141219</guid>
+      <pubDate>Mon, 09 Jun 2025 14:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI Shuts Down ChatGPT Accounts Linked to Russian, Iranian &amp; Chinese Cyber</title>
       <link>https://gbhackers.com/openai-shuts-down-chatgpt/</link>
@@ -1403,48 +1445,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Scattered Spider threat group uses help desk scams as a reliable way to bypass MFA and achieve account takeover. They target accounts likely to have top-tier admin privileges, allowing them to launch further attacks such as stealing data or deploying ransomware. The group has been using this tactic since 2022 and has successfully attacked several high-profile targets, including UK retailers Marks &amp; Spencer and Co-op.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/scattered-spider-understanding-help.html</guid>
       <pubDate>Tue, 03 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit DevOps Web Server Misconfigurations to Deploy Malware</title>
-      <link>https://gbhackers.com/threat-actors-exploit-devops-web-server-misconfigurations/</link>
-      <description>Threat actors are exploiting misconfigurations in DevOps-managed web servers to deploy malicious payloads, including malware strains like AsyncRAT and Lyrix Ransomware. Phishing scams play a pivotal role in the initial compromise, tricking DevOps personnel into granting access or downloading malicious scripts that initiate the infection chain. The attacks often bypass security tools through clever obfuscation techniques, highlighting the need for robust security practices and proactive defense mechanisms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140167</guid>
-      <pubDate>Tue, 03 Jun 2025 10:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Splunk Universal Forwarder for Windows Flaw Grants Non-Admin Users Full Content Access</title>
-      <link>https://gbhackers.com/splunk-universal-forwarder-for-windows-flaw/</link>
-      <description>Vulnerable Product: Splunk Universal Forwarder for Windows; CVE(s): CVE-2025-20298; Summary: The Splunk Universal Forwarder for Windows has a high-severity vulnerability (CVE-2025-20298) that allows non-administrator users to access and modify files in the installation directory, leading to local privilege escalation or compromising sensitive log data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140194</guid>
-      <pubDate>Tue, 03 Jun 2025 10:35:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google patches new Chrome zero-day bug exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5419; Summary: A high-severity out-of-bounds read and write weakness exists in Chrome's V8 JavaScript engine, which is being exploited in the wild. The vulnerability was mitigated by a configuration change and has since been fixed with the release of version 137.0.7151.68/.69 for Windows/Mac and Linux.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/</guid>
-      <pubDate>Tue, 03 Jun 2025 10:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Splunk Enterprise XSS Flaw Enables Attackers to Execute Unauthorized JavaScript</title>
-      <link>https://gbhackers.com/splunk-enterprise-xss-flaw/</link>
-      <description>Vulnerable Product: Splunk; CVE(s): CVE-2025-20297; Summary: The vulnerable product is Splunk Enterprise and Cloud Platform; a reflected Cross-Site Scripting (XSS) vulnerability in the dashboard PDF generation component, allowing low-privileged users to execute unauthorized JavaScript without user interaction.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140195</guid>
-      <pubDate>Tue, 03 Jun 2025 10:09:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware: Fake Booking.com Sites Spread AsyncRAT Malware to Infect Devices</title>
-      <link>https://gbhackers.com/fake-booking-com-sites-spread-asyncrat-malware/</link>
-      <description>Cybercriminals are redirecting links to counterfeit Booking.com websites, leading users to fake sites that compromise devices with malware. The scam uses a dynamic strategy and fake CAPTCHA prompts, ultimately downloading malicious files like the Backdoor.AsyncRAT Remote Access Trojan.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140153</guid>
-      <pubDate>Tue, 03 Jun 2025 10:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lost in Resolution: Azure OpenAI's DNS Resolution Issue</title>
-      <link>https://unit42.paloaltonetworks.com/azure-openai-dns-resolution/</link>
-      <description>Vulnerable Product: Microsoft Azure OpenAI; CVE(s): None; Summary: The Azure OpenAI's DNS resolution logic had a misconfiguration that allowed multiple tenants to share the same custom domain, potentially enabling cross-tenant data leaks and man-in-the-middle (MitM) attacks. The flaw was due to the lack of unique custom domain names for each OpenAI instance in the API, whereas the UI required it.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142029</guid>
-      <pubDate>Tue, 03 Jun 2025 10:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
