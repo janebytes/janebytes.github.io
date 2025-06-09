@@ -6,8 +6,71 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jun 2025 22:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 10:06:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Roles Here? Roles There? Roles Anywhere: Exploring the Security of AWS IAM Roles Anywhere</title>
+      <link>https://unit42.paloaltonetworks.com/aws-roles-anywhere/</link>
+      <description>The article discusses the AWS IAM Roles Anywhere service, which enables external workloads to authenticate using X.509 digital certificates. The service allows organizations to securely access cloud APIs and can be used with Kubernetes pods or other external workloads. However, if not configured correctly, default configurations of this service can be exploited by attackers, allowing them to gain access to additional roles in the AWS account.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142575</guid>
+      <pubDate>Mon, 09 Jun 2025 10:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware for Developers: 16 React Native Packages with Millions of Downloads Compromised Overnight</title>
+      <link>https://gbhackers.com/16-react-native-packages-with-millions-of-downloads-compromised/</link>
+      <description>Vulnerable Product: npm ecosystem; CVE(s): None; Summary: The article reports a large-scale attack targeting the npm ecosystem, compromising 16 popular React Native packages with over one million weekly downloads. The attack injected malicious payloads into widely used libraries, posing an immediate risk to developers and organizations relying on these dependencies.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141155</guid>
+      <pubDate>Mon, 09 Jun 2025 09:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian Naval Operations Accidentally Jam New Zealand’s Internet and Radio</title>
+      <link>https://gbhackers.com/australian-naval-jam-new-zealands/</link>
+      <description>The article describes a widespread outage of wireless internet and radio services in New Zealand caused by HMAS Canberra's advanced navigation radar system interfering with civilian devices operating on the 5 GHz band. The incident highlights the fragility of the shared spectrum environment, particularly for rural and regional communities dependent on fixed wireless broadband.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141130</guid>
+      <pubDate>Mon, 09 Jun 2025 09:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Utility Packages Enable Attackers to Wipe Production Systems</title>
+      <link>https://gbhackers.com/malicious-npm-utility-packages-enable-attackers/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: Two malicious npm packages (express-api-sync and system-health-sync-api) were discovered by Socket's Threat Research Team. The packages, designed to masquerade as legitimate utilities, embed destructive backdoors that can annihilate production systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141127</guid>
+      <pubDate>Mon, 09 Jun 2025 08:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HelloTDS Malware Spread via FakeCaptcha Infrastructure Infects Millions of Devices</title>
+      <link>https://gbhackers.com/hellotds-malware-spread-via-fakecaptcha-infrastructure/</link>
+      <description>The HelloTDS (Traffic Direction System) infrastructure has been uncovered, delivering malicious campaigns to millions of users worldwide. It employs advanced fingerprinting techniques and social engineering to selectively target victims, infecting over 4.3 million devices in April and May 2025 alone.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141116</guid>
+      <pubDate>Mon, 09 Jun 2025 08:05:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Salesforce Vulnerability Exposes Global Users to SOQL Injection Attacks</title>
+      <link>https://gbhackers.com/critical-salesforce-vulnerability/</link>
+      <description>Vulnerable Product: Salesforce Aura controller; CVE(s): None; Summary: A critical SOQL injection vulnerability was discovered in a default Salesforce Aura controller, affecting potentially thousands of deployments and millions of user records. The vulnerability allowed for the extraction of sensitive data, such as user emails, names, addresses, and even password hashes, depending on the configuration.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141112</guid>
+      <pubDate>Mon, 09 Jun 2025 08:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Bans ChatGPT Accounts Used by Russian, Iranian and Chinese Hacker Groups</title>
+      <link>https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html</link>
+      <description>This article reports on multiple threat actors using ChatGPT accounts to develop malware, automate social media posts, research satellite communications technologies, and engage in other malicious activities. The account holders used temporary email addresses to sign up for ChatGPT, fine-tuned their code, and distributed AI-assisted malware through a publicly available code repository.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html</guid>
+      <pubDate>Mon, 09 Jun 2025 06:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kali GPT – Revolutionizing Penetration Testing with AI on Kali Linux</title>
+      <link>https://gbhackers.com/kali-gpt-revolutionizing/</link>
+      <description>Kali GPT is an AI assistant specifically designed for the Kali Linux ecosystem, aimed at streamlining workflows, providing real-time insights, and automating capabilities for cybersecurity professionals. It uses natural language processing (NLP) to interact with users, offering contextual help, suggesting exploits or defensive measures, and generating technical instructions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141102</guid>
+      <pubDate>Mon, 09 Jun 2025 06:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimsuky Strikes Again – Coordinated Attacks Target Facebook, Email, and Telegram</title>
+      <link>https://gbhackers.com/kimsuky-strikes/</link>
+      <description>Kimsuky, a North Korea-aligned advanced persistent threat (APT) group, has been conducting a sophisticated cyber espionage campaign called "AppleSeed" since March to April 2025. The campaign targeted defense sector organizations, North Korea-related activists, and cryptocurrency exchanges, using social engineering and technical subterfuge.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141090</guid>
+      <pubDate>Mon, 09 Jun 2025 06:19:11 +0000</pubDate>
+    </item>
     <item>
       <title>New Mirai botnet infect TBK DVR devices via command injection flaw</title>
       <link>https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/</link>
@@ -1370,79 +1433,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Vulnerable Product: Hewlett-Packard Enterprise (HPE) StoreOnce Software; CVE(s): CVE-2025-37093, CVE-2025-37094, and others (8 total); Summary: The HPE StoreOnce Software has been found to have multiple high-impact vulnerabilities that allow attackers to bypass authentication, execute arbitrary code remotely, perform server-side request forgery, delete files, and access sensitive information. One vulnerability enables remote attackers to gain system-level privileges without any user interaction or credentials, making it highly exploitable over the network.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140117</guid>
       <pubDate>Tue, 03 Jun 2025 06:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch</title>
-      <link>https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5419; Summary: A high-severity out-of-bounds read and write vulnerability (CVE-2025-5419) in the V8 JavaScript and WebAssembly engine of Google Chrome, prior to version 137.0.7151.68, has been actively exploited in the wild. The flaw allows remote attackers to potentially exploit heap corruption via a crafted HTML page, and users are recommended to upgrade to the latest version to safeguard against potential threats.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html</guid>
-      <pubDate>Tue, 03 Jun 2025 04:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartier discloses data breach amid fashion brand cyberattacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/</link>
-      <description>Vulnerable Product: Cartier; CVE(s): None; Summary: Hackers breached Cartier's systems and stole a limited amount of customer information, including names, email addresses, and countries where the customer resides. The stolen data could be used in targeted attacks, prompting Cartier to advise customers to remain vigilant against unsolicited or suspicious communications.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/</guid>
-      <pubDate>Mon, 02 Jun 2025 22:31:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Good Are the LLM Guardrails on the Market? A Comparative Study on the Effectiveness of LLM Content Filtering Across Major GenAI Platforms</title>
-      <link>https://unit42.paloaltonetworks.com/comparing-llm-guardrails-across-genai-platforms/</link>
-      <description>The article discusses the analysis of the input and output guardrails used in three different cybersecurity systems. The authors examined how well these guardrails performed in detecting malicious prompts and preventing the generation of harmful content.
-
-The main findings are:
-
-1. Input Guardrail False Positives (FPs): All three systems incorrectly blocked some benign prompts, with Platform 3 being the most aggressive.
-2. Input Guardrail False Negatives (FNs): Some malicious prompts were able to bypass the input guardrails and reach the model, leading to the generation of harmful content in five cases for Platform 1 and none for Platforms 2 and 3.
-3. Output Guardrail FNs: In one case, a malicious prompt was able to generate harmful content that was not detected by the output guardrail.
-
-The article identifies common patterns in the prompts that triggered these failures, including role-playing scenarios, narrative or hypothetical framing, misleading benign justifications, and targeting harmful or illicit topics.
-
-Overall, the study highlights the importance of robust input and output guardrails in preventing malicious content from being generated and delivered to users.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=141987</guid>
-      <pubDate>Mon, 02 Jun 2025 22:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-312: Hewlett Packard Enterprise StoreOnce VSA setLocateBeaconOnHardware Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-312/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise StoreOnce VSA; CVE(s): CVE-2025-37089; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations, bypassing existing authentication mechanisms. The flaw exists within the setLocateBeaconOnHardware method due to lack of proper validation of user-supplied strings before executing system calls.</description>
-      <guid isPermaLink="false">ZDI-CAN-24981</guid>
-      <pubDate>Mon, 02 Jun 2025 21:03:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-313: Hewlett Packard Enterprise StoreOnce VSA determineInclusionAndExtract Server-Side Request Forgery Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-313/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise StoreOnce VSA; CVE(s): CVE-2025-37090, ZDI-CAN-24982, ZDI-25-313; Summary: This vulnerability allows remote attackers to initiate arbitrary server-side requests without authentication. It occurs in the determineInclusionAndExtract method due to lack of proper URI validation, potentially disclosing information in the context of the service account.</description>
-      <guid isPermaLink="false">ZDI-CAN-24982</guid>
-      <pubDate>Mon, 02 Jun 2025 21:03:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-314: Hewlett Packard Enterprise StoreOnce VSA doExecute Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-314/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise StoreOnce VSA; CVE(s): CVE-2025-37091, None; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Hewlett Packard Enterprise StoreOnce VSA. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed due to lack of proper validation of a user-supplied string before using it to execute a system call.</description>
-      <guid isPermaLink="false">ZDI-CAN-24983</guid>
-      <pubDate>Mon, 02 Jun 2025 21:03:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-315: Hewlett Packard Enterprise StoreOnce VSA queryHardwareReportLocally Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-315/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise StoreOnce VSA; CVE(s): CVE-2025-37092; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Hewlett Packard Enterprise StoreOnce VSA. Although authentication is required, the existing authentication mechanism can be bypassed. The flaw exists within the implementation of the queryHardwareReportLocally method due to lack of proper validation of a user-supplied string before executing a system call.</description>
-      <guid isPermaLink="false">ZDI-CAN-24984</guid>
-      <pubDate>Mon, 02 Jun 2025 21:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-316: Hewlett Packard Enterprise StoreOnce VSA Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-316/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise StoreOnce VSA; CVE(s): CVE-2025-37093; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations, without requiring authentication, by exploiting the machineAccountCheck method's improper implementation of an authentication algorithm. An attacker can leverage this vulnerability to bypass system authentication.</description>
-      <guid isPermaLink="false">ZDI-CAN-24985</guid>
-      <pubDate>Mon, 02 Jun 2025 21:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-317: Hewlett Packard Enterprise StoreOnce VSA deletePackages Directory Traversal Arbitrary File Deletion Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-317/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise StoreOnce VSA; CVE(s): CVE-2025-37094; Summary: This vulnerability allows remote attackers to delete arbitrary files on affected installations of Hewlett Packard Enterprise StoreOnce VSA by bypassing authentication and lacking proper validation of user-supplied paths. An attacker can leverage this vulnerability to delete files in the context of root, resulting in a high impact.</description>
-      <guid isPermaLink="false">ZDI-CAN-25314</guid>
-      <pubDate>Mon, 02 Jun 2025 21:02:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
