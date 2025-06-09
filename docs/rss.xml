@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 15:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 16:03:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Bitter Malware Employs Custom-Built Tools to Evade Detection in Advanced Attacks</title>
+      <link>https://gbhackers.com/bitter-malware-employs-custom-built-tools/</link>
+      <description>This article discusses the malware arsenal of the Bitter group (TA397), a state-backed actor aligned with India's interests. The group has evolved from deploying rudimentary downloaders to sophisticated RATs and backdoors, showcasing technical prowess and adaptability.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141301</guid>
+      <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skitnet Malware Actively Adopted by Ransomware Gangs to Enhance Operational Efficiency</title>
+      <link>https://gbhackers.com/skitnet-malware-actively-adopted-by-ransomware-gangs/</link>
+      <description>Skitnet malware (also known as Bossnet) is a post-exploitation package with an integrated server-side control panel that has emerged as a critical tool for ransomware gangs, showcasing increased operational efficiency for cybercriminals. It initiates its infection chain through social engineering tactics and uses various techniques to evade detection, including DLL hijacking, dynamic API resolution, and anti-forensic measures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141291</guid>
+      <pubDate>Mon, 09 Jun 2025 15:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Warns of Surge in Cyberattacks Targeting US Users to Steal Login Credentials</title>
       <link>https://gbhackers.com/google-warns-of-surge-in-cyberattacks-targeting-us-users/</link>
       <description>The article highlights a significant increase in cyberattacks and scams targeting US consumers, with a focus on stealing login credentials. Scammers are leveraging text messages and email as attack vectors, and users are increasingly relying on modern authentication methods like passkeys and social sign-ins to stay secure. Google is actively combating these threats through AI-driven security features, including blocking over 99.9% of spam, phishing, and malware in Gmail.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141283</guid>
       <pubDate>Mon, 09 Jun 2025 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks</title>
+      <link>https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html</link>
+      <description>Vulnerable Product: Wazur Server; CVE(s): CVE-2025-24016; Summary: A critical security flaw (CVE-2025-24016) in the Wazuh server allows remote code execution, and has been exploited by threat actors to drop Mirai botnet variants and conduct DDoS attacks. The vulnerability was patched in February 2025, but attempts at exploitation were detected as early as March and May 2025.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html</guid>
+      <pubDate>Mon, 09 Jun 2025 14:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Meta Bypassed Privacy Protections to Track Android Users</title>
@@ -35,6 +56,13 @@
       <description>This article describes an APT41 campaign that uses Google Calendar as a command-and-control (C2) mechanism to exfiltrate information and retrieve commands from attackers. The malware, named ToughProgress, employs advanced obfuscation techniques, process hollowing, and driver-like handling to achieve persistence and privilege escalation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141247</guid>
       <pubDate>Mon, 09 Jun 2025 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designing Blue Team playbooks with Wazuh for proactive incident response</title>
+      <link>https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/</link>
+      <description>This article discusses Blue Team playbooks, which are detailed guides outlining how to identify, contain, and remediate specific security incidents. The article highlights the importance of structured processes in incident response and mentions Wazuh, an open-source security platform that provides real-time threat detection, automated response, and comprehensive incident management capabilities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/</guid>
+      <pubDate>Mon, 09 Jun 2025 14:27:02 +0000</pubDate>
     </item>
     <item>
       <title>Designing Blue Team playbooks with Wazuh for proactive cyber defense</title>
@@ -1417,34 +1445,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Vulnerable Product: Schneider Electric Wiser AvatarOn 6K Freelocate and Wiser Cuadro H 5P Socket; CVE(s): CVE-2023-4041; Summary: A buffer copy without checking size of input ("Classic Buffer Overflow") vulnerability allows an attacker to inject code or bypass authentication, affecting all versions of Wiser AvatarOn 6K Freelocate and Wiser Cuadro H 5P Socket. Successful exploitation could lead to code injection or authentication bypass.</description>
       <guid isPermaLink="false">/node/23469</guid>
       <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric MELSEC iQ-F Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-153-03</link>
-      <description>Vulnerable Product: Mitsubishi Electric MELSEC iQ-F Series; CVE(s): CVE-2025-3755; Summary: The vulnerability allows a remote attacker to read confidential information, cause a denial-of-service condition, or stop operations by sending specially crafted packets. Exploitation can occur with low attack complexity and is exploitable remotely.</description>
-      <guid isPermaLink="false">/node/23471</guid>
-      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Abuse AI Tool Misconfigurations to Execute Malicious AI-Generated Payloads</title>
-      <link>https://gbhackers.com/hackers-abuse-ai-tool-misconfigurations/</link>
-      <description>Vulnerable Product: Open WebUI; CVE(s): None; Summary: A misconfigured instance of Open WebUI, a self-hosted AI interface, was exploited by an attacker to inject malicious Python scripts, deploy cryptominers, and execute infostealer malware. The vulnerability allowed attackers to access the system with administrative privileges and no authentication, highlighting the critical need for robust runtime security and multi-layer threat detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140225</guid>
-      <pubDate>Tue, 03 Jun 2025 11:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Research Uncovers Strengths and Vulnerabilities in Cloud-Based LLM Guardrails</title>
-      <link>https://gbhackers.com/new-research-uncovers-strengths-and-vulnerabilities/</link>
-      <description>The article discusses the vulnerabilities inherent in cloud-based Large Language Model (LLM) guardrails, which are designed to mitigate risks such as data leakage and malicious exploitation. Researchers reveal that while these guardrails offer robust protection in certain scenarios, they can be bypassed by sophisticated attackers using techniques like encoded prompts or fragmented queries, and also highlight the importance of adaptive security frameworks to address emerging threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140198</guid>
-      <pubDate>Tue, 03 Jun 2025 11:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization</title>
-      <link>https://thehackernews.com/2025/06/scattered-spider-understanding-help.html</link>
-      <description>Scattered Spider threat group uses help desk scams as a reliable way to bypass MFA and achieve account takeover. They target accounts likely to have top-tier admin privileges, allowing them to launch further attacks such as stealing data or deploying ransomware. The group has been using this tactic since 2022 and has successfully attacked several high-profile targets, including UK retailers Marks &amp; Spencer and Co-op.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/scattered-spider-understanding-help.html</guid>
-      <pubDate>Tue, 03 Jun 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
