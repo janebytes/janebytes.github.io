@@ -6,14 +6,54 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 12:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 13:06:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Seraphic Security UnveilsBrowserTotal™ – Free AI-PoweredBrowser Security Assessment For Enterprises</title>
+      <link>https://gbhackers.com/seraphic-security-unveilsbrowsertotal-free-ai-poweredbrowser-security-assessment-for-enterprises/</link>
+      <description>Seraphic Security announces the launch of BrowserTotal, a browser security assessment tool that conducts over 120 tests to provide posture standing, emerging threat insights, and more. The platform is powered by AI and offers CISOs and security teams a comprehensive environment to test browser security defenses against today's most sophisticated threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141228</guid>
+      <pubDate>Mon, 09 Jun 2025 12:59:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kettering Health Confirms Interlock Ransomware Breach and Data Theft</title>
+      <link>https://gbhackers.com/kettering-ransomware/</link>
+      <description>The article discusses a ransomware attack on Kettering Health, a major Ohio-based healthcare provider, which resulted in unauthorized access to the network, encryption of critical patient care systems, and exfiltration of sensitive patient data. The incident highlights the importance of robust cybersecurity frameworks, rapid incident response, and transparent communication with patients and staff.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141192</guid>
+      <pubDate>Mon, 09 Jun 2025 12:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks</title>
+      <link>https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html</link>
+      <description>FYSA:
+
+The article appears to be a collection of cybersecurity-related news and updates from various sources. It covers a wide range of topics, including malware attacks, APT groups, and government efforts to combat cybercrime.
+
+Some of the specific stories mentioned in the article include:
+
+1. The alleged involvement of Taiwan's Democratic Progressive Party (DPP) in sponsoring five advanced persistent threat (APT) groups.
+2. China accusing Taiwan of running these APT groups with US help, and issuing warrants for 20 Taiwanese people involved.
+3. Colombian cybercriminals linked to vehicle insurance scams that use fake websites and ads on Facebook to deceive users.
+4. The takedown of TrickBot, a notorious ransomware gang, by German authorities.
+5. Microsoft Defender's Attack Surface Reduction (ASR) rules and how they can be enabled to block common malware techniques.
+
+Overall, the article highlights the ongoing threat of cybercrime and the importance of staying vigilant in order to prevent attacks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html</guid>
+      <pubDate>Mon, 09 Jun 2025 11:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>Multiple QNAP Flaws Allow Remote Attackers to Hijack User Accounts</title>
       <link>https://gbhackers.com/multiple-qnap-flaws-2/</link>
       <description>Vulnerable Product: QNAP Qsync Central; CVE(s): CVE-2025-22482, CVE-2025-29892; Summary: Two critical vulnerabilities were found in Qsync Central, a file synchronization software used by QNAP NAS devices. The first vulnerability is a format string vulnerability that can allow attackers to obtain sensitive data or execute malicious code, while the second is an SQL injection vulnerability that can also lead to arbitrary code execution or command injection. Both require user-level access to exploit, but the impact is severe and prompt patching is essential.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141169</guid>
       <pubDate>Mon, 09 Jun 2025 11:13:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise</title>
+      <link>https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html</link>
+      <description>The article discusses "shadow IT," which refers to unsanctioned software-as-a-service (SaaS) applications, dormant accounts, unmanaged identities, over-permissioned SaaS tools, and orphaned access that can be used by attackers to gain unauthorized access to enterprise systems. The risks include OAuth sprawl, shadow admins, GenAI access, and apps created directly in platforms like Google Workspace or Slack.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html</guid>
+      <pubDate>Mon, 09 Jun 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New DuplexSpy RAT Gives Attackers Full Control Over Windows Machines</title>
@@ -1405,34 +1445,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Lyrix is a highly advanced ransomware that encrypts critical files and demands substantial ransoms for decryption keys. It uses polymorphic code to evade detection, disables system restore points and overwrites shadow copies, and communicates with its command-and-control servers via encrypted channels.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140124</guid>
       <pubDate>Tue, 03 Jun 2025 09:08:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android malware Crocodilus adds fake contacts to spoof trusted callers</title>
-      <link>https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/</link>
-      <description>The article discusses an updated version of the "Crocodilus" Android malware, which adds a fake contact to an infected device's contact list to deceive victims. This feature is used to impersonate trusted entities, making incoming calls appear more trustworthy.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/</guid>
-      <pubDate>Tue, 03 Jun 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Target PerimeterX CAPTCHA to Automate Microsoft Account Creation</title>
-      <link>https://gbhackers.com/target-perimeterx-captcha/</link>
-      <description>Vulnerable Product: PerimeterX (now rebranded as HUMAN); CVE(s): None; Summary: A recent post on an underground forum offers USD 1,500 for a working bypass of PerimeterX's anti-fraud protections targeting the "hold CAPTCHA" on Microsoft's signup.live.com. The goal is to automate the creation of Microsoft accounts at scale, bypassing the interactive CAPTCHA challenge. The bypass requires advanced techniques such as fingerprint spoofing, biometric validation evasion, and browser emulation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140145</guid>
-      <pubDate>Tue, 03 Jun 2025 08:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Can MSSPs Scale Smarter with Cyber Threat Intelligence – Powered by SOCRadar</title>
-      <link>https://socradar.io/mssps-scale-cyber-threat-intelligence-socradar/</link>
-      <description>The article discusses the challenges faced by Managed Security Service Providers (MSSPs) in delivering tailored cybersecurity services to their clients. Despite growing demand for managed services, MSSPs must contend with operational complexities, such as managing high volumes of alerts, juggling disparate tools, and maintaining quality amid resource constraints. The article highlights SOCRadar's MSSP Edition as a solution that can help MSSPs overcome these challenges by providing a centralized platform for threat intelligence, management, and response.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060703</guid>
-      <pubDate>Tue, 03 Jun 2025 07:58:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome to Distrust Two Certificate Authorities Over Compliance and Conduct Issues</title>
-      <link>https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html</link>
-      <description>Vulnerable Product: Chunghwa Telecom, Netlock; CVE(s): None; Summary: Google will no longer trust digital certificates issued by Chunghwa Telecom and Netlock due to "patterns of concerning behavior observed over the past year", citing compliance failures, unmet improvement commitments, and absence of tangible progress. This change will affect all TLS server authentication certificates issued by these CAs after July 31, 2025, and will be introduced in Chrome 139.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html</guid>
-      <pubDate>Tue, 03 Jun 2025 07:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
