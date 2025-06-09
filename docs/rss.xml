@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 10:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 11:01:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New DuplexSpy RAT Gives Attackers Full Control Over Windows Machines</title>
+      <link>https://gbhackers.com/new-duplexspy-rat-gives-attackers/</link>
+      <description>DuplexSpy is a Remote Access Trojan (RAT) that poses a significant threat to Windows-based systems. It offers attackers unprecedented control over compromised machines, featuring persistence mechanisms, stealthy execution, and surveillance tools. Its open-source nature and customization options make it a potent weapon in the hands of malicious actors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141175</guid>
+      <pubDate>Mon, 09 Jun 2025 10:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Gatling Plugin Flaw Allows CSP Bypass, Exposing Systems to Attack</title>
+      <link>https://gbhackers.com/jenkins-gatling-plugin-flaw/</link>
+      <description>Vulnerable Product: Jenkins Gatling Plugin; CVE(s): CVE-2025-5806; Summary: The Gatling Plugin in Jenkins allows for across-site scripting (XSS) vulnerabilities due to a bypass of Content-Security-Policy protections, enabling attackers with low-privileged access to inject malicious scripts that can execute in other users' browsers, leading to theft of sensitive session cookies and unauthorized actions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141154</guid>
+      <pubDate>Mon, 09 Jun 2025 10:27:34 +0000</pubDate>
+    </item>
     <item>
       <title>Roles Here? Roles There? Roles Anywhere: Exploring the Security of AWS IAM Roles Anywhere</title>
       <link>https://unit42.paloaltonetworks.com/aws-roles-anywhere/</link>
@@ -1419,20 +1433,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Vulnerable Product: None; Summary: The article does not discuss a vulnerability. Instead, it announces a collaboration between Microsoft, CrowdStrike, Google, Palo Alto Networks, and other cybersecurity companies to align their individual threat actor taxonomies by publishing a new joint threat actor mapping. This effort aims to reduce confusion when tracking overlapping threat actor activity, improve threat attribution, and enhance analysis and response.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html</guid>
       <pubDate>Tue, 03 Jun 2025 07:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SolarWinds Dameware Vulnerability Could Let Attackers Gain Elevated Privileges</title>
-      <link>https://gbhackers.com/privilege-escalation-flaw/</link>
-      <description>Vulnerable Product: SolarWinds Dameware; CVE(s): CVE-2025-26396; Summary: The vulnerability is a Local Privilege Escalation (LPE) issue due to incorrect permissions in the Dameware Mini Remote Control Service. Exploitation could allow a local attacker with a low-privilege account to elevate their privileges on the affected system, with a CVSS v3.1 base score of 7.8 (High).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140116</guid>
-      <pubDate>Tue, 03 Jun 2025 07:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical HPE StoreOnce Flaws Allow Remote Code Execution by Attackers</title>
-      <link>https://gbhackers.com/critical-hpe-storeonce-flaw/</link>
-      <description>Vulnerable Product: Hewlett-Packard Enterprise (HPE) StoreOnce Software; CVE(s): CVE-2025-37093, CVE-2025-37094, and others (8 total); Summary: The HPE StoreOnce Software has been found to have multiple high-impact vulnerabilities that allow attackers to bypass authentication, execute arbitrary code remotely, perform server-side request forgery, delete files, and access sensitive information. One vulnerability enables remote attackers to gain system-level privileges without any user interaction or credentials, making it highly exploitable over the network.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140117</guid>
-      <pubDate>Tue, 03 Jun 2025 06:31:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
