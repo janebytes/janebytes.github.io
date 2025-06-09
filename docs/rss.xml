@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 19:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 20:00:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google patched bug leaking phone numbers tied to accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/</link>
+      <description>Vulnerable Product: Google; CVE(s): None; Summary: A vulnerability allowed researchers to brute-force any Google account's recovery phone number by knowing the profile name and a partial phone number. The attack exploited a deprecated JavaScript-disabled version of the Google username recovery form, which lacked modern anti-abuse protections.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/</guid>
+      <pubDate>Mon, 09 Jun 2025 19:36:39 +0000</pubDate>
+    </item>
     <item>
       <title>SentinelOne shares new details on China-linked breach attempt</title>
       <link>https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/</link>
@@ -1438,13 +1445,6 @@ FYSA: CISA is warning federal agencies of four other security problems affecting
       <description>Vulnerable Product: None; CVE(s): "None"; Summary: The article discusses a lesser-known technique to exploit cross-site scripting (XSS) by leveraging JavaScript TypeError messages in Safari. This technique involves forcing a TypeError and injecting a payload into the error message, which can be executed using the eval function or other methods.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140223</guid>
       <pubDate>Tue, 03 Jun 2025 12:12:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Report: Governments Struggle to Regain Backdoor Access to Secure Communications</title>
-      <link>https://gbhackers.com/new-report-governments-struggle-to-regain-backdoor-access/</link>
-      <description>Governments worldwide are struggling with strong encryption in messaging apps, social media platforms, and VPNs, but a "golden key" or backdoor mechanism allowing authorized access remains mathematically and practically infeasible without introducing vulnerabilities exploitable by malicious actors. Despite decades of efforts, governments face an ever-widening gap between their surveillance ambitions and technological realities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140244</guid>
-      <pubDate>Tue, 03 Jun 2025 12:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
