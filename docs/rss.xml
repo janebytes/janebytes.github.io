@@ -6,8 +6,52 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 18:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 19:03:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Patch Tuesday June 2025 – 66 Vulnerabilities Patched Including 2 Zero-Day</title>
+      <link>https://gbhackers.com/microsoft-patch-tuesday-june-2025/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-33053, CVE-2025-33073; Summary: A zero-day vulnerability in the WebDAV component of Windows was actively exploited and a publicly disclosed zero-day vulnerability in the SMB client allowed for elevation of privilege. The vulnerabilities could be exploited to execute arbitrary code or gain SYSTEM-level privileges, making timely patching essential.
+
+Note: There are 66 vulnerabilities patched in total, but only these two specific vulnerabilities are mentioned as zero-days with exploitation details.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141601</guid>
+      <pubDate>Tue, 10 Jun 2025 18:47:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Report Highlights the Internet as the Primary Threat to Industrial Automation Systems</title>
+      <link>https://gbhackers.com/new-report-highlights-the-internet-as-the-primary-threat/</link>
+      <description>According to Kaspersky ICS CERT, the internet is the primary source of threats to operational technology (OT) infrastructure worldwide, with 21.9% of Industrial Control System (ICS) computers encountering malicious objects in the first quarter of 2025. The report highlights regional disparities in cybersecurity maturity, with Africa and South-East Asia facing heightened exposure to internet-based threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141568</guid>
+      <pubDate>Tue, 10 Jun 2025 18:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps</title>
+      <link>https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</link>
+      <description>Vulnerable Product: Adobe; CVEs: CVE-2025-47110, CVE-2025-43585, None (for others); Summary: Adobe patched 254 security flaws in its software products, primarily affecting Experience Manager and Commerce/Magento. The vulnerabilities, including a critical reflected XSS flaw and an improper authorization issue, could lead to arbitrary code execution, privilege escalation, or security feature bypass.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</guid>
+      <pubDate>Tue, 10 Jun 2025 18:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESET Details on How to Manage Your Digital Footprint</title>
+      <link>https://gbhackers.com/how-to-manage-your-digital-footprint/</link>
+      <description>ESET highlights the importance of digital footprints, emphasizing both their benefits (personalized marketing, professional branding) and risks (privacy breaches, identity theft). The article stresses the need for robust strategies to manage and secure one's online presence, including regular audits, adjusting privacy settings, and leveraging advanced security tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141538</guid>
+      <pubDate>Tue, 10 Jun 2025 18:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud</title>
+      <link>https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html</link>
+      <description>Vulnerable Product: Salesforce Industry Cloud; CVE(s): CVE-2025-43697, CVE-2025-43698, CVE-2025-43699, CVE-2025-43700, CVE-2025-43701; Summary: Over 20 configuration-related risks were found in Salesforce Industry Cloud, exposing sensitive data to unauthorized parties. The vulnerabilities allow attackers to bypass security controls and extract sensitive customer or employee information.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html</guid>
+      <pubDate>Tue, 10 Jun 2025 18:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 10 KB5060533 cumulative update released with 7 changes, fixes</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/</link>
+      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: The KB5060533 cumulative update for Windows 10 22H2 and Windows 10 21H2 fixes seven zero-day vulnerabilities, including bringing seconds back to the time shown in the Calendar flyout, enhancing the Rich Calendar feature, and fixing issues with GDI/GDI+, Mobile Operator Profiles, and WinSaS.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/</guid>
+      <pubDate>Tue, 10 Jun 2025 18:03:09 +0000</pubDate>
+    </item>
     <item>
       <title>SAP NetWeaver Vulnerability Allows Attackers to Escalate Privileges</title>
       <link>https://gbhackers.com/sap-netweaver-vulnerability/</link>
@@ -156,6 +200,13 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>Vulnerable Product: Lovable; CVE(s): None; Summary: The vulnerability affects Lovable's AI-powered development platform, exposing sensitive user data and enabling malicious code injection across hundreds of applications. It stems from the platform's client-driven architecture and lack of proper Row Level Security (RLS) configurations, allowing unauthorized access to database contents.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141460</guid>
       <pubDate>Tue, 10 Jun 2025 12:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/10/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Multiple; CVE(s): CVE-2025-24016, CVE-2025-33053; Summary: Two new vulnerabilities were added to the Known Exploited Vulnerabilities (KEV) Catalog by CISA due to evidence of active exploitation. The vulnerabilities are a Wazuh Server Deserialization of Untrusted Data vulnerability and a Web Distributed Authoring and Versioning (WebDAV) External Control of File Name or Path vulnerability. These types of vulnerabilities pose significant risks to the federal enterprise and all organizations are urged to prioritize timely remediation.</description>
+      <guid isPermaLink="false">/node/23494</guid>
+      <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SinoTrack GPS Receiver</title>
@@ -1400,55 +1451,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>Vulnerable Product: LayerX; CVE(s): None; Summary: A malicious network of browser extensions, dubbed "sleeper agents," has been discovered, installed on nearly 1.5 million devices worldwide. These extensions can execute remote commands, open background tabs, communicate with known malicious domains, and use encryption and base64 code obfuscation to hide their activity from traditional security tools.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140525</guid>
       <pubDate>Wed, 04 Jun 2025 14:15:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aembit Recognized on the 2025 Rising in Cyber List of Top Cybersecurity Startups</title>
-      <link>https://gbhackers.com/aembit-named-to-rising-in-cyber-2025-list-of-top-cybersecurity-startups/</link>
-      <description>Aembit, a workload identity and access management (IAM) company, has been included in the "Rising in Cyber 2025" list, recognizing the most promising cybersecurity startups. The selection was based on real-world validation through nominations from leading cybersecurity venture firms and votes from nearly 150 chief information security officers (CISOs) and senior security executives.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140561</guid>
-      <pubDate>Wed, 04 Jun 2025 14:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google: Hackers target Salesforce accounts in data extortion attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/</link>
-      <description>ShinyHunters extortion group is conducting social engineering attacks against multi-national companies to steal data from organizations' Salesforce platforms. The attackers impersonate IT support personnel and trick employees into connecting a modified version of Salesforce's Data Loader application, allowing them to export data stored in Salesforce instances and move laterally through connected platforms such as Okta, Microsoft 365, and Workplace.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/</guid>
-      <pubDate>Wed, 04 Jun 2025 14:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kerberos AS-REP roasting attacks: What you need to know</title>
-      <link>https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/</link>
-      <description>AS-REP Roasting is a threat that targets user objects in Active Directory that don't require Kerberos pre-authentication. The attack involves sending an Authentication Server Request (AS-REQ) to the Domain Controller, which responds with an Authentication Server Response (AS-REP) containing a Ticket Granting Ticket (TGT). Malicious actors can then use tools like Rubeus or Impacket to access and exploit user objects without authentication.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/</guid>
-      <pubDate>Wed, 04 Jun 2025 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Stealer Log Telegram Channels</title>
-      <link>https://socradar.io/top-stealer-log-telegram-channels/</link>
-      <description>This article discusses the misuse of Telegram by cybercriminals involved in the collection and trade of infostealer logs. The platform is exploited through automated bots and groups for sharing or selling stolen datasets.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060786</guid>
-      <pubDate>Wed, 04 Jun 2025 13:22:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads</title>
-      <link>https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html</link>
-      <description>Vulnerable Product: Chaos RAT; CVE(s): CVE-2024-30850, CVSS score: 8.8 (command injection vulnerability), CVE-2024-31839, CVSS score: 4.8 (cross-site scripting flaw); Summary: A new variant of the remote access trojan (RAT) called Chaos RAT has been used in attacks targeting Windows and Linux systems. The malware's admin panel is susceptible to a command injection vulnerability that can be combined with a cross-site scripting flaw to execute arbitrary code on the server with elevated privileges.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html</guid>
-      <pubDate>Wed, 04 Jun 2025 12:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Authentication Coercion Attacks Present Major Risks to Enterprise Networks</title>
-      <link>https://gbhackers.com/windows-authentication-coercion-attacks/</link>
-      <description>Vulnerable Product: Windows; CVE(s): None; Summary: Authentication coercion remains a potent attack vector in Windows environments, enabling attackers with low-privileged domain accounts to force targeted systems to authenticate to attacker-controlled hosts. This technique exploits NTLM and Kerberos relay attacks, potentially granting administrative access or enabling lateral movement across the network.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140479</guid>
-      <pubDate>Wed, 04 Jun 2025 12:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your SaaS Data Isn't Safe: Why Traditional DLP Solutions Fail in the Browser Era</title>
-      <link>https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html</link>
-      <description>The article highlights the shortcomings of traditional data leakage prevention (DLP) tools in modern businesses that heavily rely on Software as a Service (SaaS) applications. It discusses how current DLP methods struggle to secure SaaS-driven workflows due to the shift from traditional file-based data handling to browser-based interactions, resulting in significant vulnerabilities and data leaks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html</guid>
-      <pubDate>Wed, 04 Jun 2025 12:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
