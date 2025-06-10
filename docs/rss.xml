@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 15:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 16:02:54 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>FIN6 hackers pose as job seekers to backdoor recruiters’ devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/</link>
+      <description>FIN6 hacking group impersonates job seekers to target recruiters, using social engineering campaigns to deliver "More Eggs" malware-as-a-service JavaScript backdoor for credential theft, system access, and ransomware deployment.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/</guid>
+      <pubDate>Tue, 10 Jun 2025 15:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Workspace Control hardcoded key flaws expose SQL credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/</link>
+      <description>Vulnerable Product: Ivanti Workspace Control (IWC); CVE(s): CVE-2025-5353, CVE-2025-22455, CVE-2025-22463; Summary: The IWC solution has three high-severity hardcoded key vulnerabilities that can lead to privilege escalation and system compromise following successful exploitation. Two flaws allow local authenticated attackers to decrypt stored SQL credentials, while the third enables decryption of the stored environment password.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/</guid>
+      <pubDate>Tue, 10 Jun 2025 15:22:44 +0000</pubDate>
+    </item>
     <item>
       <title>Massive Heroku outage impacts web platforms worldwide</title>
       <link>https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/</link>
@@ -58,6 +72,13 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>Vulnerable Product: SAP; CVE(s): 3600840 (9.6), 3609271 (8.8), 3606484 (8.5), 3560693 (8.2), 3610006 (7.5), 3590887 (5.8); Summary: The June Patch Day from SAP addresses nineteen security patches, including critical vulnerabilities that can allow attackers to bypass authorization controls and escalate privileges across multiple enterprise systems. The most severe vulnerability affects the RFC framework in SAP NetWeaver Application Server AS ABAP, enabling authenticated attackers to bypass standard authorization controls and achieve privilege escalation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141512</guid>
       <pubDate>Tue, 10 Jun 2025 13:22:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-49113: Critical Roundcube Vulnerability Enables RCE Exploitation</title>
+      <link>https://socradar.io/cve-2025-49113-roundcube-vulnerability-rce/</link>
+      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2025-49113; Summary: A critical Remote Code Execution (RCE) vulnerability, CVE-2025-49113, affects all Roundcube versions before 1.5.10 and 1.6.x up to 1.6.10, allowing attackers to execute arbitrary commands on targeted systems after successful authentication.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060866</guid>
+      <pubDate>Tue, 10 Jun 2025 13:03:49 +0000</pubDate>
     </item>
     <item>
       <title>New SharePoint Phishing Campaigns Employing Deceptive Lick Techniques</title>
@@ -149,6 +170,13 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>Vulnerable Product: Wazuh; CVE(s): CVE-2025-24016, CVE-2023-1389 (TP-Link Archer AX21), CVE-2017-17215 (Huawei HG532); Summary: A critical remote code execution (RCE) vulnerability in Wazuh servers, identified as CVE-2025-24016 with a CVSS score of 9.9, allows attackers to execute arbitrary Python code via maliciously crafted JSON payloads. The vulnerability has been weaponized by two distinct botnets to propagate variants of the notorious Mirai malware, targeting primarily Internet of Things (IoT) devices.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141375</guid>
       <pubDate>Tue, 10 Jun 2025 09:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fusion Stealer Rises, Android 0-Day for Sale, EDF Leak Exposed</title>
+      <link>https://socradar.io/fusion-stealer-rises-android-0-day-for-sale-edf-leak-exposed/</link>
+      <description>The article highlights several concerning cybercriminal offerings on the dark web, including an alleged Android 0-day exploit, a stealer tool called Fusion Stealer, unauthorized VPN access to a US healthcare provider, admin panel access for multiple South American FinTech companies, and a massive alleged leak of EDF Energy's customer database. These discoveries emphasize the persistent and evolving threat landscape facing organizations and individuals worldwide.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060851</guid>
+      <pubDate>Tue, 10 Jun 2025 09:01:25 +0000</pubDate>
     </item>
     <item>
       <title>Sensata Technologies Faces Disruption Due to Ransomware Attack</title>
@@ -1421,34 +1449,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>Threat actors are exploiting "Prove You Are Human" verification systems by spoofing legitimate platforms like Gitcodes and DocuSign to distribute malicious software, including the NetSupport Remote Access Trojan (RAT), which installs malware on Windows systems. The attack involves multi-stage execution of scripts, clipboard poisoning, and command-and-control server communication.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140413</guid>
       <pubDate>Wed, 04 Jun 2025 08:38:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender for Endpoint Prevents Cyberattack,Secures 180,000 Devices</title>
-      <link>https://gbhackers.com/microsoft-defender/</link>
-      <description>This article does not discuss a specific vulnerability. Instead, it highlights the importance of endpoint detection and response (EDR) in today's cybersecurity landscape, particularly with the rise of ransomware attacks. It introduces Microsoft Defender for Endpoint as a solution that leverages AI, machine learning, and global threat intelligence to deliver comprehensive protection across various devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140366</guid>
-      <pubDate>Wed, 04 Jun 2025 08:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Ruby Gems to Steal Telegram Tokens and Messages</title>
-      <link>https://gbhackers.com/hackers-exploit-ruby-gems/</link>
-      <description>Vulnerable Product: Ruby Gems; CVE(s): None; Summary: Malicious actors embedded backdoors in seemingly legitimate Ruby Gems, enabling them to steal sensitive Telegram tokens and private messages from unsuspecting developers and users. The attack begins with hackers uploading tainted Ruby Gems to the official repository, which silently execute code that scans the host system for Telegram API tokens and exfiltrates them to a remote command-and-control (C2) server.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140395</guid>
-      <pubDate>Wed, 04 Jun 2025 07:57:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Custom Active Directory Extensions Create Stealthy Backdoors for Corporate Attacks</title>
-      <link>https://gbhackers.com/custom-active-directory-extensions/</link>
-      <description>Vulnerable Product: Active Directory (AD); CVE(s): None; Summary: The article discusses a technique used by attackers to create custom Client-Side Extensions (CSEs) for Group Policy Objects (GPOs), allowing them to execute code with SYSTEM privileges during GPO refreshes. This can be done by creating a DLL that exports the ProcessGroupPolicy function and registering it using regsvr32.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140387</guid>
-      <pubDate>Wed, 04 Jun 2025 07:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThreatBook Selected In The First-ever Gartner® Magic Quadrant™ For Network Detection And Response (NDR)</title>
-      <link>https://gbhackers.com/threatbook/</link>
-      <description>Vulnerable Product: None; Summary: This article does not discuss a vulnerability. Instead, it is about ThreatBook's Network Detection and Response (NDR) technology and its inclusion in Gartner's first Magic Quadrant for NDR. The article highlights the capabilities of ThreatBook TDP, including its ability to detect zero-day attacks, identify attack surfaces, and provide closed-loop response.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140368</guid>
-      <pubDate>Wed, 04 Jun 2025 07:00:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
