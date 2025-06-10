@@ -6,14 +6,49 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 17:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 18:04:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SAP NetWeaver Vulnerability Allows Attackers to Escalate Privileges</title>
+      <link>https://gbhackers.com/sap-netweaver-vulnerability/</link>
+      <description>Vulnerable Product: SAP NetWeaver Application Server AS ABAP; CVE(s): 3600840; Summary: A critical vulnerability with a CVSS score of 9.6 in the SAP NetWeaver Application Server AS ABAP's Remote Function Call (RFC) framework allows authenticated attackers to bypass standard authorization checks and escalate privileges, potentially granting access to critical system functions and data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141531</guid>
+      <pubDate>Tue, 10 Jun 2025 17:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-33053, CVE-2025-33073; Summary: Microsoft fixed two zero-day vulnerabilities in its June 2025 Patch Tuesday updates. The first is a Web Distributed Authoring and Versioning (WEBDAV) Remote Code Execution Vulnerability (CVE-2025-33053), which was actively exploited before the patch was available. The second is a Windows SMB Client Elevation of Privilege Vulnerability (CVE-2025-33073), which allows attackers to gain SYSTEM privileges on vulnerable devices.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/</guid>
+      <pubDate>Tue, 10 Jun 2025 17:37:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 KB5060842 and KB5060999 cumulative updates released</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/</link>
+      <description>This article discusses the release of Windows 11 KB5060842 and KB5060999 cumulative updates for versions 24H2 and 23H2, which include fixes for 66 security vulnerabilities. The updates also introduce new features such as improved Windows Search, enhanced digital accessibility with AI-powered image descriptions in Narrator, and management of Energy Saver settings through group policies and MDM configurations using Microsoft Intune.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/</guid>
+      <pubDate>Tue, 10 Jun 2025 17:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Instagram Growth Tools Stealing Login Credentials and Sending Them to Attackers</title>
+      <link>https://gbhackers.com/beware-of-instagram-growth-tools-stealing-login-credentials/</link>
+      <description>Vulnerable Product: imad213 (Python package); CVE(s): None; Summary: The malicious Python package imad213, posing as an Instagram growth tool, tricks users into surrendering their credentials. Upon execution, it initiates a remote check and prompts users for their Instagram login details, saving them locally in plaintext. The malware then broadcasts these credentials to a network of Turkish bot services, which pose as legitimate platforms with professional interfaces.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141553</guid>
+      <pubDate>Tue, 10 Jun 2025 17:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean APT Hackers Target Users on Social Media to Spread Malware</title>
       <link>https://gbhackers.com/north-korean-apt-hackers-target-users/</link>
       <description>This article reports a highly sophisticated Advanced Persistent Threat (APT) campaign orchestrated by the North Korean state-sponsored hacking group Kimsuky, targeting individuals in South Korea through social media, email, and Telegram. The attackers use social engineering and tailored content to exploit trust, and employ a multi-stage infiltration strategy involving malicious files, decoy PDFs, and malware designed to bypass signature-based detection tools.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141545</guid>
       <pubDate>Tue, 10 Jun 2025 16:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware</title>
+      <link>https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html</link>
+      <description>FIN6 is a financially motivated threat actor that uses fake resumes hosted on Amazon Web Services (AWS) infrastructure to deliver the More_eggs malware. The group initiates contact with recruiters through LinkedIn and Indeed, posing as job seekers, and then delivers phishing messages that lead to malware.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html</guid>
+      <pubDate>Tue, 10 Jun 2025 16:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Outlook to block more risky attachments used in attacks</title>
@@ -1414,41 +1449,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>The article highlights the shortcomings of traditional data leakage prevention (DLP) tools in modern businesses that heavily rely on Software as a Service (SaaS) applications. It discusses how current DLP methods struggle to secure SaaS-driven workflows due to the shift from traditional file-based data handling to browser-based interactions, resulting in significant vulnerabilities and data leaks.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html</guid>
       <pubDate>Wed, 04 Jun 2025 12:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated Guidance on Play Ransomware</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/04/updated-guidance-play-ransomware</link>
-      <description>The Play ransomware group, also known as Playcrypt, has been highly active since June 2022, targeting various businesses and critical infrastructure across North America, South America, and Europe. The FBI has identified approximately 900 entities allegedly exploited by these actors as of May 2025.</description>
-      <guid isPermaLink="false">/node/23474</guid>
-      <pubDate>Wed, 04 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>35,000 Internet-Connected Solar Power Systems Vulnerable to Cyberattacks</title>
-      <link>https://gbhackers.com/35000-internet-connected-solar-power-systems/</link>
-      <description>Vulnerable Product: Multiple solar power devices from 42 vendors; CVE(s): CVE-2022-29303; Summary: Solar power devices, including inverters and gateways, are exposed on the internet with vulnerable management interfaces, posing a critical cybersecurity risk to global power grids. These devices can be exploited by attackers for botnet integration or as entry points into sensitive networks, potentially destabilizing power grids.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140498</guid>
-      <pubDate>Wed, 04 Jun 2025 11:41:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>2 certificate authorities booted from the good graces of Chrome</title>
-      <link>https://arstechnica.com/security/2025/06/chrome-boots-2-certificate-authorities-citing-a-lack-of-trust-and-confidence/</link>
-      <description>Vulnerable Product: Chunghwa Telecom and Netlock; CVE(s): None; Summary: Chrome will stop trusting all certificates issued by Chunghwa Telecom and Netlock after July 31, due to certificate distrust events caused by the misissuance of certificates and failure to provide updates. Certificates issued after that date will display an error page on Chrome.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/chrome-boots-2-certificate-authorities-citing-a-lack-of-trust-and-confidence/</guid>
-      <pubDate>Wed, 04 Jun 2025 11:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT37 Hackers Fake Academic Forum Invites to Deliver Malicious LNK Files via Dropbox Platform</title>
-      <link>https://gbhackers.com/apt37-hackers-fake-academic-forum-invites-to-deliver-malicious-lnk-files/</link>
-      <description>APT37, a North Korean state-sponsored hacking group, launched a sophisticated spear phishing campaign targeting activists focused on North Korean issues. The campaign used Dropbox to deliver malicious shortcut (LNK) files and exploit legitimate services for nefarious purposes, showcasing APT37's evolving tactics in exploiting platforms like pCloud and Yandex for command and control (C2) operations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140469</guid>
-      <pubDate>Wed, 04 Jun 2025 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Attack Uses Malicious Chrome &amp; Edge Extensions to Steal Sensitive Data</title>
-      <link>https://gbhackers.com/new-malware-attack-uses-malicious-chrome-edge-extensions/</link>
-      <description>The article discusses a sophisticated malicious campaign dubbed "Phantom Enigma" that uses dual-attack strategy involving malicious browser extensions and Remote Access Tools (RATs) to target sensitive authentication data, particularly from Banco do Brasil users. The campaign employs phishing emails, PowerShell scripts, and BAT files to install extensions that intercept user credentials during login attempts and RATs that enable broader infrastructure compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140447</guid>
-      <pubDate>Wed, 04 Jun 2025 10:43:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
