@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 10:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 11:01:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Malicious Actors Exploit SoraAI’s Popularity &amp; GitHub to Distribute Malware</title>
+      <link>https://gbhackers.com/malicious-actors-exploit-soraais-popularity-github/</link>
+      <description>The article describes a malware campaign that uses OpenAI's Sora video generation model as a social engineering tactic to distribute information-stealing malware. The attack chain involves multiple stages, including downloading malicious batch files and executing Python scripts, which target sensitive data such as browser cookies, passwords, and system information.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141441</guid>
+      <pubDate>Tue, 10 Jun 2025 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account</title>
+      <link>https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html</link>
+      <description>Vulnerable Product: Google; CVE(s): None; Summary: A vulnerability in Google's account recovery feature allowed attackers to brute-force a user's recovery phone number, potentially exposing their accounts to privacy and security risks. The exploit required several steps, including leaking the display name via Looker Studio, running the forgot password flow, and brute-forcing the phone number against the username recovery endpoint.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html</guid>
+      <pubDate>Tue, 10 Jun 2025 10:11:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Evolution of Linux Binaries in Targeted Cloud Operations</title>
       <link>https://unit42.paloaltonetworks.com/elf-based-malware-targets-cloud/</link>
@@ -1433,20 +1447,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>A pro-Ukrainian hacktivist group called BO Team (also known as Black Owl) has been identified as a significant threat to Russian organizations in 2025. The group's tactics include spear phishing, backdoor installation, data destruction, encryption, and credential theft, with the goal of causing maximum infrastructural damage while pursuing financial extortion.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140327</guid>
       <pubDate>Tue, 03 Jun 2025 15:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack</title>
-      <link>https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html</link>
-      <description>A new campaign uses deceptive websites to trick users into executing malicious PowerShell scripts, which download and install the NetSupport RAT malware on victim machines. The script works by using clipboard poisoning to copy a command to the user's clipboard, which is then executed by pasting it into the Windows Run dialog.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html</guid>
-      <pubDate>Tue, 03 Jun 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Russian Dark Web Market Tools Drive Surge in Credential Theft Attacks</title>
-      <link>https://gbhackers.com/top-russian-dark-web-market-tools/</link>
-      <description>Russian Market, a notorious automated vending platform, has solidified its position as the leading hub for stolen credentials, fueling a dramatic rise in credential theft attacks worldwide. The platform offers an inventory of over 5 million logs containing tens to hundreds of compromised credentials, providing cybercriminals with affordable and efficient means to breach accounts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140306</guid>
-      <pubDate>Tue, 03 Jun 2025 14:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
