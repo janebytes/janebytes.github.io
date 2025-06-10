@@ -6,8 +6,78 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 21:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 22:04:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-332: Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-332/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33075; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by abusing the Windows Installer service. An attacker must first obtain low-privileged code execution on the target system to exploit this flaw, which can be used to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26710</guid>
+      <pubDate>Tue, 10 Jun 2025 22:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-333: Microsoft Windows Installer Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-333/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32714; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Windows Installer service that uses an unsecured location.</description>
+      <guid isPermaLink="false">ZDI-CAN-26487</guid>
+      <pubDate>Tue, 10 Jun 2025 22:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-334: Microsoft Windows Remote Desktop Gateway Service Null Pointer Dereference Denial-of-Service Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-334/</link>
+      <description>Vulnerable Product: Microsoft Windows Remote Desktop Gateway Service; CVE(s): CVE-2025-30394; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Microsoft Windows, without requiring authentication. The issue exists within the Remote Desktop Gateway service due to a null pointer dereference.</description>
+      <guid isPermaLink="false">ZDI-CAN-26776</guid>
+      <pubDate>Tue, 10 Jun 2025 22:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-335: Adobe Acrobat Reader DC Doc Object Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-335/</link>
+      <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-43575; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC by writing past the end of an allocated buffer. User interaction is required to exploit this vulnerability, and it can be leveraged to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26342</guid>
+      <pubDate>Tue, 10 Jun 2025 22:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-336: Adobe Acrobat Reader DC Collab Object Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-336/</link>
+      <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-43573; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required, and the flaw exists within the handling of Collab objects due to lack of validating object existence prior to operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-26590</guid>
+      <pubDate>Tue, 10 Jun 2025 22:03:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-337: Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-337/</link>
+      <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-47112; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Adobe Acrobat Reader DC. User interaction is required, and the issue results from a lack of proper validation of user-supplied data that can result in a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26777</guid>
+      <pubDate>Tue, 10 Jun 2025 22:03:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-338: Adobe Acrobat Reader DC Collab Object Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-338/</link>
+      <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-43574; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Collab objects and can be exploited by not validating the existence of an object prior to performing operations on it.</description>
+      <guid isPermaLink="false">ZDI-CAN-26593</guid>
+      <pubDate>Tue, 10 Jun 2025 22:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-339: JupyterLab Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-339/</link>
+      <description>Vulnerable Product: Jupyter; JupyterLab; CVE(s): CVE-2025-30167; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of JupyterLab. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, and it is triggered only when a target user makes use of the product.</description>
+      <guid isPermaLink="false">ZDI-CAN-25932</guid>
+      <pubDate>Tue, 10 Jun 2025 22:02:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>DanaBot malware operators exposed via C2 bug added in 2022</title>
+      <link>https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/</link>
+      <description>Vulnerable Product: DanaBot Malware; CVE(s): None; Summary: A vulnerability in the DanaBot malware operation introduced in June 2022 allowed security researchers to gain insight into the malware's internal operations and the people behind it, leading to the identification, indictment, and dismantling of their operations. The "DanaBleed" flaw was a memory leak that exposed private data, including threat actor details, backend infrastructure, and victim data, for over three years.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/</guid>
+      <pubDate>Tue, 10 Jun 2025 21:46:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConnectWise rotating code signing certificates over security concerns</title>
+      <link>https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/</link>
+      <description>Vulnerable Product: ConnectWise (various products); CVE(s): None; Summary: ConnectWise is rotating the digital code signing certificates used to sign ScreenConnect, Automate, and RMM executables due to concerns raised by a third-party security researcher about how certain configuration data can be abused by threat actors. The action is unrelated to any security incidents, including a nation-state cyberattack suffered last month.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/</guid>
+      <pubDate>Tue, 10 Jun 2025 21:17:53 +0000</pubDate>
+    </item>
     <item>
       <title>New Secure Boot flaw lets attackers install bootkit malware, patch now</title>
       <link>https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/</link>
@@ -1381,76 +1451,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and Customer Collaboration Platform (CCP); CVE(s): CVE-2025-20286, CVE-2025-20130, CVE-2025-20129; Summary: The vulnerabilities allow unauthenticated attackers to access sensitive data, execute limited administrative operations, or disrupt services. The most severe vulnerability, CVE-2025-20286, is a critical static credential vulnerability that can be exploited by extracting user credentials from cloud deployments and using them to access installations in other cloud environments.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/</guid>
       <pubDate>Wed, 04 Jun 2025 19:19:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker</title>
-      <link>https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/</link>
-      <description>The article describes a cyber espionage operation conducted by the Ukrainian Main Intelligence Directorate (GUR) against Russian aerospace and defense company Tupolev, which resulted in the theft of classified information, including personal data and internal communications.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/</guid>
-      <pubDate>Wed, 04 Jun 2025 18:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploiting Clickfix: AMOS macOS Stealer Evades Security to Deploy Malicious Code</title>
-      <link>https://gbhackers.com/clickfix-amos-macos-stealer-evades-security/</link>
-      <description>This article describes a campaign using an Atomic macOS Stealer (AMOS) variant, which delivers tailored payloads based on the victim's operating system. The attack involves typo-squatted domains, Clickfix method, and employs native macOS utilities to execute a devastating attack chain, stealing credentials and bypassing security mechanisms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140564</guid>
-      <pubDate>Wed, 04 Jun 2025 17:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BidenCash carding market domains seized in international operation</title>
-      <link>https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/</link>
-      <description>Law enforcement seized multiple domains of the BidenCash dark web market for stolen credit cards, personal information, and SSH access. The operation was led by the United States Secret Service (USSS) and the Federal Bureau of Investigation (FBI), with support from other agencies and organizations.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/</guid>
-      <pubDate>Wed, 04 Jun 2025 17:10:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Malware Loaders to Circumvent Android 13+ Accessibility Safeguards</title>
-      <link>https://gbhackers.com/threat-actors-exploit-malware-loaders/</link>
-      <description>Vulnerable Product: Android; CVE(s): None; Summary: Threat actors have successfully bypassed Google's accessibility restrictions in Android 13 and later versions using sophisticated malware loaders like TiramisuDropper and Brokewell. These loaders enable attackers to deploy malicious payloads, exploit accessibility features, and harvest sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140554</guid>
-      <pubDate>Wed, 04 Jun 2025 16:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/</link>
-      <description>The FBI is warning about a new scam where cybercriminals exploit NFT airdrops on the Hedera Hashgraph network to steal cryptocurrency from wallets. Scammers send unsolicited NFTs or tokens with memos prompting users to click on a URL, which leads to phishing sites or dApps that ask for sensitive information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/</guid>
-      <pubDate>Wed, 04 Jun 2025 16:37:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>SCATTERED SPIDER Hackers Target IT Support Teams &amp; Bypass Multi-Factor Authentication</title>
-      <link>https://gbhackers.com/scattered-spider-hackers-target-it-support-teams/</link>
-      <description>SCATTERED SPIDER is a cybercriminal group that has emerged as a formidable threat, targeting various sectors with advanced social engineering and technical expertise. They blend in by manipulating IT support teams, bypassing MFA through voice phishing, and using psychological tactics. Their partnership with DragonForce, a Ransomware-as-a-Service platform, amplifies their destructive potential.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140546</guid>
-      <pubDate>Wed, 04 Jun 2025 16:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DCRat Targets Latin American Users to Steal Banking Credentials</title>
-      <link>https://gbhackers.com/dcrat-targets-latin-american-users/</link>
-      <description>A financially motivated threat group, likely from South America, has been using a series of targeted email campaigns to deliver the DCRat banking trojan. The attacks aim to steal sensitive banking credentials and other personal information, with phishing emails containing PDF attachments or Google Docs links being used to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140537</guid>
-      <pubDate>Wed, 04 Jun 2025 15:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Eleven11bot Hacks 86,000 IP Cameras for Large-Scale DDoS Attack</title>
-      <link>https://gbhackers.com/new-eleven11bot-hacks-86000-ip-cameras/</link>
-      <description>The Eleven11bot malware has compromised over 86,000 IP cameras in the Asia-Pacific region, transforming them into a massive botnet for launching large-scale Distributed Denial of Service (DDoS) attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140521</guid>
-      <pubDate>Wed, 04 Jun 2025 15:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App</title>
-      <link>https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html</link>
-      <description>A financially motivated threat cluster, UNC6040, has been tracked by Google's Threat Intelligence Group (GTIG) for its voice phishing campaigns targeting Salesforce instances. The group uses social engineering tactics to impersonate IT support personnel and trick employees into granting access or sharing credentials, leading to large-scale data theft and subsequent extortion attempts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html</guid>
-      <pubDate>Wed, 04 Jun 2025 15:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma Infostealer Developers Persist in Their Malicious Activities</title>
-      <link>https://gbhackers.com/lumma-infostealer-developers/</link>
-      <description>This article is not about a vulnerability but discusses a coordinated law enforcement operation to target and disrupt Lumma infostealer, a malware distributed via a malware-as-a-service (MaaS) model. The operation involved seizing domains associated with Lumma's command and control (C2) servers and management dashboards, as well as using psychological tactics such as posting messages on Telegram channels.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140512</guid>
-      <pubDate>Wed, 04 Jun 2025 15:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
