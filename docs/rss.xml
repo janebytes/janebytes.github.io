@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 20:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 21:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Secure Boot flaw lets attackers install bootkit malware, patch now</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-3052; Summary: A Secure Boot bypass vulnerability, tracked as CVE-2025-3052, allows attackers with admin rights to modify a user-writable NVRAM variable and disable Secure Boot, enabling the installation of bootkit malware. The flaw affects nearly every system that trusts Microsoft's "UEFI CA 2011" certificate, which is widely used in modern systems utilizing UEFI firmware.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/</guid>
+      <pubDate>Tue, 10 Jun 2025 20:02:19 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Windows WebDAV 0-Day RCE Vulnerability Actively Exploited in The Wild</title>
       <link>https://gbhackers.com/microsoft-windows-webdav-0-day/</link>
@@ -1444,13 +1451,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>This article is not about a vulnerability but discusses a coordinated law enforcement operation to target and disrupt Lumma infostealer, a malware distributed via a malware-as-a-service (MaaS) model. The operation involved seizing domains associated with Lumma's command and control (C2) servers and management dashboards, as well as using psychological tactics such as posting messages on Telegram channels.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140512</guid>
       <pubDate>Wed, 04 Jun 2025 15:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ConnectWise ScreenConnect Breach and CVE-2025-3935: What You Need to Know</title>
-      <link>https://socradar.io/connectwise-screenconnect-breach-cve-2025-3935/</link>
-      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: A high-severity ViewState code injection vulnerability (CVE-2025-3935, CVSS 7.2) exists in ASP.NET Web Forms used by ScreenConnect, allowing attackers to steal machine keys and execute arbitrary code on the server. The vulnerability was patched in ScreenConnect version 25.2.4 released on April 24, 2025.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060799</guid>
-      <pubDate>Wed, 04 Jun 2025 14:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
