@@ -6,8 +6,96 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 22:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 10:07:12 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>The Evolution of Linux Binaries in Targeted Cloud Operations</title>
+      <link>https://unit42.paloaltonetworks.com/elf-based-malware-targets-cloud/</link>
+      <description>Unit 42 researchers have identified a growing threat to cloud security: Linux Executable and Linkage Format (ELF) files that threat actors are developing to target cloud infrastructure. The article highlights the types of malicious binaries that threat actors are developing for use in attacks against Linux-based environments, including backdoors, droppers, remote access Trojans (RATs), data wipers, and vulnerability-exploiting binaries.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142727</guid>
+      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware Deployment Campaigns: ‘Librarian Ghouls’ APT Group Targets Organizations</title>
+      <link>https://gbhackers.com/librarian-ghouls-apt-group-targets-organizations/</link>
+      <description>The Advanced Persistent Threat (APT) group "Librarian Ghouls" has been actively targeting organizations across Russia and the CIS with sophisticated malware deployment campaigns, utilizing targeted phishing emails as their primary infection vector. They employ legitimate third-party software to mask their activities and hinder detection, deploying remote access tools, stealing sensitive credentials, and installing crypto-mining malware like XMRig on compromised systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141411</guid>
+      <pubDate>Tue, 10 Jun 2025 09:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP Security Patch Day: 14 Vulnerabilities Resolved Across Various Products</title>
+      <link>https://gbhackers.com/sap-security-patch-day-14-vulnerabilities-resolved/</link>
+      <description>Vulnerable Product: SAP; CVE(s): CVE-2025-42989 (Critical), CVE-2025-42982 (High), CVE-2025-23192 (High), CVE-2025-42977 (Medium), CVE-2025-42994, CVE-2025-42995, and CVE-2025-42996 (Medium); Summary: SAP's June 10, 2025 Security Patch Day addressed 14 vulnerabilities across the enterprise software portfolio, including a Critical vulnerability in SAP NetWeaver Application Server for ABAP allowing unauthorized access to sensitive system functions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141405</guid>
+      <pubDate>Tue, 10 Jun 2025 09:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploitation of Critical Wazuh Server RCE Vulnerability Leads to Mirai Variant Deployment</title>
+      <link>https://gbhackers.com/exploitation-of-critical-wazuh-server-rce-vulnerability/</link>
+      <description>Vulnerable Product: Wazuh; CVE(s): CVE-2025-24016, CVE-2023-1389 (TP-Link Archer AX21), CVE-2017-17215 (Huawei HG532); Summary: A critical remote code execution (RCE) vulnerability in Wazuh servers, identified as CVE-2025-24016 with a CVSS score of 9.9, allows attackers to execute arbitrary Python code via maliciously crafted JSON payloads. The vulnerability has been weaponized by two distinct botnets to propagate variants of the notorious Mirai malware, targeting primarily Internet of Things (IoT) devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141375</guid>
+      <pubDate>Tue, 10 Jun 2025 09:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sensata Technologies Faces Disruption Due to Ransomware Attack</title>
+      <link>https://gbhackers.com/sensata-technologies-faces-disruption/</link>
+      <description>The article reports a significant cybersecurity incident at Sensata Technologies, involving an external system breach that compromised personal information of hundreds of individuals. The breach remained undetected for nearly two months before being discovered on May 23, 2025.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141366</guid>
+      <pubDate>Tue, 10 Jun 2025 08:52:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability in DanaBot Malware C2 Server Leaks Threat Actor Usernames and Crypto Keys</title>
+      <link>https://gbhackers.com/vulnerability-in-danabot-malware-c2-server/</link>
+      <description>A severe vulnerability in the command-and-control (C2) infrastructure of the DanaBot malware has been discovered, allowing for the exposure of usernames and cryptographic keys used by malicious operators. This breach could provide cybersecurity defenders with a rare glimpse into the inner workings of DanaBot operations and enable more effective disruption of this persistent banking trojan.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141390</guid>
+      <pubDate>Tue, 10 Jun 2025 08:42:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 84,000 Roundcube Webmail Installations Exposed to Remote Code   Vulnerabilities</title>
+      <link>https://gbhackers.com/over-84000-roundcube-webmail-installations-exposed/</link>
+      <description>Vulnerable Product: Roundcube Webmail; CVE(s): CVE-2025-49113; Summary: The critical vulnerability, designated as CVE-2025-49113, allows authenticated attackers to execute arbitrary code remotely. It affects all Roundcube versions from 1.1.0 through 1.6.10 and has been exploited in targeted attacks, potentially conducted by state actors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141374</guid>
+      <pubDate>Tue, 10 Jun 2025 08:24:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises</title>
+      <link>https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html</link>
+      <description>Rare Werewolf, an advanced persistent threat (APT) group, has been linked to a series of cyber attacks targeting Russia and CIS countries. The attacks aim to establish remote access to compromised hosts, steal credentials, and deploy the XMRig cryptocurrency miner. The group obtains initial access using phishing emails and leverages legitimate software to interact with infected systems, harvest passwords, and disable antivirus software.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html</guid>
+      <pubDate>Tue, 10 Jun 2025 07:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ManageEngine Exchange Reporter Plus Vulnerability Enables Remote Code Execution</title>
+      <link>https://gbhackers.com/manageengine-exchange-reporter-plus-vulnerability/</link>
+      <description>Vulnerable Product: ManageEngine Exchange Reporter Plus; CVE(s): CVE-2025-3835; Summary: The vulnerability, affecting all builds up to version 5721, allows attackers to execute arbitrary commands on target servers, enabling remote code execution and potentially compromising system integrity. Successful exploitation could grant attackers complete control over the compromised system, enabling data breaches, regulatory compliance violations, and operational disruptions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141358</guid>
+      <pubDate>Tue, 10 Jun 2025 05:48:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog</title>
+      <link>https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html</link>
+      <description>Vulnerable Product: Erlang/Open Telecom Platform (OTP); CVE(s): CVE-2025-32433; Summary: A missing authentication vulnerability in OTP SSH server allows an attacker to execute arbitrary commands without valid credentials, potentially leading to unauthenticated remote code execution. The vulnerability has a CVSS score of 10.0 and was fixed in April 2025.
+
+Vulnerable Product: Roundcube Webmail; CVE(s): CVE-2024-42009; Summary: A cross-site scripting (XSS) vulnerability in RoundCube Webmail allows a remote attacker to steal and send emails of a victim via a crafted email message by taking advantage of a desanitization issue. The vulnerability has a CVSS score of 9.3 and was fixed in August 2024.
+
+FYSA: The article also mentions an unpatched account takeover vulnerability (CVE-2025-31022, CVSS score: 9.8) in the PayU CommercePro plugin for WordPress that enables an attacker to seize control of any user without authentication, with serious consequences if exploited successfully.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html</guid>
+      <pubDate>Tue, 10 Jun 2025 05:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Vulnerability Allowed Hackers to Access User Phone Numbers</title>
+      <link>https://gbhackers.com/google-vulnerability/</link>
+      <description>Vulnerable Product: Google account recovery system; CVE(s): None; Summary: The vulnerability allowed attackers to brute-force and obtain the phone numbers of any Google user by exploiting Google's username recovery form that still functioned without JavaScript, bypassing modern security protections. The attack leveraged two HTTP requests and exploited IP-based rate limiting and CAPTCHA challenges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141344</guid>
+      <pubDate>Tue, 10 Jun 2025 05:18:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stolen Ticketmaster data from Snowflake attacks briefly for sale again</title>
+      <link>https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/</link>
+      <description>The article discusses the Arkana Security extortion gang listing Ticketmaster data for sale, which was previously stolen during the 2024 Snowflake data theft attacks. It appears that the group is attempting to resell old stolen data, rather than conducting a new breach. The article also mentions the ShinyHunters group's involvement in various breaches and their potential ties to law enforcement arrests.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/</guid>
+      <pubDate>Mon, 09 Jun 2025 22:31:18 +0000</pubDate>
+    </item>
     <item>
       <title>Over 84,000 Roundcube instances vulnerable to actively exploited flaw</title>
       <link>https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/</link>
@@ -1359,92 +1447,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>Russian Market, a notorious automated vending platform, has solidified its position as the leading hub for stolen credentials, fueling a dramatic rise in credential theft attacks worldwide. The platform offers an inventory of over 5 million logs containing tens to hundreds of compromised credentials, providing cybercriminals with affordable and efficient means to breach accounts.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140306</guid>
       <pubDate>Tue, 03 Jun 2025 14:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Reveal Container-Based Attacks Through Host-Based Log Analysis</title>
-      <link>https://gbhackers.com/researchers-reveal-container-based-attacks/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: Containers are not as isolated as believed due to reliance on shared host kernel. Host-based log analysis is critical in uncovering sophisticated attacks and identifying malicious processes, including those using BusyBox-based containers like Alpine. This highlights a gap in container security awareness and emphasizes the need for proper monitoring and response capabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140345</guid>
-      <pubDate>Tue, 03 Jun 2025 14:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla launches new system to detect Firefox crypto drainer add-ons</title>
-      <link>https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/</link>
-      <description>Mozilla has developed a new security feature for its add-on portal to block malicious extensions that drain cryptocurrency wallets. The feature creates risk profiles for each submitted wallet extension and triggers automated risk alerts if a pre-defined threshold is exceeded, prompting human reviewers to remove malicious extensions from the store.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/</guid>
-      <pubDate>Tue, 03 Jun 2025 14:29:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>State-Sponsored Groups Intensify Attacks on Manufacturing Sector and OT Systems</title>
-      <link>https://gbhackers.com/state-sponsored-groups-intensify-attacks/</link>
-      <description>A recent report by Forescout Technologies reveals a significant surge in active threat actors targeting the manufacturing sector, with 71% growth compared to the previous year. The report highlights the involvement of state-sponsored groups, cybercriminals, and hacktivist groups, as well as the exploitation of vulnerabilities in VPNs, remote access solutions, and file transfer applications, and the use of advanced evasion strategies such as living-off-the-land techniques and endpoint detection response (EDR) bypass tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140290</guid>
-      <pubDate>Tue, 03 Jun 2025 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Security Update Addresses High-Severity Privilege Escalation Flaws</title>
-      <link>https://gbhackers.com/android-security-update-addresses/</link>
-      <description>Vulnerable Product: Multiple Android devices; CVE(s): None listed; Summary: A series of high-severity vulnerabilities affecting a wide range of Android devices were disclosed in the June 2025 Android Security Bulletin. The most critical vulnerability is an escalation of privilege flaw in the System component, which could allow an attacker to gain elevated access with minimal user interaction and no additional execution privileges required.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140280</guid>
-      <pubDate>Tue, 03 Jun 2025 14:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider: Three things the news doesn’t tell you</title>
-      <link>https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/</link>
-      <description>Scattered Spider is a group of cybercriminals that has been linked to several high-profile attacks on UK retailers and other organizations. They use a range of identity-based tactics, techniques, and procedures (TTPs) to bypass multi-factor authentication (MFA) and achieve account takeover. The group's methods include help desk scams, SIM swapping, smishing, basic credential phishing, and Attacker-in-the-Middle (AiTM) phishing toolkits. They have been known to target accounts with elevated permissions and use their initial intrusions as a foothold for further attacks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/</guid>
-      <pubDate>Tue, 03 Jun 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aembit Extends Workload IAM to Microsoft Ecosystem, Securing Hybrid Access for Non-Human Identities</title>
-      <link>https://gbhackers.com/aembit-extends-workload-iam-to-microsoft-ecosystem-securing-hybrid-access-for-non-human-identities/</link>
-      <description>Aembit, a workload identity and access management (IAM) company, has expanded its platform to support Microsoft environments, enabling secure policy-based access for software workloads and agentic AI running on Windows Server, Active Directory, Microsoft Entra ID, and Azure. The launch aims to provide a unified approach to secure workload access management across the Microsoft ecosystem and beyond, reducing operational complexity while improving visibility, automation, and risk posture.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140315</guid>
-      <pubDate>Tue, 03 Jun 2025 13:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA warns of ConnectWise ScreenConnect bug exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/</link>
-      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: A recently patched vulnerability in ScreenConnect could allow remote code execution on the server through ViewState code injection attacks. The vulnerability, tracked as CVE-2025-3935, was found to be actively exploited by hackers.
-
-FYSA: CISA is warning federal agencies of four other security problems affecting ASUS routers and Craft CMS that are also actively exploited. The flaws include authentication bypass in ASUS GT-AC2900 and Lyra Mini devices (CVE-2021-32030), OS injection in ASUS RT-AX55 devices (CVE-2023-39780), code injection in Craft CMS (CVE-2024-56145), and an unauthenticated client could introduce PHP code to known file locations on the Craft CMS server (CVE-2025-35939).</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/</guid>
-      <pubDate>Tue, 03 Jun 2025 13:57:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Face Fashion Brand Alerts Customers to Credential Stuffing Attack</title>
-      <link>https://gbhackers.com/north-face-fashion-brand-alerts-customers/</link>
-      <description>This article is about a credential stuffing attack that occurred on The North Face's website. Attackers used stolen authentication credentials to gain unauthorized access to user accounts, exposing personal information such as email addresses, names, and purchase histories.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140273</guid>
-      <pubDate>Tue, 03 Jun 2025 13:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Victoria’s Secret delays earnings release after security incident</title>
-      <link>https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/</link>
-      <description>The article reports on a security incident at Victoria's Secret, where corporate systems were taken down as a precautionary measure. While the nature of the incident is not disclosed, it appears to be potentially related to ransomware and restoration efforts are ongoing.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/</guid>
-      <pubDate>Tue, 03 Jun 2025 13:25:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple iOS Activation Flaw Enables Injection of Unauthenticated XML Payloads</title>
-      <link>https://gbhackers.com/apple-ios-activation-flaw-enables-injection/</link>
-      <description>Vulnerable Product: Apple iOS Activation Backend; CVE(s): None; Summary: A severe vulnerability in Apple's iOS activation infrastructure allows attackers to inject unauthenticated XML .plist payloads without verification or signature validation. This enables arbitrary provisioning changes and persistent configuration manipulation, exposing devices to tampering before they are fully activated.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140255</guid>
-      <pubDate>Tue, 03 Jun 2025 13:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code</title>
-      <link>https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html</link>
-      <description>Vulnerable Product: Roundcube Webmail; CVE(s): CVE-2025-49113; Summary: The vulnerability is a post-authenticated remote code execution via PHP object deserialization, affecting all versions of Roundcube before and including 1.6.10. It has a CVSS score of 9.9 out of 10.0 and can be exploited to take over susceptible systems and execute arbitrary code.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html</guid>
-      <pubDate>Tue, 03 Jun 2025 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Alerts on ConnectWise ScreenConnect Authentication Vulnerability Actively Exploited</title>
-      <link>https://gbhackers.com/cisa-alerts-on-connectwise-screenconnect/</link>
-      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: The vulnerability affects all ScreenConnect versions up to and including 25.2.3, allowing ViewState code injection attacks that could result in remote code execution (RCE) if machine keys are compromised.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140222</guid>
-      <pubDate>Tue, 03 Jun 2025 12:52:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
