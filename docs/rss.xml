@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 19:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 20:01:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Windows WebDAV 0-Day RCE Vulnerability Actively Exploited in The Wild</title>
+      <link>https://gbhackers.com/microsoft-windows-webdav-0-day/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33053; Summary: A critical zero-day vulnerability in Microsoft Windows allows remote code execution through manipulation of a system's working directory. The flaw was actively exploited by the advanced persistent threat (APT) group Stealth Falcon, who used it to deliver malicious files and inject shellcode into legitimate system processes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141611</guid>
+      <pubDate>Tue, 10 Jun 2025 19:29:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Found in the wild: 2 Secure Boot exploits. Microsoft is patching only 1 of them.</title>
+      <link>https://arstechnica.com/security/2025/06/unearthed-in-the-wild-2-secure-boot-exploits-microsoft-patches-only-1-of-them/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: Attackers with brief physical access to a device can boot it up in IGEL and modify the boot loader to install malware. This vulnerability allows bypassing Secure Boot protections, potentially loading an untrusted OS on systems that trust the Microsoft 3rd Party UEFI CA.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/unearthed-in-the-wild-2-secure-boot-exploits-microsoft-patches-only-1-of-them/</guid>
+      <pubDate>Tue, 10 Jun 2025 19:00:34 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Patch Tuesday June 2025 – 66 Vulnerabilities Patched Including 2 Zero-Day</title>
       <link>https://gbhackers.com/microsoft-patch-tuesday-june-2025/</link>
@@ -1437,20 +1451,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): CVE-2025-3935; Summary: A high-severity ViewState code injection vulnerability (CVE-2025-3935, CVSS 7.2) exists in ASP.NET Web Forms used by ScreenConnect, allowing attackers to steal machine keys and execute arbitrary code on the server. The vulnerability was patched in ScreenConnect version 25.2.4 released on April 24, 2025.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060799</guid>
       <pubDate>Wed, 04 Jun 2025 14:34:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Media giant Lee Enterprises says data breach affects 39,000 people</title>
-      <link>https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/</link>
-      <description>Lee Enterprises, a publishing giant, has notified over 39,000 individuals whose personal information was stolen in a February 2025 ransomware attack. The attackers, believed to be the Qilin ransomware gang, stole documents containing personally identifiable information, including Social Security numbers and government ID scans.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/</guid>
-      <pubDate>Wed, 04 Jun 2025 14:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious ‘Sleeper Agent’ Browser Extensions Infected 1.5 Million Users Globally</title>
-      <link>https://gbhackers.com/malicious-sleeper-agent/</link>
-      <description>Vulnerable Product: LayerX; CVE(s): None; Summary: A malicious network of browser extensions, dubbed "sleeper agents," has been discovered, installed on nearly 1.5 million devices worldwide. These extensions can execute remote commands, open background tabs, communicate with known malicious domains, and use encryption and base64 code obfuscation to hide their activity from traditional security tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140525</guid>
-      <pubDate>Wed, 04 Jun 2025 14:15:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
