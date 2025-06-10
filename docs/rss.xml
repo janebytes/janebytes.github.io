@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 13:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 14:01:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Persist in Using ConnectWise ScreenConnect Tool to Distribute Malware</title>
+      <link>https://gbhackers.com/hackers-persist-in-using-connectwise-screenconnect-tool/</link>
+      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): None; Summary: Hackers are exploiting a vulnerability in ScreenConnect versions 23.9.7 and prior, deploying malicious payloads, particularly targeting financial organizations, using phishing emails with invoice themes to trick users into downloading harmful executables. The exploitation involves signed malicious droppers, likely tied to the CHAINVERB backdoor associated with the UNC5952 threat group.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141498</guid>
+      <pubDate>Tue, 10 Jun 2025 13:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI working to fix ChatGPT outage affecting users worldwide</title>
+      <link>https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/</link>
+      <description>Vulnerable Product: None; FYSA: The article reports on an ongoing outage impacting OpenAI's ChatGPT, causing errors and latency for users worldwide. The issue has been identified as a root cause and the company is working to implement a mitigation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/</guid>
+      <pubDate>Tue, 10 Jun 2025 13:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Severe SAP NetWeaver Vulnerability Allows Attackers to Bypass Authorization Checks</title>
+      <link>https://gbhackers.com/severe-sap-netweaver-vulnerability/</link>
+      <description>Vulnerable Product: SAP; CVE(s): 3600840 (9.6), 3609271 (8.8), 3606484 (8.5), 3560693 (8.2), 3610006 (7.5), 3590887 (5.8); Summary: The June Patch Day from SAP addresses nineteen security patches, including critical vulnerabilities that can allow attackers to bypass authorization controls and escalate privileges across multiple enterprise systems. The most severe vulnerability affects the RFC framework in SAP NetWeaver Application Server AS ABAP, enabling authenticated attackers to bypass standard authorization controls and achieve privilege escalation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141512</guid>
+      <pubDate>Tue, 10 Jun 2025 13:22:42 +0000</pubDate>
+    </item>
     <item>
       <title>New SharePoint Phishing Campaigns Employing Deceptive Lick Techniques</title>
       <link>https://gbhackers.com/new-sharepoint-phishing-campaigns/</link>
@@ -1426,27 +1447,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>Vulnerable Product: 2BrightSparks SyncBackFree; CVE(s): CVE-2025-5474; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of 2BrightSparks SyncBackFree by exploiting a local privilege escalation flaw in the Mirror functionality, requiring user interaction and low-privileged code execution.</description>
       <guid isPermaLink="false">ZDI-CAN-26962</guid>
       <pubDate>Tue, 03 Jun 2025 22:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-323: Action1 Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-323/</link>
-      <description>Vulnerable Product: Action1; CVE(s): CVE-2025-5480; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Action1 by exploiting an unsecured location where OpenSSL configuration files are loaded. The attacker must first obtain the ability to execute low-privileged code on the target system, and can then leverage this vulnerability to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26767</guid>
-      <pubDate>Tue, 03 Jun 2025 22:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-324: Sante DICOM Viewer Pro DCM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-324/</link>
-      <description>Vulnerable Product: Sante, DICOM Viewer Pro; CVE(s): CVE-2025-5481; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Sante DICOM Viewer Pro by exploiting a lack of proper validation of user-supplied data in the parsing of DCM files. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26168</guid>
-      <pubDate>Tue, 03 Jun 2025 22:01:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI is hopeful GPT-5 will compete a little more</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/</link>
-      <description>OpenAI is developing a new AI model, GPT-5, which will be more competitive with existing models. The company is also working on upgrading its GPTs and Operator (AI Agent) products, but no specific timelines have been provided.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/</guid>
-      <pubDate>Tue, 03 Jun 2025 21:30:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
