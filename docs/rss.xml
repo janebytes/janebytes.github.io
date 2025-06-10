@@ -6,14 +6,56 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 12:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 13:03:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New SharePoint Phishing Campaigns Employing Deceptive Lick Techniques</title>
+      <link>https://gbhackers.com/new-sharepoint-phishing-campaigns/</link>
+      <description>Phishing campaigns leveraging Microsoft SharePoint to bypass modern detection systems have been identified, exploiting inherent trust users place in the platform. These attacks disguise phishing URLs as legitimate file-sharing links, tricking users into accessing credential-harvesting pages or downloading malware, and evade endpoint detection and response (EDR) tools and email security gateways.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141482</guid>
+      <pubDate>Tue, 10 Jun 2025 12:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ISPConfig Vulnerability Allows Privilege Escalation to Superadmin and PHP Code Injection Exploit</title>
+      <link>https://gbhackers.com/ispconfig-vulnerability-allows-privilege-escalation-to-superadmin/</link>
+      <description>Vulnerable Product: ISPConfig version 3.2.12p1; CVE(s): None; Summary: The vulnerability allows authenticated attackers to escalate their privileges to that of a superadmin and execute arbitrary PHP code remotely, posing a serious risk to affected systems. Attackers can manipulate HTTP parameters when using the client_add and users_edit features, creating a client account with admin privileges, then modifying or assuming the identity of the superadmin user (ID 1), granting unrestricted access to the ISPConfig instance.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141481</guid>
+      <pubDate>Tue, 10 Jun 2025 12:49:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Lovable’s Security Policies Allows Malicious Code Injection</title>
+      <link>https://gbhackers.com/critical-vulnerability-in-lovables-security-policies/</link>
+      <description>Vulnerable Product: Lovable; CVE(s): None; Summary: The vulnerability affects Lovable's AI-powered development platform, exposing sensitive user data and enabling malicious code injection across hundreds of applications. It stems from the platform's client-driven architecture and lack of proper Row Level Security (RLS) configurations, allowing unauthorized access to database contents.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141460</guid>
+      <pubDate>Tue, 10 Jun 2025 12:25:36 +0000</pubDate>
+    </item>
     <item>
       <title>Five plead guilty to laundering $36 million stolen in investment scams</title>
       <link>https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/</link>
       <description>Five men from China, the United States, and Turkey pleaded guilty to their involvement in an international crime ring and laundering nearly $37 million stolen from U.S. victims in cryptocurrency investment scams carried out from Cambodia. The scam involved accomplices reaching out to targets via unsolicited social media, phone calls, text messages, and online dating services to gain their trust, promoting fraudulent digital asset investments and falsely claiming that the victims' funds' value increased after they tricked them into investing, when, in fact, their money was stolen.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/</guid>
       <pubDate>Tue, 10 Jun 2025 11:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier</title>
+      <link>https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html</link>
+      <description>Non-human identities (NHIs), including application secrets, API keys, service accounts, and OAuth tokens, have increased in recent years due to the expanding array of apps and services. NHIs introduce unique risks and management challenges that security leaders must address.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html</guid>
+      <pubDate>Tue, 10 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues Alert on Erlang/OTP SSH Server RCE Vulnerability Under Active Exploitation</title>
+      <link>https://gbhackers.com/cisa-issues-alert-on-erlang-otp-ssh-server-rce-vulnerability/</link>
+      <description>Vulnerable Product: Erlang/OTP SSH server; CVE(s): CVE-2025-32433; Summary: The Erlang/OTP SSH server implementation has a critical vulnerability (CVE-2025-32433) that allows attackers to execute arbitrary commands without authentication, bypassing standard security controls. This flaw enables unauthenticated remote code execution and is actively exploited in the wild, posing significant risks to organizations worldwide.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141432</guid>
+      <pubDate>Tue, 10 Jun 2025 10:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian Authorities Bust Cybercriminals Posing as Microsoft Tech Support</title>
+      <link>https://gbhackers.com/cybercriminals-posing-as-microsoft-tech-support/</link>
+      <description>The Central Bureau of Investigation (CBI) launched an operation targeting a tech support scam network impersonating Microsoft, resulting in the arrest of six key operatives and the shutdown of two illicit call centers. The operation was a result of international collaboration between the CBI, Japan's Cybercrime Control Center, National Police Agency, and Microsoft's Digital Crimes Unit.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141461</guid>
+      <pubDate>Tue, 10 Jun 2025 10:42:11 +0000</pubDate>
     </item>
     <item>
       <title>Malicious Actors Exploit SoraAI’s Popularity &amp; GitHub to Distribute Malware</title>
@@ -1405,48 +1447,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>OpenAI is developing a new AI model, GPT-5, which will be more competitive with existing models. The company is also working on upgrading its GPTs and Operator (AI Agent) products, but no specific timelines have been provided.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/</guid>
       <pubDate>Tue, 03 Jun 2025 21:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT rolls out Memory upgrade for free users</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/</link>
-      <description>The article discusses an update to ChatGPT's memory feature, which will allow free accounts to remember and reference past conversations. However, there are limitations to this feature for free users, who will only have access to short-term continuity across conversations.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/</guid>
-      <pubDate>Tue, 03 Jun 2025 20:55:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hewlett Packard Enterprise warns of critical StoreOnce auth bypass</title>
-      <link>https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise (HPE) StoreOnce; CVE(s): CVE-2025-37089, CVE-2025-37090, CVE-2025-37091, CVE-2025-37092, CVE-2025-37093, CVE-2025-37094, CVE-2025-37095, CVE-2025-37096; Summary: The HPE StoreOnce software has eight vulnerabilities, including a critical authentication bypass vulnerability (CVE-2025-37093) with a CVSS v3.1 score of 9.8, which can be exploited to gain unauthorized access to the system. Other flaws include remote code execution bugs, directory traversal problems, and server-side request forgery issues, all impacting versions of StoreOnce software before v4.3.11, which is now the recommended upgrade version.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/</guid>
-      <pubDate>Tue, 03 Jun 2025 20:55:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coinbase breach tied to bribed TaskUs support agents in India</title>
-      <link>https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/</link>
-      <description>A recent data breach at Coinbase was linked to India-based customer support representatives from outsourcing firm TaskUs, who were bribed by threat actors to steal sensitive user data. The incident was discovered in January 2025 and impacted nearly 70,000 customers, with estimated losses of up to $400 million.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/</guid>
-      <pubDate>Tue, 03 Jun 2025 17:17:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft adds quick machine recovery to Windows 11 settings</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/</link>
-      <description>Microsoft is testing a dedicated page in Windows Settings for quick machine recovery, which will provide users with additional configuration options. This new feature aims to streamline access to important features that help keep devices running smoothly and fix Windows boot issues using targeted fixes without requiring physical access. The feature is initially available to Insiders in the Beta Channel and Dev Channel.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/</guid>
-      <pubDate>Tue, 03 Jun 2025 15:50:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious RubyGems pose as Fastlane to steal Telegram API data</title>
-      <link>https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/</link>
-      <description>Vulnerable Product: RubyGems; CVE(s): None; Summary: Two malicious RubyGems packages posing as Fastlane CI/CD plugins redirect Telegram API requests to attacker-controlled servers, intercepting and stealing sensitive data including chat IDs, message content, attached files, proxy credentials, and bot tokens.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/</guid>
-      <pubDate>Tue, 03 Jun 2025 15:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Linux PumaBot Targets IoT Devices with SSH Credential Brute-Force Attack</title>
-      <link>https://gbhackers.com/new-linux-pumabot-targets-iot-devices/</link>
-      <description>PumaBot is a Go-based Linux botnet that exploits embedded IoT devices using targeted brute-force attacks on SSH credentials. It deploys its malicious binary, establishes persistence, and executes remote commands, primarily focusing on cryptocurrency mining. The botnet's infection chain involves evasion techniques, including fingerprinting logic to sidestep honeypots and restricted environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140335</guid>
-      <pubDate>Tue, 03 Jun 2025 15:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
