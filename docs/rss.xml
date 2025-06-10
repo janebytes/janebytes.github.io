@@ -6,8 +6,38 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 14:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 15:02:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Massive Heroku outage impacts web platforms worldwide</title>
+      <link>https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/</link>
+      <description>Heroku is experiencing a widespread outage that has lasted over six hours, affecting developers' ability to log in and use the platform. The outage impacts various services and websites, including SolarWinds, which cannot ingest logs due to the issue. Heroku has not yet provided details on the root cause or when services will be restored.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/</guid>
+      <pubDate>Tue, 10 Jun 2025 14:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Workspace Control Vulnerability Lets Attackers Remotely Exploit To Steal the Credential</title>
+      <link>https://gbhackers.com/ivanti-workspace-control-vulnerability/</link>
+      <description>Vulnerable Product: Ivanti Workspace Control; CVE(s): CVE-2025-5353, CVE-2025-22463, CVE-2025-22455; Summary: The vulnerabilities in Ivanti Workspace Control prior to 10.19.10.0 allow local authenticated attackers to decrypt stored SQL credentials and environment passwords due to hardcoded cryptographic keys. Successful exploitation could lead to severe consequences, including unauthorized access to critical systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141554</guid>
+      <pubDate>Tue, 10 Jun 2025 14:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users</title>
+      <link>https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html</link>
+      <description>Vulnerable Product: Various; CVE(s): None; Summary: Myth Stealer is a Rust-based information stealer that steals passwords, cookies, and autofill information from Chromium- and Gecko-based browsers. It's distributed through fake gaming websites and online forums, and attempts to terminate running processes associated with web browsers before exfiltrating stolen data to a remote server or Discord webhook. The malware contains anti-analysis techniques such as string obfuscation and system checks using filenames and usernames.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html</guid>
+      <pubDate>Tue, 10 Jun 2025 14:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI is a data-breach time bomb, reveals new report</title>
+      <link>https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/</link>
+      <description>The article discusses the risks associated with AI, cloud environments, and SaaS apps. It highlights that 99% of organizations have sensitive data unnecessarily exposed to AI tools, and no organization was fully prepared for AI. The report emphasizes the importance of implementing effective security measures to prioritize data protection.
+
+Note: There are no specific vulnerabilities mentioned in this article, but it focuses on the risks associated with AI and data exposure.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/</guid>
+      <pubDate>Tue, 10 Jun 2025 14:02:20 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Persist in Using ConnectWise ScreenConnect Tool to Distribute Malware</title>
       <link>https://gbhackers.com/hackers-persist-in-using-connectwise-screenconnect-tool/</link>
@@ -1419,34 +1449,6 @@ The article announces Microsoft's new European Security Program, which aims to e
       <description>Vulnerable Product: None; Summary: This article does not discuss a vulnerability. Instead, it is about ThreatBook's Network Detection and Response (NDR) technology and its inclusion in Gartner's first Magic Quadrant for NDR. The article highlights the capabilities of ThreatBook TDP, including its ability to detect zero-day attacks, identify attack surfaces, and provide closed-loop response.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140368</guid>
       <pubDate>Wed, 04 Jun 2025 07:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>DollyWay World Domination Attack Compromises 20,000+ Sites</title>
-      <link>https://gbhackers.com/dollyway-world-domination-attack/</link>
-      <description>Vulnerable Product: WordPress; CVE(s): None; Summary: A sophisticated malware campaign, dubbed "DollyWay World Domination", has compromised over 20,000 WordPress websites worldwide by exploiting vulnerabilities in plugins and themes. The malware injects JavaScript and PHP code to evade detection, disables security plugins, and redirects users to malicious destinations for affiliate monetization purposes.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140379</guid>
-      <pubDate>Wed, 04 Jun 2025 06:29:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass</title>
-      <link>https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise (HPE) StoreOnce; CVE(s): CVE-2025-37093, CVE-2025-37089, CVE-2025-37090, CVE-2025-37091, CVE-2025-37092, CVE-2025-37094, CVE-2025-37095, CVE-2025-37096; Summary: The StoreOnce data backup and deduplication solution has eight vulnerabilities that could lead to remote code execution, information disclosure, server-side request forgery, authentication bypass, arbitrary file deletion, and directory traversal. The most severe flaw is an authentication bypass bug (CVE-2025-37093) rated 9.8 on the CVSS scoring system, which could be chained with other flaws for more severe impacts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html</guid>
-      <pubDate>Wed, 04 Jun 2025 05:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-321: GIMP ICO File Parsing Integer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-321/</link>
-      <description>Vulnerable Product: GIMP; CVE(s): CVE-2025-5473; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP, requiring user interaction. The flaw exists in the parsing of ICO files due to a lack of proper validation of user-supplied data, leading to an integer overflow before writing to memory.</description>
-      <guid isPermaLink="false">ZDI-CAN-26752</guid>
-      <pubDate>Tue, 03 Jun 2025 22:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-322: 2BrightSparks SyncBackFree Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-322/</link>
-      <description>Vulnerable Product: 2BrightSparks SyncBackFree; CVE(s): CVE-2025-5474; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of 2BrightSparks SyncBackFree by exploiting a local privilege escalation flaw in the Mirror functionality, requiring user interaction and low-privileged code execution.</description>
-      <guid isPermaLink="false">ZDI-CAN-26962</guid>
-      <pubDate>Tue, 03 Jun 2025 22:02:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
