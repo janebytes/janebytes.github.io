@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 11:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 12:01:47 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure</title>
+      <link>https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html</link>
+      <description>INTERPOL's Operation Secure resulted in the takedown of 79% of malicious IP addresses, seizure of servers and data, and arrests of suspects linked to illegal cyber activities. The operation targeted information-stealing malware variants, with a focus on disrupting command-and-control servers hosting phishing, online fraud, and social media scams.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html</guid>
+      <pubDate>Wed, 11 Jun 2025 11:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why DNS Security Is Your First Defense Against Cyber Attacks?</title>
+      <link>https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html</link>
+      <description>The article discusses the importance of securing the Domain Name System (DNS) as it plays a critical role in nearly every online interaction, making it an attractive target for cyber attackers. It highlights common DNS-based attacks such as DNS spoofing, hijacking, and tunneling, which can disrupt services, compromise sensitive data, or silently spy on users. The article also emphasizes the need to secure DNS traffic through monitoring, controlling, and encrypting queries, citing ClouDNS as an example of a provider that combines speed, reliability, and built-in security.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html</guid>
+      <pubDate>Wed, 11 Jun 2025 11:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apache CloudStack Flaw Allows Attackers to Execute Privileged Actions</title>
       <link>https://gbhackers.com/apache-cloudstack-flaw/</link>
@@ -1439,20 +1453,6 @@ Vulnerable Product: Cisco Integrated Management Controllers (IMC); CVE(s): CVE-2
 Vulnerable Product: Cisco Nexus Dashboard Fabric Controller (NDFC); CVE(s): CVE-2025-20163; Summary: A high-severity vulnerability in the Cisco NDFC allows an attacker to perform a Man-in-the-Middle (MitM) attack to impersonate a managed device and intercept sensitive traffic.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060833</guid>
       <pubDate>Thu, 05 Jun 2025 09:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Cisco Nexus Dashboard Vulnerability Lets Attackers Impersonate Managed Devices</title>
-      <link>https://gbhackers.com/critical-cisco-nexus-dashboard-vulnerability/</link>
-      <description>Vulnerable Product: Cisco Nexus Dashboard Fabric Controller (NDFC); CVE(s): CVE-2025-20163; Summary: The NDFC suffers from a critical SSH host key validation vulnerability, allowing unauthenticated remote attackers to impersonate managed devices. This enables MitM attacks on SSH connections, posing significant risks to data center infrastructure and potentially compromising user credentials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140653</guid>
-      <pubDate>Thu, 05 Jun 2025 08:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Alerts Users to Critical ISE Vulnerability Exposing Sensitive Data</title>
-      <link>https://gbhackers.com/cisco-alerts-ise-vulnerability/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20286; Summary: The ISE vulnerability occurs when deployed on AWS, Azure, or OCI, allowing attackers to access other ISE instances with the same software release and platform using extracted credentials. This can lead to unauthorized access, data exposure, configuration changes, and service disruptions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140627</guid>
-      <pubDate>Thu, 05 Jun 2025 08:04:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
