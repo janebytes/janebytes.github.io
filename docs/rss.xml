@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 14:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 15:01:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Brute-force attacks target Apache Tomcat management panels</title>
+      <link>https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/</link>
+      <description>Vulnerable Product: Apache Tomcat; CVE(s): None; Summary: A coordinated campaign of brute-force attacks using hundreds of unique IP addresses targets Apache Tomcat Manager interfaces exposed online. The attacks do not exploit any specific vulnerability, but rather attempt to gain access to Tomcat services over the Internet by trying login credentials.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/</guid>
+      <pubDate>Wed, 11 Jun 2025 14:27:36 +0000</pubDate>
+    </item>
     <item>
       <title>Windows Task Scheduler Flaw Allows Attackers to Escalate Privileges</title>
       <link>https://gbhackers.com/windows-task-scheduler-flaw/</link>
@@ -1442,13 +1449,6 @@ FYSA: None</description>
       <description>Vulnerable Product: Infoblox NetMRI; CVE(s): CVE-2025-32813, CVE-2025-32814, CVE-2025-32815, CVE-2024-54188, CVE-2024-52874; Summary: Six critical vulnerabilities have been identified in Infoblox's NetMRI version 7.5.4.104695, including unauthenticated command injection, hardcoded credentials, arbitrary file read, and SQL injection flaws that can lead to complete administrative access and compromise of entire network infrastructures if exploited.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140660</guid>
       <pubDate>Thu, 05 Jun 2025 11:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware</title>
-      <link>https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html</link>
-      <description>None (This article is not about a vulnerability, but rather an Iran-aligned hacking group's cyber attacks targeting Kurdish and Iraqi government officials.)</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html</guid>
-      <pubDate>Thu, 05 Jun 2025 10:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
