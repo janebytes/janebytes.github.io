@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 15:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 16:02:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers exploited Windows WebDav zero-day to drop malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33053; Summary: The Windows WebDav RCE vulnerability, tracked as CVE-2025-33053, allows attackers to execute arbitrary code remotely from a controlled WebDAV server without dropping malicious files locally. This vulnerability was exploited by the APT group 'Stealth Falcon' in zero-day attacks against defense and government organizations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/</guid>
+      <pubDate>Wed, 11 Jun 2025 15:47:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft creates separate Windows 11 24H2 update for incompatible PCs</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: The article reports on a compatibility issue affecting some Windows 11 24H2 systems, causing them to be incompatible with the initial security update released during Patch Tuesday. A revised update will be rolled out to affected devices.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/</guid>
+      <pubDate>Wed, 11 Jun 2025 15:35:10 +0000</pubDate>
+    </item>
     <item>
       <title>Brute-force attacks target Apache Tomcat management panels</title>
       <link>https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/</link>
@@ -35,6 +49,20 @@
       <description>Operation Secure, a global law enforcement action, targeted infostealer malware infrastructure across 26 countries, resulting in 32 arrests, data seizures, and server takedowns. The operation focused on disrupting groups that steal financial and personal data through widespread infections, leading to the takedown of over 20,000 malicious IPs/domains and seizure of 41 servers supporting info-stealers operations.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/</guid>
       <pubDate>Wed, 11 Jun 2025 13:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager</title>
+      <link>https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html</link>
+      <description>Vulnerable Product: Apache Tomcat; CVE(s): None; Summary: A "coordinated brute-force activity" has been observed targeting Apache Tomcat Manager interfaces. The activity was seen on June 5, 2025, and involved 295 unique IP addresses engaging in brute-force attempts against exposed Tomcat services at scale.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html</guid>
+      <pubDate>Wed, 11 Jun 2025 13:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>catdoc zero-day, NVIDIA, High-Logic FontCreator and Parallel vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/catdoc-zero-day-nvidia-high-logic-fontcreator-and-parallel-vulnerabilities/</link>
+      <description>Cisco Talos has disclosed three zero-day vulnerabilities in catdoc and other software products, including Parallel, NVIDIA cuobjdump, and High-Logic FontCreator. The vulnerabilities have been patched by their respective vendors except for the catdoc zero-day vulnerabilities which were patched by a Cisco researcher due to an inability to reach the vendor.</description>
+      <guid isPermaLink="false">683dd4475919a600012bd788</guid>
+      <pubDate>Wed, 11 Jun 2025 13:47:28 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft fixes unreachable Windows Server domain controllers</title>
@@ -1419,36 +1447,6 @@ FYSA: The article discusses the importance of cybersecurity awareness and the ne
       <description>Vulnerable Product: Wireshark; CVE(s): CVE-2025-5601; Summary: The vulnerability allows attackers to cause a denial of service (DoS) by injecting malformed packets onto a network or by convincing a user to open a specially crafted capture file. The flaw stems from a bug in the column utility module used by Wireshark's dissectors, which can be triggered during live packet capture or when analyzing saved packet trace files.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140723</guid>
       <pubDate>Thu, 05 Jun 2025 11:55:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>830 Organizations Hacked via Glitch-hosted Phishing Attack Uses Telegram &amp; Fake CAPTCHAs</title>
-      <link>https://gbhackers.com/830-organizations-hacked-via-glitch-hosted-phishing-attack/</link>
-      <description>Netskope Threat Labs reported a significant increase in traffic to phishing pages hosted on the Glitch platform, targeting over 830 organizations and 3,000 users. The campaigns use sophisticated techniques, including Telegram's BotAPI for exfiltrating stolen data and custom-built fake CAPTCHAs to evade security tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140682</guid>
-      <pubDate>Thu, 05 Jun 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany fines Vodafone $51 million for privacy, security breaches</title>
-      <link>https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/</link>
-      <description>The article reports that Vodafone GmbH, a German subsidiary of the telecommunications company Vodafone, was fined €45 million for privacy and security violations. The fines were imposed due to malicious employees in partner agencies who brokered contracts with customers on behalf of Vodafone, resulting in fraud cases. Additionally, the company's MeinVodafone and hotline authentication vulnerabilities allowed attackers to access customer eSIM profiles.
-
-FYSA: None</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/</guid>
-      <pubDate>Thu, 05 Jun 2025 11:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation</title>
-      <link>https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html</link>
-      <description>The article discusses the importance of a Business Value Assessment (BVA) for organizations to better understand their cybersecurity posture and financial exposure. It highlights the disconnect between security metrics and business outcomes, and how a BVA can bridge this gap by linking exposures to cost, prioritization to return, and prevention to tangible value.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html</guid>
-      <pubDate>Thu, 05 Jun 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researcher Found 6 Critical Vulnerabilities in NetMRI Allow Attackers Gain Complete Admin Access</title>
-      <link>https://gbhackers.com/researcher-found-6-critical-vulnerabilities-in-netmri/</link>
-      <description>Vulnerable Product: Infoblox NetMRI; CVE(s): CVE-2025-32813, CVE-2025-32814, CVE-2025-32815, CVE-2024-54188, CVE-2024-52874; Summary: Six critical vulnerabilities have been identified in Infoblox's NetMRI version 7.5.4.104695, including unauthenticated command injection, hardcoded credentials, arbitrary file read, and SQL injection flaws that can lead to complete administrative access and compromise of entire network infrastructures if exploited.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140660</guid>
-      <pubDate>Thu, 05 Jun 2025 11:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
