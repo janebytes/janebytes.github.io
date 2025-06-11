@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 12:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 13:02:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Multiple Microsoft Office Vulnerabilities Enable Remote Code Execution by Attackers</title>
+      <link>https://gbhackers.com/microsoft-office-vulnerabilities-2/</link>
+      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2025-47162, CVE-2025-47953, CVE-2025-47164, and CVE-2025-47167; Summary: Four critical remote code execution (RCE) vulnerabilities were disclosed in Microsoft Office's June 2025 Patch Tuesday updates, affecting document parsing logic, memory management, and file validation. Exploitation can grant attackers full system control, compromising confidentiality, integrity, and availability.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141669</guid>
+      <pubDate>Wed, 11 Jun 2025 12:48:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft fixes Windows Server auth issues caused by April updates</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/</link>
+      <description>Vulnerable Product: Microsoft Windows Server; CVE(s): CVE-2025-26647; Summary: The April 2025 security updates caused authentication problems on Windows Server domain controllers, affecting Windows Server 2016, Windows Server 2019, Windows Server 2022, and Windows Server 2025. This issue is linked to a high-severity vulnerability that can let authenticated attackers escalate privileges remotely by exploiting an improper input validation weakness in Windows Kerberos.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/</guid>
+      <pubDate>Wed, 11 Jun 2025 12:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoreDNS Vulnerability Allows Attackers to Exhaust Server Memory via Amplification Attack</title>
+      <link>https://gbhackers.com/coredns-vulnerability/</link>
+      <description>Vulnerable Product: CoreDNS; CVE(s): CVE-2025-47950; Summary: A high-severity vulnerability in CoreDNS's DNS-over-QUIC (DoQ) implementation allows remote attackers to crash DNS servers through stream amplification attacks, enabling OOM crashes in memory-constrained environments and bypassing authentication.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141662</guid>
+      <pubDate>Wed, 11 Jun 2025 12:02:32 +0000</pubDate>
+    </item>
     <item>
       <title>INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure</title>
       <link>https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html</link>
@@ -1428,31 +1449,6 @@ FYSA: None</description>
       <description>The article describes a destructive attack on Ukrainian critical infrastructure, attributed to a Russia-nexus advanced persistent threat (APT) actor. The attack used a previously unknown wiper malware called "PathWiper" that was deployed via a legitimate endpoint administration framework. PathWiper overwrites file system artifacts and destroys files by writing random bytes to disk.</description>
       <guid isPermaLink="false">683efe9726e1af0001c7835f</guid>
       <pubDate>Thu, 05 Jun 2025 10:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ViLE gang members sentenced for extortion, police portal breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/</link>
-      <description>Two members of the cybercriminal group ViLE were sentenced for hacking into a federal law enforcement web portal and using obtained personal information to harass, threaten, or extort victims. The group used methods such as impersonation, fraudulent legal requests, bribing corporate insiders, and searching public and private online databases to collect sensitive information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/</guid>
-      <pubDate>Thu, 05 Jun 2025 09:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases TTPs &amp; IoCs for Play Ransomware That Hacked 900+ Orgs</title>
-      <link>https://gbhackers.com/cisa-releases-ttps-iocs-for-play-ransomware/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA), FBI, and Australian Signals Directorate's Australian Cyber Security Centre (ASD’s ACSC) have released detailed Tactics, Techniques, and Procedures (TTPs) and Indicators of Compromise (IoCs) for the Play ransomware group. The report highlights the group's tactics, including exploiting vulnerabilities in public-facing applications, abusing valid accounts, and using tools like AdFind and Grixba to gain domain administrator access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140630</guid>
-      <pubDate>Thu, 05 Jun 2025 09:18:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Patches Severe Flaws in ISE (CVE-2025-20286) &amp; Other Products; PoC Exploits Confirmed for Some</title>
-      <link>https://socradar.io/cisco-flaws-in-ise-cve-2025-20286-poc-exploits/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20286; Summary: A critical vulnerability in the Cisco ISE allows an unauthenticated attacker to access sensitive data, perform limited administrative tasks, modify configurations, or disrupt services. The vulnerability affects cloud deployments and has a CVSS score of 9.9, with proof-of-concept exploit code available.
-
-Vulnerable Product: Cisco Integrated Management Controllers (IMC); CVE(s): CVE-2025-20261; Summary: A high-severity vulnerability in the Cisco IMC allows an authenticated attacker to elevate privileges on various UCS platforms, including Blade Servers, S-Series and C-Series Servers, and X-Series Modular Systems. The attacker can exploit SSH misconfigurations to gain unauthorized access to internal services and create new admin accounts.
-
-Vulnerable Product: Cisco Nexus Dashboard Fabric Controller (NDFC); CVE(s): CVE-2025-20163; Summary: A high-severity vulnerability in the Cisco NDFC allows an attacker to perform a Man-in-the-Middle (MitM) attack to impersonate a managed device and intercept sensitive traffic.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060833</guid>
-      <pubDate>Thu, 05 Jun 2025 09:12:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
