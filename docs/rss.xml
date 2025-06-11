@@ -6,8 +6,169 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 17:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 18:08:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-340: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Technician API Incorrect Authorization Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-340/</link>
+      <description>Vulnerable Product: Autel; MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5822; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of Autel MaxiCharger AC Wallbox Commercial charging stations. An attacker must first obtain a low-privileged authorization token in order to exploit this vulnerability, which is caused by incorrect authorization within the implementation of the Autel Technician API.</description>
+      <guid isPermaLink="false">ZDI-CAN-26325</guid>
+      <pubDate>Wed, 11 Jun 2025 18:08:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-341: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Serial Number Exposed Dangerous Method Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-341/</link>
+      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5823; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers. Authentication is required to exploit this vulnerability, which exists within the implementation of the Autel Technician API due to an exposed dangerous method.</description>
+      <guid isPermaLink="false">ZDI-CAN-26351</guid>
+      <pubDate>Wed, 11 Jun 2025 18:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-342: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial PIN Missing Authentication Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-342/</link>
+      <description>Vulnerable Product: Autel; MaxiCharger AC Wallbox Commercial; CVE(s): ZDI-25-342, ZDI-CAN-26352; Summary: This vulnerability allows remote attackers to disclose sensitive information without authentication on affected installations of Autel's MaxiCharger AC Wallbox Commercial charging stations. The issue is due to the lack of authentication prior to accessing functionality, which can lead to credential disclosure and further compromise.</description>
+      <guid isPermaLink="false">ZDI-CAN-26352</guid>
+      <pubDate>Wed, 11 Jun 2025 18:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-343: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Origin Validation Error Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-343/</link>
+      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5824, ZDI-CAN-26353, ZDI-25-343; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of Autel MaxiCharger AC Wallbox Commercial by insufficiently validating the origin of commands. An attacker must first obtain the ability to pair a malicious Bluetooth device with the target system to exploit this vulnerability, which can be used to bypass authentication on the system.</description>
+      <guid isPermaLink="false">ZDI-CAN-26353</guid>
+      <pubDate>Wed, 11 Jun 2025 18:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-344: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Firmware Downgrade Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-344/</link>
+      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5825; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial charging stations by exploiting the lack of proper validation of a firmware image during the upgrade process. An attacker must first pair a malicious Bluetooth device with the target system to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-26354</guid>
+      <pubDate>Wed, 11 Jun 2025 18:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-345: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial ble_process_esp32_msg Misinterpretation of Input Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-345/</link>
+      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5826, ZDI-CAN-26368, ZDI-25-345; Summary: This vulnerability allows network-adjacent attackers to inject arbitrary AT commands on affected installations of Autel MaxiCharger AC Wallbox Commercial charging stations without authentication. The specific flaw exists within the ble_process_esp32_msg function due to misinterpretation of input data, which can be exploited to execute AT commands in the context of the device.</description>
+      <guid isPermaLink="false">ZDI-CAN-26368</guid>
+      <pubDate>Wed, 11 Jun 2025 18:06:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-346: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial ble_process_esp32_msg Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-346/</link>
+      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5827, ZDI-CAN-26369; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. The specific flaw exists within the ble_process_esp32_msg function due to lack of proper validation of user-supplied data, allowing attackers to execute code in the device's context.</description>
+      <guid isPermaLink="false">ZDI-CAN-26369</guid>
+      <pubDate>Wed, 11 Jun 2025 18:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-347: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial wLength Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-347/</link>
+      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5828; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. The flaw exists in the handling of USB frame packets and results from a lack of proper validation of user-supplied data length prior to copying it to a fixed-length buffer, allowing an attacker to execute code in the device's context.</description>
+      <guid isPermaLink="false">ZDI-CAN-26328</guid>
+      <pubDate>Wed, 11 Jun 2025 18:06:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-348: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial autocharge Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-348/</link>
+      <description>Vulnerable Product: Autel; Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5829; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. It exists within the handling of JSON messages and is caused by a lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer, allowing for remote code execution in the context of the device.</description>
+      <guid isPermaLink="false">ZDI-CAN-26330</guid>
+      <pubDate>Wed, 11 Jun 2025 18:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-349: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial DLB_SlaveRegister Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-349/</link>
+      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5830; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. The flaw exists in the handling of DLB_SlaveRegister messages due to insufficient validation of user-supplied data, allowing an attacker to execute code in the context of the device.</description>
+      <guid isPermaLink="false">ZDI-CAN-26327</guid>
+      <pubDate>Wed, 11 Jun 2025 18:05:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-350: Pioneer DMH-WT7600NEX Root Filesystem Insufficient Verification of Data Authenticity Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-350/</link>
+      <description>Vulnerable Product: Pioneer DMH-WT7600NEX; CVE(s): CVE-2025-5833; Summary: This vulnerability allows physically present attackers to bypass authentication on affected Pioneer DMH-WT7600NEX devices without requiring authentication. The issue exists within the operating system's configuration, resulting from insufficient protection for the root file system.</description>
+      <guid isPermaLink="false">ZDI-CAN-26077</guid>
+      <pubDate>Wed, 11 Jun 2025 18:05:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-351: Pioneer DMH-WT7600NEX Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-351/</link>
+      <description>Vulnerable Product: Pioneer DMH-WT7600NEX; CVE(s): CVE-2025-5834; Summary: This vulnerability allows local attackers to bypass authentication and escalate privileges, executing arbitrary code in the context of the boot process. The issue arises from a lack of a properly configured hardware root of trust within the application system-on-chip (SoC).</description>
+      <guid isPermaLink="false">ZDI-CAN-26078</guid>
+      <pubDate>Wed, 11 Jun 2025 18:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-352: Pioneer DMH-WT7600NEX Software Update Signing Insufficient Verification of Data Authenticity Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-352/</link>
+      <description>Vulnerable Product: Pioneer DMH-WT7600NEX; CVE(s): CVE-2025-5832; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Pioneer DMH-WT7600NEX devices without authentication. The specific flaw exists within the software update verification process, which lacks validation of all data. An attacker can leverage this vulnerability to execute code in the context of the device.</description>
+      <guid isPermaLink="false">ZDI-CAN-26079</guid>
+      <pubDate>Wed, 11 Jun 2025 18:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-353: (Pwn2Own) Sony XAV-AX8500 Bluetooth Packet Handling Integer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-353/</link>
+      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5475; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected Sony XAV-AX8500 devices by exploiting an integer overflow in Bluetooth packet handling. The attacker must first pair a malicious device with the target system to exploit this vulnerability, which results from a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26283</guid>
+      <pubDate>Wed, 11 Jun 2025 18:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-354: (Pwn2Own) Sony XAV-AX8500 Bluetooth L2CAP Protocol Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-354/</link>
+      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5477; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected devices by exploiting a heap-based buffer overflow in the Bluetooth L2CAP protocol. An attacker must pair a malicious device with the target system to exploit this vulnerability, and Sony has issued an update to correct it.</description>
+      <guid isPermaLink="false">ZDI-CAN-26286</guid>
+      <pubDate>Wed, 11 Jun 2025 18:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-355: (Pwn2Own) Sony XAV-AX8500 Bluetooth SDP Protocol Integer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-355/</link>
+      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5478; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Sony XAV-AX8500 devices without authentication. The issue results from an integer overflow in the Bluetooth SDP protocol due to lack of proper validation of user-supplied data, allowing an attacker to execute code in the context of root.</description>
+      <guid isPermaLink="false">ZDI-CAN-26288</guid>
+      <pubDate>Wed, 11 Jun 2025 18:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-356: (Pwn2Own) Sony XAV-AX8500 Bluetooth AVCTP Protocol Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-356/</link>
+      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5479; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Sony XAV-AX8500 devices by exploiting a heap-based buffer overflow in the Bluetooth AVCTP protocol. An attacker must pair a malicious Bluetooth device with the target system to exploit this vulnerability, which affects the length validation of user-supplied data prior to copying it to a buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26290</guid>
+      <pubDate>Wed, 11 Jun 2025 18:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-357: (Pwn2Own) Sony XAV-AX8500 Bluetooth Improper Isolation Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-357/</link>
+      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5476; Summary: The Sony XAV-AX8500 Bluetooth device has an improper isolation authentication bypass vulnerability, allowing network-adjacent attackers to bypass authentication without requiring any further interaction. The issue is due to the lack of L2CAP channel isolation in the implementation of ACL-U links, enabling attackers to exploit this flaw and gain unauthorized access.</description>
+      <guid isPermaLink="false">ZDI-CAN-26284</guid>
+      <pubDate>Wed, 11 Jun 2025 18:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-358: (Pwn2Own) Sony XAV-AX8500 Bluetooth ERTM Channel Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-358/</link>
+      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5820; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected Sony XAV-AX8500 devices without requiring authentication, exploiting a flaw in the implementation of Bluetooth ERTM channel communication due to improper channel data initialization.</description>
+      <guid isPermaLink="false">ZDI-CAN-26285</guid>
+      <pubDate>Wed, 11 Jun 2025 18:03:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot</title>
+      <link>https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/</link>
+      <description>Vulnerable Product: Microsoft 365 Copilot; CVE(s): CVE-2025-32711; Summary: A zero-click AI vulnerability, dubbed EchoLeak, allows attackers to exfiltrate sensitive data from a user's context without interaction. The vulnerability was fixed server-side in May and no real-world exploitation has been observed.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/</guid>
+      <pubDate>Wed, 11 Jun 2025 17:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former Black Basta Members Use Microsoft Teams and Python Scripts in 2025 Attacks</title>
+      <link>https://thehackernews.com/2025/06/former-black-basta-members-use.html</link>
+      <description>Former Black Basta ransomware operation members are using Teams phishing and email bombing to establish persistent access to target networks, with some attacks leveraging Python script execution and others using Quick Assist and AnyDesk for remote desktop sessions. Additionally, the article discusses various ransomware groups' tactics, techniques, and procedures (TTPs), including Scattered Spider's "one-to-many" approach, Qilin's exploitation of Fortinet vulnerabilities, and Interlock's use of NodeSnake JavaScript RAT.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/former-black-basta-members-use.html</guid>
+      <pubDate>Wed, 11 Jun 2025 17:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insyde UEFI Application Vulnerability Enables Digital Certificate Injection Through NVRAM Variable</title>
+      <link>https://gbhackers.com/insyde-uefi-application-vulnerability/</link>
+      <description>Vulnerable Product: Insyde H2O UEFI firmware; CVE(s): CVE-2025-XXXX; Summary: A critical vulnerability in Insyde H2O UEFI firmware allows attackers to bypass Secure Boot protections by injecting malicious digital certificates via an unprotected NVRAM variable. This flaw exposes millions of devices to pre-boot malware and kernel-level rootkits that evade traditional security monitoring, enabling three primary attack vectors including bypassing Secure Boot, neutralizing Endpoint Detection and Response (EDR) or antivirus (AV) systems, and opening the door to supply chain attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141738</guid>
+      <pubDate>Wed, 11 Jun 2025 17:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outlook Vulnerability Allows Remote Execution of Arbitrary Code by Attackers</title>
+      <link>https://gbhackers.com/outlook-vulnerability-allows-remote-execution/</link>
+      <description>Vulnerable Product: Microsoft Outlook; CVE(s): CVE-2025-47176; Summary: The vulnerability enables attackers to execute arbitrary code via a local file handling issue. Attackers with low privileges and local access can manipulate the process to execute arbitrary code by manipulating special characters or path sequences in file or attachment names, potentially compromising data confidentiality, integrity, and availability.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141726</guid>
+      <pubDate>Wed, 11 Jun 2025 17:02:35 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers exploited Windows WebDav zero-day to drop malware</title>
       <link>https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/</link>
@@ -1282,171 +1443,6 @@ FYSA: The article highlights the vulnerability of Ukraine's Internet infrastruct
       <description>Vulnerable Product: Hewlett Packard Enterprise Insight Remote Support; CVE(s): CVE-2025-37099; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations without authentication. The issue occurs due to the lack of proper validation of a user-supplied path prior to using it in file operations, enabling an attacker to execute code in the context of SYSTEM.</description>
       <guid isPermaLink="false">ZDI-CAN-25954</guid>
       <pubDate>Thu, 05 Jun 2025 19:03:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Chaos RAT Targets Linux and Windows Users to Steal Sensitive Data</title>
-      <link>https://gbhackers.com/new-chaos-rat-targets-linux-and-windows-users/</link>
-      <description>Vulnerable Product: Chaos RAT; CVE(s): CVE-2024-30850, CVE-2024-31839; Summary: Chaos RAT is a remote administration tool that allows attackers to deploy payloads across diverse systems. The latest variants target both Linux and Windows environments with sophisticated capabilities for espionage and data exfiltration. A critical vulnerability in its web panel (CVE-2024-30850) allows remote code execution on the server itself, while an XSS issue (CVE-2024-31839) underscores its dual-edged nature as a tool for attackers and a potential target for counter-exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140796</guid>
-      <pubDate>Thu, 05 Jun 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ViperSoftX Malware Enhances Modularity, Stealth, and Persistence Techniques</title>
-      <link>https://gbhackers.com/vipersoftx-malware-enhances-modularity/</link>
-      <description>The article discusses a new variant of the ViperSoftX stealer malware that uses PowerShell and showcases advancements in modularity, stealth, and persistence mechanisms. It targets cryptocurrency users and enterprises, and its features include enhanced operational security, dynamic adaptability, and persistence mechanisms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140782</guid>
-      <pubDate>Thu, 05 Jun 2025 18:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China Accuses Taiwan of Operating APT Groups with US Support</title>
-      <link>https://gbhackers.com/china-accuses-taiwan-of-operating-apt-groups/</link>
-      <description>Vulnerable Product: None; Summary: The article reports on Chinese allegations of Taiwan-based Advanced Persistent Threat (APT) groups conducting long-term cyber espionage and sabotage against critical infrastructure, government bodies, and key industries in China, Hong Kong, and Macao. These groups are accused of stealing sensitive intelligence, collaborating with the US government, and using tactics such as phishing campaigns, exploiting known vulnerabilities, and deploying open-source tools for initial access and persistence.
-
-FYSA: The article discusses the alleged activities of Taiwan-based APT groups, referred to as "T-APTs," which are claimed to be supported by Taiwan's Information, Communications and Electronic Force Command (ICEFCOM) and have close ties with the United States. These groups are accused of conducting cyber warfare, public opinion manipulation, and cognitive warfare against China, acting as proxies for a so-called "color revolution."</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140818</guid>
-      <pubDate>Thu, 05 Jun 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Everyone's on the cyber target list</title>
-      <link>https://blog.talosintelligence.com/everyones-on-the-cyber-target-list/</link>
-      <description>This article is not about a vulnerability, but it contains cybersecurity-relevant content. The summary should focus on threat actors, tactics, infrastructure, scams, or impacts.
-
-FYSA: The article discusses the importance of cybersecurity awareness and the need for basic cyber hygiene. It highlights the fact that anyone can be a victim of a cyber attack and emphasizes the importance of ensuring endpoint security, monitoring for unusual administrative activity, and staying informed on evolving threats to mitigate potential risks. Additionally, the article mentions various cybersecurity-related events and conferences.</description>
-      <guid isPermaLink="false">68409ed526e1af0001c783cf</guid>
-      <pubDate>Thu, 05 Jun 2025 18:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Fake Zoom Client Downloads Granting Attackers Access to Your Computer</title>
-      <link>https://gbhackers.com/beware-of-fake-zoom-client-downloads-granting-attackers/</link>
-      <description>This article describes a phishing campaign that exploits the popularity of Zoom by tricking users into downloading malicious software under the guise of a legitimate update. The attack begins with a fake Zoom meeting invitation and ultimately installs a malware payload that grants attackers unrestricted access to the compromised system, allowing for data theft, ransomware deployment, or further network infiltration.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140770</guid>
-      <pubDate>Thu, 05 Jun 2025 17:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Old AT&amp;T data leak repackaged to link SSNs, DOBs to 49M phone numbers</title>
-      <link>https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/</link>
-      <description>A threat actor has re-released data from a 2021 AT&amp;T breach affecting 70 million customers, combining previously separate files to directly link Social Security numbers and birth dates to individual users. The leaked data is actually from the same 2021 breach that exposed 73 million customers' information, not a new leak.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/</guid>
-      <pubDate>Thu, 05 Jun 2025 17:21:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Admins Cautioned About Fake Cache Plugin Stealing Admin Credentials</title>
-      <link>https://gbhackers.com/wordpress-admins-cautioned-about-fake-cache-plugin/</link>
-      <description>Vulnerable Product: WordPress; CVE(s): None; Summary: A malicious plugin dubbed "wp-runtime-cache" targets WordPress sites to steal admin credentials. The plugin hides in the wp-content/plugins directory and activates during site login events, capturing user input and exfiltrating sensitive data to a remote server. It specifically targets high-privilege users and employs code obfuscation techniques to remain undetected.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140751</guid>
-      <pubDate>Thu, 05 Jun 2025 17:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker selling critical Roundcube webmail exploit as tech info disclosed</title>
-      <link>https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/</link>
-      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2025-49113, CVE-2025-48745 (rejected as duplicate candidate); Summary: A critical remote code execution vulnerability (CVE-2025-49113) exists in Roundcube open-source webmail application versions 1.1.0 through 1.6.10. The vulnerability allows attackers to execute malicious code after authentication, and an exploit is already available for sale on underground forums.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/</guid>
-      <pubDate>Thu, 05 Jun 2025 16:55:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials</title>
-      <link>https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html</link>
-      <description>Vulnerable Product: Multiple Google Chrome extensions; CVE(s): None; Summary: Several popular Google Chrome extensions have been found to transmit sensitive data in HTTP, exposing users to privacy and security risks. The extensions hard-code secrets in their code, making them susceptible to adversary-in-the-middle (AitM) attacks, allowing malicious actors on the same network to intercept and modify the transmitted data.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html</guid>
-      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to build a robust Windows service to block malware and ransomware</title>
-      <link>https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/</link>
-      <description>This article discusses designing a security-focused Windows Service with principles such as minimal attack surface, real-time monitoring and response, robustness and resilience, scalability and performance. It also explores the components involved in building a robust security service, including monitoring engine, analysis and detection module, response and mitigation unit, logging and reporting, and communication interface.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/</guid>
-      <pubDate>Thu, 05 Jun 2025 14:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Designing a Windows Service for Security</title>
-      <link>https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/</link>
-      <description>The article discusses the importance of designing a robust Windows Service with minimal attack surface, real-time monitoring, and response capabilities. It highlights five key design principles for developing an effective Windows Service: minimizing attack surface, real-time monitoring and response, robustness and resilience, scalability and performance, and logging and reporting.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/</guid>
-      <pubDate>Thu, 05 Jun 2025 14:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands</title>
-      <link>https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html</link>
-      <description>The article discusses the threat actor Bitter, also known as APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397. It is a state-backed hacking group that targets governments, diplomatic entities, and defense organizations to gather intelligence aligned with the interests of the Indian government. The group uses spear-phishing emails and masquerades as government and diplomatic entities from various countries to entice recipients into malware-laced attachments.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html</guid>
-      <pubDate>Thu, 05 Jun 2025 13:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odoo Employee Database Allegedly Exposed and Put Up for Sale on Dark Web</title>
-      <link>https://gbhackers.com/odoo-database-allegedly-exposed/</link>
-      <description>A data breach at Odoo, a Belgian provider of open-source business management software, has reportedly occurred. The breach allegedly involves a compromised employee database, with the seller demanding $25,000 in cryptocurrency for its release. The incident highlights the persistent threat posed by insiders in enterprise environments, emphasizing the importance of robust access controls and vigilant monitoring of privileged accounts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140748</guid>
-      <pubDate>Thu, 05 Jun 2025 13:44:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Members of ViLE Hacker Group Arrested for Hacking DEA Portal</title>
-      <link>https://gbhackers.com/vile-hacker-group-arrested/</link>
-      <description>Two members of the ViLE cybercriminal group were sentenced for a high-profile hacking and extortion scheme targeting a U.S. federal law enforcement web portal. The group specialized in "doxing" and used stolen credentials, impersonation, and social engineering tactics to obtain sensitive personal data and extort victims.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140747</guid>
-      <pubDate>Thu, 05 Jun 2025 13:44:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Dell PowerScale Vulnerability Allows Attackers Unauthorized Access to Filesystem</title>
-      <link>https://gbhackers.com/critical-dell-powerscale-vulnerability/</link>
-      <description>Vulnerable Product: Dell Technologies PowerScale OneFS; CVE(s): CVE-2024-53298, CVE-2025-32753; Summary: A critical vulnerability (CVE-2024-53298) allows unauthenticated remote attackers to gain unauthorized access to the file system, potentially enabling them to read, modify, or delete arbitrary files. Another vulnerability (CVE-2025-32753) is an SQL injection issue that can be triggered by sending specially crafted requests to the affected application, allowing a low-privileged local attacker to execute arbitrary SQL queries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140746</guid>
-      <pubDate>Thu, 05 Jun 2025 12:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>TA397 Hackers Exploits Scheduled Tasks to Deploy Malware on Targeted Systems</title>
-      <link>https://gbhackers.com/ta397-hackers-exploits-scheduled-tasks-to-deploy-malware/</link>
-      <description>A suspected state-backed threat actor, TA397 (also known as Bitter), has been identified by Proofpoint Threat Research. The group is believed to be aligned with Indian intelligence interests and targets entities in Europe and Asia, particularly those connected to China, Pakistan, and the Indian subcontinent. Their tactics include spearphishing, scheduled tasks for malware deployment, and manual payload delivery, showcasing adaptability and consistency in evading detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140714</guid>
-      <pubDate>Thu, 05 Jun 2025 12:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/05/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Google Chromium V8; CVE(s): CVE-2025-5419; Summary: This out-of-bounds read and write vulnerability in Google Chromium V8 poses significant risks to the federal enterprise, as it is a frequent attack vector for malicious cyber actors. The vulnerability has been added to CISA's Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation.</description>
-      <guid isPermaLink="false">/node/23475</guid>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/05/cisa-releases-seven-industrial-control-systems-advisories</link>
-      <description>This article does not describe a specific vulnerability, but rather announces the release of seven Industrial Control Systems (ICS) advisories by CISA. These advisories provide information about current security issues and vulnerabilities in various ICS products from Hitachi Energy and Mitsubishi Electric.</description>
-      <guid isPermaLink="false">/node/23479</guid>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy Relion 670, 650 Series and SAM600-IO Product</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-155-02</link>
-      <description>Vulnerable Product: Hitachi Energy Relion 670, Relion 650, SAM600-IO; CVE(s): CVE-2020-28895, CVE-2020-35198; Summary: Integer Overflow or Wraparound vulnerabilities in the memory allocator of Wind River VxWorks allow an attacker to cause memory corruption on affected products.</description>
-      <guid isPermaLink="false">/node/23478</guid>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberData 011209 SIP Emergency Intercom</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-155-01</link>
-      <description>Vulnerable Product: CyberData Equipment 011209 SIP Emergency Intercom; CVE(s): CVE-2025-30184, CVE-2025-26468, CVE-2025-30507, CVE-2025-30183, CVE-2025-30515; Summary: The 011209 SIP Emergency Intercom has multiple vulnerabilities, including authentication bypass, SQL injection, insufficiently protected credentials, and path traversal. Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information, cause a denial-of-service condition, or achieve code execution.</description>
-      <guid isPermaLink="false">/node/23477</guid>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware NSX XSS Vulnerability Exposes Systems to Malicious Code Injection</title>
-      <link>https://gbhackers.com/vmware-nsx-xss-vulnerability/</link>
-      <description>Vulnerable Product: VMware NSX; CVE(s): CVE-2025-22243, CVE-2025-22244, and CVE-2025-22245; Summary: Three stored Cross-Site Scripting (XSS) vulnerabilities were discovered in VMware NSX, affecting the NSX Manager UI, gateway firewall, and router port components. Authenticated attackers can inject malicious scripts that execute when affected interfaces are viewed by other users, exposing organizations to potential code injection attacks if left unpatched.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140694</guid>
-      <pubDate>Thu, 05 Jun 2025 11:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit New HTML Trick to Deceive Outlook Users into Clicking Malicious Links</title>
-      <link>https://gbhackers.com/hackers-exploit-new-html-trick-to-deceive-outlook-users/</link>
-      <description>Cybercriminals have employed a sophisticated phishing email campaign targeting Czech bank customers, using HTML conditional statements to exploit differences in email client rendering and bypass security measures. The tactic displays different links based on the email client or browser used, potentially tricking users into clicking malicious links. This approach highlights the attackers' understanding of user behavior and corporate security landscapes, emphasizing the importance of staying vigilant against evolving cyber threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140700</guid>
-      <pubDate>Thu, 05 Jun 2025 11:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wireshark Vulnerability Allows Attackers to Launch DoS Attacks</title>
-      <link>https://gbhackers.com/wireshark-vulnerability/</link>
-      <description>Vulnerable Product: Wireshark; CVE(s): CVE-2025-5601; Summary: The vulnerability allows attackers to cause a denial of service (DoS) by injecting malformed packets onto a network or by convincing a user to open a specially crafted capture file. The flaw stems from a bug in the column utility module used by Wireshark's dissectors, which can be triggered during live packet capture or when analyzing saved packet trace files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140723</guid>
-      <pubDate>Thu, 05 Jun 2025 11:55:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
