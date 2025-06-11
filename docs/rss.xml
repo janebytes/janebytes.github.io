@@ -6,8 +6,45 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 22:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 10:04:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>HPE Aruba Network Flaw Exposes Sensitive Data to Potential Hackers</title>
+      <link>https://gbhackers.com/hpe-aruba-network-flaw/</link>
+      <description>Vulnerable Product: HPE Aruba Networking Private 5G Core Platform; CVE(s): CVE-2025-37100; Summary: A high-severity vulnerability in the API implementation of the Private 5G Core Platform allows unauthorized access to sensitive system files, posing a risk to enterprise confidentiality and infrastructure integrity. Exploitation can occur remotely with valid credentials or authentication to the system, enabling attackers to download protected system files containing sensitive information.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141640</guid>
+      <pubDate>Wed, 11 Jun 2025 09:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patches 67 Vulnerabilities Including WEBDAV Zero-Day Exploited in the Wild</title>
+      <link>https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html</link>
+      <description>Vulnerable Product: Microsoft WEBDAV; CVE(s): CVE-2025-33053; Summary: A remote code execution flaw in Web Distributed Authoring and Versioning (WEBDAV) has been weaponized in real-world attacks, allowing an attacker to execute malware by deceiving users into clicking on a specially crafted URL. The vulnerability, rated Critical, can be triggered by manipulating the working directory and is exploited through a .url file that launches iediagcmd.exe, which then executes another payload called Horus Loader.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html</guid>
+      <pubDate>Wed, 11 Jun 2025 07:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insyde UEFI Flaw Enables Digital Certificate Injection via NVRAM Variable</title>
+      <link>https://gbhackers.com/insyde-uefi-flaw/</link>
+      <description>Vulnerable Product: Insyde H2O UEFI firmware; CVE(s): CVE-2025-4275; Summary: A critical vulnerability in the SecureFlashCertData NVRAM variable allows attackers to inject malicious digital certificates and bypass Secure Boot protections, enabling pre-boot execution of unsigned code. This flaw enables severe risks to enterprise and consumer devices, allowing for persistence across reboots and OS reinstalls.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141634</guid>
+      <pubDate>Wed, 11 Jun 2025 06:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple Chrome Flaws Enable Remote Code Execution by Attackers</title>
+      <link>https://gbhackers.com/multiple-chrome-flaws/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5958, CVE-2025-5959; Summary: The Stable channel of Google Chrome has been updated to version 137.0.7151.103 for Windows and Mac, and 137.0.7151.103 for Linux. Two high-severity security vulnerabilities have been addressed: a use-after-free condition in the Chrome Media component (CVE-2025-5958) that can lead to arbitrary code execution or denial-of-service attacks, and a type confusion vulnerability in the V8 JavaScript engine (CVE-2025-5959) that can be leveraged for remote code execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141625</guid>
+      <pubDate>Wed, 11 Jun 2025 06:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday, June 2025 Edition</title>
+      <link>https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33053, CVE-2025-33073; Summary: The article reports on multiple vulnerabilities in Microsoft Windows operating systems and software. One vulnerability, CVE-2025-33053, is a remote code execution flaw in the Windows implementation of WebDAV, which has already been exploited. Another vulnerability, CVE-2025-33073, is an elevation of privilege flaw in the SMB client, which can grant attackers SYSTEM-level control over a vulnerable PC.
+
+FYSA: Several cybersecurity-relevant details are highlighted in the article, including the exploitation of a zero-day flaw and public proof-of-concept code for another flaw.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71465</guid>
+      <pubDate>Wed, 11 Jun 2025 00:10:53 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-332: Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-332/</link>
@@ -70,6 +107,15 @@
       <description>Vulnerable Product: DanaBot Malware; CVE(s): None; Summary: A vulnerability in the DanaBot malware operation introduced in June 2022 allowed security researchers to gain insight into the malware's internal operations and the people behind it, leading to the identification, indictment, and dismantling of their operations. The "DanaBleed" flaw was a memory leak that exposed private data, including threat actor details, backend infrastructure, and victim data, for over three years.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/</guid>
       <pubDate>Tue, 10 Jun 2025 21:46:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday for June 2025 — Snort rules and prominent vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-june-2025/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32710, CVE-2025-29828, CVE-2025-33071, CVE-2025-47172, CVE-2025-47162, CVE-2025-47164, CVE-2025-47167, CVE-2025-47953; Summary: The vulnerabilities affect various Microsoft Windows services and applications, including Remote Desktop Services, Schannel (Secure Channel), KDC Proxy service, Microsoft Office, and SharePoint server. They are remote code execution (RCE) or elevation of privilege vulnerabilities with varying attack complexities and exploitation likelihoods.
+
+FYSA: None</description>
+      <guid isPermaLink="false">6848785af23a7100010e4c1a</guid>
+      <pubDate>Tue, 10 Jun 2025 21:45:40 +0000</pubDate>
     </item>
     <item>
       <title>ConnectWise rotating code signing certificates over security concerns</title>
@@ -1407,50 +1453,6 @@ Vulnerable Product: Cisco Nexus Dashboard Fabric Controller (NDFC); CVE(s): CVE-
       <description>Vulnerable Product: Microsoft Outlook; CVE(s): None; Summary: The article describes a sophisticated phishing technique that exploits Microsoft Outlook's handling of HTML emails to conceal malicious links from corporate users. The technique uses conditional HTML comments to display different content depending on the email client used, allowing attackers to show a legitimate URL in Outlook while redirecting others to a credential-harvesting site.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140607</guid>
       <pubDate>Thu, 05 Jun 2025 07:10:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>US offers $10M for tips on state hackers tied to RedLine malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/</link>
-      <description>The U.S. Department of State has announced a reward of up to $10 million for information on government-sponsored hackers with ties to the RedLine infostealer malware operation and its suspected creator, Russian national Maxim Alexandrovich Rudometov. This bounty covers leads on state hackers' use of this malware in cyber operations targeting critical infrastructure organizations in the United States.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/</guid>
-      <pubDate>Thu, 05 Jun 2025 06:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI</title>
-      <link>https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20286; Summary: A critical security flaw in Cisco ISE allows unauthenticated actors to access sensitive data, execute limited administrative operations, or disrupt services. The vulnerability stems from improper generation of static credentials when deploying Cisco ISE on cloud platforms, causing different deployments to share the same credentials.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html</guid>
-      <pubDate>Thu, 05 Jun 2025 05:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft unveils free EU cybersecurity program for governments</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/</link>
-      <description>FYSA:
-
-The article announces Microsoft's new European Security Program, which aims to enhance cybersecurity for European governments by leveraging artificial intelligence, strengthening partnerships, and providing real-time threat insights. The program targets nation-state actors from Russia, Iran, China, and North Korea, who are believed to be engaged in espionage activities against the EU.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/</guid>
-      <pubDate>Wed, 04 Jun 2025 20:36:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI: Play ransomware breached 900 victims, including critical orgs</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/</link>
-      <description>The FBI reported that the Play ransomware gang has breached approximately 900 organizations as of May 2025, using recompiled malware to evade detection. The gang also uses social engineering tactics, including phone calls, to pressure victims into paying ransoms. Additionally, initial access brokers have exploited vulnerabilities in remote monitoring and management tools to target US organizations.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/</guid>
-      <pubDate>Wed, 04 Jun 2025 20:06:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker arrested for breaching 5,000 hosting accounts to mine crypto</title>
-      <link>https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/</link>
-      <description>A 35-year-old hacker was arrested by Ukrainian police for breaching over 5,000 accounts at an international hosting company and using them to mine cryptocurrency, resulting in $4.5 million in damages. The hacker used open-source intelligence to find and breach vulnerable infrastructure since 2018 and had multiple accounts on hacker forums.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/</guid>
-      <pubDate>Wed, 04 Jun 2025 19:38:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco warns of ISE and CCP flaws with public exploit code</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and Customer Collaboration Platform (CCP); CVE(s): CVE-2025-20286, CVE-2025-20130, CVE-2025-20129; Summary: The vulnerabilities allow unauthenticated attackers to access sensitive data, execute limited administrative operations, or disrupt services. The most severe vulnerability, CVE-2025-20286, is a critical static credential vulnerability that can be exploited by extracting user credentials from cloud deployments and using them to access installations in other cloud environments.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/</guid>
-      <pubDate>Wed, 04 Jun 2025 19:19:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
