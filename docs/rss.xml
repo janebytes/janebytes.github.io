@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 10:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 11:02:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Apache CloudStack Flaw Allows Attackers to Execute Privileged Actions</title>
+      <link>https://gbhackers.com/apache-cloudstack-flaw/</link>
+      <description>Vulnerable Product: Apache CloudStack; CVE(s): CVE-2025-26521, CVE-2025-47713, CVE-2025-30675, CVE-2025-47849, CVE-2025-22829; Summary: Five critical security vulnerabilities were found in Apache CloudStack, including a privilege escalation flaw allowing Domain Admins to reset admin passwords and a vulnerability that enables attackers to impersonate the cluster creator. Upgrading to version 4.19.3.0 or 4.20.1.0 is recommended to remediate these issues.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141655</guid>
+      <pubDate>Wed, 11 Jun 2025 10:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>SinoTrack GPS Devices Vulnerable to Remote Vehicle Control via Default Passwords</title>
+      <link>https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html</link>
+      <description>Vulnerable Product: SinoTrack; CVE(s): CVE-2025-5484, CVE-2025-5485; Summary: Two vulnerabilities in SinoTrack GPS devices allow an attacker to access device profiles without authorization, enabling remote functions on connected vehicles such as tracking locations and disconnecting power to the fuel pump. The flaws stem from weak authentication using a default password and a numerical identifier printed on the receiver.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html</guid>
+      <pubDate>Wed, 11 Jun 2025 10:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build a Lean Security Model: 5 Lessons from River Island</title>
+      <link>https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html</link>
+      <description>The article discusses how River Island, a UK fashion retailer, implemented a lean security model using Intruder's exposure management platform. This allowed their small team of three to improve visibility, respond faster to threats, and empower others across the business to fix vulnerabilities. The approach involves adopting continuous network monitoring, consolidating security tools, and automating vulnerability scanning and remediation processes.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html</guid>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HPE Aruba Network Flaw Exposes Sensitive Data to Potential Hackers</title>
       <link>https://gbhackers.com/hpe-aruba-network-flaw/</link>
@@ -1432,27 +1453,6 @@ Vulnerable Product: Cisco Nexus Dashboard Fabric Controller (NDFC); CVE(s): CVE-
       <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20286; Summary: The ISE vulnerability occurs when deployed on AWS, Azure, or OCI, allowing attackers to access other ISE instances with the same software release and platform using extracted credentials. This can lead to unauthorized access, data exposure, configuration changes, and service disruptions.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140627</guid>
       <pubDate>Thu, 05 Jun 2025 08:04:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Authorities Shut Down Major Dark Web Marketplace with 117,000 Users</title>
-      <link>https://gbhackers.com/u-s-authorities-shut-down-dark-web-marketplace/</link>
-      <description>Vulnerable Product: BidenCash; CVE(s): None; Summary: The BidenCash marketplace, operational since March 2022, was seized by law enforcement authorities, resulting in the confiscation of cryptocurrency funds and disruption of illicit transactions. The platform specialized in carding (trafficking stolen credit card data) and sold compromised credentials, including SSH access, generating upwards of $17 million in revenue.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140624</guid>
-      <pubDate>Thu, 05 Jun 2025 07:41:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interlock ransomware claims Kettering Health breach, leaks stolen data</title>
-      <link>https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/</link>
-      <description>The Interlock ransomware gang has claimed responsibility for a cyberattack on the Kettering Health healthcare network, leaking data allegedly stolen from breached systems. The incident affected over 15,000 employees and led to system outages and cancellations of elective procedures.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/</guid>
-      <pubDate>Thu, 05 Jun 2025 07:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outlook Users Targeted by New HTML-Based Phishing Scheme</title>
-      <link>https://gbhackers.com/outlook-html-based-phishing/</link>
-      <description>Vulnerable Product: Microsoft Outlook; CVE(s): None; Summary: The article describes a sophisticated phishing technique that exploits Microsoft Outlook's handling of HTML emails to conceal malicious links from corporate users. The technique uses conditional HTML comments to display different content depending on the email client used, allowing attackers to show a legitimate URL in Outlook while redirecting others to a credential-harvesting site.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140607</guid>
-      <pubDate>Thu, 05 Jun 2025 07:10:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
