@@ -6,8 +6,155 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 21:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 22:06:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-360: Trend Micro Worry-Free Business Security Uncontrolled Search Path Element Arbitrary Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-360/</link>
+      <description>Vulnerable Product: Trend Micro, Worry-Free Business Security; CVE(s): CVE-2025-49487; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Trend Micro Worry-Free Business Security without authentication. The specific flaw exists within the configuration of OpenSSL, which loads an unsecured configuration file from a certain location.</description>
+      <guid isPermaLink="false">ZDI-CAN-23056</guid>
+      <pubDate>Wed, 11 Jun 2025 22:06:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-361: Trend Micro Password Manager Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-361/</link>
+      <description>Vulnerable Product: Trend Micro Password Manager; CVE(s): CVE-2025-48443; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Password Manager, requiring low-privileged code execution and an administrator's install action. The specific flaw exists within the product installer, enabling arbitrary file deletion and privilege escalation.</description>
+      <guid isPermaLink="false">ZDI-CAN-25574</guid>
+      <pubDate>Wed, 11 Jun 2025 22:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-362: Trend Micro Apex One Data Loss Prevention Uncontrolled Search Path Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-362/</link>
+      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-49155; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex One Security Agent by loading a DLL from an uncontrolled search path. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-24571</guid>
+      <pubDate>Wed, 11 Jun 2025 22:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-363: Trend Micro Apex One Virus Scan Engine Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-363/</link>
+      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-49156; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Apex One Security Agent by creating a symbolic link within the VsapiNT.sys kernel module. An attacker must first obtain low-privileged code execution and configure the product for non-default malware remediation.</description>
+      <guid isPermaLink="false">ZDI-CAN-24973</guid>
+      <pubDate>Wed, 11 Jun 2025 22:05:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-364: Trend Micro Apex One Damage Cleanup Engine Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-364/</link>
+      <description>Vulnerable Product: Trend Micro Apex One Security Agent; CVE(s): CVE-2025-49157, ZDI-CAN-25273; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Apex One Security Agent. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-25273</guid>
+      <pubDate>Wed, 11 Jun 2025 22:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-365: Trend Micro Apex One Security Agent ntrmv Uncontrolled Search Path Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-365/</link>
+      <description>Vulnerable Product: Trend Micro Apex One Security Agent; CVE(s): CVE-2025-49158; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Apex One Security Agent by exploiting the product's uninstaller, which executes a program from an unsecured location. An attacker must first obtain low-privileged code execution and then persuade an administrator to uninstall the Security Agent in order to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-25771</guid>
+      <pubDate>Wed, 11 Jun 2025 22:05:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-366: Trend Micro Apex Central GetReportDetailView Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-366/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-49219; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central without authentication. The issue is due to the lack of proper validation of user-supplied data, leading to deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25286</guid>
+      <pubDate>Wed, 11 Jun 2025 22:04:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-367: Trend Micro Apex Central ConvertFromJson Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-367/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-49220; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central without authentication. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25495</guid>
+      <pubDate>Wed, 11 Jun 2025 22:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-368: Trend Micro Endpoint Encryption BuildEnterpriseSearchString SQL Injection Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-368/</link>
+      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49211, ZDI-CAN-25528, ZDI-25-368; Summary: The vulnerability allows remote attackers to escalate privileges on affected installations of Trend Micro Endpoint Encryption by bypassing the existing authentication mechanism. It exists within the implementation of the BuildEnterpriseSearchString method due to lack of proper validation of user-supplied strings used to construct SQL queries.</description>
+      <guid isPermaLink="false">ZDI-CAN-25528</guid>
+      <pubDate>Wed, 11 Jun 2025 22:04:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-369: Trend Micro Endpoint Encryption PolicyValueTableSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-369/</link>
+      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49212; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Endpoint Encryption without authentication. The issue exists within the PolicyValueTableSerializationBinder class due to a lack of proper validation of user-supplied data, leading to deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25507</guid>
+      <pubDate>Wed, 11 Jun 2025 22:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-370: Trend Micro Endpoint Encryption PolicyServerWindowsService Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-370/</link>
+      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49213, ZDI-CAN-25506, ZDI-25-370; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Endpoint Encryption. Authentication is not required to exploit this vulnerability, and the specific flaw exists within the PolicyServerWindowsService class due to lack of proper validation of user-supplied data leading to deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25506</guid>
+      <pubDate>Wed, 11 Jun 2025 22:03:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-371: Trend Micro Endpoint Encryption DeserializeFromBase64String Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-371/</link>
+      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49212; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Endpoint Encryption by deserializing untrusted data. The existing authentication mechanism can be bypassed, and the attack can be executed in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-25518</guid>
+      <pubDate>Wed, 11 Jun 2025 22:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-372: Trend Micro Endpoint Encryption GetGroupFilteredUsers SQL Injection Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-372/</link>
+      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49215; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of Trend Micro Endpoint Encryption, bypassing authentication. The issue exists in the implementation of the GetGroupFilteredUsers method and results from improper validation of user-supplied strings used to construct SQL queries. An attacker can leverage this vulnerability to gain elevated access to resources normally protected.</description>
+      <guid isPermaLink="false">ZDI-CAN-25527</guid>
+      <pubDate>Wed, 11 Jun 2025 22:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-373: Trend Micro Endpoint Encryption DbAppDomain Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-373/</link>
+      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49216; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Trend Micro Endpoint Encryption, without requiring authentication. The issue is due to an improper implementation of an authentication algorithm in the DbAppDomain service, which can be exploited to gain access to the system.</description>
+      <guid isPermaLink="false">ZDI-CAN-25519</guid>
+      <pubDate>Wed, 11 Jun 2025 22:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-374: Trend Micro Endpoint Encryption ValidateToken Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-374/</link>
+      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49217; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Endpoint Encryption without authentication. The specific flaw exists within the implementation of the ValidateToken method, which lacks proper validation of user-supplied data, resulting in deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25505</guid>
+      <pubDate>Wed, 11 Jun 2025 22:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-375: Trend Micro Endpoint Encryption ProcessWhereClause SQL Injection Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-375/</link>
+      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49218; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of Trend Micro Endpoint Encryption, bypassing existing authentication mechanisms. The flaw exists in the ProcessWhereClause method's lack of proper validation of user-supplied strings before constructing SQL queries, allowing attackers to escalate privileges to normally protected resources.</description>
+      <guid isPermaLink="false">ZDI-CAN-25526</guid>
+      <pubDate>Wed, 11 Jun 2025 22:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-376: (Pwn2Own) Ubiquiti Networks AI Bullet Improper Certificate Validation Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-376/</link>
+      <description>Vulnerable Product: Ubiquiti Networks; AI Bullet; CVE(s): CVE-2025-23118; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected Ubiquiti Networks AI Bullet cameras. Authentication is not required to exploit this vulnerability, and an attacker can leverage it to bypass authentication on the system due to improper certificate validation in the ubnt_avclient component.</description>
+      <guid isPermaLink="false">ZDI-CAN-25666</guid>
+      <pubDate>Wed, 11 Jun 2025 22:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-377: (Pwn2Own) Ubiquiti Networks AI Bullet Improper Neutralization of Escape Sequences Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-377/</link>
+      <description>Vulnerable Product: Ubiquiti Networks; AI Bullet; CVE(s): CVE-2025-23119; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected Ubiquiti Networks AI Bullet cameras. Authentication is not required to exploit this vulnerability, which exists within the processing of DHCP packet options due to insufficient neutralization of special characters.</description>
+      <guid isPermaLink="false">ZDI-CAN-25603</guid>
+      <pubDate>Wed, 11 Jun 2025 22:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-378: (Pwn2Own) Ubiquiti Networks UniFi Console Missing Authentication for Critical Function Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-378/</link>
+      <description>Vulnerable Product: Ubiquiti Networks UniFi Console; CVE(s): CVE-2025-23116, ZDI-CAN-25588, ZDI-25-378; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected UniFi Console devices. Authentication is not required to exploit this vulnerability, which exists within the handling of bridge device adoption requests. An attacker can leverage this vulnerability to bypass authentication and disclose credentials for accessing connected devices.</description>
+      <guid isPermaLink="false">ZDI-CAN-25588</guid>
+      <pubDate>Wed, 11 Jun 2025 22:01:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-379: (Pwn2Own) Ubiquiti Networks AI Bullet Insufficient Firmware Update Validation Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-379/</link>
+      <description>Vulnerable Product: Ubiquiti Networks AI Bullet; CVE(s): CVE-2025-23117; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected Ubiquiti Networks AI Bullet Cameras, bypassing existing authentication mechanisms. The specific flaw exists within the handling of firmware updates, resulting from the lack of proper validation of firmware update packages.</description>
+      <guid isPermaLink="false">ZDI-CAN-25589</guid>
+      <pubDate>Wed, 11 Jun 2025 22:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erie Insurance confirms cyberattack behind business disruptions</title>
+      <link>https://www.bleepingcomputer.com/news/security/erie-insurance-confirms-cyberattack-behind-business-disruptions/</link>
+      <description>Erie Insurance and Erie Indemnity Company have disclosed a weekend cyberattack causing business disruptions and platform outages on their website, affecting over 6 million active policies. The company detected "unusual network activity" on June 7, 2025, and is working with law enforcement to investigate the incident.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/erie-insurance-confirms-cyberattack-behind-business-disruptions/</guid>
+      <pubDate>Wed, 11 Jun 2025 21:44:30 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-359: Microsoft Visual Studio initializeCommand Insufficient UI Warning Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-359/</link>
@@ -1288,159 +1435,6 @@ FYSA: Cybercriminals are capitalizing on the AI boom by targeting small business
       <description>The Scattered Spider hacking group has launched a targeted campaign against help-desk administrators at major technology companies, using advanced social engineering techniques and APT methodologies to breach corporate defenses. The attackers leverage phishing, credential stuffing, and impersonation tactics to gain unauthorized access to critical systems, often exploiting human vulnerabilities as effectively as technical ones. This campaign highlights the importance of robust employee training, multi-factor authentication protocols, and continuous monitoring to detect anomalous behavior.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140972</guid>
       <pubDate>Fri, 06 Jun 2025 14:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Mirai Variant Exploits TBK DVR Flaw for Remote Code Execution</title>
-      <link>https://gbhackers.com/mirai-variant-exploits-tbk-dvr-flaw/</link>
-      <description>Vulnerable Product: TBK DVR-4104 and DVR-4216 devices; CVE(s): CVE-2024-3721; Summary: A critical command injection vulnerability (CVE-2024-3721) in TBK DVR-4104 and DVR-4216 devices allows attackers to exploit unpatched firmware, deploy a modified Mirai variant designed for IoT device hijacking and DDoS operations, and execute ARM32 binaries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141005</guid>
-      <pubDate>Fri, 06 Jun 2025 13:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Unveils European Security Effort to Disrupt Cybercrime Networks</title>
-      <link>https://gbhackers.com/microsoft-unveils-european-security-effort/</link>
-      <description>Vulnerable Product: Microsoft Windows NTFS; CVE(s): CVE-2025-24993; Summary: A critical heap-based buffer overflow vulnerability in the Windows NTFS allows attackers to execute arbitrary code with local user privileges by crafting malicious VHD files and mounting them. The exploit requires social engineering or misleading users into believing the file is safe, and successful exploitation can result in privilege escalation, system compromise, data exfiltration, service disruption, and lateral movement.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140970</guid>
-      <pubDate>Fri, 06 Jun 2025 13:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ViperSoftX Malware Used by Threat Actors to Steal Sensitive Information</title>
-      <link>https://gbhackers.com/vipersoftx-malware-used-by-threat-actor/</link>
-      <description>ViperSoftX is a sophisticated PowerShell-based malware designed to infiltrate infected systems, execute remote commands, steal sensitive data, and target cryptocurrency-related information. It employs deceptive tactics, abuses Windows Task Scheduler, and communicates with C&amp;C servers using HTTP headers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140954</guid>
-      <pubDate>Fri, 06 Jun 2025 13:54:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Fortinet flaws now exploited in Qilin ransomware attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/</link>
-      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2024-21762, CVE-2024-55591; Summary: The Qilin ransomware operation is exploiting two Fortinet vulnerabilities (CVE-2024-21762 and CVE-2024-55591) to bypass authentication on vulnerable devices and execute malicious code remotely.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/</guid>
-      <pubDate>Fri, 06 Jun 2025 13:53:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Empower Users and Protect Against GenAI Data Loss</title>
-      <link>https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html</link>
-      <description>The article discusses the increasing use of generative AI tools in the enterprise setting, despite attempts to block public AI apps. Employees have found workarounds to access AI systems, which creates a "Shadow AI" blind spot for organizations.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html</guid>
-      <pubDate>Fri, 06 Jun 2025 13:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam</title>
-      <link>https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html</link>
-      <description>India's Central Bureau of Investigation (CBI) has dismantled two illegal call centers engaged in a transnational tech support scam targeting Japanese citizens, arresting four individuals and seizing evidence. The scam involved advanced social engineering techniques and "technical subterfuge" to deceive victims into transferring funds.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html</guid>
-      <pubDate>Fri, 06 Jun 2025 13:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Offers $10M Bounty for Information on RedLine Malware Creator</title>
-      <link>https://gbhackers.com/u-s-offers-10m-bounty/</link>
-      <description>This article is not about a vulnerability. Instead, it discusses the RedLine infostealer malware and its alleged developer, Maxim Alexandrovich Rudometov, who is being sought with a $10 million reward under the Rewards for Justice program. The article details the malware's features, including configuration and C2 communication, host profiling, data exfiltration, remote execution and persistence, and anti-analysis measures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140965</guid>
-      <pubDate>Fri, 06 Jun 2025 13:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ANY.RUN Empowers Government Agencies with Real-Time Threat Detection</title>
-      <link>https://gbhackers.com/any-run-empowers-government/</link>
-      <description>Government agencies worldwide are facing an unprecedented wave of cyberattacks, with attackers employing advanced tactics to breach critical infrastructure and steal sensitive data. The most prevalent attack vector remains phishing emails, with spoofed domains and malicious attachments being used to deliver malware such as FormBook.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140944</guid>
-      <pubDate>Fri, 06 Jun 2025 11:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical RCE Vulnerability in AWS Amplify Studio – PoC Now Public</title>
-      <link>https://gbhackers.com/rce-vulnerability-in-aws-amplify-studio/</link>
-      <description>Vulnerable Product: @aws-amplify/codegen-ui; CVE(s): CVE-2025-4318; Summary: The AWS Amplify codegen package contained a critical remote code execution (RCE) vulnerability due to improper input validation in expression-binding logic. The flaw allowed attackers to inject malicious expressions into component JSON files, enabling arbitrary code execution on backend build systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140936</guid>
-      <pubDate>Fri, 06 Jun 2025 11:20:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Mind of the Adversary: Why More Security Leaders Are Selecting AEV</title>
-      <link>https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html</link>
-      <description>The article discusses Adversarial Exposure Validation (AEV), an advanced offense technology that simulates real-world attacker behaviors to identify vulnerabilities in an organization's defenses. AEV provides continuous and automated testing, allowing for more efficient prioritization and remediation of security issues. The technology is designed to mimic how attackers would exploit weaknesses, enabling organizations to build resilience against attacks and provide a stronger defense posture.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html</guid>
-      <pubDate>Fri, 06 Jun 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blitz Malware: A Tale of Game Cheats and Code Repositories</title>
-      <link>https://unit42.paloaltonetworks.com/blitz-malware-2025/</link>
-      <description>The article provides a detailed technical analysis of Blitz malware, which consists of two phases: the Blitz downloader and the Blitz bot. The malware was distributed through backdoored game cheats, and it abused Hugging Face to host C2 infrastructure. The author claims to have quit distributing the malware.
-
-The article highlights the security risks associated with engaging in illegal software distribution, including cracked game cheats. It also provides information on how Palo Alto Networks customers can be better protected from Blitz malware through various security features and subscriptions.
-
-In summary, this article is not discussing a vulnerability (software, hardware, or firmware), but rather providing threat intelligence and analysis of the Blitz malware.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142254</guid>
-      <pubDate>Fri, 06 Jun 2025 10:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical FreeRTOS-Plus-TCP Flaw Allows Code Execution or System Crash</title>
-      <link>https://gbhackers.com/critical-freertos-plus-tcp-flaw/</link>
-      <description>Vulnerable Product: Amazon FreeRTOS-Plus-TCP; CVE(s): CVE-2025-5688; Summary: A critical memory corruption vulnerability exists in FreeRTOS-Plus-TCP due to the lack of adequate length checking when processing LLMNR and mDNS queries with excessively long DNS names. This can lead to system crashes or arbitrary code execution, making embedded systems a high-value target for attackers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140917</guid>
-      <pubDate>Fri, 06 Jun 2025 09:57:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome Extensions Flaw Exposes Sensitive API Keys, Secrets and Tokens</title>
-      <link>https://gbhackers.com/chrome-extensions-flaw/</link>
-      <description>Vulnerable Product: Various Chrome Extensions; CVE(s): None; Summary: Numerous popular Chrome extensions contain a critical security flaw that exposes sensitive credentials such as API keys, secrets, and tokens in their source code, allowing attackers to exploit them and potentially cause data manipulation, financial losses, and privacy breaches.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140918</guid>
-      <pubDate>Fri, 06 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical RCE Flaw Found in HPE Insight Remote Support Tool</title>
-      <link>https://gbhackers.com/critical-rce-flaw-found/</link>
-      <description>Vulnerable Product: Hewlett-Packard Enterprise (HPE) Insight Remote Support; CVE(s): CVE-2025-37097, CVE-2025-37098, and CVE-2025-37099; Summary: Multiple high-impact vulnerabilities in HPE's Insight Remote Support (IRS) software allow remote attackers to execute arbitrary code, traverse directories, and exfiltrate sensitive information. The flaws are due to directory traversal and XML external entity (XXE) injection in the IRS service's file upload mechanism and XML input processing during device registration. Successful exploitation can result in full remote code execution under the privileges of the IRS service.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140884</guid>
-      <pubDate>Fri, 06 Jun 2025 09:13:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police arrests 20 suspects for distributing child sexual abuse content</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/</link>
-      <description>Law enforcement authorities from over a dozen countries have arrested 20 suspects in an international operation targeting the production and distribution of child sexual abuse material. The operation, which started in late 2024, involved multiple instant messaging groups dedicated to the circulation of child sexual exploitation images. Additionally, another joint international investigation led by the State Criminal Police of Bavaria and Bavarian cybercrime prosecutors took down Kidflix, one of the largest child sexual abuse material platforms on the dark web.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/</guid>
-      <pubDate>Fri, 06 Jun 2025 08:55:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>New pathWiper Malware Targets Critical Infrastructure to Deploy Admin Tools</title>
-      <link>https://gbhackers.com/new-pathwiper-malware-targets-critical-infrastructure/</link>
-      <description>This article reports a sophisticated cyberattack targeting Ukrainian critical infrastructure, deploying a previously unknown wiper malware dubbed "PathWiper." The attack is attributed to a Russia-nexus advanced persistent threat (APT) actor and showcases the evolving threat to Ukrainian critical infrastructure amid the ongoing conflict.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140897</guid>
-      <pubDate>Fri, 06 Jun 2025 08:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack</title>
-      <link>https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html</link>
-      <description>The article reports on a new data wiper malware named PathWiper that was used to target a critical infrastructure entity in Ukraine. The malware is designed to gather information about connected storage media, create threads for each drive and volume, and overwrite contents with randomized bytes. It also targets specific file systems and attempts to dismount volumes.
-
-FYSA: A Russia-nexus advanced persistent threat (APT) actor has been identified as the perpetrator of a new data wiper malware attack on Ukraine, using legitimate endpoint administration frameworks to issue malicious commands and deploy PathWiper across connected endpoints.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html</guid>
-      <pubDate>Fri, 06 Jun 2025 08:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BADBOX 2.0 Malware Hits Over a Million Android Devices in Global Cyber Threat</title>
-      <link>https://gbhackers.com/badbox-2-0-malware-hits-over-a-million-android-devices/</link>
-      <description>The article discusses a massive cyber fraud operation named BADBOX 2.0, which has infected over 1 million Android Open Source Project (AOSP) devices worldwide. The operation is attributed to four key threat actor groups working together through shared C2 infrastructure, and involves fraudulent activities such as ad fraud, click fraud, and the sale of residential proxy services.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140885</guid>
-      <pubDate>Fri, 06 Jun 2025 08:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paste.ee Turned Cyber Weapon: XWorm and AsyncRAT Delivered by Malicious Actors</title>
-      <link>https://gbhackers.com/paste-ee-turned-cyber-weapon/</link>
-      <description>The article discusses a new trend in phishing and malware delivery where attackers use the text-sharing website Paste.ee to host malicious payloads and scripts, often disguised as innocuous text snippets. This tactic allows threat actors to bypass traditional security defenses by exploiting the platform's accessibility and anonymity features.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140870</guid>
-      <pubDate>Fri, 06 Jun 2025 07:42:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoC Exploit Released for Apache Tomcat DoS Vulnerability</title>
-      <link>https://gbhackers.com/apache-tomcat-dos-vulnerability/</link>
-      <description>Vulnerable Product: Apache Tomcat; CVE(s): CVE-2025-31650; Summary: A critical memory leak vulnerability in Apache Tomcat's HTTP/2 implementation allows unauthenticated denial-of-service attacks through malformed priority headers. The flaw affects Tomcat versions 9.0.76–9.0.102, 10.1.10–10.1.39, and 11.0.0-M2–11.0.5, and public exploits are already circulating.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140862</guid>
-      <pubDate>Fri, 06 Jun 2025 07:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Roundcube Vulnerability to Steal User Credentials via XSS Attack</title>
-      <link>https://gbhackers.com/hackers-exploit-roundcube-vulnerability/</link>
-      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2024-42009, None; Summary: The Roundcube webmail platform has a critical Cross-Site Scripting (XSS) vulnerability (CVE-2024-42009) that allows attackers to execute arbitrary JavaScript code, enabling credential theft and potential server takeover.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140861</guid>
-      <pubDate>Fri, 06 Jun 2025 06:43:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
