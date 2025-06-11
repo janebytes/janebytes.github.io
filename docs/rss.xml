@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 13:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 14:02:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows Task Scheduler Flaw Allows Attackers to Escalate Privileges</title>
+      <link>https://gbhackers.com/windows-task-scheduler-flaw/</link>
+      <description>Vulnerable Product: Microsoft Windows Task Scheduler; CVE(s): CVE-2025-33067; Summary: A critical elevation of privilege vulnerability allows attackers to gain elevated privileges on affected systems, bypassing normal user restrictions and compromising the integrity of the operating system. The flaw occurs when the software does not properly restrict, assign, or manage privileges, allowing attackers to perform actions outside their intended level of authority. Exploitation requires local access to the target system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141673</guid>
+      <pubDate>Wed, 11 Jun 2025 13:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Common Log File System Driver Flaw Allows Attackers to Escalate Privileges</title>
+      <link>https://gbhackers.com/windows-common-log-file-system-driver-flaw-allows-attackers-to-escalate-privileges/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32713; Summary: The Windows Common Log File System (CLFS) driver contains a heap-based buffer overflow vulnerability that allows local attackers to escalate privileges to SYSTEM-level access. Attackers can exploit this by triggering a heap overflow via crafted log operations, corrupting adjacent memory structures, and gaining NT AUTHORITY\SYSTEM privileges without user interaction.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141670</guid>
+      <pubDate>Wed, 11 Jun 2025 13:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Secure disrupts global infostealer malware operations</title>
+      <link>https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/</link>
+      <description>Operation Secure, a global law enforcement action, targeted infostealer malware infrastructure across 26 countries, resulting in 32 arrests, data seizures, and server takedowns. The operation focused on disrupting groups that steal financial and personal data through widespread infections, leading to the takedown of over 20,000 malicious IPs/domains and seizure of 41 servers supporting info-stealers operations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/</guid>
+      <pubDate>Wed, 11 Jun 2025 13:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft fixes unreachable Windows Server domain controllers</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/</link>
+      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: Some Windows Server 2025 domain controllers may become unreachable after a restart and trigger app or service failures due to incorrect network traffic management. This issue can be mitigated by applying the KB5060842 update or temporarily restarting the network adapter using PowerShell until the update is installed.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/</guid>
+      <pubDate>Wed, 11 Jun 2025 13:21:03 +0000</pubDate>
+    </item>
     <item>
       <title>Multiple Microsoft Office Vulnerabilities Enable Remote Code Execution by Attackers</title>
       <link>https://gbhackers.com/microsoft-office-vulnerabilities-2/</link>
@@ -1421,34 +1449,6 @@ FYSA: None</description>
       <description>None (This article is not about a vulnerability, but rather an Iran-aligned hacking group's cyber attacks targeting Kurdish and Iraqi government officials.)</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html</guid>
       <pubDate>Thu, 05 Jun 2025 10:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UNC6040 APT Hackers Steals Salesforce data Without Exploit Any Vulnerabilities</title>
-      <link>https://gbhackers.com/unc6040-apt-hackers-steals-salesforce-data/</link>
-      <description>UNC6040 threat cluster uses voice phishing (vishing) campaigns to compromise Salesforce environments by manipulating human behavior and impersonating IT support personnel, leading to large-scale data theft and extortion attempts. The campaign relies on tricking victims into authorizing a malicious connected app, often using modified versions of Salesforce's Data Loader tool, and leveraging infrastructure like Mullvad VPN IPs and Okta phishing panels for lateral movement.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140639</guid>
-      <pubDate>Thu, 05 Jun 2025 10:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco IMC Vulnerability Allows Attackers to Gain Elevated Privileges</title>
-      <link>https://gbhackers.com/cisco-imc-vulnerability/</link>
-      <description>Vulnerable Product: Cisco Integrated Management Controller (IMC) software; CVE(s): CVE-2025-20261; Summary: A critical privilege escalation vulnerability in the IMC software allows an authenticated, remote attacker to gain elevated privileges and unauthorized access to internal services via SSH, potentially leading to full system compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140654</guid>
-      <pubDate>Thu, 05 Jun 2025 10:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown</title>
-      <link>https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html</link>
-      <description>The U.S. Department of Justice (DoJ) seized cryptocurrency funds and domains associated with the illicit carding marketplace BidenCash, which allegedly supported over 117,000 customers, trafficked over 15 million payment card numbers, and generated $17 million in revenue. The platform specialized in selling compromised credentials and offered SSH services to buyers.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html</guid>
-      <pubDate>Thu, 05 Jun 2025 10:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Newly identified wiper malware “PathWiper” targets critical infrastructure in Ukraine</title>
-      <link>https://blog.talosintelligence.com/pathwiper-targets-ukraine/</link>
-      <description>The article describes a destructive attack on Ukrainian critical infrastructure, attributed to a Russia-nexus advanced persistent threat (APT) actor. The attack used a previously unknown wiper malware called "PathWiper" that was deployed via a legitimate endpoint administration framework. PathWiper overwrites file system artifacts and destroys files by writing random bytes to disk.</description>
-      <guid isPermaLink="false">683efe9726e1af0001c7835f</guid>
-      <pubDate>Thu, 05 Jun 2025 10:00:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
