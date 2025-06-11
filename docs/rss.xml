@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 19:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 20:03:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-359: Microsoft Visual Studio initializeCommand Insufficient UI Warning Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-359/</link>
+      <description>Vulnerable Product: Microsoft Visual Studio; CVE(s): CVE-2025-47959; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Visual Studio. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists in the handling of the devcontainer.json file and can be exploited to execute code in the context of the current user.</description>
+      <guid isPermaLink="false">ZDI-CAN-26586</guid>
+      <pubDate>Wed, 11 Jun 2025 20:03:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interpol Dismantles 20,000 Malicious IPs and Domains Tied to 69 Malware Variants</title>
+      <link>https://gbhackers.com/interpol-dismantles-20000-malicious-ips-and-domains-tied/</link>
+      <description>INTERPOL's Operation Secure has seen the takedown of over 20,000 malicious IP addresses and domains associated with infostealer malware. The operation involved law enforcement agencies across 26 countries, leveraging advanced threat intelligence from leading cybersecurity firms to produce Cyber Activity Reports. The operation resulted in the seizure of 41 servers, confiscation of over 100 GB of data, and 32 arrests made globally.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141720</guid>
+      <pubDate>Wed, 11 Jun 2025 19:56:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 40,000 Internet-Connected Cameras Exposed, Streaming Live Online</title>
+      <link>https://gbhackers.com/over-40000-internet-connected-cameras-exposed/</link>
+      <description>Vulnerable Product: Surveillance Cameras; CVE(s): None; Summary: Bitsight TRACE has discovered over 40,000 security cameras openly accessible on the internet, streaming live footage from various locations, including homes, offices, factories, and datacenter rooms. The exposure allows anyone with a web browser and basic technical knowledge to access the feeds without authentication or sophisticated hacking, leaving millions vulnerable to surveillance, espionage, and privacy invasion.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141765</guid>
+      <pubDate>Wed, 11 Jun 2025 19:44:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Secure Boot Vulnerability Allows Attackers to Install Malware in PC and Server Boot Processes</title>
+      <link>https://gbhackers.com/new-secure-boot-vulnerability-allows-attackers-to-install-malware/</link>
+      <description>Vulnerable Product: DT Research, Unified Extensible Firmware Interface (UEFI); CVE(s): CVE-2025-3052; Summary: A memory corruption flaw enables attackers to execute unsigned code during the early boot phase, bypassing Secure Boot protections and potentially compromising the entire device. The vulnerability allows an attacker to set an NVRAM variable called IhisiParamBuffer to an arbitrary memory address, granting them an arbitrary memory write primitive.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141758</guid>
+      <pubDate>Wed, 11 Jun 2025 19:20:57 +0000</pubDate>
+    </item>
     <item>
       <title>ConnectWise to Update Code Signing Certificates for ScreenConnect, Automate, and RMM</title>
       <link>https://gbhackers.com/connectwise-to-update-code-signing-certificates/</link>
@@ -1413,36 +1441,6 @@ FYSA: A Russia-nexus advanced persistent threat (APT) actor has been identified 
       <description>Vulnerable Product: Roundcube; CVE(s): CVE-2024-42009, None; Summary: The Roundcube webmail platform has a critical Cross-Site Scripting (XSS) vulnerability (CVE-2024-42009) that allows attackers to execute arbitrary JavaScript code, enabling credential theft and potential server takeover.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=140861</guid>
       <pubDate>Fri, 06 Jun 2025 06:43:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s upcoming Gemini Kingfall is allegedly a coding beast</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/</link>
-      <description>Vulnerable Product: None; FYSA: The article discusses the advancements in Google's AI models, specifically the "Gemini Kingfall" model that was briefly available before being taken down. It highlights the capabilities of Gemini Kingfall, such as generating a working single HTML file Minecraft game clone using a three-line prompt.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/</guid>
-      <pubDate>Thu, 05 Jun 2025 23:41:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT prepares o3-pro model for $200 Pro subscribers</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/</link>
-      <description>Vulnerable Product: None; Summary: The article does not mention any vulnerabilities. It discusses updates to ChatGPT models, including the new o3 Pro model, and their capabilities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/</guid>
-      <pubDate>Thu, 05 Jun 2025 22:45:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proxy Services Feast on Ukraine’s IP Address Exodus</title>
-      <link>https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/</link>
-      <description>The article discusses how Ukraine's Internet Protocol Version 4 (IPv4) address space has been affected by the Russian invasion. Many Ukrainian ISPs have sold or leased their IPv4 address blocks to proxy and anonymity services, which are now being used to route traffic from multiple countries, including those with a high incidence of cybercrime activity. This has resulted in many former Ukrainian IP addresses being used in cyberattacks against Ukraine and other enemies of Russia.
-
-FYSA: The article highlights the vulnerability of Ukraine's Internet infrastructure to Russian control or manipulation, as well as the potential for proxy services to be abused for malicious purposes.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71386</guid>
-      <pubDate>Thu, 05 Jun 2025 22:44:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI: BADBOX 2.0 Android malware infects millions of consumer devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/</link>
-      <description>Vulnerable Product: BADBOX 2.0; CVE(s): None; Summary: The BADBOX 2.0 malware campaign has infected over 1 million home Internet-connected devices, converting consumer electronics into residential proxies used for malicious activity, such as ad fraud and credential stuffing. The malware infects devices preloaded with the botnet or through malicious Android applications that sneak onto Google Play and third-party app stores.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/</guid>
-      <pubDate>Thu, 05 Jun 2025 21:35:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
