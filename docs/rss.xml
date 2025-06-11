@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 18:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 19:02:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ConnectWise to Update Code Signing Certificates for ScreenConnect, Automate, and RMM</title>
+      <link>https://gbhackers.com/connectwise-to-update-code-signing-certificates/</link>
+      <description>This article is not about a vulnerability but rather announces upcoming security updates for ScreenConnect, ConnectWise Automate, and ConnectWise RMM. The updates include rotating code signing certificates and improving configuration data management to ensure the integrity of software installations and updates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141752</guid>
+      <pubDate>Wed, 11 Jun 2025 18:57:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Malware Authors Targeting Cloud Environments with ELF Binaries</title>
+      <link>https://gbhackers.com/linux-malware-authors-targeting-cloud-environments/</link>
+      <description>A worrying trend has been observed by Unit 42, Palo Alto Networks' threat intelligence division, where threat actors are increasingly creating and modifying Linux Executable and Linkable Format (ELF) malware to attack cloud infrastructure. Five evolving ELF-based malware families have been identified, including NoodleRAT, Winnti (Linux variants), SSHdInjector, Pygmy Goat, and AcidPour. Each family has seen at least two significant codebase updates in the past year and has been observed in the wild at least 20 times, indicating active development and deployment.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141746</guid>
+      <pubDate>Wed, 11 Jun 2025 18:33:03 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-340: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Technician API Incorrect Authorization Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-340/</link>
@@ -1429,20 +1443,6 @@ FYSA: The article highlights the vulnerability of Ukraine's Internet infrastruct
       <description>Vulnerable Product: BADBOX 2.0; CVE(s): None; Summary: The BADBOX 2.0 malware campaign has infected over 1 million home Internet-connected devices, converting consumer electronics into residential proxies used for malicious activity, such as ad fraud and credential stuffing. The malware infects devices preloaded with the botnet or through malicious Android applications that sneak onto Google Play and third-party app stores.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/</guid>
       <pubDate>Thu, 05 Jun 2025 21:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian APT ‘BladedFeline’ Remains Hidden in Networks for 8 Years</title>
-      <link>https://gbhackers.com/iranian-apt-bladedfeline-remains-hidden/</link>
-      <description>The article discusses the activities of BladedFeline, an Iranian-aligned Advanced Persistent Threat (APT) group that has maintained covert access to the networks of Kurdish and Iraqi government officials for nearly eight years. The group uses various tools and techniques, including backdoors, reverse shells, and custom tunneling tools, to exploit vulnerabilities and exfiltrate data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140811</guid>
-      <pubDate>Thu, 05 Jun 2025 19:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-325: Hewlett Packard Enterprise Insight Remote Support processAttachmentDataStream Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-325/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise Insight Remote Support; CVE(s): CVE-2025-37099; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations without authentication. The issue occurs due to the lack of proper validation of a user-supplied path prior to using it in file operations, enabling an attacker to execute code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25954</guid>
-      <pubDate>Thu, 05 Jun 2025 19:03:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
