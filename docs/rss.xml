@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 20:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 21:02:19 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Coming to Apple OSes: A seamless, secure way to import and export passkeys</title>
+      <link>https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/</link>
+      <description>Apple has introduced a new process for securely transferring credentials between apps, which is more secure than traditional methods and eliminates the risk of credential leaks. The system uses a standardized data format built with the FIDO Alliance to move data between apps, providing a modern and secure way to manage credentials. This development aims to improve the usability of passkeys and potentially alleviate issues related to password management.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/</guid>
+      <pubDate>Thu, 12 Jun 2025 20:26:28 +0000</pubDate>
+    </item>
     <item>
       <title>Cybercriminals Exploiting Expired Discord Invite Links to Deploy Multi-Stage Malware</title>
       <link>https://gbhackers.com/cybercriminals-exploiting-expired-discord-invite-links/</link>
@@ -168,6 +175,20 @@
       <description>The article discusses the DragonForce Ransomware group, which has emerged as a significant threat in the cyber landscape. The group is known for its aggressive double extortion tactics, using both custom and borrowed tools to steal data, encrypt systems, and pressure victims into paying ransoms. The article provides an overview of the group's operations, including their use of leaked ransomware builders, advanced evasion techniques, and organized affiliate model. It also highlights the importance of proactive defense and intelligence gathering in detecting and stopping DragonForce attacks before they cause harm.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100048798</guid>
       <pubDate>Thu, 12 Jun 2025 12:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Cybersecurity Advisory on SimpleHelp RMM Vulnerability</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/12/cisa-releases-cybersecurity-advisory-simplehelp-rmm-vulnerability</link>
+      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, None; Summary: Ransomware actors exploited an unpatched path traversal vulnerability (CVE-2024-57727) in SimpleHelp Remote Monitoring and Management (RMM) versions 5.5.7 and earlier to compromise customers of a utility billing software provider, resulting in service disruptions and double extortion incidents.</description>
+      <guid isPermaLink="false">/node/23511</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Actors Exploit Unpatched SimpleHelp Remote Monitoring and Management to Compromise Utility Billing Software Provider</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-163a</link>
+      <description>Vulnerable Product: SimpleHelp Remote Monitoring and Management (RMM); CVE(s): CVE-2024-57727; Summary: Ransomware actors are leveraging unpatched instances of SimpleHelp RMM, specifically versions 5.5.7 and earlier, to compromise customers. The vulnerability, CVE-2024-57727, is a path traversal vulnerability that allows attackers to access downstream customers' networks.</description>
+      <guid isPermaLink="false">/node/23510</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Siemens SCALANCE and RUGGEDCOM</title>
@@ -1406,27 +1427,6 @@ FYSA: The article also mentions an unpatched account takeover vulnerability (CVE
       <description>Sensata Technologies suffered a data breach after an April ransomware attack, affecting current and former employees and their dependents. The stolen data includes full name, address, Social Security Number (SSN), driver's license number, state ID card number, passport number, financial account information, payment card information, medical information, health insurance information, and date of birth.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/</guid>
       <pubDate>Mon, 09 Jun 2025 16:09:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitter Malware Employs Custom-Built Tools to Evade Detection in Advanced Attacks</title>
-      <link>https://gbhackers.com/bitter-malware-employs-custom-built-tools/</link>
-      <description>This article discusses the malware arsenal of the Bitter group (TA397), a state-backed actor aligned with India's interests. The group has evolved from deploying rudimentary downloaders to sophisticated RATs and backdoors, showcasing technical prowess and adaptability.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141301</guid>
-      <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group</title>
-      <link>https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html</link>
-      <description>The article discusses a series of cyberattacks attributed to China-nexus threat actors, targeting various organizations across different sectors. The attacks are believed to be part of a broader campaign, with some connections to previously reported APT15 and UNC5174 groups.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html</guid>
-      <pubDate>Mon, 09 Jun 2025 15:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skitnet Malware Actively Adopted by Ransomware Gangs to Enhance Operational Efficiency</title>
-      <link>https://gbhackers.com/skitnet-malware-actively-adopted-by-ransomware-gangs/</link>
-      <description>Skitnet malware (also known as Bossnet) is a post-exploitation package with an integrated server-side control panel that has emerged as a critical tool for ransomware gangs, showcasing increased operational efficiency for cybercriminals. It initiates its infection chain through social engineering tactics and uses various techniques to evade detection, including DLL hijacking, dynamic API resolution, and anti-forensic measures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141291</guid>
-      <pubDate>Mon, 09 Jun 2025 15:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
