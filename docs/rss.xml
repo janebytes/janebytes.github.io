@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 16:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 17:15:33 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Using Bat Files to Deploy Quasar RAT</title>
+      <link>https://gbhackers.com/threat-actors-using-bat-files/</link>
+      <description>The article discusses a Quasar Remote Access Trojan (RAT) campaign that uses strong obfuscation and anti-sandbox techniques to evade detection. The malware infection begins with a batch script attached to a seemingly harmless document, which downloads an obfuscated second-stage file from a remote server. The malware then checks for virtual drives commonly used by sandboxes and kills itself if detected, making automated analysis difficult.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141831</guid>
+      <pubDate>Thu, 12 Jun 2025 16:32:44 +0000</pubDate>
+    </item>
     <item>
       <title>Password-spraying attacks target 80,000 Microsoft Entra ID accounts</title>
       <link>https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/</link>
@@ -84,6 +91,83 @@
       <description>The article discusses the DragonForce Ransomware group, which has emerged as a significant threat in the cyber landscape. The group is known for its aggressive double extortion tactics, using both custom and borrowed tools to steal data, encrypt systems, and pressure victims into paying ransoms. The article provides an overview of the group's operations, including their use of leaked ransomware builders, advanced evasion techniques, and organized affiliate model. It also highlights the importance of proactive defense and intelligence gathering in detecting and stopping DragonForce attacks before they cause harm.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100048798</guid>
       <pubDate>Thu, 12 Jun 2025 12:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SCALANCE and RUGGEDCOM</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-03</link>
+      <description>Vulnerable Product: Siemens SCALANCE and RUGGEDCOM products; CVE(s): CVE-2024-41797; Summary: The vulnerability is an incorrect authorization check that allows an authenticated remote attacker with "guest" role to invoke an internal "do system" command exceeding their privileges. This could allow the execution of certain low-risk actions, including clearing the local system log.</description>
+      <guid isPermaLink="false">/node/23500</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA PI Connector for CygNet</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-09</link>
+      <description>Vulnerable Product: AVEVA PI Connector for CygNet; CVE(s): CVE-2025-4417, CVE-2025-4418; Summary: Cross-site scripting and improper validation of integrity check value vulnerabilities exist in PI Connector for CygNet Versions 1.6.14 and prior, allowing an attacker to persist arbitrary code or cause a denial-of-service condition.</description>
+      <guid isPermaLink="false">/node/23506</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Energy Services</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-06</link>
+      <description>Vulnerable Product: Siemens G5DFR; CVE(s): CVE-2025-40585; Summary: The vulnerability, due to incorrect default permissions, allows an attacker to gain remote control of the G5DFR component and tamper with outputs from the device. Successful exploitation could result in unauthorized access and manipulation of the device's outputs.</description>
+      <guid isPermaLink="false">/node/23503</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SCALANCE and RUGGEDCOM</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-04</link>
+      <description>Vulnerable Product: Siemens SCALANCE and RUGGEDCOM products; CVE(s): CVE-2025-40567, CVE-2025-40568, CVE-2025-40569; Summary: The "Load Rollback" functionality in the web interface of affected products contains an incorrect authorization check vulnerability. This could allow an authenticated remote attacker with a "guest" role to make the affected product roll back to a previous configuration. Additionally, the "Load Configuration from Local PC" functionality in the web interface of affected products contains a race condition vulnerability that allows an authenticated remote attacker to load an attacker-controlled configuration instead of the legitimate one. The third vulnerability is a race condition that occurs when a legitimate administrator invokes the "Load Configuration from Local PC" functionality and the attacker wins the race. Successful exploitation requires that a legitimate administrator invokes the functionality and the attacker wins the race.</description>
+      <guid isPermaLink="false">/node/23501</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PTZOptics and Other Pan-Tilt-Zoom Cameras</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-10</link>
+      <description>Vulnerable Product: PTZOptics PT30X-SDI/NDI-xx before firmware 6.3.40; CVE(s): CVE-2024-8956, CVE-2024-8957; Summary: The camera is vulnerable to insufficient authentication and OS command injection issues, allowing an attacker to leak sensitive data, execute arbitrary commands, and access the admin web interface using hard-coded credentials.</description>
+      <guid isPermaLink="false">/node/23507</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA PI Data Archive</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-07</link>
+      <description>Vulnerable Product: AVEVA PI Data Archive, AVEVA PI Server; CVE(s): CVE-2025-44019, CVE-2025-36539; Summary: The products are vulnerable to an uncaught exception that can be exploited by an authenticated user to shut down necessary subsystems and cause a denial-of-service condition.</description>
+      <guid isPermaLink="false">/node/23504</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC S7-1500 CPU Family</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-05</link>
+      <description>The provided article appears to be a collection of multiple Common Vulnerabilities and Exposures (CVEs) from various sources, including Linux kernel, GnuTLS, OpenSSH, and others. Each CVE has its own unique characteristics, such as CVSS score, vector string, and description.</description>
+      <guid isPermaLink="false">/node/23502</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM APE1808</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-02</link>
+      <description>Vulnerable Product: Siemens RUGGEDCOM APE1808; CVE(s): CVE-2025-0133; Summary: A reflected cross-site scripting (XSS) vulnerability in the GlobalProtect gateway and portal features of Palo Alto Networks PAN-OS software enables execution of malicious JavaScript in the context of an authenticated Captive Portal user's browser when they click on a specially crafted link, potentially leading to phishing attacks and credential theft.</description>
+      <guid isPermaLink="false">/node/23499</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Ten Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/12/cisa-releases-ten-industrial-control-systems-advisories</link>
+      <description>Vulnerable Product: None listed; CVE(s): None; Summary: CISA released 10 ICS advisories on June 12, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding industrial control systems. The advisories cover various products from Siemens and AVEVA, and users are encouraged to review them for technical details and mitigations.</description>
+      <guid isPermaLink="false">/node/23508</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Tecnomatix Plant Simulation</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-01</link>
+      <description>Vulnerable Product: Siemens Tecnomatix Plant Simulation; CVE(s): CVE-2025-32454; Summary: The vulnerability allows an attacker to execute code in the context of the current process by reading past the end of an allocated structure while parsing specially crafted WRL files. Successful exploitation could lead to remote code execution.</description>
+      <guid isPermaLink="false">/node/23498</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVEVA PI Web API</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-08</link>
+      <description>Vulnerable Product: AVEVA PI Web API; CVE(s): CVE-2025-2745; Summary: A cross-site scripting vulnerability exists in AVEVA PI Web API versions 2023 SP1 and prior, allowing an authenticated attacker to persist arbitrary JavaScript code that can be executed by users who disable content security policy protections. Successful exploitation could allow the attacker to disable content security policy protections, leading to potential attacks.</description>
+      <guid isPermaLink="false">/node/23505</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Trend Micro Apex One Zero-Day Vulnerability Enables Attackers to Inject Malicious Code</title>
@@ -1343,102 +1427,6 @@ FYSA: The article also mentions an unpatched account takeover vulnerability (CVE
       <description>The Cybersecurity and Infrastructure Security Agency (CISA) has lost nearly one-third of its workforce since the start of the Trump administration, with approximately 1,000 employees leaving due to buyouts, early retirements, and layoffs. This reduction in staff coincides with a proposed 17% to 30% reduction in CISA's budget, targeting critical programs such as continuous diagnostics and monitoring (CDM) tools and CyberSentry. The departures and funding cuts threaten the agency's ability to fulfill its core mission of defending federal networks, supporting critical infrastructure operators, and responding to cyber incidents.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141205</guid>
       <pubDate>Mon, 09 Jun 2025 13:33:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grocery wholesale giant United Natural Foods hit by cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/</link>
-      <description>UNFI, North America's largest publicly traded wholesale distributor, was forced to shut down some systems following a recent cyberattack. The company reported $31 billion in annual revenues and has over 28,000 workers. An investigation is ongoing with the assistance of external cybersecurity experts, but no details have been released on the nature of the attack or whether data was stolen.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/</guid>
-      <pubDate>Mon, 09 Jun 2025 13:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seraphic Security UnveilsBrowserTotal™ – Free AI-PoweredBrowser Security Assessment For Enterprises</title>
-      <link>https://gbhackers.com/seraphic-security-unveilsbrowsertotal-free-ai-poweredbrowser-security-assessment-for-enterprises/</link>
-      <description>Seraphic Security announces the launch of BrowserTotal, a browser security assessment tool that conducts over 120 tests to provide posture standing, emerging threat insights, and more. The platform is powered by AI and offers CISOs and security teams a comprehensive environment to test browser security defenses against today's most sophisticated threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141228</guid>
-      <pubDate>Mon, 09 Jun 2025 12:59:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kettering Health Confirms Interlock Ransomware Breach and Data Theft</title>
-      <link>https://gbhackers.com/kettering-ransomware/</link>
-      <description>The article discusses a ransomware attack on Kettering Health, a major Ohio-based healthcare provider, which resulted in unauthorized access to the network, encryption of critical patient care systems, and exfiltration of sensitive patient data. The incident highlights the importance of robust cybersecurity frameworks, rapid incident response, and transparent communication with patients and staff.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141192</guid>
-      <pubDate>Mon, 09 Jun 2025 12:38:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/09/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: Erlang/OTP SSH Server, RoundCube Webmail; CVE(s): CVE-2025-32433, CVE-2024-42009; Summary: The two vulnerabilities added to the Known Exploited Vulnerabilities (KEV) Catalog are a missing authentication for critical function vulnerability in Erlang/OTP SSH Server and a cross-site scripting vulnerability in RoundCube Webmail. These vulnerabilities pose significant risks to the federal enterprise and can be exploited by malicious cyber actors.</description>
-      <guid isPermaLink="false">/node/23481</guid>
-      <pubDate>Mon, 09 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks</title>
-      <link>https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html</link>
-      <description>FYSA:
-
-The article appears to be a collection of cybersecurity-related news and updates from various sources. It covers a wide range of topics, including malware attacks, APT groups, and government efforts to combat cybercrime.
-
-Some of the specific stories mentioned in the article include:
-
-1. The alleged involvement of Taiwan's Democratic Progressive Party (DPP) in sponsoring five advanced persistent threat (APT) groups.
-2. China accusing Taiwan of running these APT groups with US help, and issuing warrants for 20 Taiwanese people involved.
-3. Colombian cybercriminals linked to vehicle insurance scams that use fake websites and ads on Facebook to deceive users.
-4. The takedown of TrickBot, a notorious ransomware gang, by German authorities.
-5. Microsoft Defender's Attack Surface Reduction (ASR) rules and how they can be enabled to block common malware techniques.
-
-Overall, the article highlights the ongoing threat of cybercrime and the importance of staying vigilant in order to prevent attacks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html</guid>
-      <pubDate>Mon, 09 Jun 2025 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple QNAP Flaws Allow Remote Attackers to Hijack User Accounts</title>
-      <link>https://gbhackers.com/multiple-qnap-flaws-2/</link>
-      <description>Vulnerable Product: QNAP Qsync Central; CVE(s): CVE-2025-22482, CVE-2025-29892; Summary: Two critical vulnerabilities were found in Qsync Central, a file synchronization software used by QNAP NAS devices. The first vulnerability is a format string vulnerability that can allow attackers to obtain sensitive data or execute malicious code, while the second is an SQL injection vulnerability that can also lead to arbitrary code execution or command injection. Both require user-level access to exploit, but the impact is severe and prompt patching is essential.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141169</guid>
-      <pubDate>Mon, 09 Jun 2025 11:13:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise</title>
-      <link>https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html</link>
-      <description>The article discusses "shadow IT," which refers to unsanctioned software-as-a-service (SaaS) applications, dormant accounts, unmanaged identities, over-permissioned SaaS tools, and orphaned access that can be used by attackers to gain unauthorized access to enterprise systems. The risks include OAuth sprawl, shadow admins, GenAI access, and apps created directly in platforms like Google Workspace or Slack.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html</guid>
-      <pubDate>Mon, 09 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New DuplexSpy RAT Gives Attackers Full Control Over Windows Machines</title>
-      <link>https://gbhackers.com/new-duplexspy-rat-gives-attackers/</link>
-      <description>DuplexSpy is a Remote Access Trojan (RAT) that poses a significant threat to Windows-based systems. It offers attackers unprecedented control over compromised machines, featuring persistence mechanisms, stealthy execution, and surveillance tools. Its open-source nature and customization options make it a potent weapon in the hands of malicious actors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141175</guid>
-      <pubDate>Mon, 09 Jun 2025 10:57:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jenkins Gatling Plugin Flaw Allows CSP Bypass, Exposing Systems to Attack</title>
-      <link>https://gbhackers.com/jenkins-gatling-plugin-flaw/</link>
-      <description>Vulnerable Product: Jenkins Gatling Plugin; CVE(s): CVE-2025-5806; Summary: The Gatling Plugin in Jenkins allows for across-site scripting (XSS) vulnerabilities due to a bypass of Content-Security-Policy protections, enabling attackers with low-privileged access to inject malicious scripts that can execute in other users' browsers, leading to theft of sensitive session cookies and unauthorized actions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141154</guid>
-      <pubDate>Mon, 09 Jun 2025 10:27:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roles Here? Roles There? Roles Anywhere: Exploring the Security of AWS IAM Roles Anywhere</title>
-      <link>https://unit42.paloaltonetworks.com/aws-roles-anywhere/</link>
-      <description>The article discusses the AWS IAM Roles Anywhere service, which enables external workloads to authenticate using X.509 digital certificates. The service allows organizations to securely access cloud APIs and can be used with Kubernetes pods or other external workloads. However, if not configured correctly, default configurations of this service can be exploited by attackers, allowing them to gain access to additional roles in the AWS account.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142575</guid>
-      <pubDate>Mon, 09 Jun 2025 10:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware for Developers: 16 React Native Packages with Millions of Downloads Compromised Overnight</title>
-      <link>https://gbhackers.com/16-react-native-packages-with-millions-of-downloads-compromised/</link>
-      <description>Vulnerable Product: npm ecosystem; CVE(s): None; Summary: The article reports a large-scale attack targeting the npm ecosystem, compromising 16 popular React Native packages with over one million weekly downloads. The attack injected malicious payloads into widely used libraries, posing an immediate risk to developers and organizations relying on these dependencies.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141155</guid>
-      <pubDate>Mon, 09 Jun 2025 09:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian Naval Operations Accidentally Jam New Zealand’s Internet and Radio</title>
-      <link>https://gbhackers.com/australian-naval-jam-new-zealands/</link>
-      <description>The article describes a widespread outage of wireless internet and radio services in New Zealand caused by HMAS Canberra's advanced navigation radar system interfering with civilian devices operating on the 5 GHz band. The incident highlights the fragility of the shared spectrum environment, particularly for rural and regional communities dependent on fixed wireless broadband.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141130</guid>
-      <pubDate>Mon, 09 Jun 2025 09:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
