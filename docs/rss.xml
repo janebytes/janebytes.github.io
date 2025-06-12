@@ -6,8 +6,157 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 22:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 13:02:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>GitLab patches high severity account takeover, missing auth issues</title>
+      <link>https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/</link>
+      <description>Vulnerable Product: GitLab; CVE(s): CVE-2025-4278, CVE-2025-5121, CVE-2025-2254, CVE-2025-0673; Summary: Multiple vulnerabilities in GitLab's DevSecOps platform allow attackers to take over accounts, inject malicious jobs, and exploit cross-site scripting and denial of service flaws. Successful exploitation requires authenticated access with a GitLab Ultimate license.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/</guid>
+      <pubDate>Thu, 12 Jun 2025 12:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Command Injection Flaw in Palo Alto PAN-OS Allows Root-Level Code Execution</title>
+      <link>https://gbhackers.com/flaw-in-palo-alto-pan-os/</link>
+      <description>Vulnerable Product: Palo Alto Networks PAN-OS; CVE(s): CVE-2025-4230; Summary: A command injection vulnerability in Palo Alto Networks PAN-OS software allows authenticated administrators to execute arbitrary commands with root privileges, enabling file system modifications, unauthorized service disruptions, and lateral network movement. The vulnerability impacts PAN-OS versions 10.x and 11.x, and is exploitable locally without user interaction.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141919</guid>
+      <pubDate>Thu, 12 Jun 2025 12:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Profile: DragonForce Ransomware</title>
+      <link>https://socradar.io/dark-web-profile-dragonforce-ransomware/</link>
+      <description>The article discusses the DragonForce Ransomware group, which has emerged as a significant threat in the cyber landscape. The group is known for its aggressive double extortion tactics, using both custom and borrowed tools to steal data, encrypt systems, and pressure victims into paying ransoms. The article provides an overview of the group's operations, including their use of leaked ransomware builders, advanced evasion techniques, and organized affiliate model. It also highlights the importance of proactive defense and intelligence gathering in detecting and stopping DragonForce attacks before they cause harm.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100048798</guid>
+      <pubDate>Thu, 12 Jun 2025 12:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trend Micro Apex One Zero-Day Vulnerability Enables Attackers to Inject Malicious Code</title>
+      <link>https://gbhackers.com/trend-micro-apex-one-zero-day-vulnerability/</link>
+      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-49154, CVE-2025-49155, CVE-2025-49156, CVE-2025-49157, CVE-2025-49158; Summary: Five critical vulnerabilities in Trend Micro's Apex One endpoint security platform allow attackers to execute arbitrary code and escalate privileges on affected systems. The most severe vulnerability, CVE-2025-49154, allows local attackers to overwrite key memory-mapped files, while the fifth vulnerability, CVE-2025-49155, enables remote attackers to execute arbitrary code with user interaction.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141901</guid>
+      <pubDate>Thu, 12 Jun 2025 11:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction</title>
+      <link>https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html</link>
+      <description>Vulnerable Product: Microsoft 365 Copilot; CVE(s): CVE-2025-32711; Summary: The EchoLeak vulnerability is a zero-click AI vulnerability that allows attackers to exfiltrate sensitive data from Microsoft 365 Copilot's context without user interaction. It requires no customer action and has been already addressed by Microsoft.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html</guid>
+      <pubDate>Thu, 12 Jun 2025 11:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-Human Identities: How to Address the Expanding Security Risk</title>
+      <link>https://thehackernews.com/2025/06/non-human-identities-how-to-address.html</link>
+      <description>The article highlights the risks and challenges associated with non-human identities (machine identities), such as service accounts, API keys, bots, automation, and workload identities. It emphasizes that traditional secrets managers do not address the full lifecycle of NHI governance, leading to a high risk of secrets leakage.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/non-human-identities-how-to-address.html</guid>
+      <pubDate>Thu, 12 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Advertise Advanced MaaS Botnet with Blockchain C2 on Hacking Forums</title>
+      <link>https://gbhackers.com/cybercriminals-advertise-advanced-maas-botnet/</link>
+      <description>The article discusses the alleged sale of a sophisticated Malware-as-a-Service (MaaS) botnet that combines legitimate development frameworks with cutting-edge evasion techniques. The botnet leverages Node.js runtime, blockchain-based command and control infrastructure, and modern web technologies to create a highly resilient and scalable malicious platform.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141879</guid>
+      <pubDate>Thu, 12 Jun 2025 10:47:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 24H2 emergency update fixes Easy Anti-Cheat BSOD issue</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/</link>
+      <description>Microsoft has released an emergency Windows 11 24H2 update (KB5063060) to address an incompatibility issue causing system restarts and blue screens of death (BSOD) errors on systems with Easy Anti-Cheat, a popular anti-cheating service used by hundreds of multiplayer games.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/</guid>
+      <pubDate>Thu, 12 Jun 2025 10:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique</title>
+      <link>https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/</link>
+      <description>Vulnerable Product: Various websites; CVE(s): None; Summary: A large-scale campaign has been compromising legitimate websites with injected, obfuscated JavaScript code. The code uses the JSFireTruck technique to hide its true purpose and redirect users to malicious URLs, potentially leading to malware downloads or other harmful activities.
+
+FYSA: This campaign is widespread and has infected many websites, making it a significant threat. Malware authors use this technique to make code analysis more difficult, and website administrators must keep their web servers up-to-date with the latest security updates and analyze their web servers for any signs of infection or compromise.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142866</guid>
+      <pubDate>Thu, 12 Jun 2025 10:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Launch Coordinated Attack on Apache Tomcat Manager from 400 Unique IPs</title>
+      <link>https://gbhackers.com/launch-coordinated-attack/</link>
+      <description>Vulnerable Product: Apache Tomcat; CVE(s): None; Summary: GreyNoise Intelligence has identified a significant coordinated attack campaign targeting Apache Tomcat Manager interfaces across the globe. The campaign involves nearly 400 unique IP addresses conducting large-scale reconnaissance and access attempts, with security experts warning that such broad scanning activities often precede more targeted exploitation attempts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141853</guid>
+      <pubDate>Thu, 12 Jun 2025 09:49:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fog ransomware attack uses unusual mix of legitimate and open-source tools</title>
+      <link>https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/</link>
+      <description>Fog ransomware operation uses an uncommon toolset, including open-source pentesting utilities and a legitimate employee monitoring software called Syteca. The toolset includes tools like Stowaway, SMBExec, GC2, Adapt2x C2, Process Watchdog, PsExec, Impacket SMB, 7-Zip, MegaSync, and FreeFileSync utilities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/</guid>
+      <pubDate>Thu, 12 Jun 2025 09:45:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Campaign Targets Entra ID User Accounts Using Pentesting Tool for Account Takeover</title>
+      <link>https://gbhackers.com/new-campaign-targets-entra-id-user-accounts/</link>
+      <description>A large-scale Account Takeover (ATO) campaign, internally tracked as UNK_SneakyStrike, has been discovered by Proofpoint Threat Intelligence. The campaign targets Microsoft Entra ID user accounts across global organizations, using the open-source penetration testing framework TeamFiltration to target over 80,000 user accounts and compromise sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141805</guid>
+      <pubDate>Thu, 12 Jun 2025 09:14:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows SMB Client Zero-Day Vulnerability Exploited via Reflective Kerberos Relay Attack</title>
+      <link>https://gbhackers.com/windows-smb-client-zero-day-vulnerability/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33073; Summary: The "Reflective Kerberos Relay Attack" allows low-privileged Active Directory users to escalate privileges to NT AUTHORITY\SYSTEM on domain-joined Windows systems that do not enforce SMB signing. The attack exploits advanced techniques such as authentication coercion, SPN confusion, and Kerberos ticket relay, resulting in SYSTEM-level access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141825</guid>
+      <pubDate>Thu, 12 Jun 2025 08:41:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>0-Click Vulnerability in Microsoft 365 Copilot Exposes Sensitive Data via Teams</title>
+      <link>https://gbhackers.com/vulnerability-in-microsoft-365-copilot/</link>
+      <description>Vulnerable Product: Microsoft 365 Copilot; CVE(s): CVE-2025-32711; Summary: A zero-click vulnerability, dubbed "EchoLeak", was discovered in Microsoft 365 Copilot's Retrieval-Augmented Generation (RAG) system, allowing attackers to automatically exfiltrate sensitive information without user interaction. The vulnerability exploits an "LLM Scope Violation" and affects the processing of organizational data, including emails, documents, and conversations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141813</guid>
+      <pubDate>Thu, 12 Jun 2025 07:58:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks</title>
+      <link>https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html</link>
+      <description>Vulnerable Product: ConnectWise; CVE(s): None; Summary: The vulnerability stems from ScreenConnect storing configuration data in an unsigned area of the installer, which could create an insecure design pattern. The company is releasing an update to improve configuration data management and rotating digital code signing certificates due to security concerns.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html</guid>
+      <pubDate>Thu, 12 Jun 2025 07:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Secure: INTERPOL’s Global Infostealer Crackdown Takes Down 20,000 Malicious IPs and Domains</title>
+      <link>https://socradar.io/operation-secure-interpols-infostealer-takes-down-20000-ips-domains/</link>
+      <description>INTERPOL's Operation Secure resulted in the dismantling of 20,000 malicious IPs and domains, seizure of 41 servers, and arrest of 32 suspects, with a focus on taking down cybercriminal networks trafficking in stolen information. The operation involved intelligence gathering, analysis, and precise actions by law enforcement agencies across Asia and the South Pacific.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060908</guid>
+      <pubDate>Thu, 12 Jun 2025 07:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nytheon AI Tool Gaining Traction on Hacking Forums for Malicious Activities</title>
+      <link>https://gbhackers.com/nytheon-ai-tool-gaining-traction/</link>
+      <description>Nytheon AI is a comprehensive suite of open-source large language models (LLMs) that offers a single interface for uncensored model inference. The platform's multimodal ingestion pipeline and API-driven automation create a dynamic threat landscape, posing substantial risks to organizations and individuals.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141787</guid>
+      <pubDate>Thu, 12 Jun 2025 06:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues Comprehensive Guide to Safeguard Network Edge Devices</title>
+      <link>https://gbhackers.com/cisa-issues-comprehensive-guide-to-safeguard/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has released comprehensive guidance to help organizations protect their network edge devices and appliances from foreign adversaries. The guidance addresses the growing threat landscape targeting firewalls, routers, VPN gateways, IoT devices, internet-facing servers, and OT systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141786</guid>
+      <pubDate>Thu, 12 Jun 2025 06:10:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 80,000 Microsoft Entra ID Accounts Targeted Using Open-Source TeamFiltration Tool</title>
+      <link>https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html</link>
+      <description>Vulnerable Product: TeamFiltration; CVE(s): None; Summary: The open-source penetration testing framework TeamFiltration is being misused by threat actors in a large-scale account takeover campaign called UNK_SneakyStrike. The tool, designed to enumerate and breach Microsoft Entra ID accounts, has been used to target over 80,000 user accounts across hundreds of organizations' cloud tenants.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html</guid>
+      <pubDate>Thu, 12 Jun 2025 05:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT o3 API 80% price drop has no impact on performance</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/</link>
+      <description>The article discusses OpenAI's price reduction of its ChatGPT o3 API model, which has no visible impact on performance. Additionally, it mentions the introduction of a new o3-pro model for $200 Pro subscribers and plans to combine multiple models into GPT-5.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/</guid>
+      <pubDate>Thu, 12 Jun 2025 00:06:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>SmartAttack uses smartwatches to steal data from air-gapped systems</title>
+      <link>https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/</link>
+      <description>SmartAttack is a novel attack that uses smartwatches as covert ultrasonic signal receivers to exfiltrate data from physically isolated (air-gapped) systems. The attack involves malware modulating audio signals on an air-gapped computer's speaker, which can be detected by a nearby smartwatch microphone and transmitted via Wi-Fi, Bluetooth, or cellular connectivity.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/</guid>
+      <pubDate>Wed, 11 Jun 2025 22:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-360: Trend Micro Worry-Free Business Security Uncontrolled Search Path Element Arbitrary Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-360/</link>
@@ -420,6 +569,13 @@
       <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: Some Windows Server 2025 domain controllers may become unreachable after a restart and trigger app or service failures due to incorrect network traffic management. This issue can be mitigated by applying the KB5060842 update or temporarily restarting the network adapter using PowerShell until the update is installed.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/</guid>
       <pubDate>Wed, 11 Jun 2025 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2025 Patch Tuesday Fixes 67 Flaws &amp; 2 Zero-Days; Critical Ivanti IWC Updates</title>
+      <link>https://socradar.io/june-2025-patch-tuesday-fixes-67-flaws-2-zero-days/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-33053, CVE-2025-33073; Summary: Two zero-days were disclosed in June 2025 Patch Tuesday updates. One (CVE-2025-33053) allows remote attackers to execute arbitrary code via a crafted WebDAV URL, which was actively exploited by Stealth Falcon, an advanced persistent threat group. The second (CVE-2025-33073) is a Windows SMB client vulnerability that allows authenticated attackers to elevate privileges to SYSTEM level.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060890</guid>
+      <pubDate>Wed, 11 Jun 2025 13:06:16 +0000</pubDate>
     </item>
     <item>
       <title>Multiple Microsoft Office Vulnerabilities Enable Remote Code Execution by Attackers</title>
@@ -1279,162 +1435,6 @@ FYSA: This report highlights the emergence of threat actors focusing on system s
       <description>Attackers have been increasingly using residential networks to mask their malicious activity, making it harder for organizations and law enforcement to detect and track suspicious traffic. This tactic uses decentralized platforms running on consumer hardware to reduce insight and control, allowing criminal actors to operate undetected.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/06/cybercriminals-turn-to-residential-proxy-services-to-hide-malicious-traffic/</guid>
       <pubDate>Sun, 08 Jun 2025 11:15:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Browser Extensions Infect 722 Users Across Latin America Since Early 2025</title>
-      <link>https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html</link>
-      <description>Vulnerable Product: GAS Tecnologia Warsaw; CVE(s): None; Summary: A malicious browser extension for Chromium-based web browsers was detected in a campaign targeting Brazilian users, allowing attackers to siphon user authentication data and potentially display loading screens or serve malicious QR codes on the bank's web page.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html</guid>
-      <pubDate>Sun, 08 Jun 2025 08:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supply chain attack hits Gluestack NPM packages with 960K weekly downloads</title>
-      <link>https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/</link>
-      <description>Vulnerable Product: Gluestack "react-native-aria" packages; CVE(s): None; Summary: A significant supply chain attack compromised 16 popular Gluestack packages on NPM, including over 950,000 weekly downloads. The malicious code acts as a remote access trojan (RAT), allowing attackers to execute commands and hijack systems.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/</guid>
-      <pubDate>Sat, 07 Jun 2025 19:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm packages posing as utilities delete project directories</title>
-      <link>https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/</link>
-      <description>Vulnerable Product: npm JavaScript package index; CVE(s): None; Summary: Two malicious packages, 'express-api-sync' and 'system-health-sync-api', were discovered in the npm JavaScript package index. These packages posed as database syncing and system health monitoring tools but contained backdoors that enabled remote data-wiping actions at infected hosts.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/</guid>
-      <pubDate>Sat, 07 Jun 2025 14:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Millions of low-cost Android devices turn home networks into crime platforms</title>
-      <link>https://arstechnica.com/security/2025/06/millions-of-low-cost-android-devices-turn-home-networks-into-crime-platforms/</link>
-      <description>A coordinated effort by Google and others disrupted a new malware campaign, BadBox 2.0, affecting over 1 million off-brand Android devices not certified under Play Protect. The FBI warned consumers to evaluate their IoT devices for signs of compromise, such as automatic connections to malicious app markets or requests to disable Play Protect.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/millions-of-low-cost-android-devices-turn-home-networks-into-crime-platforms/</guid>
-      <pubDate>Fri, 06 Jun 2025 19:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-331: Autodesk Revit RFA File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-331/</link>
-      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5036; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit. User interaction is required to exploit this vulnerability, which exists within the parsing of RFA files due to a lack of validating the existence of an object prior to performing operations on it.</description>
-      <guid isPermaLink="false">ZDI-CAN-26852</guid>
-      <pubDate>Fri, 06 Jun 2025 19:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft shares script to restore inetpub folder you shouldn’t delete</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-21204, None; Summary: A high-severity Windows Process Activation privilege escalation vulnerability was mitigated by the creation of an empty "inetpub" folder. Removing this folder can make systems vulnerable again to the patched vulnerability.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/</guid>
-      <pubDate>Fri, 06 Jun 2025 17:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tax resolution firm Optima Tax Relief hit by ransomware, data leaked</title>
-      <link>https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/</link>
-      <description>The article reports on a Chaos ransomware attack against Optima Tax Relief, a US-based tax resolution firm. The attackers stole 69 GB of corporate and customer data, including sensitive personal information such as Social Security numbers, phone numbers, and home addresses.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/</guid>
-      <pubDate>Fri, 06 Jun 2025 17:14:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Rust-Developed InfoStealer Drains Sensitive Data from Chromium-Based Browsers</title>
-      <link>https://gbhackers.com/new-rust-developed-infostealer/</link>
-      <description>RustStealer is an information-stealing malware designed to extract sensitive data from Chromium-based browsers such as Google Chrome and Microsoft Edge. It uses advanced obfuscation techniques, exploits unencrypted data stored in browser profiles, and can exfiltrate data to remote command-and-control servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141073</guid>
-      <pubDate>Fri, 06 Jun 2025 16:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Leverage New ClickFix Tactic to Exploit Human Error with Deceptive Prompts</title>
-      <link>https://gbhackers.com/hackers-leverage-new-clickfix-tactic-to-exploit-human-error/</link>
-      <description>A sophisticated social engineering technique called ClickFix baiting has gained popularity among cybercriminals, targeting human end users as the weakest link in cybersecurity defenses. This method uses seemingly benign prompts to trick users into executing malicious commands, bypassing traditional security measures with ease. The attack chain involves spear phishing links, drive-by compromises, or fake CAPTCHA prompts that redirect users to malicious URLs, ultimately leading to the installation of malware families like XWorm, Lumma, and AsyncRAT.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141025</guid>
-      <pubDate>Fri, 06 Jun 2025 16:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users</title>
-      <link>https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html</link>
-      <description>Cybersecurity researchers have detected a new malware campaign using the ClickFix social engineering tactic to distribute an information stealer malware, Atomic macOS Stealer (AMOS), on Apple macOS systems. The campaign leverages typosquat domains mimicking U.S.-based telecom provider Spectrum and tricks users into downloading the malware by serving malicious shell scripts designed to steal system passwords.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html</guid>
-      <pubDate>Fri, 06 Jun 2025 16:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-326: (0Day) (Pwn2Own) WOLFBOX Level 2 EV Charger MCU Command Parsing Misinterpretation of Input Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-326/</link>
-      <description>Vulnerable Product: WOLFBOX Level 2 EV Charger; CVE(s): CVE-2025-5747; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of WOLFBOX Level 2 EV Charger devices. Authentication is required to exploit this vulnerability, which exists within the handling of command frames received by the MCU due to misinterpretation of input.</description>
-      <guid isPermaLink="false">ZDI-CAN-26501</guid>
-      <pubDate>Fri, 06 Jun 2025 16:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-327: (0Day) (Pwn2Own) WOLFBOX Level 2 EV Charger LAN OTA Exposed Dangerous Method Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-327/</link>
-      <description>Vulnerable Product: WOLFBOX Level 2 EV Charger; CVE(s): ZDI-25-327, ZDI-CAN-26349, CVE-2025-5748; Summary: This vulnerability allows remote code execution on affected installations of WOLFBOX Level 2 EV Charger through the exposure of a method for uploading crafted software images to the Tuya communications module. Although authentication is required, the existing mechanism can be bypassed.</description>
-      <guid isPermaLink="false">ZDI-CAN-26349</guid>
-      <pubDate>Fri, 06 Jun 2025 16:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-328: (0Day) (Pwn2Own) WOLFBOX Level 2 EV Charger BLE Encryption Keys Uninitialized Variable Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-328/</link>
-      <description>Vulnerable Product: WOLFBOX Level 2 EV Charger; CVE(s): CVE-2025-5749; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of WOLFBOX Level 2 EV Charger devices without requiring authentication. The specific flaw exists within the handling of cryptographic keys used in vendor-specific encrypted communications, resulting from an uninitialized variable.</description>
-      <guid isPermaLink="false">ZDI-CAN-26295</guid>
-      <pubDate>Fri, 06 Jun 2025 16:02:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-329: (0Day) (Pwn2Own) WOLFBOX Level 2 EV Charger tuya_svc_devos_activate_result_parse Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-329/</link>
-      <description>Vulnerable Product: WOLFBOX Level 2 EV Charger; CVE(s): CVE-2025-5750; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations without authentication. It occurs due to the lack of proper validation of user-supplied data length prior to copying it to a fixed-length heap-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26294</guid>
-      <pubDate>Fri, 06 Jun 2025 16:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hundreds of Malicious GitHub Repos Targeting Novice Cybercriminals Traced to Single User</title>
-      <link>https://gbhackers.com/hundreds-of-malicious-github-repos-targeting-novice-cybercriminals/</link>
-      <description>The article reports on a campaign involving over 140 GitHub repositories laced with malicious backdoors orchestrated by a single threat actor. The backdoors employ four distinct types of backdoors, including PreBuild event scripts in Visual Basic project files, Python scripts, screensaver (.scr) files disguised as solution files, and JavaScript payloads.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141010</guid>
-      <pubDate>Fri, 06 Jun 2025 16:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-330: (0Day) (Pwn2Own) WOLFBOX Level 2 EV Charger Management Card Hard-coded Credentials Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-330/</link>
-      <description>Vulnerable Product: WOLFBOX Level 2 EV Charger; CVE(s): CVE-2025-5751; Summary: This vulnerability allows physically present attackers to bypass authentication on affected installations of the WOLFBOX Level 2 EV Charger. The specific flaw exists within the handling of management cards, resulting from the lack of personalization of management cards.</description>
-      <guid isPermaLink="false">ZDI-CAN-26292</guid>
-      <pubDate>Fri, 06 Jun 2025 16:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickFix Attack Uses Fake Cloudflare Verification to Silently Deploy Malware</title>
-      <link>https://gbhackers.com/clickfix-attack-uses-fake-cloudflare-verification/</link>
-      <description>A newly identified social engineering attack called "ClickFix" leverages fake Cloudflare verification pages to trick users into executing malicious code. The attack exploits user familiarity with Cloudflare's CAPTCHA interface, bypassing traditional security filters and delivering payloads such as info-stealers or remote access trojans.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140996</guid>
-      <pubDate>Fri, 06 Jun 2025 15:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kettering Health confirms Interlock ransomware behind cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/</link>
-      <description>The Interlock ransomware group breached Kettering Health's network and stole sensitive information, including patient data, in a May cyberattack. The gang has been associated with other attacks on healthcare organizations and has deployed a previously unknown remote access trojan (RAT) called NodeSnake.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/</guid>
-      <pubDate>Fri, 06 Jun 2025 15:26:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>DragonForce Ransomware Reportedly Compromised Over 120 Victims in the Past Year</title>
-      <link>https://gbhackers.com/dragonforce-ransomware-reportedly-compromised-over-120-victims/</link>
-      <description>DragonForce, a ransomware group, has claimed over 120 victims in the past year and is considered a critical threat to monitor in 2025. The group targets organizations across various industries using a calculated approach that includes exploiting vulnerabilities, phishing, credential stuffing, and leveraging legitimate tools for persistence and lateral movement.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140982</guid>
-      <pubDate>Fri, 06 Jun 2025 15:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware: Fake AI Business Tools Spreading Hidden Ransomware</title>
-      <link>https://gbhackers.com/fake-ai-business-tools-spreading-hidden-ransomware/</link>
-      <description>Cybercriminals are deploying ransomware through deceptive campaigns targeting small businesses that adopt artificial intelligence (AI) tools. Attackers create fake websites and software installers that mimic popular AI services, leading to the installation of malware such as CyberLock, Lucky_Gh0$t, or Numero, which can render systems unusable or demand payment in cryptocurrency.
-
-FYSA: Cybercriminals are capitalizing on the AI boom by targeting small businesses with ransomware attacks, posing a dual risk of immediate system compromise and long-term damage to confidence in digital tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140946</guid>
-      <pubDate>Fri, 06 Jun 2025 14:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PathWiper data wiper malware hits critical infrastructure in Ukraine</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/</link>
-      <description>PathWiper is a newly discovered data wiper malware used in targeted attacks against critical infrastructure in Ukraine, aimed at disrupting operations. The payload was deployed through a legitimate endpoint administration tool and has similar functionality to HermeticWiper, previously deployed by the 'Sandworm' threat group.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/</guid>
-      <pubDate>Fri, 06 Jun 2025 14:40:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider Hackers Target Tech Company Help-Desk Administrators</title>
-      <link>https://gbhackers.com/scattered-spider-hackers-target-tech-company/</link>
-      <description>The Scattered Spider hacking group has launched a targeted campaign against help-desk administrators at major technology companies, using advanced social engineering techniques and APT methodologies to breach corporate defenses. The attackers leverage phishing, credential stuffing, and impersonation tactics to gain unauthorized access to critical systems, often exploiting human vulnerabilities as effectively as technical ones. This campaign highlights the importance of robust employee training, multi-factor authentication protocols, and continuous monitoring to detect anomalous behavior.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=140972</guid>
-      <pubDate>Fri, 06 Jun 2025 14:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
