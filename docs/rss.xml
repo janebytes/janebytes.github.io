@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 17:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 18:02:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Graphite spyware used in Apple iOS zero-click attacks on journalists</title>
+      <link>https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/</link>
+      <description>Vulnerable Product: Paragon's Graphite spyware platform; CVE(s): CVE-2025-43200; Summary: The Graphite spyware platform was used to launch zero-click attacks against at least two journalists' Apple iOS devices. The attack exploited a zero-day vulnerability in the processing of maliciously crafted photos or videos shared via an iCloud Link, allowing remote code execution without any interaction from the target.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/</guid>
+      <pubDate>Thu, 12 Jun 2025 17:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>AitM Phishing Attacks on Microsoft 365 and Google Aimed at Stealing Login Credentials</title>
+      <link>https://gbhackers.com/aitm-phishing-attacks-on-microsoft-365-and-google-aimed/</link>
+      <description>A dramatic escalation in phishing attacks leveraging Adversary-in-the-Middle (AiTM) techniques has swept across organizations worldwide. These attacks use sophisticated reverse proxy servers to intercept user credentials and session cookies in real-time, bypassing even advanced security measures like Multi-Factor Authentication (MFA). Threat actors are constantly refining their methods to evade detection, employing various tactics such as HTML and SVG attachments, QR codes, and encrypted scripts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141843</guid>
+      <pubDate>Thu, 12 Jun 2025 17:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OneLogin AD Connector Vulnerabilities Expose Authentication Credentials</title>
+      <link>https://gbhackers.com/onelogin-ad-connector-vulnerabilities/</link>
+      <description>Vulnerable Product: OneLogin Active Directory (AD)Connector; CVE(s): None; Summary: A critical security vulnerability in OneLogin's AD Connector service allowed malicious actors to obtain authentication credentials, impersonate users, and access sensitive applications. The flaw was exploited by obtaining AWS credentials hard-coded in logs and using them to forge valid JSON Web Tokens (JWTs), enabling unauthorized access to enterprise applications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141838</guid>
+      <pubDate>Thu, 12 Jun 2025 17:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Using Bat Files to Deploy Quasar RAT</title>
       <link>https://gbhackers.com/threat-actors-using-bat-files/</link>
@@ -1406,27 +1427,6 @@ FYSA: The article also mentions an unpatched account takeover vulnerability (CVE
       <description>The Blitz malware is a Windows-based malware that deploys a Monero cryptocurrency miner, information-stealer, and DoS capability. It spreads through backdoored game cheats for the popular mobile game Standoff 2 and communicates via a REST API built on the FastAPI framework.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141219</guid>
       <pubDate>Mon, 09 Jun 2025 14:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Shuts Down ChatGPT Accounts Linked to Russian, Iranian &amp; Chinese Cyber</title>
-      <link>https://gbhackers.com/openai-shuts-down-chatgpt/</link>
-      <description>The article discusses the role of artificial intelligence (AI) in cybersecurity, highlighting its potential to detect and mitigate various threats such as social engineering campaigns, cyber espionage operations, scams, and spam. The organization uses AI-driven tools to analyze vast datasets, flag anomalies, and identify suspicious behaviors, with a focus on countering authoritarian regimes, child exploitation, and malicious cyber activity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141207</guid>
-      <pubDate>Mon, 09 Jun 2025 13:58:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Deploy FormBook Malware via Weaponized Excel Files to Target Windows Systems</title>
-      <link>https://gbhackers.com/hackers-deploy-formbook-malware-via-weaponized-excel-files/</link>
-      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2017-0199; Summary: A critical phishing campaign targets Windows users by exploiting a long-standing vulnerability in older versions of Microsoft Office (Office 2007/2010/2013/2016) using malicious Excel attachments. The exploit triggers an HTTP request to download additional payloads, ultimately unleashing the FormBook malware, which steals sensitive information and poses a severe threat to victims' devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141203</guid>
-      <pubDate>Mon, 09 Jun 2025 13:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 1,000 Employees Departed CISA Since Trump Administration Began</title>
-      <link>https://gbhackers.com/over-1000-employees-departed/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has lost nearly one-third of its workforce since the start of the Trump administration, with approximately 1,000 employees leaving due to buyouts, early retirements, and layoffs. This reduction in staff coincides with a proposed 17% to 30% reduction in CISA's budget, targeting critical programs such as continuous diagnostics and monitoring (CDM) tools and CyberSentry. The departures and funding cuts threaten the agency's ability to fulfill its core mission of defending federal networks, supporting critical infrastructure operators, and responding to cyber incidents.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141205</guid>
-      <pubDate>Mon, 09 Jun 2025 13:33:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
