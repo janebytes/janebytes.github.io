@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 18:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 19:02:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>OpenPGP.js Vulnerability Allows Attackers to Bypass Message Signature Verification</title>
+      <link>https://gbhackers.com/openpgp-js-vulnerability-allows-attackers/</link>
+      <description>Vulnerable Product: OpenPGP.js; CVE(s): CVE-2025-47934; Summary: A critical vulnerability in OpenPGP.js (versions 5.0.1 to 5.11.2 and 6.0.0-alpha.0 to 6.1.0) allows attackers to spoof message signatures, potentially undermining the trust model of public key cryptography. The flaw enables attackers to manipulate signed or signed-and-encrypted messages so that they appear to be validly signed by a trusted party even when the underlying data has been maliciously altered.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141930</guid>
+      <pubDate>Thu, 12 Jun 2025 18:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Defender Bypass Using PowerShell and Registry Edits in CyberEYE RAT</title>
+      <link>https://gbhackers.com/windows-defender-bypass-using-powershell-and-registry-edits/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: CyberEye is a remote access trojan (RAT) that uses Telegram as its command-and-control (C2) infrastructure. It has sophisticated capabilities, including keyloggers, file grabbers, clipboard hijackers, and persistence mechanisms, making it easy for attackers to customize payloads and evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141878</guid>
+      <pubDate>Thu, 12 Jun 2025 18:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network</title>
+      <link>https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html</link>
+      <description>VexTrio ViperTraffic Distribution Service (TDS) is a sophisticated cybercriminal operation distributing malicious content through smartlinks and push notifications. The operation involves multiple TDS services, including Help TDS and Disposable TDS, which redirect victims to scam infrastructure. VexTrio's malware actors are often linked to Russian-connected infrastructure, and the company's operations have been compromised by DNS threat intelligence firm Qurium.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html</guid>
+      <pubDate>Thu, 12 Jun 2025 17:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>Graphite spyware used in Apple iOS zero-click attacks on journalists</title>
       <link>https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/</link>
@@ -1406,27 +1427,6 @@ FYSA: The article also mentions an unpatched account takeover vulnerability (CVE
       <description>This article describes an APT41 campaign that uses Google Calendar as a command-and-control (C2) mechanism to exfiltrate information and retrieve commands from attackers. The malware, named ToughProgress, employs advanced obfuscation techniques, process hollowing, and driver-like handling to achieve persistence and privilege escalation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141247</guid>
       <pubDate>Mon, 09 Jun 2025 14:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Designing Blue Team playbooks with Wazuh for proactive incident response</title>
-      <link>https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/</link>
-      <description>This article discusses Blue Team playbooks, which are detailed guides outlining how to identify, contain, and remediate specific security incidents. The article highlights the importance of structured processes in incident response and mentions Wazuh, an open-source security platform that provides real-time threat detection, automated response, and comprehensive incident management capabilities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/</guid>
-      <pubDate>Mon, 09 Jun 2025 14:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Designing Blue Team playbooks with Wazuh for proactive cyber defense</title>
-      <link>https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-cyber-defense/</link>
-      <description>This article discusses Blue Team playbooks, which are detailed guides outlining how to identify, contain, and remediate specific security incidents. The article highlights the importance of structured processes in incident response and introduces Wazuh, an open-source security platform that provides real-time threat detection, automated response, and comprehensive incident management for various attack scenarios.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-cyber-defense/</guid>
-      <pubDate>Mon, 09 Jun 2025 14:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Blitz Malware Targets Windows Servers to Deploy Monero Miner</title>
-      <link>https://gbhackers.com/new-blitz-malware-targets-windows-servers/</link>
-      <description>The Blitz malware is a Windows-based malware that deploys a Monero cryptocurrency miner, information-stealer, and DoS capability. It spreads through backdoored game cheats for the popular mobile game Standoff 2 and communicates via a REST API built on the FastAPI framework.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141219</guid>
-      <pubDate>Mon, 09 Jun 2025 14:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
