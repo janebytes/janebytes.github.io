@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 19:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 20:03:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cybercriminals Exploiting Expired Discord Invite Links to Deploy Multi-Stage Malware</title>
+      <link>https://gbhackers.com/cybercriminals-exploiting-expired-discord-invite-links/</link>
+      <description>Vulnerable Product: Discord; CVE(s): None; Summary: A sophisticated malware campaign exploits a little-known flaw in Discord's invitation system, allowing attackers to hijack expired or deleted invite links and redirect users to malicious servers. The attack chain delivers powerful malware that targets cryptocurrency assets, stealing browser credentials, Discord tokens, and cryptocurrency wallets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141963</guid>
+      <pubDate>Thu, 12 Jun 2025 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trend Micro fixes critical vulnerabilities in multiple products</title>
+      <link>https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central and Endpoint Encryption (TMEE) PolicyServer; CVE(s): CVE-2025-49212, CVE-2025-49213, CVE-2025-49216, CVE-2025-49217; Summary: Multiple critical-severity remote code execution and authentication bypass vulnerabilities were identified in Trend Micro's Apex Central and Endpoint Encryption (TMEE) PolicyServer products. The vulnerabilities allow attackers to execute arbitrary code as SYSTEM without requiring login or fully bypass login and perform admin-level actions without credentials.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/</guid>
+      <pubDate>Thu, 12 Jun 2025 19:31:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit DeepSeek-R1 Popularity to Target Windows Device Users</title>
+      <link>https://gbhackers.com/threat-actors-exploit-deepseek-r1-popularity/</link>
+      <description>A sophisticated cyberattack campaign is targeting users seeking to download the language model DeepSeek-R1, exploiting malvertising and phishing tactics to distribute previously unknown malware, BrowserVenom. The malware hijacks victims' web traffic, steals sensitive information, and updates browser settings for persistence.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141942</guid>
+      <pubDate>Thu, 12 Jun 2025 19:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud and Cloudflare hit by widespread service outages</title>
+      <link>https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/</link>
+      <description>Cloudflare and Google Cloud are investigating ongoing outages affecting multiple services across regions, including Cloudflare Zero Trust WARP connectivity issues and authentication failures. The incidents appear to be impacting various online services and platforms, with Downdetector reporting tens of thousands of reports.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/</guid>
+      <pubDate>Thu, 12 Jun 2025 19:04:22 +0000</pubDate>
+    </item>
     <item>
       <title>OpenPGP.js Vulnerability Allows Attackers to Bypass Message Signature Verification</title>
       <link>https://gbhackers.com/openpgp-js-vulnerability-allows-attackers/</link>
@@ -21,6 +49,13 @@
       <description>Vulnerable Product: N/A; CVE(s): None; Summary: CyberEye is a remote access trojan (RAT) that uses Telegram as its command-and-control (C2) infrastructure. It has sophisticated capabilities, including keyloggers, file grabbers, clipboard hijackers, and persistence mechanisms, making it easy for attackers to customize payloads and evade detection.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141878</guid>
       <pubDate>Thu, 12 Jun 2025 18:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Know thyself, know thy environment</title>
+      <link>https://blog.talosintelligence.com/know-thyself-know-thy-environment/</link>
+      <description>Vulnerable Product: Various software (catdoc, Parallel, NVIDIA, High-Logic FontCreator); CVE(s): None; Summary: Several vulnerabilities were disclosed across various software products, including catdoc which posed an exception as the vendor was unreachable. These vulnerabilities highlight risks in widely used software, potentially exposing systems to attacks such as privilege escalation, memory corruption, and data leaks.</description>
+      <guid isPermaLink="false">684ad31518508e0001bb2cd6</guid>
+      <pubDate>Thu, 12 Jun 2025 18:01:24 +0000</pubDate>
     </item>
     <item>
       <title>WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network</title>
@@ -1392,41 +1427,6 @@ FYSA: The article also mentions an unpatched account takeover vulnerability (CVE
       <description>Skitnet malware (also known as Bossnet) is a post-exploitation package with an integrated server-side control panel that has emerged as a critical tool for ransomware gangs, showcasing increased operational efficiency for cybercriminals. It initiates its infection chain through social engineering tactics and uses various techniques to evade detection, including DLL hijacking, dynamic API resolution, and anti-forensic measures.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141291</guid>
       <pubDate>Mon, 09 Jun 2025 15:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Warns of Surge in Cyberattacks Targeting US Users to Steal Login Credentials</title>
-      <link>https://gbhackers.com/google-warns-of-surge-in-cyberattacks-targeting-us-users/</link>
-      <description>The article highlights a significant increase in cyberattacks and scams targeting US consumers, with a focus on stealing login credentials. Scammers are leveraging text messages and email as attack vectors, and users are increasingly relying on modern authentication methods like passkeys and social sign-ins to stay secure. Google is actively combating these threats through AI-driven security features, including blocking over 99.9% of spam, phishing, and malware in Gmail.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141283</guid>
-      <pubDate>Mon, 09 Jun 2025 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks</title>
-      <link>https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html</link>
-      <description>Vulnerable Product: Wazur Server; CVE(s): CVE-2025-24016; Summary: A critical security flaw (CVE-2025-24016) in the Wazuh server allows remote code execution, and has been exploited by threat actors to drop Mirai botnet variants and conduct DDoS attacks. The vulnerability was patched in February 2025, but attempts at exploitation were detected as early as March and May 2025.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html</guid>
-      <pubDate>Mon, 09 Jun 2025 14:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Bypassed Privacy Protections to Track Android Users</title>
-      <link>https://gbhackers.com/meta-bypassed-privacy-protections/</link>
-      <description>Vulnerable Product: Meta (formerly Facebook) and Yandex; CVE(s): None; Summary: Meta and Yandex exploited a design feature of Android's localhost ports to track users' web activity and link it to their real identities. The tracking technique, which bypasses typical privacy protections, allows apps to receive browser metadata and cookies, enabling the creation of a persistent profile of a user's browsing habits.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141295</guid>
-      <pubDate>Mon, 09 Jun 2025 14:33:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Targets $7.7M in Crypto Tied to North Korean IT Worker Scam</title>
-      <link>https://gbhackers.com/u-s-targets-7-7m-in-crypto-tied/</link>
-      <description>The United States Department of Justice has seized over $7.7 million in cryptocurrency and digital assets linked to a sophisticated global laundering operation orchestrated by North Korea. The operation involved the use of falsified identities, virtual private networks (VPNs), and advanced obfuscation techniques to conceal the origin of the funds.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141208</guid>
-      <pubDate>Mon, 09 Jun 2025 14:33:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT41 Hackers Leverage Google Calendar for Malware C2 in Attacks on Government Entities</title>
-      <link>https://gbhackers.com/apt41-hackers-leverage-google-calendar-for-malware/</link>
-      <description>This article describes an APT41 campaign that uses Google Calendar as a command-and-control (C2) mechanism to exfiltrate information and retrieve commands from attackers. The malware, named ToughProgress, employs advanced obfuscation techniques, process hollowing, and driver-like handling to achieve persistence and privilege escalation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141247</guid>
-      <pubDate>Mon, 09 Jun 2025 14:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
