@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 14:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 15:02:58 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Password-spraying attacks target 80,000 Microsoft Entra ID accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/</link>
+      <description>The TeamFiltration pentesting framework has been used by threat actor UNK_SneakyStrike to target over 80,000 Microsoft Entra ID accounts at hundreds of organizations worldwide. The campaign used AWS servers across multiple regions and exploited vulnerabilities in Office 365 API for account enumeration.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/</guid>
+      <pubDate>Thu, 12 Jun 2025 14:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>137,000 SoftBank Customers Affected by Data Leak from Third-Party Vendor</title>
+      <link>https://gbhackers.com/137000-softbank-customers-affected/</link>
+      <description>The article discusses SoftBank's approach to data security, highlighting the importance of comprehensive policies, employee training, and technical safeguards. It also emphasizes the need for robust data protection frameworks to prevent data leaks and breaches, particularly in outsourcing contexts. Additionally, the article touches on regulatory compliance and the evolving nature of cybersecurity threats in the telecommunications industry.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141961</guid>
+      <pubDate>Thu, 12 Jun 2025 14:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple GitLab Vulnerabilities Expose Users to Complete Account Takeover Risks</title>
+      <link>https://gbhackers.com/multiple-gitlab-vulnerabilities/</link>
+      <description>Vulnerable Product: GitLab; CVE(s): CVE-2025-4278, CVE-2025-2254, CVE-2025-5121, CVE-2025-0673, CVE-2025-1516, CVE-2025-1478, CVE-2024-9512, CVE-2025-5195, CVE-2025-5982; Summary: GitLab has released urgent security updates to address multiple high-severity vulnerabilities that could allow attackers to take over user accounts, inject malicious code, and disrupt services. The vulnerabilities include account takeover via injected HTML, cross-site scripting, injecting malicious CI/CD jobs, and denial-of-service attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141902</guid>
+      <pubDate>Thu, 12 Jun 2025 14:18:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes</title>
+      <link>https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html</link>
+      <description>Vulnerable Product: Various Large Language Models (LLMs); CVE(s): None; Summary: The TokenBreak attack technique can bypass LLMs' safety and content moderation guardrails by manipulating input text with single character changes. This manipulation causes the tokenizer to split the text differently, allowing malicious input to be classified as legitimate, potentially leading to prompt injection attacks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html</guid>
+      <pubDate>Thu, 12 Jun 2025 13:52:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Resolves Windows Server 2025 Restart Bug Disrupting Active Directory Connectivity</title>
       <link>https://gbhackers.com/microsoft-resolves-windows-server/</link>
@@ -1411,34 +1439,6 @@ Overall, the article highlights the ongoing threat of cybercrime and the importa
       <description>The article describes a widespread outage of wireless internet and radio services in New Zealand caused by HMAS Canberra's advanced navigation radar system interfering with civilian devices operating on the 5 GHz band. The incident highlights the fragility of the shared spectrum environment, particularly for rural and regional communities dependent on fixed wireless broadband.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141130</guid>
       <pubDate>Mon, 09 Jun 2025 09:03:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Utility Packages Enable Attackers to Wipe Production Systems</title>
-      <link>https://gbhackers.com/malicious-npm-utility-packages-enable-attackers/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: Two malicious npm packages (express-api-sync and system-health-sync-api) were discovered by Socket's Threat Research Team. The packages, designed to masquerade as legitimate utilities, embed destructive backdoors that can annihilate production systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141127</guid>
-      <pubDate>Mon, 09 Jun 2025 08:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HelloTDS Malware Spread via FakeCaptcha Infrastructure Infects Millions of Devices</title>
-      <link>https://gbhackers.com/hellotds-malware-spread-via-fakecaptcha-infrastructure/</link>
-      <description>The HelloTDS (Traffic Direction System) infrastructure has been uncovered, delivering malicious campaigns to millions of users worldwide. It employs advanced fingerprinting techniques and social engineering to selectively target victims, infecting over 4.3 million devices in April and May 2025 alone.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141116</guid>
-      <pubDate>Mon, 09 Jun 2025 08:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Salesforce Vulnerability Exposes Global Users to SOQL Injection Attacks</title>
-      <link>https://gbhackers.com/critical-salesforce-vulnerability/</link>
-      <description>Vulnerable Product: Salesforce Aura controller; CVE(s): None; Summary: A critical SOQL injection vulnerability was discovered in a default Salesforce Aura controller, affecting potentially thousands of deployments and millions of user records. The vulnerability allowed for the extraction of sensitive data, such as user emails, names, addresses, and even password hashes, depending on the configuration.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141112</guid>
-      <pubDate>Mon, 09 Jun 2025 08:04:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Bans ChatGPT Accounts Used by Russian, Iranian and Chinese Hacker Groups</title>
-      <link>https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html</link>
-      <description>This article reports on multiple threat actors using ChatGPT accounts to develop malware, automate social media posts, research satellite communications technologies, and engage in other malicious activities. The account holders used temporary email addresses to sign up for ChatGPT, fine-tuned their code, and distributed AI-assisted malware through a publicly available code repository.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html</guid>
-      <pubDate>Mon, 09 Jun 2025 06:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
