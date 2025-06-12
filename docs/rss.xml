@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 13:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 14:07:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Resolves Windows Server 2025 Restart Bug Disrupting Active Directory Connectivity</title>
+      <link>https://gbhackers.com/microsoft-resolves-windows-server/</link>
+      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): CVE-2025-26647, None; Summary: The vulnerability affects Windows Server 2025 domain controllers, causing authentication failures and network connectivity problems. The issue occurs when security update KB5055523 changes how domain controllers validate certificates used for Kerberos authentication, requiring certificates to chain to an issuing certificate authority (CA) in the NTAuth store. The problem is resolved with the June 2025 Patch Tuesday updates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141944</guid>
+      <pubDate>Thu, 12 Jun 2025 13:40:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge now offers secure password deployment for businesses</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/</link>
+      <description>Microsoft has announced the general availability of a new feature for Microsoft Edge, allowing administrators to deploy encrypted shared passwords to specific user groups in enterprise environments. This feature aims to minimize the risk of unauthorized access by ensuring that employees do not accidentally share passwords with unintended recipients.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/</guid>
+      <pubDate>Thu, 12 Jun 2025 13:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar</title>
+      <link>https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html</link>
+      <description>This article discusses the growing threat of non-human identities (NHI) created by AI agents, chatbots, and automation scripts. These invisible identities, such as API keys, service accounts, and OAuth tokens, are powerful and unsecured, allowing attackers to move laterally through cloud infrastructure, deploy malware, and exfiltrate data without triggering alerts. The article emphasizes the need for new strategies to secure these NHIs, citing traditional IAM tools as insufficient for this task.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html</guid>
+      <pubDate>Thu, 12 Jun 2025 13:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privilege Escalation in PAN-OS Web Interface Allows Admin Users to Perform Root Actions</title>
+      <link>https://gbhackers.com/privilege-escalation-in-pan-os-web/</link>
+      <description>Vulnerable Product: Palo Alto Networks PAN-OS operating system; CVE(s): CVE-2025-4231; Summary: A medium-severity command injection vulnerability (CVE-2025-4231) in the management web interface of PAN-OS allows authenticated administrative users to escalate privileges and execute commands as the root user, potentially compromising the entire firewall system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=141935</guid>
+      <pubDate>Thu, 12 Jun 2025 12:48:56 +0000</pubDate>
+    </item>
     <item>
       <title>GitLab patches high severity account takeover, missing auth issues</title>
       <link>https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/</link>
@@ -149,6 +177,19 @@ FYSA: This campaign is widespread and has infected many websites, making it a si
       <description>The article discusses OpenAI's price reduction of its ChatGPT o3 API model, which has no visible impact on performance. Additionally, it mentions the introduction of a new o3-pro model for $200 Pro subscribers and plans to combine multiple models into GPT-5.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/</guid>
       <pubDate>Thu, 12 Jun 2025 00:06:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predator Still Active, with New Client and Corporate Links Identified</title>
+      <link>https://www.recordedfuture.com/research/predator-still-active-new-links-identified</link>
+      <description>FYSA:
+
+The provided article appears to be an analysis of the Predator spyware product and its connections to Intellexa Consortium. The report discusses the continued use of Predator despite widespread media attention and sanctions targeting Intellexa.
+
+The article highlights the adoption of new tactics by Predator operators to evade detection, including the use of new domains and IP addresses. It also mentions the connection between Predator infrastructure and corporate entities associated with the Intellexa Consortium, specifically FoxITech s.r.o., a Czech company based in Krnov.
+
+The report suggests that public exposure, sanctions, and related measures have likely imposed operational costs on Intellexa, driving efforts to increase the complexity of corporate structures, making operations harder to trace and disrupt. The continued spread of Predator and similar spyware products presents a significant risk to a broad range of organizations and individuals.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/predator-still-active-new-links-identified</guid>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SmartAttack uses smartwatches to steal data from air-gapped systems</title>
@@ -1398,43 +1439,6 @@ Overall, the article highlights the ongoing threat of cybercrime and the importa
       <description>This article reports on multiple threat actors using ChatGPT accounts to develop malware, automate social media posts, research satellite communications technologies, and engage in other malicious activities. The account holders used temporary email addresses to sign up for ChatGPT, fine-tuned their code, and distributed AI-assisted malware through a publicly available code repository.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html</guid>
       <pubDate>Mon, 09 Jun 2025 06:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kali GPT – Revolutionizing Penetration Testing with AI on Kali Linux</title>
-      <link>https://gbhackers.com/kali-gpt-revolutionizing/</link>
-      <description>Kali GPT is an AI assistant specifically designed for the Kali Linux ecosystem, aimed at streamlining workflows, providing real-time insights, and automating capabilities for cybersecurity professionals. It uses natural language processing (NLP) to interact with users, offering contextual help, suggesting exploits or defensive measures, and generating technical instructions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141102</guid>
-      <pubDate>Mon, 09 Jun 2025 06:40:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky Strikes Again – Coordinated Attacks Target Facebook, Email, and Telegram</title>
-      <link>https://gbhackers.com/kimsuky-strikes/</link>
-      <description>Kimsuky, a North Korea-aligned advanced persistent threat (APT) group, has been conducting a sophisticated cyber espionage campaign called "AppleSeed" since March to April 2025. The campaign targeted defense sector organizations, North Korea-related activists, and cryptocurrency exchanges, using social engineering and technical subterfuge.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141090</guid>
-      <pubDate>Mon, 09 Jun 2025 06:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Mirai botnet infect TBK DVR devices via command injection flaw</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/</link>
-      <description>Vulnerable Product: TBK Vision DVR-4104 and DVR-4216; CVE(s): CVE-2024-3721; Summary: A command injection vulnerability (CVE-2024-3721) in TBK Vision's DVR-4104 and DVR-4216 digital video recording devices allows attackers to hijack devices using a specially crafted POST request. The exploit is being used by a new Mirai botnet variant to drop an ARM32 malware binary, which establishes communication with a command and control (C2) server to enlist the device in the botnet.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/</guid>
-      <pubDate>Sun, 08 Jun 2025 14:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally</title>
-      <link>https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html</link>
-      <description>Vulnerable Product: GlueStack packages; CVE(s): None; Summary: The article reports a supply chain attack targeting over a dozen packages associated with GlueStack, delivering malware that allows attackers to run shell commands, take screenshots, and upload files to infected machines. The impacted packages collectively account for nearly 1 million weekly downloads.
-
-FYSA: This report highlights the emergence of threat actors focusing on system sabotage rather than financial gains, and their use of bogus libraries for information theft and credential harvesting. It also shows that attackers are leveraging email as a covert communication channel to blend in with legitimate application emails.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html</guid>
-      <pubDate>Sun, 08 Jun 2025 13:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals turn to “residential proxy” services to hide malicious traffic</title>
-      <link>https://arstechnica.com/security/2025/06/cybercriminals-turn-to-residential-proxy-services-to-hide-malicious-traffic/</link>
-      <description>Attackers have been increasingly using residential networks to mask their malicious activity, making it harder for organizations and law enforcement to detect and track suspicious traffic. This tactic uses decentralized platforms running on consumer hardware to reduce insight and control, allowing criminal actors to operate undetected.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/cybercriminals-turn-to-residential-proxy-services-to-hide-malicious-traffic/</guid>
-      <pubDate>Sun, 08 Jun 2025 11:15:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
