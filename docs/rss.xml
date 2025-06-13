@@ -6,8 +6,64 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 22:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 10:06:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fog Ransomware Uses Pentesting Tools to Steal Data and Launch Attacks</title>
+      <link>https://gbhackers.com/fog-ransomware-uses-pentesting-tools/</link>
+      <description>Fog ransomware attacks have been linked to the use of open-source penetration testing tools, such as GC2, Adaptix, and Stowaway, and legitimate employee monitoring software like Syteca. The attackers used these tools to conduct reconnaissance, establish persistence, and exfiltrate data before deploying Fog ransomware, marking a new trend in cybercrime.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142061</guid>
+      <pubDate>Fri, 13 Jun 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JSFireTruck Obfuscation Helps Cybercriminals Hijack Trusted Sites with Malicious JavaScript</title>
+      <link>https://gbhackers.com/jsfiretruck-obfuscation-helps-cybercriminals-hijack/</link>
+      <description>A sophisticated cyber attack campaign has been discovered, where threat actors compromise legitimate websites to inject obfuscated JavaScript code. This enables them to quietly redirect unsuspecting visitors to malicious sites capable of delivering malware or executing exploits. Over 200,000 webpages were compromised in just one month, underscoring the evolving tactics used by attackers to exploit trusted domains for nefarious purposes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142051</guid>
+      <pubDate>Fri, 13 Jun 2025 09:18:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>PoC Exploit Unveiled for Windows Disk Cleanup Elevation Vulnerability</title>
+      <link>https://gbhackers.com/poc-exploit-windows-disk-cleanup/</link>
+      <description>Vulnerable Product: Microsoft Windows Disk Cleanup Utility (cleanmgr.exe); CVE(s): CVE-2025-21420; Summary: The vulnerability enables attackers to execute malicious code with SYSTEM privileges through DLL sideloading and a directory traversal technique. The flaw stems from cleanmgr.exe's failure to validate DLL loading paths and mitigate symbolic link attacks, allowing attackers to exploit path interception vulnerabilities to load unsigned DLLs and gain elevated privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142056</guid>
+      <pubDate>Fri, 13 Jun 2025 08:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Outage Hits Google Cloud and Linked Cloudflare Services, Thousands Affected</title>
+      <link>https://gbhackers.com/major-outage-hits-google-cloud-and-linked/</link>
+      <description>The article discusses two concurrent outages at Cloudflare and Google due to infrastructure failures, highlighting vulnerabilities in modern cloud dependencies. The outages had widespread impacts on critical services, underscoring the fragility of interconnected internet ecosystems. The incidents exposed risks in vendor lock-in and centralized dependencies, with both companies committing to postmortems and implementing changes to improve resilience.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142054</guid>
+      <pubDate>Fri, 13 Jun 2025 07:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>TokenBreak Exploit Tricks AI Models Using Minimal Input Changes</title>
+      <link>https://gbhackers.com/tokenbreak-exploit-tricks-ai-models/</link>
+      <description>TokenBreak is a novel attack technique that exploits tokenization strategies in AI text classification models to bypass detection. It manipulates input text by inserting characters to create tokenization divergence between the model and its target, allowing attackers to evade detection while preserving meaning for the end target.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142053</guid>
+      <pubDate>Fri, 13 Jun 2025 07:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>WebDAV Remote Code Execution 0-Day Actively Exploited — PoC Released</title>
+      <link>https://gbhackers.com/webdav-0-day-poc-released/</link>
+      <description>Vulnerable Product: Microsoft WebDAV; CVE(s): CVE-2025-33053; Summary: A zero-day vulnerability in Microsoft's Web Distributed Authoring and Versioning (WebDAV) protocol allows remote code execution via manipulated .url shortcut files. The flaw has been actively exploited by the Stealth Falcon APT group since March 2025, enabling attackers to hijack legitimate Windows tools like iediagcmd.exe and execute malicious payloads from attacker-controlled WebDAV servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142052</guid>
+      <pubDate>Fri, 13 Jun 2025 07:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware</title>
+      <link>https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html</link>
+      <description>Vulnerable Product: Apple Messages app; CVE(s): CVE-2025-43200; Summary: A logic issue in the Messages app allowed for zero-click exploitation of maliciously crafted photos or videos shared via an iCloud Link, targeting civil society members with sophisticated cyber attacks. The vulnerability was actively exploited and patched on February 10, 2025, as part of various iOS, iPadOS, macOS, watchOS, and visionOS updates.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html</guid>
+      <pubDate>Fri, 13 Jun 2025 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside a Dark Adtech Empire Fed by Fake CAPTCHAs</title>
+      <link>https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/</link>
+      <description>This article discusses a dark adtech industry that allows malicious actors to bypass moderation on social media platforms and spread disinformation. The industry relies on domain cloaking services, which hide the true nature of websites from search engines, allowing them to remain online longer than they would otherwise. The industry also uses push monetization services, which pay affiliates to drive signups for various schemes, including online dating services. The article highlights the connections between VexTrio, LosPollos, and other malicious traffic distribution systems (TDSs), which are operated by Russian organized crime groups.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=69927</guid>
+      <pubDate>Thu, 12 Jun 2025 22:14:00 +0000</pubDate>
+    </item>
     <item>
       <title>Coming to Apple OSes: A seamless, secure way to import and export passkeys</title>
       <link>https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/</link>
@@ -1371,62 +1427,6 @@ Vulnerable Product: Roundcube Webmail; CVE(s): CVE-2024-42009; Summary: A cross-
 FYSA: The article also mentions an unpatched account takeover vulnerability (CVE-2025-31022, CVSS score: 9.8) in the PayU CommercePro plugin for WordPress that enables an attacker to seize control of any user without authentication, with serious consequences if exploited successfully.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html</guid>
       <pubDate>Tue, 10 Jun 2025 05:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Vulnerability Allowed Hackers to Access User Phone Numbers</title>
-      <link>https://gbhackers.com/google-vulnerability/</link>
-      <description>Vulnerable Product: Google account recovery system; CVE(s): None; Summary: The vulnerability allowed attackers to brute-force and obtain the phone numbers of any Google user by exploiting Google's username recovery form that still functioned without JavaScript, bypassing modern security protections. The attack leveraged two HTTP requests and exploited IP-based rate limiting and CAPTCHA challenges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141344</guid>
-      <pubDate>Tue, 10 Jun 2025 05:18:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stolen Ticketmaster data from Snowflake attacks briefly for sale again</title>
-      <link>https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/</link>
-      <description>The article discusses the Arkana Security extortion gang listing Ticketmaster data for sale, which was previously stolen during the 2024 Snowflake data theft attacks. It appears that the group is attempting to resell old stolen data, rather than conducting a new breach. The article also mentions the ShinyHunters group's involvement in various breaches and their potential ties to law enforcement arrests.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/</guid>
-      <pubDate>Mon, 09 Jun 2025 22:31:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 84,000 Roundcube instances vulnerable to actively exploited flaw</title>
-      <link>https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/</link>
-      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2025-49113; Summary: The Roundcube webmail installation is vulnerable to a critical remote code execution (RCE) flaw, patched on June 1, 2025. The vulnerability stems from unsanitized $_GET['_from'] input, enabling PHP object deserialization and session corruption when session keys begin with an exclamation mark. Exploitation requires authentication, but attackers claim valid credentials can be obtained via CSRF, log scraping, or brute-forced.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/</guid>
-      <pubDate>Mon, 09 Jun 2025 20:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google patched bug leaking phone numbers tied to accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/</link>
-      <description>Vulnerable Product: Google; CVE(s): None; Summary: A vulnerability allowed researchers to brute-force any Google account's recovery phone number by knowing the profile name and a partial phone number. The attack exploited a deprecated JavaScript-disabled version of the Google username recovery form, which lacked modern anti-abuse protections.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/</guid>
-      <pubDate>Mon, 09 Jun 2025 19:36:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>SentinelOne shares new details on China-linked breach attempt</title>
-      <link>https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/</link>
-      <description>Vulnerable Product: Ivanti Cloud Service Appliances, Check Point gateways; CVE(s): None; Summary: The vulnerabilities in exposed network devices were exploited by Chinese hackers in an attempted supply chain attack on SentinelOne.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/</guid>
-      <pubDate>Mon, 09 Jun 2025 18:26:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Foundation unveils decentralized WordPress plugin manager</title>
-      <link>https://www.bleepingcomputer.com/news/technology/linux-foundation-unveils-decentralized-wordpress-plugin-manager/</link>
-      <description>The article discusses the launch of FAIR Package Manager, an independent distribution system for trusted WordPress plugins and themes. This move is a response to controversy between Automattic (WordPress.com) and WP Engine over plugin updates. The FAIR Package Manager aims to decentralize the ecosystem, bringing control back to developers and hosts, while improving security features such as cryptographic measures, browser compatibility checking, and reliance on trusted source security salts.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/linux-foundation-unveils-decentralized-wordpress-plugin-manager/</guid>
-      <pubDate>Mon, 09 Jun 2025 18:07:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Report Reveals Chinese Hackers Attempted to Breach SentinelOne Servers</title>
-      <link>https://gbhackers.com/new-report-reveals-chinese-hackers-attempted-to-breach/</link>
-      <description>The article discusses SentinelLABS, a reconnaissance operation targeting SentinelOne, a leading cybersecurity vendor. The operation was linked to China-nexus threat actors and affected over 70 organizations worldwide. Despite the persistent efforts, SentinelOne's infrastructure remained uncompromised due to robust monitoring and rapid response mechanisms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141325</guid>
-      <pubDate>Mon, 09 Jun 2025 16:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sensata Technologies says personal data stolen by ransomware gang</title>
-      <link>https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/</link>
-      <description>Sensata Technologies suffered a data breach after an April ransomware attack, affecting current and former employees and their dependents. The stolen data includes full name, address, Social Security Number (SSN), driver's license number, state ID card number, passport number, financial account information, payment card information, medical information, health insurance information, and date of birth.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/</guid>
-      <pubDate>Mon, 09 Jun 2025 16:09:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
