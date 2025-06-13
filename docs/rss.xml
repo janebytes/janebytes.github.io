@@ -6,14 +6,56 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 11:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 12:05:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Victoria’s Secret restores critical systems after cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/</link>
+      <description>Victoria's Secret has restored all critical systems impacted by a May 24 security incident, which forced the company to shut down corporate systems and its e-commerce website. The incident is believed to have no material impact on its yearly fiscal results, despite ongoing expenses related to the attack.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/</guid>
+      <pubDate>Fri, 13 Jun 2025 11:56:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Defender Spoofing Flaw Enables Privilege Escalation and AD Access</title>
+      <link>https://gbhackers.com/microsoft-defender-spoofing/</link>
+      <description>Vulnerable Product: Microsoft Defender for Identity; CVE(s): CVE-2025-26685; Summary: A spoofing vulnerability in Microsoft Defender for Identity (MDI) allows unauthenticated attackers to capture Net-NTLM hashes of critical Directory Service Accounts, potentially compromising Active Directory environments. The flaw exploits MDI's Lateral Movement Paths feature and has been actively addressed in May 2025 Patch Tuesday updates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142159</guid>
+      <pubDate>Fri, 13 Jun 2025 11:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Cloud Cam Flaw Allows Attackers to Intercept and Modify Network Traffic</title>
+      <link>https://gbhackers.com/amazon-cloud-cam-flaw/</link>
+      <description>Vulnerable Product: Amazon Cloud Cam; CVE(s): CVE-2025-6031; Summary: The Amazon Cloud Cam devices, which reached end-of-life (EOL) status in December 2022, contain a critical vulnerability that allows attackers to bypass SSL pinning during device pairing, enabling man-in-the-middle attacks and network traffic manipulation. This flaw enables credential harvesting, device spoofing, and network compromise, and no patches will be released for the EOL product.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142148</guid>
+      <pubDate>Fri, 13 Jun 2025 11:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acer Control Center Flaw Lets Attackers Run Malicious Code as Elevated User</title>
+      <link>https://gbhackers.com/acer-control-center-flaw/</link>
+      <description>Vulnerable Product: Acer ControlCenter; CVE(s): 2025-5491; Summary: A critical vulnerability in the ACCSvc.exe service allows remote attackers to execute arbitrary code with NT AUTHORITY\SYSTEM privileges via a misconfigured Windows Named Pipe. The issue stems from insecure permissions on the pipe exposed by the service, which can be exploited to deploy malware and perform lateral movement.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142147</guid>
+      <pubDate>Fri, 13 Jun 2025 11:06:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion</title>
+      <link>https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html</link>
+      <description>Vulnerable Product: SimpleHelp Remote Monitoring and Management (RMM); CVE(s): CVE-2024-57727, CVE-2024-57728, and CVE-2024-57726; Summary: Ransomware actors are targeting unpatched versions of SimpleHelp RMM instances to compromise customers of an unnamed utility billing software provider. The vulnerabilities can lead to information disclosure, privilege escalation, and remote code execution.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html</guid>
+      <pubDate>Fri, 13 Jun 2025 11:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>Developers Beware – Sophisticated Phishing Scams Exploit GitHub Device Code Flow to Hijack Tokens</title>
       <link>https://gbhackers.com/sophisticated-phishing-scams-exploit-github-device-code/</link>
       <description>Vulnerable Product: GitHub; CVE(s): None; Summary: Attackers are exploiting GitHub's OAuth 2.0 Device Code Flow to trick developers into surrendering access to their code repositories and CI/CD pipelines, posing a substantial risk to intellectual property and facilitating large-scale supply chain attacks. The attack involves social engineering, generating device codes, and retrieving OAuth tokens, allowing attackers to exfiltrate private code, manipulate workflows, and initiate supply chain attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142082</guid>
       <pubDate>Fri, 13 Jun 2025 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CTEM is the New SOC: Shifting from Monitoring Alerts to Measuring Risk</title>
+      <link>https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html</link>
+      <description>The article discusses the limitations of traditional Security Operations Centers (SOCs) in dealing with modern threats and proposes a new approach called Continuous Threat Exposure Management (CTEM). CTEMs shifts the focus from detecting alerts to managing risk by identifying critical assets, potential attack paths, and eliminating vulnerabilities.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html</guid>
+      <pubDate>Fri, 13 Jun 2025 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>HashiCorp Nomad ACL Lookup Flaw Allows Privilege Escalation</title>
@@ -1385,48 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>The article describes a malware campaign that uses OpenAI's Sora video generation model as a social engineering tactic to distribute information-stealing malware. The attack chain involves multiple stages, including downloading malicious batch files and executing Python scripts, which target sensitive data such as browser cookies, passwords, and system information.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141441</guid>
       <pubDate>Tue, 10 Jun 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account</title>
-      <link>https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html</link>
-      <description>Vulnerable Product: Google; CVE(s): None; Summary: A vulnerability in Google's account recovery feature allowed attackers to brute-force a user's recovery phone number, potentially exposing their accounts to privacy and security risks. The exploit required several steps, including leaking the display name via Looker Studio, running the forgot password flow, and brute-forcing the phone number against the username recovery endpoint.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html</guid>
-      <pubDate>Tue, 10 Jun 2025 10:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Evolution of Linux Binaries in Targeted Cloud Operations</title>
-      <link>https://unit42.paloaltonetworks.com/elf-based-malware-targets-cloud/</link>
-      <description>Unit 42 researchers have identified a growing threat to cloud security: Linux Executable and Linkage Format (ELF) files that threat actors are developing to target cloud infrastructure. The article highlights the types of malicious binaries that threat actors are developing for use in attacks against Linux-based environments, including backdoors, droppers, remote access Trojans (RATs), data wipers, and vulnerability-exploiting binaries.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142727</guid>
-      <pubDate>Tue, 10 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malware Deployment Campaigns: ‘Librarian Ghouls’ APT Group Targets Organizations</title>
-      <link>https://gbhackers.com/librarian-ghouls-apt-group-targets-organizations/</link>
-      <description>The Advanced Persistent Threat (APT) group "Librarian Ghouls" has been actively targeting organizations across Russia and the CIS with sophisticated malware deployment campaigns, utilizing targeted phishing emails as their primary infection vector. They employ legitimate third-party software to mask their activities and hinder detection, deploying remote access tools, stealing sensitive credentials, and installing crypto-mining malware like XMRig on compromised systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141411</guid>
-      <pubDate>Tue, 10 Jun 2025 09:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP Security Patch Day: 14 Vulnerabilities Resolved Across Various Products</title>
-      <link>https://gbhackers.com/sap-security-patch-day-14-vulnerabilities-resolved/</link>
-      <description>Vulnerable Product: SAP; CVE(s): CVE-2025-42989 (Critical), CVE-2025-42982 (High), CVE-2025-23192 (High), CVE-2025-42977 (Medium), CVE-2025-42994, CVE-2025-42995, and CVE-2025-42996 (Medium); Summary: SAP's June 10, 2025 Security Patch Day addressed 14 vulnerabilities across the enterprise software portfolio, including a Critical vulnerability in SAP NetWeaver Application Server for ABAP allowing unauthorized access to sensitive system functions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141405</guid>
-      <pubDate>Tue, 10 Jun 2025 09:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploitation of Critical Wazuh Server RCE Vulnerability Leads to Mirai Variant Deployment</title>
-      <link>https://gbhackers.com/exploitation-of-critical-wazuh-server-rce-vulnerability/</link>
-      <description>Vulnerable Product: Wazuh; CVE(s): CVE-2025-24016, CVE-2023-1389 (TP-Link Archer AX21), CVE-2017-17215 (Huawei HG532); Summary: A critical remote code execution (RCE) vulnerability in Wazuh servers, identified as CVE-2025-24016 with a CVSS score of 9.9, allows attackers to execute arbitrary Python code via maliciously crafted JSON payloads. The vulnerability has been weaponized by two distinct botnets to propagate variants of the notorious Mirai malware, targeting primarily Internet of Things (IoT) devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141375</guid>
-      <pubDate>Tue, 10 Jun 2025 09:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fusion Stealer Rises, Android 0-Day for Sale, EDF Leak Exposed</title>
-      <link>https://socradar.io/fusion-stealer-rises-android-0-day-for-sale-edf-leak-exposed/</link>
-      <description>The article highlights several concerning cybercriminal offerings on the dark web, including an alleged Android 0-day exploit, a stealer tool called Fusion Stealer, unauthorized VPN access to a US healthcare provider, admin panel access for multiple South American FinTech companies, and a massive alleged leak of EDF Energy's customer database. These discoveries emphasize the persistent and evolving threat landscape facing organizations and individuals worldwide.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060851</guid>
-      <pubDate>Tue, 10 Jun 2025 09:01:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
