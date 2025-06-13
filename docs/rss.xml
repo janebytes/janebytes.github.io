@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 17:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 18:01:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google links massive cloud outage to API management issue</title>
+      <link>https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/</link>
+      <description>The article discusses a service outage that affected Google Cloud and various third-party platforms. The root cause was an API management issue due to invalid data, which caused 503 errors in external API requests. The impact was widespread, with many services disrupted or brought down for over three hours.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/</guid>
+      <pubDate>Fri, 13 Jun 2025 17:39:02 +0000</pubDate>
+    </item>
     <item>
       <title>Discord flaw lets hackers reuse expired invites in malware campaign</title>
       <link>https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/</link>
@@ -1420,13 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>Vulnerable Product: Lovable; CVE(s): None; Summary: The vulnerability affects Lovable's AI-powered development platform, exposing sensitive user data and enabling malicious code injection across hundreds of applications. It stems from the platform's client-driven architecture and lack of proper Row Level Security (RLS) configurations, allowing unauthorized access to database contents.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141460</guid>
       <pubDate>Tue, 10 Jun 2025 12:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/10/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: Multiple; CVE(s): CVE-2025-24016, CVE-2025-33053; Summary: Two new vulnerabilities were added to the Known Exploited Vulnerabilities (KEV) Catalog by CISA due to evidence of active exploitation. The vulnerabilities are a Wazuh Server Deserialization of Untrusted Data vulnerability and a Web Distributed Authoring and Versioning (WebDAV) External Control of File Name or Path vulnerability. These types of vulnerabilities pose significant risks to the federal enterprise and all organizations are urged to prioritize timely remediation.</description>
-      <guid isPermaLink="false">/node/23494</guid>
-      <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
