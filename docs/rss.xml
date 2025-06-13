@@ -6,8 +6,40 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 10:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 10:32:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Unpatched IT Tool Opens Door – Hackers Breach Billing Software Firm via SimpleHelp RMM</title>
+      <link>https://gbhackers.com/hackers-breach-billing-software-firm-via-simplehelp-rmm/</link>
+      <description>Vulnerable Product: SimpleHelp Remote Monitoring and Management (RMM) platform; CVE(s): CVE-2024-57727; Summary: The SimpleHelp RMM platform contains a path traversal vulnerability that allows attackers to access files or directories outside the intended web root, potentially exposing sensitive data or enabling further network compromises. The vulnerability has been exploited by ransomware actors since January 2025, targeting organizations with unpatched instances of SimpleHelp RMM versions 5.5.7 and earlier.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142072</guid>
+      <pubDate>Fri, 13 Jun 2025 10:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare: Outage not caused by security incident, data is safe</title>
+      <link>https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/</link>
+      <description>The article discusses a service outage experienced by Cloudflare, which lasted almost 2.5 hours and affected multiple edge computing and AI services. The root cause was a failure in the Workers KV underlying storage infrastructure due to an outage from a third-party cloud provider.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/</guid>
+      <pubDate>Fri, 13 Jun 2025 10:09:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graphite Spyware Uses iOS Zero-Click Flaw to Target Journalists</title>
+      <link>https://gbhackers.com/graphite-spyware-uses-ios-zero-click-flaw-to-target-journalists/</link>
+      <description>Vulnerable Product: Apple iMessage; CVE(s): CVE-2025-43200; Summary: The vulnerability allowed for zero-click attacks on iPhones running iOS 18.2.1, exploiting a logic flaw in processing malicious iCloud links containing images/videos. The attack required no user interaction and was patched in iOS 18.3.1 (February 2025).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142112</guid>
+      <pubDate>Fri, 13 Jun 2025 10:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Serverless Tokens in the Cloud: Exploitation and Detections</title>
+      <link>https://unit42.paloaltonetworks.com/serverless-authentication-cloud/</link>
+      <description>The article appears to be a technical analysis of serverless computing and its associated security implications. It discusses various cloud platforms, including AWS, Google Cloud, and Microsoft Azure, and highlights potential vulnerabilities and risks related to the use of serverless identities and tokens.
+
+The article provides detailed information on how attackers can exploit these credentials to access sensitive data or perform unauthorized actions within cloud environments. It also offers recommendations for securing serverless computing environments, such as implementing posture management and runtime monitoring protections, restricting access to IMDS, and using robust input validation and sanitization techniques.
+
+Overall, the article is informative and provides valuable insights into the security implications of serverless computing, but it does not specifically discuss a vulnerability in any product or service.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=143156</guid>
+      <pubDate>Fri, 13 Jun 2025 10:00:42 +0000</pubDate>
+    </item>
     <item>
       <title>Fog Ransomware Uses Pentesting Tools to Steal Data and Launch Attacks</title>
       <link>https://gbhackers.com/fog-ransomware-uses-pentesting-tools/</link>
@@ -1395,38 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>A severe vulnerability in the command-and-control (C2) infrastructure of the DanaBot malware has been discovered, allowing for the exposure of usernames and cryptographic keys used by malicious operators. This breach could provide cybersecurity defenders with a rare glimpse into the inner workings of DanaBot operations and enable more effective disruption of this persistent banking trojan.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141390</guid>
       <pubDate>Tue, 10 Jun 2025 08:42:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 84,000 Roundcube Webmail Installations Exposed to Remote Code   Vulnerabilities</title>
-      <link>https://gbhackers.com/over-84000-roundcube-webmail-installations-exposed/</link>
-      <description>Vulnerable Product: Roundcube Webmail; CVE(s): CVE-2025-49113; Summary: The critical vulnerability, designated as CVE-2025-49113, allows authenticated attackers to execute arbitrary code remotely. It affects all Roundcube versions from 1.1.0 through 1.6.10 and has been exploited in targeted attacks, potentially conducted by state actors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141374</guid>
-      <pubDate>Tue, 10 Jun 2025 08:24:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises</title>
-      <link>https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html</link>
-      <description>Rare Werewolf, an advanced persistent threat (APT) group, has been linked to a series of cyber attacks targeting Russia and CIS countries. The attacks aim to establish remote access to compromised hosts, steal credentials, and deploy the XMRig cryptocurrency miner. The group obtains initial access using phishing emails and leverages legitimate software to interact with infected systems, harvest passwords, and disable antivirus software.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html</guid>
-      <pubDate>Tue, 10 Jun 2025 07:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ManageEngine Exchange Reporter Plus Vulnerability Enables Remote Code Execution</title>
-      <link>https://gbhackers.com/manageengine-exchange-reporter-plus-vulnerability/</link>
-      <description>Vulnerable Product: ManageEngine Exchange Reporter Plus; CVE(s): CVE-2025-3835; Summary: The vulnerability, affecting all builds up to version 5721, allows attackers to execute arbitrary commands on target servers, enabling remote code execution and potentially compromising system integrity. Successful exploitation could grant attackers complete control over the compromised system, enabling data breaches, regulatory compliance violations, and operational disruptions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141358</guid>
-      <pubDate>Tue, 10 Jun 2025 05:48:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog</title>
-      <link>https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html</link>
-      <description>Vulnerable Product: Erlang/Open Telecom Platform (OTP); CVE(s): CVE-2025-32433; Summary: A missing authentication vulnerability in OTP SSH server allows an attacker to execute arbitrary commands without valid credentials, potentially leading to unauthenticated remote code execution. The vulnerability has a CVSS score of 10.0 and was fixed in April 2025.
-
-Vulnerable Product: Roundcube Webmail; CVE(s): CVE-2024-42009; Summary: A cross-site scripting (XSS) vulnerability in RoundCube Webmail allows a remote attacker to steal and send emails of a victim via a crafted email message by taking advantage of a desanitization issue. The vulnerability has a CVSS score of 9.3 and was fixed in August 2024.
-
-FYSA: The article also mentions an unpatched account takeover vulnerability (CVE-2025-31022, CVSS score: 9.8) in the PayU CommercePro plugin for WordPress that enables an attacker to seize control of any user without authentication, with serious consequences if exploited successfully.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html</guid>
-      <pubDate>Tue, 10 Jun 2025 05:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
