@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 14:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 15:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Arsen Launches AI-Powered Vishing Simulation to Help Organizations Combat Voice Phishing at Scale</title>
+      <link>https://gbhackers.com/arsen-launches-ai-powered-vishing-simulation-to-help-organizations-combat-voice-phishing-at-scale/</link>
+      <description>Arsen, a cybersecurity startup, has released a new Vishing Simulation module to train employees against voice phishing (vishing) attacks. The AI-powered tool simulates realistic phone-based social engineering attacks, adapting dynamically to employee responses and handling objections or hesitation with lifelike dialogue. The module is designed to help organizations identify risk exposure and train employees to respond confidently and securely in real-time.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142186</guid>
+      <pubDate>Fri, 13 Jun 2025 14:19:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month</title>
+      <link>https://thehackernews.com/2025/06/over-269000-websites-infected-with.html</link>
+      <description>Cybersecurity researchers have observed a large-scale campaign compromising legitimate websites with malicious JavaScript injections using the "JSFireTruck" technique, which obfuscates code using only a limited set of characters. The injected code redirects victims to malicious URLs that can deliver malware, exploits, or malvertising if they come from specific search engines.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/over-269000-websites-infected-with.html</guid>
+      <pubDate>Fri, 13 Jun 2025 14:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>NIST Releases New Guide – 19 Strategies for Building Zero Trust Architectures</title>
       <link>https://gbhackers.com/nist-releases-new-guide/</link>
@@ -1412,20 +1426,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <link>https://www.cisa.gov/news-events/alerts/2025/06/10/cisa-releases-four-industrial-control-systems-advisories</link>
       <description>The article discusses the release of four Industrial Control Systems (ICS) advisories by CISA, providing information on current security issues, vulnerabilities, and exploits surrounding ICS.</description>
       <guid isPermaLink="false">/node/23493</guid>
-      <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy Relion 670, 650, SAM600-IO Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-160-02</link>
-      <description>Vulnerable Product: Hitachi Energy Relion 670, Relion 650, SAM600-IO Series; CVE(s): CVE-2022-4304; Summary: A timing-based side channel exists in the OpenSSL RSA decryption implementation, allowing an attacker to decrypt application data in transit by sending a large number of trial messages for decryption. This vulnerability affects all RSA padding modes: PKCS#1 v1.5, RSA-OEAP and RSASVE.</description>
-      <guid isPermaLink="false">/node/23491</guid>
-      <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MicroDicom DICOM Viewer</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-160-01</link>
-      <description>Vulnerable Product: MicroDicom DICOM Viewer; CVE(s): CVE-2025-5943; Summary: The DICOM Viewer suffers from an out-of-bounds write vulnerability, allowing remote attackers to execute arbitrary code with user interaction. Successful exploitation could lead to the execution of arbitrary code on affected installations.</description>
-      <guid isPermaLink="false">/node/23492</guid>
       <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
