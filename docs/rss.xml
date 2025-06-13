@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 13:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 14:03:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>NIST Releases New Guide – 19 Strategies for Building Zero Trust Architectures</title>
+      <link>https://gbhackers.com/nist-releases-new-guide/</link>
+      <description>The National Institute of Standards and Technology (NIST) has released guidance for implementing Zero Trust Architectures (ZTAs), providing 19 real-world implementation models, technical configurations, and best practices developed through a four-year collaboration with 24 industry partners. This guide helps organizations implement ZTAs using commercially available technologies, eliminating implicit trust by continuously verifying every access request through policy engines and dynamic authentication mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142174</guid>
+      <pubDate>Fri, 13 Jun 2025 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spring Framework Flaw Enables Remote File Disclosure via “Content‑Disposition” Header</title>
+      <link>https://gbhackers.com/spring-framework-flaw/</link>
+      <description>Vulnerable Product: VMware Spring Framework; CVE(s): CVE-2025-41234; Summary: A medium-severity RFD vulnerability (CVE-2025-41234) in VMware's Spring Framework allows attackers to execute malicious code by exploiting improperly configured Content-Disposition headers and unsanitized user input. The vulnerability arises when applications use non-ASCII characters derived from unsanitized user input, allowing attackers to craft HTTP responses that trick users into downloading files with executable extensions containing malicious commands.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142161</guid>
+      <pubDate>Fri, 13 Jun 2025 13:21:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: KB5060533 update triggers boot errors on Surface Hub v1 devices</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5060533-update-triggers-boot-errors-on-surface-hub-v1-devices/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: Surface Hub v1 devices running Windows 10, version 22H2, with the KB5060533 June 2025 Windows security update installed may experience Secure Boot errors and fail to start due to an invalid signature detected. A mitigation was released on July 11, 2025, to prevent additional devices from encountering this issue.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5060533-update-triggers-boot-errors-on-surface-hub-v1-devices/</guid>
+      <pubDate>Fri, 13 Jun 2025 13:17:29 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft confirms auth issues affecting Microsoft 365 users</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/</link>
@@ -151,6 +172,13 @@ Overall, the article is informative and provides valuable insights into the secu
       <description>Vulnerable Product: Apple Messages app; CVE(s): CVE-2025-43200; Summary: A logic issue in the Messages app allowed for zero-click exploitation of maliciously crafted photos or videos shared via an iCloud Link, targeting civil society members with sophisticated cyber attacks. The vulnerability was actively exploited and patched on February 10, 2025, as part of various iOS, iPadOS, macOS, watchOS, and visionOS updates.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html</guid>
       <pubDate>Fri, 13 Jun 2025 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GrayAlpha Uses Diverse Infection Vectors to Deploy PowerNet Loader and NetSupport RAT</title>
+      <link>https://www.recordedfuture.com/research/grayalpha-uses-diverse-infection-vectors-deploy-powernet-loader-netsupport-rat</link>
+      <description>Insikt Group identified new infrastructure associated with GrayAlpha, a threat actor that overlaps with FIN7. The newly discovered infrastructure includes domains used for payload distribution and additional IP addresses believed to be tied to GrayAlpha. The group uses three primary infection vectors: fake browser update pages, fake 7-Zip download sites, and the TDS TAG-124 network.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/grayalpha-uses-diverse-infection-vectors-deploy-powernet-loader-netsupport-rat</guid>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Inside a Dark Adtech Empire Fed by Fake CAPTCHAs</title>
@@ -1399,34 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>Vulnerable Product: MicroDicom DICOM Viewer; CVE(s): CVE-2025-5943; Summary: The DICOM Viewer suffers from an out-of-bounds write vulnerability, allowing remote attackers to execute arbitrary code with user interaction. Successful exploitation could lead to the execution of arbitrary code on affected installations.</description>
       <guid isPermaLink="false">/node/23492</guid>
       <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five plead guilty to laundering $36 million stolen in investment scams</title>
-      <link>https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/</link>
-      <description>Five men from China, the United States, and Turkey pleaded guilty to their involvement in an international crime ring and laundering nearly $37 million stolen from U.S. victims in cryptocurrency investment scams carried out from Cambodia. The scam involved accomplices reaching out to targets via unsolicited social media, phone calls, text messages, and online dating services to gain their trust, promoting fraudulent digital asset investments and falsely claiming that the victims' funds' value increased after they tricked them into investing, when, in fact, their money was stolen.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/</guid>
-      <pubDate>Tue, 10 Jun 2025 11:59:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier</title>
-      <link>https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html</link>
-      <description>Non-human identities (NHIs), including application secrets, API keys, service accounts, and OAuth tokens, have increased in recent years due to the expanding array of apps and services. NHIs introduce unique risks and management challenges that security leaders must address.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html</guid>
-      <pubDate>Tue, 10 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues Alert on Erlang/OTP SSH Server RCE Vulnerability Under Active Exploitation</title>
-      <link>https://gbhackers.com/cisa-issues-alert-on-erlang-otp-ssh-server-rce-vulnerability/</link>
-      <description>Vulnerable Product: Erlang/OTP SSH server; CVE(s): CVE-2025-32433; Summary: The Erlang/OTP SSH server implementation has a critical vulnerability (CVE-2025-32433) that allows attackers to execute arbitrary commands without authentication, bypassing standard security controls. This flaw enables unauthenticated remote code execution and is actively exploited in the wild, posing significant risks to organizations worldwide.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141432</guid>
-      <pubDate>Tue, 10 Jun 2025 10:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian Authorities Bust Cybercriminals Posing as Microsoft Tech Support</title>
-      <link>https://gbhackers.com/cybercriminals-posing-as-microsoft-tech-support/</link>
-      <description>The Central Bureau of Investigation (CBI) launched an operation targeting a tech support scam network impersonating Microsoft, resulting in the arrest of six key operatives and the shutdown of two illicit call centers. The operation was a result of international collaboration between the CBI, Japan's Cybercrime Control Center, National Police Agency, and Microsoft's Digital Crimes Unit.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141461</guid>
-      <pubDate>Tue, 10 Jun 2025 10:42:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
