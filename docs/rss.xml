@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 16:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 17:01:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Discord flaw lets hackers reuse expired invites in malware campaign</title>
+      <link>https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/</link>
+      <description>Vulnerable Product: Discord; CVE(s): None; Summary: Hackers are hijacking expired or deleted Discord invite links to redirect users to malicious sites that deliver remote access trojans and information-stealing malware. The campaign relies on a flaw in the Discord invitation system, allowing attackers to reuse expired temporary invite codes and deleted permanent invite codes.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/</guid>
+      <pubDate>Fri, 13 Jun 2025 16:10:51 +0000</pubDate>
+    </item>
     <item>
       <title>Kali Linux 2025.2 Released: New Tools, Smartwatch and Car Hacking Added</title>
       <link>https://gbhackers.com/kali-linux-2025-2/</link>
@@ -1419,13 +1426,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <link>https://www.cisa.gov/news-events/alerts/2025/06/10/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
       <description>Vulnerable Product: Multiple; CVE(s): CVE-2025-24016, CVE-2025-33053; Summary: Two new vulnerabilities were added to the Known Exploited Vulnerabilities (KEV) Catalog by CISA due to evidence of active exploitation. The vulnerabilities are a Wazuh Server Deserialization of Untrusted Data vulnerability and a Web Distributed Authoring and Versioning (WebDAV) External Control of File Name or Path vulnerability. These types of vulnerabilities pose significant risks to the federal enterprise and all organizations are urged to prioritize timely remediation.</description>
       <guid isPermaLink="false">/node/23494</guid>
-      <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SinoTrack GPS Receiver</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-160-01</link>
-      <description>Vulnerable Product: SinoTrack Equipment; CVE(s): CVE-2025-5484, CVE-2025-5485; Summary: Weak authentication and observable response discrepancy vulnerabilities in all known SinoTrack devices allow an attacker to access device profiles without authorization through the common web management interface, enabling remote functions on connected vehicles.</description>
-      <guid isPermaLink="false">/node/23490</guid>
       <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
