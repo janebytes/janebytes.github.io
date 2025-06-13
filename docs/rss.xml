@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 12:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 13:01:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft confirms auth issues affecting Microsoft 365 users</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/</link>
+      <description>Microsoft is investigating an ongoing incident causing errors with some Microsoft 365 authentication features, including self-service password resets and adding MFA sign-in methods. The issue affects customers in the Asia Pacific, Europe, the Middle East, and Africa, resulting in "we're sorry, we ran into a problem" or "no methods available" errors while setting up MFA.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/</guid>
+      <pubDate>Fri, 13 Jun 2025 12:37:06 +0000</pubDate>
+    </item>
     <item>
       <title>Victoria’s Secret restores critical systems after cyberattack</title>
       <link>https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/</link>
@@ -1420,13 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>The Central Bureau of Investigation (CBI) launched an operation targeting a tech support scam network impersonating Microsoft, resulting in the arrest of six key operatives and the shutdown of two illicit call centers. The operation was a result of international collaboration between the CBI, Japan's Cybercrime Control Center, National Police Agency, and Microsoft's Digital Crimes Unit.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141461</guid>
       <pubDate>Tue, 10 Jun 2025 10:42:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Actors Exploit SoraAI’s Popularity &amp; GitHub to Distribute Malware</title>
-      <link>https://gbhackers.com/malicious-actors-exploit-soraais-popularity-github/</link>
-      <description>The article describes a malware campaign that uses OpenAI's Sora video generation model as a social engineering tactic to distribute information-stealing malware. The attack chain involves multiple stages, including downloading malicious batch files and executing Python scripts, which target sensitive data such as browser cookies, passwords, and system information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141441</guid>
-      <pubDate>Tue, 10 Jun 2025 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
