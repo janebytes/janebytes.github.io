@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 18:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 19:01:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-380: Trend Micro Maximum Security Platinum Host Service Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-380/</link>
+      <description>Vulnerable Product: Trend Micro Maximum Security Platinum Host Service; CVE(s): CVE-2025-49385, ZDI-CAN-25877, ZDI-25-380; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Maximum Security by creating a symbolic link within the Platinum Host Service. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability, which can be used to delete files and execute arbitrary code as SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-25877</guid>
+      <pubDate>Fri, 13 Jun 2025 19:01:01 +0000</pubDate>
+    </item>
     <item>
       <title>Google links massive cloud outage to API management issue</title>
       <link>https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/</link>
@@ -1420,13 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>Vulnerable Product: ISPConfig version 3.2.12p1; CVE(s): None; Summary: The vulnerability allows authenticated attackers to escalate their privileges to that of a superadmin and execute arbitrary PHP code remotely, posing a serious risk to affected systems. Attackers can manipulate HTTP parameters when using the client_add and users_edit features, creating a client account with admin privileges, then modifying or assuming the identity of the superadmin user (ID 1), granting unrestricted access to the ISPConfig instance.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141481</guid>
       <pubDate>Tue, 10 Jun 2025 12:49:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Lovable’s Security Policies Allows Malicious Code Injection</title>
-      <link>https://gbhackers.com/critical-vulnerability-in-lovables-security-policies/</link>
-      <description>Vulnerable Product: Lovable; CVE(s): None; Summary: The vulnerability affects Lovable's AI-powered development platform, exposing sensitive user data and enabling malicious code injection across hundreds of applications. It stems from the platform's client-driven architecture and lack of proper Row Level Security (RLS) configurations, allowing unauthorized access to database contents.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141460</guid>
-      <pubDate>Tue, 10 Jun 2025 12:25:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
