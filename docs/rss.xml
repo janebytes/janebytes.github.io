@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 10:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 11:01:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Developers Beware – Sophisticated Phishing Scams Exploit GitHub Device Code Flow to Hijack Tokens</title>
+      <link>https://gbhackers.com/sophisticated-phishing-scams-exploit-github-device-code/</link>
+      <description>Vulnerable Product: GitHub; CVE(s): None; Summary: Attackers are exploiting GitHub's OAuth 2.0 Device Code Flow to trick developers into surrendering access to their code repositories and CI/CD pipelines, posing a substantial risk to intellectual property and facilitating large-scale supply chain attacks. The attack involves social engineering, generating device codes, and retrieving OAuth tokens, allowing attackers to exfiltrate private code, manipulate workflows, and initiate supply chain attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142082</guid>
+      <pubDate>Fri, 13 Jun 2025 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HashiCorp Nomad ACL Lookup Flaw Allows Privilege Escalation</title>
+      <link>https://gbhackers.com/hashicorp-nomad-acl-lookup/</link>
+      <description>Vulnerable Product: HashiCorp Nomad; CVE(s): CVE-2025-4922; Summary: The Nomad workload orchestration tool contains a critical security flaw that allows attackers to bypass namespace restrictions and escalate privileges via improper ACL policy enforcement. This vulnerability enables privilege escalation, policy shadowing, and data exfiltration attacks with low complexity and high potential impact.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142113</guid>
+      <pubDate>Fri, 13 Jun 2025 10:27:33 +0000</pubDate>
+    </item>
     <item>
       <title>Unpatched IT Tool Opens Door – Hackers Breach Billing Software Firm via SimpleHelp RMM</title>
       <link>https://gbhackers.com/hackers-breach-billing-software-firm-via-simplehelp-rmm/</link>
@@ -1413,20 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>The article highlights several concerning cybercriminal offerings on the dark web, including an alleged Android 0-day exploit, a stealer tool called Fusion Stealer, unauthorized VPN access to a US healthcare provider, admin panel access for multiple South American FinTech companies, and a massive alleged leak of EDF Energy's customer database. These discoveries emphasize the persistent and evolving threat landscape facing organizations and individuals worldwide.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060851</guid>
       <pubDate>Tue, 10 Jun 2025 09:01:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sensata Technologies Faces Disruption Due to Ransomware Attack</title>
-      <link>https://gbhackers.com/sensata-technologies-faces-disruption/</link>
-      <description>The article reports a significant cybersecurity incident at Sensata Technologies, involving an external system breach that compromised personal information of hundreds of individuals. The breach remained undetected for nearly two months before being discovered on May 23, 2025.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141366</guid>
-      <pubDate>Tue, 10 Jun 2025 08:52:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerability in DanaBot Malware C2 Server Leaks Threat Actor Usernames and Crypto Keys</title>
-      <link>https://gbhackers.com/vulnerability-in-danabot-malware-c2-server/</link>
-      <description>A severe vulnerability in the command-and-control (C2) infrastructure of the DanaBot malware has been discovered, allowing for the exposure of usernames and cryptographic keys used by malicious operators. This breach could provide cybersecurity defenders with a rare glimpse into the inner workings of DanaBot operations and enable more effective disruption of this persistent banking trojan.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141390</guid>
-      <pubDate>Tue, 10 Jun 2025 08:42:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
