@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jun 2025 17:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 18:02:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>WestJet investigates cyberattack disrupting internal systems</title>
+      <link>https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/</link>
+      <description>WestJet is investigating a cybersecurity incident that has disrupted access to some internal systems and the WestJet app, with users unable to log in. The extent of the breach and its cause are unclear, but the company's operation continues to run safely.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/</guid>
+      <pubDate>Sat, 14 Jun 2025 17:34:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anubis ransomware adds wiper to destroy files beyond recovery</title>
+      <link>https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/</link>
+      <description>Vulnerable Product: Anubis Ransomware; CVE(s): None; Summary: The Anubis ransomware-as-a-service (RaaS) operation has added a wiper module that destroys targeted files, making recovery impossible even if the ransom is paid. The wiper erases all file contents, reducing their sizes to 0 KB while keeping the filenames and structure intact.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/</guid>
+      <pubDate>Sat, 14 Jun 2025 14:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 users want these five features back</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/</link>
+      <description>There are no cybersecurity-relevant topics or vulnerabilities discussed in this article. The article is focused on user feedback and feature requests for the Windows 11 operating system.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/</guid>
+      <pubDate>Sat, 14 Jun 2025 14:12:22 +0000</pubDate>
+    </item>
     <item>
       <title>Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets</title>
       <link>https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html</link>
@@ -1406,27 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>Vulnerable Product: None; FYSA: The article reports on an ongoing outage impacting OpenAI's ChatGPT, causing errors and latency for users worldwide. The issue has been identified as a root cause and the company is working to implement a mitigation.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/</guid>
       <pubDate>Tue, 10 Jun 2025 13:22:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Severe SAP NetWeaver Vulnerability Allows Attackers to Bypass Authorization Checks</title>
-      <link>https://gbhackers.com/severe-sap-netweaver-vulnerability/</link>
-      <description>Vulnerable Product: SAP; CVE(s): 3600840 (9.6), 3609271 (8.8), 3606484 (8.5), 3560693 (8.2), 3610006 (7.5), 3590887 (5.8); Summary: The June Patch Day from SAP addresses nineteen security patches, including critical vulnerabilities that can allow attackers to bypass authorization controls and escalate privileges across multiple enterprise systems. The most severe vulnerability affects the RFC framework in SAP NetWeaver Application Server AS ABAP, enabling authenticated attackers to bypass standard authorization controls and achieve privilege escalation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141512</guid>
-      <pubDate>Tue, 10 Jun 2025 13:22:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-49113: Critical Roundcube Vulnerability Enables RCE Exploitation</title>
-      <link>https://socradar.io/cve-2025-49113-roundcube-vulnerability-rce/</link>
-      <description>Vulnerable Product: Roundcube; CVE(s): CVE-2025-49113; Summary: A critical Remote Code Execution (RCE) vulnerability, CVE-2025-49113, affects all Roundcube versions before 1.5.10 and 1.6.x up to 1.6.10, allowing attackers to execute arbitrary commands on targeted systems after successful authentication.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060866</guid>
-      <pubDate>Tue, 10 Jun 2025 13:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New SharePoint Phishing Campaigns Employing Deceptive Lick Techniques</title>
-      <link>https://gbhackers.com/new-sharepoint-phishing-campaigns/</link>
-      <description>Phishing campaigns leveraging Microsoft SharePoint to bypass modern detection systems have been identified, exploiting inherent trust users place in the platform. These attacks disguise phishing URLs as legitimate file-sharing links, tricking users into accessing credential-harvesting pages or downloading malware, and evade endpoint detection and response (EDR) tools and email security gateways.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141482</guid>
-      <pubDate>Tue, 10 Jun 2025 12:51:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
