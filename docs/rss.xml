@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jun 2025 19:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 20:01:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ChatGPT's AI coder Codex now lets you choose the best solution</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/</link>
+      <description>The article discusses updates and new features in OpenAI's Codex, an AI agent that assists with coding tasks. Notably, Codex can now generate multiple responses simultaneously for a single task, allowing users to explore different solutions and pick the best approach. Additionally, keyboard shortcuts and a page to explore them have been added, along with other updates such as improved network access restrictions handling and increased setup script duration limits for Pro, Team, and Business users.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/</guid>
+      <pubDate>Sun, 15 Jun 2025 19:59:41 +0000</pubDate>
+    </item>
     <item>
       <title>ChatGPT Search gets an upgrade as OpenAI takes aim at Google</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/</link>
@@ -1418,15 +1425,6 @@ Note: There are 66 vulnerabilities patched in total, but only these two specific
       <description>Vulnerable Product: Various; CVE(s): None; Summary: Myth Stealer is a Rust-based information stealer that steals passwords, cookies, and autofill information from Chromium- and Gecko-based browsers. It's distributed through fake gaming websites and online forums, and attempts to terminate running processes associated with web browsers before exfiltrating stolen data to a remote server or Discord webhook. The malware contains anti-analysis techniques such as string obfuscation and system checks using filenames and usernames.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html</guid>
       <pubDate>Tue, 10 Jun 2025 14:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is a data-breach time bomb, reveals new report</title>
-      <link>https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/</link>
-      <description>The article discusses the risks associated with AI, cloud environments, and SaaS apps. It highlights that 99% of organizations have sensitive data unnecessarily exposed to AI tools, and no organization was fully prepared for AI. The report emphasizes the importance of implementing effective security measures to prioritize data protection.
-
-Note: There are no specific vulnerabilities mentioned in this article, but it focuses on the risks associated with AI and data exposure.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/</guid>
-      <pubDate>Tue, 10 Jun 2025 14:02:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
