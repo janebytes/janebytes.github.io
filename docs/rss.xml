@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jun 2025 14:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 15:01:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Over 46,000 Grafana instances exposed to account takeover bug</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/</link>
+      <description>Vulnerable Product: Grafana; CVE(s): CVE-2025-4123; Summary: The open-source platform Grafana has a client-side open redirect vulnerability that allows executing malicious plugins and account takeover. The vulnerability was discovered by Alvaro Balada and patched in security updates released on May 21, but more than a third of all instances reachable over the public internet remain unpatched.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/</guid>
+      <pubDate>Sun, 15 Jun 2025 14:07:56 +0000</pubDate>
+    </item>
     <item>
       <title>WestJet investigates cyberattack disrupting internal systems</title>
       <link>https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/</link>
@@ -1420,13 +1427,6 @@ Note: There are no specific vulnerabilities mentioned in this article, but it fo
       <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): None; Summary: Hackers are exploiting a vulnerability in ScreenConnect versions 23.9.7 and prior, deploying malicious payloads, particularly targeting financial organizations, using phishing emails with invoice themes to trick users into downloading harmful executables. The exploitation involves signed malicious droppers, likely tied to the CHAINVERB backdoor associated with the UNC5952 threat group.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141498</guid>
       <pubDate>Tue, 10 Jun 2025 13:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI working to fix ChatGPT outage affecting users worldwide</title>
-      <link>https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/</link>
-      <description>Vulnerable Product: None; FYSA: The article reports on an ongoing outage impacting OpenAI's ChatGPT, causing errors and latency for users worldwide. The issue has been identified as a root cause and the company is working to implement a mitigation.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/</guid>
-      <pubDate>Tue, 10 Jun 2025 13:22:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
