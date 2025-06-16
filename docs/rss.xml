@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 11:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 12:01:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>North Korean APT Hackers Target Ukrainian Government Agencies to Steal Login Credentials</title>
+      <link>https://gbhackers.com/north-korean-apt-hackers-target-ukrainian-government-agencies/</link>
+      <description>Vulnerable Product: None; Summary: The Konni group, a North Korean Advanced Persistent Threat (APT) hacker group, has been observed in a targeted phishing campaign against Ukrainian government agencies, aiming to steal login credentials and distribute malware. The attackers used deceptive tactics, including using Proton Mail accounts and sophisticated Command and Control (C2) communication via PowerShell.
+
+FYSA: This article highlights the shifting focus of North Korean APT groups, such as the Konni group, towards targeting specific government entities and industries, potentially in alignment with strategic alliances. The use of social engineering tactics, including phishing emails and AI-manipulated resumes, underscores the growing sophistication of these threat actors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142296</guid>
+      <pubDate>Mon, 16 Jun 2025 11:35:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police seizes Archetyp Market drug marketplace, arrests admin</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/</link>
+      <description>Law enforcement authorities from six countries took down the Archetyp Market, a darknet drug marketplace that operated since May 2020. The market had over 612,000 users and a total transaction volume of over €250 million in Monero cryptocurrency transactions. As part of the joint action codenamed 'Operation Deep Sentinel', investigators seized assets worth €7.8 million from all suspects and arrested several individuals involved with the marketplace.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/</guid>
+      <pubDate>Mon, 16 Jun 2025 11:15:52 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Compromise Discord Invite to Inject Malicious Links Delivering AsyncRAT</title>
       <link>https://gbhackers.com/hackers-compromise-discord-invite-to-inject-malicious-links/</link>
@@ -1421,20 +1437,6 @@ Note: There are 66 vulnerabilities patched in total, but only these two specific
       <description>Vulnerable Product: Adobe; CVEs: CVE-2025-47110, CVE-2025-43585, None (for others); Summary: Adobe patched 254 security flaws in its software products, primarily affecting Experience Manager and Commerce/Magento. The vulnerabilities, including a critical reflected XSS flaw and an improper authorization issue, could lead to arbitrary code execution, privilege escalation, or security feature bypass.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</guid>
       <pubDate>Tue, 10 Jun 2025 18:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESET Details on How to Manage Your Digital Footprint</title>
-      <link>https://gbhackers.com/how-to-manage-your-digital-footprint/</link>
-      <description>ESET highlights the importance of digital footprints, emphasizing both their benefits (personalized marketing, professional branding) and risks (privacy breaches, identity theft). The article stresses the need for robust strategies to manage and secure one's online presence, including regular audits, adjusting privacy settings, and leveraging advanced security tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141538</guid>
-      <pubDate>Tue, 10 Jun 2025 18:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud</title>
-      <link>https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html</link>
-      <description>Vulnerable Product: Salesforce Industry Cloud; CVE(s): CVE-2025-43697, CVE-2025-43698, CVE-2025-43699, CVE-2025-43700, CVE-2025-43701; Summary: Over 20 configuration-related risks were found in Salesforce Industry Cloud, exposing sensitive data to unauthorized parties. The vulnerabilities allow attackers to bypass security controls and extract sensitive customer or employee information.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html</guid>
-      <pubDate>Tue, 10 Jun 2025 18:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
