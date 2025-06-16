@@ -6,14 +6,42 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 13:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 14:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Target and Hijack Washington Post Journalists’ Email Accounts</title>
+      <link>https://gbhackers.com/hackers-target-washington-post-journalists-email-accounts/</link>
+      <description>A targeted cyberattack has struck The Washington Post, compromising email accounts of several journalists. The attack appears to have been focused on reporters from national security and economic policy teams, including those covering sensitive topics related to China. Experts warn that this breach poses a significant risk to the integrity of independent journalism.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142389</guid>
+      <pubDate>Mon, 16 Jun 2025 13:49:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoomcar Data Breach Exposes Sensitive Details of 8.4 Million Users</title>
+      <link>https://gbhackers.com/zoomcar-data-breach/</link>
+      <description>Vulnerable Product: None; CVEs: None; Summary: A data breach at Zoomcar Holdings, Inc. has compromised the personal information of approximately 8.4 million users, including user names, phone numbers, car registration numbers, personal addresses, and email addresses. The breach poses risks of identity theft, targeted phishing, and other malicious activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142363</guid>
+      <pubDate>Mon, 16 Jun 2025 12:47:46 +0000</pubDate>
+    </item>
     <item>
       <title>Operation Deep Sentinel: Authorities Shut Down Darknet Market Archetyp</title>
       <link>https://gbhackers.com/operation-deep-sentinel/</link>
       <description>Authorities successfully dismantled Archetyp Market, a major darknet marketplace, as part of "Operation Deep Sentinel." The takedown marks a significant victory in the fight against cybercrime and the illicit drug trade.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142359</guid>
       <pubDate>Mon, 16 Jun 2025 12:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>BERT Ransomware Escalates Attacks on Linux Machines with Weaponized ELF Files</title>
+      <link>https://gbhackers.com/bert-ransomware-escalates-attacks-on-linux-machines/</link>
+      <description>The BERT ransomware group has expanded its reach from targeting Windows environments to launching attacks on Linux machines, posing a significant risk to global enterprises reliant on Linux for critical infrastructure.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142327</guid>
+      <pubDate>Mon, 16 Jun 2025 12:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian Airline WestJet Suffers Cyberattack, Halts App and Web Services</title>
+      <link>https://gbhackers.com/canadian-airline-westjet-suffers-cyberattack/</link>
+      <description>WestJet Airlines experiences a significant cybersecurity incident, causing disruptions to its mobile app and internal systems. The airline is working with law enforcement agencies and Transport Canada to investigate the breach, while emphasizing that flight operations remain safe and stable. The incident highlights the growing threat posed by cybercriminals to critical infrastructure and major organizations across Canada.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142287</guid>
+      <pubDate>Mon, 16 Jun 2025 12:26:23 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft shares temp fix for Outlook crashes when opening emails</title>
@@ -1413,36 +1441,6 @@ FYSA: Several cybersecurity-relevant details are highlighted in the article, inc
       <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-43574; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Collab objects and can be exploited by not validating the existence of an object prior to performing operations on it.</description>
       <guid isPermaLink="false">ZDI-CAN-26593</guid>
       <pubDate>Tue, 10 Jun 2025 22:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-339: JupyterLab Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-339/</link>
-      <description>Vulnerable Product: Jupyter; JupyterLab; CVE(s): CVE-2025-30167; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of JupyterLab. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, and it is triggered only when a target user makes use of the product.</description>
-      <guid isPermaLink="false">ZDI-CAN-25932</guid>
-      <pubDate>Tue, 10 Jun 2025 22:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>DanaBot malware operators exposed via C2 bug added in 2022</title>
-      <link>https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/</link>
-      <description>Vulnerable Product: DanaBot Malware; CVE(s): None; Summary: A vulnerability in the DanaBot malware operation introduced in June 2022 allowed security researchers to gain insight into the malware's internal operations and the people behind it, leading to the identification, indictment, and dismantling of their operations. The "DanaBleed" flaw was a memory leak that exposed private data, including threat actor details, backend infrastructure, and victim data, for over three years.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/</guid>
-      <pubDate>Tue, 10 Jun 2025 21:46:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for June 2025 — Snort rules and prominent vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-june-2025/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32710, CVE-2025-29828, CVE-2025-33071, CVE-2025-47172, CVE-2025-47162, CVE-2025-47164, CVE-2025-47167, CVE-2025-47953; Summary: The vulnerabilities affect various Microsoft Windows services and applications, including Remote Desktop Services, Schannel (Secure Channel), KDC Proxy service, Microsoft Office, and SharePoint server. They are remote code execution (RCE) or elevation of privilege vulnerabilities with varying attack complexities and exploitation likelihoods.
-
-FYSA: None</description>
-      <guid isPermaLink="false">6848785af23a7100010e4c1a</guid>
-      <pubDate>Tue, 10 Jun 2025 21:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ConnectWise rotating code signing certificates over security concerns</title>
-      <link>https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/</link>
-      <description>Vulnerable Product: ConnectWise (various products); CVE(s): None; Summary: ConnectWise is rotating the digital code signing certificates used to sign ScreenConnect, Automate, and RMM executables due to concerns raised by a third-party security researcher about how certain configuration data can be abused by threat actors. The action is unrelated to any security incidents, including a nation-state cyberattack suffered last month.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/</guid>
-      <pubDate>Tue, 10 Jun 2025 21:17:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
