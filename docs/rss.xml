@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 10:09:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 11:02:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Compromise Discord Invite to Inject Malicious Links Delivering AsyncRAT</title>
+      <link>https://gbhackers.com/hackers-compromise-discord-invite-to-inject-malicious-links/</link>
+      <description>Vulnerable Product: Discord; CVE(s): None; Summary: Threat actors have exploited Discord's invite system to distribute malicious links, ultimately delivering AsyncRAT and other harmful payloads. The attack begins with the manipulation of Discord invite links, using fake domains and social engineering tactics to compromise user accounts and steal sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142253</guid>
+      <pubDate>Mon, 16 Jun 2025 10:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GrayAlpha Hackers Group Exploits Browser Updates to Deploy PowerNet Loader and NetSupport RAT</title>
+      <link>https://gbhackers.com/grayalpha-hacker-group-exploits-browser-updates/</link>
+      <description>The article discusses GrayAlpha, a financially motivated threat actor group that overlaps with the FIN7 group. They use custom malware, including PowerNet and MaskBat loaders to decompress and execute NetSupport RAT. The group employs various infection vectors, including fake browser update pages, fraudulent 7-Zip download sites, and an undocumented TAG-124 traffic distribution system (TDS).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142240</guid>
+      <pubDate>Mon, 16 Jun 2025 10:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Over 20 Malicious Google Play Apps Steal Users’ Login Credentials</title>
       <link>https://gbhackers.com/malicious-google-play-apps-steal-users-login-credentials/</link>
@@ -1421,20 +1435,6 @@ Note: There are 66 vulnerabilities patched in total, but only these two specific
       <description>Vulnerable Product: Salesforce Industry Cloud; CVE(s): CVE-2025-43697, CVE-2025-43698, CVE-2025-43699, CVE-2025-43700, CVE-2025-43701; Summary: Over 20 configuration-related risks were found in Salesforce Industry Cloud, exposing sensitive data to unauthorized parties. The vulnerabilities allow attackers to bypass security controls and extract sensitive customer or employee information.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html</guid>
       <pubDate>Tue, 10 Jun 2025 18:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 KB5060533 cumulative update released with 7 changes, fixes</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/</link>
-      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): None; Summary: The KB5060533 cumulative update for Windows 10 22H2 and Windows 10 21H2 fixes seven zero-day vulnerabilities, including bringing seconds back to the time shown in the Calendar flyout, enhancing the Rich Calendar feature, and fixing issues with GDI/GDI+, Mobile Operator Profiles, and WinSaS.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/</guid>
-      <pubDate>Tue, 10 Jun 2025 18:03:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP NetWeaver Vulnerability Allows Attackers to Escalate Privileges</title>
-      <link>https://gbhackers.com/sap-netweaver-vulnerability/</link>
-      <description>Vulnerable Product: SAP NetWeaver Application Server AS ABAP; CVE(s): 3600840; Summary: A critical vulnerability with a CVSS score of 9.6 in the SAP NetWeaver Application Server AS ABAP's Remote Function Call (RFC) framework allows authenticated attackers to bypass standard authorization checks and escalate privileges, potentially granting access to critical system functions and data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141531</guid>
-      <pubDate>Tue, 10 Jun 2025 17:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
