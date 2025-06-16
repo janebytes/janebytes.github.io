@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 12:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 13:10:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Operation Deep Sentinel: Authorities Shut Down Darknet Market Archetyp</title>
+      <link>https://gbhackers.com/operation-deep-sentinel/</link>
+      <description>Authorities successfully dismantled Archetyp Market, a major darknet marketplace, as part of "Operation Deep Sentinel." The takedown marks a significant victory in the fight against cybercrime and the illicit drug trade.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142359</guid>
+      <pubDate>Mon, 16 Jun 2025 12:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft shares temp fix for Outlook crashes when opening emails</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/</link>
+      <description>The article describes a known issue with classic Outlook email client causing it to crash when opening or starting a new message, affecting users in the Monthly Enterprise Channel who updated Outlook for Microsoft 365. A temporary fix is provided until a permanent solution is rolled out.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/</guid>
+      <pubDate>Mon, 16 Jun 2025 12:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Deploy XWorm Malware via Fake Travel Websites to Infect Users’ PCs</title>
+      <link>https://gbhackers.com/threat-actors-deploy-xworm-malware/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: A sophisticated malware campaign targets vacation planners by imitating Booking.com using phony travel websites. The campaign uses social engineering tactics, including a counterfeit cookie banner, to deploy XWorm, a remote access trojan (RAT).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142303</guid>
+      <pubDate>Mon, 16 Jun 2025 12:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean APT Hackers Target Ukrainian Government Agencies to Steal Login Credentials</title>
       <link>https://gbhackers.com/north-korean-apt-hackers-target-ukrainian-government-agencies/</link>
@@ -16,6 +37,28 @@
 FYSA: This article highlights the shifting focus of North Korean APT groups, such as the Konni group, towards targeting specific government entities and industries, potentially in alignment with strategic alliances. The use of social engineering tactics, including phishing emails and AI-manipulated resumes, underscores the growing sophistication of these threat actors.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142296</guid>
       <pubDate>Mon, 16 Jun 2025 11:35:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More</title>
+      <link>https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html</link>
+      <description>The article discusses various cybersecurity-related topics and threats, including malware, phishing attacks, and data breaches. It also highlights the importance of staying private on the internet by learning about real-world methods used by trackers.
+
+Vulnerable Products:
+
+* BrowserVenom: A Windows implant that reconfigures Chromium- and Gecko-based browsing instances to force traffic through a proxy controlled by the threat actors.
+* AppleSeed: A known malware delivered as part of a multi-stage infection sequence.
+* Kimsuky's Triple Combo: A campaign targeting Facebook, email, and Telegram users in South Korea.
+
+Note: These vulnerabilities are not traditional software or hardware flaws but rather malware or social engineering tactics used to compromise user data.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html</guid>
+      <pubDate>Mon, 16 Jun 2025 11:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine</title>
+      <link>https://thehackernews.com/2025/06/playbook-transforming-your.html</link>
+      <description>The article discusses the importance of transitioning from reactive cybersecurity services to ongoing strategic management aligned with business goals. It highlights the benefits for service providers and clients, including increased revenue, stronger resilience, and more predictable outcomes. The article also provides guidance on how service providers can scale their businesses by standardizing workflows, automating processes, and offering tiered services that align with client needs and maturity levels.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/playbook-transforming-your.html</guid>
+      <pubDate>Mon, 16 Jun 2025 11:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Police seizes Archetyp Market drug marketplace, arrests admin</title>
@@ -58,6 +101,13 @@ FYSA: This article highlights the shifting focus of North Korean APT groups, suc
       <description>Anubis is a Ransomware-as-a-Service (RaaS) operation that combines traditional file encryption with a destructive "wipe mode" feature, permanently erasing file contents. It targets industries like healthcare and construction across regions using sophisticated attack chains, including spear-phishing and command-line execution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142215</guid>
       <pubDate>Mon, 16 Jun 2025 09:48:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Alleged Leaks Hit Vodafone Egypt, SAP Israel, OKX, and T-Mobile US</title>
+      <link>https://socradar.io/leak-vodafone-egypt-sap-israel-okx-and-t-mobile-us/</link>
+      <description>Threat actors are allegedly selling or leaking user data from high-profile companies across telecom, technology, and finance sectors, including Vodafone Egypt, SAP Israel, OKX, and T-Mobile US. The stolen data includes various types of personal information such as names, phone numbers, dates of birth, email addresses, and more.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060986</guid>
+      <pubDate>Mon, 16 Jun 2025 09:36:06 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft: June Windows Server security updates cause DHCP issues</title>
@@ -1393,50 +1443,6 @@ FYSA: None</description>
       <description>Vulnerable Product: ConnectWise (various products); CVE(s): None; Summary: ConnectWise is rotating the digital code signing certificates used to sign ScreenConnect, Automate, and RMM executables due to concerns raised by a third-party security researcher about how certain configuration data can be abused by threat actors. The action is unrelated to any security incidents, including a nation-state cyberattack suffered last month.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/</guid>
       <pubDate>Tue, 10 Jun 2025 21:17:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Secure Boot flaw lets attackers install bootkit malware, patch now</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-3052; Summary: A Secure Boot bypass vulnerability, tracked as CVE-2025-3052, allows attackers with admin rights to modify a user-writable NVRAM variable and disable Secure Boot, enabling the installation of bootkit malware. The flaw affects nearly every system that trusts Microsoft's "UEFI CA 2011" certificate, which is widely used in modern systems utilizing UEFI firmware.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/</guid>
-      <pubDate>Tue, 10 Jun 2025 20:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Windows WebDAV 0-Day RCE Vulnerability Actively Exploited in The Wild</title>
-      <link>https://gbhackers.com/microsoft-windows-webdav-0-day/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33053; Summary: A critical zero-day vulnerability in Microsoft Windows allows remote code execution through manipulation of a system's working directory. The flaw was actively exploited by the advanced persistent threat (APT) group Stealth Falcon, who used it to deliver malicious files and inject shellcode into legitimate system processes.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141611</guid>
-      <pubDate>Tue, 10 Jun 2025 19:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Found in the wild: 2 Secure Boot exploits. Microsoft is patching only 1 of them.</title>
-      <link>https://arstechnica.com/security/2025/06/unearthed-in-the-wild-2-secure-boot-exploits-microsoft-patches-only-1-of-them/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: Attackers with brief physical access to a device can boot it up in IGEL and modify the boot loader to install malware. This vulnerability allows bypassing Secure Boot protections, potentially loading an untrusted OS on systems that trust the Microsoft 3rd Party UEFI CA.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/unearthed-in-the-wild-2-secure-boot-exploits-microsoft-patches-only-1-of-them/</guid>
-      <pubDate>Tue, 10 Jun 2025 19:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday June 2025 – 66 Vulnerabilities Patched Including 2 Zero-Day</title>
-      <link>https://gbhackers.com/microsoft-patch-tuesday-june-2025/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-33053, CVE-2025-33073; Summary: A zero-day vulnerability in the WebDAV component of Windows was actively exploited and a publicly disclosed zero-day vulnerability in the SMB client allowed for elevation of privilege. The vulnerabilities could be exploited to execute arbitrary code or gain SYSTEM-level privileges, making timely patching essential.
-
-Note: There are 66 vulnerabilities patched in total, but only these two specific vulnerabilities are mentioned as zero-days with exploitation details.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141601</guid>
-      <pubDate>Tue, 10 Jun 2025 18:47:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Report Highlights the Internet as the Primary Threat to Industrial Automation Systems</title>
-      <link>https://gbhackers.com/new-report-highlights-the-internet-as-the-primary-threat/</link>
-      <description>According to Kaspersky ICS CERT, the internet is the primary source of threats to operational technology (OT) infrastructure worldwide, with 21.9% of Industrial Control System (ICS) computers encountering malicious objects in the first quarter of 2025. The report highlights regional disparities in cybersecurity maturity, with Africa and South-East Asia facing heightened exposure to internet-based threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141568</guid>
-      <pubDate>Tue, 10 Jun 2025 18:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps</title>
-      <link>https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</link>
-      <description>Vulnerable Product: Adobe; CVEs: CVE-2025-47110, CVE-2025-43585, None (for others); Summary: Adobe patched 254 security flaws in its software products, primarily affecting Experience Manager and Commerce/Magento. The vulnerabilities, including a critical reflected XSS flaw and an improper authorization issue, could lead to arbitrary code execution, privilege escalation, or security feature bypass.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</guid>
-      <pubDate>Tue, 10 Jun 2025 18:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
