@@ -6,8 +6,75 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jun 2025 22:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 10:09:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Over 20 Malicious Google Play Apps Steal Users’ Login Credentials</title>
+      <link>https://gbhackers.com/malicious-google-play-apps-steal-users-login-credentials/</link>
+      <description>Malicious Android apps impersonating cryptocurrency wallets were found on the Google Play Store, designed to steal login credentials. The apps prompt users to enter sensitive information, which is then transmitted to attackers, allowing them to drain victims' wallets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142263</guid>
+      <pubDate>Mon, 16 Jun 2025 09:51:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Purview DLP Now Controls Copilot’s Access to Sensitive Email Data</title>
+      <link>https://gbhackers.com/microsoft-purview-dlp-now-controls-copilots-access/</link>
+      <description>Microsoft is enhancing data security in Microsoft 365 by extending Purview Data Loss Prevention (DLP) controls to Copilot's handling of sensitive email data. Starting January 1, 2025, DLP policies will detect sensitivity labels in emails and restrict Copilot from processing them, ensuring that sensitive information remains protected.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142268</guid>
+      <pubDate>Mon, 16 Jun 2025 09:48:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anubis Ransomware Introduces Irreversible File Destruction Feature</title>
+      <link>https://gbhackers.com/anubis-ransomware-introduces-irreversible-file/</link>
+      <description>Anubis is a Ransomware-as-a-Service (RaaS) operation that combines traditional file encryption with a destructive "wipe mode" feature, permanently erasing file contents. It targets industries like healthcare and construction across regions using sophisticated attack chains, including spear-phishing and command-line execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142215</guid>
+      <pubDate>Mon, 16 Jun 2025 09:48:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: June Windows Server security updates cause DHCP issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/</link>
+      <description>Vulnerable Product: Microsoft Windows Server; CVE(s): None; Summary: The DHCP service on some Windows Server systems (2016, 2019, 2022, and 2025) freezes after installing the June 2025 security updates, preventing unicast IP address renewals. This issue affects IP renewal for clients and may intermittently stop responding.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/</guid>
+      <pubDate>Mon, 16 Jun 2025 09:35:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uncovering the Technique of Hiding Images in DNS TXT Entries</title>
+      <link>https://gbhackers.com/uncovering-hiding-images-in-dns-txt-entries/</link>
+      <description>The article discusses a novel technique of hiding images inside DNS TXT records by converting them into Base64-encoded text strings and splitting them into chunks. While this approach demonstrates the flexibility of DNS infrastructure, it is not without limitations, including size and rate limits, making it impractical for storing large images.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142243</guid>
+      <pubDate>Mon, 16 Jun 2025 07:29:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud Suffers Major Disruption After API Management Error</title>
+      <link>https://gbhackers.com/google-cloud-suffers-major-disruption/</link>
+      <description>Google Cloud experienced an outage due to a critical error in its API management system, affecting millions of users and businesses worldwide. The incident was caused by an invalid automated quota update that propagated globally, causing 503 errors across various services. The recovery process was complicated by the scale of the failure, with some regions experiencing prolonged issues due to database overload.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142233</guid>
+      <pubDate>Mon, 16 Jun 2025 06:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data</title>
+      <link>https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html</link>
+      <description>Vulnerable Product: chimera-sandbox-extensions; CVE(s): None; Summary: A malicious package named chimera-sandbox-extensions was discovered on PyPI, which masquerades as a helper module for Chimera Sandbox. The package can steal sensitive information such as credentials, configuration data, and environment variables from infected machines, and sends the gathered data to an external domain.
+
+FYSA: Malicious packages on npm and PyPI have been identified, capable of executing remote code and downloading additional payloads. These packages, including eslint-config-airbnb-compat, ts-runtime-compat-check, solder, and @mediawave/lib, have been taken down from their respective package registries. Additionally, credential stealers, cryptocurrency drainers, cryptojackers, and clippers are targeting the cryptocurrency and blockchain development ecosystem.
+
+(Note: The article does not contain any other cybersecurity-relevant content besides the vulnerabilities mentioned above.)</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html</guid>
+      <pubDate>Mon, 16 Jun 2025 06:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Backup Services Flaw Allows Hackers to Gain Elevated Access</title>
+      <link>https://gbhackers.com/ibm-backup-services-flaw/</link>
+      <description>Vulnerable Product: IBM Backup, Recovery, and Media Services for i; CVE(s): CVE-2025-33108; Summary: A critical security vulnerability in IBM's BRMS software allows users with limited privileges to execute arbitrary code with elevated system access, potentially compromising the entire host operating system. The flaw arises from an unqualified library call within the software, allowing malicious actors to redirect calls to their own code.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142226</guid>
+      <pubDate>Mon, 16 Jun 2025 06:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>KIA Ecuador Keyless Entry Systems Vulnerability Faces Major Theft Threat</title>
+      <link>https://gbhackers.com/kia-ecuador-keyless-entry-systems-vulnerability/</link>
+      <description>Vulnerable Product: KIA; CVE(s): CVE-2025-6029; Summary: The keyless entry systems (KES) used in Kia vehicles across Ecuador are vulnerable to theft due to outdated "learning code" technology. Attackers can intercept and replay the fixed code transmitted by aftermarket key fobs, granting unauthorized access to the vehicle. The vulnerability has a CVSS score of 9.4, classified as "critical".</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142218</guid>
+      <pubDate>Mon, 16 Jun 2025 06:30:15 +0000</pubDate>
+    </item>
     <item>
       <title>ChatGPT's AI coder Codex now lets you choose the best solution</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/</link>
@@ -100,6 +167,17 @@
       <pubDate>Fri, 13 Jun 2025 14:12:00 +0000</pubDate>
     </item>
     <item>
+      <title>Trend Micro Fixes Critical RCE Bugs in Apex Central &amp; TMEE PolicyServer</title>
+      <link>https://socradar.io/trend-micro-fixes-rce-apex-central-tmee-policyserver/</link>
+      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-49219, CVE-2025-49220; Summary: Two critical Remote Code Execution (RCE) vulnerabilities were found in Trend Micro Apex Central (on-premise 2019 and SaaS versions), allowing unauthenticated RCE with a CVSS score of 9.8, posing a severe risk to enterprise environments.
+
+Vulnerable Product: Trend Micro Endpoint Encryption PolicyServer; CVE(s): CVE-2025-49212, CVE-2025-49213, CVE-2025-49216, CVE-2025-49214, CVE-2025-49211, CVE-2025-49215, CVE-2025-49218; Summary: Eight vulnerabilities were found in Trend Micro Endpoint Encryption PolicyServer versions prior to 6.0.0.4013, including four critical RCE bugs and an authentication bypass issue, with a CVSS score of 9.8, enabling attackers to gain admin-level control or escalate privileges.
+
+FYSA: None</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060973</guid>
+      <pubDate>Fri, 13 Jun 2025 13:49:21 +0000</pubDate>
+    </item>
+    <item>
       <title>NIST Releases New Guide – 19 Strategies for Building Zero Trust Architectures</title>
       <link>https://gbhackers.com/nist-releases-new-guide/</link>
       <description>The National Institute of Standards and Technology (NIST) has released guidance for implementing Zero Trust Architectures (ZTAs), providing 19 real-world implementation models, technical configurations, and best practices developed through a four-year collaboration with 24 industry partners. This guide helps organizations implement ZTAs using commercially available technologies, eliminating implicit trust by continuously verifying every access request through policy engines and dynamic authentication mechanisms.</description>
@@ -140,6 +218,13 @@
       <description>Vulnerable Product: Microsoft Defender for Identity; CVE(s): CVE-2025-26685; Summary: A spoofing vulnerability in Microsoft Defender for Identity (MDI) allows unauthenticated attackers to capture Net-NTLM hashes of critical Directory Service Accounts, potentially compromising Active Directory environments. The flaw exploits MDI's Lateral Movement Paths feature and has been actively addressed in May 2025 Patch Tuesday updates.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142159</guid>
       <pubDate>Fri, 13 Jun 2025 11:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reflections of the Israel-Iran Conflict on the Cyber World</title>
+      <link>https://socradar.io/reflections-of-israel-iran-conflict-cyber-world/</link>
+      <description>The article discusses the escalation of tensions between Israel and Iran following a series of airstrikes by Israel against Iranian nuclear enrichment sites, missile facilities, and military leaders' homes. Cyber activity has already begun, with groups like Moses Staff, Team Insane Pakistan, and DieNet posting messages and threatening attacks on Israeli infrastructure. Iranian cyber units are also expected to mobilize, potentially targeting government systems, communication infrastructure, or strategic industries.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060957</guid>
+      <pubDate>Fri, 13 Jun 2025 11:48:46 +0000</pubDate>
     </item>
     <item>
       <title>Amazon Cloud Cam Flaw Allows Attackers to Intercept and Modify Network Traffic</title>
@@ -221,6 +306,15 @@ Overall, the article is informative and provides valuable insights into the secu
       <description>Fog ransomware attacks have been linked to the use of open-source penetration testing tools, such as GC2, Adaptix, and Stowaway, and legitimate employee monitoring software like Syteca. The attackers used these tools to conduct reconnaissance, establish persistence, and exfiltrate data before deploying Fog ransomware, marking a new trend in cybercrime.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142061</guid>
       <pubDate>Fri, 13 Jun 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tycoon 2FA: An Evolving Phishing Kit Powering PhaaS Threats</title>
+      <link>https://socradar.io/tycoon-2fa-an-evolving-phishing-kit-phaas-threats/</link>
+      <description>Vulnerable Product: Tycoon 2FA; CVE(s): None; Summary: Tycoon 2FA is a Phishing-as-a-Service (PhaaS) kit that enables attackers to bypass Multi-Factor Authentication (MFA) by stealing session cookies. It uses a reverse proxy to insert itself between the victim and the legitimate service, allowing attackers to capture sensitive information during a seemingly normal login process. The kit has undergone regular updates since its emergence in 2023, introducing new tactics to evade detection and boost its effectiveness.
+
+FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to security measures and remaining a formidable tool for cybercriminals. Its ease of use, ability to evade security tools, and adaptability make it a popular choice for attackers.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100060930</guid>
+      <pubDate>Fri, 13 Jun 2025 09:38:55 +0000</pubDate>
     </item>
     <item>
       <title>JSFireTruck Obfuscation Helps Cybercriminals Hijack Trusted Sites with Malicious JavaScript</title>
@@ -1341,90 +1435,6 @@ Note: There are 66 vulnerabilities patched in total, but only these two specific
       <description>Vulnerable Product: SAP NetWeaver Application Server AS ABAP; CVE(s): 3600840; Summary: A critical vulnerability with a CVSS score of 9.6 in the SAP NetWeaver Application Server AS ABAP's Remote Function Call (RFC) framework allows authenticated attackers to bypass standard authorization checks and escalate privileges, potentially granting access to critical system functions and data.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141531</guid>
       <pubDate>Tue, 10 Jun 2025 17:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-33053, CVE-2025-33073; Summary: Microsoft fixed two zero-day vulnerabilities in its June 2025 Patch Tuesday updates. The first is a Web Distributed Authoring and Versioning (WEBDAV) Remote Code Execution Vulnerability (CVE-2025-33053), which was actively exploited before the patch was available. The second is a Windows SMB Client Elevation of Privilege Vulnerability (CVE-2025-33073), which allows attackers to gain SYSTEM privileges on vulnerable devices.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/</guid>
-      <pubDate>Tue, 10 Jun 2025 17:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 KB5060842 and KB5060999 cumulative updates released</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/</link>
-      <description>This article discusses the release of Windows 11 KB5060842 and KB5060999 cumulative updates for versions 24H2 and 23H2, which include fixes for 66 security vulnerabilities. The updates also introduce new features such as improved Windows Search, enhanced digital accessibility with AI-powered image descriptions in Narrator, and management of Energy Saver settings through group policies and MDM configurations using Microsoft Intune.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/</guid>
-      <pubDate>Tue, 10 Jun 2025 17:32:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Instagram Growth Tools Stealing Login Credentials and Sending Them to Attackers</title>
-      <link>https://gbhackers.com/beware-of-instagram-growth-tools-stealing-login-credentials/</link>
-      <description>Vulnerable Product: imad213 (Python package); CVE(s): None; Summary: The malicious Python package imad213, posing as an Instagram growth tool, tricks users into surrendering their credentials. Upon execution, it initiates a remote check and prompts users for their Instagram login details, saving them locally in plaintext. The malware then broadcasts these credentials to a network of Turkish bot services, which pose as legitimate platforms with professional interfaces.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141553</guid>
-      <pubDate>Tue, 10 Jun 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean APT Hackers Target Users on Social Media to Spread Malware</title>
-      <link>https://gbhackers.com/north-korean-apt-hackers-target-users/</link>
-      <description>This article reports a highly sophisticated Advanced Persistent Threat (APT) campaign orchestrated by the North Korean state-sponsored hacking group Kimsuky, targeting individuals in South Korea through social media, email, and Telegram. The attackers use social engineering and tailored content to exploit trust, and employ a multi-stage infiltration strategy involving malicious files, decoy PDFs, and malware designed to bypass signature-based detection tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141545</guid>
-      <pubDate>Tue, 10 Jun 2025 16:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware</title>
-      <link>https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html</link>
-      <description>FIN6 is a financially motivated threat actor that uses fake resumes hosted on Amazon Web Services (AWS) infrastructure to deliver the More_eggs malware. The group initiates contact with recruiters through LinkedIn and Indeed, posing as job seekers, and then delivers phishing messages that lead to malware.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html</guid>
-      <pubDate>Tue, 10 Jun 2025 16:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Outlook to block more risky attachments used in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/</link>
-      <description>Microsoft will block .library-ms and .search-ms file types in Outlook Web and the new Outlook for Windows starting next month to enhance security and prevent exploitation of Windows vulnerabilities. The blocked file types are rarely used, but may affect organizations that rely on them.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/</guid>
-      <pubDate>Tue, 10 Jun 2025 16:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas Dept. of Transportation breached, 300k crash records stolen</title>
-      <link>https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/</link>
-      <description>The Texas Department of Transportation (TxDOT) suffered a data breach after a threat actor downloaded 300,000 crash records from its database using compromised credentials. The exposed data includes full names, physical addresses, driver's license numbers, and other information, which elevates the risk for social engineering, scamming, and phishing attacks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/</guid>
-      <pubDate>Tue, 10 Jun 2025 16:25:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>FIN6 hackers pose as job seekers to backdoor recruiters’ devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/</link>
-      <description>FIN6 hacking group impersonates job seekers to target recruiters, using social engineering campaigns to deliver "More Eggs" malware-as-a-service JavaScript backdoor for credential theft, system access, and ransomware deployment.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/</guid>
-      <pubDate>Tue, 10 Jun 2025 15:57:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Workspace Control hardcoded key flaws expose SQL credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/</link>
-      <description>Vulnerable Product: Ivanti Workspace Control (IWC); CVE(s): CVE-2025-5353, CVE-2025-22455, CVE-2025-22463; Summary: The IWC solution has three high-severity hardcoded key vulnerabilities that can lead to privilege escalation and system compromise following successful exploitation. Two flaws allow local authenticated attackers to decrypt stored SQL credentials, while the third enables decryption of the stored environment password.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/</guid>
-      <pubDate>Tue, 10 Jun 2025 15:22:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Heroku outage impacts web platforms worldwide</title>
-      <link>https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/</link>
-      <description>Heroku is experiencing a widespread outage that has lasted over six hours, affecting developers' ability to log in and use the platform. The outage impacts various services and websites, including SolarWinds, which cannot ingest logs due to the issue. Heroku has not yet provided details on the root cause or when services will be restored.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/</guid>
-      <pubDate>Tue, 10 Jun 2025 14:51:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Workspace Control Vulnerability Lets Attackers Remotely Exploit To Steal the Credential</title>
-      <link>https://gbhackers.com/ivanti-workspace-control-vulnerability/</link>
-      <description>Vulnerable Product: Ivanti Workspace Control; CVE(s): CVE-2025-5353, CVE-2025-22463, CVE-2025-22455; Summary: The vulnerabilities in Ivanti Workspace Control prior to 10.19.10.0 allow local authenticated attackers to decrypt stored SQL credentials and environment passwords due to hardcoded cryptographic keys. Successful exploitation could lead to severe consequences, including unauthorized access to critical systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141554</guid>
-      <pubDate>Tue, 10 Jun 2025 14:49:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users</title>
-      <link>https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html</link>
-      <description>Vulnerable Product: Various; CVE(s): None; Summary: Myth Stealer is a Rust-based information stealer that steals passwords, cookies, and autofill information from Chromium- and Gecko-based browsers. It's distributed through fake gaming websites and online forums, and attempts to terminate running processes associated with web browsers before exfiltrating stolen data to a remote server or Discord webhook. The malware contains anti-analysis techniques such as string obfuscation and system checks using filenames and usernames.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html</guid>
-      <pubDate>Tue, 10 Jun 2025 14:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
