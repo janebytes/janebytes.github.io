@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 15:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 16:02:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Washington Post's email system hacked, journalists' accounts compromised</title>
+      <link>https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/</link>
+      <description>The email accounts of several Washington Post journalists were compromised in a suspected foreign government- sponsored attack, targeting journalists writing about national security and economic policy topics, as well as some who write about China. Advanced persistent threats (APTs) are believed to be behind the attack, which is reminiscent of previous attacks on Microsoft Exchange systems by Chinese hackers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/</guid>
+      <pubDate>Mon, 16 Jun 2025 15:08:25 +0000</pubDate>
+    </item>
     <item>
       <title>Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment</title>
       <link>https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html</link>
       <description>An emerging ransomware strain named Anubis has been discovered that can encrypt files and permanently erase them, allowing recovery attempts to be impossible. The ransomware features a "wipe mode" that erases files, making recovery even if the ransom is paid impossible.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html</guid>
       <pubDate>Mon, 16 Jun 2025 14:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kali Linux 2025.2 released with 13 new tools, car hacking updates</title>
+      <link>https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/</link>
+      <description>Kali Linux 2025.2 has been released, featuring new tools and updates to the car hacking toolkit, including a renamed CAN Arsenal (now CARsenal) and additional hacking tools such as hlcand, VIN Info, CaringCaribou, ICSim, and more. The Kali Menu has also been reorganized to align with the MITRE ATT&amp;CK framework.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/</guid>
+      <pubDate>Mon, 16 Jun 2025 14:18:09 +0000</pubDate>
     </item>
     <item>
       <title>Zoomcar discloses security breach impacting 8.4 million users</title>
@@ -1427,20 +1441,6 @@ FYSA: Several cybersecurity-relevant details are highlighted in the article, inc
       <description>Vulnerable Product: Microsoft Windows Remote Desktop Gateway Service; CVE(s): CVE-2025-30394; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Microsoft Windows, without requiring authentication. The issue exists within the Remote Desktop Gateway service due to a null pointer dereference.</description>
       <guid isPermaLink="false">ZDI-CAN-26776</guid>
       <pubDate>Tue, 10 Jun 2025 22:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-335: Adobe Acrobat Reader DC Doc Object Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-335/</link>
-      <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-43575; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC by writing past the end of an allocated buffer. User interaction is required to exploit this vulnerability, and it can be leveraged to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26342</guid>
-      <pubDate>Tue, 10 Jun 2025 22:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-336: Adobe Acrobat Reader DC Collab Object Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-336/</link>
-      <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-43573; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required, and the flaw exists within the handling of Collab objects due to lack of validating object existence prior to operations.</description>
-      <guid isPermaLink="false">ZDI-CAN-26590</guid>
-      <pubDate>Tue, 10 Jun 2025 22:03:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
