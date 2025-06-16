@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 14:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 15:01:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment</title>
+      <link>https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html</link>
+      <description>An emerging ransomware strain named Anubis has been discovered that can encrypt files and permanently erase them, allowing recovery attempts to be impossible. The ransomware features a "wipe mode" that erases files, making recovery even if the ransom is paid impossible.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html</guid>
+      <pubDate>Mon, 16 Jun 2025 14:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoomcar discloses security breach impacting 8.4 million users</title>
+      <link>https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/</link>
+      <description>Unauthorized access to Zoomcar's system led to a data breach impacting 8.4 million users, exposing sensitive data including full name, phone number, car registration number, home address, and email address. The company is still evaluating the exact scope and potential impact of the security incident.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/</guid>
+      <pubDate>Mon, 16 Jun 2025 14:13:18 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Target and Hijack Washington Post Journalists’ Email Accounts</title>
       <link>https://gbhackers.com/hackers-target-washington-post-journalists-email-accounts/</link>
@@ -1427,20 +1441,6 @@ FYSA: Several cybersecurity-relevant details are highlighted in the article, inc
       <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-43573; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required, and the flaw exists within the handling of Collab objects due to lack of validating object existence prior to operations.</description>
       <guid isPermaLink="false">ZDI-CAN-26590</guid>
       <pubDate>Tue, 10 Jun 2025 22:03:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-337: Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-337/</link>
-      <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-47112; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Adobe Acrobat Reader DC. User interaction is required, and the issue results from a lack of proper validation of user-supplied data that can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26777</guid>
-      <pubDate>Tue, 10 Jun 2025 22:03:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-338: Adobe Acrobat Reader DC Collab Object Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-338/</link>
-      <description>Vulnerable Product: Adobe Acrobat Reader DC; CVE(s): CVE-2025-43574; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Collab objects and can be exploited by not validating the existence of an object prior to performing operations on it.</description>
-      <guid isPermaLink="false">ZDI-CAN-26593</guid>
-      <pubDate>Tue, 10 Jun 2025 22:02:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
