@@ -6,8 +6,254 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 17:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 10:18:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-381: Siemens TeleControl Server Basic CreateTrace SQL Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-381/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-27495; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Siemens TeleControl Server Basic without authentication. The flaw exists in the implementation of the CreateTrace method, which fails to properly validate a user-supplied string before constructing SQL queries, enabling an attacker to execute code in the context of NETWORK SERVICE.</description>
+      <guid isPermaLink="false">ZDI-CAN-25911</guid>
+      <pubDate>Tue, 17 Jun 2025 10:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-382: Siemens TeleControl Server Basic UpdateProject SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-382/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-32475; Summary: This vulnerability allows remote attackers to disclose sensitive information, including stored credentials, on affected installations of Siemens TeleControl Server Basic. The issue results from the lack of proper validation of user-supplied strings before constructing SQL queries, which can be bypassed to exploit the vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-25912</guid>
+      <pubDate>Tue, 17 Jun 2025 10:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-383: Siemens TeleControl Server Basic VerifyUser SQL Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-383/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-27539; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Siemens TeleControl Server Basic. Authentication is not required to exploit this vulnerability, and the flaw exists within the implementation of the VerifyUser method due to lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
+      <guid isPermaLink="false">ZDI-CAN-25914</guid>
+      <pubDate>Tue, 17 Jun 2025 10:11:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-384: Siemens TeleControl Server Basic Authenticate SQL Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-384/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-27540; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Siemens TeleControl Server Basic without authentication. The flaw exists in the implementation of the Authenticate method due to a lack of proper validation of user-supplied strings used to construct SQL queries, enabling an attacker to execute code in the context of NETWORK SERVICE.</description>
+      <guid isPermaLink="false">ZDI-CAN-25913</guid>
+      <pubDate>Tue, 17 Jun 2025 10:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-385: Siemens TeleControl Server Basic RestoreFromBackup SQL Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-385/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-29905; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Siemens TeleControl Server Basic by injecting SQL commands through the RestoreFromBackup method. The flaw is due to a lack of proper validation of user-supplied strings before constructing SQL queries, which can be bypassed.</description>
+      <guid isPermaLink="false">ZDI-CAN-25923</guid>
+      <pubDate>Tue, 17 Jun 2025 10:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-386: Siemens TeleControl Server Basic UpdateConnectionVariables SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-386/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30002; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic, bypassing authentication and disclosing stored credentials. The issue is due to the lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
+      <guid isPermaLink="false">ZDI-CAN-25909</guid>
+      <pubDate>Tue, 17 Jun 2025 10:10:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-387: Siemens TeleControl Server Basic UpdateProjectConnections SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-387/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30003; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic, bypassing existing authentication mechanisms. The issue stems from a lack of proper validation of user-supplied strings used in SQL queries, enabling attackers to disclose stored credentials and potentially leading to further compromise.</description>
+      <guid isPermaLink="false">ZDI-CAN-25910</guid>
+      <pubDate>Tue, 17 Jun 2025 10:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-388: Siemens TeleControl Server Basic ImportDatabase SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-388/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30030; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries, which can be used to disclose stored credentials leading to further compromise.</description>
+      <guid isPermaLink="false">ZDI-CAN-25924</guid>
+      <pubDate>Tue, 17 Jun 2025 10:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-389: Siemens TeleControl Server Basic UpdateUsers SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-389/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30031; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic by exploiting a SQL injection information disclosure vulnerability in the UpdateUsers method, which can be bypassed. An attacker could leverage this vulnerability to disclose stored credentials, leading to further compromise.</description>
+      <guid isPermaLink="false">ZDI-CAN-25922</guid>
+      <pubDate>Tue, 17 Jun 2025 10:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-390: Siemens TeleControl Server Basic UpdateDatabaseSettings SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-390/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30032; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic, which can be used to compromise further. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries. An attacker could leverage this vulnerability to disclose stored credentials.</description>
+      <guid isPermaLink="false">ZDI-CAN-25921</guid>
+      <pubDate>Tue, 17 Jun 2025 10:09:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-391: Siemens TeleControl Server Basic UpdateTcmSettings SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-391/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31343; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. Although authentication is required, the existing mechanism can be bypassed. The flaw exists in the UpdateTcmSettings method due to a lack of proper validation of user-supplied strings used to construct SQL queries, allowing disclosure of stored credentials leading to further compromise.</description>
+      <guid isPermaLink="false">ZDI-CAN-25920</guid>
+      <pubDate>Tue, 17 Jun 2025 10:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-392: Siemens TeleControl Server Basic UpdateSmtpSettings SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-392/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31349; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic through SQL injection, bypassing authentication. The issue is caused by the lack of proper validation of user-supplied strings before constructing SQL queries, which could lead to stored credentials being disclosed and further compromise.</description>
+      <guid isPermaLink="false">ZDI-CAN-25919</guid>
+      <pubDate>Tue, 17 Jun 2025 10:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-393: Siemens TeleControl Server Basic UpdateBufferingSettings SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-393/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31350; Summary: The vulnerability allows remote attackers to disclose sensitive information, including stored credentials, by exploiting a SQL injection flaw in the UpdateBufferingSettings method. Authentication is required but can be bypassed, making it possible for an attacker to leverage this issue and disclose sensitive data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25918</guid>
+      <pubDate>Tue, 17 Jun 2025 10:08:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-394: Siemens TeleControl Server Basic CreateProject SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-394/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31351; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic by bypassing the existing authentication mechanism and leveraging a SQL injection flaw in the CreateProject method, which lacks proper validation of user-supplied strings.</description>
+      <guid isPermaLink="false">ZDI-CAN-25917</guid>
+      <pubDate>Tue, 17 Jun 2025 10:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-395: Siemens TeleControl Server Basic UpdateGateways SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-395/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31352; Summary: This vulnerability allows remote attackers to disclose sensitive information, including stored credentials, by exploiting a SQL injection issue in the UpdateGateways method due to improper validation of user-supplied strings. Authentication is required but can be bypassed.</description>
+      <guid isPermaLink="false">ZDI-CAN-25915</guid>
+      <pubDate>Tue, 17 Jun 2025 10:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-396: Siemens TeleControl Server Basic UpdateOpcSettings SQL Injection Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-396/</link>
+      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31353; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The specific flaw exists within the implementation of the UpdateOpcSettings method due to lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
+      <guid isPermaLink="false">ZDI-CAN-25916</guid>
+      <pubDate>Tue, 17 Jun 2025 10:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring a New KimJongRAT Stealer Variant and Its PowerShell Implementation</title>
+      <link>https://unit42.paloaltonetworks.com/kimjongrat-stealer-variant-powershell/</link>
+      <description>FYSA:
+
+The provided article appears to be an in-depth analysis of a malware campaign, specifically focusing on a PowerShell-based stealer and its various components. The article describes the different stages of the malware's operation, including data extraction from browsers and file systems, as well as interactions with a command-and-control (C2) server.
+
+Key findings include:
+
+1. The malware is designed to extract sensitive information such as browser data, cryptocurrency wallet extensions, and system files.
+2. The malware uses various techniques to evade detection, including anti-VM checks and obfuscation of its code.
+3. The malware communicates with a C2 server to upload stolen data, download additional payloads, and execute commands.
+4. The malware has persistence mechanisms in place, including registry entries and file creation.
+
+The article provides detailed information on the malware's components, including VBScript code, PowerShell scripts, and Base64-encoded payloads. It also discusses the different stages of the malware's operation and its interactions with the C2 server.
+
+Overall, this analysis provides valuable insights into the capabilities and behavior of this particular malware campaign.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=143320</guid>
+      <pubDate>Tue, 17 Jun 2025 10:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>150K+ Users Affected by Malicious Loan Apps on iOS and Google Play</title>
+      <link>https://gbhackers.com/150k-users-affected-by-malicious-loan-apps/</link>
+      <description>Vulnerable Product: RapiPlata app; CVE(s): None; Summary: The RapiPlata app, posing as a financial service, targeted Colombian users by gaining access to sensitive data such as SMS messages, call logs, calendar events, and installed applications. It exploited permissions under the guise of credit assessment to conduct keyword-based SMS scanning, behavioral data harvesting, and unauthorized exfiltration of personal information.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142481</guid>
+      <pubDate>Tue, 17 Jun 2025 09:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploiting Chrome Zero‑Day Vulnerability in the Wild</title>
+      <link>https://gbhackers.com/hackers-exploiting-chrome-zero%e2%80%91day-vulnerability/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-2783; Summary: The vulnerability arises from an incorrect handle being provided in unspecified circumstances, allowing remote attackers to escape Chrome's sandbox via a malicious file or website. This enables attackers to bypass one of Chrome's core security mechanisms, potentially leading to arbitrary code execution on the victim's machine.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142490</guid>
+      <pubDate>Tue, 17 Jun 2025 08:40:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>TP-Link Router Flaw CVE-2023-33538 Under Active Exploit, CISA Issues Immediate Alert</title>
+      <link>https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html</link>
+      <description>Vulnerable Product: TP-Link; CVE(s): CVE-2023-33538; Summary: The vulnerability is a command injection bug (CVSS score: 8.8) in TP-Link wireless routers that could result in the execution of arbitrary system commands when processing the ssid1 parameter in a specially crafted HTTP GET request, with evidence of active exploitation.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html</guid>
+      <pubDate>Tue, 17 Jun 2025 08:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Devices Under Siege: How Threat Actors Abuse OEM Permissions for Privilege Escalation</title>
+      <link>https://gbhackers.com/how-threat-actors-abuse-oem-permissions-for-privilege-escalation/</link>
+      <description>Vulnerable Product: Android; CVE(s): None; Summary: Threat actors are exploiting legitimate channels, such as sideloading and OEM permissions, to achieve privilege escalation and gain control over devices. This can occur through malicious apps requesting excessive system access or inheriting elevated privileges. The vulnerability lies in the exploitation of trusted pathways, allowing attackers to bypass Android's standard security model and compromise user privacy settings.
+
+(Note: Since this article is about a cybersecurity-relevant issue rather than a specific vulnerability with CVEs, I responded in the "FYSA" format.)</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142461</guid>
+      <pubDate>Tue, 17 Jun 2025 07:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Alerts: iOS Zero‑Click Flaw Actively Exploited</title>
+      <link>https://gbhackers.com/cisa-alerts-ios-zero%e2%80%91click-flaw/</link>
+      <description>Vulnerable Product: Apple; CVE(s): CVE-2025-43200; Summary: The zero-click vulnerability in Apple's ecosystem allowed attackers to compromise iOS, iPadOS, macOS, watchOS, and visionOS devices without user interaction. The flaw was triggered by processing maliciously crafted photos or videos shared via iCloud Links, enabling remote code execution and full device compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142469</guid>
+      <pubDate>Tue, 17 Jun 2025 07:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GCHQ Intern Sentenced to 7 Years for Illegally Copying Secret Files to Smartphone</title>
+      <link>https://gbhackers.com/gchq-intern-sentenced-to-7-years/</link>
+      <description>A former GCHQ intern, Hasaan Arshad, has been sentenced to 7 and a half years in prison for smuggling top secret data out of a secure facility using his mobile phone. The breach was described as a "flagrant violation" of national security protocols, posing a significant risk to the UK's national security efforts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142445</guid>
+      <pubDate>Tue, 17 Jun 2025 06:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeerStealer Malware Deployed Through Exploitation of Windows Run Prompt by Threat Actors</title>
+      <link>https://gbhackers.com/deerstealer-malware-deployed-through-exploitation/</link>
+      <description>DeerStealer malware is being deployed using HijackLoader malware loader, designed to harvest sensitive data including cryptocurrency wallets, browser credentials, VPN details, and instant messenger information. The initial access method, ClickFix, manipulates victims into executing a malicious PowerShell command, setting off a complex attack chain that ultimately delivers DeerStealer as the final payload.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142438</guid>
+      <pubDate>Tue, 17 Jun 2025 06:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache Tomcat Flaws Allow Auth Bypass and DoS Attacks</title>
+      <link>https://gbhackers.com/apache-tomcat-flaws/</link>
+      <description>Vulnerable Product: Apache Software Foundation Apache Tomcat; CVE(s): CVE-2025-48976, CVE-2025-48988, CVE-2025-49124, CVE-2025-49125; Summary: Four newly discovered vulnerabilities in Apache Tomcat allow for denial-of-service attacks, privilege escalation, installer abuse, and authentication bypass. The flaws affect versions 9.0, 10.1, and 11.0, and administrators are strongly advised to upgrade to patch the issues.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142439</guid>
+      <pubDate>Tue, 17 Jun 2025 06:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Weaponize Langflow Vulnerability to Launch Flodrix Botnet</title>
+      <link>https://gbhackers.com/hackers-weaponize-langflow-vulnerability/</link>
+      <description>Vulnerable Product: Langflow; CVE(s): CVE-2025-3248; Summary: A remote code execution vulnerability (CVE-2025-3248) in Langflow, a Python-based AI prototyping framework, is being actively exploited by cybercriminals to deploy the Flodrix botnet. The vulnerability allows unauthenticated attackers to craft malicious POST requests embedding harmful code within function decorators or default arguments, granting remote code execution capabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142433</guid>
+      <pubDate>Tue, 17 Jun 2025 05:45:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyxel Devices Under Attack as Hackers Exploit UDP Port RCE Flaw</title>
+      <link>https://gbhackers.com/zyxel-devices-under-attack/</link>
+      <description>Vulnerable Product: Zyxel; CVE(s): CVE-2023-28771; Summary: A critical remote code execution (RCE) vulnerability (CVSS 9.8) affects several Zyxel product lines, including ATP, USG FLEX, VPN series, and ZyWALL/USG, across firmware versions ZLD V4.60 to V5.35 (or V4.73 for ZyWALL/USG). Exploitation involves sending a single, specially crafted IKE packet to UDP port 500, triggering unauthenticated remote code execution, which can potentially seize full control of unpatched devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142426</guid>
+      <pubDate>Tue, 17 Jun 2025 05:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Starts Showing Ads on WhatsApp After 6-Year Delay From 2018 Announcement</title>
+      <link>https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html</link>
+      <description>WhatsApp is introducing ads in its Status feature, with the company emphasizing that it's built with privacy in mind and only uses limited information to serve ads. The ads will be displayed on the Updates tab and will not access users' personal messages, calls, or groups for targeting.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html</guid>
+      <pubDate>Tue, 17 Jun 2025 04:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers switch to targeting U.S. insurance companies</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/</link>
+      <description>Threat intelligence researchers are warning of hackers breaching multiple U.S. companies in the insurance industry using tactics observed with Scattered Spider activity, a group known for sophisticated social engineering attacks and use of ransomware. The threat actors have a sector-by-sector focus, and the insurance industry should be on high alert.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/</guid>
+      <pubDate>Mon, 16 Jun 2025 20:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vandals cut fiber-optic lines, causing outage for Spectrum Internet subscribers</title>
+      <link>https://arstechnica.com/security/2025/06/vandals-cut-fiber-optic-lines-causing-outage-for-spectrum-internet-subscribers/</link>
+      <description>There is no specific vulnerability mentioned in this article. Instead, it discusses copper theft and its impact on industries that rely on copper infrastructure, including telephone and internet connectivity. The article highlights the severity of the issue, with examples such as AT&amp;T's experience with fiber line disruptions due to copper theft, and the company's decision to replace copper-based networks with fiber ones.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/vandals-cut-fiber-optic-lines-causing-outage-for-spectrum-internet-subscribers/</guid>
+      <pubDate>Mon, 16 Jun 2025 20:15:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Katz Stealer Boosts Credential Theft with System Fingerprinting and Persistence Mechanisms</title>
+      <link>https://gbhackers.com/katz-stealer-boosts-credential-theft-with-system/</link>
+      <description>Katz Stealer is a sophisticated information-stealing malware-as-a-service (MaaS) that steals sensitive information such as browser credentials, cryptocurrency wallet data, and session tokens from platforms like Discord and Telegram. It uses advanced techniques to evade detection, including in-memory operation, modular payloads, and process hollowing.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142381</guid>
+      <pubDate>Mon, 16 Jun 2025 18:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASUS Armoury Crate bug lets attackers get Windows admin privileges</title>
+      <link>https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/</link>
+      <description>Vulnerable Product: ASUS Armoury Crate; CVE(s): CVE-2025-3464; Summary: A high-severity vulnerability (CVE-2025-3464) in ASUS Armoury Crate software allows threat actors to escalate their privileges to SYSTEM level on Windows machines, bypassing authorization and granting access to physical memory, I/O ports, and model-specific registers. Exploitation involves creating a hard link from a benign test app to a fake executable, allowing the attacker to gain low-level system privileges.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/</guid>
+      <pubDate>Mon, 16 Jun 2025 18:08:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Seizes $7.74M in Crypto Tied to North Korea’s Global Fake IT Worker Network</title>
+      <link>https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html</link>
+      <description>North Korean IT workers used fake identities and AI tools like OpenAI ChatGPT to bypass due diligence checks and secure freelance jobs at U.S. cryptocurrency companies. They laundered ill-gotten gains through Sim, a North Korean Foreign Trade Bank representative, to further Pyongyang's strategic objectives in violation of sanctions.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html</guid>
+      <pubDate>Mon, 16 Jun 2025 17:49:00 +0000</pubDate>
+    </item>
     <item>
       <title>Washington Post's email system hacked, journalists' accounts compromised</title>
       <link>https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/</link>
@@ -42,6 +288,13 @@
       <description>A targeted cyberattack has struck The Washington Post, compromising email accounts of several journalists. The attack appears to have been focused on reporters from national security and economic policy teams, including those covering sensitive topics related to China. Experts warn that this breach poses a significant risk to the integrity of independent journalism.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142389</guid>
       <pubDate>Mon, 16 Jun 2025 13:49:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archetyp Market Takedown: Operation Deep Sentinel Ends a Major Dark Web Platform</title>
+      <link>https://socradar.io/archetyp-market-takedown-operation-deep-sentinel/</link>
+      <description>International law enforcement agencies took down Archetyp Market, one of the most active darknet marketplaces dedicated to drug trafficking. The operation, led by German authorities and supported by Europol and Eurojust, targeted the platform's infrastructure, administrators, and top vendors.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061021</guid>
+      <pubDate>Mon, 16 Jun 2025 12:51:40 +0000</pubDate>
     </item>
     <item>
       <title>Zoomcar Data Breach Exposes Sensitive Details of 8.4 Million Users</title>
@@ -84,6 +337,13 @@
       <description>Vulnerable Product: N/A; CVE(s): None; Summary: A sophisticated malware campaign targets vacation planners by imitating Booking.com using phony travel websites. The campaign uses social engineering tactics, including a counterfeit cookie banner, to deploy XWorm, a remote access trojan (RAT).</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142303</guid>
       <pubDate>Mon, 16 Jun 2025 12:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/16/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Apple, Multiple Products; CVE(s): CVE-2025-43200, CVE-2023-33538; Summary: Two vulnerabilities have been added to the Known Exploited Vulnerabilities (KEV) Catalog by CISA due to active exploitation. The first is an unspecified vulnerability in Apple products, and the second is a command injection vulnerability affecting TP-Link routers. These vulnerabilities pose significant risks to federal agencies and other organizations if not remediated in a timely manner.</description>
+      <guid isPermaLink="false">/node/23517</guid>
+      <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>North Korean APT Hackers Target Ukrainian Government Agencies to Steal Login Credentials</title>
@@ -1194,253 +1454,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5475; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected Sony XAV-AX8500 devices by exploiting an integer overflow in Bluetooth packet handling. The attacker must first pair a malicious device with the target system to exploit this vulnerability, which results from a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26283</guid>
       <pubDate>Wed, 11 Jun 2025 18:04:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-354: (Pwn2Own) Sony XAV-AX8500 Bluetooth L2CAP Protocol Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-354/</link>
-      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5477; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected devices by exploiting a heap-based buffer overflow in the Bluetooth L2CAP protocol. An attacker must pair a malicious device with the target system to exploit this vulnerability, and Sony has issued an update to correct it.</description>
-      <guid isPermaLink="false">ZDI-CAN-26286</guid>
-      <pubDate>Wed, 11 Jun 2025 18:04:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-355: (Pwn2Own) Sony XAV-AX8500 Bluetooth SDP Protocol Integer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-355/</link>
-      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5478; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Sony XAV-AX8500 devices without authentication. The issue results from an integer overflow in the Bluetooth SDP protocol due to lack of proper validation of user-supplied data, allowing an attacker to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26288</guid>
-      <pubDate>Wed, 11 Jun 2025 18:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-356: (Pwn2Own) Sony XAV-AX8500 Bluetooth AVCTP Protocol Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-356/</link>
-      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5479; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Sony XAV-AX8500 devices by exploiting a heap-based buffer overflow in the Bluetooth AVCTP protocol. An attacker must pair a malicious Bluetooth device with the target system to exploit this vulnerability, which affects the length validation of user-supplied data prior to copying it to a buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26290</guid>
-      <pubDate>Wed, 11 Jun 2025 18:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-357: (Pwn2Own) Sony XAV-AX8500 Bluetooth Improper Isolation Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-357/</link>
-      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5476; Summary: The Sony XAV-AX8500 Bluetooth device has an improper isolation authentication bypass vulnerability, allowing network-adjacent attackers to bypass authentication without requiring any further interaction. The issue is due to the lack of L2CAP channel isolation in the implementation of ACL-U links, enabling attackers to exploit this flaw and gain unauthorized access.</description>
-      <guid isPermaLink="false">ZDI-CAN-26284</guid>
-      <pubDate>Wed, 11 Jun 2025 18:03:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-358: (Pwn2Own) Sony XAV-AX8500 Bluetooth ERTM Channel Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-358/</link>
-      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5820; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected Sony XAV-AX8500 devices without requiring authentication, exploiting a flaw in the implementation of Bluetooth ERTM channel communication due to improper channel data initialization.</description>
-      <guid isPermaLink="false">ZDI-CAN-26285</guid>
-      <pubDate>Wed, 11 Jun 2025 18:03:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot</title>
-      <link>https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/</link>
-      <description>Vulnerable Product: Microsoft 365 Copilot; CVE(s): CVE-2025-32711; Summary: A zero-click AI vulnerability, dubbed EchoLeak, allows attackers to exfiltrate sensitive data from a user's context without interaction. The vulnerability was fixed server-side in May and no real-world exploitation has been observed.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/</guid>
-      <pubDate>Wed, 11 Jun 2025 17:48:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Black Basta Members Use Microsoft Teams and Python Scripts in 2025 Attacks</title>
-      <link>https://thehackernews.com/2025/06/former-black-basta-members-use.html</link>
-      <description>Former Black Basta ransomware operation members are using Teams phishing and email bombing to establish persistent access to target networks, with some attacks leveraging Python script execution and others using Quick Assist and AnyDesk for remote desktop sessions. Additionally, the article discusses various ransomware groups' tactics, techniques, and procedures (TTPs), including Scattered Spider's "one-to-many" approach, Qilin's exploitation of Fortinet vulnerabilities, and Interlock's use of NodeSnake JavaScript RAT.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/former-black-basta-members-use.html</guid>
-      <pubDate>Wed, 11 Jun 2025 17:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insyde UEFI Application Vulnerability Enables Digital Certificate Injection Through NVRAM Variable</title>
-      <link>https://gbhackers.com/insyde-uefi-application-vulnerability/</link>
-      <description>Vulnerable Product: Insyde H2O UEFI firmware; CVE(s): CVE-2025-XXXX; Summary: A critical vulnerability in Insyde H2O UEFI firmware allows attackers to bypass Secure Boot protections by injecting malicious digital certificates via an unprotected NVRAM variable. This flaw exposes millions of devices to pre-boot malware and kernel-level rootkits that evade traditional security monitoring, enabling three primary attack vectors including bypassing Secure Boot, neutralizing Endpoint Detection and Response (EDR) or antivirus (AV) systems, and opening the door to supply chain attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141738</guid>
-      <pubDate>Wed, 11 Jun 2025 17:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outlook Vulnerability Allows Remote Execution of Arbitrary Code by Attackers</title>
-      <link>https://gbhackers.com/outlook-vulnerability-allows-remote-execution/</link>
-      <description>Vulnerable Product: Microsoft Outlook; CVE(s): CVE-2025-47176; Summary: The vulnerability enables attackers to execute arbitrary code via a local file handling issue. Attackers with low privileges and local access can manipulate the process to execute arbitrary code by manipulating special characters or path sequences in file or attachment names, potentially compromising data confidentiality, integrity, and availability.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141726</guid>
-      <pubDate>Wed, 11 Jun 2025 17:02:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers exploited Windows WebDav zero-day to drop malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33053; Summary: The Windows WebDav RCE vulnerability, tracked as CVE-2025-33053, allows attackers to execute arbitrary code remotely from a controlled WebDAV server without dropping malicious files locally. This vulnerability was exploited by the APT group 'Stealth Falcon' in zero-day attacks against defense and government organizations.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/</guid>
-      <pubDate>Wed, 11 Jun 2025 15:47:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft creates separate Windows 11 24H2 update for incompatible PCs</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: The article reports on a compatibility issue affecting some Windows 11 24H2 systems, causing them to be incompatible with the initial security update released during Patch Tuesday. A revised update will be rolled out to affected devices.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/</guid>
-      <pubDate>Wed, 11 Jun 2025 15:35:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brute-force attacks target Apache Tomcat management panels</title>
-      <link>https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/</link>
-      <description>Vulnerable Product: Apache Tomcat; CVE(s): None; Summary: A coordinated campaign of brute-force attacks using hundreds of unique IP addresses targets Apache Tomcat Manager interfaces exposed online. The attacks do not exploit any specific vulnerability, but rather attempt to gain access to Tomcat services over the Internet by trying login credentials.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/</guid>
-      <pubDate>Wed, 11 Jun 2025 14:27:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Task Scheduler Flaw Allows Attackers to Escalate Privileges</title>
-      <link>https://gbhackers.com/windows-task-scheduler-flaw/</link>
-      <description>Vulnerable Product: Microsoft Windows Task Scheduler; CVE(s): CVE-2025-33067; Summary: A critical elevation of privilege vulnerability allows attackers to gain elevated privileges on affected systems, bypassing normal user restrictions and compromising the integrity of the operating system. The flaw occurs when the software does not properly restrict, assign, or manage privileges, allowing attackers to perform actions outside their intended level of authority. Exploitation requires local access to the target system.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141673</guid>
-      <pubDate>Wed, 11 Jun 2025 13:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Common Log File System Driver Flaw Allows Attackers to Escalate Privileges</title>
-      <link>https://gbhackers.com/windows-common-log-file-system-driver-flaw-allows-attackers-to-escalate-privileges/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32713; Summary: The Windows Common Log File System (CLFS) driver contains a heap-based buffer overflow vulnerability that allows local attackers to escalate privileges to SYSTEM-level access. Attackers can exploit this by triggering a heap overflow via crafted log operations, corrupting adjacent memory structures, and gaining NT AUTHORITY\SYSTEM privileges without user interaction.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141670</guid>
-      <pubDate>Wed, 11 Jun 2025 13:59:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Secure disrupts global infostealer malware operations</title>
-      <link>https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/</link>
-      <description>Operation Secure, a global law enforcement action, targeted infostealer malware infrastructure across 26 countries, resulting in 32 arrests, data seizures, and server takedowns. The operation focused on disrupting groups that steal financial and personal data through widespread infections, leading to the takedown of over 20,000 malicious IPs/domains and seizure of 41 servers supporting info-stealers operations.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/</guid>
-      <pubDate>Wed, 11 Jun 2025 13:51:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager</title>
-      <link>https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html</link>
-      <description>Vulnerable Product: Apache Tomcat; CVE(s): None; Summary: A "coordinated brute-force activity" has been observed targeting Apache Tomcat Manager interfaces. The activity was seen on June 5, 2025, and involved 295 unique IP addresses engaging in brute-force attempts against exposed Tomcat services at scale.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html</guid>
-      <pubDate>Wed, 11 Jun 2025 13:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>catdoc zero-day, NVIDIA, High-Logic FontCreator and Parallel vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/catdoc-zero-day-nvidia-high-logic-fontcreator-and-parallel-vulnerabilities/</link>
-      <description>Cisco Talos has disclosed three zero-day vulnerabilities in catdoc and other software products, including Parallel, NVIDIA cuobjdump, and High-Logic FontCreator. The vulnerabilities have been patched by their respective vendors except for the catdoc zero-day vulnerabilities which were patched by a Cisco researcher due to an inability to reach the vendor.</description>
-      <guid isPermaLink="false">683dd4475919a600012bd788</guid>
-      <pubDate>Wed, 11 Jun 2025 13:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixes unreachable Windows Server domain controllers</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/</link>
-      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: Some Windows Server 2025 domain controllers may become unreachable after a restart and trigger app or service failures due to incorrect network traffic management. This issue can be mitigated by applying the KB5060842 update or temporarily restarting the network adapter using PowerShell until the update is installed.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/</guid>
-      <pubDate>Wed, 11 Jun 2025 13:21:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>June 2025 Patch Tuesday Fixes 67 Flaws &amp; 2 Zero-Days; Critical Ivanti IWC Updates</title>
-      <link>https://socradar.io/june-2025-patch-tuesday-fixes-67-flaws-2-zero-days/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-33053, CVE-2025-33073; Summary: Two zero-days were disclosed in June 2025 Patch Tuesday updates. One (CVE-2025-33053) allows remote attackers to execute arbitrary code via a crafted WebDAV URL, which was actively exploited by Stealth Falcon, an advanced persistent threat group. The second (CVE-2025-33073) is a Windows SMB client vulnerability that allows authenticated attackers to elevate privileges to SYSTEM level.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060890</guid>
-      <pubDate>Wed, 11 Jun 2025 13:06:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple Microsoft Office Vulnerabilities Enable Remote Code Execution by Attackers</title>
-      <link>https://gbhackers.com/microsoft-office-vulnerabilities-2/</link>
-      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2025-47162, CVE-2025-47953, CVE-2025-47164, and CVE-2025-47167; Summary: Four critical remote code execution (RCE) vulnerabilities were disclosed in Microsoft Office's June 2025 Patch Tuesday updates, affecting document parsing logic, memory management, and file validation. Exploitation can grant attackers full system control, compromising confidentiality, integrity, and availability.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141669</guid>
-      <pubDate>Wed, 11 Jun 2025 12:48:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixes Windows Server auth issues caused by April updates</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/</link>
-      <description>Vulnerable Product: Microsoft Windows Server; CVE(s): CVE-2025-26647; Summary: The April 2025 security updates caused authentication problems on Windows Server domain controllers, affecting Windows Server 2016, Windows Server 2019, Windows Server 2022, and Windows Server 2025. This issue is linked to a high-severity vulnerability that can let authenticated attackers escalate privileges remotely by exploiting an improper input validation weakness in Windows Kerberos.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/</guid>
-      <pubDate>Wed, 11 Jun 2025 12:34:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoreDNS Vulnerability Allows Attackers to Exhaust Server Memory via Amplification Attack</title>
-      <link>https://gbhackers.com/coredns-vulnerability/</link>
-      <description>Vulnerable Product: CoreDNS; CVE(s): CVE-2025-47950; Summary: A high-severity vulnerability in CoreDNS's DNS-over-QUIC (DoQ) implementation allows remote attackers to crash DNS servers through stream amplification attacks, enabling OOM crashes in memory-constrained environments and bypassing authentication.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141662</guid>
-      <pubDate>Wed, 11 Jun 2025 12:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure</title>
-      <link>https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html</link>
-      <description>INTERPOL's Operation Secure resulted in the takedown of 79% of malicious IP addresses, seizure of servers and data, and arrests of suspects linked to illegal cyber activities. The operation targeted information-stealing malware variants, with a focus on disrupting command-and-control servers hosting phishing, online fraud, and social media scams.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html</guid>
-      <pubDate>Wed, 11 Jun 2025 11:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why DNS Security Is Your First Defense Against Cyber Attacks?</title>
-      <link>https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html</link>
-      <description>The article discusses the importance of securing the Domain Name System (DNS) as it plays a critical role in nearly every online interaction, making it an attractive target for cyber attackers. It highlights common DNS-based attacks such as DNS spoofing, hijacking, and tunneling, which can disrupt services, compromise sensitive data, or silently spy on users. The article also emphasizes the need to secure DNS traffic through monitoring, controlling, and encrypting queries, citing ClouDNS as an example of a provider that combines speed, reliability, and built-in security.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html</guid>
-      <pubDate>Wed, 11 Jun 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache CloudStack Flaw Allows Attackers to Execute Privileged Actions</title>
-      <link>https://gbhackers.com/apache-cloudstack-flaw/</link>
-      <description>Vulnerable Product: Apache CloudStack; CVE(s): CVE-2025-26521, CVE-2025-47713, CVE-2025-30675, CVE-2025-47849, CVE-2025-22829; Summary: Five critical security vulnerabilities were found in Apache CloudStack, including a privilege escalation flaw allowing Domain Admins to reset admin passwords and a vulnerability that enables attackers to impersonate the cluster creator. Upgrading to version 4.19.3.0 or 4.20.1.0 is recommended to remediate these issues.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141655</guid>
-      <pubDate>Wed, 11 Jun 2025 10:44:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>SinoTrack GPS Devices Vulnerable to Remote Vehicle Control via Default Passwords</title>
-      <link>https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html</link>
-      <description>Vulnerable Product: SinoTrack; CVE(s): CVE-2025-5484, CVE-2025-5485; Summary: Two vulnerabilities in SinoTrack GPS devices allow an attacker to access device profiles without authorization, enabling remote functions on connected vehicles such as tracking locations and disconnecting power to the fuel pump. The flaws stem from weak authentication using a default password and a numerical identifier printed on the receiver.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html</guid>
-      <pubDate>Wed, 11 Jun 2025 10:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Build a Lean Security Model: 5 Lessons from River Island</title>
-      <link>https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html</link>
-      <description>The article discusses how River Island, a UK fashion retailer, implemented a lean security model using Intruder's exposure management platform. This allowed their small team of three to improve visibility, respond faster to threats, and empower others across the business to fix vulnerabilities. The approach involves adopting continuous network monitoring, consolidating security tools, and automating vulnerability scanning and remediation processes.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html</guid>
-      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HPE Aruba Network Flaw Exposes Sensitive Data to Potential Hackers</title>
-      <link>https://gbhackers.com/hpe-aruba-network-flaw/</link>
-      <description>Vulnerable Product: HPE Aruba Networking Private 5G Core Platform; CVE(s): CVE-2025-37100; Summary: A high-severity vulnerability in the API implementation of the Private 5G Core Platform allows unauthorized access to sensitive system files, posing a risk to enterprise confidentiality and infrastructure integrity. Exploitation can occur remotely with valid credentials or authentication to the system, enabling attackers to download protected system files containing sensitive information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141640</guid>
-      <pubDate>Wed, 11 Jun 2025 09:14:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patches 67 Vulnerabilities Including WEBDAV Zero-Day Exploited in the Wild</title>
-      <link>https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html</link>
-      <description>Vulnerable Product: Microsoft WEBDAV; CVE(s): CVE-2025-33053; Summary: A remote code execution flaw in Web Distributed Authoring and Versioning (WEBDAV) has been weaponized in real-world attacks, allowing an attacker to execute malware by deceiving users into clicking on a specially crafted URL. The vulnerability, rated Critical, can be triggered by manipulating the working directory and is exploited through a .url file that launches iediagcmd.exe, which then executes another payload called Horus Loader.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html</guid>
-      <pubDate>Wed, 11 Jun 2025 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insyde UEFI Flaw Enables Digital Certificate Injection via NVRAM Variable</title>
-      <link>https://gbhackers.com/insyde-uefi-flaw/</link>
-      <description>Vulnerable Product: Insyde H2O UEFI firmware; CVE(s): CVE-2025-4275; Summary: A critical vulnerability in the SecureFlashCertData NVRAM variable allows attackers to inject malicious digital certificates and bypass Secure Boot protections, enabling pre-boot execution of unsigned code. This flaw enables severe risks to enterprise and consumer devices, allowing for persistence across reboots and OS reinstalls.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141634</guid>
-      <pubDate>Wed, 11 Jun 2025 06:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple Chrome Flaws Enable Remote Code Execution by Attackers</title>
-      <link>https://gbhackers.com/multiple-chrome-flaws/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-5958, CVE-2025-5959; Summary: The Stable channel of Google Chrome has been updated to version 137.0.7151.103 for Windows and Mac, and 137.0.7151.103 for Linux. Two high-severity security vulnerabilities have been addressed: a use-after-free condition in the Chrome Media component (CVE-2025-5958) that can lead to arbitrary code execution or denial-of-service attacks, and a type confusion vulnerability in the V8 JavaScript engine (CVE-2025-5959) that can be leveraged for remote code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141625</guid>
-      <pubDate>Wed, 11 Jun 2025 06:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday, June 2025 Edition</title>
-      <link>https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33053, CVE-2025-33073; Summary: The article reports on multiple vulnerabilities in Microsoft Windows operating systems and software. One vulnerability, CVE-2025-33053, is a remote code execution flaw in the Windows implementation of WebDAV, which has already been exploited. Another vulnerability, CVE-2025-33073, is an elevation of privilege flaw in the SMB client, which can grant attackers SYSTEM-level control over a vulnerable PC.
-
-FYSA: Several cybersecurity-relevant details are highlighted in the article, including the exploitation of a zero-day flaw and public proof-of-concept code for another flaw.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71465</guid>
-      <pubDate>Wed, 11 Jun 2025 00:10:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-332: Microsoft Windows Installer Service Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-332/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33075; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by abusing the Windows Installer service. An attacker must first obtain low-privileged code execution on the target system to exploit this flaw, which can be used to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26710</guid>
-      <pubDate>Tue, 10 Jun 2025 22:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-333: Microsoft Windows Installer Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-333/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-32714; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Windows Installer service that uses an unsecured location.</description>
-      <guid isPermaLink="false">ZDI-CAN-26487</guid>
-      <pubDate>Tue, 10 Jun 2025 22:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-334: Microsoft Windows Remote Desktop Gateway Service Null Pointer Dereference Denial-of-Service Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-334/</link>
-      <description>Vulnerable Product: Microsoft Windows Remote Desktop Gateway Service; CVE(s): CVE-2025-30394; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Microsoft Windows, without requiring authentication. The issue exists within the Remote Desktop Gateway service due to a null pointer dereference.</description>
-      <guid isPermaLink="false">ZDI-CAN-26776</guid>
-      <pubDate>Tue, 10 Jun 2025 22:03:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
