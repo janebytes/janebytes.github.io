@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 13:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 14:04:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hacker steals 1 million Cock.li user records in webmail data breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/</link>
+      <description>Vulnerable Product: Cock.li Roundcube webmail platform; CVE(s): CVE-2021-44026; Summary: The Cock.li email hosting provider suffered a data breach after threat actors exploited an old SQL injection vulnerability in its now-retired Roundcube webmail platform, exposing over 1 million user records.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/</guid>
+      <pubDate>Tue, 17 Jun 2025 13:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>BeyondTrust Tools RCE Vulnerability Allows Attackers Execute Arbitrary Code</title>
+      <link>https://gbhackers.com/beyondtrust-tools-rce-vulnerability/</link>
+      <description>Vulnerable Product: BeyondTrust; CVE(s): CVE-2025-5309; Summary: The Remote Support (RS) and Privileged Remote Access (PRA) products from BeyondTrust contain a Server-Side Template Injection (SSTI) vulnerability that allows attackers to execute arbitrary code on affected servers via the chat feature. This high-severity issue, tracked as CVE-2025-5309, could have far-reaching consequences for organizations relying on these access management solutions and requires prompt patching or configuration changes to mitigate exploitation risk.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142578</guid>
+      <pubDate>Tue, 17 Jun 2025 13:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities in Sitecore Could Lead to Widespread Enterprise Attacks</title>
+      <link>https://gbhackers.com/critical-vulnerabilities-in-sitecore/</link>
+      <description>Vulnerable Product: Sitecore Experience Platform (XP); CVE(s): CVE-2025-27218, WT-2025-0024, WT-2025-0032, WT-2025-0025; Summary: A series of critical vulnerabilities in Sitecore XP allow for remote code execution and unauthorized access. The most severe vulnerability is a pre-authentication RCE flaw due to unsafe deserialization, while other flaws include hardcoded credentials, path traversal, and unrestricted file uploads. Unpatched systems are exposed to attacks that could lead to data theft, lateral movement, and operational disruption.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142575</guid>
+      <pubDate>Tue, 17 Jun 2025 13:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms</title>
+      <link>https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html</link>
+      <description>Scattered Spider, a cybercrime group known for using advanced social engineering tactics, has shifted its focus from retailers to insurance companies. The group is believed to have forged an alliance with the DragonForce ransomware cartel and targets organizations with large help desks and outsourced IT functions. To mitigate these attacks, enhanced authentication, rigorous identity controls, access restrictions, and employee verification are recommended.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html</guid>
+      <pubDate>Tue, 17 Jun 2025 12:53:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Manipulate Search Engines to Push Malicious Sites</title>
       <link>https://gbhackers.com/hackers-manipulate-search-engines/</link>
@@ -288,6 +316,13 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>WhatsApp is introducing ads in its Status feature, with the company emphasizing that it's built with privacy in mind and only uses limited information to serve ads. The ads will be displayed on the Updates tab and will not access users' personal messages, calls, or groups for targeting.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html</guid>
       <pubDate>Tue, 17 Jun 2025 04:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial Eyes: Generative AI in China’s Military Intelligence</title>
+      <link>https://www.recordedfuture.com/research/artificial-eyes-generative-ai-chinas-military-intelligence</link>
+      <description>The article discusses the Peoples Liberation Army's (PLA) interest in using generative artificial intelligence (AI) to support military intelligence tasks. The PLA has likely procured generative AI technology and is exploring its applications for intelligence work, including generating open-source intelligence products, processing satellite imagery, and supporting event extraction. The article also highlights potential challenges and risks associated with the PLA's use of generative AI, such as reducing objectivity in intelligence analysis and creating opportunities for counterintelligence organizations to generate convincing but inaccurate information.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/artificial-eyes-generative-ai-chinas-military-intelligence</guid>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers switch to targeting U.S. insurance companies</title>
@@ -1419,41 +1454,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>This article is not about a vulnerability but rather announces upcoming security updates for ScreenConnect, ConnectWise Automate, and ConnectWise RMM. The updates include rotating code signing certificates and improving configuration data management to ensure the integrity of software installations and updates.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141752</guid>
       <pubDate>Wed, 11 Jun 2025 18:57:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Malware Authors Targeting Cloud Environments with ELF Binaries</title>
-      <link>https://gbhackers.com/linux-malware-authors-targeting-cloud-environments/</link>
-      <description>A worrying trend has been observed by Unit 42, Palo Alto Networks' threat intelligence division, where threat actors are increasingly creating and modifying Linux Executable and Linkable Format (ELF) malware to attack cloud infrastructure. Five evolving ELF-based malware families have been identified, including NoodleRAT, Winnti (Linux variants), SSHdInjector, Pygmy Goat, and AcidPour. Each family has seen at least two significant codebase updates in the past year and has been observed in the wild at least 20 times, indicating active development and deployment.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141746</guid>
-      <pubDate>Wed, 11 Jun 2025 18:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-340: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Technician API Incorrect Authorization Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-340/</link>
-      <description>Vulnerable Product: Autel; MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5822; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of Autel MaxiCharger AC Wallbox Commercial charging stations. An attacker must first obtain a low-privileged authorization token in order to exploit this vulnerability, which is caused by incorrect authorization within the implementation of the Autel Technician API.</description>
-      <guid isPermaLink="false">ZDI-CAN-26325</guid>
-      <pubDate>Wed, 11 Jun 2025 18:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-341: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Serial Number Exposed Dangerous Method Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-341/</link>
-      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5823; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers. Authentication is required to exploit this vulnerability, which exists within the implementation of the Autel Technician API due to an exposed dangerous method.</description>
-      <guid isPermaLink="false">ZDI-CAN-26351</guid>
-      <pubDate>Wed, 11 Jun 2025 18:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-342: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial PIN Missing Authentication Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-342/</link>
-      <description>Vulnerable Product: Autel; MaxiCharger AC Wallbox Commercial; CVE(s): ZDI-25-342, ZDI-CAN-26352; Summary: This vulnerability allows remote attackers to disclose sensitive information without authentication on affected installations of Autel's MaxiCharger AC Wallbox Commercial charging stations. The issue is due to the lack of authentication prior to accessing functionality, which can lead to credential disclosure and further compromise.</description>
-      <guid isPermaLink="false">ZDI-CAN-26352</guid>
-      <pubDate>Wed, 11 Jun 2025 18:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-343: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Origin Validation Error Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-343/</link>
-      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5824, ZDI-CAN-26353, ZDI-25-343; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of Autel MaxiCharger AC Wallbox Commercial by insufficiently validating the origin of commands. An attacker must first obtain the ability to pair a malicious Bluetooth device with the target system to exploit this vulnerability, which can be used to bypass authentication on the system.</description>
-      <guid isPermaLink="false">ZDI-CAN-26353</guid>
-      <pubDate>Wed, 11 Jun 2025 18:07:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
