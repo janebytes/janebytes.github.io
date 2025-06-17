@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 19:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 20:02:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-397: Delta Electronics COMMGR Insufficient Randomization Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-397/</link>
+      <description>Vulnerable Product: Delta Electronics COMMGR; CVE(s): CVE-2025-3495; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Delta Electronics COMMGR, making it possible for an attacker to exploit the system without requiring a login. The specific flaw exists within the PLC simulator service, which can be exploited through brute force attacks at moderate expense.</description>
+      <guid isPermaLink="false">ZDI-CAN-25049</guid>
+      <pubDate>Tue, 17 Jun 2025 20:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Sorillus RAT Targets European Organizations Through Tunneling Services</title>
+      <link>https://gbhackers.com/new-sorillus-rat-targets-european-organizations/</link>
+      <description>The article describes a malicious infection chain using the Sorillus Remote Access Trojan (RAT) that targets organizations across Europe. The campaign employs invoice-themed phishing emails to deliver the malware, which uses legitimate services like OneDrive and Ngrok to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142610</guid>
+      <pubDate>Tue, 17 Jun 2025 19:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor</title>
+      <link>https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-2783; Summary: A sandbox escape vulnerability (CVE-2025-2783) in Google Chrome was exploited by threat actor TaxOff to deploy a backdoor codenamed Trinper. The vulnerability had a CVSS score of 8.3 and was used as part of a phishing campaign targeting Russian organizations.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html</guid>
+      <pubDate>Tue, 17 Jun 2025 19:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scania confirms insurance claim data breach in extortion attempt</title>
+      <link>https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/</link>
+      <description>Scania, a major Swedish manufacturer of heavy trucks and buses, suffered a cybersecurity incident where threat actors used compromised credentials to breach its Financial Services systems and steal insurance claim documents. The attackers emailed several Scania employees, threatening to leak the data online unless their demands were met.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/</guid>
+      <pubDate>Tue, 17 Jun 2025 19:04:39 +0000</pubDate>
+    </item>
     <item>
       <title>New KimJongRAT Stealer Uses Weaponized LNK File to Deploy PowerShell-Based Dropper</title>
       <link>https://gbhackers.com/new-kimjongrat-stealer-uses-weaponized-lnk-file/</link>
@@ -1428,34 +1456,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>Vulnerable Product: Trend Micro Password Manager; CVE(s): CVE-2025-48443; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Password Manager, requiring low-privileged code execution and an administrator's install action. The specific flaw exists within the product installer, enabling arbitrary file deletion and privilege escalation.</description>
       <guid isPermaLink="false">ZDI-CAN-25574</guid>
       <pubDate>Wed, 11 Jun 2025 22:06:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-362: Trend Micro Apex One Data Loss Prevention Uncontrolled Search Path Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-362/</link>
-      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-49155; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex One Security Agent by loading a DLL from an uncontrolled search path. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-24571</guid>
-      <pubDate>Wed, 11 Jun 2025 22:05:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-363: Trend Micro Apex One Virus Scan Engine Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-363/</link>
-      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-49156; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Apex One Security Agent by creating a symbolic link within the VsapiNT.sys kernel module. An attacker must first obtain low-privileged code execution and configure the product for non-default malware remediation.</description>
-      <guid isPermaLink="false">ZDI-CAN-24973</guid>
-      <pubDate>Wed, 11 Jun 2025 22:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-364: Trend Micro Apex One Damage Cleanup Engine Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-364/</link>
-      <description>Vulnerable Product: Trend Micro Apex One Security Agent; CVE(s): CVE-2025-49157, ZDI-CAN-25273; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Apex One Security Agent. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-25273</guid>
-      <pubDate>Wed, 11 Jun 2025 22:05:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-365: Trend Micro Apex One Security Agent ntrmv Uncontrolled Search Path Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-365/</link>
-      <description>Vulnerable Product: Trend Micro Apex One Security Agent; CVE(s): CVE-2025-49158; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Apex One Security Agent by exploiting the product's uninstaller, which executes a program from an unsecured location. An attacker must first obtain low-privileged code execution and then persuade an administrator to uninstall the Security Agent in order to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-25771</guid>
-      <pubDate>Wed, 11 Jun 2025 22:05:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
