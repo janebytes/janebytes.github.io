@@ -6,14 +6,49 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 11:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 12:03:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Are Forgotten AD Service Accounts Leaving You at Risk?</title>
+      <link>https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html</link>
+      <description>Forgotten Active Directory (AD) service accounts are often overlooked, allowing them to quietly persist with non-expiring or stale passwords. Attackers seek out these forgotten service accounts as they can serve as silent gateways for attack paths and lateral movement across enterprise environments.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html</guid>
+      <pubDate>Tue, 17 Jun 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp’s Status Tab Set to Feature Ads as Meta Monetizes Platform</title>
+      <link>https://gbhackers.com/whatsapps-status-tab-set-to-feature-ads/</link>
+      <description>WhatsApp, with over 2 billion monthly active users, is introducing advertisements within its Updates tab, marking a significant shift in monetization. The ads will appear in the Status section, allowing businesses to promote products through ephemeral stories that disappear after 24 hours. Personal messaging remains untouched, and Meta emphasizes that privacy is built into these new features.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142541</guid>
+      <pubDate>Tue, 17 Jun 2025 11:21:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use Fake Verification Prompt and Clickfix Technique to Deploy Fileless AsyncRAT</title>
+      <link>https://gbhackers.com/hackers-use-fake-verification-prompt-and-clickfix-technique/</link>
+      <description>Threat actors are distributing a fileless variant of AsyncRAT remote access Trojan using deceptive tactics such as fake verification prompts. The malware uses obfuscated PowerShell scripts, in-memory execution, and registry persistence to evade detection and maintain covert access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142513</guid>
+      <pubDate>Tue, 17 Jun 2025 11:13:48 +0000</pubDate>
+    </item>
     <item>
       <title>ASUS Armoury Crate Vulnerability Lets Hackers Gain System-Level Access on Windows</title>
       <link>https://gbhackers.com/asus-armoury-crate-vulnerability/</link>
       <description>Vulnerable Product: ASUS Armoury Crate; CVE(s): CVE-2025-3464; Summary: A critical vulnerability in ASUS's Armoury Crate software allows attackers to bypass security controls and gain SYSTEM-level privileges, exposing millions of Windows users to system-level compromise. The flaw can be exploited by creating a hard link from a benign application to a trusted executable, tricking the driver into granting privileged access to malicious code.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142520</guid>
       <pubDate>Tue, 17 Jun 2025 10:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hard-Coded 'b' Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments</title>
+      <link>https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html</link>
+      <description>Vulnerable Product: Sitecore Experience Platform; CVE(s): None; Summary: The article discloses three security flaws in Sitecore Experience Platform that could be chained to achieve pre-authenticated remote code execution. The vulnerabilities include hard-coded credentials, post-authenticated remote code execution via path traversal, and post-authenticated remote code execution via Sitecore PowerShell Extension.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html</guid>
+      <pubDate>Tue, 17 Jun 2025 10:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backups Are Under Attack: How to Protect Your Backups</title>
+      <link>https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html</link>
+      <description>Ransomware attacks are increasingly targeting backup infrastructure, attempting to cripple recovery capabilities. Threat actors disable backup agents, delete snapshots, modify retention policies, encrypt backup volumes, and exploit vulnerabilities in integrated backup platforms. To defend against this, IT pros should implement a resilient backup strategy that includes isolation, offsite or immutable copies, and regular verification and monitoring of backups.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html</guid>
+      <pubDate>Tue, 17 Jun 2025 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Water Curse Hacker Group Uses 76 GitHub Accounts to Spread Multistage Malware</title>
@@ -1419,41 +1454,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5825; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial charging stations by exploiting the lack of proper validation of a firmware image during the upgrade process. An attacker must first pair a malicious Bluetooth device with the target system to exploit this vulnerability.</description>
       <guid isPermaLink="false">ZDI-CAN-26354</guid>
       <pubDate>Wed, 11 Jun 2025 18:07:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-345: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial ble_process_esp32_msg Misinterpretation of Input Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-345/</link>
-      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5826, ZDI-CAN-26368, ZDI-25-345; Summary: This vulnerability allows network-adjacent attackers to inject arbitrary AT commands on affected installations of Autel MaxiCharger AC Wallbox Commercial charging stations without authentication. The specific flaw exists within the ble_process_esp32_msg function due to misinterpretation of input data, which can be exploited to execute AT commands in the context of the device.</description>
-      <guid isPermaLink="false">ZDI-CAN-26368</guid>
-      <pubDate>Wed, 11 Jun 2025 18:06:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-346: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial ble_process_esp32_msg Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-346/</link>
-      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5827, ZDI-CAN-26369; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. The specific flaw exists within the ble_process_esp32_msg function due to lack of proper validation of user-supplied data, allowing attackers to execute code in the device's context.</description>
-      <guid isPermaLink="false">ZDI-CAN-26369</guid>
-      <pubDate>Wed, 11 Jun 2025 18:06:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-347: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial wLength Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-347/</link>
-      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5828; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. The flaw exists in the handling of USB frame packets and results from a lack of proper validation of user-supplied data length prior to copying it to a fixed-length buffer, allowing an attacker to execute code in the device's context.</description>
-      <guid isPermaLink="false">ZDI-CAN-26328</guid>
-      <pubDate>Wed, 11 Jun 2025 18:06:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-348: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial autocharge Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-348/</link>
-      <description>Vulnerable Product: Autel; Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5829; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. It exists within the handling of JSON messages and is caused by a lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer, allowing for remote code execution in the context of the device.</description>
-      <guid isPermaLink="false">ZDI-CAN-26330</guid>
-      <pubDate>Wed, 11 Jun 2025 18:05:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-349: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial DLB_SlaveRegister Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-349/</link>
-      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5830; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. The flaw exists in the handling of DLB_SlaveRegister messages due to insufficient validation of user-supplied data, allowing an attacker to execute code in the context of the device.</description>
-      <guid isPermaLink="false">ZDI-CAN-26327</guid>
-      <pubDate>Wed, 11 Jun 2025 18:05:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
