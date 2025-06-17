@@ -6,8 +6,38 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 17:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 18:02:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Sophisticated Multi-Stage Malware Campaign Uses VBS Files to Execute PowerShell Script</title>
+      <link>https://gbhackers.com/new-sophisticated-multi-stage-malware-campaign-uses-vbs-files/</link>
+      <description>A multi-stage malware campaign has been discovered, utilizing heavily obfuscated Visual Basic Script (VBS) files to deploy remote access trojans (RATs). The campaign involves a three-stage process of obfuscation, dynamic script generation, and remote payload downloads, highlighting the evolving tactics of modern cyber threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142587</guid>
+      <pubDate>Tue, 17 Jun 2025 17:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents</title>
+      <link>https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html</link>
+      <description>Vulnerable Product: LangChain's LangSmith platform; CVE(s): None; Summary: The LangSmith platform contains a vulnerability that allows attackers to capture sensitive data, including API keys and user prompts. The vulnerability can be exploited by creating an artificial intelligence (AI) agent with a malicious proxy server, which can then intercept all user communications without the victim's knowledge.
+
+FYSA: Threat actors have released two new variants of WormGPT, powered by xAI Grok and Mistral AI Mixtral, designed to facilitate malicious activities such as creating tailored phishing emails and writing snippets of malware.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html</guid>
+      <pubDate>Tue, 17 Jun 2025 17:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware: Weaponized Research Papers Delivering Malware Through Password-Protected Documents</title>
+      <link>https://gbhackers.com/beware-weaponized-research-papers-delivering-malware/</link>
+      <description>Kimsuky hacking organization is linked to a phishing email campaign targeting individuals with a password-protected HWP document embedded with a malicious OLE object. The attack chain includes the deployment of additional components, including executables and PowerShell scripts, designed to evade detection and establish persistent access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142572</guid>
+      <pubDate>Tue, 17 Jun 2025 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimsuky and Konni APT Groups Lead Active Attacks Targeting East Asia</title>
+      <link>https://gbhackers.com/kimsuky-and-konni-apt-groups-lead-active-attacks/</link>
+      <description>APT groups Kimsuky, Konni, Sidewinder, and Lazarus have been identified as the most active players in various regions, including East Asia, South Asia, Middle East, and Eastern Europe. These groups are using sophisticated intrusion techniques, spear phishing, and exploiting vulnerabilities to target government agencies, financial institutions, research bodies, and diplomats. The report highlights the need for enhanced threat intelligence and robust security frameworks to counter these persistent and evolving threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142549</guid>
+      <pubDate>Tue, 17 Jun 2025 17:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>Instagram 'BMO' ads use AI deepfakes to scam banking customers</title>
       <link>https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/</link>
@@ -98,6 +128,13 @@
       <description>A sophisticated SEO poisoning operation has been exposed, where hackers manipulate search engine algorithms to push malicious websites to the top of search results. The platform Hacklink allows cybercriminals to buy access to thousands of compromised websites and inject code designed to deceive both users and search engines. This campaign targets high-traffic search terms related to online gambling and pharmaceuticals, artificially boosting the credibility and search ranking of malicious sites.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142554</guid>
       <pubDate>Tue, 17 Jun 2025 12:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/17/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Linux Kernel; CVE(s): CVE-2023-0386; Summary: A vulnerability in the Linux Kernel, identified as CVE-2023-0386, has been added to CISA's Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise.</description>
+      <guid isPermaLink="false">/node/23527</guid>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Siemens Mendix Studio Pro</title>
@@ -1419,41 +1456,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-49220; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central without authentication. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data.</description>
       <guid isPermaLink="false">ZDI-CAN-25495</guid>
       <pubDate>Wed, 11 Jun 2025 22:04:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-368: Trend Micro Endpoint Encryption BuildEnterpriseSearchString SQL Injection Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-368/</link>
-      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49211, ZDI-CAN-25528, ZDI-25-368; Summary: The vulnerability allows remote attackers to escalate privileges on affected installations of Trend Micro Endpoint Encryption by bypassing the existing authentication mechanism. It exists within the implementation of the BuildEnterpriseSearchString method due to lack of proper validation of user-supplied strings used to construct SQL queries.</description>
-      <guid isPermaLink="false">ZDI-CAN-25528</guid>
-      <pubDate>Wed, 11 Jun 2025 22:04:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-369: Trend Micro Endpoint Encryption PolicyValueTableSerializationBinder Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-369/</link>
-      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49212; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Endpoint Encryption without authentication. The issue exists within the PolicyValueTableSerializationBinder class due to a lack of proper validation of user-supplied data, leading to deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25507</guid>
-      <pubDate>Wed, 11 Jun 2025 22:03:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-370: Trend Micro Endpoint Encryption PolicyServerWindowsService Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-370/</link>
-      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49213, ZDI-CAN-25506, ZDI-25-370; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Endpoint Encryption. Authentication is not required to exploit this vulnerability, and the specific flaw exists within the PolicyServerWindowsService class due to lack of proper validation of user-supplied data leading to deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25506</guid>
-      <pubDate>Wed, 11 Jun 2025 22:03:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-371: Trend Micro Endpoint Encryption DeserializeFromBase64String Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-371/</link>
-      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49212; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Endpoint Encryption by deserializing untrusted data. The existing authentication mechanism can be bypassed, and the attack can be executed in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25518</guid>
-      <pubDate>Wed, 11 Jun 2025 22:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-372: Trend Micro Endpoint Encryption GetGroupFilteredUsers SQL Injection Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-372/</link>
-      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49215; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of Trend Micro Endpoint Encryption, bypassing authentication. The issue exists in the implementation of the GetGroupFilteredUsers method and results from improper validation of user-supplied strings used to construct SQL queries. An attacker can leverage this vulnerability to gain elevated access to resources normally protected.</description>
-      <guid isPermaLink="false">ZDI-CAN-25527</guid>
-      <pubDate>Wed, 11 Jun 2025 22:03:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
