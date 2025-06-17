@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 18:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 19:03:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New KimJongRAT Stealer Uses Weaponized LNK File to Deploy PowerShell-Based Dropper</title>
+      <link>https://gbhackers.com/new-kimjongrat-stealer-uses-weaponized-lnk-file/</link>
+      <description>The article discusses new variants of the KimJongRAT stealer malware that emerged in 2019. These variants use a weaponized Windows shortcut (LNK) file as an initial infection vector to deploy multi-stage droppers, aiming to steal sensitive user data, including cryptocurrency wallet extensions and system information.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142599</guid>
+      <pubDate>Tue, 17 Jun 2025 18:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Chaos RAT Variants Targeting Windows and Linux Systems to Steal Sensitive Data</title>
+      <link>https://gbhackers.com/new-chaos-rat-variants-targeting-windows-and-linux-systems/</link>
+      <description>Chaos RAT is a remote administration tool (RAT) that targets both Windows and Linux systems. It spreads through phishing campaigns, utilizing malicious PDF attachments embedded in emails to lure unsuspecting users into initiating the infection process. The malware grants attackers extensive control over infected systems, enabling capabilities such as keylogging, screen capture, file exfiltration, and remote command execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142564</guid>
+      <pubDate>Tue, 17 Jun 2025 18:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Sophisticated Multi-Stage Malware Campaign Uses VBS Files to Execute PowerShell Script</title>
       <link>https://gbhackers.com/new-sophisticated-multi-stage-malware-campaign-uses-vbs-files/</link>
@@ -1442,20 +1456,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>Vulnerable Product: Trend Micro Apex One Security Agent; CVE(s): CVE-2025-49158; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Apex One Security Agent by exploiting the product's uninstaller, which executes a program from an unsecured location. An attacker must first obtain low-privileged code execution and then persuade an administrator to uninstall the Security Agent in order to exploit this vulnerability.</description>
       <guid isPermaLink="false">ZDI-CAN-25771</guid>
       <pubDate>Wed, 11 Jun 2025 22:05:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-366: Trend Micro Apex Central GetReportDetailView Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-366/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-49219; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central without authentication. The issue is due to the lack of proper validation of user-supplied data, leading to deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25286</guid>
-      <pubDate>Wed, 11 Jun 2025 22:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-367: Trend Micro Apex Central ConvertFromJson Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-367/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-49220; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex Central without authentication. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25495</guid>
-      <pubDate>Wed, 11 Jun 2025 22:04:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
