@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 20:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 21:02:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-398: Trend Micro Internet Security Platinum Host Service Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-398/</link>
+      <description>Vulnerable Product: Trend Micro Internet Security Platinum Host Service; CVE(s): CVE-2025-49384; Summary: The vulnerability allows local attackers to escalate privileges on affected installations by creating a symbolic link, which can be used to delete files. An attacker must first obtain low-privileged code execution to exploit this vulnerability, and it can be leveraged to execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-25876</guid>
+      <pubDate>Tue, 17 Jun 2025 21:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-399: Fuji Electric Smart Editor V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-399/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor V8; CVE(s): CVE-2025-41388; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor by exploiting a stack-based buffer overflow. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26026</guid>
+      <pubDate>Tue, 17 Jun 2025 21:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-400: Fuji Electric Smart Editor TL5 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-400/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor TL5; CVE(s): CVE-2025-32412; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required to exploit this vulnerability, and it occurs due to a lack of proper validation of user-supplied data that can result in a read past the end of an allocated data structure.</description>
+      <guid isPermaLink="false">ZDI-CAN-26032</guid>
+      <pubDate>Tue, 17 Jun 2025 21:01:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-401: Fuji Electric Smart Editor V10 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-401/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor V10; CVE(s): CVE-2025-41413; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The flaw exists in the parsing of V10 files due to lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26028</guid>
+      <pubDate>Tue, 17 Jun 2025 21:01:10 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-397: Delta Electronics COMMGR Insufficient Randomization Authentication Bypass Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-397/</link>
@@ -1422,40 +1450,6 @@ FYSA: This campaign is widespread and has infected many websites, making it a si
       <description>The article discusses OpenAI's price reduction of its ChatGPT o3 API model, which has no visible impact on performance. Additionally, it mentions the introduction of a new o3-pro model for $200 Pro subscribers and plans to combine multiple models into GPT-5.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/</guid>
       <pubDate>Thu, 12 Jun 2025 00:06:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Predator Still Active, with New Client and Corporate Links Identified</title>
-      <link>https://www.recordedfuture.com/research/predator-still-active-new-links-identified</link>
-      <description>FYSA:
-
-The provided article appears to be an analysis of the Predator spyware product and its connections to Intellexa Consortium. The report discusses the continued use of Predator despite widespread media attention and sanctions targeting Intellexa.
-
-The article highlights the adoption of new tactics by Predator operators to evade detection, including the use of new domains and IP addresses. It also mentions the connection between Predator infrastructure and corporate entities associated with the Intellexa Consortium, specifically FoxITech s.r.o., a Czech company based in Krnov.
-
-The report suggests that public exposure, sanctions, and related measures have likely imposed operational costs on Intellexa, driving efforts to increase the complexity of corporate structures, making operations harder to trace and disrupt. The continued spread of Predator and similar spyware products presents a significant risk to a broad range of organizations and individuals.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/predator-still-active-new-links-identified</guid>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SmartAttack uses smartwatches to steal data from air-gapped systems</title>
-      <link>https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/</link>
-      <description>SmartAttack is a novel attack that uses smartwatches as covert ultrasonic signal receivers to exfiltrate data from physically isolated (air-gapped) systems. The attack involves malware modulating audio signals on an air-gapped computer's speaker, which can be detected by a nearby smartwatch microphone and transmitted via Wi-Fi, Bluetooth, or cellular connectivity.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/</guid>
-      <pubDate>Wed, 11 Jun 2025 22:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-360: Trend Micro Worry-Free Business Security Uncontrolled Search Path Element Arbitrary Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-360/</link>
-      <description>Vulnerable Product: Trend Micro, Worry-Free Business Security; CVE(s): CVE-2025-49487; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Trend Micro Worry-Free Business Security without authentication. The specific flaw exists within the configuration of OpenSSL, which loads an unsecured configuration file from a certain location.</description>
-      <guid isPermaLink="false">ZDI-CAN-23056</guid>
-      <pubDate>Wed, 11 Jun 2025 22:06:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-361: Trend Micro Password Manager Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-361/</link>
-      <description>Vulnerable Product: Trend Micro Password Manager; CVE(s): CVE-2025-48443; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Password Manager, requiring low-privileged code execution and an administrator's install action. The specific flaw exists within the product installer, enabling arbitrary file deletion and privilege escalation.</description>
-      <guid isPermaLink="false">ZDI-CAN-25574</guid>
-      <pubDate>Wed, 11 Jun 2025 22:06:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
