@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 10:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 11:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ASUS Armoury Crate Vulnerability Lets Hackers Gain System-Level Access on Windows</title>
+      <link>https://gbhackers.com/asus-armoury-crate-vulnerability/</link>
+      <description>Vulnerable Product: ASUS Armoury Crate; CVE(s): CVE-2025-3464; Summary: A critical vulnerability in ASUS's Armoury Crate software allows attackers to bypass security controls and gain SYSTEM-level privileges, exposing millions of Windows users to system-level compromise. The flaw can be exploited by creating a hard link from a benign application to a trusted executable, tricking the driver into granting privileged access to malicious code.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142520</guid>
+      <pubDate>Tue, 17 Jun 2025 10:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Water Curse Hacker Group Uses 76 GitHub Accounts to Spread Multistage Malware</title>
+      <link>https://gbhackers.com/water-curse-hacker-group-uses-76-github-accounts/</link>
+      <description>A threat actor known as Water Curse has been linked to a campaign utilizing at least 76 GitHub accounts to distribute malware, targeting a diverse range of victims including cybersecurity professionals. The group's sophisticated attack methodology poses a significant supply chain risk, embedding malicious payloads within seemingly legitimate tools and scripts hosted on GitHub.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142500</guid>
+      <pubDate>Tue, 17 Jun 2025 10:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical sslh Vulnerabilities Allow Remote Denial-of-Service Attacks</title>
+      <link>https://gbhackers.com/critical-sslh-vulnerabilities/</link>
+      <description>Vulnerable Product: sslh; CVE(s): CVE-2025-46807, CVE-2025-46806; Summary: The sslh protocol multiplexer has two critical vulnerabilities, CVE-2025-46807 and CVE-2025-46806, which could allow remote attackers to crash the service or render it unavailable, resulting in a denial-of-service (DoS) for legitimate users.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142511</guid>
+      <pubDate>Tue, 17 Jun 2025 10:16:10 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-381: Siemens TeleControl Server Basic CreateTrace SQL Injection Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-381/</link>
@@ -139,6 +160,13 @@ The article provides detailed information on the malware's components, including
 Overall, this analysis provides valuable insights into the capabilities and behavior of this particular malware campaign.</description>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=143320</guid>
       <pubDate>Tue, 17 Jun 2025 10:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks</title>
+      <link>https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html</link>
+      <description>Vulnerable Product: Langflow; CVE(s): CVE-2025-3248; Summary: Langflow's missing authentication vulnerability (CVE-2025-3248) allows unauthenticated attackers to execute arbitrary code via crafted HTTP requests, potentially leading to remote code execution. Attackers are exploiting this flaw to deliver the Flodrixbotnet malware and conduct reconnaissance, installing a shell script downloader and eventually launching DDoS attacks over TCP or TOR.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html</guid>
+      <pubDate>Tue, 17 Jun 2025 09:32:00 +0000</pubDate>
     </item>
     <item>
       <title>150K+ Users Affected by Malicious Loan Apps on iOS and Google Play</title>
@@ -1426,34 +1454,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5830; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial EV chargers without authentication. The flaw exists in the handling of DLB_SlaveRegister messages due to insufficient validation of user-supplied data, allowing an attacker to execute code in the context of the device.</description>
       <guid isPermaLink="false">ZDI-CAN-26327</guid>
       <pubDate>Wed, 11 Jun 2025 18:05:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-350: Pioneer DMH-WT7600NEX Root Filesystem Insufficient Verification of Data Authenticity Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-350/</link>
-      <description>Vulnerable Product: Pioneer DMH-WT7600NEX; CVE(s): CVE-2025-5833; Summary: This vulnerability allows physically present attackers to bypass authentication on affected Pioneer DMH-WT7600NEX devices without requiring authentication. The issue exists within the operating system's configuration, resulting from insufficient protection for the root file system.</description>
-      <guid isPermaLink="false">ZDI-CAN-26077</guid>
-      <pubDate>Wed, 11 Jun 2025 18:05:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-351: Pioneer DMH-WT7600NEX Missing Immutable Root of Trust in Hardware Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-351/</link>
-      <description>Vulnerable Product: Pioneer DMH-WT7600NEX; CVE(s): CVE-2025-5834; Summary: This vulnerability allows local attackers to bypass authentication and escalate privileges, executing arbitrary code in the context of the boot process. The issue arises from a lack of a properly configured hardware root of trust within the application system-on-chip (SoC).</description>
-      <guid isPermaLink="false">ZDI-CAN-26078</guid>
-      <pubDate>Wed, 11 Jun 2025 18:05:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-352: Pioneer DMH-WT7600NEX Software Update Signing Insufficient Verification of Data Authenticity Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-352/</link>
-      <description>Vulnerable Product: Pioneer DMH-WT7600NEX; CVE(s): CVE-2025-5832; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Pioneer DMH-WT7600NEX devices without authentication. The specific flaw exists within the software update verification process, which lacks validation of all data. An attacker can leverage this vulnerability to execute code in the context of the device.</description>
-      <guid isPermaLink="false">ZDI-CAN-26079</guid>
-      <pubDate>Wed, 11 Jun 2025 18:04:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-353: (Pwn2Own) Sony XAV-AX8500 Bluetooth Packet Handling Integer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-353/</link>
-      <description>Vulnerable Product: Sony XAV-AX8500; CVE(s): CVE-2025-5475; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected Sony XAV-AX8500 devices by exploiting an integer overflow in Bluetooth packet handling. The attacker must first pair a malicious device with the target system to exploit this vulnerability, which results from a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26283</guid>
-      <pubDate>Wed, 11 Jun 2025 18:04:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
