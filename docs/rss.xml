@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 16:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 17:05:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Instagram 'BMO' ads use AI deepfakes to scam banking customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/</link>
+      <description>Instagram ads impersonating financial institutions like Bank of Montreal (BMO) and EQ Bank (Equitable Bank) are being used to target Canadian consumers with phishing scams and investment fraud. The ads use AI-powered deepfake videos or official branding to drive traffic outside the platform to lookalike illicit domains that are not affiliated with banks, attempting to collect personal information or banking credentials.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/</guid>
+      <pubDate>Tue, 17 Jun 2025 16:52:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>XDSpy Threat Actors Exploit Windows LNK Zero-Day Vulnerability to Target Windows System Users</title>
+      <link>https://gbhackers.com/xdspy-threat-actors-exploit-windows-lnk-zero-day-vulnerability/</link>
+      <description>Vulnerable Product: Windows; CVE(s): ZDI-CAN-25373; Summary: The Windows LNKzero-day vulnerability (ZDI-CAN-25373) is exploited by the XDSpy threat actor to target governmental entities in Eastern Europe and Russia. The vulnerability manipulates the Windows Explorer UI to conceal malicious commands through excessive whitespace padding, allowing hidden command execution that evades user interface visibility and third-party parsers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142531</guid>
+      <pubDate>Tue, 17 Jun 2025 16:35:32 +0000</pubDate>
+    </item>
     <item>
       <title>New Veeam RCE flaw lets domain users hack backup servers</title>
       <link>https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/</link>
@@ -84,6 +98,41 @@
       <description>A sophisticated SEO poisoning operation has been exposed, where hackers manipulate search engine algorithms to push malicious websites to the top of search results. The platform Hacklink allows cybercriminals to buy access to thousands of compromised websites and inject code designed to deceive both users and search engines. This campaign targets high-traffic search terms related to online gambling and pharmaceuticals, artificially boosting the credibility and search ranking of malicious sites.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142554</guid>
       <pubDate>Tue, 17 Jun 2025 12:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Mendix Studio Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-168-01</link>
+      <description>Vulnerable Product: Siemens Mendix Studio Pro; CVE(s): CVE-2025-40592; Summary: A path traversal vulnerability in the module installation process of Studio Pro allows an attacker to write or modify arbitrary files in directories outside a developer's project directory, which could be exploited by crafting a malicious module and distributing it via the Mendix Marketplace.</description>
+      <guid isPermaLink="false">/node/23520</guid>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fuji Electric Smart Editor</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-168-04</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor; CVE(s): CVE-2025-32412, CVE-2025-41413, CVE-2025-41388; Summary: The Fuji Electric Smart Editor is vulnerable to out-of-bounds read, out-of-bounds write, and stack-based buffer overflow vulnerabilities. Successful exploitation could allow an attacker to execute arbitrary code.</description>
+      <guid isPermaLink="false">/node/23523</guid>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Five Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/17/cisa-releases-five-industrial-control-systems-advisories</link>
+      <description>CISA released five Industrial Control Systems (ICS) advisories on June 17, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories cover specific products from Siemens, LS Electric, Fuji Electric, and Dover Fueling Solutions.</description>
+      <guid isPermaLink="false">/node/23525</guid>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dover Fueling Solutions ProGauge MagLink LX Consoles</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-168-05</link>
+      <description>Vulnerable Product: Dover Fueling Solutions ProGauge MagLink LX consoles; CVE(s): CVE-2025-5310; Summary: The ProGauge MagLink LX consoles have a missing authentication vulnerability, allowing an attacker to create, delete, or modify files and potentially execute code remotely. Successful exploitation could result in control of the monitoring device, manipulation of fueling operations, deletion of system configurations, or deployment of malware.</description>
+      <guid isPermaLink="false">/node/23524</guid>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LS Electric GMWin 4</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-168-02</link>
+      <description>Vulnerable Product: LS Electric GMWin 4; CVE(s): CVE-2025-49848, CVE-2025-49849, CVE-2025-49850; Summary: Successful exploitation of the Out-of-Bounds Write, Out-of-Bounds Read, and Heap-based Buffer Overflow vulnerabilities in LS Electric GMWin 4 could allow an attacker to disclose information or execute arbitrary code.</description>
+      <guid isPermaLink="false">/node/23521</guid>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Are Forgotten AD Service Accounts Leaving You at Risk?</title>
@@ -1405,55 +1454,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49215; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of Trend Micro Endpoint Encryption, bypassing authentication. The issue exists in the implementation of the GetGroupFilteredUsers method and results from improper validation of user-supplied strings used to construct SQL queries. An attacker can leverage this vulnerability to gain elevated access to resources normally protected.</description>
       <guid isPermaLink="false">ZDI-CAN-25527</guid>
       <pubDate>Wed, 11 Jun 2025 22:03:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-373: Trend Micro Endpoint Encryption DbAppDomain Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-373/</link>
-      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49216; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Trend Micro Endpoint Encryption, without requiring authentication. The issue is due to an improper implementation of an authentication algorithm in the DbAppDomain service, which can be exploited to gain access to the system.</description>
-      <guid isPermaLink="false">ZDI-CAN-25519</guid>
-      <pubDate>Wed, 11 Jun 2025 22:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-374: Trend Micro Endpoint Encryption ValidateToken Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-374/</link>
-      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49217; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Endpoint Encryption without authentication. The specific flaw exists within the implementation of the ValidateToken method, which lacks proper validation of user-supplied data, resulting in deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25505</guid>
-      <pubDate>Wed, 11 Jun 2025 22:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-375: Trend Micro Endpoint Encryption ProcessWhereClause SQL Injection Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-375/</link>
-      <description>Vulnerable Product: Trend Micro Endpoint Encryption; CVE(s): CVE-2025-49218; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of Trend Micro Endpoint Encryption, bypassing existing authentication mechanisms. The flaw exists in the ProcessWhereClause method's lack of proper validation of user-supplied strings before constructing SQL queries, allowing attackers to escalate privileges to normally protected resources.</description>
-      <guid isPermaLink="false">ZDI-CAN-25526</guid>
-      <pubDate>Wed, 11 Jun 2025 22:02:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-376: (Pwn2Own) Ubiquiti Networks AI Bullet Improper Certificate Validation Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-376/</link>
-      <description>Vulnerable Product: Ubiquiti Networks; AI Bullet; CVE(s): CVE-2025-23118; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected Ubiquiti Networks AI Bullet cameras. Authentication is not required to exploit this vulnerability, and an attacker can leverage it to bypass authentication on the system due to improper certificate validation in the ubnt_avclient component.</description>
-      <guid isPermaLink="false">ZDI-CAN-25666</guid>
-      <pubDate>Wed, 11 Jun 2025 22:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-377: (Pwn2Own) Ubiquiti Networks AI Bullet Improper Neutralization of Escape Sequences Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-377/</link>
-      <description>Vulnerable Product: Ubiquiti Networks; AI Bullet; CVE(s): CVE-2025-23119; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected Ubiquiti Networks AI Bullet cameras. Authentication is not required to exploit this vulnerability, which exists within the processing of DHCP packet options due to insufficient neutralization of special characters.</description>
-      <guid isPermaLink="false">ZDI-CAN-25603</guid>
-      <pubDate>Wed, 11 Jun 2025 22:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-378: (Pwn2Own) Ubiquiti Networks UniFi Console Missing Authentication for Critical Function Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-378/</link>
-      <description>Vulnerable Product: Ubiquiti Networks UniFi Console; CVE(s): CVE-2025-23116, ZDI-CAN-25588, ZDI-25-378; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected UniFi Console devices. Authentication is not required to exploit this vulnerability, which exists within the handling of bridge device adoption requests. An attacker can leverage this vulnerability to bypass authentication and disclose credentials for accessing connected devices.</description>
-      <guid isPermaLink="false">ZDI-CAN-25588</guid>
-      <pubDate>Wed, 11 Jun 2025 22:01:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-379: (Pwn2Own) Ubiquiti Networks AI Bullet Insufficient Firmware Update Validation Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-379/</link>
-      <description>Vulnerable Product: Ubiquiti Networks AI Bullet; CVE(s): CVE-2025-23117; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected Ubiquiti Networks AI Bullet Cameras, bypassing existing authentication mechanisms. The specific flaw exists within the handling of firmware updates, resulting from the lack of proper validation of firmware update packages.</description>
-      <guid isPermaLink="false">ZDI-CAN-25589</guid>
-      <pubDate>Wed, 11 Jun 2025 22:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
