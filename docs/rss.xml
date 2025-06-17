@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 12:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 13:00:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Manipulate Search Engines to Push Malicious Sites</title>
+      <link>https://gbhackers.com/hackers-manipulate-search-engines/</link>
+      <description>A sophisticated SEO poisoning operation has been exposed, where hackers manipulate search engine algorithms to push malicious websites to the top of search results. The platform Hacklink allows cybercriminals to buy access to thousands of compromised websites and inject code designed to deceive both users and search engines. This campaign targets high-traffic search terms related to online gambling and pharmaceuticals, artificially boosting the credibility and search ranking of malicious sites.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142554</guid>
+      <pubDate>Tue, 17 Jun 2025 12:10:47 +0000</pubDate>
+    </item>
     <item>
       <title>Are Forgotten AD Service Accounts Leaving You at Risk?</title>
       <link>https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html</link>
@@ -1447,13 +1454,6 @@ The report suggests that public exposure, sanctions, and related measures have l
       <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5824, ZDI-CAN-26353, ZDI-25-343; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of Autel MaxiCharger AC Wallbox Commercial by insufficiently validating the origin of commands. An attacker must first obtain the ability to pair a malicious Bluetooth device with the target system to exploit this vulnerability, which can be used to bypass authentication on the system.</description>
       <guid isPermaLink="false">ZDI-CAN-26353</guid>
       <pubDate>Wed, 11 Jun 2025 18:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-344: (Pwn2Own) Autel MaxiCharger AC Wallbox Commercial Firmware Downgrade Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-344/</link>
-      <description>Vulnerable Product: Autel MaxiCharger AC Wallbox Commercial; CVE(s): CVE-2025-5825; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Autel MaxiCharger AC Wallbox Commercial charging stations by exploiting the lack of proper validation of a firmware image during the upgrade process. An attacker must first pair a malicious Bluetooth device with the target system to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-26354</guid>
-      <pubDate>Wed, 11 Jun 2025 18:07:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
