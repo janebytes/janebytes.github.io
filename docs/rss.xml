@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 17:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 18:01:12 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Halo Security Honored with 2025 MSP Today Product of the Year Award</title>
+      <link>https://gbhackers.com/halo-security-honored-with-2025-msp-today-product-of-the-year-award/</link>
+      <description>Halo Security's Attack Surface Management Platform has been named a 2025 MSP Today Product of the Year Award winner for its innovation, performance, and measurable impact on customers and partners alike. The platform enables organizations to discover, monitor, and secure their internet-facing assets, combining attacker-like discovery methods with ongoing security monitoring and vulnerability scanning.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142902</guid>
+      <pubDate>Wed, 18 Jun 2025 17:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware: Fake CAPTCHA Windows Stealthily Install LightPerlGirl Malware</title>
+      <link>https://gbhackers.com/fake-captcha-windows-stealthily-install-lightperlgirl-malware/</link>
+      <description>A newly identified malware strain, LightPerlGirl, uses deceptive fake CAPTCHA popups to infiltrate systems. It propagates through a social engineering tactic called the ClickFix attack, bypassing traditional security measures and exploiting user interaction. The attack begins with a compromised legitimate website serving malicious JavaScript, which triggers a fake CAPTCHA popup, tricking users into executing an obfuscated PowerShell command.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142848</guid>
+      <pubDate>Wed, 18 Jun 2025 17:37:21 +0000</pubDate>
+    </item>
     <item>
       <title>New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains</title>
       <link>https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html</link>
@@ -1464,20 +1478,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Vulnerable Product: Discord; CVE(s): None; Summary: A sophisticated malware campaign exploits a little-known flaw in Discord's invitation system, allowing attackers to hijack expired or deleted invite links and redirect users to malicious servers. The attack chain delivers powerful malware that targets cryptocurrency assets, stealing browser credentials, Discord tokens, and cryptocurrency wallets.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141963</guid>
       <pubDate>Thu, 12 Jun 2025 19:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trend Micro fixes critical vulnerabilities in multiple products</title>
-      <link>https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central and Endpoint Encryption (TMEE) PolicyServer; CVE(s): CVE-2025-49212, CVE-2025-49213, CVE-2025-49216, CVE-2025-49217; Summary: Multiple critical-severity remote code execution and authentication bypass vulnerabilities were identified in Trend Micro's Apex Central and Endpoint Encryption (TMEE) PolicyServer products. The vulnerabilities allow attackers to execute arbitrary code as SYSTEM without requiring login or fully bypass login and perform admin-level actions without credentials.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/</guid>
-      <pubDate>Thu, 12 Jun 2025 19:31:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit DeepSeek-R1 Popularity to Target Windows Device Users</title>
-      <link>https://gbhackers.com/threat-actors-exploit-deepseek-r1-popularity/</link>
-      <description>A sophisticated cyberattack campaign is targeting users seeking to download the language model DeepSeek-R1, exploiting malvertising and phishing tactics to distribute previously unknown malware, BrowserVenom. The malware hijacks victims' web traffic, steals sensitive information, and updates browser settings for persistence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141942</guid>
-      <pubDate>Thu, 12 Jun 2025 19:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
