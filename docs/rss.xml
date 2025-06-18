@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 14:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 15:02:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ChainLink Phishing: How Trusted Domains Become Threat Vectors</title>
+      <link>https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/</link>
+      <description>The article discusses the evolution of phishing attacks, specifically "ChainLink Phishing", which uses trusted infrastructure to funnel victims through a series of credible-looking prompts before harvesting credentials. It highlights how traditional defenses are insufficient against these attacks and emphasizes the need for real-time analysis of web pages and user interactions to effectively mitigate threats like zero-hour phishing.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/</guid>
+      <pubDate>Wed, 18 Jun 2025 14:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>CISA warns of attackers exploiting Linux flaw with PoC exploit</title>
       <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/</link>
@@ -413,6 +420,13 @@ FYSA: Threat actors have released two new variants of WormGPT, powered by xAI Gr
       <description>APT groups Kimsuky, Konni, Sidewinder, and Lazarus have been identified as the most active players in various regions, including East Asia, South Asia, Middle East, and Eastern Europe. These groups are using sophisticated intrusion techniques, spear phishing, and exploiting vulnerabilities to target government agencies, financial institutions, research bodies, and diplomats. The report highlights the need for enhanced threat intelligence and robust security frameworks to counter these persistent and evolving threats.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142549</guid>
       <pubDate>Tue, 17 Jun 2025 17:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram ads mimicking BMO, EQ Banks are finance scams</title>
+      <link>https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-banks-are-finance-scams/</link>
+      <description>Instagram ads impersonating financial institutions like Bank of Montreal (BMO) and EQ Bank are being used to target Canadian consumers with phishing scams and investment fraud, using AI-powered deepfake videos and official branding.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-banks-are-finance-scams/</guid>
+      <pubDate>Tue, 17 Jun 2025 16:52:09 +0000</pubDate>
     </item>
     <item>
       <title>Instagram 'BMO' ads use AI deepfakes to scam banking customers</title>
@@ -1458,20 +1472,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Vulnerable Product: Various software (catdoc, Parallel, NVIDIA, High-Logic FontCreator); CVE(s): None; Summary: Several vulnerabilities were disclosed across various software products, including catdoc which posed an exception as the vendor was unreachable. These vulnerabilities highlight risks in widely used software, potentially exposing systems to attacks such as privilege escalation, memory corruption, and data leaks.</description>
       <guid isPermaLink="false">684ad31518508e0001bb2cd6</guid>
       <pubDate>Thu, 12 Jun 2025 18:01:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network</title>
-      <link>https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html</link>
-      <description>VexTrio ViperTraffic Distribution Service (TDS) is a sophisticated cybercriminal operation distributing malicious content through smartlinks and push notifications. The operation involves multiple TDS services, including Help TDS and Disposable TDS, which redirect victims to scam infrastructure. VexTrio's malware actors are often linked to Russian-connected infrastructure, and the company's operations have been compromised by DNS threat intelligence firm Qurium.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html</guid>
-      <pubDate>Thu, 12 Jun 2025 17:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Graphite spyware used in Apple iOS zero-click attacks on journalists</title>
-      <link>https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/</link>
-      <description>Vulnerable Product: Paragon's Graphite spyware platform; CVE(s): CVE-2025-43200; Summary: The Graphite spyware platform was used to launch zero-click attacks against at least two journalists' Apple iOS devices. The attack exploited a zero-day vulnerability in the processing of maliciously crafted photos or videos shared via an iCloud Link, allowing remote code execution without any interaction from the target.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/</guid>
-      <pubDate>Thu, 12 Jun 2025 17:42:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
