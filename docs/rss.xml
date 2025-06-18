@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 18:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 19:01:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Chollima Hackers Target Windows and MacOS with New GolangGhost RAT Malware</title>
+      <link>https://gbhackers.com/chollima-hackers-target-windows-and-macos/</link>
+      <description>The Famous Chollima group has launched a sophisticated remote access trojan (RAT) campaign targeting Windows and MacOS devices, with a focus on professionals in cryptocurrency and blockchain technologies. The attackers use a two-pronged strategy, creating fake job interview platforms to lure victims into executing malicious commands that download and launch the PylangGhost or GolangGhost variants.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142888</guid>
+      <pubDate>Wed, 18 Jun 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Revolutionizes PLA Military Intelligence with Rapid Deployment Across Operations</title>
+      <link>https://gbhackers.com/ai-revolutionizes-pla-military-intelligence/</link>
+      <description>The People's Liberation Army (PLA) of China is adopting generative artificial intelligence (AI) to enhance its military operations, using advanced large language models (LLMs) for data processing, intelligence analysis, and decision-making support. This integration poses risks such as hallucination issues, ideological bias, and counterintelligence concerns, highlighting the need for rigorous experimentation and outcome assessment to ensure effective application of AI tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142881</guid>
+      <pubDate>Wed, 18 Jun 2025 18:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia’s Digital Arsenal: The Strategic Use of Private Companies and Hacktivists in Cyber Operations</title>
+      <link>https://gbhackers.com/the-strategic-use-of-private-companies-and-hacktivists/</link>
+      <description>Russia's sophisticated cyber warfare strategy emerges as a calculated blend of state power and non-state agility, leveraging private companies, hacktivists, and criminal proxies to amplify its digital dominance. The strategy involves concentric rings with state agencies at the core and a diverse array of non-state actors, including private IT firms, hacktivist groups, and eCrime collectives, which offers Moscow cost efficiency, flexibility, and access to cutting-edge skills, but also risks unpredictability and blurs the line between state and non-state action.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142872</guid>
+      <pubDate>Wed, 18 Jun 2025 18:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Halo Security Honored with 2025 MSP Today Product of the Year Award</title>
       <link>https://gbhackers.com/halo-security-honored-with-2025-msp-today-product-of-the-year-award/</link>
@@ -1457,27 +1478,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Insikt Group identified new infrastructure associated with GrayAlpha, a threat actor that overlaps with FIN7. The newly discovered infrastructure includes domains used for payload distribution and additional IP addresses believed to be tied to GrayAlpha. The group uses three primary infection vectors: fake browser update pages, fake 7-Zip download sites, and the TDS TAG-124 network.</description>
       <guid isPermaLink="true">https://www.recordedfuture.com/research/grayalpha-uses-diverse-infection-vectors-deploy-powernet-loader-netsupport-rat</guid>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside a Dark Adtech Empire Fed by Fake CAPTCHAs</title>
-      <link>https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/</link>
-      <description>This article discusses a dark adtech industry that allows malicious actors to bypass moderation on social media platforms and spread disinformation. The industry relies on domain cloaking services, which hide the true nature of websites from search engines, allowing them to remain online longer than they would otherwise. The industry also uses push monetization services, which pay affiliates to drive signups for various schemes, including online dating services. The article highlights the connections between VexTrio, LosPollos, and other malicious traffic distribution systems (TDSs), which are operated by Russian organized crime groups.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=69927</guid>
-      <pubDate>Thu, 12 Jun 2025 22:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coming to Apple OSes: A seamless, secure way to import and export passkeys</title>
-      <link>https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/</link>
-      <description>Apple has introduced a new process for securely transferring credentials between apps, which is more secure than traditional methods and eliminates the risk of credential leaks. The system uses a standardized data format built with the FIDO Alliance to move data between apps, providing a modern and secure way to manage credentials. This development aims to improve the usability of passkeys and potentially alleviate issues related to password management.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/</guid>
-      <pubDate>Thu, 12 Jun 2025 20:26:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Exploiting Expired Discord Invite Links to Deploy Multi-Stage Malware</title>
-      <link>https://gbhackers.com/cybercriminals-exploiting-expired-discord-invite-links/</link>
-      <description>Vulnerable Product: Discord; CVE(s): None; Summary: A sophisticated malware campaign exploits a little-known flaw in Discord's invitation system, allowing attackers to hijack expired or deleted invite links and redirect users to malicious servers. The attack chain delivers powerful malware that targets cryptocurrency assets, stealing browser credentials, Discord tokens, and cryptocurrency wallets.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141963</guid>
-      <pubDate>Thu, 12 Jun 2025 19:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
