@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 20:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 21:02:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>North Korean hackers deepfake execs in Zoom call to spread Mac malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/</link>
+      <description>Vulnerable Product: BlueNoroff; CVE(s): None; Summary: The North Korean BlueNoroff hacking group is using deepfakes to trick employees into installing custom malware on their macOS devices. The attack involves a fake Zoom meeting and the installation of an AppleScript file that downloads a secondary payload, which includes malicious binaries such as Telegram 2, Root Troy V4, a (InjectWithDyld), XScreen (keyboardd), and CryptoBot (airmond).</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/</guid>
+      <pubDate>Wed, 18 Jun 2025 20:37:41 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-408: PEAK-System Driver PCANFD_ADD_FILTERS Time-Of-Check Time-Of-Use Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-408/</link>
@@ -507,6 +514,15 @@ FYSA: Threat actors have released two new variants of WormGPT, powered by xAI Gr
       <description>APT groups Kimsuky, Konni, Sidewinder, and Lazarus have been identified as the most active players in various regions, including East Asia, South Asia, Middle East, and Eastern Europe. These groups are using sophisticated intrusion techniques, spear phishing, and exploiting vulnerabilities to target government agencies, financial institutions, research bodies, and diplomats. The report highlights the need for enhanced threat intelligence and robust security frameworks to counter these persistent and evolving threats.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142549</guid>
       <pubDate>Tue, 17 Jun 2025 17:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram ads mimicking BMO, EQ Bank are finance scams</title>
+      <link>https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-bank-are-finance-scams/</link>
+      <description>Vulnerable Product: Instagram; CVE(s): None; Summary: Scammers are using Instagram ads, some featuring AI-powered deepfakes, to target Canadian consumers with phishing scams and investment fraud. The ads impersonate financial institutions like Bank of Montreal (BMO) and EQ Bank, prompting users to submit personal information or banking credentials.
+
+FYSA: Scammers are targeting Canadian consumers with Instagram ads that appear to be run by reputable financial institutions but are actually fraudulent. These ads use official branding and color schemes to drive traffic outside of the platform to illicit domains.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-bank-are-finance-scams/</guid>
+      <pubDate>Tue, 17 Jun 2025 16:52:09 +0000</pubDate>
     </item>
     <item>
       <title>Instagram ads mimicking BMO, EQ Banks are finance scams</title>
@@ -1468,20 +1484,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>The article discusses two concurrent outages at Cloudflare and Google due to infrastructure failures, highlighting vulnerabilities in modern cloud dependencies. The outages had widespread impacts on critical services, underscoring the fragility of interconnected internet ecosystems. The incidents exposed risks in vendor lock-in and centralized dependencies, with both companies committing to postmortems and implementing changes to improve resilience.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142054</guid>
       <pubDate>Fri, 13 Jun 2025 07:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>TokenBreak Exploit Tricks AI Models Using Minimal Input Changes</title>
-      <link>https://gbhackers.com/tokenbreak-exploit-tricks-ai-models/</link>
-      <description>TokenBreak is a novel attack technique that exploits tokenization strategies in AI text classification models to bypass detection. It manipulates input text by inserting characters to create tokenization divergence between the model and its target, allowing attackers to evade detection while preserving meaning for the end target.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142053</guid>
-      <pubDate>Fri, 13 Jun 2025 07:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>WebDAV Remote Code Execution 0-Day Actively Exploited — PoC Released</title>
-      <link>https://gbhackers.com/webdav-0-day-poc-released/</link>
-      <description>Vulnerable Product: Microsoft WebDAV; CVE(s): CVE-2025-33053; Summary: A zero-day vulnerability in Microsoft's Web Distributed Authoring and Versioning (WebDAV) protocol allows remote code execution via manipulated .url shortcut files. The flaw has been actively exploited by the Stealth Falcon APT group since March 2025, enabling attackers to hijack legitimate Windows tools like iediagcmd.exe and execute malicious payloads from attacker-controlled WebDAV servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142052</guid>
-      <pubDate>Fri, 13 Jun 2025 07:08:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
