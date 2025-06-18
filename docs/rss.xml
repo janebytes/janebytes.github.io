@@ -6,8 +6,162 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 22:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 10:11:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-402: Fuji Electric Smart Editor TL5 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-402/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor; CVE(s): CVE-2025-41388; Summary: The Fuji Electric Smart Editor TL5 file parsing vulnerability is a stack-based buffer overflow that allows remote attackers to execute arbitrary code, requiring user interaction. This occurs due to the lack of proper validation of user-supplied data length prior to copying it to a fixed-length buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-25942</guid>
+      <pubDate>Wed, 18 Jun 2025 10:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-403: Fuji Electric Smart Editor V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-403/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor V8; CVE(s): CVE-2025-41388; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required, and the issue results from the lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26020</guid>
+      <pubDate>Wed, 18 Jun 2025 10:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-404: Fuji Electric Smart Editor X1 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-404/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor X1; CVE(s): CVE-2025-41388; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required, and the issue results from the lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26022</guid>
+      <pubDate>Wed, 18 Jun 2025 10:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-405: Fuji Electric Smart Editor X1 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-405/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor X1; CVE(s): CVE-2025-41388; Summary: The Fuji Electric Smart Editor X1 has a file parsing stack-based buffer overflow vulnerability, which allows remote attackers to execute arbitrary code on affected installations. User interaction is required to exploit this vulnerability, and the issue results from improper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26024</guid>
+      <pubDate>Wed, 18 Jun 2025 10:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-406: SolarWinds Serv-U FTP Service Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-406/</link>
+      <description>Vulnerable Product: SolarWinds Serv-U; CVE(s): CVE-2024-45711; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of SolarWinds Serv-U. Authentication is required to exploit this vulnerability, and it occurs due to the lack of proper validation of a user-supplied path prior to using it in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-25087</guid>
+      <pubDate>Wed, 18 Jun 2025 10:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-407: SolarWinds Web Help Desk AjaxProxy Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-407/</link>
+      <description>Vulnerable Product: SolarWinds Web Help Desk; CVE(s): CVE-2024-28988; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of SolarWinds Web Help Desk without authentication. The specific flaw exists within the AjaxProxy due to lack of proper validation of user-supplied data, resulting in deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25346</guid>
+      <pubDate>Wed, 18 Jun 2025 10:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Ransomware Emerges as a Major Threat Targeting Windows, Linux, and ESXi Systems</title>
+      <link>https://gbhackers.com/qilin-ransomware-emerges-as-a-major-threat/</link>
+      <description>Qilin ransomware has emerged as a significant threat, leveraging a sophisticated Ransomware-as-a-Service (RaaS) model and advanced technical capabilities to target Windows, Linux, and ESXi systems. Its features include custom-built malware, configurable encryption modes, and services like data storage, spam tools, and legal assistance, positioning it as a comprehensive cybercrime ecosystem.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142720</guid>
+      <pubDate>Wed, 18 Jun 2025 09:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Leverage ClickFix Strategy to Deploy RATs and Data-Stealing Malware</title>
+      <link>https://gbhackers.com/cybercriminals-leverage-clickfix-strategy-to-deploy-rats/</link>
+      <description>Cybercriminals are exploiting a social engineering technique called ClickFix to initiate multi-stage cyberattacks, delivering remote access trojans (RATs) and data-stealing malware with alarming efficiency. The technique manipulates users into executing malicious PowerShell commands by disguising them as routine prompts like CAPTCHA verifications or browser updates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142689</guid>
+      <pubDate>Wed, 18 Jun 2025 09:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Privilege Escalation Flaws Grant Full Root Access on Multiple Linux Distros</title>
+      <link>https://gbhackers.com/critical-privilege-escalation-flaws/</link>
+      <description>Vulnerable Product: SUSE 15, openSUSE Leap 15; CVE(s): CVE-2025-6018, CVE-2025-6019; Summary: Two interconnected local privilege escalation (LPE) vulnerabilities enable attackers to gain full root access on a wide range of Linux distributions with minimal effort. The flaws impact both desktop and server installations, requiring only a local user session such as SSH for exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142693</guid>
+      <pubDate>Wed, 18 Jun 2025 08:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Winos 4.0 Malware Strain Emerges as Major Threat to Windows Systems</title>
+      <link>https://gbhackers.com/new-winos-4-0-malware-strain-emerges-as-major-threat/</link>
+      <description>FortiGuard Labs has uncovered a new strain of malware, dubbed Winos 4.0, targeting Microsoft Windows users with a focus on individuals in Taiwan, utilizing phishing tactics and masquerading as government or business entities; the malware is designed to steal sensitive user data and maintain persistence through registry keys.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142680</guid>
+      <pubDate>Wed, 18 Jun 2025 08:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Linux udisks flaw lets attackers get root on major Linux distros</title>
+      <link>https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/</link>
+      <description>Vulnerable Product: openSUSE Leap 15, SUSE Linux Enterprise 15, Ubuntu, Debian, Fedora; CVE(s): CVE-2025-6018, CVE-2025-6019; Summary: Two local privilege escalation (LPE) vulnerabilities were discovered in the Pluggable Authentication Modules (PAM) framework and libblockdev. Exploiting these flaws allows attackers to gain root privileges on systems running major Linux distributions, enabling agent tampering, persistence, and lateral movement.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/</guid>
+      <pubDate>Wed, 18 Jun 2025 08:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Claim Breach of Scania Financial Services, Leak Sensitive Data</title>
+      <link>https://gbhackers.com/hackers-claim-breach-of-scania-financial-services/</link>
+      <description>A threat actor claiming to be "hensi" infiltrated the subdomain insurance.scania.com of Scania Financial Services, exfiltrating sensitive files containing personal, financial, and potentially medical data. The breach is believed to have occurred when attackers exploited credentials belonging to an external IT partner using infostealer malware.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142688</guid>
+      <pubDate>Wed, 18 Jun 2025 07:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asana warns MCP AI feature exposed customer data to other orgs</title>
+      <link>https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/</link>
+      <description>Vulnerable Product: Asana; CVE(s): None; Summary: A logic flaw in the Model Context Protocol (MCP) feature of Asana's work management platform potentially exposed data from one organization to another, including task-level information and project metadata. The exposure occurred for over a month before being discovered on June 4 and has impacted around 1,000 customers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/</guid>
+      <pubDate>Wed, 18 Jun 2025 07:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-23121: Critical RCE Vulnerability Patched in Veeam Backup &amp; Replication</title>
+      <link>https://socradar.io/cve-2025-23121-rce-patched-veeam-backup-replication/</link>
+      <description>Vulnerable Product: Veeam Backup &amp; Replication; CVE(s): CVE-2025-23121 (CVSS 9.9), CVE-2025-24286 (CVSS 7.2), CVE-2025-24287 (CVSS 6.1); Summary: A critical Remote Code Execution (RCE) vulnerability (CVE-2025-23121) allows authenticated domain users to remotely execute arbitrary code on Veeam Backup Servers, affecting systems that are domain-joined. Additionally, two other vulnerabilities were discovered, one allowing modification of backup jobs and another allowing local system users to modify directory contents.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061066</guid>
+      <pubDate>Wed, 18 Jun 2025 06:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Alerts to Active Exploits of Linux Kernel Improper Ownership Management Vulnerability</title>
+      <link>https://gbhackers.com/cisa-alerts-to-active-exploits-of-linux-kernel-improper-ownership-management-vulnerability/</link>
+      <description>Vulnerable Product: Various Linux distributions; CVE(s): CVE-2023-0386; Summary: A critical Linux kernel vulnerability (CVE-2023-0386) allows local users to escalate privileges and potentially gain root-level access. The flaw emerges when a user copies a file with special capabilities from a nosuid mount into another mount, due to the kernel's failure to properly clear setuid and setgid bits during the copy-up operation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142676</guid>
+      <pubDate>Wed, 18 Jun 2025 06:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents</title>
+      <link>https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html</link>
+      <description>A former CIA analyst, Asif William Rahman, was sentenced to 37 months in prison for stealing and transmitting classified National Defense Information (NDI) without authorization. He retained multiple Secret and Top Secret documents on October 17, 2024, and wilfully sent them to individuals who did not have the necessary clearance.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html</guid>
+      <pubDate>Wed, 18 Jun 2025 06:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability</title>
+      <link>https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html</link>
+      <description>Vulnerable Product: Linux kernel; CVE(s): CVE-2023-0386; Summary: The Linux kernel contains an improper ownership management vulnerability (CVE-2023-0386) that can be exploited to escalate privileges on susceptible systems. The flaw, which has a CVSS score of 7.8, allows a local user to create SUID binaries owned by root and execute them, potentially leading to privilege escalation.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html</guid>
+      <pubDate>Wed, 18 Jun 2025 06:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s Gerrit Platform Flaw Exposes 18 Google Projects, Including ChromiumOS, to Hackers</title>
+      <link>https://gbhackers.com/googles-gerrit-platform-flaw-exposes-18-google-projects/</link>
+      <description>Vulnerable Product: Google Gerrit; CVE(s): CVE-2025-1568; Summary: A critical vulnerability in Google's Gerrit code-collaboration platform allows unauthorized code submissions by hackers, putting at least 18 major Google projects at risk. The flaw centers on misconfigured permissions and logic flaws in the review process, enabling attackers to inject malicious code without detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142671</guid>
+      <pubDate>Wed, 18 Jun 2025 06:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication</title>
+      <link>https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html</link>
+      <description>Vulnerable Product: Veeam; CVE(s): CVE-2025-23121, CVE-2025-24286, CVE-2025-24287; Summary: A critical security flaw (CVE-2025-23121) in Veeam's Backup &amp; Replication software allows remote code execution under certain conditions. Another flaw (CVE-2025-24286) permits an authenticated user to modify backup jobs and execute arbitrary code, while a third vulnerability (CVE-2025-24287) enables local system users to modify directory contents and execute code with elevated permissions.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html</guid>
+      <pubDate>Wed, 18 Jun 2025 05:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict</title>
+      <link>https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html</link>
+      <description>Iranian government has throttled internet access in the country, allegedly to prevent Israel's covert cyber operations. This development is part of an escalating digital conflict between Iran and Israel, with both sides engaging in retaliatory cyber attacks. The conflict also involves threat actors affiliated with Iran, who have launched malicious activities against U.S. critical infrastructure using IOCONTROL malware.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html</guid>
+      <pubDate>Wed, 18 Jun 2025 05:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veeam Vulnerabilities Expose Backup Servers to Remote Attacks</title>
+      <link>https://gbhackers.com/veeam-vulnerabilities/</link>
+      <description>Vulnerable Product: Veeam; CVE(s): CVE-2025-23121, CVE-2025-24286, CVE-2025-24287; Summary: A critical vulnerability (CVE-2025-23121) allows remote code execution on a Veeam Backup Server, while two other vulnerabilities (CVE-2025-24286 and CVE-2025-24287) enable privilege escalation and local privilege escalation in the Veeam Agent for Microsoft Windows, respectively.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142667</guid>
+      <pubDate>Wed, 18 Jun 2025 05:22:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix NetScaler ADC &amp; Gateway Flaws Expose Sensitive Data to Hackers</title>
+      <link>https://gbhackers.com/citrix-netscaler-adc-gateway-flaws/</link>
+      <description>Vulnerable Product: Citrix NetScaler ADC and NetScaler Gateway; CVE(s): CVE-2025-5349, CVE-2025-5777; Summary: Two critical vulnerabilities have been discovered in Citrix NetScaler ADC and NetScaler Gateway, allowing attackers to gain unauthorized access to critical management functions or read sensitive memory contents. The flaws can be exploited remotely and put enterprise networks at significant risk of data leakage.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142663</guid>
+      <pubDate>Wed, 18 Jun 2025 05:13:12 +0000</pubDate>
+    </item>
     <item>
       <title>Cybersecurity takes a big hit in new Trump executive order</title>
       <link>https://arstechnica.com/security/2025/06/cybersecurity-take-a-big-hit-in-new-trump-executive-order/</link>
@@ -178,6 +332,25 @@ FYSA: Threat actors have released two new variants of WormGPT, powered by xAI Gr
       <description>Vulnerable Product: Cock.li Roundcube webmail platform; CVE(s): CVE-2021-44026; Summary: The Cock.li email hosting provider suffered a data breach after threat actors exploited an old SQL injection vulnerability in its now-retired Roundcube webmail platform, exposing over 1 million user records.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/</guid>
       <pubDate>Tue, 17 Jun 2025 13:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Cyber Attacks in Review: May 2025</title>
+      <link>https://socradar.io/major-cyber-attacks-in-review-may-2025/</link>
+      <description>Vulnerable Product: Cetus Protocol; CVE(s): None; Summary: Attackers exploited a vulnerability in the smart contract of Cetus Protocol's liquidity pools, stealing approximately $223 million in virtual assets. The flaw originated from an open-source library used in the liquidity provider's smart contract, allowing hackers to manipulate pool prices and repeatedly drain token reserves.
+
+FYSA: LockBit was hacked, leaking thousands of Bitcoin addresses and chats. This leak offered law enforcement and analysts key data to trace ransom movements and disrupt operations, while also damaging LockBit's reputation after recent infrastructure takedowns.
+
+Vulnerable Product: SK Shieldus; CVE(s): None; Summary: Malware in SK Shieldus software enabled the exposure of 27 million phone numbers through external Command and Control (C2) servers. The attack targeted SK Shieldus, a security affiliate spun off in 2021, affecting hundreds of corporate clients using its endpoint protection software.
+
+FYSA: Phishing scams often use fake emails, websites, or social profiles to impersonate trusted brands and steal data. SOCRadar's Brand Protection detects these threats early by monitoring across channels and alerts your team instantly.
+
+Vulnerable Product: Coinbase; CVE(s): None; Summary: Coinbase revealed that cybercriminals collaborated with rogue support agents to steal sensitive data from approximately 69,461 customers. The breach involved insiders at Coinbase's overseas retail support centers who accessed and exfiltrated customer information without authorization.
+
+FYSA: The attacks impersonated major brands like Amazon, PayPal, Apple, and financial institutions, using spoofed emails with urgent calls to action linked to convincing fake login pages designed to harvest credentials and payment data. CoGUI's sophistication lies in its conditional redirection – links activate only if the victim's device matches attacker-set criteria like IP location, browser language, or device type, otherwise redirecting to the real brand website to evade detection.
+
+FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dior, fell victim to a wave of cyber attacks attributed to the Scattered Spider group and DragonForce Ransomware affiliates. The attacks exploited social engineering tactics focused on service desk teams, tricking staff into granting access that allowed threat actors to deploy ransomware, steal customer data, and disrupt critical services.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061053</guid>
+      <pubDate>Tue, 17 Jun 2025 13:45:36 +0000</pubDate>
     </item>
     <item>
       <title>Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware</title>
@@ -443,6 +616,13 @@ The article provides detailed information on the malware's components, including
 Overall, this analysis provides valuable insights into the capabilities and behavior of this particular malware campaign.</description>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=143320</guid>
       <pubDate>Tue, 17 Jun 2025 10:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ultimate List of Free and Open-source Threat Intelligence Feeds</title>
+      <link>https://socradar.io/the-ultimate-list-of-free-and-open-source-threat-intelligence-feeds/</link>
+      <description>The article discusses free and open-source threat intelligence feeds that can help cybersecurity professionals improve their visibility across the threat landscape without relying solely on expensive commercial platforms. The article presents a collection of highly regarded and globally accessible threat intelligence feeds, including MISP, SANS Internet Storm Center (ISC), AlienVault OTX, InfraGard, Automated Indicator Sharing (AIS), Cisco Talos, GreyNoise, VirusTotal, OpenPhish, Spamhaus, and SOCRadar Labs. These feeds provide real-time or regularly updated data on malicious activity, such as phishing campaigns, malware infrastructure, scanning IPs, and malicious URLs, which can help automate alerts, enrich incident context, and enhance proactive defense capabilities.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100017473</guid>
+      <pubDate>Tue, 17 Jun 2025 10:00:13 +0000</pubDate>
     </item>
     <item>
       <title>New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks</title>
@@ -1281,176 +1461,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Vulnerable Product: AVEVA PI Connector for CygNet; CVE(s): CVE-2025-4417, CVE-2025-4418; Summary: Cross-site scripting and improper validation of integrity check value vulnerabilities exist in PI Connector for CygNet Versions 1.6.14 and prior, allowing an attacker to persist arbitrary code or cause a denial-of-service condition.</description>
       <guid isPermaLink="false">/node/23506</guid>
       <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Energy Services</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-06</link>
-      <description>Vulnerable Product: Siemens G5DFR; CVE(s): CVE-2025-40585; Summary: The vulnerability, due to incorrect default permissions, allows an attacker to gain remote control of the G5DFR component and tamper with outputs from the device. Successful exploitation could result in unauthorized access and manipulation of the device's outputs.</description>
-      <guid isPermaLink="false">/node/23503</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SCALANCE and RUGGEDCOM</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-04</link>
-      <description>Vulnerable Product: Siemens SCALANCE and RUGGEDCOM products; CVE(s): CVE-2025-40567, CVE-2025-40568, CVE-2025-40569; Summary: The "Load Rollback" functionality in the web interface of affected products contains an incorrect authorization check vulnerability. This could allow an authenticated remote attacker with a "guest" role to make the affected product roll back to a previous configuration. Additionally, the "Load Configuration from Local PC" functionality in the web interface of affected products contains a race condition vulnerability that allows an authenticated remote attacker to load an attacker-controlled configuration instead of the legitimate one. The third vulnerability is a race condition that occurs when a legitimate administrator invokes the "Load Configuration from Local PC" functionality and the attacker wins the race. Successful exploitation requires that a legitimate administrator invokes the functionality and the attacker wins the race.</description>
-      <guid isPermaLink="false">/node/23501</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PTZOptics and Other Pan-Tilt-Zoom Cameras</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-10</link>
-      <description>Vulnerable Product: PTZOptics PT30X-SDI/NDI-xx before firmware 6.3.40; CVE(s): CVE-2024-8956, CVE-2024-8957; Summary: The camera is vulnerable to insufficient authentication and OS command injection issues, allowing an attacker to leak sensitive data, execute arbitrary commands, and access the admin web interface using hard-coded credentials.</description>
-      <guid isPermaLink="false">/node/23507</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AVEVA PI Data Archive</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-07</link>
-      <description>Vulnerable Product: AVEVA PI Data Archive, AVEVA PI Server; CVE(s): CVE-2025-44019, CVE-2025-36539; Summary: The products are vulnerable to an uncaught exception that can be exploited by an authenticated user to shut down necessary subsystems and cause a denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23504</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC S7-1500 CPU Family</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-05</link>
-      <description>The provided article appears to be a collection of multiple Common Vulnerabilities and Exposures (CVEs) from various sources, including Linux kernel, GnuTLS, OpenSSH, and others. Each CVE has its own unique characteristics, such as CVSS score, vector string, and description.</description>
-      <guid isPermaLink="false">/node/23502</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM APE1808</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-02</link>
-      <description>Vulnerable Product: Siemens RUGGEDCOM APE1808; CVE(s): CVE-2025-0133; Summary: A reflected cross-site scripting (XSS) vulnerability in the GlobalProtect gateway and portal features of Palo Alto Networks PAN-OS software enables execution of malicious JavaScript in the context of an authenticated Captive Portal user's browser when they click on a specially crafted link, potentially leading to phishing attacks and credential theft.</description>
-      <guid isPermaLink="false">/node/23499</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Ten Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/12/cisa-releases-ten-industrial-control-systems-advisories</link>
-      <description>Vulnerable Product: None listed; CVE(s): None; Summary: CISA released 10 ICS advisories on June 12, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding industrial control systems. The advisories cover various products from Siemens and AVEVA, and users are encouraged to review them for technical details and mitigations.</description>
-      <guid isPermaLink="false">/node/23508</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Tecnomatix Plant Simulation</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-01</link>
-      <description>Vulnerable Product: Siemens Tecnomatix Plant Simulation; CVE(s): CVE-2025-32454; Summary: The vulnerability allows an attacker to execute code in the context of the current process by reading past the end of an allocated structure while parsing specially crafted WRL files. Successful exploitation could lead to remote code execution.</description>
-      <guid isPermaLink="false">/node/23498</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AVEVA PI Web API</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-08</link>
-      <description>Vulnerable Product: AVEVA PI Web API; CVE(s): CVE-2025-2745; Summary: A cross-site scripting vulnerability exists in AVEVA PI Web API versions 2023 SP1 and prior, allowing an authenticated attacker to persist arbitrary JavaScript code that can be executed by users who disable content security policy protections. Successful exploitation could allow the attacker to disable content security policy protections, leading to potential attacks.</description>
-      <guid isPermaLink="false">/node/23505</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trend Micro Apex One Zero-Day Vulnerability Enables Attackers to Inject Malicious Code</title>
-      <link>https://gbhackers.com/trend-micro-apex-one-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-49154, CVE-2025-49155, CVE-2025-49156, CVE-2025-49157, CVE-2025-49158; Summary: Five critical vulnerabilities in Trend Micro's Apex One endpoint security platform allow attackers to execute arbitrary code and escalate privileges on affected systems. The most severe vulnerability, CVE-2025-49154, allows local attackers to overwrite key memory-mapped files, while the fifth vulnerability, CVE-2025-49155, enables remote attackers to execute arbitrary code with user interaction.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141901</guid>
-      <pubDate>Thu, 12 Jun 2025 11:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction</title>
-      <link>https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html</link>
-      <description>Vulnerable Product: Microsoft 365 Copilot; CVE(s): CVE-2025-32711; Summary: The EchoLeak vulnerability is a zero-click AI vulnerability that allows attackers to exfiltrate sensitive data from Microsoft 365 Copilot's context without user interaction. It requires no customer action and has been already addressed by Microsoft.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html</guid>
-      <pubDate>Thu, 12 Jun 2025 11:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Non-Human Identities: How to Address the Expanding Security Risk</title>
-      <link>https://thehackernews.com/2025/06/non-human-identities-how-to-address.html</link>
-      <description>The article highlights the risks and challenges associated with non-human identities (machine identities), such as service accounts, API keys, bots, automation, and workload identities. It emphasizes that traditional secrets managers do not address the full lifecycle of NHI governance, leading to a high risk of secrets leakage.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/non-human-identities-how-to-address.html</guid>
-      <pubDate>Thu, 12 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Advertise Advanced MaaS Botnet with Blockchain C2 on Hacking Forums</title>
-      <link>https://gbhackers.com/cybercriminals-advertise-advanced-maas-botnet/</link>
-      <description>The article discusses the alleged sale of a sophisticated Malware-as-a-Service (MaaS) botnet that combines legitimate development frameworks with cutting-edge evasion techniques. The botnet leverages Node.js runtime, blockchain-based command and control infrastructure, and modern web technologies to create a highly resilient and scalable malicious platform.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141879</guid>
-      <pubDate>Thu, 12 Jun 2025 10:47:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 24H2 emergency update fixes Easy Anti-Cheat BSOD issue</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/</link>
-      <description>Microsoft has released an emergency Windows 11 24H2 update (KB5063060) to address an incompatibility issue causing system restarts and blue screens of death (BSOD) errors on systems with Easy Anti-Cheat, a popular anti-cheating service used by hundreds of multiplayer games.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/</guid>
-      <pubDate>Thu, 12 Jun 2025 10:43:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique</title>
-      <link>https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/</link>
-      <description>Vulnerable Product: Various websites; CVE(s): None; Summary: A large-scale campaign has been compromising legitimate websites with injected, obfuscated JavaScript code. The code uses the JSFireTruck technique to hide its true purpose and redirect users to malicious URLs, potentially leading to malware downloads or other harmful activities.
-
-FYSA: This campaign is widespread and has infected many websites, making it a significant threat. Malware authors use this technique to make code analysis more difficult, and website administrators must keep their web servers up-to-date with the latest security updates and analyze their web servers for any signs of infection or compromise.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=142866</guid>
-      <pubDate>Thu, 12 Jun 2025 10:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Launch Coordinated Attack on Apache Tomcat Manager from 400 Unique IPs</title>
-      <link>https://gbhackers.com/launch-coordinated-attack/</link>
-      <description>Vulnerable Product: Apache Tomcat; CVE(s): None; Summary: GreyNoise Intelligence has identified a significant coordinated attack campaign targeting Apache Tomcat Manager interfaces across the globe. The campaign involves nearly 400 unique IP addresses conducting large-scale reconnaissance and access attempts, with security experts warning that such broad scanning activities often precede more targeted exploitation attempts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141853</guid>
-      <pubDate>Thu, 12 Jun 2025 09:49:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fog ransomware attack uses unusual mix of legitimate and open-source tools</title>
-      <link>https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/</link>
-      <description>Fog ransomware operation uses an uncommon toolset, including open-source pentesting utilities and a legitimate employee monitoring software called Syteca. The toolset includes tools like Stowaway, SMBExec, GC2, Adapt2x C2, Process Watchdog, PsExec, Impacket SMB, 7-Zip, MegaSync, and FreeFileSync utilities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/</guid>
-      <pubDate>Thu, 12 Jun 2025 09:45:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Campaign Targets Entra ID User Accounts Using Pentesting Tool for Account Takeover</title>
-      <link>https://gbhackers.com/new-campaign-targets-entra-id-user-accounts/</link>
-      <description>A large-scale Account Takeover (ATO) campaign, internally tracked as UNK_SneakyStrike, has been discovered by Proofpoint Threat Intelligence. The campaign targets Microsoft Entra ID user accounts across global organizations, using the open-source penetration testing framework TeamFiltration to target over 80,000 user accounts and compromise sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141805</guid>
-      <pubDate>Thu, 12 Jun 2025 09:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows SMB Client Zero-Day Vulnerability Exploited via Reflective Kerberos Relay Attack</title>
-      <link>https://gbhackers.com/windows-smb-client-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-33073; Summary: The "Reflective Kerberos Relay Attack" allows low-privileged Active Directory users to escalate privileges to NT AUTHORITY\SYSTEM on domain-joined Windows systems that do not enforce SMB signing. The attack exploits advanced techniques such as authentication coercion, SPN confusion, and Kerberos ticket relay, resulting in SYSTEM-level access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141825</guid>
-      <pubDate>Thu, 12 Jun 2025 08:41:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>0-Click Vulnerability in Microsoft 365 Copilot Exposes Sensitive Data via Teams</title>
-      <link>https://gbhackers.com/vulnerability-in-microsoft-365-copilot/</link>
-      <description>Vulnerable Product: Microsoft 365 Copilot; CVE(s): CVE-2025-32711; Summary: A zero-click vulnerability, dubbed "EchoLeak", was discovered in Microsoft 365 Copilot's Retrieval-Augmented Generation (RAG) system, allowing attackers to automatically exfiltrate sensitive information without user interaction. The vulnerability exploits an "LLM Scope Violation" and affects the processing of organizational data, including emails, documents, and conversations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141813</guid>
-      <pubDate>Thu, 12 Jun 2025 07:58:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks</title>
-      <link>https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html</link>
-      <description>Vulnerable Product: ConnectWise; CVE(s): None; Summary: The vulnerability stems from ScreenConnect storing configuration data in an unsigned area of the installer, which could create an insecure design pattern. The company is releasing an update to improve configuration data management and rotating digital code signing certificates due to security concerns.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html</guid>
-      <pubDate>Thu, 12 Jun 2025 07:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Secure: INTERPOL’s Global Infostealer Crackdown Takes Down 20,000 Malicious IPs and Domains</title>
-      <link>https://socradar.io/operation-secure-interpols-infostealer-takes-down-20000-ips-domains/</link>
-      <description>INTERPOL's Operation Secure resulted in the dismantling of 20,000 malicious IPs and domains, seizure of 41 servers, and arrest of 32 suspects, with a focus on taking down cybercriminal networks trafficking in stolen information. The operation involved intelligence gathering, analysis, and precise actions by law enforcement agencies across Asia and the South Pacific.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060908</guid>
-      <pubDate>Thu, 12 Jun 2025 07:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nytheon AI Tool Gaining Traction on Hacking Forums for Malicious Activities</title>
-      <link>https://gbhackers.com/nytheon-ai-tool-gaining-traction/</link>
-      <description>Nytheon AI is a comprehensive suite of open-source large language models (LLMs) that offers a single interface for uncensored model inference. The platform's multimodal ingestion pipeline and API-driven automation create a dynamic threat landscape, posing substantial risks to organizations and individuals.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141787</guid>
-      <pubDate>Thu, 12 Jun 2025 06:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues Comprehensive Guide to Safeguard Network Edge Devices</title>
-      <link>https://gbhackers.com/cisa-issues-comprehensive-guide-to-safeguard/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has released comprehensive guidance to help organizations protect their network edge devices and appliances from foreign adversaries. The guidance addresses the growing threat landscape targeting firewalls, routers, VPN gateways, IoT devices, internet-facing servers, and OT systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141786</guid>
-      <pubDate>Thu, 12 Jun 2025 06:10:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
