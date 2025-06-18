@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 19:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 20:02:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-408: PEAK-System Driver PCANFD_ADD_FILTERS Time-Of-Check Time-Of-Use Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-408/</link>
+      <description>Vulnerable Product: PEAK-System Driver PCANFD_ADD_FILTERS; CVE(s): CVE-2025-6217; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of PEAK-System Driver. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which is due to a lack of proper locking when performing operations on an object.</description>
+      <guid isPermaLink="false">ZDI-CAN-24161</guid>
+      <pubDate>Wed, 18 Jun 2025 20:02:27 +0000</pubDate>
+    </item>
     <item>
       <title>Chollima Hackers Target Windows and MacOS with New GolangGhost RAT Malware</title>
       <link>https://gbhackers.com/chollima-hackers-target-windows-and-macos/</link>
@@ -28,6 +35,17 @@
       <description>Russia's sophisticated cyber warfare strategy emerges as a calculated blend of state power and non-state agility, leveraging private companies, hacktivists, and criminal proxies to amplify its digital dominance. The strategy involves concentric rings with state agencies at the core and a diverse array of non-state actors, including private IT firms, hacktivist groups, and eCrime collectives, which offers Moscow cost efficiency, flexibility, and access to cutting-edge skills, but also risks unpredictability and blurs the line between state and non-state action.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142872</guid>
       <pubDate>Wed, 18 Jun 2025 18:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A week with a "smart" car</title>
+      <link>https://blog.talosintelligence.com/a-week-with-a-smart-car/</link>
+      <description>The article discusses the author's experience with advanced vehicle systems in a new car, highlighting issues with constant alerts and difficulty disabling features. It also touches on the importance of user experience and frictionless security tools.
+
+FYSA: Cisco Talos has discovered that the North Korean-aligned threat actor Famous Chollima is targeting cryptocurrency and blockchain professionals through sophisticated phishing campaigns using Python-based malware (PylangGhost) and Golang-based variants. The campaign highlights the constant evolution of threat actors' tools, emphasizing the need for robust defenses and user education.
+
+FYSA: AI scraping bots are breaking into libraries, archives, museums, and galleries, causing some collections to go offline. Additionally, a cybercriminal group leaked 7.4 million citizen records in Paraguay on the dark web, demanding $7.4 million.</description>
+      <guid isPermaLink="false">68519c74813ef3000192102a</guid>
+      <pubDate>Wed, 18 Jun 2025 18:00:19 +0000</pubDate>
     </item>
     <item>
       <title>Halo Security Honored with 2025 MSP Today Product of the Year Award</title>
@@ -1464,20 +1482,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Vulnerable Product: Microsoft WebDAV; CVE(s): CVE-2025-33053; Summary: A zero-day vulnerability in Microsoft's Web Distributed Authoring and Versioning (WebDAV) protocol allows remote code execution via manipulated .url shortcut files. The flaw has been actively exploited by the Stealth Falcon APT group since March 2025, enabling attackers to hijack legitimate Windows tools like iediagcmd.exe and execute malicious payloads from attacker-controlled WebDAV servers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142052</guid>
       <pubDate>Fri, 13 Jun 2025 07:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware</title>
-      <link>https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html</link>
-      <description>Vulnerable Product: Apple Messages app; CVE(s): CVE-2025-43200; Summary: A logic issue in the Messages app allowed for zero-click exploitation of maliciously crafted photos or videos shared via an iCloud Link, targeting civil society members with sophisticated cyber attacks. The vulnerability was actively exploited and patched on February 10, 2025, as part of various iOS, iPadOS, macOS, watchOS, and visionOS updates.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html</guid>
-      <pubDate>Fri, 13 Jun 2025 07:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GrayAlpha Uses Diverse Infection Vectors to Deploy PowerNet Loader and NetSupport RAT</title>
-      <link>https://www.recordedfuture.com/research/grayalpha-uses-diverse-infection-vectors-deploy-powernet-loader-netsupport-rat</link>
-      <description>Insikt Group identified new infrastructure associated with GrayAlpha, a threat actor that overlaps with FIN7. The newly discovered infrastructure includes domains used for payload distribution and additional IP addresses believed to be tied to GrayAlpha. The group uses three primary infection vectors: fake browser update pages, fake 7-Zip download sites, and the TDS TAG-124 network.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/grayalpha-uses-diverse-infection-vectors-deploy-powernet-loader-netsupport-rat</guid>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
