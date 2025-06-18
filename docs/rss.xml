@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 10:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 11:01:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google Chrome Vulnerabilities Enable Arbitrary Code Execution – Update Now!</title>
+      <link>https://gbhackers.com/google-chrome-vulnerabilities/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): None; Summary: The update addresses three high-severity vulnerabilities, including an integer overflow in V8 and a use-after-free in Profiler, which could allow attackers to execute arbitrary code, potentially leading to data theft or system compromise. If exploited, these vulnerabilities could enable attackers to bypass security controls and take control of a user's system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142773</guid>
+      <pubDate>Wed, 18 Jun 2025 10:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackHat AI Tool WormGPT Enhanced with Grok and Mixtral</title>
+      <link>https://gbhackers.com/wormgpt-enhanced-with-grok-and-mixtral/</link>
+      <description>Vulnerable Product: WormGPT; CVE(s): None; Summary: WormGPT is a notorious blackhat AI tool that has resurfaced in enhanced forms powered by advanced language models such as xAI's Grok and Mistral AI's Mixtral. The tool allows for the generation of human-like text, enabling malicious activities, and its variants have been introduced on underground forums.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142766</guid>
+      <pubDate>Wed, 18 Jun 2025 10:36:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>BeyondTrust warns of pre-auth RCE in Remote Support software</title>
+      <link>https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/</link>
+      <description>Vulnerable Product: BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) solutions; CVE(s): CVE-2025-5309; Summary: A high-severity Server-Side Template Injection vulnerability in the chat feature of BeyondTrust RS/PRA allows unauthenticated attackers to gain remote code execution on vulnerable servers. Exploitation does not require authentication, and administrators can mitigate the risk by enabling SAML authentication and enforcing session keys.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/</guid>
+      <pubDate>Wed, 18 Jun 2025 10:10:03 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-402: Fuji Electric Smart Editor TL5 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-402/</link>
@@ -1439,27 +1460,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <link>https://www.cisa.gov/news-events/alerts/2025/06/12/cisa-releases-cybersecurity-advisory-simplehelp-rmm-vulnerability</link>
       <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, None; Summary: Ransomware actors exploited an unpatched path traversal vulnerability (CVE-2024-57727) in SimpleHelp Remote Monitoring and Management (RMM) versions 5.5.7 and earlier to compromise customers of a utility billing software provider, resulting in service disruptions and double extortion incidents.</description>
       <guid isPermaLink="false">/node/23511</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Actors Exploit Unpatched SimpleHelp Remote Monitoring and Management to Compromise Utility Billing Software Provider</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-163a</link>
-      <description>Vulnerable Product: SimpleHelp Remote Monitoring and Management (RMM); CVE(s): CVE-2024-57727; Summary: Ransomware actors are leveraging unpatched instances of SimpleHelp RMM, specifically versions 5.5.7 and earlier, to compromise customers. The vulnerability, CVE-2024-57727, is a path traversal vulnerability that allows attackers to access downstream customers' networks.</description>
-      <guid isPermaLink="false">/node/23510</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SCALANCE and RUGGEDCOM</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-03</link>
-      <description>Vulnerable Product: Siemens SCALANCE and RUGGEDCOM products; CVE(s): CVE-2024-41797; Summary: The vulnerability is an incorrect authorization check that allows an authenticated remote attacker with "guest" role to invoke an internal "do system" command exceeding their privileges. This could allow the execution of certain low-risk actions, including clearing the local system log.</description>
-      <guid isPermaLink="false">/node/23500</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AVEVA PI Connector for CygNet</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-162-09</link>
-      <description>Vulnerable Product: AVEVA PI Connector for CygNet; CVE(s): CVE-2025-4417, CVE-2025-4418; Summary: Cross-site scripting and improper validation of integrity check value vulnerabilities exist in PI Connector for CygNet Versions 1.6.14 and prior, allowing an attacker to persist arbitrary code or cause a denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23506</guid>
       <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
