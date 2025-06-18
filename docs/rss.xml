@@ -6,14 +6,42 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 11:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 12:05:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DMV-Style Phishing Scams Target U.S. Citizens to Harvest Sensitive Information</title>
+      <link>https://gbhackers.com/dmv-style-phishing-scams-target-u-s-citizens/</link>
+      <description>A highly coordinated phishing campaign targeting U.S. citizens has been discovered, utilizing SMS phishing (smishing) and impersonating state Departments of Motor Vehicles (DMVs). The attack threatened license suspension or legal action and attempted to steal personal information by directing victims to fake DMV websites. The campaign is attributed to a China-based threat actor.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142746</guid>
+      <pubDate>Wed, 18 Jun 2025 11:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware Unveils Cloud Foundation 9.0 With AI and Next-Gen Workloads</title>
+      <link>https://gbhackers.com/vmware-unveils-cloud-foundation-9-0/</link>
+      <description>VMware has announced the general availability of VMware Cloud Foundation (VCF) 9.0, a private cloud technology designed to meet the demands of AI, data-intensive workloads, and modern enterprise operations. The new release offers a unified platform that merges the speed and flexibility of cloud with the performance, governance, and cost control required for on-premises environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142782</guid>
+      <pubDate>Wed, 18 Jun 2025 11:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>FedRAMP at Startup Speed: Lessons Learned</title>
+      <link>https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html</link>
+      <description>None</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html</guid>
+      <pubDate>Wed, 18 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Chrome Vulnerabilities Enable Arbitrary Code Execution – Update Now!</title>
       <link>https://gbhackers.com/google-chrome-vulnerabilities/</link>
       <description>Vulnerable Product: Google Chrome; CVE(s): None; Summary: The update addresses three high-severity vulnerabilities, including an integer overflow in V8 and a use-after-free in Profiler, which could allow attackers to execute arbitrary code, potentially leading to data theft or system compromise. If exploited, these vulnerabilities could enable attackers to bypass security controls and take control of a user's system.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142773</guid>
       <pubDate>Wed, 18 Jun 2025 10:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Water Curse Hijacks 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign</title>
+      <link>https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html</link>
+      <description>Water Curse is a financially motivated threat actor that uses weaponized GitHub repositories to deliver multi-stage malware, enabling data exfiltration, remote access, and long-term persistence on infected systems. The actor's arsenal includes various tools and programming languages, and they employ anti-debugging techniques, privilege escalation methods, and persistence mechanisms to maintain a foothold on affected hosts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html</guid>
+      <pubDate>Wed, 18 Jun 2025 10:47:00 +0000</pubDate>
     </item>
     <item>
       <title>BlackHat AI Tool WormGPT Enhanced with Grok and Mixtral</title>
@@ -35,6 +63,13 @@
       <description>Vulnerable Product: Fuji Electric Smart Editor; CVE(s): CVE-2025-41388; Summary: The Fuji Electric Smart Editor TL5 file parsing vulnerability is a stack-based buffer overflow that allows remote attackers to execute arbitrary code, requiring user interaction. This occurs due to the lack of proper validation of user-supplied data length prior to copying it to a fixed-length buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-25942</guid>
       <pubDate>Wed, 18 Jun 2025 10:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>When legitimate tools go rogue</title>
+      <link>https://blog.talosintelligence.com/when-legitimate-tools-go-rogue/</link>
+      <description>The article discusses the trend of attackers using legitimate software, such as system tools (e.g., whoami, nltest, and nslookup) and remote monitoring and management (RMM) tools (e.g., ScreenConnect or AnyDesk), to carry out malicious actions. This tactic is referred to as "living off the land binaries" (LOLBins). The article highlights the importance of asset management, behavioral baselining, continuous monitoring, and threat intel alignment in detecting these types of attacks.</description>
+      <guid isPermaLink="false">68517e4b813ef30001920ffc</guid>
+      <pubDate>Wed, 18 Jun 2025 10:09:27 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-403: Fuji Electric Smart Editor V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
@@ -70,6 +105,13 @@
       <description>Vulnerable Product: SolarWinds Web Help Desk; CVE(s): CVE-2024-28988; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of SolarWinds Web Help Desk without authentication. The specific flaw exists within the AjaxProxy due to lack of proper validation of user-supplied data, resulting in deserialization of untrusted data.</description>
       <guid isPermaLink="false">ZDI-CAN-25346</guid>
       <pubDate>Wed, 18 Jun 2025 10:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Famous Chollima deploying Python version of GolangGhost RAT</title>
+      <link>https://blog.talosintelligence.com/python-version-of-golangghost-rat/</link>
+      <description>The article discusses a Python-based remote access trojan (RAT) called "PylangGhost" used by a North Korean-aligned threat actor, Famous Chollima. The RAT targets employees with experience in cryptocurrency and blockchain technologies and is designed to steal browser credentials and session cookies from over 80 extensions, including password managers and cryptocurrency wallets.</description>
+      <guid isPermaLink="false">6851323e813ef30001920f8e</guid>
+      <pubDate>Wed, 18 Jun 2025 10:00:44 +0000</pubDate>
     </item>
     <item>
       <title>Qilin Ransomware Emerges as a Major Threat Targeting Windows, Linux, and ESXi Systems</title>
@@ -1419,48 +1461,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Microsoft has announced the general availability of a new feature for Microsoft Edge, allowing administrators to deploy encrypted shared passwords to specific user groups in enterprise environments. This feature aims to minimize the risk of unauthorized access by ensuring that employees do not accidentally share passwords with unintended recipients.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/</guid>
       <pubDate>Thu, 12 Jun 2025 13:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar</title>
-      <link>https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html</link>
-      <description>This article discusses the growing threat of non-human identities (NHI) created by AI agents, chatbots, and automation scripts. These invisible identities, such as API keys, service accounts, and OAuth tokens, are powerful and unsecured, allowing attackers to move laterally through cloud infrastructure, deploy malware, and exfiltrate data without triggering alerts. The article emphasizes the need for new strategies to secure these NHIs, citing traditional IAM tools as insufficient for this task.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html</guid>
-      <pubDate>Thu, 12 Jun 2025 13:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privilege Escalation in PAN-OS Web Interface Allows Admin Users to Perform Root Actions</title>
-      <link>https://gbhackers.com/privilege-escalation-in-pan-os-web/</link>
-      <description>Vulnerable Product: Palo Alto Networks PAN-OS operating system; CVE(s): CVE-2025-4231; Summary: A medium-severity command injection vulnerability (CVE-2025-4231) in the management web interface of PAN-OS allows authenticated administrative users to escalate privileges and execute commands as the root user, potentially compromising the entire firewall system.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141935</guid>
-      <pubDate>Thu, 12 Jun 2025 12:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitLab patches high severity account takeover, missing auth issues</title>
-      <link>https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/</link>
-      <description>Vulnerable Product: GitLab; CVE(s): CVE-2025-4278, CVE-2025-5121, CVE-2025-2254, CVE-2025-0673; Summary: Multiple vulnerabilities in GitLab's DevSecOps platform allow attackers to take over accounts, inject malicious jobs, and exploit cross-site scripting and denial of service flaws. Successful exploitation requires authenticated access with a GitLab Ultimate license.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/</guid>
-      <pubDate>Thu, 12 Jun 2025 12:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Command Injection Flaw in Palo Alto PAN-OS Allows Root-Level Code Execution</title>
-      <link>https://gbhackers.com/flaw-in-palo-alto-pan-os/</link>
-      <description>Vulnerable Product: Palo Alto Networks PAN-OS; CVE(s): CVE-2025-4230; Summary: A command injection vulnerability in Palo Alto Networks PAN-OS software allows authenticated administrators to execute arbitrary commands with root privileges, enabling file system modifications, unauthorized service disruptions, and lateral network movement. The vulnerability impacts PAN-OS versions 10.x and 11.x, and is exploitable locally without user interaction.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141919</guid>
-      <pubDate>Thu, 12 Jun 2025 12:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: DragonForce Ransomware</title>
-      <link>https://socradar.io/dark-web-profile-dragonforce-ransomware/</link>
-      <description>The article discusses the DragonForce Ransomware group, which has emerged as a significant threat in the cyber landscape. The group is known for its aggressive double extortion tactics, using both custom and borrowed tools to steal data, encrypt systems, and pressure victims into paying ransoms. The article provides an overview of the group's operations, including their use of leaked ransomware builders, advanced evasion techniques, and organized affiliate model. It also highlights the importance of proactive defense and intelligence gathering in detecting and stopping DragonForce attacks before they cause harm.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100048798</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Cybersecurity Advisory on SimpleHelp RMM Vulnerability</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/12/cisa-releases-cybersecurity-advisory-simplehelp-rmm-vulnerability</link>
-      <description>Vulnerable Product: SimpleHelp; CVE(s): CVE-2024-57727, None; Summary: Ransomware actors exploited an unpatched path traversal vulnerability (CVE-2024-57727) in SimpleHelp Remote Monitoring and Management (RMM) versions 5.5.7 and earlier to compromise customers of a utility billing software provider, resulting in service disruptions and double extortion incidents.</description>
-      <guid isPermaLink="false">/node/23511</guid>
-      <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
