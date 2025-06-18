@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 21:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 22:01:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Pro-Israel hackers hit Iran's Nobitex exchange, burn $90M in crypto</title>
+      <link>https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/</link>
+      <description>The "Predatory Sparrow" hacking group claims to have stolen over $90 million in cryptocurrency from Nobitex, Iran's largest crypto exchange, and intentionally burnt the funds by sending them to vanity addresses. The attack is believed to be politically motivated, with ties to the IRGC and Iranian leadership.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/</guid>
+      <pubDate>Wed, 18 Jun 2025 21:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Address bar shows hp.com. Browser displays scammers’ malicious text anyway.</title>
+      <link>https://arstechnica.com/security/2025/06/tech-support-scammers-inject-malicious-phone-numbers-into-big-name-websites/</link>
+      <description>The article discusses a scam that injects fake phone numbers into official websites through Google ads. Scammers buy ads with appended parameters that are not displayed in the ad itself, making it difficult for users to suspect anything is amiss. The injected phone number appears legitimate and can trick users into revealing personal or financial information.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/tech-support-scammers-inject-malicious-phone-numbers-into-big-name-websites/</guid>
+      <pubDate>Wed, 18 Jun 2025 21:10:45 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean hackers deepfake execs in Zoom call to spread Mac malware</title>
       <link>https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/</link>
@@ -1470,20 +1484,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>A sophisticated cyber attack campaign has been discovered, where threat actors compromise legitimate websites to inject obfuscated JavaScript code. This enables them to quietly redirect unsuspecting visitors to malicious sites capable of delivering malware or executing exploits. Over 200,000 webpages were compromised in just one month, underscoring the evolving tactics used by attackers to exploit trusted domains for nefarious purposes.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142051</guid>
       <pubDate>Fri, 13 Jun 2025 09:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoC Exploit Unveiled for Windows Disk Cleanup Elevation Vulnerability</title>
-      <link>https://gbhackers.com/poc-exploit-windows-disk-cleanup/</link>
-      <description>Vulnerable Product: Microsoft Windows Disk Cleanup Utility (cleanmgr.exe); CVE(s): CVE-2025-21420; Summary: The vulnerability enables attackers to execute malicious code with SYSTEM privileges through DLL sideloading and a directory traversal technique. The flaw stems from cleanmgr.exe's failure to validate DLL loading paths and mitigate symbolic link attacks, allowing attackers to exploit path interception vulnerabilities to load unsigned DLLs and gain elevated privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142056</guid>
-      <pubDate>Fri, 13 Jun 2025 08:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Outage Hits Google Cloud and Linked Cloudflare Services, Thousands Affected</title>
-      <link>https://gbhackers.com/major-outage-hits-google-cloud-and-linked/</link>
-      <description>The article discusses two concurrent outages at Cloudflare and Google due to infrastructure failures, highlighting vulnerabilities in modern cloud dependencies. The outages had widespread impacts on critical services, underscoring the fragility of interconnected internet ecosystems. The incidents exposed risks in vendor lock-in and centralized dependencies, with both companies committing to postmortems and implementing changes to improve resilience.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142054</guid>
-      <pubDate>Fri, 13 Jun 2025 07:34:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
