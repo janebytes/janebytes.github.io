@@ -6,8 +6,33 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 15:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 16:01:58 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft 365 to block file access via legacy auth protocols by default</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/</link>
+      <description>This article does not mention a specific vulnerability. Instead, it discusses Microsoft's announcement to update security defaults for all Microsoft 365 tenants to block access to SharePoint, OneDrive, and Office files via legacy authentication protocols.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/</guid>
+      <pubDate>Wed, 18 Jun 2025 15:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Stargazers' use fake Minecraft mods to steal player passwords</title>
+      <link>https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/</link>
+      <description>A large-scale malware campaign targets Minecraft players by distributing malicious mods and cheats that infect Windows devices with info-stealers. The campaign uses GitHub as a distribution platform, disguising the malware as legitimate Minecraft content, and can steal credentials, authentication tokens, and cryptocurrency wallets.
+
+Note: There is no specific vulnerability mentioned in this article, but rather a malicious campaign using social engineering tactics to spread malware to victims' devices.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/</guid>
+      <pubDate>Wed, 18 Jun 2025 15:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub</title>
+      <link>https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html</link>
+      <description>The article describes a multi-stage malware campaign targeting Minecraft users, which employs a Java-based malware using a distribution-as-service (DaaS) offering called Stargazers Ghost Network. The campaign's end goal is to trick players into downloading a Minecraft mod from GitHub and deliver a .NET information stealer with comprehensive data theft capabilities.
+
+FYSA: The article highlights the use of an illicit offering, the Stargazers Ghost Network, which makes use of thousands of GitHub accounts to set up tainted repositories that masquerade as cracked software and game cheats.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html</guid>
+      <pubDate>Wed, 18 Jun 2025 14:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>ChainLink Phishing: How Trusted Domains Become Threat Vectors</title>
       <link>https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/</link>
@@ -1451,27 +1476,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Cloudflare and Google Cloud are investigating ongoing outages affecting multiple services across regions, including Cloudflare Zero Trust WARP connectivity issues and authentication failures. The incidents appear to be impacting various online services and platforms, with Downdetector reporting tens of thousands of reports.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/</guid>
       <pubDate>Thu, 12 Jun 2025 19:04:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenPGP.js Vulnerability Allows Attackers to Bypass Message Signature Verification</title>
-      <link>https://gbhackers.com/openpgp-js-vulnerability-allows-attackers/</link>
-      <description>Vulnerable Product: OpenPGP.js; CVE(s): CVE-2025-47934; Summary: A critical vulnerability in OpenPGP.js (versions 5.0.1 to 5.11.2 and 6.0.0-alpha.0 to 6.1.0) allows attackers to spoof message signatures, potentially undermining the trust model of public key cryptography. The flaw enables attackers to manipulate signed or signed-and-encrypted messages so that they appear to be validly signed by a trusted party even when the underlying data has been maliciously altered.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141930</guid>
-      <pubDate>Thu, 12 Jun 2025 18:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Defender Bypass Using PowerShell and Registry Edits in CyberEYE RAT</title>
-      <link>https://gbhackers.com/windows-defender-bypass-using-powershell-and-registry-edits/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: CyberEye is a remote access trojan (RAT) that uses Telegram as its command-and-control (C2) infrastructure. It has sophisticated capabilities, including keyloggers, file grabbers, clipboard hijackers, and persistence mechanisms, making it easy for attackers to customize payloads and evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141878</guid>
-      <pubDate>Thu, 12 Jun 2025 18:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Know thyself, know thy environment</title>
-      <link>https://blog.talosintelligence.com/know-thyself-know-thy-environment/</link>
-      <description>Vulnerable Product: Various software (catdoc, Parallel, NVIDIA, High-Logic FontCreator); CVE(s): None; Summary: Several vulnerabilities were disclosed across various software products, including catdoc which posed an exception as the vendor was unreachable. These vulnerabilities highlight risks in widely used software, potentially exposing systems to attacks such as privilege escalation, memory corruption, and data leaks.</description>
-      <guid isPermaLink="false">684ad31518508e0001bb2cd6</guid>
-      <pubDate>Thu, 12 Jun 2025 18:01:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
