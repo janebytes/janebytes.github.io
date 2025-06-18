@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 12:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 13:01:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>RapperBot Botnet Surges with 50,000+ Attacks Targeting Network Edge Devices</title>
+      <link>https://gbhackers.com/rapperbot-botnet-surges-with-50000-attacks/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The RapperBot botnet has resurfaced with over 50,000 attacks targeting network edge devices, exploiting vulnerabilities in IoT devices such as routers, IP cameras, and other connected hardware. The botnet uses brute-force techniques and exploits known vulnerabilities to compromise devices, establishing persistence by downloading additional payloads and conducting DDoS attacks or serving as a gateway for further malicious activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142777</guid>
+      <pubDate>Wed, 18 Jun 2025 12:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>DMV-Style Phishing Scams Target U.S. Citizens to Harvest Sensitive Information</title>
       <link>https://gbhackers.com/dmv-style-phishing-scams-target-u-s-citizens/</link>
@@ -1454,13 +1461,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): CVE-2025-26647, None; Summary: The vulnerability affects Windows Server 2025 domain controllers, causing authentication failures and network connectivity problems. The issue occurs when security update KB5055523 changes how domain controllers validate certificates used for Kerberos authentication, requiring certificates to chain to an issuing certificate authority (CA) in the NTAuth store. The problem is resolved with the June 2025 Patch Tuesday updates.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141944</guid>
       <pubDate>Thu, 12 Jun 2025 13:40:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Edge now offers secure password deployment for businesses</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/</link>
-      <description>Microsoft has announced the general availability of a new feature for Microsoft Edge, allowing administrators to deploy encrypted shared passwords to specific user groups in enterprise environments. This feature aims to minimize the risk of unauthorized access by ensuring that employees do not accidentally share passwords with unintended recipients.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/</guid>
-      <pubDate>Thu, 12 Jun 2025 13:20:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
