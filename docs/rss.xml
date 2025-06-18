@@ -6,8 +6,57 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 13:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 14:07:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CISA warns of attackers exploiting Linux flaw with PoC exploit</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/</link>
+      <description>Vulnerable Product: Linux kernel's OverlayFS subsystem; CVE(s): CVE-2023-0386; Summary: A high-severity vulnerability (CVE-2023-0386) in the Linux kernel's OverlayFS subsystem allows attackers to gain root privileges. The flaw, caused by improper ownership management, was patched in January 2023 and publicly disclosed two months later. Multiple proof-of-concept exploits were shared on GitHub, making exploitation attempts easier.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/</guid>
+      <pubDate>Wed, 18 Jun 2025 13:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Healthcare SaaS firm says data breach impacts 5.4 million patients</title>
+      <link>https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/</link>
+      <description>Episource, a healthcare services company, has reported a data breach that affected over 5 million people in the United States. The breach occurred between January 27 and February 6, 2025, when hackers accessed and exfiltrated sensitive health information, including full names, physical addresses, medical records, and social security numbers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/</guid>
+      <pubDate>Wed, 18 Jun 2025 13:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>SuperCard Malware Hijacks Android Devices to Steal Payment Card Data and Relay it to Attackers</title>
+      <link>https://gbhackers.com/supercard-malware-hijacks-android-devices/</link>
+      <description>The article discusses the emergence of SuperCard, a malicious modification of the legitimate NFCGate program, which exploits Near Field Communication (NFC) traffic to intercept sensitive bank card data. The malware is distributed via a Malware-as-a-Service (MaaS) platform named SuperCard X and targets Android users globally, with recent attacks recorded in Russia.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142823</guid>
+      <pubDate>Wed, 18 Jun 2025 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zyxel NWA50AX Pro Hit by N-Day Flaw Allowing Arbitrary File Deletion</title>
+      <link>https://gbhackers.com/zyxel-nwa50ax-pro-hit-by-n-day-flaw/</link>
+      <description>Vulnerable Product: Zyxel NWA50AX Pro; CVE(s): CVE-2024-29974; Summary: The Zyxel NWA50AX Pro WiFi 6 access point contains an arbitrary file deletion vulnerability (CVE-2024-29974) that allows attackers to delete files without authentication by crafting a POST request with manipulated parameters. This can lead to further attacks, such as replacing configuration or password files, potentially causing privilege escalation or denial of service.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142854</guid>
+      <pubDate>Wed, 18 Jun 2025 13:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Transit Mode in Apple Pay and GPay to Steal Money</title>
+      <link>https://gbhackers.com/hackers-exploit-apple-pay-and-gpay/</link>
+      <description>Vulnerable Product: Mobile Wallets (Apple Pay, Google Pay); CVE(s): None; Summary: The Express Transit mode in mobile wallets like Apple Pay and Google Pay allows for automatic charges without biometric checks or alerts, making it vulnerable to exploitation by hackers who can drain funds instantly and silently. Attackers can grab unlocked phones, mimic legitimate behavior, and exploit weak PINs to steal money.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142853</guid>
+      <pubDate>Wed, 18 Jun 2025 13:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Enhances Office 365 Defender to Stop Email Bombing Campaigns</title>
+      <link>https://gbhackers.com/office-365-defender-to-stop-email-bombing-campaigns/</link>
+      <description>The article discusses a new feature called Mail Bombing Detection in Microsoft Office 365 Defender, designed to combat email bombing attacks by automatically identifying and blocking massive volumes of emails. This feature is enabled by default and does not require manual configuration, providing enhanced protection against email-based threats without additional administrative overhead.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142852</guid>
+      <pubDate>Wed, 18 Jun 2025 13:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>MITRE and Splunk Expose Critical Vulnerabilities in Open Source GitHub Actions</title>
+      <link>https://gbhackers.com/mitre-and-splunk-expose-critical-vulnerabilities/</link>
+      <description>Vulnerable Product: GitHub Actions; CVE(s): CVE-2025-47928; Summary: The GitHub Actions workflows of several high-profile open source projects were found to be vulnerable due to the misuse of the pull_request_target trigger. This vulnerability allows attackers to access sensitive secrets and high-privilege tokens, potentially leading to full repository takeovers. The vulnerability was exploited in projects like spotipy-dev/spotipy and MITRE's Cyber Analytics Repository (CAR).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142812</guid>
+      <pubDate>Wed, 18 Jun 2025 13:03:37 +0000</pubDate>
+    </item>
     <item>
       <title>RapperBot Botnet Surges with 50,000+ Attacks Targeting Network Edge Devices</title>
       <link>https://gbhackers.com/rapperbot-botnet-surges-with-50000-attacks/</link>
@@ -231,6 +280,24 @@
       <description>Vulnerable Product: Citrix NetScaler ADC and NetScaler Gateway; CVE(s): CVE-2025-5349, CVE-2025-5777; Summary: Two critical vulnerabilities have been discovered in Citrix NetScaler ADC and NetScaler Gateway, allowing attackers to gain unauthorized access to critical management functions or read sensitive memory contents. The flaws can be exploited remotely and put enterprise networks at significant risk of data leakage.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142663</guid>
       <pubDate>Wed, 18 Jun 2025 05:13:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threats to the 2025 NATO Summit</title>
+      <link>https://www.recordedfuture.com/research/threats-2025-nato-summit</link>
+      <description>FYSA:
+
+The provided article appears to be a cybersecurity threat analysis report focused on Russian hybrid warfare tactics and potential threats to European critical infrastructure ahead of the 2025 NATO Summit. The report highlights various forms of sabotage, vandalism, and coercive military actions that Russia may employ to destabilize NATO member states.
+
+Key findings include:
+
+1. Russian-directed sabotage attacks targeting submarine cables in the Baltic Sea have increased since 2022.
+2. Moscow is likely to continue attempting to weaponize refugee flows to foment domestic unrest and exploit concerns about immigration in countries bordering Russia and Belarus.
+3. The Kremlin may increase its military presence and intelligence capabilities near Finland and the Baltic states.
+4. Coercive military actions via incursions into NATO airspace will likely increase ahead of the 2025 NATO Summit.
+
+The report concludes by emphasizing that Russian hybrid threats will continue to target European critical infrastructure, particularly in countries bordering Russia, if there is no significant action regarding Ukraine.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/threats-2025-nato-summit</guid>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cybersecurity takes a big hit in new Trump executive order</title>
@@ -1405,62 +1472,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>Vulnerable Product: Paragon's Graphite spyware platform; CVE(s): CVE-2025-43200; Summary: The Graphite spyware platform was used to launch zero-click attacks against at least two journalists' Apple iOS devices. The attack exploited a zero-day vulnerability in the processing of maliciously crafted photos or videos shared via an iCloud Link, allowing remote code execution without any interaction from the target.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/</guid>
       <pubDate>Thu, 12 Jun 2025 17:42:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>AitM Phishing Attacks on Microsoft 365 and Google Aimed at Stealing Login Credentials</title>
-      <link>https://gbhackers.com/aitm-phishing-attacks-on-microsoft-365-and-google-aimed/</link>
-      <description>A dramatic escalation in phishing attacks leveraging Adversary-in-the-Middle (AiTM) techniques has swept across organizations worldwide. These attacks use sophisticated reverse proxy servers to intercept user credentials and session cookies in real-time, bypassing even advanced security measures like Multi-Factor Authentication (MFA). Threat actors are constantly refining their methods to evade detection, employing various tactics such as HTML and SVG attachments, QR codes, and encrypted scripts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141843</guid>
-      <pubDate>Thu, 12 Jun 2025 17:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OneLogin AD Connector Vulnerabilities Expose Authentication Credentials</title>
-      <link>https://gbhackers.com/onelogin-ad-connector-vulnerabilities/</link>
-      <description>Vulnerable Product: OneLogin Active Directory (AD)Connector; CVE(s): None; Summary: A critical security vulnerability in OneLogin's AD Connector service allowed malicious actors to obtain authentication credentials, impersonate users, and access sensitive applications. The flaw was exploited by obtaining AWS credentials hard-coded in logs and using them to forge valid JSON Web Tokens (JWTs), enabling unauthorized access to enterprise applications.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141838</guid>
-      <pubDate>Thu, 12 Jun 2025 17:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Using Bat Files to Deploy Quasar RAT</title>
-      <link>https://gbhackers.com/threat-actors-using-bat-files/</link>
-      <description>The article discusses a Quasar Remote Access Trojan (RAT) campaign that uses strong obfuscation and anti-sandbox techniques to evade detection. The malware infection begins with a batch script attached to a seemingly harmless document, which downloads an obfuscated second-stage file from a remote server. The malware then checks for virtual drives commonly used by sandboxes and kills itself if detected, making automated analysis difficult.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141831</guid>
-      <pubDate>Thu, 12 Jun 2025 16:32:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Password-spraying attacks target 80,000 Microsoft Entra ID accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/</link>
-      <description>The TeamFiltration pentesting framework has been used by threat actor UNK_SneakyStrike to target over 80,000 Microsoft Entra ID accounts at hundreds of organizations worldwide. The campaign used AWS servers across multiple regions and exploited vulnerabilities in Office 365 API for account enumeration.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/</guid>
-      <pubDate>Thu, 12 Jun 2025 14:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>137,000 SoftBank Customers Affected by Data Leak from Third-Party Vendor</title>
-      <link>https://gbhackers.com/137000-softbank-customers-affected/</link>
-      <description>The article discusses SoftBank's approach to data security, highlighting the importance of comprehensive policies, employee training, and technical safeguards. It also emphasizes the need for robust data protection frameworks to prevent data leaks and breaches, particularly in outsourcing contexts. Additionally, the article touches on regulatory compliance and the evolving nature of cybersecurity threats in the telecommunications industry.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141961</guid>
-      <pubDate>Thu, 12 Jun 2025 14:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple GitLab Vulnerabilities Expose Users to Complete Account Takeover Risks</title>
-      <link>https://gbhackers.com/multiple-gitlab-vulnerabilities/</link>
-      <description>Vulnerable Product: GitLab; CVE(s): CVE-2025-4278, CVE-2025-2254, CVE-2025-5121, CVE-2025-0673, CVE-2025-1516, CVE-2025-1478, CVE-2024-9512, CVE-2025-5195, CVE-2025-5982; Summary: GitLab has released urgent security updates to address multiple high-severity vulnerabilities that could allow attackers to take over user accounts, inject malicious code, and disrupt services. The vulnerabilities include account takeover via injected HTML, cross-site scripting, injecting malicious CI/CD jobs, and denial-of-service attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141902</guid>
-      <pubDate>Thu, 12 Jun 2025 14:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes</title>
-      <link>https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html</link>
-      <description>Vulnerable Product: Various Large Language Models (LLMs); CVE(s): None; Summary: The TokenBreak attack technique can bypass LLMs' safety and content moderation guardrails by manipulating input text with single character changes. This manipulation causes the tokenizer to split the text differently, allowing malicious input to be classified as legitimate, potentially leading to prompt injection attacks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html</guid>
-      <pubDate>Thu, 12 Jun 2025 13:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Resolves Windows Server 2025 Restart Bug Disrupting Active Directory Connectivity</title>
-      <link>https://gbhackers.com/microsoft-resolves-windows-server/</link>
-      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): CVE-2025-26647, None; Summary: The vulnerability affects Windows Server 2025 domain controllers, causing authentication failures and network connectivity problems. The issue occurs when security update KB5055523 changes how domain controllers validate certificates used for Kerberos authentication, requiring certificates to chain to an issuing certificate authority (CA) in the NTAuth store. The problem is resolved with the June 2025 Patch Tuesday updates.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=141944</guid>
-      <pubDate>Thu, 12 Jun 2025 13:40:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
