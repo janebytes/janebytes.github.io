@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 16:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 17:00:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains</title>
+      <link>https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html</link>
+      <description>The article describes a new campaign using Cloudflare Tunnel subdomains to host malicious payloads and deliver them via phishing emails. The attack starts with sending payment-themed emails bearing a link to a zipped document containing a Windows shortcut file, which activates the infection sequence. The payload is executed in memory, allowing for evasion of detection.
+
+FYSA: None</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html</guid>
+      <pubDate>Wed, 18 Jun 2025 15:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft 365 to block file access via legacy auth protocols by default</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/</link>
@@ -1469,13 +1478,6 @@ FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to secu
       <description>A sophisticated cyberattack campaign is targeting users seeking to download the language model DeepSeek-R1, exploiting malvertising and phishing tactics to distribute previously unknown malware, BrowserVenom. The malware hijacks victims' web traffic, steals sensitive information, and updates browser settings for persistence.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=141942</guid>
       <pubDate>Thu, 12 Jun 2025 19:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud and Cloudflare hit by widespread service outages</title>
-      <link>https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/</link>
-      <description>Cloudflare and Google Cloud are investigating ongoing outages affecting multiple services across regions, including Cloudflare Zero Trust WARP connectivity issues and authentication failures. The incidents appear to be impacting various online services and platforms, with Downdetector reporting tens of thousands of reports.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/</guid>
-      <pubDate>Thu, 12 Jun 2025 19:04:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
