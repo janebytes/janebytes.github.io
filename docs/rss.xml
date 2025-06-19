@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 16:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 17:01:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Webinar: Stolen credentials are the new front door to your network</title>
+      <link>https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/</link>
+      <description>Credential-based attacks are becoming increasingly common, with threat actors using stolen credentials to breach networks. Infostealer malware campaigns have exploded in recent years, stealing billions of credentials and feeding a booming cybercrime marketplace. The webinar will explore how attackers are shifting from exploiting vulnerabilities to simply logging in using large-scale credential abuse.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/</guid>
+      <pubDate>Thu, 19 Jun 2025 16:33:21 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-409: RARLAB WinRAR Directory Traversal Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-409/</link>
@@ -1465,13 +1472,6 @@ Note: These vulnerabilities are not traditional software or hardware flaws but r
       <description>Anubis is a Ransomware-as-a-Service (RaaS) operation that combines traditional file encryption with a destructive "wipe mode" feature, permanently erasing file contents. It targets industries like healthcare and construction across regions using sophisticated attack chains, including spear-phishing and command-line execution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142215</guid>
       <pubDate>Mon, 16 Jun 2025 09:48:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Alleged Leaks Hit Vodafone Egypt, SAP Israel, OKX, and T-Mobile US</title>
-      <link>https://socradar.io/leak-vodafone-egypt-sap-israel-okx-and-t-mobile-us/</link>
-      <description>Threat actors are allegedly selling or leaking user data from high-profile companies across telecom, technology, and finance sectors, including Vodafone Egypt, SAP Israel, OKX, and T-Mobile US. The stolen data includes various types of personal information such as names, phone numbers, dates of birth, email addresses, and more.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060986</guid>
-      <pubDate>Mon, 16 Jun 2025 09:36:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
