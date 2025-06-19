@@ -6,8 +6,115 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 22:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 10:07:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Krispy Kreme says November data breach impacts over 160,000 people</title>
+      <link>https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/</link>
+      <description>FYSA:
+
+The article discusses a cyberattack on Krispy Kreme that resulted in the theft of personal information of over 160,000 individuals. The attackers, identified as the Play ransomware gang, claimed to have stolen sensitive data from the company's network and threatened to leak it online unless a ransom was paid. The breach was detected by Krispy Kreme on November 29 and notified affected individuals in May 2025.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/</guid>
+      <pubDate>Thu, 19 Jun 2025 09:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Entra ID Adds Passkey (FIDO2) Support in Public Preview</title>
+      <link>https://gbhackers.com/microsoft-entra-id-adds-passkey-fido2-support/</link>
+      <description>Microsoft has announced an update to its identity platform, Microsoft Entra ID, which introduces expanded passkey (FIDO2) support. This update allows IT administrators to configure passkey authentication policies at a granular level, enabling organizations to tailor authentication methods for different user groups. The rollout is set to occur globally from mid-October to mid-November 2025 and will simplify the authentication process by unifying credentials from hardware keys, computers, and mobile devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142998</guid>
+      <pubDate>Thu, 19 Jun 2025 09:18:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>How CVE-2025-6018 and CVE-2025-6019 Enable Full Root Access on Linux</title>
+      <link>https://socradar.io/cve-2025-6018-and-cve-2025-6019-root-access-on-linux/</link>
+      <description>Vulnerable Product: openSUSE Leap 15, SUSE Linux Enterprise 15; CVE(s): CVE-2025-6018, CVE-2025-6019; Summary: Two newly discovered Local Privilege Escalation (LPE) vulnerabilities in Linux distributions allow attackers to chain low-level access into full root control. The first vulnerability manipulates environment variables during login, allowing remote attackers to impersonate local users and gain permission to perform actions reserved for physical users. The second vulnerability abuses XFS file system resizing to gain root access using the udisk daemon.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061109</guid>
+      <pubDate>Thu, 19 Jun 2025 08:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>LogMeIn Remote Access Abused in Targeted System Compromise</title>
+      <link>https://gbhackers.com/logmein-remote-access-abused/</link>
+      <description>This article describes a sophisticated cyberattack campaign that leverages LogMeIn Resolve remote access software to gain unauthorized control over user systems. The attack begins with a convincingly crafted invoice-themed spam email, designed to trick recipients into opening a malicious PDF attachment, which installs the remote access tool and grants attackers full remote access to the compromised system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142983</guid>
+      <pubDate>Thu, 19 Jun 2025 08:16:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jitter-Trap: New Method Uncovers Stealthy Beacon Communications</title>
+      <link>https://gbhackers.com/jitter-trap-stealthy-beacon-communications/</link>
+      <description>The article introduces Jitter-Trap, a detection technique that uses behavioral and network analysis to identify post-exploitation and command-and-control (C2) communication in cyberattacks. It leverages the randomness used by attackers to evade detection, turning it into a powerful detection tool.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142975</guid>
+      <pubDate>Thu, 19 Jun 2025 08:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian APT29 Exploits Gmail App Passwords to Bypass 2FA in Targeted Phishing Campaign</title>
+      <link>https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html</link>
+      <description>Vulnerable Product: Google account feature - Application Specific Passwords (ASPs); CVE(s): None; Summary: Threat actors with suspected ties to Russia are using a novel social engineering tactic that takes advantage of Google's application specific passwords (ASPs) to gain access to victims' email accounts. The tactic involves building rapport with targets, sending benign phishing emails disguised as meeting invitations, and tricking them into sharing the ASP passcode.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html</guid>
+      <pubDate>Thu, 19 Jun 2025 08:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-3248 in Langflow Exploited to Deploy Flodrix Botnet</title>
+      <link>https://socradar.io/cve-2025-3248-in-langflow-deploy-flodrix-botnet/</link>
+      <description>Vulnerable Product: Langflow; CVE(s): CVE-2025-3248; Summary: A critical Remote Code Execution (RCE) vulnerability in Langflow's /api/v1/validate/code endpoint allows unauthenticated attackers to execute arbitrary code directly on the server, granting remote control over the host. The vulnerability impacts Langflow versions prior to 1.3.0 and is particularly dangerous due to Langflow's popularity in cloud-hosted AI deployments.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061100</guid>
+      <pubDate>Thu, 19 Jun 2025 07:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco AnyConnect VPN Flaw Allows Attackers to Launch DoS Attacks</title>
+      <link>https://gbhackers.com/cisco-anyconnect-vpn-flaw/</link>
+      <description>Vulnerable Product: Cisco Meraki; CVE(s): CVE-2025-20271; Summary: The vulnerability stems from a variable initialization error that occurs when establishing SSL VPN sessions using client certificate authentication. Attackers can exploit this flaw by sending specially crafted HTTPS requests to affected devices, causing the Cisco AnyConnect VPN service to crash and restart, immediately disconnecting all active VPN users and forcing them to re-authenticate.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142952</guid>
+      <pubDate>Thu, 19 Jun 2025 07:44:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Gang Busted by Authorities; Devices and Evidence Seized</title>
+      <link>https://gbhackers.com/ransomware-gang-busted-by-authorities/</link>
+      <description>Thai authorities dismantled a sophisticated criminal enterprise operating from the Antai Holiday Hotel in Pattaya, discovering a high-stakes gambling den and a ransomware cybercrime ring. The operation highlights the growing trend of cybercrime being intertwined with traditional organized crime, including gambling, money laundering, and identity theft.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142933</guid>
+      <pubDate>Thu, 19 Jun 2025 06:35:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache Traffic Server Vulnerability Allows DoS Attacks Through Memory Exhaustion</title>
+      <link>https://gbhackers.com/apache-traffic-server-vulnerability/</link>
+      <description>Vulnerable Product: Apache Software Foundation Apache Traffic Server; CVE(s): CVE-2025-49763; Summary: Attackers can exploit a flaw in the Edge Side Includes (ESI) plugin to trigger denial-of-service (DoS) attacks by exhausting server memory, affecting multiple versions of ATS 9.0.0 to 9.2.101 and 10.0.0 to 10.0.5.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142927</guid>
+      <pubDate>Thu, 19 Jun 2025 06:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryuk ransomware’s initial access expert extradited to the U.S.</title>
+      <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/</link>
+      <description>A member of the Ryuk ransomware operation, who specialized in gaining initial access to corporate networks, has been extradited to the United States. The individual was arrested in April 2025 and is suspected of earning $150 million while active between 2018 and 2020.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/</guid>
+      <pubDate>Thu, 19 Jun 2025 06:05:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Adds Passkey Login Support to Facebook for Android and iOS Users</title>
+      <link>https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html</link>
+      <description>Meta Platforms is adding support for passkeys on Facebook, allowing users to securely sign in with biometrics or device lock PIN code. This passwordless authentication solution is resistant to guessing or theft by malicious websites and effective against phishing and password spraying attacks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html</guid>
+      <pubDate>Thu, 19 Jun 2025 06:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Next SSRF Flaw in Cloudflare Lets Hackers Fetch Data from Any Host</title>
+      <link>https://gbhackers.com/open-next-ssrf-flaw-in-cloudflare/</link>
+      <description>Vulnerable Product: @opennextjs/cloudflare; CVE(s): CVE-2025-6087; Summary: The @opennextjs/cloudflare package contains a critical Server-Side Request Forgery (SSRF) vulnerability that allows unauthenticated attackers to proxy arbitrary remote content through the vulnerable site's domain, posing risks of phishing, data exposure, and domain abuse.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142923</guid>
+      <pubDate>Thu, 19 Jun 2025 05:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Password Reset Link Poisoning Leads to Full Account Takeover</title>
+      <link>https://gbhackers.com/password-reset-link-poisoning/</link>
+      <description>A critical vulnerability known as Password Reset Link Poisoning enables attackers to manipulate the domain in password reset links, redirecting users to malicious sites and capturing sensitive reset tokens. This allows for full account takeover, exposing web users and organizations to serious risks such as account takeover, phishing, and reputational damage.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142918</guid>
+      <pubDate>Thu, 19 Jun 2025 05:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions</title>
+      <link>https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html</link>
+      <description>Vulnerable Product: Qualys PAM and libblockdev; CVE(s): CVE-2025-6018, CVE-2025-6019; Summary: Two local privilege escalation (LPE) flaws were discovered by Qualys that can be exploited to gain root privileges on machines running major Linux distributions. CVE-2025-6018 allows an unprivileged user to elevate to the "allow_active" user and call Polkit actions, while CVE-2025-6019 enables an "allow_active" user to gain full root privileges by chaining it with CVE-2025-6018.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html</guid>
+      <pubDate>Thu, 19 Jun 2025 03:33:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pro-Israel hackers hit Iran's Nobitex exchange, burn $90M in crypto</title>
       <link>https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/</link>
@@ -1373,117 +1480,6 @@ FYSA: None</description>
       <description>Victoria's Secret has restored all critical systems impacted by a May 24 security incident, which forced the company to shut down corporate systems and its e-commerce website. The incident is believed to have no material impact on its yearly fiscal results, despite ongoing expenses related to the attack.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/</guid>
       <pubDate>Fri, 13 Jun 2025 11:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender Spoofing Flaw Enables Privilege Escalation and AD Access</title>
-      <link>https://gbhackers.com/microsoft-defender-spoofing/</link>
-      <description>Vulnerable Product: Microsoft Defender for Identity; CVE(s): CVE-2025-26685; Summary: A spoofing vulnerability in Microsoft Defender for Identity (MDI) allows unauthenticated attackers to capture Net-NTLM hashes of critical Directory Service Accounts, potentially compromising Active Directory environments. The flaw exploits MDI's Lateral Movement Paths feature and has been actively addressed in May 2025 Patch Tuesday updates.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142159</guid>
-      <pubDate>Fri, 13 Jun 2025 11:53:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reflections of the Israel-Iran Conflict on the Cyber World</title>
-      <link>https://socradar.io/reflections-of-israel-iran-conflict-cyber-world/</link>
-      <description>The article discusses the escalation of tensions between Israel and Iran following a series of airstrikes by Israel against Iranian nuclear enrichment sites, missile facilities, and military leaders' homes. Cyber activity has already begun, with groups like Moses Staff, Team Insane Pakistan, and DieNet posting messages and threatening attacks on Israeli infrastructure. Iranian cyber units are also expected to mobilize, potentially targeting government systems, communication infrastructure, or strategic industries.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060957</guid>
-      <pubDate>Fri, 13 Jun 2025 11:48:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Cloud Cam Flaw Allows Attackers to Intercept and Modify Network Traffic</title>
-      <link>https://gbhackers.com/amazon-cloud-cam-flaw/</link>
-      <description>Vulnerable Product: Amazon Cloud Cam; CVE(s): CVE-2025-6031; Summary: The Amazon Cloud Cam devices, which reached end-of-life (EOL) status in December 2022, contain a critical vulnerability that allows attackers to bypass SSL pinning during device pairing, enabling man-in-the-middle attacks and network traffic manipulation. This flaw enables credential harvesting, device spoofing, and network compromise, and no patches will be released for the EOL product.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142148</guid>
-      <pubDate>Fri, 13 Jun 2025 11:31:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acer Control Center Flaw Lets Attackers Run Malicious Code as Elevated User</title>
-      <link>https://gbhackers.com/acer-control-center-flaw/</link>
-      <description>Vulnerable Product: Acer ControlCenter; CVE(s): 2025-5491; Summary: A critical vulnerability in the ACCSvc.exe service allows remote attackers to execute arbitrary code with NT AUTHORITY\SYSTEM privileges via a misconfigured Windows Named Pipe. The issue stems from insecure permissions on the pipe exposed by the service, which can be exploited to deploy malware and perform lateral movement.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142147</guid>
-      <pubDate>Fri, 13 Jun 2025 11:06:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion</title>
-      <link>https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html</link>
-      <description>Vulnerable Product: SimpleHelp Remote Monitoring and Management (RMM); CVE(s): CVE-2024-57727, CVE-2024-57728, and CVE-2024-57726; Summary: Ransomware actors are targeting unpatched versions of SimpleHelp RMM instances to compromise customers of an unnamed utility billing software provider. The vulnerabilities can lead to information disclosure, privilege escalation, and remote code execution.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html</guid>
-      <pubDate>Fri, 13 Jun 2025 11:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Developers Beware – Sophisticated Phishing Scams Exploit GitHub Device Code Flow to Hijack Tokens</title>
-      <link>https://gbhackers.com/sophisticated-phishing-scams-exploit-github-device-code/</link>
-      <description>Vulnerable Product: GitHub; CVE(s): None; Summary: Attackers are exploiting GitHub's OAuth 2.0 Device Code Flow to trick developers into surrendering access to their code repositories and CI/CD pipelines, posing a substantial risk to intellectual property and facilitating large-scale supply chain attacks. The attack involves social engineering, generating device codes, and retrieving OAuth tokens, allowing attackers to exfiltrate private code, manipulate workflows, and initiate supply chain attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142082</guid>
-      <pubDate>Fri, 13 Jun 2025 10:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CTEM is the New SOC: Shifting from Monitoring Alerts to Measuring Risk</title>
-      <link>https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html</link>
-      <description>The article discusses the limitations of traditional Security Operations Centers (SOCs) in dealing with modern threats and proposes a new approach called Continuous Threat Exposure Management (CTEM). CTEMs shifts the focus from detecting alerts to managing risk by identifying critical assets, potential attack paths, and eliminating vulnerabilities.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html</guid>
-      <pubDate>Fri, 13 Jun 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HashiCorp Nomad ACL Lookup Flaw Allows Privilege Escalation</title>
-      <link>https://gbhackers.com/hashicorp-nomad-acl-lookup/</link>
-      <description>Vulnerable Product: HashiCorp Nomad; CVE(s): CVE-2025-4922; Summary: The Nomad workload orchestration tool contains a critical security flaw that allows attackers to bypass namespace restrictions and escalate privileges via improper ACL policy enforcement. This vulnerability enables privilege escalation, policy shadowing, and data exfiltration attacks with low complexity and high potential impact.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142113</guid>
-      <pubDate>Fri, 13 Jun 2025 10:27:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unpatched IT Tool Opens Door – Hackers Breach Billing Software Firm via SimpleHelp RMM</title>
-      <link>https://gbhackers.com/hackers-breach-billing-software-firm-via-simplehelp-rmm/</link>
-      <description>Vulnerable Product: SimpleHelp Remote Monitoring and Management (RMM) platform; CVE(s): CVE-2024-57727; Summary: The SimpleHelp RMM platform contains a path traversal vulnerability that allows attackers to access files or directories outside the intended web root, potentially exposing sensitive data or enabling further network compromises. The vulnerability has been exploited by ransomware actors since January 2025, targeting organizations with unpatched instances of SimpleHelp RMM versions 5.5.7 and earlier.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142072</guid>
-      <pubDate>Fri, 13 Jun 2025 10:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare: Outage not caused by security incident, data is safe</title>
-      <link>https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/</link>
-      <description>The article discusses a service outage experienced by Cloudflare, which lasted almost 2.5 hours and affected multiple edge computing and AI services. The root cause was a failure in the Workers KV underlying storage infrastructure due to an outage from a third-party cloud provider.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/</guid>
-      <pubDate>Fri, 13 Jun 2025 10:09:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Graphite Spyware Uses iOS Zero-Click Flaw to Target Journalists</title>
-      <link>https://gbhackers.com/graphite-spyware-uses-ios-zero-click-flaw-to-target-journalists/</link>
-      <description>Vulnerable Product: Apple iMessage; CVE(s): CVE-2025-43200; Summary: The vulnerability allowed for zero-click attacks on iPhones running iOS 18.2.1, exploiting a logic flaw in processing malicious iCloud links containing images/videos. The attack required no user interaction and was patched in iOS 18.3.1 (February 2025).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142112</guid>
-      <pubDate>Fri, 13 Jun 2025 10:03:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serverless Tokens in the Cloud: Exploitation and Detections</title>
-      <link>https://unit42.paloaltonetworks.com/serverless-authentication-cloud/</link>
-      <description>The article appears to be a technical analysis of serverless computing and its associated security implications. It discusses various cloud platforms, including AWS, Google Cloud, and Microsoft Azure, and highlights potential vulnerabilities and risks related to the use of serverless identities and tokens.
-
-The article provides detailed information on how attackers can exploit these credentials to access sensitive data or perform unauthorized actions within cloud environments. It also offers recommendations for securing serverless computing environments, such as implementing posture management and runtime monitoring protections, restricting access to IMDS, and using robust input validation and sanitization techniques.
-
-Overall, the article is informative and provides valuable insights into the security implications of serverless computing, but it does not specifically discuss a vulnerability in any product or service.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=143156</guid>
-      <pubDate>Fri, 13 Jun 2025 10:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fog Ransomware Uses Pentesting Tools to Steal Data and Launch Attacks</title>
-      <link>https://gbhackers.com/fog-ransomware-uses-pentesting-tools/</link>
-      <description>Fog ransomware attacks have been linked to the use of open-source penetration testing tools, such as GC2, Adaptix, and Stowaway, and legitimate employee monitoring software like Syteca. The attackers used these tools to conduct reconnaissance, establish persistence, and exfiltrate data before deploying Fog ransomware, marking a new trend in cybercrime.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142061</guid>
-      <pubDate>Fri, 13 Jun 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tycoon 2FA: An Evolving Phishing Kit Powering PhaaS Threats</title>
-      <link>https://socradar.io/tycoon-2fa-an-evolving-phishing-kit-phaas-threats/</link>
-      <description>Vulnerable Product: Tycoon 2FA; CVE(s): None; Summary: Tycoon 2FA is a Phishing-as-a-Service (PhaaS) kit that enables attackers to bypass Multi-Factor Authentication (MFA) by stealing session cookies. It uses a reverse proxy to insert itself between the victim and the legitimate service, allowing attackers to capture sensitive information during a seemingly normal login process. The kit has undergone regular updates since its emergence in 2023, introducing new tactics to evade detection and boost its effectiveness.
-
-FYSA: Tycoon 2FA is an active danger that continuously evolves, adapting to security measures and remaining a formidable tool for cybercriminals. Its ease of use, ability to evade security tools, and adaptability make it a popular choice for attackers.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060930</guid>
-      <pubDate>Fri, 13 Jun 2025 09:38:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>JSFireTruck Obfuscation Helps Cybercriminals Hijack Trusted Sites with Malicious JavaScript</title>
-      <link>https://gbhackers.com/jsfiretruck-obfuscation-helps-cybercriminals-hijack/</link>
-      <description>A sophisticated cyber attack campaign has been discovered, where threat actors compromise legitimate websites to inject obfuscated JavaScript code. This enables them to quietly redirect unsuspecting visitors to malicious sites capable of delivering malware or executing exploits. Over 200,000 webpages were compromised in just one month, underscoring the evolving tactics used by attackers to exploit trusted domains for nefarious purposes.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142051</guid>
-      <pubDate>Fri, 13 Jun 2025 09:18:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
