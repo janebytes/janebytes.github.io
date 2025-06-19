@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 19:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 20:02:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Godfather Android malware now uses virtualization to hijack banking apps</title>
+      <link>https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/</link>
+      <description>Vulnerable Product: Godfather Android Malware; CVE(s): None; Summary: The Godfather Android malware creates isolated virtual environments on mobile devices to steal account data and transactions from legitimate banking apps, using tactics such as intent spoofing, StubActivity, and API hooking. The malware displays a fake lock screen overlay to trick users into entering their PIN/passwords and can record account credentials, passwords, PINs, touch events, and capture responses from the banking backend.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/</guid>
+      <pubDate>Thu, 19 Jun 2025 19:54:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 100,000 WordPress Sites Exposed to Privilege Escalation via MCP AI Engine</title>
+      <link>https://gbhackers.com/over-100000-wordpress-sites-exposed/</link>
+      <description>Vulnerable Product: Jordy Meow AI Engine; CVE(s): CVE-2025-5071; Summary: The AI Engine plugin has a severe vulnerability allowing authenticated attackers with subscriber-level access or higher to gain full control over the Model Context Protocol (MCP) module, enabling privilege escalation and potentially complete site compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143132</guid>
+      <pubDate>Thu, 19 Jun 2025 19:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Deploy Malware Using Weaponized Calendly and Google Meet Links</title>
+      <link>https://gbhackers.com/north-korean-hackers-deploy-malware-using-weaponized-calendly/</link>
+      <description>TA444, a North Korean state-sponsored threat actor group, has launched a sophisticated malware campaign targeting cryptocurrency foundations. The attack leverages weaponized Calendly links, deceptive Google Meet invitations, and deepfakes to deliver malicious payloads designed for macOS systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143141</guid>
+      <pubDate>Thu, 19 Jun 2025 19:06:00 +0000</pubDate>
+    </item>
     <item>
       <title>Silver Fox APT Uses Weaponized Medical Software to Deploy Remote Access Tools and Disable AV</title>
       <link>https://gbhackers.com/silver-fox-apt-uses-weaponized-medical-software/</link>
@@ -1451,27 +1472,6 @@ Note: These vulnerabilities are not traditional software or hardware flaws but r
       <description>The article discusses the importance of transitioning from reactive cybersecurity services to ongoing strategic management aligned with business goals. It highlights the benefits for service providers and clients, including increased revenue, stronger resilience, and more predictable outcomes. The article also provides guidance on how service providers can scale their businesses by standardizing workflows, automating processes, and offering tiered services that align with client needs and maturity levels.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/playbook-transforming-your.html</guid>
       <pubDate>Mon, 16 Jun 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police seizes Archetyp Market drug marketplace, arrests admin</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/</link>
-      <description>Law enforcement authorities from six countries took down the Archetyp Market, a darknet drug marketplace that operated since May 2020. The market had over 612,000 users and a total transaction volume of over €250 million in Monero cryptocurrency transactions. As part of the joint action codenamed 'Operation Deep Sentinel', investigators seized assets worth €7.8 million from all suspects and arrested several individuals involved with the marketplace.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/</guid>
-      <pubDate>Mon, 16 Jun 2025 11:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Compromise Discord Invite to Inject Malicious Links Delivering AsyncRAT</title>
-      <link>https://gbhackers.com/hackers-compromise-discord-invite-to-inject-malicious-links/</link>
-      <description>Vulnerable Product: Discord; CVE(s): None; Summary: Threat actors have exploited Discord's invite system to distribute malicious links, ultimately delivering AsyncRAT and other harmful payloads. The attack begins with the manipulation of Discord invite links, using fake domains and social engineering tactics to compromise user accounts and steal sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142253</guid>
-      <pubDate>Mon, 16 Jun 2025 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GrayAlpha Hackers Group Exploits Browser Updates to Deploy PowerNet Loader and NetSupport RAT</title>
-      <link>https://gbhackers.com/grayalpha-hacker-group-exploits-browser-updates/</link>
-      <description>The article discusses GrayAlpha, a financially motivated threat actor group that overlaps with the FIN7 group. They use custom malware, including PowerNet and MaskBat loaders to decompress and execute NetSupport RAT. The group employs various infection vectors, including fake browser update pages, fraudulent 7-Zip download sites, and an undocumented TAG-124 traffic distribution system (TDS).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142240</guid>
-      <pubDate>Mon, 16 Jun 2025 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
