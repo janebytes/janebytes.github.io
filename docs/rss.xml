@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 15:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 16:01:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-409: RARLAB WinRAR Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-409/</link>
+      <description>Vulnerable Product: RARLAB WinRAR; CVE(s): CVE-2025-6218; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of RARLAB WinRAR, requiring user interaction. The specific flaw exists in the handling of file paths within archive files, allowing an attacker to traverse to unintended directories and execute code in the context of the current user.</description>
+      <guid isPermaLink="false">ZDI-CAN-27198</guid>
+      <pubDate>Thu, 19 Jun 2025 16:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-410: Allegra calculateTokenExpDate Password Recovery Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-410/</link>
+      <description>Vulnerable Product: Allegra; CVE(s): CVE-2025-6216; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Allegra, with no required user interaction. The issue stems from a predictable value used in generating a password reset token within the application's password recovery mechanism, allowing attackers to exploit it and bypass authentication.</description>
+      <guid isPermaLink="false">ZDI-CAN-27104</guid>
+      <pubDate>Thu, 19 Jun 2025 16:01:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s Sam Altman discusses GPT-5 release date</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/</link>
+      <description>This article does not discuss a vulnerability. It appears to be an update about OpenAI's next big upgrade to ChatGPT, including the potential release of GPT-5 and improvements to the Operator Agent.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/</guid>
+      <pubDate>Thu, 19 Jun 2025 15:43:06 +0000</pubDate>
+    </item>
     <item>
       <title>Israel-tied Predatory Sparrow hackers are waging cyberwar on Iran’s financial system</title>
       <link>https://arstechnica.com/information-technology/2025/06/israel-tied-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/</link>
@@ -1451,27 +1472,6 @@ Note: These vulnerabilities are not traditional software or hardware flaws but r
       <description>Threat actors are allegedly selling or leaking user data from high-profile companies across telecom, technology, and finance sectors, including Vodafone Egypt, SAP Israel, OKX, and T-Mobile US. The stolen data includes various types of personal information such as names, phone numbers, dates of birth, email addresses, and more.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100060986</guid>
       <pubDate>Mon, 16 Jun 2025 09:36:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: June Windows Server security updates cause DHCP issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/</link>
-      <description>Vulnerable Product: Microsoft Windows Server; CVE(s): None; Summary: The DHCP service on some Windows Server systems (2016, 2019, 2022, and 2025) freezes after installing the June 2025 security updates, preventing unicast IP address renewals. This issue affects IP renewal for clients and may intermittently stop responding.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/</guid>
-      <pubDate>Mon, 16 Jun 2025 09:35:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uncovering the Technique of Hiding Images in DNS TXT Entries</title>
-      <link>https://gbhackers.com/uncovering-hiding-images-in-dns-txt-entries/</link>
-      <description>The article discusses a novel technique of hiding images inside DNS TXT records by converting them into Base64-encoded text strings and splitting them into chunks. While this approach demonstrates the flexibility of DNS infrastructure, it is not without limitations, including size and rate limits, making it impractical for storing large images.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142243</guid>
-      <pubDate>Mon, 16 Jun 2025 07:29:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Suffers Major Disruption After API Management Error</title>
-      <link>https://gbhackers.com/google-cloud-suffers-major-disruption/</link>
-      <description>Google Cloud experienced an outage due to a critical error in its API management system, affecting millions of users and businesses worldwide. The incident was caused by an invalid automated quota update that propagated globally, causing 503 errors across various services. The recovery process was complicated by the scale of the failure, with some regions experiencing prolonged issues due to database overload.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142233</guid>
-      <pubDate>Mon, 16 Jun 2025 06:55:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
