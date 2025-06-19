@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 14:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 15:01:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Israel-tied Predatory Sparrow hackers are waging cyberwar on Iran’s financial system</title>
+      <link>https://arstechnica.com/information-technology/2025/06/israel-tied-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/</link>
+      <description>Vulnerable Product: None; Summary: Predatory Sparrow, a group believed to be linked to Israel's military or intelligence agencies, has been carrying out cyberattacks against Iran's critical infrastructure, including railways and gas stations. The group's recent attack on the Khouzestan steel mill caused significant physical damage. It is unclear why they have turned their attention to Iran's financial sector, but experts warn that this development may lead to more serious consequences.</description>
+      <guid isPermaLink="true">https://arstechnica.com/information-technology/2025/06/israel-tied-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/</guid>
+      <pubDate>Thu, 19 Jun 2025 14:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>US recovers $225 million of crypto stolen in investment scams</title>
+      <link>https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/</link>
+      <description>The U.S. Department of Justice has seized over $225 million in cryptocurrency linked to investment fraud and money laundering operations, the largest crypto seizure in the history of the U.S. Secret Service. The funds were traced using blockchain analysis and were laundered through a complex network of cryptocurrency addresses to obscure their origin.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/</guid>
+      <pubDate>Thu, 19 Jun 2025 14:33:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Special Webinar: Key Insights from Verizon’s 2025 DBIR</title>
+      <link>https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/</link>
+      <description>The article discusses the Verizon Data Breach Investigations Report (DBIR) 2025, which highlights critical trends in cybersecurity, including rising GenAI-related risks, credential theft, and vulnerabilities from third-party partners. It also emphasizes the need for enterprises to adopt an updated, integrated approach to cybersecurity and provides insights on how to strengthen security posture.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/</guid>
+      <pubDate>Thu, 19 Jun 2025 14:04:50 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft unveils new security defaults for Windows 365 Cloud PCs</title>
       <link>https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/</link>
@@ -1451,31 +1472,6 @@ Note: These vulnerabilities are not traditional software or hardware flaws but r
       <description>Google Cloud experienced an outage due to a critical error in its API management system, affecting millions of users and businesses worldwide. The incident was caused by an invalid automated quota update that propagated globally, causing 503 errors across various services. The recovery process was complicated by the scale of the failure, with some regions experiencing prolonged issues due to database overload.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142233</guid>
       <pubDate>Mon, 16 Jun 2025 06:55:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data</title>
-      <link>https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html</link>
-      <description>Vulnerable Product: chimera-sandbox-extensions; CVE(s): None; Summary: A malicious package named chimera-sandbox-extensions was discovered on PyPI, which masquerades as a helper module for Chimera Sandbox. The package can steal sensitive information such as credentials, configuration data, and environment variables from infected machines, and sends the gathered data to an external domain.
-
-FYSA: Malicious packages on npm and PyPI have been identified, capable of executing remote code and downloading additional payloads. These packages, including eslint-config-airbnb-compat, ts-runtime-compat-check, solder, and @mediawave/lib, have been taken down from their respective package registries. Additionally, credential stealers, cryptocurrency drainers, cryptojackers, and clippers are targeting the cryptocurrency and blockchain development ecosystem.
-
-(Note: The article does not contain any other cybersecurity-relevant content besides the vulnerabilities mentioned above.)</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html</guid>
-      <pubDate>Mon, 16 Jun 2025 06:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM Backup Services Flaw Allows Hackers to Gain Elevated Access</title>
-      <link>https://gbhackers.com/ibm-backup-services-flaw/</link>
-      <description>Vulnerable Product: IBM Backup, Recovery, and Media Services for i; CVE(s): CVE-2025-33108; Summary: A critical security vulnerability in IBM's BRMS software allows users with limited privileges to execute arbitrary code with elevated system access, potentially compromising the entire host operating system. The flaw arises from an unqualified library call within the software, allowing malicious actors to redirect calls to their own code.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142226</guid>
-      <pubDate>Mon, 16 Jun 2025 06:43:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>KIA Ecuador Keyless Entry Systems Vulnerability Faces Major Theft Threat</title>
-      <link>https://gbhackers.com/kia-ecuador-keyless-entry-systems-vulnerability/</link>
-      <description>Vulnerable Product: KIA; CVE(s): CVE-2025-6029; Summary: The keyless entry systems (KES) used in Kia vehicles across Ecuador are vulnerable to theft due to outdated "learning code" technology. Attackers can intercept and replay the fixed code transmitted by aftermarket key fobs, granting unauthorized access to the vehicle. The vulnerability has a CVSS score of 9.4, classified as "critical".</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142218</guid>
-      <pubDate>Mon, 16 Jun 2025 06:30:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
