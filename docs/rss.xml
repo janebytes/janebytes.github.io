@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 11:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 12:02:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Telecom giant Viasat breached by China's Salt Typhoon hackers</title>
+      <link>https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/</link>
+      <description>The article reports that satellite communications company Viasat has been breached by China's Salt Typhoon state hackers. The breach occurred earlier this year and was discovered when a compromised device was found to have unauthorized access. Viasat claims the incident has been remediated and no customer impact was detected.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/</guid>
+      <pubDate>Thu, 19 Jun 2025 11:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Viasat Targeted in Cyberattack by Salt Typhoon APT Group</title>
+      <link>https://gbhackers.com/viasat-targeted-in-cyberattack/</link>
+      <description>A Chinese state-sponsored group known as Salt Typhoon has been linked to a sweeping cyberespionage campaign that compromised major telecommunications firms, including Viasat Inc., Verizon, AT&amp;T, and Lumen Technologies. The campaign targeted phone records, including those of then-presidential candidate Donald Trump and members of both major campaigns, and highlights the growing threat posed by advanced persistent threat (APT) actors targeting critical American infrastructure.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143058</guid>
+      <pubDate>Thu, 19 Jun 2025 11:46:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Golden SAML Attack: How Attackers Gain Control of Federation Server’s Private Key</title>
+      <link>https://gbhackers.com/how-attackers-gain-control-of-federation-servers-private-key/</link>
+      <description>The Golden SAML attack is a sophisticated threat that exploits the trust mechanisms of Security Assertion Markup Language (SAML) authentication to compromise every account within an organization by forging authentic-looking tokens. This attack targets the private key of federation servers, allowing attackers to impersonate any user and bypass security controls with stealth and precision.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143034</guid>
+      <pubDate>Thu, 19 Jun 2025 11:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Ransomware Rises as Major Threat, Demanding $50M in Ransom</title>
+      <link>https://gbhackers.com/qilin-ransomware-rises-as-major-threat/</link>
+      <description>The Qilin ransomware group has surged to the forefront of digital extortion, demanding ransoms as high as $50 million and disrupting critical services worldwide. With a robust Ransomware-as-a-Service (RaaS) platform, recruiting affiliates through Russian-language forums, and offering lucrative revenue shares, Qilin has amassed over $50 million in ransom payments in 2024 alone.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143050</guid>
+      <pubDate>Thu, 19 Jun 2025 11:34:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actor Exploit GitHub and Hosted 60 GitHub Repositories with 100s of Malware</title>
+      <link>https://gbhackers.com/threat-actor-exploit-github-and-hosted-60-github-repositories/</link>
+      <description>Vulnerable Product: GitHub; CVE(s): None; Summary: Banana Squad exploited GitHub by hosting over 60 malicious repositories containing hundreds of trojanized Python files. The repositories used advanced evasion techniques to hide harmful content, making it nearly undetectable to casual inspection. All 67 repositories have been removed by GitHub, but the potential impact remains unclear.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143003</guid>
+      <pubDate>Thu, 19 Jun 2025 11:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sophisticated Phishing Attack Uses ASP Pages to Target Prominent Russia Critics – Google</title>
       <link>https://gbhackers.com/sophisticated-phishing-attack-uses-asp-pages/</link>
@@ -1441,45 +1476,6 @@ FYSA: Malicious packages on npm and PyPI have been identified, capable of execut
       <description>Vulnerable Product: Discord; CVE(s): None; Summary: Hackers are hijacking expired or deleted Discord invite links to redirect users to malicious sites that deliver remote access trojans and information-stealing malware. The campaign relies on a flaw in the Discord invitation system, allowing attackers to reuse expired temporary invite codes and deleted permanent invite codes.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/</guid>
       <pubDate>Fri, 13 Jun 2025 16:10:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kali Linux 2025.2 Released: New Tools, Smartwatch and Car Hacking Added</title>
-      <link>https://gbhackers.com/kali-linux-2025-2/</link>
-      <description>Kali Linux has released its second major update of 2025, Kali Linux 2025.2, which includes a restructured menu organized according to the MITRE ATT&amp;CK framework, upgraded desktop environments, and new tools such as smartwatch Wi-Fi injection and car hacking toolset. The update also enhances Active Directory reconnaissance with BloodHound Community Edition and adds 13 new tools to its network repositories.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142196</guid>
-      <pubDate>Fri, 13 Jun 2025 15:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arsen Launches AI-Powered Vishing Simulation to Help Organizations Combat Voice Phishing at Scale</title>
-      <link>https://gbhackers.com/arsen-launches-ai-powered-vishing-simulation-to-help-organizations-combat-voice-phishing-at-scale/</link>
-      <description>Arsen, a cybersecurity startup, has released a new Vishing Simulation module to train employees against voice phishing (vishing) attacks. The AI-powered tool simulates realistic phone-based social engineering attacks, adapting dynamically to employee responses and handling objections or hesitation with lifelike dialogue. The module is designed to help organizations identify risk exposure and train employees to respond confidently and securely in real-time.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142186</guid>
-      <pubDate>Fri, 13 Jun 2025 14:19:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month</title>
-      <link>https://thehackernews.com/2025/06/over-269000-websites-infected-with.html</link>
-      <description>Cybersecurity researchers have observed a large-scale campaign compromising legitimate websites with malicious JavaScript injections using the "JSFireTruck" technique, which obfuscates code using only a limited set of characters. The injected code redirects victims to malicious URLs that can deliver malware, exploits, or malvertising if they come from specific search engines.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/over-269000-websites-infected-with.html</guid>
-      <pubDate>Fri, 13 Jun 2025 14:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trend Micro Fixes Critical RCE Bugs in Apex Central &amp; TMEE PolicyServer</title>
-      <link>https://socradar.io/trend-micro-fixes-rce-apex-central-tmee-policyserver/</link>
-      <description>Vulnerable Product: Trend Micro Apex Central; CVE(s): CVE-2025-49219, CVE-2025-49220; Summary: Two critical Remote Code Execution (RCE) vulnerabilities were found in Trend Micro Apex Central (on-premise 2019 and SaaS versions), allowing unauthenticated RCE with a CVSS score of 9.8, posing a severe risk to enterprise environments.
-
-Vulnerable Product: Trend Micro Endpoint Encryption PolicyServer; CVE(s): CVE-2025-49212, CVE-2025-49213, CVE-2025-49216, CVE-2025-49214, CVE-2025-49211, CVE-2025-49215, CVE-2025-49218; Summary: Eight vulnerabilities were found in Trend Micro Endpoint Encryption PolicyServer versions prior to 6.0.0.4013, including four critical RCE bugs and an authentication bypass issue, with a CVSS score of 9.8, enabling attackers to gain admin-level control or escalate privileges.
-
-FYSA: None</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100060973</guid>
-      <pubDate>Fri, 13 Jun 2025 13:49:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>NIST Releases New Guide – 19 Strategies for Building Zero Trust Architectures</title>
-      <link>https://gbhackers.com/nist-releases-new-guide/</link>
-      <description>The National Institute of Standards and Technology (NIST) has released guidance for implementing Zero Trust Architectures (ZTAs), providing 19 real-world implementation models, technical configurations, and best practices developed through a four-year collaboration with 24 industry partners. This guide helps organizations implement ZTAs using commercially available technologies, eliminating implicit trust by continuously verifying every access request through policy engines and dynamic authentication mechanisms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142174</guid>
-      <pubDate>Fri, 13 Jun 2025 13:22:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
