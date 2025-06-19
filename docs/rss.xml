@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 18:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 19:02:44 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Silver Fox APT Uses Weaponized Medical Software to Deploy Remote Access Tools and Disable AV</title>
+      <link>https://gbhackers.com/silver-fox-apt-uses-weaponized-medical-software/</link>
+      <description>The article discusses the China-based advanced persistent threat (APT) group Silver Fox's multi-stage campaign targeting healthcare delivery organizations (HDOs) and public sector entities. The campaign uses trojanized medical software, cloud infrastructure, and a custom remote access trojan (RAT) to deploy cyber espionage and data theft operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143124</guid>
+      <pubDate>Thu, 19 Jun 2025 18:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gamers Targeted! Fake Minecraft Mods Enable Attackers to Take Control of Your System</title>
+      <link>https://gbhackers.com/fake-minecraft-mods-enable-attackers-to-take-control/</link>
+      <description>Vulnerable Product: Minecraft; CVE(s): None; Summary: A malicious campaign targeting Minecraft users has been discovered, using a Distribution as a Service (DaaS) platform to distribute malware disguised as legitimate mods. The malware initiates a multi-stage attack chain designed to steal sensitive data and compromise systems, exploiting the trust of gamers seeking to enhance their gaming experience.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143113</guid>
+      <pubDate>Thu, 19 Jun 2025 18:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft</title>
+      <link>https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html</link>
+      <description>AntiDot is a financially motivated Android malware sold as a Malware-as-a-Service (MaaS) on underground forums, compromising over 3,775 devices across 273 unique campaigns. It features capabilities to record device screens, intercept SMS messages, extract sensitive data, conduct overlay attacks, and remotely control infected devices.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html</guid>
+      <pubDate>Thu, 19 Jun 2025 17:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>Webinar: Stolen credentials are the new front door to your network</title>
       <link>https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/</link>
@@ -1451,27 +1472,6 @@ Note: These vulnerabilities are not traditional software or hardware flaws but r
       <description>The article discusses GrayAlpha, a financially motivated threat actor group that overlaps with the FIN7 group. They use custom malware, including PowerNet and MaskBat loaders to decompress and execute NetSupport RAT. The group employs various infection vectors, including fake browser update pages, fraudulent 7-Zip download sites, and an undocumented TAG-124 traffic distribution system (TDS).</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142240</guid>
       <pubDate>Mon, 16 Jun 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 20 Malicious Google Play Apps Steal Users’ Login Credentials</title>
-      <link>https://gbhackers.com/malicious-google-play-apps-steal-users-login-credentials/</link>
-      <description>Malicious Android apps impersonating cryptocurrency wallets were found on the Google Play Store, designed to steal login credentials. The apps prompt users to enter sensitive information, which is then transmitted to attackers, allowing them to drain victims' wallets.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142263</guid>
-      <pubDate>Mon, 16 Jun 2025 09:51:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Purview DLP Now Controls Copilot’s Access to Sensitive Email Data</title>
-      <link>https://gbhackers.com/microsoft-purview-dlp-now-controls-copilots-access/</link>
-      <description>Microsoft is enhancing data security in Microsoft 365 by extending Purview Data Loss Prevention (DLP) controls to Copilot's handling of sensitive email data. Starting January 1, 2025, DLP policies will detect sensitivity labels in emails and restrict Copilot from processing them, ensuring that sensitive information remains protected.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142268</guid>
-      <pubDate>Mon, 16 Jun 2025 09:48:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anubis Ransomware Introduces Irreversible File Destruction Feature</title>
-      <link>https://gbhackers.com/anubis-ransomware-introduces-irreversible-file/</link>
-      <description>Anubis is a Ransomware-as-a-Service (RaaS) operation that combines traditional file encryption with a destructive "wipe mode" feature, permanently erasing file contents. It targets industries like healthcare and construction across regions using sophisticated attack chains, including spear-phishing and command-line execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142215</guid>
-      <pubDate>Mon, 16 Jun 2025 09:48:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
