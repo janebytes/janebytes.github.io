@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 12:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 13:04:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Krispy Kreme Data Breach Exposes Customer Personal Information</title>
+      <link>https://gbhackers.com/krispy-kreme-data-breach/</link>
+      <description>A ransomware attack on Krispy Kreme Doughnut Corporation's information technology systems exposed the personal information of over 160,000 individuals. The attackers claimed to have stolen 184 GB of sensitive data, including personal and financial information, client documents, payroll, and accounting records.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143073</guid>
+      <pubDate>Thu, 19 Jun 2025 12:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Spyware SpyNote Masquerading as Google Translate Found in Open Directories</title>
+      <link>https://gbhackers.com/android-spyware-spynote-masquerading-as-google-translate/</link>
+      <description>The article discusses the discovery of multiple SpyNote spyware samples in open directories across the internet, which can be disguised as legitimate Android applications. These malware files harvest sensitive data from unsuspecting users by exploiting accessibility services and device administrator privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143069</guid>
+      <pubDate>Thu, 19 Jun 2025 12:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use VBScript Files to Deploy Masslogger Credential Stealer Malware</title>
+      <link>https://gbhackers.com/hackers-use-vbscript-files-to-deploy-masslogger/</link>
+      <description>The article discusses a sophisticated variant of the Masslogger credential stealer malware that spreads through VBScript Encoded (.VBE) files. It uses evasive techniques such as fileless malware, heavy registry exploitation, and multi-stage execution to evade detection by traditional antivirus and signature-based methods.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143042</guid>
+      <pubDate>Thu, 19 Jun 2025 12:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DuckDuckGo beefs up scam defense to block fake stores, crypto sites</title>
+      <link>https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/</link>
+      <description>DuckDuckGo's Scam Blocker tool has been updated to protect against a broader range of online scams, including fake e-commerce, cryptocurrency exchanges, and "scareware" sites. The tool blocks known malware distribution and phishing URLs by default, and users can opt-in for additional protection across other internet apps when using the DuckDuckGo VPN.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/</guid>
+      <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Telecom giant Viasat breached by China's Salt Typhoon hackers</title>
       <link>https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/</link>
@@ -23,6 +51,13 @@
       <pubDate>Thu, 19 Jun 2025 11:46:09 +0000</pubDate>
     </item>
     <item>
+      <title>BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with MacOS Backdoor Malware</title>
+      <link>https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html</link>
+      <description>BlueNoroff threat actor targets employee with deepfaked company executives in deceptive Zoom calls to trick them into installing malware on their Apple macOS devices. The attack involves the use of Calendly link, fake Zoom domain, and AppleScript that downloads next-stage payload and executes shell script, ultimately leading to the installation of eight distinct malicious binaries.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html</guid>
+      <pubDate>Thu, 19 Jun 2025 11:38:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Golden SAML Attack: How Attackers Gain Control of Federation Server’s Private Key</title>
       <link>https://gbhackers.com/how-attackers-gain-control-of-federation-servers-private-key/</link>
       <description>The Golden SAML attack is a sophisticated threat that exploits the trust mechanisms of Security Assertion Markup Language (SAML) authentication to compromise every account within an organization by forging authentic-looking tokens. This attack targets the private key of federation servers, allowing attackers to impersonate any user and bypass security controls with stealth and precision.</description>
@@ -35,6 +70,13 @@
       <description>The Qilin ransomware group has surged to the forefront of digital extortion, demanding ransoms as high as $50 million and disrupting critical services worldwide. With a robust Ransomware-as-a-Service (RaaS) platform, recruiting affiliates through Russian-language forums, and offering lucrative revenue shares, Qilin has amassed over $50 million in ransom payments in 2024 alone.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143050</guid>
       <pubDate>Thu, 19 Jun 2025 11:34:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secure Vibe Coding: The Complete New Guide</title>
+      <link>https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html</link>
+      <description>Vulnerable Product: Vibe Coding; CVE(s): None; Summary: Vibe coding, the use of natural language to generate software with AI, introduces "silent killer" vulnerabilities that evade traditional security tools. These exploitable flaws are created when AI generates code without explicit prompting for security features, leading to insecure patterns and functions that can be exploited in production environments.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html</guid>
+      <pubDate>Thu, 19 Jun 2025 11:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actor Exploit GitHub and Hosted 60 GitHub Repositories with 100s of Malware</title>
@@ -1434,48 +1476,6 @@ FYSA: Malicious packages on npm and PyPI have been identified, capable of execut
       <description>WestJet is investigating a cybersecurity incident that has disrupted access to some internal systems and the WestJet app, with users unable to log in. The extent of the breach and its cause are unclear, but the company's operation continues to run safely.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/</guid>
       <pubDate>Sat, 14 Jun 2025 17:34:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anubis ransomware adds wiper to destroy files beyond recovery</title>
-      <link>https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/</link>
-      <description>Vulnerable Product: Anubis Ransomware; CVE(s): None; Summary: The Anubis ransomware-as-a-service (RaaS) operation has added a wiper module that destroys targeted files, making recovery impossible even if the ransom is paid. The wiper erases all file contents, reducing their sizes to 0 KB while keeping the filenames and structure intact.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/</guid>
-      <pubDate>Sat, 14 Jun 2025 14:29:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 users want these five features back</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/</link>
-      <description>There are no cybersecurity-relevant topics or vulnerabilities discussed in this article. The article is focused on user feedback and feature requests for the Windows 11 operating system.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/</guid>
-      <pubDate>Sat, 14 Jun 2025 14:12:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets</title>
-      <link>https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html</link>
-      <description>Vulnerable Product: Discord; CVE(s): None; Summary: A vulnerability in Discord's invitation system allows attackers to hijack expired or deleted invite links and silently redirect unsuspecting users to malicious servers. The issue enables attackers to reuse custom vanity invite links, allowing them to claim previously expired or deleted permanent invite codes for their own malicious servers.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html</guid>
-      <pubDate>Sat, 14 Jun 2025 02:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-380: Trend Micro Maximum Security Platinum Host Service Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-380/</link>
-      <description>Vulnerable Product: Trend Micro Maximum Security Platinum Host Service; CVE(s): CVE-2025-49385, ZDI-CAN-25877, ZDI-25-380; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Maximum Security by creating a symbolic link within the Platinum Host Service. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability, which can be used to delete files and execute arbitrary code as SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25877</guid>
-      <pubDate>Fri, 13 Jun 2025 19:01:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google links massive cloud outage to API management issue</title>
-      <link>https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/</link>
-      <description>The article discusses a service outage that affected Google Cloud and various third-party platforms. The root cause was an API management issue due to invalid data, which caused 503 errors in external API requests. The impact was widespread, with many services disrupted or brought down for over three hours.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/</guid>
-      <pubDate>Fri, 13 Jun 2025 17:39:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discord flaw lets hackers reuse expired invites in malware campaign</title>
-      <link>https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/</link>
-      <description>Vulnerable Product: Discord; CVE(s): None; Summary: Hackers are hijacking expired or deleted Discord invite links to redirect users to malicious sites that deliver remote access trojans and information-stealing malware. The campaign relies on a flaw in the Discord invitation system, allowing attackers to reuse expired temporary invite codes and deleted permanent invite codes.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/</guid>
-      <pubDate>Fri, 13 Jun 2025 16:10:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
