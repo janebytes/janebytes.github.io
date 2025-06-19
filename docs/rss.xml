@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 13:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 14:02:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft unveils new security defaults for Windows 365 Cloud PCs</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/</link>
+      <description>Microsoft has announced new security defaults for Windows 365 Cloud PCs, including disabling clipboard, drive, USB, and printer redirections by default to reduce risks of data theft and block malware attacks. Additionally, the company will start blocking access to SharePoint, OneDrive, and Office files via legacy authentication protocols in July.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/</guid>
+      <pubDate>Thu, 19 Jun 2025 13:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>jQuery Migrate Library Compromised to Steal Logins via Parrot Traffic Direction System</title>
+      <link>https://gbhackers.com/jquery-migrate-library-compromised-to-steal-logins/</link>
+      <description>Vulnerable Product: jQuery Migrate; CVE(s): None; Summary: A weaponized version of the jQuery Migrate library was used in a sophisticated malware campaign that exploited the trust in the library. The attack delivered a malicious script through a compromised Middle Eastern business website, which stole sensitive data, logged keystrokes, and deployed additional threats such as cryptocurrency miners or click-fraud scripts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143096</guid>
+      <pubDate>Thu, 19 Jun 2025 13:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT will analyze Gmail emails, manage schedule on Google Calendar</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/</link>
+      <description>This article does not discuss a vulnerability, but rather mentions the testing of integration features between ChatGPT and Gmail/Google Calendar. The feature will allow users to summarize emails and create events, and may be tied to the ChatGPT Search feature.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/</guid>
+      <pubDate>Thu, 19 Jun 2025 13:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Deploy Amatera Stealer Using Advanced Web Injection and Anti-Analysis Techniques</title>
+      <link>https://gbhackers.com/hackers-deploy-amatera-stealer-using-advanced-web-injection/</link>
+      <description>Amatera Stealer is a rebranded information stealer malware that exhibits advanced features and stealth mechanisms. It is distributed through web injection campaigns, software cracks, and fake downloads, and can steal sensitive data from browsers, cryptocurrency wallets, email clients, and messaging apps.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143084</guid>
+      <pubDate>Thu, 19 Jun 2025 13:29:17 +0000</pubDate>
+    </item>
     <item>
       <title>Krispy Kreme Data Breach Exposes Customer Personal Information</title>
       <link>https://gbhackers.com/krispy-kreme-data-breach/</link>
@@ -1448,34 +1476,6 @@ FYSA: Malicious packages on npm and PyPI have been identified, capable of execut
       <description>Vulnerable Product: KIA; CVE(s): CVE-2025-6029; Summary: The keyless entry systems (KES) used in Kia vehicles across Ecuador are vulnerable to theft due to outdated "learning code" technology. Attackers can intercept and replay the fixed code transmitted by aftermarket key fobs, granting unauthorized access to the vehicle. The vulnerability has a CVSS score of 9.4, classified as "critical".</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142218</guid>
       <pubDate>Mon, 16 Jun 2025 06:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT's AI coder Codex now lets you choose the best solution</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/</link>
-      <description>The article discusses updates and new features in OpenAI's Codex, an AI agent that assists with coding tasks. Notably, Codex can now generate multiple responses simultaneously for a single task, allowing users to explore different solutions and pick the best approach. Additionally, keyboard shortcuts and a page to explore them have been added, along with other updates such as improved network access restrictions handling and increased setup script duration limits for Pro, Team, and Business users.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/</guid>
-      <pubDate>Sun, 15 Jun 2025 19:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Search gets an upgrade as OpenAI takes aim at Google</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/</link>
-      <description>The article discusses OpenAI's updates to its ChatGPT Search, including improved quality and comprehensive responses. It also mentions the company's efforts to improve the AI model's ability to follow instructions and reduce repetitive responses. Additionally, the article touches on Tines' guide to modern IT automation and some other unrelated news about ChatGPT.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/</guid>
-      <pubDate>Sun, 15 Jun 2025 15:53:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 46,000 Grafana instances exposed to account takeover bug</title>
-      <link>https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/</link>
-      <description>Vulnerable Product: Grafana; CVE(s): CVE-2025-4123; Summary: The open-source platform Grafana has a client-side open redirect vulnerability that allows executing malicious plugins and account takeover. The vulnerability was discovered by Alvaro Balada and patched in security updates released on May 21, but more than a third of all instances reachable over the public internet remain unpatched.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/</guid>
-      <pubDate>Sun, 15 Jun 2025 14:07:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>WestJet investigates cyberattack disrupting internal systems</title>
-      <link>https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/</link>
-      <description>WestJet is investigating a cybersecurity incident that has disrupted access to some internal systems and the WestJet app, with users unable to log in. The extent of the breach and its cause are unclear, but the company's operation continues to run safely.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/</guid>
-      <pubDate>Sat, 14 Jun 2025 17:34:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
