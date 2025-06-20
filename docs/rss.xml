@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 15:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 16:01:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider</title>
+      <link>https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/</link>
+      <description>Cloudflare mitigated a record-breaking distributed denial of service (DDoS) attack in May 2025 that peaked at 7.3 Tbps, targeting a hosting provider. The attack used multiple vectors, including UDP floods, QOTD reflection, Echo reflection, NTP amplification, Mirai botnet UDP flood, Portmap flood, and RIPv1 amplification, each exploiting legacy or poorly configured services.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/</guid>
+      <pubDate>Fri, 20 Jun 2025 15:54:10 +0000</pubDate>
+    </item>
     <item>
       <title>Aflac discloses breach amidst Scattered Spider insurance attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/</link>
@@ -1459,13 +1466,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>DeerStealer malware is being deployed using HijackLoader malware loader, designed to harvest sensitive data including cryptocurrency wallets, browser credentials, VPN details, and instant messenger information. The initial access method, ClickFix, manipulates victims into executing a malicious PowerShell command, setting off a complex attack chain that ultimately delivers DeerStealer as the final payload.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142438</guid>
       <pubDate>Tue, 17 Jun 2025 06:38:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache Tomcat Flaws Allow Auth Bypass and DoS Attacks</title>
-      <link>https://gbhackers.com/apache-tomcat-flaws/</link>
-      <description>Vulnerable Product: Apache Software Foundation Apache Tomcat; CVE(s): CVE-2025-48976, CVE-2025-48988, CVE-2025-49124, CVE-2025-49125; Summary: Four newly discovered vulnerabilities in Apache Tomcat allow for denial-of-service attacks, privilege escalation, installer abuse, and authentication bypass. The flaws affect versions 9.0, 10.1, and 11.0, and administrators are strongly advised to upgrade to patch the issues.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142439</guid>
-      <pubDate>Tue, 17 Jun 2025 06:03:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
