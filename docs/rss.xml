@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 10:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 11:04:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>GodFather Android Malware Uses On-Device Virtualization to Hijack Legitimate Banking Apps</title>
+      <link>https://gbhackers.com/godfather-android-malware-uses-on-device-virtualization/</link>
+      <description>The GodFather Android banking malware creates a fully isolated virtual environment on the victim's device, enabling attackers to monitor and manipulate user interactions in real-time. It employs a malicious "host" application that downloads and runs a copy of the targeted app within a controlled sandbox, capturing credentials and sensitive information with precision.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143210</guid>
+      <pubDate>Fri, 20 Jun 2025 10:38:57 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-411: Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-411/</link>
@@ -30,6 +37,27 @@
       <pubDate>Fri, 20 Jun 2025 10:04:17 +0000</pubDate>
     </item>
     <item>
+      <title>Resurgence of the Prometei Botnet</title>
+      <link>https://unit42.paloaltonetworks.com/prometei-botnet-2025-activity/</link>
+      <description>Vulnerable Product: Prometei Linux Botnet; CVE(s): None; Summary: The Prometei malware family, which includes both Linux and Windows variants, allows attackers to remotely control compromised systems for cryptocurrency mining (particularly Monero) and credential theft. The latest versions feature a backdoor that enables a variety of malicious activities, including brute-forcing administrator credentials, exploiting vulnerabilities, and self-updating features for stealth and evasion.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=143713</guid>
+      <pubDate>Fri, 20 Jun 2025 10:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Steps to 24/7 In-House SOC Success</title>
+      <link>https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html</link>
+      <description>Threat actors often target businesses during off-hours when security personnel are fewer or not present. A 24/7 Security Operations Center (SOC) can provide real-time threat detection and resolution, but requires a perfect balance of proven processes, advanced tools, and skilled professionals.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html</guid>
+      <pubDate>Fri, 20 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider</title>
+      <link>https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html</link>
+      <description>Cloudflare reported blocking a 7.3 Tbps DDoS attack, targeting an unnamed hosting provider, which used a combination of UDP flood, QOTD reflection attack, echo reflection attack, NTP reflection attack, Mirai UDP flood attack, portmap flood, and RIPv1 amplification attack. The attack originated from over 122,145 source IP addresses across 161 countries, with the largest portions coming from Brazil, Vietnam, Taiwan, China, Indonesia, Ukraine, Ecuador, Thailand, the United States, and Saudi Arabia.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html</guid>
+      <pubDate>Fri, 20 Jun 2025 09:36:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft Introduces Enhanced Security Defaults for Windows 365 Cloud PCs</title>
       <link>https://gbhackers.com/microsoft-introduces-enhanced-security-defaults-for-windows-365/</link>
       <description>Microsoft is introducing new secure-by-default capabilities for Windows 365 Cloud PCs to fortify virtual desktop environments against modern cyber threats. The update includes default disabling of device redirections (clipboard, drive, USB, and printer) and enabling advanced security controls such as virtualization-based security, Credential Guard, and hypervisor-protected code integrity.</description>
@@ -42,6 +70,15 @@
       <description>Vulnerable Product: Dover Fueling Solutions' ProGauge MagLink LX consoles; CVE(s): CVE-2025-5310; Summary: The vulnerability, tracked as CVE-2025-5310, allows remote attackers to seize control of fueling operations, manipulate tank monitoring, and deploy malware, posing a severe risk to transportation systems worldwide.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143199</guid>
       <pubDate>Fri, 20 Jun 2025 09:04:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>16 Billion Passwords Stolen From 320 Million+ Computers Leaked Online</title>
+      <link>https://gbhackers.com/16-billion-passwords-stolen-from-320-million-computers-leaked-online/</link>
+      <description>A massive data breach has exposed approximately 16 billion login credentials, usernames, and passwords across various platforms, including Apple, Facebook, Google, Instagram, Telegram, GitHub, and government services. The compromised data can be used for account takeover, identity theft, targeted phishing attacks, and ransomware attacks.
+
+FYSA: Cybercriminals have gained access to a massive dataset of login records, which can be exploited for account takeovers, identity theft, and targeted phishing attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143181</guid>
+      <pubDate>Fri, 20 Jun 2025 07:58:26 +0000</pubDate>
     </item>
     <item>
       <title>IBM QRadar SIEM Bug Lets Attackers Run Arbitrary Commands</title>
@@ -1427,41 +1464,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>North Korean IT workers used fake identities and AI tools like OpenAI ChatGPT to bypass due diligence checks and secure freelance jobs at U.S. cryptocurrency companies. They laundered ill-gotten gains through Sim, a North Korean Foreign Trade Bank representative, to further Pyongyang's strategic objectives in violation of sanctions.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html</guid>
       <pubDate>Mon, 16 Jun 2025 17:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Washington Post's email system hacked, journalists' accounts compromised</title>
-      <link>https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/</link>
-      <description>The email accounts of several Washington Post journalists were compromised in a suspected foreign government- sponsored attack, targeting journalists writing about national security and economic policy topics, as well as some who write about China. Advanced persistent threats (APTs) are believed to be behind the attack, which is reminiscent of previous attacks on Microsoft Exchange systems by Chinese hackers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/</guid>
-      <pubDate>Mon, 16 Jun 2025 15:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment</title>
-      <link>https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html</link>
-      <description>An emerging ransomware strain named Anubis has been discovered that can encrypt files and permanently erase them, allowing recovery attempts to be impossible. The ransomware features a "wipe mode" that erases files, making recovery even if the ransom is paid impossible.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html</guid>
-      <pubDate>Mon, 16 Jun 2025 14:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kali Linux 2025.2 released with 13 new tools, car hacking updates</title>
-      <link>https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/</link>
-      <description>Kali Linux 2025.2 has been released, featuring new tools and updates to the car hacking toolkit, including a renamed CAN Arsenal (now CARsenal) and additional hacking tools such as hlcand, VIN Info, CaringCaribou, ICSim, and more. The Kali Menu has also been reorganized to align with the MITRE ATT&amp;CK framework.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/</guid>
-      <pubDate>Mon, 16 Jun 2025 14:18:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoomcar discloses security breach impacting 8.4 million users</title>
-      <link>https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/</link>
-      <description>Unauthorized access to Zoomcar's system led to a data breach impacting 8.4 million users, exposing sensitive data including full name, phone number, car registration number, home address, and email address. The company is still evaluating the exact scope and potential impact of the security incident.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/</guid>
-      <pubDate>Mon, 16 Jun 2025 14:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target and Hijack Washington Post Journalists’ Email Accounts</title>
-      <link>https://gbhackers.com/hackers-target-washington-post-journalists-email-accounts/</link>
-      <description>A targeted cyberattack has struck The Washington Post, compromising email accounts of several journalists. The attack appears to have been focused on reporters from national security and economic policy teams, including those covering sensitive topics related to China. Experts warn that this breach poses a significant risk to the integrity of independent journalism.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142389</guid>
-      <pubDate>Mon, 16 Jun 2025 13:49:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
