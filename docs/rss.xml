@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 16:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 17:01:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft investigates OneDrive bug that breaks file search</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/</link>
+      <description>Vulnerable Product: Microsoft OneDrive; CVE(s): None; Summary: Some OneDrive users are experiencing blank search results or no results at all, even when searching for files they know exist. The issue affects a subset of users across most OneDrive platforms and there is currently no known workaround or estimated timeline for a fix.
+
+FYSA:</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/</guid>
+      <pubDate>Fri, 20 Jun 2025 16:39:54 +0000</pubDate>
+    </item>
     <item>
       <title>Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider</title>
       <link>https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/</link>
@@ -1459,13 +1468,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>A former GCHQ intern, Hasaan Arshad, has been sentenced to 7 and a half years in prison for smuggling top secret data out of a secure facility using his mobile phone. The breach was described as a "flagrant violation" of national security protocols, posing a significant risk to the UK's national security efforts.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142445</guid>
       <pubDate>Tue, 17 Jun 2025 06:59:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeerStealer Malware Deployed Through Exploitation of Windows Run Prompt by Threat Actors</title>
-      <link>https://gbhackers.com/deerstealer-malware-deployed-through-exploitation/</link>
-      <description>DeerStealer malware is being deployed using HijackLoader malware loader, designed to harvest sensitive data including cryptocurrency wallets, browser credentials, VPN details, and instant messenger information. The initial access method, ClickFix, manipulates victims into executing a malicious PowerShell command, setting off a complex attack chain that ultimately delivers DeerStealer as the final payload.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142438</guid>
-      <pubDate>Tue, 17 Jun 2025 06:38:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
