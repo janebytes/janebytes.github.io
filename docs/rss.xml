@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 11:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 12:01:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>AntiDot 3-in-1 Android Botnet Malware Grants Attackers Full Control Over Victim Devices</title>
+      <link>https://gbhackers.com/antidot-3-in-1-android-botnet-malware-grants-attackers/</link>
+      <description>AntiDot is a new Android botnet malware that grants cybercriminals control over infected devices. It has advanced capabilities such as screen recording, SMS interception, and credential theft through overlay attacks. The malware operates through at least 11 active command-and-control (C2) servers, managing over 3,775 infected devices across 273 distinct campaigns.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143233</guid>
+      <pubDate>Fri, 20 Jun 2025 11:53:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oxford City Council Hit by Cyberattack Exposing Employee Personal Data</title>
+      <link>https://gbhackers.com/oxford-city-council-hit-by-cyberattack/</link>
+      <description>Oxford City Council's network was targeted by a sophisticated cyberattack that exposed personal data of employees involved in council-administered elections over the past two decades. The attack allowed attackers to access historic data stored on legacy systems, affecting current and former council officers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143245</guid>
+      <pubDate>Fri, 20 Jun 2025 11:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Versa Director Flaws Let Attackers Execute Arbitrary Commands</title>
+      <link>https://gbhackers.com/versa-director-flaws/</link>
+      <description>Vulnerable Product: Versa Networks' SD-WAN orchestration platform, Versa Director; CVE(s): CVE-2025-23171, CVE-2025-23172; Summary: Authenticated attackers can upload malicious files and execute arbitrary commands on affected systems due to insecure file upload and webhook functionalities. The first flaw allows remote code execution (RCE) if a webshell is uploaded and accessed, while the second vulnerability enables authenticated users to execute commands as the "versa" user with sudo privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143238</guid>
+      <pubDate>Fri, 20 Jun 2025 11:02:03 +0000</pubDate>
+    </item>
     <item>
       <title>GodFather Android Malware Uses On-Device Virtualization to Hijack Legitimate Banking Apps</title>
       <link>https://gbhackers.com/godfather-android-malware-uses-on-device-virtualization/</link>
@@ -1443,27 +1464,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>There is no specific vulnerability mentioned in this article. Instead, it discusses copper theft and its impact on industries that rely on copper infrastructure, including telephone and internet connectivity. The article highlights the severity of the issue, with examples such as AT&amp;T's experience with fiber line disruptions due to copper theft, and the company's decision to replace copper-based networks with fiber ones.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/06/vandals-cut-fiber-optic-lines-causing-outage-for-spectrum-internet-subscribers/</guid>
       <pubDate>Mon, 16 Jun 2025 20:15:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Katz Stealer Boosts Credential Theft with System Fingerprinting and Persistence Mechanisms</title>
-      <link>https://gbhackers.com/katz-stealer-boosts-credential-theft-with-system/</link>
-      <description>Katz Stealer is a sophisticated information-stealing malware-as-a-service (MaaS) that steals sensitive information such as browser credentials, cryptocurrency wallet data, and session tokens from platforms like Discord and Telegram. It uses advanced techniques to evade detection, including in-memory operation, modular payloads, and process hollowing.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142381</guid>
-      <pubDate>Mon, 16 Jun 2025 18:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASUS Armoury Crate bug lets attackers get Windows admin privileges</title>
-      <link>https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/</link>
-      <description>Vulnerable Product: ASUS Armoury Crate; CVE(s): CVE-2025-3464; Summary: A high-severity vulnerability (CVE-2025-3464) in ASUS Armoury Crate software allows threat actors to escalate their privileges to SYSTEM level on Windows machines, bypassing authorization and granting access to physical memory, I/O ports, and model-specific registers. Exploitation involves creating a hard link from a benign test app to a fake executable, allowing the attacker to gain low-level system privileges.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/</guid>
-      <pubDate>Mon, 16 Jun 2025 18:08:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Seizes $7.74M in Crypto Tied to North Korea’s Global Fake IT Worker Network</title>
-      <link>https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html</link>
-      <description>North Korean IT workers used fake identities and AI tools like OpenAI ChatGPT to bypass due diligence checks and secure freelance jobs at U.S. cryptocurrency companies. They laundered ill-gotten gains through Sim, a North Korean Foreign Trade Bank representative, to further Pyongyang's strategic objectives in violation of sanctions.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html</guid>
-      <pubDate>Mon, 16 Jun 2025 17:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
