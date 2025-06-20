@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 14:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 15:01:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Aflac discloses breach amidst Scattered Spider insurance attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/</link>
+      <description>Vulnerable Product: Aflac; CVE(s): None; Summary: The systems of American insurance giant Aflac were breached by a sophisticated cybercrime group, potentially stealing personal and health information. The attack shows signs of being carried out by Scattered Spider, a group known for their social engineering attacks against high-profile organizations worldwide.
+
+Note: There is no specific vulnerability mentioned in the article, so no CVEs are listed.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/</guid>
+      <pubDate>Fri, 20 Jun 2025 14:52:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can users reset their own passwords without sacrificing security?</title>
+      <link>https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/</link>
+      <description>The article discusses the benefits of self-service password reset (SSPR) solutions in reducing helpdesk load, costs, and improving productivity. It highlights the importance of proper security considerations when implementing an SSPR solution, including strong identity verification measures and multi-factor authentication (MFA). The article also emphasizes the need for a user-friendly experience to promote adoption and minimize abandonment.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/</guid>
+      <pubDate>Fri, 20 Jun 2025 14:01:11 +0000</pubDate>
+    </item>
     <item>
       <title>Massive DDoS Attack Hits 7.3 Tbps Delivering 37.4 Terabytes in 45 Seconds</title>
       <link>https://gbhackers.com/massive-ddos-attack-hits-7-3-tbps/</link>
@@ -1450,20 +1466,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>Vulnerable Product: Apache Software Foundation Apache Tomcat; CVE(s): CVE-2025-48976, CVE-2025-48988, CVE-2025-49124, CVE-2025-49125; Summary: Four newly discovered vulnerabilities in Apache Tomcat allow for denial-of-service attacks, privilege escalation, installer abuse, and authentication bypass. The flaws affect versions 9.0, 10.1, and 11.0, and administrators are strongly advised to upgrade to patch the issues.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142439</guid>
       <pubDate>Tue, 17 Jun 2025 06:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Weaponize Langflow Vulnerability to Launch Flodrix Botnet</title>
-      <link>https://gbhackers.com/hackers-weaponize-langflow-vulnerability/</link>
-      <description>Vulnerable Product: Langflow; CVE(s): CVE-2025-3248; Summary: A remote code execution vulnerability (CVE-2025-3248) in Langflow, a Python-based AI prototyping framework, is being actively exploited by cybercriminals to deploy the Flodrix botnet. The vulnerability allows unauthenticated attackers to craft malicious POST requests embedding harmful code within function decorators or default arguments, granting remote code execution capabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142433</guid>
-      <pubDate>Tue, 17 Jun 2025 05:45:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zyxel Devices Under Attack as Hackers Exploit UDP Port RCE Flaw</title>
-      <link>https://gbhackers.com/zyxel-devices-under-attack/</link>
-      <description>Vulnerable Product: Zyxel; CVE(s): CVE-2023-28771; Summary: A critical remote code execution (RCE) vulnerability (CVSS 9.8) affects several Zyxel product lines, including ATP, USG FLEX, VPN series, and ZyWALL/USG, across firmware versions ZLD V4.60 to V5.35 (or V4.73 for ZyWALL/USG). Exploitation involves sending a single, specially crafted IKE packet to UDP port 500, triggering unauthenticated remote code execution, which can potentially seize full control of unpatched devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142426</guid>
-      <pubDate>Tue, 17 Jun 2025 05:13:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
