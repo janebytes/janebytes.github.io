@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 20:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 21:01:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Prometei Botnet Targets Linux Servers for Cryptocurrency Mining Operations</title>
+      <link>https://gbhackers.com/prometei-botnet-targets-linux-servers/</link>
+      <description>The article discusses a renewed wave of attacks by the Prometei botnet targeting Linux servers. The malware has advanced capabilities such as a backdoor for remote control, DGA for resilient C2 infrastructure, and self-updating mechanisms to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143326</guid>
+      <pubDate>Fri, 20 Jun 2025 20:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Weaponized MSI Installer Masquerading as WhatsApp to Deliver XWorm RAT</title>
+      <link>https://gbhackers.com/beware-of-weaponized-msi-installer-masquerading-as-whatsapp/</link>
+      <description>A China-based threat actor is targeting users across East and Southeast Asia with a trojanized MSI installer disguised as a legitimate WhatsApp setup file. The installer delivers a customized version of the XWorm Remote Access Trojan (RAT), which can steal sensitive data, maintain persistent access for attackers, and detect Telegram installations on compromised devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143293</guid>
+      <pubDate>Fri, 20 Jun 2025 20:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mocha Manakin Uses Paste-and-Run Technique to Deceive Users into Downloading Malware</title>
       <link>https://gbhackers.com/mocha-manakin-uses-paste-and-run-technique-to-deceive-users/</link>
@@ -1439,20 +1453,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31351; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic by bypassing the existing authentication mechanism and leveraging a SQL injection flaw in the CreateProject method, which lacks proper validation of user-supplied strings.</description>
       <guid isPermaLink="false">ZDI-CAN-25917</guid>
       <pubDate>Tue, 17 Jun 2025 10:08:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-395: Siemens TeleControl Server Basic UpdateGateways SQL Injection Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-395/</link>
-      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31352; Summary: This vulnerability allows remote attackers to disclose sensitive information, including stored credentials, by exploiting a SQL injection issue in the UpdateGateways method due to improper validation of user-supplied strings. Authentication is required but can be bypassed.</description>
-      <guid isPermaLink="false">ZDI-CAN-25915</guid>
-      <pubDate>Tue, 17 Jun 2025 10:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-396: Siemens TeleControl Server Basic UpdateOpcSettings SQL Injection Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-396/</link>
-      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31353; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The specific flaw exists within the implementation of the UpdateOpcSettings method due to lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
-      <guid isPermaLink="false">ZDI-CAN-25916</guid>
-      <pubDate>Tue, 17 Jun 2025 10:07:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
