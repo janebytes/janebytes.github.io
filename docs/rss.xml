@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 17:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 18:02:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>BitoPro exchange links Lazarus hackers to $11 million crypto heist</title>
+      <link>https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/</link>
+      <description>The article reports on a cyberattack on Taiwanese cryptocurrency exchange BitoPro, allegedly carried out by the North Korean hacking group Lazarus. The attackers stole approximately $11 million worth of cryptocurrency and laundered it through decentralized exchanges (DEXs) and mixers. The incident involved social engineering, malware, and hijacked AWS session tokens to bypass multi-factor authentication (MFA).</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/</guid>
+      <pubDate>Fri, 20 Jun 2025 17:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>TxTag Phishing Campaign Exploits .gov Domain to Deceive Employees</title>
+      <link>https://gbhackers.com/txtag-phishing-campaign-exploits-gov-domain/</link>
+      <description>A new phishing campaign has emerged, using the credibility of a .gov domain to deceive employees into believing they owe unpaid tolls. The attack leverages the GovDelivery system and uses psychological manipulation, combined with technical deception, to maximize its impact. The campaign targets employees' personal data and corporate reputation, posing risks that traditional perimeter defenses often fail to detect.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143269</guid>
+      <pubDate>Fri, 20 Jun 2025 17:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PowerShell Loaders Use In-Memory Execution to Evade Disk-Based Detection</title>
+      <link>https://gbhackers.com/powershell-loaders-use-in-memory-execution/</link>
+      <description>A sophisticated PowerShell script named y1.ps1 has been discovered hosted in an open directory on a Chinese server. The script operates as a shellcode loader, employing advanced in-memory execution techniques to bypass traditional detection mechanisms. It uses various evasion techniques, including API hashing and forged User-Agent strings, to evade network monitoring and antivirus solutions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143261</guid>
+      <pubDate>Fri, 20 Jun 2025 17:23:09 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft investigates OneDrive bug that breaks file search</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/</link>
@@ -16,6 +37,13 @@
 FYSA:</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/</guid>
       <pubDate>Fri, 20 Jun 2025 16:39:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Ransomware Adds "Call Lawyer" Feature to Pressure Victims for Larger Ransoms</title>
+      <link>https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html</link>
+      <description>Qilin ransomware-as-a-service (RaaS) scheme is intensifying its activity, offering legal counsel for affiliates to put pressure on victims to pay up. The group's affiliate panel now includes features like "Call Lawyer" and spam services, positioning itself as a full-service cybercrime platform.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html</guid>
+      <pubDate>Fri, 20 Jun 2025 16:35:00 +0000</pubDate>
     </item>
     <item>
       <title>Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider</title>
@@ -1438,36 +1466,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-2783; Summary: The vulnerability arises from an incorrect handle being provided in unspecified circumstances, allowing remote attackers to escape Chrome's sandbox via a malicious file or website. This enables attackers to bypass one of Chrome's core security mechanisms, potentially leading to arbitrary code execution on the victim's machine.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142490</guid>
       <pubDate>Tue, 17 Jun 2025 08:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>TP-Link Router Flaw CVE-2023-33538 Under Active Exploit, CISA Issues Immediate Alert</title>
-      <link>https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html</link>
-      <description>Vulnerable Product: TP-Link; CVE(s): CVE-2023-33538; Summary: The vulnerability is a command injection bug (CVSS score: 8.8) in TP-Link wireless routers that could result in the execution of arbitrary system commands when processing the ssid1 parameter in a specially crafted HTTP GET request, with evidence of active exploitation.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html</guid>
-      <pubDate>Tue, 17 Jun 2025 08:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Devices Under Siege: How Threat Actors Abuse OEM Permissions for Privilege Escalation</title>
-      <link>https://gbhackers.com/how-threat-actors-abuse-oem-permissions-for-privilege-escalation/</link>
-      <description>Vulnerable Product: Android; CVE(s): None; Summary: Threat actors are exploiting legitimate channels, such as sideloading and OEM permissions, to achieve privilege escalation and gain control over devices. This can occur through malicious apps requesting excessive system access or inheriting elevated privileges. The vulnerability lies in the exploitation of trusted pathways, allowing attackers to bypass Android's standard security model and compromise user privacy settings.
-
-(Note: Since this article is about a cybersecurity-relevant issue rather than a specific vulnerability with CVEs, I responded in the "FYSA" format.)</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142461</guid>
-      <pubDate>Tue, 17 Jun 2025 07:52:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Alerts: iOS Zero‑Click Flaw Actively Exploited</title>
-      <link>https://gbhackers.com/cisa-alerts-ios-zero%e2%80%91click-flaw/</link>
-      <description>Vulnerable Product: Apple; CVE(s): CVE-2025-43200; Summary: The zero-click vulnerability in Apple's ecosystem allowed attackers to compromise iOS, iPadOS, macOS, watchOS, and visionOS devices without user interaction. The flaw was triggered by processing maliciously crafted photos or videos shared via iCloud Links, enabling remote code execution and full device compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142469</guid>
-      <pubDate>Tue, 17 Jun 2025 07:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GCHQ Intern Sentenced to 7 Years for Illegally Copying Secret Files to Smartphone</title>
-      <link>https://gbhackers.com/gchq-intern-sentenced-to-7-years/</link>
-      <description>A former GCHQ intern, Hasaan Arshad, has been sentenced to 7 and a half years in prison for smuggling top secret data out of a secure facility using his mobile phone. The breach was described as a "flagrant violation" of national security protocols, posing a significant risk to the UK's national security efforts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142445</guid>
-      <pubDate>Tue, 17 Jun 2025 06:59:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
