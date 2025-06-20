@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 13:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 14:02:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Massive DDoS Attack Hits 7.3 Tbps Delivering 37.4 Terabytes in 45 Seconds</title>
+      <link>https://gbhackers.com/massive-ddos-attack-hits-7-3-tbps/</link>
+      <description>A massive distributed denial-of-service (DDoS) attack peaked at 7.3 terabits per second (Tbps), overwhelming its target with 37.4 terabytes of data in just 45 seconds, targeting an unnamed hosting provider that relied on Cloudflare's Magic Transit service for network defense.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143273</guid>
+      <pubDate>Fri, 20 Jun 2025 13:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft to remove legacy drivers from Windows Update for security boost</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-legacy-drivers-from-windows-update-for-security-boost/</link>
+      <description>This article is not about a specific vulnerability, but rather discusses Microsoft's plan to periodically remove legacy drivers from the Windows Update catalog to mitigate security and compatibility risks. The company aims to ensure the optimal set of drivers on Windows Update while maintaining its security posture.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-legacy-drivers-from-windows-update-for-security-boost/</guid>
+      <pubDate>Fri, 20 Jun 2025 13:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Azure Misconfiguration Lets Attackers Take Over Cloud Infrastructure</title>
+      <link>https://gbhackers.com/azure-misconfiguration-take-over-cloud-infrastructure/</link>
+      <description>Vulnerable Product: Microsoft Azure; CVE(s): None; Summary: A chain of misconfigurations in Microsoft Azure allows attackers to gain complete control over an organization's cloud infrastructure, from initial access to full tenant takeover. The attack path involves unauthenticated reconnaissance, exploiting public storage accounts, and leveraging dynamic group membership rules to achieve privilege escalation and lateral movement, ultimately leading to total ownership of the Azure environment.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143248</guid>
+      <pubDate>Fri, 20 Jun 2025 13:02:02 +0000</pubDate>
+    </item>
     <item>
       <title>Iran's State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist</title>
       <link>https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html</link>
@@ -1443,27 +1464,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>Vulnerable Product: Zyxel; CVE(s): CVE-2023-28771; Summary: A critical remote code execution (RCE) vulnerability (CVSS 9.8) affects several Zyxel product lines, including ATP, USG FLEX, VPN series, and ZyWALL/USG, across firmware versions ZLD V4.60 to V5.35 (or V4.73 for ZyWALL/USG). Exploitation involves sending a single, specially crafted IKE packet to UDP port 500, triggering unauthenticated remote code execution, which can potentially seize full control of unpatched devices.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142426</guid>
       <pubDate>Tue, 17 Jun 2025 05:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Starts Showing Ads on WhatsApp After 6-Year Delay From 2018 Announcement</title>
-      <link>https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html</link>
-      <description>WhatsApp is introducing ads in its Status feature, with the company emphasizing that it's built with privacy in mind and only uses limited information to serve ads. The ads will be displayed on the Updates tab and will not access users' personal messages, calls, or groups for targeting.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html</guid>
-      <pubDate>Tue, 17 Jun 2025 04:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artificial Eyes: Generative AI in China’s Military Intelligence</title>
-      <link>https://www.recordedfuture.com/research/artificial-eyes-generative-ai-chinas-military-intelligence</link>
-      <description>The article discusses the Peoples Liberation Army's (PLA) interest in using generative artificial intelligence (AI) to support military intelligence tasks. The PLA has likely procured generative AI technology and is exploring its applications for intelligence work, including generating open-source intelligence products, processing satellite imagery, and supporting event extraction. The article also highlights potential challenges and risks associated with the PLA's use of generative AI, such as reducing objectivity in intelligence analysis and creating opportunities for counterintelligence organizations to generate convincing but inaccurate information.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/artificial-eyes-generative-ai-chinas-military-intelligence</guid>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers switch to targeting U.S. insurance companies</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/</link>
-      <description>Threat intelligence researchers are warning of hackers breaching multiple U.S. companies in the insurance industry using tactics observed with Scattered Spider activity, a group known for sophisticated social engineering attacks and use of ransomware. The threat actors have a sector-by-sector focus, and the insurance industry should be on high alert.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/</guid>
-      <pubDate>Mon, 16 Jun 2025 20:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
