@@ -6,8 +6,78 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 22:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 10:05:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-411: Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-411/</link>
+      <description>Vulnerable Product: Delta Electronics CNCSoft-G2; CVE(s): CVE-2025-47728; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft-G2. User interaction is required, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of DPAX files due to a lack of proper validation of user-supplied data, leading to a memory corruption condition.</description>
+      <guid isPermaLink="false">ZDI-CAN-26167</guid>
+      <pubDate>Fri, 20 Jun 2025 10:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-412: Fuji Electric Smart Editor  X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-412/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor X1; CVE(s): CVE-2025-41413; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor by writing past the end of an allocated data structure. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26031</guid>
+      <pubDate>Fri, 20 Jun 2025 10:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-413: Fuji Electric Smart Editor TL5 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-413/</link>
+      <description>Vulnerable Product: Fuji Electric Smart Editor; CVE(s): CVE-2025-41388; Summary: The Fuji Electric Smart Editor TL5 file parsing stack-based buffer overflow vulnerability allows remote attackers to execute arbitrary code on affected installations, requiring user interaction. The flaw exists in the processing of TL5 files due to lack of proper validation of user-supplied data prior to copying it to a fixed-length buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26018</guid>
+      <pubDate>Fri, 20 Jun 2025 10:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Introduces Enhanced Security Defaults for Windows 365 Cloud PCs</title>
+      <link>https://gbhackers.com/microsoft-introduces-enhanced-security-defaults-for-windows-365/</link>
+      <description>Microsoft is introducing new secure-by-default capabilities for Windows 365 Cloud PCs to fortify virtual desktop environments against modern cyber threats. The update includes default disabling of device redirections (clipboard, drive, USB, and printer) and enabling advanced security controls such as virtualization-based security, Credential Guard, and hypervisor-protected code integrity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143202</guid>
+      <pubDate>Fri, 20 Jun 2025 09:35:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dover Fueling Solutions Flaw Lets Attackers Control Fueling Operations</title>
+      <link>https://gbhackers.com/dover-fueling-solutions-flaw/</link>
+      <description>Vulnerable Product: Dover Fueling Solutions' ProGauge MagLink LX consoles; CVE(s): CVE-2025-5310; Summary: The vulnerability, tracked as CVE-2025-5310, allows remote attackers to seize control of fueling operations, manipulate tank monitoring, and deploy malware, posing a severe risk to transportation systems worldwide.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143199</guid>
+      <pubDate>Fri, 20 Jun 2025 09:04:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM QRadar SIEM Bug Lets Attackers Run Arbitrary Commands</title>
+      <link>https://gbhackers.com/ibm-qradar-siem-bug/</link>
+      <description>Vulnerable Product: IBM Security QRadar SIEM; CVE(s): CVE-2025-33117, None (other CVEs mentioned are not explicitly linked to the vulnerability); Summary: A critical flaw in IBM's QRadar SIEM platform allows privileged users to execute arbitrary commands on affected systems, enabling attackers to compromise sensitive data or gain unauthorized access. The vulnerability has been addressed in the latest interim fix (UP12 IF02), and customers are urged to update their installations to protect against potential exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143190</guid>
+      <pubDate>Fri, 20 Jun 2025 07:49:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers</title>
+      <link>https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html</link>
+      <description>Cybersecurity researchers have discovered a new campaign of 67 GitHub repositories claiming to offer Python-based hacking tools, but delivering trojanized payloads instead. The repositories were taken down by GitHub, and the campaign is believed to target users searching for software such as account cleaning tools and game cheats.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html</guid>
+      <pubDate>Fri, 20 Jun 2025 07:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache SeaTunnel Flaw Lets Unauthorized Users Launch Deserialization Attacks</title>
+      <link>https://gbhackers.com/apache-seatunnel-flaw/</link>
+      <description>Vulnerable Product: Apache SeaTunnel; CVE(s): CVE-2025-32896; Summary: The Apache SeaTunnel vulnerability (CVE-2025-32896) allows unauthorized users to exploit insecure REST API endpoints, enabling arbitrary file read and potentially remote code execution through deserialization attacks. This affects versions 2.3.1-2.3.10 and has been classified as moderate to critical in severity, depending on deployment context.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143186</guid>
+      <pubDate>Fri, 20 Jun 2025 07:38:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla Wall Connector Hacked Through Charging Port in Just 18 Minutes</title>
+      <link>https://gbhackers.com/tesla-wall-connector-hacked/</link>
+      <description>Vulnerable Product: Tesla Wall Connector; CVE(s): None; Summary: Security researchers from Synacktiv successfully hacked the Tesla Wall Connector through its charging port in just 18 minutes, exposing critical vulnerabilities in the device's firmware and communication protocols. The attack involved downgrading the Wall Connector's firmware to an older version with exposed debug features, including a TCP debug shell accessible over Wi-Fi, and exploiting a global buffer overflow in the shell's command parsing logic for code execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143172</guid>
+      <pubDate>Fri, 20 Jun 2025 05:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Support Tickets Let Hackers Exploit Atlassian’s Model Context Protocol</title>
+      <link>https://gbhackers.com/malicious-support-tickets-let-hackers-exploit-atlassians-model-context-protocol/</link>
+      <description>Vulnerable Product: Atlassian Jira Service Management (JSM); CVE(s): None; Summary: A new class of cyberattack targets organizations using Atlassian's Model Context Protocol (MCP), exploiting AI-powered workflows in JSM. Malicious support tickets can be used to gain privileged access and exfiltrate sensitive data without breaching internal systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143168</guid>
+      <pubDate>Fri, 20 Jun 2025 05:14:32 +0000</pubDate>
+    </item>
     <item>
       <title>No, the 16 billion credentials leak is not a new data breach</title>
       <link>https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/</link>
@@ -1392,86 +1462,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>A targeted cyberattack has struck The Washington Post, compromising email accounts of several journalists. The attack appears to have been focused on reporters from national security and economic policy teams, including those covering sensitive topics related to China. Experts warn that this breach poses a significant risk to the integrity of independent journalism.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142389</guid>
       <pubDate>Mon, 16 Jun 2025 13:49:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Archetyp Market Takedown: Operation Deep Sentinel Ends a Major Dark Web Platform</title>
-      <link>https://socradar.io/archetyp-market-takedown-operation-deep-sentinel/</link>
-      <description>International law enforcement agencies took down Archetyp Market, one of the most active darknet marketplaces dedicated to drug trafficking. The operation, led by German authorities and supported by Europol and Eurojust, targeted the platform's infrastructure, administrators, and top vendors.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061021</guid>
-      <pubDate>Mon, 16 Jun 2025 12:51:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoomcar Data Breach Exposes Sensitive Details of 8.4 Million Users</title>
-      <link>https://gbhackers.com/zoomcar-data-breach/</link>
-      <description>Vulnerable Product: None; CVEs: None; Summary: A data breach at Zoomcar Holdings, Inc. has compromised the personal information of approximately 8.4 million users, including user names, phone numbers, car registration numbers, personal addresses, and email addresses. The breach poses risks of identity theft, targeted phishing, and other malicious activities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142363</guid>
-      <pubDate>Mon, 16 Jun 2025 12:47:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Deep Sentinel: Authorities Shut Down Darknet Market Archetyp</title>
-      <link>https://gbhackers.com/operation-deep-sentinel/</link>
-      <description>Authorities successfully dismantled Archetyp Market, a major darknet marketplace, as part of "Operation Deep Sentinel." The takedown marks a significant victory in the fight against cybercrime and the illicit drug trade.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142359</guid>
-      <pubDate>Mon, 16 Jun 2025 12:36:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>BERT Ransomware Escalates Attacks on Linux Machines with Weaponized ELF Files</title>
-      <link>https://gbhackers.com/bert-ransomware-escalates-attacks-on-linux-machines/</link>
-      <description>The BERT ransomware group has expanded its reach from targeting Windows environments to launching attacks on Linux machines, posing a significant risk to global enterprises reliant on Linux for critical infrastructure.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142327</guid>
-      <pubDate>Mon, 16 Jun 2025 12:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian Airline WestJet Suffers Cyberattack, Halts App and Web Services</title>
-      <link>https://gbhackers.com/canadian-airline-westjet-suffers-cyberattack/</link>
-      <description>WestJet Airlines experiences a significant cybersecurity incident, causing disruptions to its mobile app and internal systems. The airline is working with law enforcement agencies and Transport Canada to investigate the breach, while emphasizing that flight operations remain safe and stable. The incident highlights the growing threat posed by cybercriminals to critical infrastructure and major organizations across Canada.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142287</guid>
-      <pubDate>Mon, 16 Jun 2025 12:26:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft shares temp fix for Outlook crashes when opening emails</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/</link>
-      <description>The article describes a known issue with classic Outlook email client causing it to crash when opening or starting a new message, affecting users in the Monthly Enterprise Channel who updated Outlook for Microsoft 365. A temporary fix is provided until a permanent solution is rolled out.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/</guid>
-      <pubDate>Mon, 16 Jun 2025 12:23:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Deploy XWorm Malware via Fake Travel Websites to Infect Users’ PCs</title>
-      <link>https://gbhackers.com/threat-actors-deploy-xworm-malware/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: A sophisticated malware campaign targets vacation planners by imitating Booking.com using phony travel websites. The campaign uses social engineering tactics, including a counterfeit cookie banner, to deploy XWorm, a remote access trojan (RAT).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142303</guid>
-      <pubDate>Mon, 16 Jun 2025 12:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/16/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: Apple, Multiple Products; CVE(s): CVE-2025-43200, CVE-2023-33538; Summary: Two vulnerabilities have been added to the Known Exploited Vulnerabilities (KEV) Catalog by CISA due to active exploitation. The first is an unspecified vulnerability in Apple products, and the second is a command injection vulnerability affecting TP-Link routers. These vulnerabilities pose significant risks to federal agencies and other organizations if not remediated in a timely manner.</description>
-      <guid isPermaLink="false">/node/23517</guid>
-      <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean APT Hackers Target Ukrainian Government Agencies to Steal Login Credentials</title>
-      <link>https://gbhackers.com/north-korean-apt-hackers-target-ukrainian-government-agencies/</link>
-      <description>Vulnerable Product: None; Summary: The Konni group, a North Korean Advanced Persistent Threat (APT) hacker group, has been observed in a targeted phishing campaign against Ukrainian government agencies, aiming to steal login credentials and distribute malware. The attackers used deceptive tactics, including using Proton Mail accounts and sophisticated Command and Control (C2) communication via PowerShell.
-
-FYSA: This article highlights the shifting focus of North Korean APT groups, such as the Konni group, towards targeting specific government entities and industries, potentially in alignment with strategic alliances. The use of social engineering tactics, including phishing emails and AI-manipulated resumes, underscores the growing sophistication of these threat actors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142296</guid>
-      <pubDate>Mon, 16 Jun 2025 11:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More</title>
-      <link>https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html</link>
-      <description>The article discusses various cybersecurity-related topics and threats, including malware, phishing attacks, and data breaches. It also highlights the importance of staying private on the internet by learning about real-world methods used by trackers.
-
-Vulnerable Products:
-
-* BrowserVenom: A Windows implant that reconfigures Chromium- and Gecko-based browsing instances to force traffic through a proxy controlled by the threat actors.
-* AppleSeed: A known malware delivered as part of a multi-stage infection sequence.
-* Kimsuky's Triple Combo: A campaign targeting Facebook, email, and Telegram users in South Korea.
-
-Note: These vulnerabilities are not traditional software or hardware flaws but rather malware or social engineering tactics used to compromise user data.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html</guid>
-      <pubDate>Mon, 16 Jun 2025 11:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
