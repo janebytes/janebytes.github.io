@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 19:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 20:02:12 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Mocha Manakin Uses Paste-and-Run Technique to Deceive Users into Downloading Malware</title>
+      <link>https://gbhackers.com/mocha-manakin-uses-paste-and-run-technique-to-deceive-users/</link>
+      <description>Mocha Manakin is a malicious campaign using the "paste-and-run" technique to trick users into executing harmful scripts. The campaign employs sophisticated social engineering lures, exploiting digital conditioning to prompt users to copy and paste obfuscated PowerShell commands, which download malicious payloads from adversary-controlled infrastructure.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143334</guid>
+      <pubDate>Fri, 20 Jun 2025 19:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Manipulate Google Search Results to Display Scammer’s Phone Number Instead of Real Number</title>
+      <link>https://gbhackers.com/threat-actors-manipulate-google-search-results/</link>
+      <description>Threat actors are exploiting trust in sponsored search results to orchestrate scams, targeting popular brands and tech support services. They manipulate search engine results to display fake contact numbers and redirect users to malicious sites or fraudulent phone numbers, leading to financial losses, identity theft, and potential malware infections.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143301</guid>
+      <pubDate>Fri, 20 Jun 2025 19:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic</title>
+      <link>https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/</link>
+      <description>The article discusses the use of reflection attacks in a record-breaking DDoS attack. Reflection attacks direct malicious traffic to third-party intermediaries, making it harder for targets to defend against the attack. The attack exploited various amplification vectors, including Network Time Protocol, Quote of the Day Protocol, Echo Protocol, and Portmapper services, as well as Mirai-based botnets.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/</guid>
+      <pubDate>Fri, 20 Jun 2025 19:04:22 +0000</pubDate>
+    </item>
     <item>
       <title>Insomnia API Client Vulnerability Enables Arbitrary Code Execution via Template Injection</title>
       <link>https://gbhackers.com/insomnia-api-client-vulnerability/</link>
@@ -1432,40 +1453,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31353; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The specific flaw exists within the implementation of the UpdateOpcSettings method due to lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
       <guid isPermaLink="false">ZDI-CAN-25916</guid>
       <pubDate>Tue, 17 Jun 2025 10:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring a New KimJongRAT Stealer Variant and Its PowerShell Implementation</title>
-      <link>https://unit42.paloaltonetworks.com/kimjongrat-stealer-variant-powershell/</link>
-      <description>FYSA:
-
-The provided article appears to be an in-depth analysis of a malware campaign, specifically focusing on a PowerShell-based stealer and its various components. The article describes the different stages of the malware's operation, including data extraction from browsers and file systems, as well as interactions with a command-and-control (C2) server.
-
-Key findings include:
-
-1. The malware is designed to extract sensitive information such as browser data, cryptocurrency wallet extensions, and system files.
-2. The malware uses various techniques to evade detection, including anti-VM checks and obfuscation of its code.
-3. The malware communicates with a C2 server to upload stolen data, download additional payloads, and execute commands.
-4. The malware has persistence mechanisms in place, including registry entries and file creation.
-
-The article provides detailed information on the malware's components, including VBScript code, PowerShell scripts, and Base64-encoded payloads. It also discusses the different stages of the malware's operation and its interactions with the C2 server.
-
-Overall, this analysis provides valuable insights into the capabilities and behavior of this particular malware campaign.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=143320</guid>
-      <pubDate>Tue, 17 Jun 2025 10:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ultimate List of Free and Open-source Threat Intelligence Feeds</title>
-      <link>https://socradar.io/the-ultimate-list-of-free-and-open-source-threat-intelligence-feeds/</link>
-      <description>The article discusses free and open-source threat intelligence feeds that can help cybersecurity professionals improve their visibility across the threat landscape without relying solely on expensive commercial platforms. The article presents a collection of highly regarded and globally accessible threat intelligence feeds, including MISP, SANS Internet Storm Center (ISC), AlienVault OTX, InfraGard, Automated Indicator Sharing (AIS), Cisco Talos, GreyNoise, VirusTotal, OpenPhish, Spamhaus, and SOCRadar Labs. These feeds provide real-time or regularly updated data on malicious activity, such as phishing campaigns, malware infrastructure, scanning IPs, and malicious URLs, which can help automate alerts, enrich incident context, and enhance proactive defense capabilities.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100017473</guid>
-      <pubDate>Tue, 17 Jun 2025 10:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks</title>
-      <link>https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html</link>
-      <description>Vulnerable Product: Langflow; CVE(s): CVE-2025-3248; Summary: Langflow's missing authentication vulnerability (CVE-2025-3248) allows unauthenticated attackers to execute arbitrary code via crafted HTTP requests, potentially leading to remote code execution. Attackers are exploiting this flaw to deliver the Flodrixbotnet malware and conduct reconnaissance, installing a shell script downloader and eventually launching DDoS attacks over TCP or TOR.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html</guid>
-      <pubDate>Tue, 17 Jun 2025 09:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
