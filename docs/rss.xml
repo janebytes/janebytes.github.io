@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 18:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 19:01:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Insomnia API Client Vulnerability Enables Arbitrary Code Execution via Template Injection</title>
+      <link>https://gbhackers.com/insomnia-api-client-vulnerability/</link>
+      <description>Vulnerable Product: Insomnia API Client; CVE(s): CVE-2025-1087; Summary: The Insomnia API Client has a severe security vulnerability allowing for arbitrary code execution through Client-Side Template Injection (CSTI) due to its use of the Nunjucks templating engine. The flaw persists in version 11.2.0 and can be exploited via multiple vectors, including imported collection files, pasted data, server-provided cookies, and HTTP responses.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143308</guid>
+      <pubDate>Fri, 20 Jun 2025 18:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit Vercel Hosting Platform to Distribute Remote Access Malware</title>
+      <link>https://gbhackers.com/threat-actors-exploit-vercel-hosting-platform/</link>
+      <description>CyberArmor has uncovered a sophisticated phishing campaign exploiting Vercel, a frontend hosting platform, to distribute a malicious variant of LogMeIn. The campaign targeted over 1,271 users with deceptive emails leading to fraudulent pages hosted on Vercel subdomains, tricking victims into downloading and installing the malware.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143286</guid>
+      <pubDate>Fri, 20 Jun 2025 18:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>BitoPro exchange links Lazarus hackers to $11 million crypto heist</title>
       <link>https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/</link>
@@ -1452,20 +1466,6 @@ Overall, this analysis provides valuable insights into the capabilities and beha
       <description>Vulnerable Product: Langflow; CVE(s): CVE-2025-3248; Summary: Langflow's missing authentication vulnerability (CVE-2025-3248) allows unauthenticated attackers to execute arbitrary code via crafted HTTP requests, potentially leading to remote code execution. Attackers are exploiting this flaw to deliver the Flodrixbotnet malware and conduct reconnaissance, installing a shell script downloader and eventually launching DDoS attacks over TCP or TOR.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html</guid>
       <pubDate>Tue, 17 Jun 2025 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>150K+ Users Affected by Malicious Loan Apps on iOS and Google Play</title>
-      <link>https://gbhackers.com/150k-users-affected-by-malicious-loan-apps/</link>
-      <description>Vulnerable Product: RapiPlata app; CVE(s): None; Summary: The RapiPlata app, posing as a financial service, targeted Colombian users by gaining access to sensitive data such as SMS messages, call logs, calendar events, and installed applications. It exploited permissions under the guise of credit assessment to conduct keyword-based SMS scanning, behavioral data harvesting, and unauthorized exfiltration of personal information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142481</guid>
-      <pubDate>Tue, 17 Jun 2025 09:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploiting Chrome Zero‑Day Vulnerability in the Wild</title>
-      <link>https://gbhackers.com/hackers-exploiting-chrome-zero%e2%80%91day-vulnerability/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-2783; Summary: The vulnerability arises from an incorrect handle being provided in unspecified circumstances, allowing remote attackers to escape Chrome's sandbox via a malicious file or website. This enables attackers to bypass one of Chrome's core security mechanisms, potentially leading to arbitrary code execution on the victim's machine.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142490</guid>
-      <pubDate>Tue, 17 Jun 2025 08:40:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
