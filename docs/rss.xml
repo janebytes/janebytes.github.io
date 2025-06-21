@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 10:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 11:01:33 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages</title>
+      <link>https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html</link>
+      <description>This article is not about a vulnerability, but rather a cyber attack on UK retailers Marks &amp; Spencer and Co-op. The attacks were classified as a single combined cyber event by the Cyber Monitoring Centre (CMC), with an estimated financial impact of £270-440 million.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html</guid>
+      <pubDate>Sat, 21 Jun 2025 09:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Target 700+ ComfyUI AI Image Generation Servers to Spread Malware</title>
       <link>https://gbhackers.com/hackers-target-700-comfyui-ai-image-generation-servers/</link>
@@ -1446,13 +1453,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31343; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. Although authentication is required, the existing mechanism can be bypassed. The flaw exists in the UpdateTcmSettings method due to a lack of proper validation of user-supplied strings used to construct SQL queries, allowing disclosure of stored credentials leading to further compromise.</description>
       <guid isPermaLink="false">ZDI-CAN-25920</guid>
       <pubDate>Tue, 17 Jun 2025 10:09:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-392: Siemens TeleControl Server Basic UpdateSmtpSettings SQL Injection Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-392/</link>
-      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31349; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic through SQL injection, bypassing authentication. The issue is caused by the lack of proper validation of user-supplied strings before constructing SQL queries, which could lead to stored credentials being disclosed and further compromise.</description>
-      <guid isPermaLink="false">ZDI-CAN-25919</guid>
-      <pubDate>Tue, 17 Jun 2025 10:08:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
