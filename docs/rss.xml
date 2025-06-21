@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 19:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 20:01:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Surge in XSS Cyberattacks Targets Popular Webmail Platforms, ESET Reports</title>
+      <link>https://gbhackers.com/surge-in-xss-cyberattacks-targets-popular-webmail-platforms/</link>
+      <description>The Russia-aligned Sednit group has been conducting a sophisticated cyber espionage campaign, dubbed Operation RoundPress, targeting high-value webmail platforms through cross-site scripting (XSS) attacks. The operation compromises popular webmail services, stealing credentials, exfiltrating email content, and bypassing two-factor authentication.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143412</guid>
+      <pubDate>Sat, 21 Jun 2025 20:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Announces New Graph Powered Detection of Hybrid Attack Targeting Organizations</title>
       <link>https://gbhackers.com/microsoft-announces-new-graph-powered-detection/</link>
@@ -1446,13 +1453,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30030; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries, which can be used to disclose stored credentials leading to further compromise.</description>
       <guid isPermaLink="false">ZDI-CAN-25924</guid>
       <pubDate>Tue, 17 Jun 2025 10:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-389: Siemens TeleControl Server Basic UpdateUsers SQL Injection Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-389/</link>
-      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30031; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic by exploiting a SQL injection information disclosure vulnerability in the UpdateUsers method, which can be bypassed. An attacker could leverage this vulnerability to disclose stored credentials, leading to further compromise.</description>
-      <guid isPermaLink="false">ZDI-CAN-25922</guid>
-      <pubDate>Tue, 17 Jun 2025 10:09:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
