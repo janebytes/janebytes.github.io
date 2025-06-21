@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 18:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 19:01:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Announces New Graph Powered Detection of Hybrid Attack Targeting Organizations</title>
+      <link>https://gbhackers.com/microsoft-announces-new-graph-powered-detection/</link>
+      <description>Microsoft has unveiled an innovative approach to detecting hybrid attacks that span on-premises and cloud environments. The Enterprise Exposure Graph provides contextual enrichment and enables Security Operations Center (SOC) teams to detect and respond to multi-faceted threats with unprecedented precision, addressing critical blind spots in traditional security frameworks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143404</guid>
+      <pubDate>Sat, 21 Jun 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Hacktivist Attacking Israeli Military, Government, and Infrastructure Targets</title>
+      <link>https://gbhackers.com/iranian-hacktivist-attacking-israeli/</link>
+      <description>Pro-Iranian hacktivist organizations launched a coordinated attack on Israeli military, government, and infrastructure targets, using tactics such as DDoS attacks, website defacements, and data breaches. The pro-Israeli groups responded with targeted infrastructure attacks against Iranian nuclear facilities and military assets, highlighting a significant imbalance in the ongoing digital conflict between the two nations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143396</guid>
+      <pubDate>Sat, 21 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages</title>
       <link>https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html</link>
@@ -1439,20 +1453,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30031; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic by exploiting a SQL injection information disclosure vulnerability in the UpdateUsers method, which can be bypassed. An attacker could leverage this vulnerability to disclose stored credentials, leading to further compromise.</description>
       <guid isPermaLink="false">ZDI-CAN-25922</guid>
       <pubDate>Tue, 17 Jun 2025 10:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-390: Siemens TeleControl Server Basic UpdateDatabaseSettings SQL Injection Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-390/</link>
-      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30032; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic, which can be used to compromise further. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries. An attacker could leverage this vulnerability to disclose stored credentials.</description>
-      <guid isPermaLink="false">ZDI-CAN-25921</guid>
-      <pubDate>Tue, 17 Jun 2025 10:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-391: Siemens TeleControl Server Basic UpdateTcmSettings SQL Injection Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-391/</link>
-      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-31343; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. Although authentication is required, the existing mechanism can be bypassed. The flaw exists in the UpdateTcmSettings method due to a lack of proper validation of user-supplied strings used to construct SQL queries, allowing disclosure of stored credentials leading to further compromise.</description>
-      <guid isPermaLink="false">ZDI-CAN-25920</guid>
-      <pubDate>Tue, 17 Jun 2025 10:09:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
