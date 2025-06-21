@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 20:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 21:01:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Open Directories Exposes Publically Available tools Used by Hackers</title>
+      <link>https://gbhackers.com/open-directories-exposes-publically-available-tools/</link>
+      <description>A series of misconfigured web servers have been uncovered, revealing a treasure trove of publicly accessible tools and tactics employed by malicious actors targeting critical infrastructure. The findings show the technical prowess and intent behind these operations, which extend beyond Taiwan to other regions and institutions. The use of open-source offensive software, such as Afrog, Brute Ratel C4, and OneForAll, suggests a reliance on readily available tools for reconnaissance and attack planning.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143453</guid>
+      <pubDate>Sat, 21 Jun 2025 21:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Surge in XSS Cyberattacks Targets Popular Webmail Platforms, ESET Reports</title>
       <link>https://gbhackers.com/surge-in-xss-cyberattacks-targets-popular-webmail-platforms/</link>
@@ -1446,13 +1453,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30003; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic, bypassing existing authentication mechanisms. The issue stems from a lack of proper validation of user-supplied strings used in SQL queries, enabling attackers to disclose stored credentials and potentially leading to further compromise.</description>
       <guid isPermaLink="false">ZDI-CAN-25910</guid>
       <pubDate>Tue, 17 Jun 2025 10:10:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-388: Siemens TeleControl Server Basic ImportDatabase SQL Injection Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-388/</link>
-      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30030; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries, which can be used to disclose stored credentials leading to further compromise.</description>
-      <guid isPermaLink="false">ZDI-CAN-25924</guid>
-      <pubDate>Tue, 17 Jun 2025 10:09:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
