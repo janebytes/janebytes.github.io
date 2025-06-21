@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 21:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 22:00:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DuckDuckGo Browser’s Scam Blocker to Guard Against Phishing and Malware Sites</title>
+      <link>https://gbhackers.com/duckduckgo-browsers-scam-blocker-to-guard/</link>
+      <description>DuckDuckGo has updated its browser's Scam Blocker feature to provide advanced protection against online threats, including phishing sites, malware, and sophisticated scams. The new feature is integrated into the browser for desktop and mobile platforms and offers real-time protection without compromising user privacy.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143424</guid>
+      <pubDate>Sat, 21 Jun 2025 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Open Directories Exposes Publically Available tools Used by Hackers</title>
       <link>https://gbhackers.com/open-directories-exposes-publically-available-tools/</link>
@@ -1446,13 +1453,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30002; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic, bypassing authentication and disclosing stored credentials. The issue is due to the lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
       <guid isPermaLink="false">ZDI-CAN-25909</guid>
       <pubDate>Tue, 17 Jun 2025 10:10:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-387: Siemens TeleControl Server Basic UpdateProjectConnections SQL Injection Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-387/</link>
-      <description>Vulnerable Product: Siemens TeleControl Server Basic; CVE(s): CVE-2025-30003; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Siemens TeleControl Server Basic, bypassing existing authentication mechanisms. The issue stems from a lack of proper validation of user-supplied strings used in SQL queries, enabling attackers to disclose stored credentials and potentially leading to further compromise.</description>
-      <guid isPermaLink="false">ZDI-CAN-25910</guid>
-      <pubDate>Tue, 17 Jun 2025 10:10:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
