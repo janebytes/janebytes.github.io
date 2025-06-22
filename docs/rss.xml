@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 21:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 22:03:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup</title>
+      <link>https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/</link>
+      <description>Vulnerable Product: CoinMarketCap; CVE(s): None; Summary: A supply chain attack was used to inject a malicious script into CoinMarketCap's website, which drained cryptocurrency from visitors' wallets when they connected them. The attack exploited a vulnerability in the site's "doodle" image and was executed through an API call, resulting in the execution of a wallet drainer script that stole assets.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/</guid>
+      <pubDate>Sun, 22 Jun 2025 21:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oxford City Council suffers breach exposing two decades of data</title>
+      <link>https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/</link>
+      <description>Oxford City Council suffered a data breach where attackers accessed personally identifiable information from legacy systems, affecting former and current Council officers' data between 2001 and 2022.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/</guid>
+      <pubDate>Sun, 22 Jun 2025 15:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Snipping Tool now lets you create animated GIF recordings</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/</link>
+      <description>The article discusses updates to Microsoft's Snipping Tool utility, including the addition of GIF export for screen recordings. It also mentions other recent features added to Snipping Tool, such as a Text Extractor and draw &amp; hold capabilities. There is no mention of vulnerabilities or cybersecurity-related threats in this article.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/</guid>
+      <pubDate>Sun, 22 Jun 2025 14:11:22 +0000</pubDate>
+    </item>
     <item>
       <title>OpenVPN Driver Vulnerability Let Attackers Crash Windows Systems</title>
       <link>https://gbhackers.com/openvpn-driver-vulnerability/</link>
@@ -84,6 +105,20 @@
       <description>Vulnerable Product: Aflac; CVE(s): None; Summary: Aflac suffered a significant cybersecurity breach caused by social engineering tactics, resulting in unauthorized access to sensitive information on its network. The attackers accessed a range of Personally Identifiable Information (PII), including health insurance claims and medical-related data, Social Security numbers, and personal data associated with customers, beneficiaries, employees, agents, and potentially other individuals.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061161</guid>
       <pubDate>Sat, 21 Jun 2025 16:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian hackers bypass Gmail MFA using stolen app passwords</title>
+      <link>https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/</link>
+      <description>Russian hackers bypassed multi-factor authentication and accessed Gmail accounts by leveraging app-specific passwords in advanced social engineering attacks that impersonated U.S. Department of State officials. The attackers used meticulously developed phishing messages, fake identities, and various materials to deceive victims into creating and sharing app-specific passwords, allowing the hackers full access to their Google accounts.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/</guid>
+      <pubDate>Sat, 21 Jun 2025 15:13:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Motors theme flaw mass-exploited to hijack admin accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/</link>
+      <description>Vulnerable Product: StylemixThemes Motors; CVE(s): CVE-2025-4322; Summary: The WordPress theme "Motors" contains a privilege escalation vulnerability that allows unauthenticated attackers to change administrator passwords, granting complete control of the targeted site. The flaw arises from improper user identity validation during password updating and affects all versions before and including 5.6.67.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/</guid>
+      <pubDate>Sat, 21 Jun 2025 14:09:19 +0000</pubDate>
     </item>
     <item>
       <title>Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages</title>
@@ -1422,41 +1457,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: LS Electric GMWin 4; CVE(s): CVE-2025-49848, CVE-2025-49849, CVE-2025-49850; Summary: Successful exploitation of the Out-of-Bounds Write, Out-of-Bounds Read, and Heap-based Buffer Overflow vulnerabilities in LS Electric GMWin 4 could allow an attacker to disclose information or execute arbitrary code.</description>
       <guid isPermaLink="false">/node/23521</guid>
       <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are Forgotten AD Service Accounts Leaving You at Risk?</title>
-      <link>https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html</link>
-      <description>Forgotten Active Directory (AD) service accounts are often overlooked, allowing them to quietly persist with non-expiring or stale passwords. Attackers seek out these forgotten service accounts as they can serve as silent gateways for attack paths and lateral movement across enterprise environments.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html</guid>
-      <pubDate>Tue, 17 Jun 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp’s Status Tab Set to Feature Ads as Meta Monetizes Platform</title>
-      <link>https://gbhackers.com/whatsapps-status-tab-set-to-feature-ads/</link>
-      <description>WhatsApp, with over 2 billion monthly active users, is introducing advertisements within its Updates tab, marking a significant shift in monetization. The ads will appear in the Status section, allowing businesses to promote products through ephemeral stories that disappear after 24 hours. Personal messaging remains untouched, and Meta emphasizes that privacy is built into these new features.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142541</guid>
-      <pubDate>Tue, 17 Jun 2025 11:21:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use Fake Verification Prompt and Clickfix Technique to Deploy Fileless AsyncRAT</title>
-      <link>https://gbhackers.com/hackers-use-fake-verification-prompt-and-clickfix-technique/</link>
-      <description>Threat actors are distributing a fileless variant of AsyncRAT remote access Trojan using deceptive tactics such as fake verification prompts. The malware uses obfuscated PowerShell scripts, in-memory execution, and registry persistence to evade detection and maintain covert access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142513</guid>
-      <pubDate>Tue, 17 Jun 2025 11:13:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASUS Armoury Crate Vulnerability Lets Hackers Gain System-Level Access on Windows</title>
-      <link>https://gbhackers.com/asus-armoury-crate-vulnerability/</link>
-      <description>Vulnerable Product: ASUS Armoury Crate; CVE(s): CVE-2025-3464; Summary: A critical vulnerability in ASUS's Armoury Crate software allows attackers to bypass security controls and gain SYSTEM-level privileges, exposing millions of Windows users to system-level compromise. The flaw can be exploited by creating a hard link from a benign application to a trusted executable, tricking the driver into granting privileged access to malicious code.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142520</guid>
-      <pubDate>Tue, 17 Jun 2025 10:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hard-Coded 'b' Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments</title>
-      <link>https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html</link>
-      <description>Vulnerable Product: Sitecore Experience Platform; CVE(s): None; Summary: The article discloses three security flaws in Sitecore Experience Platform that could be chained to achieve pre-authenticated remote code execution. The vulnerabilities include hard-coded credentials, post-authenticated remote code execution via path traversal, and post-authenticated remote code execution via Sitecore PowerShell Extension.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html</guid>
-      <pubDate>Tue, 17 Jun 2025 10:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
