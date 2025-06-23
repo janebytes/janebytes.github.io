@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 19:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 20:02:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>APT36 Hackers Target Indian Defense Personnel with Sophisticated Phishing Campaign</title>
+      <link>https://gbhackers.com/apt36-hackers-target-indian-defense-personnel/</link>
+      <description>APT36, a Pakistan-based cyber espionage group, has launched a sophisticated phishing campaign targeting Indian defense personnel. The campaign uses malicious PDF attachments disguised as official government documents to infiltrate sensitive defense networks and steal credentials. The malware employs advanced anti-analysis techniques, keylogging, clipboard surveillance, and browser data theft to evade detection and exfiltrate sensitive information.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143703</guid>
+      <pubDate>Mon, 23 Jun 2025 19:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1inch rolls out expanded bug bounties with rewards up to $500K</title>
+      <link>https://gbhackers.com/1inch-rolls-out-expanded-bug-bounties-with-rewards-up-to-500k/</link>
+      <description>This article does not discuss a specific vulnerability but rather announces five dedicated bug bounty programs launched by 1inch, a leading DeFi aggregator. The programs aim to strengthen the platform's security and resilience across its smart contracts, wallet, dApp, developer tools, and infrastructure.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143744</guid>
+      <pubDate>Mon, 23 Jun 2025 19:36:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian telecom hacked by suspected China state group</title>
+      <link>https://arstechnica.com/security/2025/06/suspected-china-state-hackers-exploited-patched-flaw-to-breach-canadian-telecom/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2023-20198, CVE-2018-0171, CVE-2023-20273, CVE-2024-20399; Summary: Attackers exploited multiple previously patched vulnerabilities, including CVE-2023-20198, to compromise network devices operated by a Canadian telecom company. The hackers retrieved running configuration files and modified one file to create an aGRE tunnel for traffic collection from the internal network.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/suspected-china-state-hackers-exploited-patched-flaw-to-breach-canadian-telecom/</guid>
+      <pubDate>Mon, 23 Jun 2025 19:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RapperBot Targets DVRs to Hijack Surveillance Cameras and Record Video</title>
+      <link>https://gbhackers.com/rapperbot-targets-dvrs-to-hijack-surveillance-cameras/</link>
+      <description>Vulnerable Product: None; CVE(s): RapperBot variant; Summary: A Mirai variant, RapperBot, targets Digital Video Recorders (DVRs) by exploiting inherent vulnerabilities such as weak default passwords, open ports, and infrequent firmware updates. It uses a multi-pronged approach to compromise DVRs, including brute force login attacks, exploiting known CVEs, and zero-day vulnerabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143679</guid>
+      <pubDate>Mon, 23 Jun 2025 19:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>Shadow Vector Malware Uses SVG Images to Deliver AsyncRAT and RemcosRAT Payloads</title>
       <link>https://gbhackers.com/shadow-vector-malware-uses-svg-images/</link>
@@ -1419,46 +1447,6 @@ FYSA: The article highlights the use of an illicit offering, the Stargazers Ghos
       <description>Iranian government has throttled internet access in the country, allegedly to prevent Israel's covert cyber operations. This development is part of an escalating digital conflict between Iran and Israel, with both sides engaging in retaliatory cyber attacks. The conflict also involves threat actors affiliated with Iran, who have launched malicious activities against U.S. critical infrastructure using IOCONTROL malware.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html</guid>
       <pubDate>Wed, 18 Jun 2025 05:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veeam Vulnerabilities Expose Backup Servers to Remote Attacks</title>
-      <link>https://gbhackers.com/veeam-vulnerabilities/</link>
-      <description>Vulnerable Product: Veeam; CVE(s): CVE-2025-23121, CVE-2025-24286, CVE-2025-24287; Summary: A critical vulnerability (CVE-2025-23121) allows remote code execution on a Veeam Backup Server, while two other vulnerabilities (CVE-2025-24286 and CVE-2025-24287) enable privilege escalation and local privilege escalation in the Veeam Agent for Microsoft Windows, respectively.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142667</guid>
-      <pubDate>Wed, 18 Jun 2025 05:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix NetScaler ADC &amp; Gateway Flaws Expose Sensitive Data to Hackers</title>
-      <link>https://gbhackers.com/citrix-netscaler-adc-gateway-flaws/</link>
-      <description>Vulnerable Product: Citrix NetScaler ADC and NetScaler Gateway; CVE(s): CVE-2025-5349, CVE-2025-5777; Summary: Two critical vulnerabilities have been discovered in Citrix NetScaler ADC and NetScaler Gateway, allowing attackers to gain unauthorized access to critical management functions or read sensitive memory contents. The flaws can be exploited remotely and put enterprise networks at significant risk of data leakage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142663</guid>
-      <pubDate>Wed, 18 Jun 2025 05:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threats to the 2025 NATO Summit</title>
-      <link>https://www.recordedfuture.com/research/threats-2025-nato-summit</link>
-      <description>FYSA:
-
-The provided article appears to be a cybersecurity threat analysis report focused on Russian hybrid warfare tactics and potential threats to European critical infrastructure ahead of the 2025 NATO Summit. The report highlights various forms of sabotage, vandalism, and coercive military actions that Russia may employ to destabilize NATO member states.
-
-Key findings include:
-
-1. Russian-directed sabotage attacks targeting submarine cables in the Baltic Sea have increased since 2022.
-2. Moscow is likely to continue attempting to weaponize refugee flows to foment domestic unrest and exploit concerns about immigration in countries bordering Russia and Belarus.
-3. The Kremlin may increase its military presence and intelligence capabilities near Finland and the Baltic states.
-4. Coercive military actions via incursions into NATO airspace will likely increase ahead of the 2025 NATO Summit.
-
-The report concludes by emphasizing that Russian hybrid threats will continue to target European critical infrastructure, particularly in countries bordering Russia, if there is no significant action regarding Ukraine.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/threats-2025-nato-summit</guid>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity takes a big hit in new Trump executive order</title>
-      <link>https://arstechnica.com/security/2025/06/cybersecurity-take-a-big-hit-in-new-trump-executive-order/</link>
-      <description>FYSA:
-The article discusses the impact of a recent Executive Order (EO) issued by former US President Trump on cybersecurity governance and regulations. The EO rolled back several requirements aimed at improving cybersecurity, including those related to quantum-resistant algorithms, Border Gateway Protocol security, and digital identity documents. Experts warn that these changes will weaken cybersecurity efforts and create vulnerabilities in existing infrastructure.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/cybersecurity-take-a-big-hit-in-new-trump-executive-order/</guid>
-      <pubDate>Tue, 17 Jun 2025 21:33:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
