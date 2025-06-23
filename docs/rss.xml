@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 10:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 11:02:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Allegedly Selling Intelbras Router 0-Day Exploit on Dark Web Forums</title>
+      <link>https://gbhackers.com/hackers-allegedly-selling-intelbras-router-0-day-exploit/</link>
+      <description>Vulnerable Product: Intelbras routers; CVE(s): None; Summary: A previously unknown exploit targeting Intelbras routers has been put up for sale on dark web forums, allowing attackers to gain remote access or control over affected devices. The exact vulnerability remains undisclosed, but the exploit can be used to compromise routers remotely, potentially impacting consumers and organizations relying on these devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143583</guid>
+      <pubDate>Mon, 23 Jun 2025 10:58:20 +0000</pubDate>
+    </item>
     <item>
       <title>⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More</title>
       <link>https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html</link>
@@ -89,6 +96,13 @@ Overall, the article provides a snapshot of current cybersecurity threats and vu
       <description>The article discusses updates to Microsoft's Snipping Tool utility, including the addition of GIF export for screen recordings. It also mentions other recent features added to Snipping Tool, such as a Text Extractor and draw &amp; hold capabilities. There is no mention of vulnerabilities or cybersecurity-related threats in this article.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/</guid>
       <pubDate>Sun, 22 Jun 2025 14:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stellar Repair For Outlook: A Comprehensive Review Of The Ultimate PST Repair Tool</title>
+      <link>https://gbhackers.com/stellar-repair-for-outlook/</link>
+      <description>The article reviews Stellar Repair for Outlook, a software designed to repair and recover corrupted Outlook PST files. It highlights the causes of PST file corruption, such as oversized files, improper shutdowns, malware attacks, and storage device issues. The review provides an in-depth evaluation of the software's features, performance, and usability, including its ability to handle large PST files, selective recovery, and export options.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=142783</guid>
+      <pubDate>Sun, 22 Jun 2025 10:44:44 +0000</pubDate>
     </item>
     <item>
       <title>OpenVPN Driver Vulnerability Let Attackers Crash Windows Systems</title>
@@ -1455,20 +1469,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Vulnerable Product: BeyondTrust; CVE(s): CVE-2025-5309; Summary: The Remote Support (RS) and Privileged Remote Access (PRA) products from BeyondTrust contain a Server-Side Template Injection (SSTI) vulnerability that allows attackers to execute arbitrary code on affected servers via the chat feature. This high-severity issue, tracked as CVE-2025-5309, could have far-reaching consequences for organizations relying on these access management solutions and requires prompt patching or configuration changes to mitigate exploitation risk.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142578</guid>
       <pubDate>Tue, 17 Jun 2025 13:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerabilities in Sitecore Could Lead to Widespread Enterprise Attacks</title>
-      <link>https://gbhackers.com/critical-vulnerabilities-in-sitecore/</link>
-      <description>Vulnerable Product: Sitecore Experience Platform (XP); CVE(s): CVE-2025-27218, WT-2025-0024, WT-2025-0032, WT-2025-0025; Summary: A series of critical vulnerabilities in Sitecore XP allow for remote code execution and unauthorized access. The most severe vulnerability is a pre-authentication RCE flaw due to unsafe deserialization, while other flaws include hardcoded credentials, path traversal, and unrestricted file uploads. Unpatched systems are exposed to attacks that could lead to data theft, lateral movement, and operational disruption.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142575</guid>
-      <pubDate>Tue, 17 Jun 2025 13:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms</title>
-      <link>https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html</link>
-      <description>Scattered Spider, a cybercrime group known for using advanced social engineering tactics, has shifted its focus from retailers to insurance companies. The group is believed to have forged an alliance with the DragonForce ransomware cartel and targets organizations with large help desks and outsourced IT functions. To mitigate these attacks, enhanced authentication, rigorous identity controls, access restrictions, and employee verification are recommended.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html</guid>
-      <pubDate>Tue, 17 Jun 2025 12:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
