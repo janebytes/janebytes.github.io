@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 16:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 17:01:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>US Homeland Security warns of escalating Iranian cyberattack risks</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/</link>
+      <description>The U.S. Department of Homeland Security (DHS) issued a National Terrorism Advisory System bulletin warning about escalating cyberattack risks from Iran-backed hacking groups and pro-Iranian hacktivists, citing the ongoing conflict as a "heightened threat environment" with potential violent extremism and attacks on networks in the United States.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/</guid>
+      <pubDate>Mon, 23 Jun 2025 16:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content</title>
+      <link>https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html</link>
+      <description>A new jailbreaking method called Echo Chamber can be used to trick large language models (LLMs) into generating undesirable responses. The attack uses indirect references and multi-step inference to manipulate the model's internal state, allowing for high success rates with little technical expertise.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html</guid>
+      <pubDate>Mon, 23 Jun 2025 15:58:00 +0000</pubDate>
+    </item>
     <item>
       <title>Canada says Salt Typhoon hacked telecom firm via Cisco flaw</title>
       <link>https://www.bleepingcomputer.com/news/security/canada-says-salt-typhoon-hacked-telecom-firm-via-cisco-flaw/</link>
       <description>Vulnerable Product: Cisco IOS XE; CVE(s): CVE-2023-20198; Summary: The Chinese state-sponsored "Salt Typhoon" hacking group exploited a critical vulnerability (CVE-2023-20198) in February 2025, allowing remote attackers to create arbitrary accounts and gain admin-level privileges. This was the same vulnerability that had been previously exploited as a zero-day in October 2023.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/canada-says-salt-typhoon-hacked-telecom-firm-via-cisco-flaw/</guid>
       <pubDate>Mon, 23 Jun 2025 15:23:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes</title>
+      <link>https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html</link>
+      <description>Pro-Iranian hacktivist groups are likely to target US networks after the US launched airstrikes on Iranian nuclear sites. The Department of Homeland Security warns of a "heightened threat environment" and notes that both hacktivists and Iranian government-affiliated actors may conduct attacks against US networks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html</guid>
+      <pubDate>Mon, 23 Jun 2025 15:14:00 +0000</pubDate>
     </item>
     <item>
       <title>Revil ransomware members released after time served on carding charges</title>
@@ -1438,27 +1459,6 @@ The article discusses the impact of a recent Executive Order (EO) issued by form
       <description>Vulnerable Product: Trend Micro Internet Security Platinum Host Service; CVE(s): CVE-2025-49384; Summary: The vulnerability allows local attackers to escalate privileges on affected installations by creating a symbolic link, which can be used to delete files. An attacker must first obtain low-privileged code execution to exploit this vulnerability, and it can be leveraged to execute arbitrary code in the context of SYSTEM.</description>
       <guid isPermaLink="false">ZDI-CAN-25876</guid>
       <pubDate>Tue, 17 Jun 2025 21:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-399: Fuji Electric Smart Editor V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-399/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor V8; CVE(s): CVE-2025-41388; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor by exploiting a stack-based buffer overflow. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26026</guid>
-      <pubDate>Tue, 17 Jun 2025 21:01:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-400: Fuji Electric Smart Editor TL5 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-400/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor TL5; CVE(s): CVE-2025-32412; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required to exploit this vulnerability, and it occurs due to a lack of proper validation of user-supplied data that can result in a read past the end of an allocated data structure.</description>
-      <guid isPermaLink="false">ZDI-CAN-26032</guid>
-      <pubDate>Tue, 17 Jun 2025 21:01:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-401: Fuji Electric Smart Editor V10 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-401/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor V10; CVE(s): CVE-2025-41413; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The flaw exists in the parsing of V10 files due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26028</guid>
-      <pubDate>Tue, 17 Jun 2025 21:01:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
