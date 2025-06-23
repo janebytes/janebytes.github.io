@@ -6,8 +6,69 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 22:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 10:08:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More</title>
+      <link>https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html</link>
+      <description>FYSA:
+
+The article presents a collection of cybersecurity-related news and updates from various sources. It covers a range of topics, including data breaches, vulnerabilities, and security best practices.
+
+Some notable points include:
+
+* A breach at Viasat, a US satellite communications company, which was attributed to China-linked attackers.
+* The discovery of over 46,000 internet-facing Grafana instances vulnerable to CVE-2025-4123.
+* The use of legitimate platforms like Dropbox and Google Drive as "dead drop resolvers" by threat actors.
+* A warning about the potential for AI agents to leak sensitive data without proper configuration.
+* Guidance on securing Microsoft's System Center Configuration Manager (SCCM) to prevent silent domain takeover attacks.
+
+Overall, the article provides a snapshot of current cybersecurity threats and vulnerabilities, along with practical advice on how to mitigate them.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html</guid>
+      <pubDate>Mon, 23 Jun 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Family Safety Now Blocking All Versions of Google Chrome</title>
+      <link>https://gbhackers.com/microsoft-family-safety-blocking-of-google-chrome/</link>
+      <description>Microsoft's Family Safety feature is blocking all versions of Google Chrome from launching on Windows devices due to a bug in the feature. The issue affects only Chrome, while other browsers like Edge, Firefox, and Opera remain unaffected. The root cause is a bug in Microsoft's Family Safety feature, which prevents Chrome from running when enabled.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143552</guid>
+      <pubDate>Mon, 23 Jun 2025 08:38:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former JBLM Soldier Admits Attempting to Leak U.S. Military Network Details to China</title>
+      <link>https://gbhackers.com/former-jblm-soldier-leak-u-s-military-network-details-to-china/</link>
+      <description>A former US Army sergeant, Joseph Daniel Schmidt, has pleaded guilty to attempting to deliver sensitive military secrets to Chinese authorities. He held classified information while serving with the 109th Military Intelligence Battalion at Joint Base Lewis-McChord and later attempted to share this information with Chinese officials, including creating and offering documents containing "high-level secrets" during his time in Hong Kong.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143545</guid>
+      <pubDate>Mon, 23 Jun 2025 08:17:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Snipping Tool Now Lets Users Export Captures as GIFs</title>
+      <link>https://gbhackers.com/windows-snipping-tool-export-captures-as-gifs/</link>
+      <description>The article discusses an update to Microsoft's Snipping Tool that allows users to export screen recordings as animated GIFs. This feature aims to streamline the process of creating and sharing dynamic visual content, which can be particularly useful for remote work environments. The update is currently available in the Canary and Dev Channels for Windows 11 Insiders, with a broader rollout expected in the near future.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143537</guid>
+      <pubDate>Mon, 23 Jun 2025 06:57:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon EKS Flaws Expose AWS Credentials and Enable Privilege Escalation</title>
+      <link>https://gbhackers.com/amazon-eks-flaws-expose-aws-credentials/</link>
+      <description>Vulnerable Product: Amazon Elastic Kubernetes Service (EKS); CVE(s): None; Summary: The article discusses vulnerabilities in Amazon EKS that could expose sensitive AWS credentials and enable privilege escalation. Misconfigurations and excessive container privileges allow attackers to intercept plaintext credentials, capture AWS credentials using standard tools like tcpdump, or spoof APIs to harvest authorization tokens and obtain valid AWS credentials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143530</guid>
+      <pubDate>Mon, 23 Jun 2025 05:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Meshtastic Flaw Allows Attackers to Decrypt Private Messages</title>
+      <link>https://gbhackers.com/critical-meshtastic-flaw/</link>
+      <description>Vulnerable Product: Meshtastic; CVE(s): CVE-2025-52464; Summary: A severe cryptographic vulnerability in the Meshtastic project allows attackers to decrypt private messages and hijack nodes across LoRa mesh networks. The vulnerability stems from duplicated encryption keys and insufficient randomness during key generation, affecting multiple hardware platforms and posing significant risks to users relying on Meshtastic for secure off-grid communication.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143527</guid>
+      <pubDate>Mon, 23 Jun 2025 05:41:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoinMarketCap Doodle Image Vulnerability Lets Attackers Run Malicious Code via API Call</title>
+      <link>https://gbhackers.com/coinmarketcap-doodle-image-vulnerability/</link>
+      <description>Vulnerable Product: CoinMarketCap; CVE(s): None; Summary: A vulnerability in a doodle image featured on CoinMarketCap's homepage allowed threat actors to inject malicious code, leading to a phishing campaign targeting user wallets. The exploit delivered a tampered JSON payload that embedded unauthorized JavaScript into the site's front end, prompting users to "Verify Wallet" and gain access to their crypto holdings.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143523</guid>
+      <pubDate>Mon, 23 Jun 2025 05:13:44 +0000</pubDate>
+    </item>
     <item>
       <title>CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup</title>
       <link>https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/</link>
@@ -1408,55 +1469,6 @@ FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dio
       <description>Scattered Spider, a cybercrime group known for using advanced social engineering tactics, has shifted its focus from retailers to insurance companies. The group is believed to have forged an alliance with the DragonForce ransomware cartel and targets organizations with large help desks and outsourced IT functions. To mitigate these attacks, enhanced authentication, rigorous identity controls, access restrictions, and employee verification are recommended.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html</guid>
       <pubDate>Tue, 17 Jun 2025 12:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Manipulate Search Engines to Push Malicious Sites</title>
-      <link>https://gbhackers.com/hackers-manipulate-search-engines/</link>
-      <description>A sophisticated SEO poisoning operation has been exposed, where hackers manipulate search engine algorithms to push malicious websites to the top of search results. The platform Hacklink allows cybercriminals to buy access to thousands of compromised websites and inject code designed to deceive both users and search engines. This campaign targets high-traffic search terms related to online gambling and pharmaceuticals, artificially boosting the credibility and search ranking of malicious sites.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142554</guid>
-      <pubDate>Tue, 17 Jun 2025 12:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/17/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Linux Kernel; CVE(s): CVE-2023-0386; Summary: A vulnerability in the Linux Kernel, identified as CVE-2023-0386, has been added to CISA's Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise.</description>
-      <guid isPermaLink="false">/node/23527</guid>
-      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Mendix Studio Pro</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-168-01</link>
-      <description>Vulnerable Product: Siemens Mendix Studio Pro; CVE(s): CVE-2025-40592; Summary: A path traversal vulnerability in the module installation process of Studio Pro allows an attacker to write or modify arbitrary files in directories outside a developer's project directory, which could be exploited by crafting a malicious module and distributing it via the Mendix Marketplace.</description>
-      <guid isPermaLink="false">/node/23520</guid>
-      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fuji Electric Smart Editor</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-168-04</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor; CVE(s): CVE-2025-32412, CVE-2025-41413, CVE-2025-41388; Summary: The Fuji Electric Smart Editor is vulnerable to out-of-bounds read, out-of-bounds write, and stack-based buffer overflow vulnerabilities. Successful exploitation could allow an attacker to execute arbitrary code.</description>
-      <guid isPermaLink="false">/node/23523</guid>
-      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Five Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/17/cisa-releases-five-industrial-control-systems-advisories</link>
-      <description>CISA released five Industrial Control Systems (ICS) advisories on June 17, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories cover specific products from Siemens, LS Electric, Fuji Electric, and Dover Fueling Solutions.</description>
-      <guid isPermaLink="false">/node/23525</guid>
-      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dover Fueling Solutions ProGauge MagLink LX Consoles</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-168-05</link>
-      <description>Vulnerable Product: Dover Fueling Solutions ProGauge MagLink LX consoles; CVE(s): CVE-2025-5310; Summary: The ProGauge MagLink LX consoles have a missing authentication vulnerability, allowing an attacker to create, delete, or modify files and potentially execute code remotely. Successful exploitation could result in control of the monitoring device, manipulation of fueling operations, deletion of system configurations, or deployment of malware.</description>
-      <guid isPermaLink="false">/node/23524</guid>
-      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LS Electric GMWin 4</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-168-02</link>
-      <description>Vulnerable Product: LS Electric GMWin 4; CVE(s): CVE-2025-49848, CVE-2025-49849, CVE-2025-49850; Summary: Successful exploitation of the Out-of-Bounds Write, Out-of-Bounds Read, and Heap-based Buffer Overflow vulnerabilities in LS Electric GMWin 4 could allow an attacker to disclose information or execute arbitrary code.</description>
-      <guid isPermaLink="false">/node/23521</guid>
-      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
