@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 20:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 21:01:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google Integrates GenAI to Counter Indirect Prompt Injection Attack Vectors</title>
+      <link>https://gbhackers.com/google-integrates-genai-to-counter/</link>
+      <description>Vulnerable Product: Google Gemini 2.5; CVE(s): None; Summary: A vulnerability in indirect prompt injection attacks, where malicious instructions are embedded within external data sources such as emails, documents, or calendar invites. The vulnerability is addressed by Google's layered security framework, which includes advanced model hardening, proprietary content classifiers, and user-centric safeguards to prevent data exfiltration and rogue actions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143694</guid>
+      <pubDate>Mon, 23 Jun 2025 20:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAC-0001 Hackers Target ICS Devices Running Windows-Based Server Systems</title>
+      <link>https://gbhackers.com/uac-0001-hackers-target-ics-devices/</link>
+      <description>This article is not about a vulnerability, but rather a sophisticated cyberattack targeting the information and communication system (ICS) of a central executive body. The attackers used various tools, including BEARDSHELL, SLIMAGENT, COVENANT framework, and macros to compromise the system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143685</guid>
+      <pubDate>Mon, 23 Jun 2025 20:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>APT36 Hackers Target Indian Defense Personnel with Sophisticated Phishing Campaign</title>
       <link>https://gbhackers.com/apt36-hackers-target-indian-defense-personnel/</link>
@@ -1433,20 +1447,6 @@ FYSA: The article highlights the use of an illicit offering, the Stargazers Ghos
       <description>Vulnerable Product: Google Gerrit; CVE(s): CVE-2025-1568; Summary: A critical vulnerability in Google's Gerrit code-collaboration platform allows unauthorized code submissions by hackers, putting at least 18 major Google projects at risk. The flaw centers on misconfigured permissions and logic flaws in the review process, enabling attackers to inject malicious code without detection.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142671</guid>
       <pubDate>Wed, 18 Jun 2025 06:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication</title>
-      <link>https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html</link>
-      <description>Vulnerable Product: Veeam; CVE(s): CVE-2025-23121, CVE-2025-24286, CVE-2025-24287; Summary: A critical security flaw (CVE-2025-23121) in Veeam's Backup &amp; Replication software allows remote code execution under certain conditions. Another flaw (CVE-2025-24286) permits an authenticated user to modify backup jobs and execute arbitrary code, while a third vulnerability (CVE-2025-24287) enables local system users to modify directory contents and execute code with elevated permissions.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html</guid>
-      <pubDate>Wed, 18 Jun 2025 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict</title>
-      <link>https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html</link>
-      <description>Iranian government has throttled internet access in the country, allegedly to prevent Israel's covert cyber operations. This development is part of an escalating digital conflict between Iran and Israel, with both sides engaging in retaliatory cyber attacks. The conflict also involves threat actors affiliated with Iran, who have launched malicious activities against U.S. critical infrastructure using IOCONTROL malware.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html</guid>
-      <pubDate>Wed, 18 Jun 2025 05:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
