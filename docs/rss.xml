@@ -6,14 +6,42 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 11:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 12:02:54 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Enhances Defender for Office 365 with Detailed Spam and Phishing Analysis</title>
+      <link>https://gbhackers.com/microsoft-enhances-defender-for-office-365-with-detailed-spam-and-phishing-analysis/</link>
+      <description>This article discusses a significant upgrade to Microsoft Defender for Office 365, introducing AI-powered capabilities to provide clear explanations for email submission results. The new feature aims to enhance transparency, improve incident response, and boost user trust by making threat detection reasoning more accessible.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143604</guid>
+      <pubDate>Mon, 23 Jun 2025 11:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steel Giant Nucor Suffers Cyberattack, IT Systems Breached</title>
+      <link>https://gbhackers.com/steel-giant-nucor-suffers-cyberattack/</link>
+      <description>Nucor Corporation suffered a significant cybersecurity breach that disrupted operations across multiple facilities, leading to the theft of limited company data. The incident involved unauthorized access to its information technology (IT) systems, and the attacker exfiltrated "limited data" before being prevented from further accessing the systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143586</guid>
+      <pubDate>Mon, 23 Jun 2025 11:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Reduces Windows 11 24H2 Restore Point Retention from 90 to 60 Days</title>
+      <link>https://gbhackers.com/microsoft-reduces-windows-11-24h2-restore-point-retention/</link>
+      <description>The article discusses changes to System Restore in Windows 11 version 24H2, specifically reducing the retention period of restore points from 90 days to 60 days. This change aims to balance storage usage and system reliability while providing a clear and predictable window for recovery. The update also includes security improvements, feature updates, and resolves recurring issues with Windows Hello for Business and Noto fonts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143584</guid>
+      <pubDate>Mon, 23 Jun 2025 11:10:12 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Allegedly Selling Intelbras Router 0-Day Exploit on Dark Web Forums</title>
       <link>https://gbhackers.com/hackers-allegedly-selling-intelbras-router-0-day-exploit/</link>
       <description>Vulnerable Product: Intelbras routers; CVE(s): None; Summary: A previously unknown exploit targeting Intelbras routers has been put up for sale on dark web forums, allowing attackers to gain remote access or control over affected devices. The exact vulnerability remains undisclosed, but the exploit can be used to compromise routers remotely, potentially impacting consumers and organizations relying on these devices.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143583</guid>
       <pubDate>Mon, 23 Jun 2025 10:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks</title>
+      <link>https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: This article discusses various safety measures implemented by Google to mitigate emerging attack vectors on its generative AI systems, specifically indirect prompt injections. The measures include model hardening, machine learning models, and system-level safeguards, as well as additional guardrails such as content classifiers, spotlighting, and user confirmation frameworks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html</guid>
+      <pubDate>Mon, 23 Jun 2025 10:46:00 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More</title>
@@ -1429,46 +1457,6 @@ FYSA: Scammers are targeting Canadian consumers with Instagram ads that appear t
       <description>This article is about a workflow orchestration and AI platform called Tines, specifically highlighting a pre-built ticket-handling workflow developed by Connor Brewer. The workflow aims to streamline IT issue handling by automating routine tasks, reducing manual triage, and enabling analysts to focus on more complex challenges.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/</guid>
       <pubDate>Tue, 17 Jun 2025 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker steals 1 million Cock.li user records in webmail data breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/</link>
-      <description>Vulnerable Product: Cock.li Roundcube webmail platform; CVE(s): CVE-2021-44026; Summary: The Cock.li email hosting provider suffered a data breach after threat actors exploited an old SQL injection vulnerability in its now-retired Roundcube webmail platform, exposing over 1 million user records.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/</guid>
-      <pubDate>Tue, 17 Jun 2025 13:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Cyber Attacks in Review: May 2025</title>
-      <link>https://socradar.io/major-cyber-attacks-in-review-may-2025/</link>
-      <description>Vulnerable Product: Cetus Protocol; CVE(s): None; Summary: Attackers exploited a vulnerability in the smart contract of Cetus Protocol's liquidity pools, stealing approximately $223 million in virtual assets. The flaw originated from an open-source library used in the liquidity provider's smart contract, allowing hackers to manipulate pool prices and repeatedly drain token reserves.
-
-FYSA: LockBit was hacked, leaking thousands of Bitcoin addresses and chats. This leak offered law enforcement and analysts key data to trace ransom movements and disrupt operations, while also damaging LockBit's reputation after recent infrastructure takedowns.
-
-Vulnerable Product: SK Shieldus; CVE(s): None; Summary: Malware in SK Shieldus software enabled the exposure of 27 million phone numbers through external Command and Control (C2) servers. The attack targeted SK Shieldus, a security affiliate spun off in 2021, affecting hundreds of corporate clients using its endpoint protection software.
-
-FYSA: Phishing scams often use fake emails, websites, or social profiles to impersonate trusted brands and steal data. SOCRadar's Brand Protection detects these threats early by monitoring across channels and alerts your team instantly.
-
-Vulnerable Product: Coinbase; CVE(s): None; Summary: Coinbase revealed that cybercriminals collaborated with rogue support agents to steal sensitive data from approximately 69,461 customers. The breach involved insiders at Coinbase's overseas retail support centers who accessed and exfiltrated customer information without authorization.
-
-FYSA: The attacks impersonated major brands like Amazon, PayPal, Apple, and financial institutions, using spoofed emails with urgent calls to action linked to convincing fake login pages designed to harvest credentials and payment data. CoGUI's sophistication lies in its conditional redirection – links activate only if the victim's device matches attacker-set criteria like IP location, browser language, or device type, otherwise redirecting to the real brand website to evade detection.
-
-FYSA: Major UK retailers, including Marks &amp; Spencer, Co-op, Harrods, and Dior, fell victim to a wave of cyber attacks attributed to the Scattered Spider group and DragonForce Ransomware affiliates. The attacks exploited social engineering tactics focused on service desk teams, tricking staff into granting access that allowed threat actors to deploy ransomware, steal customer data, and disrupt critical services.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061053</guid>
-      <pubDate>Tue, 17 Jun 2025 13:45:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware</title>
-      <link>https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html</link>
-      <description>Cybersecurity researchers are warning of a new phishing campaign targeting users in Taiwan with malware families such as HoldingHands RAT and Gh0stCringe. The campaign delivers malware via phishing emails impersonating Taiwan's National Taxation Bureau, using lures related to taxes, invoices, and pensions.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html</guid>
-      <pubDate>Tue, 17 Jun 2025 13:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeyondTrust Tools RCE Vulnerability Allows Attackers Execute Arbitrary Code</title>
-      <link>https://gbhackers.com/beyondtrust-tools-rce-vulnerability/</link>
-      <description>Vulnerable Product: BeyondTrust; CVE(s): CVE-2025-5309; Summary: The Remote Support (RS) and Privileged Remote Access (PRA) products from BeyondTrust contain a Server-Side Template Injection (SSTI) vulnerability that allows attackers to execute arbitrary code on affected servers via the chat feature. This high-severity issue, tracked as CVE-2025-5309, could have far-reaching consequences for organizations relying on these access management solutions and requires prompt patching or configuration changes to mitigate exploitation risk.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142578</guid>
-      <pubDate>Tue, 17 Jun 2025 13:18:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
