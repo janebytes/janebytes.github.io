@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 14:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 15:02:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-414: Ruby WEBrick read_header HTTP Request Smuggling Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-414/</link>
+      <description>Vulnerable Product: Ruby WEBrick; CVE(s): CVE-2025-6442; Summary: This vulnerability allows remote attackers to smuggle arbitrary HTTP requests on affected installations of Ruby WEBrick when deployed behind an HTTP proxy. The issue results from inconsistent parsing of terminators of HTTP headers in the read_headers method, which can be exploited to smuggle arbitrary HTTP requests.</description>
+      <guid isPermaLink="false">ZDI-CAN-21876</guid>
+      <pubDate>Mon, 23 Jun 2025 15:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-415: ServiceStack GetErrorResponse Improper Input Validation NTLM Relay Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-415/</link>
+      <description>Vulnerable Product: ServiceStack; CVE(s): CVE-2025-6444; Summary: This vulnerability allows remote attackers to relay NTLM credentials on affected installations of ServiceStack. The specific flaw exists within the implementation of the GetErrorResponse method, resulting from improper input validation, which can lead to a type confusion condition.</description>
+      <guid isPermaLink="false">ZDI-CAN-25834</guid>
+      <pubDate>Mon, 23 Jun 2025 15:02:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-416: ServiceStack FindType Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-416/</link>
+      <description>Vulnerable Product: ServiceStack; CVE(s): CVE-2025-6445; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of ServiceStack. It exists within the implementation of the FindType method, which lacks proper validation of a user-supplied path prior to using it in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-25837</guid>
+      <pubDate>Mon, 23 Jun 2025 15:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SparkKitty Targets iOS and Android Devices via App Store and Google Play Attacks</title>
+      <link>https://gbhackers.com/sparkkitty-targets-ios-and-android-devices/</link>
+      <description>Vulnerable Product: Unknown; CVE(s): None; Summary: SparkKitty is a sophisticated spyware campaign that targets both iOS and Android users, infiltrating official app stores like Google Play and the App Store. The malware steals sensitive data, primarily images from device galleries, by exploiting user trust and using various technical strategies to compromise devices across platforms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143617</guid>
+      <pubDate>Mon, 23 Jun 2025 14:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>McLaren Health Care says data breach impacts 743,000 patients</title>
+      <link>https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacts-743-000-patients/</link>
+      <description>McLaren Health Care suffered a data breach caused by the INC ransomware gang, affecting 743,000 patients. The attack was discovered on August 5, 2024, but forensic investigations determining who was impacted were only completed on May 5, 2025.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacts-743-000-patients/</guid>
+      <pubDate>Mon, 23 Jun 2025 14:28:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>DDoS Attack on Financial Sector Triggers Multi-Day Service Outages</title>
+      <link>https://gbhackers.com/ddos-attack-on-financial-sector/</link>
+      <description>Financial institutions are increasingly targeted by sophisticated Distributed Denial of Service (DDoS) attacks, which exploit complex vulnerabilities in digital infrastructures and APIs. Threat actors employ advanced tactics to mimic legitimate user behavior, making detection and mitigation harder. The DDoS Maturity Model, introduced by FS-ISAC and Akamai, helps organizations assess their cyber maturity and prioritize investments in cybersecurity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143576</guid>
+      <pubDate>Mon, 23 Jun 2025 14:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean Hackers Weaponize GitHub Infrastructure to Distribute Malware</title>
       <link>https://gbhackers.com/north-korean-hackers-weaponize-github-infrastructure/</link>
@@ -1417,50 +1459,6 @@ The article discusses the impact of a recent Executive Order (EO) issued by form
       <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-2783; Summary: A sandbox escape vulnerability (CVE-2025-2783) in Google Chrome was exploited by threat actor TaxOff to deploy a backdoor codenamed Trinper. The vulnerability had a CVSS score of 8.3 and was used as part of a phishing campaign targeting Russian organizations.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html</guid>
       <pubDate>Tue, 17 Jun 2025 19:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scania confirms insurance claim data breach in extortion attempt</title>
-      <link>https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/</link>
-      <description>Scania, a major Swedish manufacturer of heavy trucks and buses, suffered a cybersecurity incident where threat actors used compromised credentials to breach its Financial Services systems and steal insurance claim documents. The attackers emailed several Scania employees, threatening to leak the data online unless their demands were met.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/</guid>
-      <pubDate>Tue, 17 Jun 2025 19:04:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New KimJongRAT Stealer Uses Weaponized LNK File to Deploy PowerShell-Based Dropper</title>
-      <link>https://gbhackers.com/new-kimjongrat-stealer-uses-weaponized-lnk-file/</link>
-      <description>The article discusses new variants of the KimJongRAT stealer malware that emerged in 2019. These variants use a weaponized Windows shortcut (LNK) file as an initial infection vector to deploy multi-stage droppers, aiming to steal sensitive user data, including cryptocurrency wallet extensions and system information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142599</guid>
-      <pubDate>Tue, 17 Jun 2025 18:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Chaos RAT Variants Targeting Windows and Linux Systems to Steal Sensitive Data</title>
-      <link>https://gbhackers.com/new-chaos-rat-variants-targeting-windows-and-linux-systems/</link>
-      <description>Chaos RAT is a remote administration tool (RAT) that targets both Windows and Linux systems. It spreads through phishing campaigns, utilizing malicious PDF attachments embedded in emails to lure unsuspecting users into initiating the infection process. The malware grants attackers extensive control over infected systems, enabling capabilities such as keylogging, screen capture, file exfiltration, and remote command execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142564</guid>
-      <pubDate>Tue, 17 Jun 2025 18:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Sophisticated Multi-Stage Malware Campaign Uses VBS Files to Execute PowerShell Script</title>
-      <link>https://gbhackers.com/new-sophisticated-multi-stage-malware-campaign-uses-vbs-files/</link>
-      <description>A multi-stage malware campaign has been discovered, utilizing heavily obfuscated Visual Basic Script (VBS) files to deploy remote access trojans (RATs). The campaign involves a three-stage process of obfuscation, dynamic script generation, and remote payload downloads, highlighting the evolving tactics of modern cyber threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142587</guid>
-      <pubDate>Tue, 17 Jun 2025 17:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents</title>
-      <link>https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html</link>
-      <description>Vulnerable Product: LangChain's LangSmith platform; CVE(s): None; Summary: The LangSmith platform contains a vulnerability that allows attackers to capture sensitive data, including API keys and user prompts. The vulnerability can be exploited by creating an artificial intelligence (AI) agent with a malicious proxy server, which can then intercept all user communications without the victim's knowledge.
-
-FYSA: Threat actors have released two new variants of WormGPT, powered by xAI Grok and Mistral AI Mixtral, designed to facilitate malicious activities such as creating tailored phishing emails and writing snippets of malware.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html</guid>
-      <pubDate>Tue, 17 Jun 2025 17:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware: Weaponized Research Papers Delivering Malware Through Password-Protected Documents</title>
-      <link>https://gbhackers.com/beware-weaponized-research-papers-delivering-malware/</link>
-      <description>Kimsuky hacking organization is linked to a phishing email campaign targeting individuals with a password-protected HWP document embedded with a malicious OLE object. The attack chain includes the deployment of additional components, including executables and PowerShell scripts, designed to evade detection and establish persistent access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142572</guid>
-      <pubDate>Tue, 17 Jun 2025 17:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
