@@ -6,14 +6,49 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 12:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 13:03:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>BlueNoroff Hackers Exploit Zoom App to Deploy Infostealer Malware in Targeted Attacks</title>
+      <link>https://gbhackers.com/bluenoroff-hackers-exploit-zoom-app-to-deploy-infostealer-malware/</link>
+      <description>The BlueNoroff threat actor group has launched a targeted social engineering campaign against a Canadian online gambling provider, using Zoom platform impersonation and spoofed domains to deploy infostealer malware, compromising sensitive data including user credentials and browser profiles. The attack chain involved technical finesse, psychological manipulation, and the use of anti-forensic techniques to minimize the attacker's footprint.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143560</guid>
+      <pubDate>Mon, 23 Jun 2025 12:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steel giant Nucor confirms hackers stole data in recent breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/</link>
+      <description>Nucor Corporation, North America's largest steel producer and recycler, has confirmed a recent cybersecurity incident where attackers stole data from the company's network. The incident led to the temporary shutdown of some systems and production operations at various facilities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/</guid>
+      <pubDate>Mon, 23 Jun 2025 12:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Issues Alert on ‘UMBRELLA STAND’ Malware Targeting Fortinet FortiGate Firewalls</title>
+      <link>https://gbhackers.com/ncsc-issues-alert-on-umbrella-stand-malware/</link>
+      <description>Vulnerable Product: Fortinet FortiGate 100D series firewalls; CVE(s): None; Summary: The UMBRELLA STAND malware targets internet-facing FortiGate 100D series firewalls to establish long-term access to compromised networks. It features advanced capabilities such as remote shell execution, configurable beacon frequencies, and AES-encrypted communications with its command-and-control server, posing a significant threat to organizations relying on these embedded devices for network security.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143547</guid>
+      <pubDate>Mon, 23 Jun 2025 12:28:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux-Based Firewall IPFire 2.29 Rolls Out Update 194 with Improved VPN Features</title>
+      <link>https://gbhackers.com/linux-based-firewall-ipfire-2-29-194-with-improved-vpn-features/</link>
+      <description>The article discusses the release of IPFire 2.29 – Core Update 194, which brings native support for WireGuard VPN protocol, security enhancements, and package updates. The update aims to improve the firewall's performance, security, and usability, making it more accessible to users.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143614</guid>
+      <pubDate>Mon, 23 Jun 2025 12:07:50 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Enhances Defender for Office 365 with Detailed Spam and Phishing Analysis</title>
       <link>https://gbhackers.com/microsoft-enhances-defender-for-office-365-with-detailed-spam-and-phishing-analysis/</link>
       <description>This article discusses a significant upgrade to Microsoft Defender for Office 365, introducing AI-powered capabilities to provide clear explanations for email submission results. The new feature aims to enhance transparency, improve incident response, and boost user trust by making threat detection reasoning more accessible.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143604</guid>
       <pubDate>Mon, 23 Jun 2025 11:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout</title>
+      <link>https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html</link>
+      <description>This article discusses the challenges faced by Security Operations Center (SOC) analysts, including burnout, tooling fragmentation, and lack of growth opportunities. It highlights the potential benefits of artificial intelligence (AI) in alleviating these issues, such as streamlining workflows, providing real-time feedback, and enabling adaptive automation. The article also emphasizes the importance of targeted support for SOC leaders to reduce burnout and improve team culture.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html</guid>
+      <pubDate>Mon, 23 Jun 2025 11:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Steel Giant Nucor Suffers Cyberattack, IT Systems Breached</title>
@@ -1422,41 +1457,6 @@ FYSA: Scammers are targeting Canadian consumers with Instagram ads that appear t
       <description>Vulnerable Product: Windows; CVE(s): ZDI-CAN-25373; Summary: The Windows LNKzero-day vulnerability (ZDI-CAN-25373) is exploited by the XDSpy threat actor to target governmental entities in Eastern Europe and Russia. The vulnerability manipulates the Windows Explorer UI to conceal malicious commands through excessive whitespace padding, allowing hidden command execution that evades user interface visibility and third-party parsers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142531</guid>
       <pubDate>Tue, 17 Jun 2025 16:35:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Veeam RCE flaw lets domain users hack backup servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/</link>
-      <description>Vulnerable Product: Veeam; CVE(s): CVE-2025-23121; Summary: Veeam Backup &amp; Replication 12 or later contains a critical remote code execution (RCE) vulnerability that can be exploited by authenticated domain users in low-complexity attacks to gain code execution remotely on the Backup Server. The flaw only impacts domain-joined installations and was fixed in version 12.3.2.3617, which was released earlier today.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/</guid>
-      <pubDate>Tue, 17 Jun 2025 15:42:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sitecore CMS exploit chain starts with hardcoded 'b' password</title>
-      <link>https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/</link>
-      <description>Vulnerable Product: Sitecore Experience Platform (XP); CVE(s): None; Summary: A chain of three pre-auth remote code execution (RCE) vulnerabilities allows attackers to breach and hijack servers without authentication. The vulnerabilities hinge on an internal user with a hardcoded password, a Zip Slip flaw in the Upload Wizard, and a vulnerability in the Sitecore PowerShell Extensions (SPE) module.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/</guid>
-      <pubDate>Tue, 17 Jun 2025 15:10:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK fines 23andMe for ‘profoundly damaging’ breach exposing genetics data</title>
-      <link>https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/</link>
-      <description>The UK's Information Commissioner's Office (ICO) fined genetic testing provider 23andMe £2.31 million ($3.12 million) for serious security failings that led to a data breach in 2023, exposing sensitive personal information of thousands of people in the UK and Germany.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/</guid>
-      <pubDate>Tue, 17 Jun 2025 14:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixes Surface Hub boot issues with emergency update</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/</link>
-      <description>Vulnerable Product: Microsoft Surface Hub v1; CVE(s): None; Summary: The June 2025 Windows security update (KB5060533) causes startup failures for some Surface Hub v1 devices running Windows 10, version 22H2, resulting in Secure Boot Violation errors.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/</guid>
-      <pubDate>Tue, 17 Jun 2025 14:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to automate IT ticket handling with AI and Tines</title>
-      <link>https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/</link>
-      <description>This article is about a workflow orchestration and AI platform called Tines, specifically highlighting a pre-built ticket-handling workflow developed by Connor Brewer. The workflow aims to streamline IT issue handling by automating routine tasks, reducing manual triage, and enabling analysts to focus on more complex challenges.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/</guid>
-      <pubDate>Tue, 17 Jun 2025 14:01:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
