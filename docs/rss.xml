@@ -6,8 +6,38 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 13:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 14:08:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>North Korean Hackers Weaponize GitHub Infrastructure to Distribute Malware</title>
+      <link>https://gbhackers.com/north-korean-hackers-weaponize-github-infrastructure/</link>
+      <description>A sophisticated spearphishing campaign orchestrated by the North Korean threat group Kimsuky has been discovered, leveraging GitHub as a critical piece of attack infrastructure to distribute malware. The attackers use hardcoded GitHub Personal Access Tokens (PATs) with repository scope in the malware, granting read and write access to private repositories used as command and control (C&amp;C) infrastructure for storing malware, decoy files, and exfiltrated victim data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143594</guid>
+      <pubDate>Mon, 23 Jun 2025 13:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Confucius Hackers Target Government and Military Entities Using WooperStealer Malware</title>
+      <link>https://gbhackers.com/confucius-hackers-target-government-and-military-entities/</link>
+      <description>Confucius hacking organization has been detected using a modular backdoor named "anondoor" paired with WooperStealer malware to target critical domestic units and industries in South and East Asia. The anondoor backdoor collects system information, downloads additional malicious components, and communicates with the command-and-control server using parameterized requests and custom delimiters, making tracing and defense challenging for security teams.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143569</guid>
+      <pubDate>Mon, 23 Jun 2025 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Teleport Vulnerability Allows Remote Authentication Bypass</title>
+      <link>https://gbhackers.com/critical-teleport-vulnerability/</link>
+      <description>Vulnerable Product: Teleport; CVE(s): CVE-2025-49825; Summary: The vulnerability in Teleport enables remote attackers to bypass authentication controls, potentially granting unauthorized access to sensitive systems. It affects versions up to 17.5.1 and earlier major releases, impacting self-hosted and cloud deployments, particularly those running Teleport SSH agents, OpenSSH-integrated deployments, and Teleport Git proxy setups.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143653</guid>
+      <pubDate>Mon, 23 Jun 2025 13:13:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks</title>
+      <link>https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): ZDI-CAN-25373; Summary: A remote code execution flaw in Microsoft Windows can be triggered when processing specially crafted LNK files. The vulnerability allows an attacker to execute code in the context of the current user, and has been observed being used as part of a multi-stage procedure to deploy malware targeting government agencies in Eastern Europe and the Balkans.
+
+FYSA:</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html</guid>
+      <pubDate>Mon, 23 Jun 2025 13:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>BlueNoroff Hackers Exploit Zoom App to Deploy Infostealer Malware in Targeted Attacks</title>
       <link>https://gbhackers.com/bluenoroff-hackers-exploit-zoom-app-to-deploy-infostealer-malware/</link>
@@ -908,6 +938,17 @@ The article discusses a cyberattack on Krispy Kreme that resulted in the theft o
       <pubDate>Thu, 19 Jun 2025 03:33:00 +0000</pubDate>
     </item>
     <item>
+      <title>DRAT V2: Updated DRAT Emerges in TAG-140’s Arsenal</title>
+      <link>https://www.recordedfuture.com/research/drat-v2-updated-drat-emerges-tag-140s-arsenal</link>
+      <description>This article appears to be a cybersecurity analysis report on the DRAT V2 malware used by the TAG-140 group. The report provides an in-depth analysis of the malware's technical and operational details, including its command structure, C2 obfuscation techniques, and communication protocol.
+
+The report highlights several key differences between the original DRAT and DRAT V2 variants, such as the use of different command naming conventions, changes to system information response formats, and modifications to C2 obfuscation patterns. The analysis also notes that while both versions use Base64 encoding for C2 information, DRAT V2 prepends additional strings to the IP address prior to encoding, which may serve as rudimentary integrity checks or prevent trivial decoding by analysts and automated tools.
+
+The report provides several detection rules and guidelines for security teams to detect and monitor TAG-140 activity, including Snort rules for detecting outbound C2 communication, Sigma rules for detecting persistence via registry run keys, and YARA rules for detecting files containing strings associated with the BroaderAspect malware. The analysis concludes that while DRAT V2 exhibits limited use of defensive evasion or anti-analysis techniques, security teams should remain vigilant and anticipate continued experimentation with malware tooling and infection chains.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/drat-v2-updated-drat-emerges-tag-140s-arsenal</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pro-Israel hackers hit Iran's Nobitex exchange, burn $90M in crypto</title>
       <link>https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/</link>
       <description>The "Predatory Sparrow" hacking group claims to have stolen over $90 million in cryptocurrency from Nobitex, Iran's largest crypto exchange, and intentionally burnt the funds by sending them to vanity addresses. The attack is believed to be politically motivated, with ties to the IRGC and Iranian leadership.</description>
@@ -1420,43 +1461,6 @@ FYSA: Threat actors have released two new variants of WormGPT, powered by xAI Gr
       <description>Kimsuky hacking organization is linked to a phishing email campaign targeting individuals with a password-protected HWP document embedded with a malicious OLE object. The attack chain includes the deployment of additional components, including executables and PowerShell scripts, designed to evade detection and establish persistent access.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142572</guid>
       <pubDate>Tue, 17 Jun 2025 17:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky and Konni APT Groups Lead Active Attacks Targeting East Asia</title>
-      <link>https://gbhackers.com/kimsuky-and-konni-apt-groups-lead-active-attacks/</link>
-      <description>APT groups Kimsuky, Konni, Sidewinder, and Lazarus have been identified as the most active players in various regions, including East Asia, South Asia, Middle East, and Eastern Europe. These groups are using sophisticated intrusion techniques, spear phishing, and exploiting vulnerabilities to target government agencies, financial institutions, research bodies, and diplomats. The report highlights the need for enhanced threat intelligence and robust security frameworks to counter these persistent and evolving threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142549</guid>
-      <pubDate>Tue, 17 Jun 2025 17:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram ads mimicking BMO, EQ Bank are finance scams</title>
-      <link>https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-bank-are-finance-scams/</link>
-      <description>Vulnerable Product: Instagram; CVE(s): None; Summary: Scammers are using Instagram ads, some featuring AI-powered deepfakes, to target Canadian consumers with phishing scams and investment fraud. The ads impersonate financial institutions like Bank of Montreal (BMO) and EQ Bank, prompting users to submit personal information or banking credentials.
-
-FYSA: Scammers are targeting Canadian consumers with Instagram ads that appear to be run by reputable financial institutions but are actually fraudulent. These ads use official branding and color schemes to drive traffic outside of the platform to illicit domains.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-bank-are-finance-scams/</guid>
-      <pubDate>Tue, 17 Jun 2025 16:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram ads mimicking BMO, EQ Banks are finance scams</title>
-      <link>https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-banks-are-finance-scams/</link>
-      <description>Instagram ads impersonating financial institutions like Bank of Montreal (BMO) and EQ Bank are being used to target Canadian consumers with phishing scams and investment fraud, using AI-powered deepfake videos and official branding.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-banks-are-finance-scams/</guid>
-      <pubDate>Tue, 17 Jun 2025 16:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram 'BMO' ads use AI deepfakes to scam banking customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/</link>
-      <description>Instagram ads impersonating financial institutions like Bank of Montreal (BMO) and EQ Bank (Equitable Bank) are being used to target Canadian consumers with phishing scams and investment fraud. The ads use AI-powered deepfake videos or official branding to drive traffic outside the platform to lookalike illicit domains that are not affiliated with banks, attempting to collect personal information or banking credentials.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/</guid>
-      <pubDate>Tue, 17 Jun 2025 16:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>XDSpy Threat Actors Exploit Windows LNK Zero-Day Vulnerability to Target Windows System Users</title>
-      <link>https://gbhackers.com/xdspy-threat-actors-exploit-windows-lnk-zero-day-vulnerability/</link>
-      <description>Vulnerable Product: Windows; CVE(s): ZDI-CAN-25373; Summary: The Windows LNKzero-day vulnerability (ZDI-CAN-25373) is exploited by the XDSpy threat actor to target governmental entities in Eastern Europe and Russia. The vulnerability manipulates the Windows Explorer UI to conceal malicious commands through excessive whitespace padding, allowing hidden command execution that evades user interface visibility and third-party parsers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142531</guid>
-      <pubDate>Tue, 17 Jun 2025 16:35:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
