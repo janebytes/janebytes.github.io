@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 18:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 19:01:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Shadow Vector Malware Uses SVG Images to Deliver AsyncRAT and RemcosRAT Payloads</title>
+      <link>https://gbhackers.com/shadow-vector-malware-uses-svg-images/</link>
+      <description>A malicious campaign called "Shadow Vector" is targeting Colombian users by sending phishing emails with SVG attachments that mimic official legal documents. The attack vector uses embedded links to download a ZIP archive containing malicious DLLs and ultimately deploys remote access tools (RATs) such as AsyncRAT and RemcosRAT, enabling keylogging, credential theft, and full remote control of compromised systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143671</guid>
+      <pubDate>Mon, 23 Jun 2025 18:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware on Google Play, Apple App Store stole your photos—and crypto</title>
+      <link>https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/</link>
+      <description>Vulnerable Product: Various mobile apps on Google Play and Apple App Store; CVE(s): None; Summary: SparkKitty is a new mobile crypto-stealing malware that targets Android and iOS devices, stealing images from infected device's photo gallery to obtain cryptocurrency wallet recovery phrases. The malware spreads through official app stores and unofficial platforms, with identified malicious apps such as 币coin on Apple App Store and SOEX on Google Play.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/</guid>
+      <pubDate>Mon, 23 Jun 2025 16:44:56 +0000</pubDate>
+    </item>
     <item>
       <title>US Homeland Security warns of escalating Iranian cyberattack risks</title>
       <link>https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/</link>
@@ -1445,20 +1459,6 @@ The report concludes by emphasizing that Russian hybrid threats will continue to
 The article discusses the impact of a recent Executive Order (EO) issued by former US President Trump on cybersecurity governance and regulations. The EO rolled back several requirements aimed at improving cybersecurity, including those related to quantum-resistant algorithms, Border Gateway Protocol security, and digital identity documents. Experts warn that these changes will weaken cybersecurity efforts and create vulnerabilities in existing infrastructure.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/06/cybersecurity-take-a-big-hit-in-new-trump-executive-order/</guid>
       <pubDate>Tue, 17 Jun 2025 21:33:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paddle settles for $5 million over facilitating tech support scams</title>
-      <link>https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/</link>
-      <description>Paddle.com and its US subsidiary will pay $5 million to settle FTC allegations that the company facilitated deceptive tech-support schemes that harmed many US consumers, including older adults. The schemes used fake virus alerts and pop-up warnings to lure consumers into buying unneeded software or tech support services, with Paddle processing over $37 million in transactions for affiliated merchants.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/</guid>
-      <pubDate>Tue, 17 Jun 2025 21:14:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-398: Trend Micro Internet Security Platinum Host Service Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-398/</link>
-      <description>Vulnerable Product: Trend Micro Internet Security Platinum Host Service; CVE(s): CVE-2025-49384; Summary: The vulnerability allows local attackers to escalate privileges on affected installations by creating a symbolic link, which can be used to delete files. An attacker must first obtain low-privileged code execution to exploit this vulnerability, and it can be leveraged to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25876</guid>
-      <pubDate>Tue, 17 Jun 2025 21:02:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
