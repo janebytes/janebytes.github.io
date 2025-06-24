@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 10:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 11:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>OPPO Clone Phone Vulnerability Leaks Sensitive Data via Weak WiFi Hotspot</title>
+      <link>https://gbhackers.com/oppo-clone-phone-vulnerability/</link>
+      <description>Vulnerable Product: OPPO Clone Phone; CVE(s): CVE-2025-27387; Summary: The OPPO Clone Phone app has a high-severity vulnerability (CVSS 7.4) that allows attackers within WiFi range to intercept and retrieve files being transferred, exposing sensitive information such as photos, contacts, and messages. The vulnerability is due to the use of a weak password for the temporary WiFi hotspot, making it susceptible to unauthorized access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143856</guid>
+      <pubDate>Tue, 24 Jun 2025 10:58:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>DHS Warns of Pro-Iranian Hacktivists Targeting U.S. Networks</title>
+      <link>https://gbhackers.com/dhs-warns-of-pro-iranian-hacktivists/</link>
+      <description>Pro-Iranian hacktivist groups are expected to launch a wave of low-level cyberattacks targeting US networks in the next one to four weeks, with a focus on Distributed Denial of Service (DDoS) campaigns and exploits targeting exposed operational technology (OT) devices. The attacks aim to disrupt entities supporting US efforts in the Israel-Iran conflict and may be backed by the Iranian government.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143833</guid>
+      <pubDate>Tue, 24 Jun 2025 10:56:27 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-417: Clam AntiVirus UDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-417/</link>
       <description>Vulnerable Product: Clam AntiVirus; CVE(s): CVE-2025-20234; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Clam AntiVirus. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated object.</description>
       <guid isPermaLink="false">ZDI-CAN-26010</guid>
       <pubDate>Tue, 24 Jun 2025 10:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Misconfigured Docker APIs to Mine Cryptocurrency via Tor Network</title>
+      <link>https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html</link>
+      <description>Vulnerable Product: Docker instances; CVE(s): None; Summary: Misconfigured Docker instances are being targeted by attackers who use the Tor anonymity network to stealthily mine cryptocurrency in susceptible environments. Attackers exploit misconfigured Docker APIs to gain access to containerized environments, then use Tor to mask their activities while deploying crypto miners.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html</guid>
+      <pubDate>Tue, 24 Jun 2025 09:57:00 +0000</pubDate>
     </item>
     <item>
       <title>North Korean Hackers Use Malicious Zoom Apps to Execute System-Takeover Attacks</title>
@@ -1428,27 +1449,6 @@ FYSA: The article highlights the use of an illicit offering, the Stargazers Ghos
       <description>Vulnerable Product: Fuji Electric Smart Editor V8; CVE(s): CVE-2025-41388; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required, and the issue results from the lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26020</guid>
       <pubDate>Wed, 18 Jun 2025 10:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-404: Fuji Electric Smart Editor X1 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-404/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor X1; CVE(s): CVE-2025-41388; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required, and the issue results from the lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26022</guid>
-      <pubDate>Wed, 18 Jun 2025 10:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-405: Fuji Electric Smart Editor X1 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-405/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor X1; CVE(s): CVE-2025-41388; Summary: The Fuji Electric Smart Editor X1 has a file parsing stack-based buffer overflow vulnerability, which allows remote attackers to execute arbitrary code on affected installations. User interaction is required to exploit this vulnerability, and the issue results from improper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26024</guid>
-      <pubDate>Wed, 18 Jun 2025 10:08:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-406: SolarWinds Serv-U FTP Service Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-406/</link>
-      <description>Vulnerable Product: SolarWinds Serv-U; CVE(s): CVE-2024-45711; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of SolarWinds Serv-U. Authentication is required to exploit this vulnerability, and it occurs due to the lack of proper validation of a user-supplied path prior to using it in file operations.</description>
-      <guid isPermaLink="false">ZDI-CAN-25087</guid>
-      <pubDate>Wed, 18 Jun 2025 10:08:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
