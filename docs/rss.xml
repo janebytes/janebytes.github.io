@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 21:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 22:01:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Claude catches up to ChatGPT with built-in memory support</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/</link>
+      <description>This article does not discuss any vulnerabilities, but rather mentions ChatGPT's memory feature and potential use by threat actors to write malware. 
+
+(Note: Since the article is about ChatGPT's features and OpenAI's security measures, it does not fit into either of the other two formats)</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/</guid>
+      <pubDate>Tue, 24 Jun 2025 21:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud donates A2A AI protocol to the Linux Foundation</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-cloud-donates-a2a-ai-protocol-to-the-linux-foundation/</link>
+      <description>The article discusses the donation of Agent2Agent (A2A) protocol by Google Cloud to the Linux Foundation, creating a community-driven project for interoperability and collaboration between AI agents. This move aims to accelerate adoption and development of the A2A protocol while ensuring vendor-agnostic and open-source governance.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-cloud-donates-a2a-ai-protocol-to-the-linux-foundation/</guid>
+      <pubDate>Tue, 24 Jun 2025 21:34:38 +0000</pubDate>
+    </item>
     <item>
       <title>SonicWall warns of trojanized NetExtender stealing VPN logins</title>
       <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-trojanized-netextender-stealing-vpn-logins/</link>
@@ -1423,24 +1439,6 @@ The article discusses a cyberattack on Krispy Kreme that resulted in the theft o
       <description>A critical vulnerability known as Password Reset Link Poisoning enables attackers to manipulate the domain in password reset links, redirecting users to malicious sites and capturing sensitive reset tokens. This allows for full account takeover, exposing web users and organizations to serious risks such as account takeover, phishing, and reputational damage.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142918</guid>
       <pubDate>Thu, 19 Jun 2025 05:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions</title>
-      <link>https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html</link>
-      <description>Vulnerable Product: Qualys PAM and libblockdev; CVE(s): CVE-2025-6018, CVE-2025-6019; Summary: Two local privilege escalation (LPE) flaws were discovered by Qualys that can be exploited to gain root privileges on machines running major Linux distributions. CVE-2025-6018 allows an unprivileged user to elevate to the "allow_active" user and call Polkit actions, while CVE-2025-6019 enables an "allow_active" user to gain full root privileges by chaining it with CVE-2025-6018.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html</guid>
-      <pubDate>Thu, 19 Jun 2025 03:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DRAT V2: Updated DRAT Emerges in TAG-140’s Arsenal</title>
-      <link>https://www.recordedfuture.com/research/drat-v2-updated-drat-emerges-tag-140s-arsenal</link>
-      <description>This article appears to be a cybersecurity analysis report on the DRAT V2 malware used by the TAG-140 group. The report provides an in-depth analysis of the malware's technical and operational details, including its command structure, C2 obfuscation techniques, and communication protocol.
-
-The report highlights several key differences between the original DRAT and DRAT V2 variants, such as the use of different command naming conventions, changes to system information response formats, and modifications to C2 obfuscation patterns. The analysis also notes that while both versions use Base64 encoding for C2 information, DRAT V2 prepends additional strings to the IP address prior to encoding, which may serve as rudimentary integrity checks or prevent trivial decoding by analysts and automated tools.
-
-The report provides several detection rules and guidelines for security teams to detect and monitor TAG-140 activity, including Snort rules for detecting outbound C2 communication, Sigma rules for detecting persistence via registry run keys, and YARA rules for detecting files containing strings associated with the BroaderAspect malware. The analysis concludes that while DRAT V2 exhibits limited use of defensive evasion or anti-analysis techniques, security teams should remain vigilant and anticipate continued experimentation with malware tooling and infection chains.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/drat-v2-updated-drat-emerges-tag-140s-arsenal</guid>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
