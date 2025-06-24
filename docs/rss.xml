@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 13:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 14:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Weaponized DMV-Themed Phishing Scam Targets U.S. Citizens to Steal Personal and Financial Data</title>
+      <link>https://gbhackers.com/weaponized-dmv-themed-phishing-scam-targets-u-s-citizens/</link>
+      <description>A sophisticated phishing campaign targeting citizens across multiple US states has been detected, impersonating state Departments of Motor Vehicles (DMVs) to harvest personal and financial data. The campaign uses SMS phishing, fake DMV websites, and a centralized phishing kit named "Lighthouse" to execute its attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143897</guid>
+      <pubDate>Tue, 24 Jun 2025 13:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>US House bans WhatsApp on staff devices over security concerns</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/</link>
+      <description>The U.S. House of Representatives has banned the installation and use of WhatsApp on government-issued devices due to concerns over data encryption and security.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/</guid>
+      <pubDate>Tue, 24 Jun 2025 13:43:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>EagleSpy v5 RAT Promoted by Hacker for Stealthy Android Access</title>
+      <link>https://gbhackers.com/eaglespy-v5-rat-promoted-by-hacker-for-stealthy-android-access/</link>
+      <description>The article describes a new version of the EagleSpy remote access Trojan (RAT), dubbed EagleSpy v5, which is being promoted by a threat actor known as "xperttechy" on a dark web forum. The malware has a wide range of features, including keylogging, screen streaming, and GPS tracking, and is designed to evade detection and maintain persistence on infected devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143914</guid>
+      <pubDate>Tue, 24 Jun 2025 13:19:25 +0000</pubDate>
+    </item>
     <item>
       <title>Zimbra Classic Web Client Vulnerability Allows Arbitrary JavaScript Execution</title>
       <link>https://gbhackers.com/zimbra-classic-web-client-vulnerability/</link>
@@ -1430,27 +1451,6 @@ FYSA: The article highlights the use of an illicit offering, the Stargazers Ghos
       <description>A highly coordinated phishing campaign targeting U.S. citizens has been discovered, utilizing SMS phishing (smishing) and impersonating state Departments of Motor Vehicles (DMVs). The attack threatened license suspension or legal action and attempted to steal personal information by directing victims to fake DMV websites. The campaign is attributed to a China-based threat actor.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142746</guid>
       <pubDate>Wed, 18 Jun 2025 11:37:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware Unveils Cloud Foundation 9.0 With AI and Next-Gen Workloads</title>
-      <link>https://gbhackers.com/vmware-unveils-cloud-foundation-9-0/</link>
-      <description>VMware has announced the general availability of VMware Cloud Foundation (VCF) 9.0, a private cloud technology designed to meet the demands of AI, data-intensive workloads, and modern enterprise operations. The new release offers a unified platform that merges the speed and flexibility of cloud with the performance, governance, and cost control required for on-premises environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142782</guid>
-      <pubDate>Wed, 18 Jun 2025 11:28:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>FedRAMP at Startup Speed: Lessons Learned</title>
-      <link>https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html</link>
-      <description>None</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html</guid>
-      <pubDate>Wed, 18 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome Vulnerabilities Enable Arbitrary Code Execution – Update Now!</title>
-      <link>https://gbhackers.com/google-chrome-vulnerabilities/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): None; Summary: The update addresses three high-severity vulnerabilities, including an integer overflow in V8 and a use-after-free in Profiler, which could allow attackers to execute arbitrary code, potentially leading to data theft or system compromise. If exploited, these vulnerabilities could enable attackers to bypass security controls and take control of a user's system.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142773</guid>
-      <pubDate>Wed, 18 Jun 2025 10:58:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
