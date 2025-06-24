@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 16:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 17:08:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Bank of America, Netflix, and Microsoft Hacked to Inject Fake Phone Numbers</title>
+      <link>https://gbhackers.com/america-netflix-and-microsoft-hacked/</link>
+      <description>Vulnerable Product: Multiple; CVE(s): None; Summary: Cybercriminals are exploiting reflected input vulnerabilities in the search functionality of major brands' websites (e.g., Apple, Bank of America, Facebook, HP, Microsoft, Netflix, and PayPal) to inject fake phone numbers into legitimate websites, deceiving users into contacting scammers under the guise of official customer support. The attackers manipulate search results by crafting URLs that exploit vulnerabilities in the search functionality, embedding fake phone numbers directly into the displayed search results.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143965</guid>
+      <pubDate>Tue, 24 Jun 2025 16:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trezor’s support platform abused in crypto theft phishing attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/</link>
+      <description>Vulnerable Product: Trezor; CVE(s): None; Summary: The automated support system on Trezor's official platform is being abused by attackers to send phishing emails with deceptive subjects. These emails appear authentic, but contain fake alerts that link to a phishing page asking for wallet seed information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/</guid>
+      <pubDate>Tue, 24 Jun 2025 16:54:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>New DRAT V2 Update Enhances C2 Protocol with Shell Command Execution Capabilities</title>
+      <link>https://gbhackers.com/new-drat-v2-update-enhances-c2-protocol/</link>
+      <description>The article discusses a new variant of the DRAT remote access trojan (RAT), dubbed DRAT V2, used in a TAG-140 campaign targeting Indian government entities. The malware features updated command-and-control (C2) protocol and enhanced post-exploitation capabilities, including arbitrary shell command execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143949</guid>
+      <pubDate>Tue, 24 Jun 2025 16:27:06 +0000</pubDate>
+    </item>
     <item>
       <title>FileFix attack weaponizes Windows File Explorer for stealthy commands</title>
       <link>https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/</link>
@@ -84,6 +105,62 @@
       <description>Vulnerable Product: Zimbra Collaboration Suite; CVE(s): CVE-2025-27915; Summary: The Zimbra Classic Web Client has a critical security flaw allowing arbitrary JavaScript execution through stored cross-site scripting (XSS) in ICS calendar invite files, affecting versions 9.0, 10.0, and 10.1 prior to patch releases. Attackers can execute embedded JavaScript, potentially leading to unauthorized actions like email redirection, data exfiltration, or session hijacking.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143908</guid>
       <pubDate>Tue, 24 Jun 2025 12:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ControlID iDSecure On-Premises</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-05</link>
+      <description>Vulnerable Product: ControlID iDSecure On-premises; CVE(s): CVE-2025-49851, CVE-2025-49852, CVE-2025-49853; Summary: Successful exploitation of these vulnerabilities could allow an attacker to bypass authentication, retrieve information, leak arbitrary data, or perform SQL injections.</description>
+      <guid isPermaLink="false">/node/23546</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MICROSENS NMP Web+</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-07</link>
+      <description>Vulnerable Product: MICROSENSE NMP Web+; CVE(s): CVE-2025-49151, CVE-2025-49152, CVE-2025-49153; Summary: The vulnerabilities in NMP Web+ allow an unauthenticated attacker to generate forged JSON Web Tokens (JWT) to bypass authentication, gain system access, overwrite files or execute arbitrary code.</description>
+      <guid isPermaLink="false">/node/23548</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EVLink WallBox</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-04</link>
+      <description>Vulnerable Product: Schneider Electric EVLink WallBox; CVE(s): CVE-2025-5740, CVE-2025-5741, CVE-2025-5742, CVE-2025-5743; Summary: The Schneider Electric EVLink WallBox has multiple vulnerabilities, including path traversal, cross-site scripting, and OS command injection, which could allow an attacker to gain remote control of the charging station. Successful exploitation could cause arbitrary file writes, reads, or remote control of the device.</description>
+      <guid isPermaLink="false">/node/23545</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Eight Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/24/cisa-releases-eight-industrial-control-systems-advisories</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released eight Industrial Control Systems (ICS) advisories on June 24, 2025. These advisories provide information about current security issues, vulnerabilities, and exploits surrounding ICS products from various vendors, including Delta Electronics, Schneider Electric, and Mitsubishi Electric. CISA encourages users to review the advisories for technical details and mitigations.</description>
+      <guid isPermaLink="false">/node/23549</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics CNCSoft</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-02</link>
+      <description>Vulnerable Product: Delta Electronics CNCSoft; CVE(s): CVE-2025-47724, CVE-2025-47725, CVE-2025-47726, CVE-2025-47727; Summary: Out-of-bounds write vulnerabilities in Delta Electronics' CNCSoft human-machine interface software allow an attacker to execute code within the context of the current process if a user opens a maliciously crafted file.</description>
+      <guid isPermaLink="false">/node/23543</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaleris Navis N4 Terminal Operating System</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-01</link>
+      <description>Vulnerable Product: Kaleris Navis N4; CVE(s): CVE-2025-2566, CVE-2025-5087; Summary: The Navis N4 terminal operating system contains two vulnerabilities: an unsafe Java deserialization vulnerability (CVE-2025-2566) that can allow remote code execution, and cleartext transmission of sensitive information (CVE-2025-5087). Successful exploitation could lead to remote code execution or extraction of sensitive information.</description>
+      <guid isPermaLink="false">/node/23542</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric Modicon Controllers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-03</link>
+      <description>Vulnerable Product: Schneider Electric Modicon Controllers M241, M251, M258, LMC058, and M262; CVE(s): CVE-2025-3898, CVE-2025-3117, CVE-2025-3905, CVE-2025-3116; Summary: Improper input validation, cross-site scripting, and uncontrolled resource consumption vulnerabilities exist in the Modicon Controllers, allowing an attacker to execute arbitrary code or cause a denial-of-service condition.</description>
+      <guid isPermaLink="false">/node/23544</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parsons AccuWeather Widget</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-06</link>
+      <description>Vulnerable Product: Parsons AccuWeather and Custom RSS widget, AclaraONE Utility Portal; CVE(s): CVE-2025-5015; Summary: A cross-site scripting vulnerability exists in the AccuWeather and Custom RSS widget, allowing an unauthenticated user to replace the RSS feed URL with a malicious one. Successful exploitation could allow an attacker to insert a malicious link that users might access through the RSS feed.</description>
+      <guid isPermaLink="false">/node/23547</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical Convoy Flaw Allows Remote Code Execution on Servers</title>
@@ -1364,93 +1441,6 @@ The report provides several detection rules and guidelines for security teams to
       <description>The People's Liberation Army (PLA) of China is adopting generative artificial intelligence (AI) to enhance its military operations, using advanced large language models (LLMs) for data processing, intelligence analysis, and decision-making support. This integration poses risks such as hallucination issues, ideological bias, and counterintelligence concerns, highlighting the need for rigorous experimentation and outcome assessment to ensure effective application of AI tools.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142881</guid>
       <pubDate>Wed, 18 Jun 2025 18:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s Digital Arsenal: The Strategic Use of Private Companies and Hacktivists in Cyber Operations</title>
-      <link>https://gbhackers.com/the-strategic-use-of-private-companies-and-hacktivists/</link>
-      <description>Russia's sophisticated cyber warfare strategy emerges as a calculated blend of state power and non-state agility, leveraging private companies, hacktivists, and criminal proxies to amplify its digital dominance. The strategy involves concentric rings with state agencies at the core and a diverse array of non-state actors, including private IT firms, hacktivist groups, and eCrime collectives, which offers Moscow cost efficiency, flexibility, and access to cutting-edge skills, but also risks unpredictability and blurs the line between state and non-state action.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142872</guid>
-      <pubDate>Wed, 18 Jun 2025 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A week with a "smart" car</title>
-      <link>https://blog.talosintelligence.com/a-week-with-a-smart-car/</link>
-      <description>The article discusses the author's experience with advanced vehicle systems in a new car, highlighting issues with constant alerts and difficulty disabling features. It also touches on the importance of user experience and frictionless security tools.
-
-FYSA: Cisco Talos has discovered that the North Korean-aligned threat actor Famous Chollima is targeting cryptocurrency and blockchain professionals through sophisticated phishing campaigns using Python-based malware (PylangGhost) and Golang-based variants. The campaign highlights the constant evolution of threat actors' tools, emphasizing the need for robust defenses and user education.
-
-FYSA: AI scraping bots are breaking into libraries, archives, museums, and galleries, causing some collections to go offline. Additionally, a cybercriminal group leaked 7.4 million citizen records in Paraguay on the dark web, demanding $7.4 million.</description>
-      <guid isPermaLink="false">68519c74813ef3000192102a</guid>
-      <pubDate>Wed, 18 Jun 2025 18:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Halo Security Honored with 2025 MSP Today Product of the Year Award</title>
-      <link>https://gbhackers.com/halo-security-honored-with-2025-msp-today-product-of-the-year-award/</link>
-      <description>Halo Security's Attack Surface Management Platform has been named a 2025 MSP Today Product of the Year Award winner for its innovation, performance, and measurable impact on customers and partners alike. The platform enables organizations to discover, monitor, and secure their internet-facing assets, combining attacker-like discovery methods with ongoing security monitoring and vulnerability scanning.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142902</guid>
-      <pubDate>Wed, 18 Jun 2025 17:42:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware: Fake CAPTCHA Windows Stealthily Install LightPerlGirl Malware</title>
-      <link>https://gbhackers.com/fake-captcha-windows-stealthily-install-lightperlgirl-malware/</link>
-      <description>A newly identified malware strain, LightPerlGirl, uses deceptive fake CAPTCHA popups to infiltrate systems. It propagates through a social engineering tactic called the ClickFix attack, bypassing traditional security measures and exploiting user interaction. The attack begins with a compromised legitimate website serving malicious JavaScript, which triggers a fake CAPTCHA popup, tricking users into executing an obfuscated PowerShell command.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142848</guid>
-      <pubDate>Wed, 18 Jun 2025 17:37:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains</title>
-      <link>https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html</link>
-      <description>The article describes a new campaign using Cloudflare Tunnel subdomains to host malicious payloads and deliver them via phishing emails. The attack starts with sending payment-themed emails bearing a link to a zipped document containing a Windows shortcut file, which activates the infection sequence. The payload is executed in memory, allowing for evasion of detection.
-
-FYSA: None</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html</guid>
-      <pubDate>Wed, 18 Jun 2025 15:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 to block file access via legacy auth protocols by default</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/</link>
-      <description>This article does not mention a specific vulnerability. Instead, it discusses Microsoft's announcement to update security defaults for all Microsoft 365 tenants to block access to SharePoint, OneDrive, and Office files via legacy authentication protocols.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/</guid>
-      <pubDate>Wed, 18 Jun 2025 15:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Stargazers' use fake Minecraft mods to steal player passwords</title>
-      <link>https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/</link>
-      <description>A large-scale malware campaign targets Minecraft players by distributing malicious mods and cheats that infect Windows devices with info-stealers. The campaign uses GitHub as a distribution platform, disguising the malware as legitimate Minecraft content, and can steal credentials, authentication tokens, and cryptocurrency wallets.
-
-Note: There is no specific vulnerability mentioned in this article, but rather a malicious campaign using social engineering tactics to spread malware to victims' devices.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/</guid>
-      <pubDate>Wed, 18 Jun 2025 15:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub</title>
-      <link>https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html</link>
-      <description>The article describes a multi-stage malware campaign targeting Minecraft users, which employs a Java-based malware using a distribution-as-service (DaaS) offering called Stargazers Ghost Network. The campaign's end goal is to trick players into downloading a Minecraft mod from GitHub and deliver a .NET information stealer with comprehensive data theft capabilities.
-
-FYSA: The article highlights the use of an illicit offering, the Stargazers Ghost Network, which makes use of thousands of GitHub accounts to set up tainted repositories that masquerade as cracked software and game cheats.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html</guid>
-      <pubDate>Wed, 18 Jun 2025 14:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChainLink Phishing: How Trusted Domains Become Threat Vectors</title>
-      <link>https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/</link>
-      <description>The article discusses the evolution of phishing attacks, specifically "ChainLink Phishing", which uses trusted infrastructure to funnel victims through a series of credible-looking prompts before harvesting credentials. It highlights how traditional defenses are insufficient against these attacks and emphasizes the need for real-time analysis of web pages and user interactions to effectively mitigate threats like zero-hour phishing.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/</guid>
-      <pubDate>Wed, 18 Jun 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA warns of attackers exploiting Linux flaw with PoC exploit</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/</link>
-      <description>Vulnerable Product: Linux kernel's OverlayFS subsystem; CVE(s): CVE-2023-0386; Summary: A high-severity vulnerability (CVE-2023-0386) in the Linux kernel's OverlayFS subsystem allows attackers to gain root privileges. The flaw, caused by improper ownership management, was patched in January 2023 and publicly disclosed two months later. Multiple proof-of-concept exploits were shared on GitHub, making exploitation attempts easier.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/</guid>
-      <pubDate>Wed, 18 Jun 2025 13:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Healthcare SaaS firm says data breach impacts 5.4 million patients</title>
-      <link>https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/</link>
-      <description>Episource, a healthcare services company, has reported a data breach that affected over 5 million people in the United States. The breach occurred between January 27 and February 6, 2025, when hackers accessed and exfiltrated sensitive health information, including full names, physical addresses, medical records, and social security numbers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/</guid>
-      <pubDate>Wed, 18 Jun 2025 13:44:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
