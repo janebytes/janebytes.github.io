@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 17:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 18:01:33 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft fixes known issue that breaks Windows 11 updates</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/</link>
+      <description>Vulnerable Product: Microsoft, Windows; CVE(s): None; Summary: A configuration update (KB5062324) is being rolled out to address an issue causing Windows Update to fail on some Windows 11 systems. The update is available for devices running Windows 11 version 24H2 and earlier updates.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/</guid>
+      <pubDate>Tue, 24 Jun 2025 17:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 10 users can get extended security updates using Microsoft points</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/</link>
+      <description>No vulnerabilities discussed in this article. The article is focused on Microsoft's Extended Security Updates (ESU) program for Windows 10 users and the end-of-support date for Windows 10, as well as statistics on Windows 10 and Windows 11 adoption rates.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/</guid>
+      <pubDate>Tue, 24 Jun 2025 17:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bank of America, Netflix, and Microsoft Hacked to Inject Fake Phone Numbers</title>
       <link>https://gbhackers.com/america-netflix-and-microsoft-hacked/</link>
@@ -105,6 +119,13 @@
       <description>Vulnerable Product: Zimbra Collaboration Suite; CVE(s): CVE-2025-27915; Summary: The Zimbra Classic Web Client has a critical security flaw allowing arbitrary JavaScript execution through stored cross-site scripting (XSS) in ICS calendar invite files, affecting versions 9.0, 10.0, and 10.1 prior to patch releases. Attackers can execute embedded JavaScript, potentially leading to unauthorized actions like email redirection, data exfiltration, or session hijacking.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143908</guid>
       <pubDate>Tue, 24 Jun 2025 12:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Guidance Released for Reducing Memory-Related Vulnerabilities</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/24/new-guidance-released-reducing-memory-related-vulnerabilities</link>
+      <description>The article does not discuss a vulnerability. Instead, it highlights the importance of memory safety vulnerabilities in modern software development and promotes the adoption of memory safe languages (MSLs) as a mitigation measure to reduce exploitable flaws before products reach users.</description>
+      <guid isPermaLink="false">/node/23537</guid>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ControlID iDSecure On-Premises</title>
@@ -1420,27 +1441,6 @@ The report provides several detection rules and guidelines for security teams to
       <description>Vulnerable Product: BlueNoroff; CVE(s): None; Summary: The North Korean BlueNoroff hacking group is using deepfakes to trick employees into installing custom malware on their macOS devices. The attack involves a fake Zoom meeting and the installation of an AppleScript file that downloads a secondary payload, which includes malicious binaries such as Telegram 2, Root Troy V4, a (InjectWithDyld), XScreen (keyboardd), and CryptoBot (airmond).</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/</guid>
       <pubDate>Wed, 18 Jun 2025 20:37:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-408: PEAK-System Driver PCANFD_ADD_FILTERS Time-Of-Check Time-Of-Use Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-408/</link>
-      <description>Vulnerable Product: PEAK-System Driver PCANFD_ADD_FILTERS; CVE(s): CVE-2025-6217; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of PEAK-System Driver. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which is due to a lack of proper locking when performing operations on an object.</description>
-      <guid isPermaLink="false">ZDI-CAN-24161</guid>
-      <pubDate>Wed, 18 Jun 2025 20:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chollima Hackers Target Windows and MacOS with New GolangGhost RAT Malware</title>
-      <link>https://gbhackers.com/chollima-hackers-target-windows-and-macos/</link>
-      <description>The Famous Chollima group has launched a sophisticated remote access trojan (RAT) campaign targeting Windows and MacOS devices, with a focus on professionals in cryptocurrency and blockchain technologies. The attackers use a two-pronged strategy, creating fake job interview platforms to lure victims into executing malicious commands that download and launch the PylangGhost or GolangGhost variants.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142888</guid>
-      <pubDate>Wed, 18 Jun 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Revolutionizes PLA Military Intelligence with Rapid Deployment Across Operations</title>
-      <link>https://gbhackers.com/ai-revolutionizes-pla-military-intelligence/</link>
-      <description>The People's Liberation Army (PLA) of China is adopting generative artificial intelligence (AI) to enhance its military operations, using advanced large language models (LLMs) for data processing, intelligence analysis, and decision-making support. This integration poses risks such as hallucination issues, ideological bias, and counterintelligence concerns, highlighting the need for rigorous experimentation and outcome assessment to ensure effective application of AI tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142881</guid>
-      <pubDate>Wed, 18 Jun 2025 18:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
