@@ -6,8 +6,108 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 22:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 10:06:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-417: Clam AntiVirus UDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-417/</link>
+      <description>Vulnerable Product: Clam AntiVirus; CVE(s): CVE-2025-20234; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Clam AntiVirus. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated object.</description>
+      <guid isPermaLink="false">ZDI-CAN-26010</guid>
+      <pubDate>Tue, 24 Jun 2025 10:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Use Malicious Zoom Apps to Execute System-Takeover Attacks</title>
+      <link>https://gbhackers.com/north-korean-hackers-use-malicious-zoom-apps/</link>
+      <description>Suspected North Korean hackers have been reported to be behind a highly sophisticated scam, leveraging advanced social engineering techniques to trick professionals into compromising their systems. The campaign begins with a seemingly innocuous outreach on professional networking platforms like LinkedIn, and features a fraudulent account posing as a potential business collaborator.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143824</guid>
+      <pubDate>Tue, 24 Jun 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues</title>
+      <link>https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html</link>
+      <description>Vulnerable Product: WhatsApp; CVE(s): None; Summary: The U.S. House of Representatives has banned congressional staff from using WhatsApp on government-issued devices due to security concerns, citing lack of transparency in data protection, absence of stored data encryption, and potential security risks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html</guid>
+      <pubDate>Tue, 24 Jun 2025 09:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LapDogs Hackers Compromise 1,000 SOHO Devices Using Custom Backdoor for Stealthy Attacks</title>
+      <link>https://gbhackers.com/lapdogs-hackers-compromise-1000-soho-devices/</link>
+      <description>Vulnerable Product: Various; CVE(s): CVE-2015-1548, CVE-2017-17663; Summary: A custom backdoor named ShortLeash was used to infiltrate over 1,000 devices worldwide, primarily targeting SOHO routers and IoT devices, with a focus on critical regions. The malware exploits outdated vulnerabilities in lightweight web servers like ACME mini_httpd, using root privileges to survive reboots and employing dual-layer encryption and UCL-like compression to conceal its payload.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143783</guid>
+      <pubDate>Tue, 24 Jun 2025 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT28 Uses Signal Chat to Deploy BEARDSHELL Malware and COVENANT in Ukraine</title>
+      <link>https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html</link>
+      <description>Vulnerable Product: None; CVE(s): BEARDSHELL, COVENANT; Summary: The article reports a cyber attack campaign by Russia-linked APT28 (UAC-0001) using Signal chat messages to deliver two new malware families, BEARDSHELL and COVENANT. BEARDSHELL offers the ability to download and execute PowerShell scripts, while COVENANT is a memory-resident framework that downloads intermediate payloads to launch the BEARDSHELL backdoor on compromised hosts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html</guid>
+      <pubDate>Tue, 24 Jun 2025 09:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advanced Malware Campaign Targets WordPress and WooCommerce Sites with Hidden Skimmers</title>
+      <link>https://gbhackers.com/advanced-malware-campaign-targets-wordpress-and-woocommerce-sites/</link>
+      <description>Vulnerable Product: WordPress, WooCommerce; CVE(s): None; Summary: A sophisticated malware campaign targeting WordPress and WooCommerce platforms was discovered by the Wordfence Threat Intelligence Team. The malware family features over 20 distinct samples, primarily focusing on credit card skimming and credential theft, with additional functionalities like malicious ad manipulation and payload distribution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143799</guid>
+      <pubDate>Tue, 24 Jun 2025 08:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>OWASP Launches AI Testing Guide to Uncover Vulnerabilities in AI Systems</title>
+      <link>https://gbhackers.com/owasp-launches-ai-testing-guide/</link>
+      <description>The Open Web Application Security Project (OWASP) has released an AI Testing Guide to help organizations identify and mitigate vulnerabilities unique to AI systems. The guide emphasizes bias and fairness assessments, adversarial robustness, security and privacy evaluations, and continuous monitoring to ensure AI systems operate securely and privately.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143813</guid>
+      <pubDate>Tue, 24 Jun 2025 08:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xiaomi Interoperability App Flaw Allows Unauthorized Access to User Devices</title>
+      <link>https://gbhackers.com/xiaomi-interoperability-app-flaw/</link>
+      <description>Vulnerable Product: Xiaomi Mi Connect Service App; CVE(s): CVE-2024-45347; Summary: The Mi Connect Service App has a critical vulnerability allowing attackers to bypass security checks and gain unauthorized access to user devices. This flaw can be exploited by an attacker on the same network segment, resulting in potential consequences such as unauthorized access to sensitive information, modification of device settings or stored data, disruption of normal device functionality, and complete compromise of device confidentiality and integrity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143807</guid>
+      <pubDate>Tue, 24 Jun 2025 08:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>WinRAR Vulnerability Exploited with Malicious Archives to Execute Code</title>
+      <link>https://gbhackers.com/winrar-vulnerability-exploited/</link>
+      <description>Vulnerable Product: RARLAB WinRAR; CVE(s): CVE-2025-6218; Summary: A vulnerability in WinRAR allows attackers to execute arbitrary code by convincing a victim to open a specially crafted archive file. The flaw stems from insufficient validation during extraction, allowing directory traversal sequences to be embedded in archive entries. Exploitation requires user interaction and can lead to full system compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143777</guid>
+      <pubDate>Tue, 24 Jun 2025 06:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aviatrix Cloud Controller Flaw Enables Remote Code Execution via Authentication Bypass</title>
+      <link>https://gbhackers.com/aviatrix-cloud-controller-flaw/</link>
+      <description>Vulnerable Product: Aviatrix Controller; CVE(s): CVE-2025-2171, CVE-2025-2172; Summary: The Aviatrix Controller has two critical vulnerabilities allowing for full system compromise through authentication bypass (CVE-2025-2171) and authenticated command injection (CVE-2025-2172). Attackers can brute-force a weak password reset mechanism to gain administrative access, then inject commands to execute code with root privileges, potentially compromising connected cloud gateways and APIs.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143772</guid>
+      <pubDate>Tue, 24 Jun 2025 06:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Echo Chamber Attack Breaks AI Models Using Indirect Prompts</title>
+      <link>https://gbhackers.com/new-echo-chamber-attack-breaks-ai-models/</link>
+      <description>Vulnerable Product: Large Language Models (LLMs); CVE(s): None; Summary: The Echo Chamber Attack is a sophisticated vulnerability that exposes a critical flaw in the safety mechanisms of advanced LLMs. It leverages subtle, indirect cues and multi-turn reasoning to manipulate AI models into generating harmful or policy-violating content, bypassing token-level filters and safety guardrails.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143756</guid>
+      <pubDate>Tue, 24 Jun 2025 05:34:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notepad++ Vulnerability Allows Full System Takeover — PoC Released</title>
+      <link>https://gbhackers.com/notepad-vulnerability/</link>
+      <description>Vulnerable Product: Notepad++; CVE(s): CVE-2025-49144; Summary: A critical privilege escalation vulnerability (CVE-2025-49144) in Notepad++ v8.8.1 enables attackers to achieve full system control through a supply-chain attack, exploiting the installer's insecure search path behavior, allowing unprivileged users to escalate privileges to NT AUTHORITY\SYSTEM with minimal user interaction. Successful exploitation can grant attackers SYSTEM-level access, enabling data theft, malware installation, and pivoting to other network systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143751</guid>
+      <pubDate>Tue, 24 Jun 2025 05:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom</title>
+      <link>https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2023-20198; Summary: The vulnerability, CVE-2023-20198, is exploited by the China-linked Salt Typhoon actors to breach major global telecommunications providers. This allows the attackers to access configuration files and configure GRE tunnels for long-term access and data exfiltration.
+
+FYSA: Chinese state-sponsored threat actors are targeting edge network devices, including those from Canadian and US-based telecommunications companies, as part of a cyber espionage campaign to breach and maintain persistent access to telecom service providers.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html</guid>
+      <pubDate>Tue, 24 Jun 2025 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT28 hackers use Signal chats to launch new malware attacks on Ukraine</title>
+      <link>https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/</link>
+      <description>APT28, a Russian state-sponsored threat group, is using Signal chats to target government targets in Ukraine with two previously undocumented malware families named BeardShell and SlimAgent. The attacks involve phishing, macros, and memory-resident backdoors to deliver malicious payloads.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/</guid>
+      <pubDate>Mon, 23 Jun 2025 22:14:59 +0000</pubDate>
+    </item>
     <item>
       <title>Google Integrates GenAI to Counter Indirect Prompt Injection Attack Vectors</title>
       <link>https://gbhackers.com/google-integrates-genai-to-counter/</link>
@@ -1349,104 +1449,6 @@ FYSA: The article highlights the use of an illicit offering, the Stargazers Ghos
       <description>Vulnerable Product: SolarWinds Serv-U; CVE(s): CVE-2024-45711; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of SolarWinds Serv-U. Authentication is required to exploit this vulnerability, and it occurs due to the lack of proper validation of a user-supplied path prior to using it in file operations.</description>
       <guid isPermaLink="false">ZDI-CAN-25087</guid>
       <pubDate>Wed, 18 Jun 2025 10:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-407: SolarWinds Web Help Desk AjaxProxy Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-407/</link>
-      <description>Vulnerable Product: SolarWinds Web Help Desk; CVE(s): CVE-2024-28988; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of SolarWinds Web Help Desk without authentication. The specific flaw exists within the AjaxProxy due to lack of proper validation of user-supplied data, resulting in deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25346</guid>
-      <pubDate>Wed, 18 Jun 2025 10:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Famous Chollima deploying Python version of GolangGhost RAT</title>
-      <link>https://blog.talosintelligence.com/python-version-of-golangghost-rat/</link>
-      <description>The article discusses a Python-based remote access trojan (RAT) called "PylangGhost" used by a North Korean-aligned threat actor, Famous Chollima. The RAT targets employees with experience in cryptocurrency and blockchain technologies and is designed to steal browser credentials and session cookies from over 80 extensions, including password managers and cryptocurrency wallets.</description>
-      <guid isPermaLink="false">6851323e813ef30001920f8e</guid>
-      <pubDate>Wed, 18 Jun 2025 10:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Ransomware Emerges as a Major Threat Targeting Windows, Linux, and ESXi Systems</title>
-      <link>https://gbhackers.com/qilin-ransomware-emerges-as-a-major-threat/</link>
-      <description>Qilin ransomware has emerged as a significant threat, leveraging a sophisticated Ransomware-as-a-Service (RaaS) model and advanced technical capabilities to target Windows, Linux, and ESXi systems. Its features include custom-built malware, configurable encryption modes, and services like data storage, spam tools, and legal assistance, positioning it as a comprehensive cybercrime ecosystem.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142720</guid>
-      <pubDate>Wed, 18 Jun 2025 09:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Leverage ClickFix Strategy to Deploy RATs and Data-Stealing Malware</title>
-      <link>https://gbhackers.com/cybercriminals-leverage-clickfix-strategy-to-deploy-rats/</link>
-      <description>Cybercriminals are exploiting a social engineering technique called ClickFix to initiate multi-stage cyberattacks, delivering remote access trojans (RATs) and data-stealing malware with alarming efficiency. The technique manipulates users into executing malicious PowerShell commands by disguising them as routine prompts like CAPTCHA verifications or browser updates.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142689</guid>
-      <pubDate>Wed, 18 Jun 2025 09:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Privilege Escalation Flaws Grant Full Root Access on Multiple Linux Distros</title>
-      <link>https://gbhackers.com/critical-privilege-escalation-flaws/</link>
-      <description>Vulnerable Product: SUSE 15, openSUSE Leap 15; CVE(s): CVE-2025-6018, CVE-2025-6019; Summary: Two interconnected local privilege escalation (LPE) vulnerabilities enable attackers to gain full root access on a wide range of Linux distributions with minimal effort. The flaws impact both desktop and server installations, requiring only a local user session such as SSH for exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142693</guid>
-      <pubDate>Wed, 18 Jun 2025 08:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Winos 4.0 Malware Strain Emerges as Major Threat to Windows Systems</title>
-      <link>https://gbhackers.com/new-winos-4-0-malware-strain-emerges-as-major-threat/</link>
-      <description>FortiGuard Labs has uncovered a new strain of malware, dubbed Winos 4.0, targeting Microsoft Windows users with a focus on individuals in Taiwan, utilizing phishing tactics and masquerading as government or business entities; the malware is designed to steal sensitive user data and maintain persistence through registry keys.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142680</guid>
-      <pubDate>Wed, 18 Jun 2025 08:48:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Linux udisks flaw lets attackers get root on major Linux distros</title>
-      <link>https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/</link>
-      <description>Vulnerable Product: openSUSE Leap 15, SUSE Linux Enterprise 15, Ubuntu, Debian, Fedora; CVE(s): CVE-2025-6018, CVE-2025-6019; Summary: Two local privilege escalation (LPE) vulnerabilities were discovered in the Pluggable Authentication Modules (PAM) framework and libblockdev. Exploiting these flaws allows attackers to gain root privileges on systems running major Linux distributions, enabling agent tampering, persistence, and lateral movement.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/</guid>
-      <pubDate>Wed, 18 Jun 2025 08:45:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Claim Breach of Scania Financial Services, Leak Sensitive Data</title>
-      <link>https://gbhackers.com/hackers-claim-breach-of-scania-financial-services/</link>
-      <description>A threat actor claiming to be "hensi" infiltrated the subdomain insurance.scania.com of Scania Financial Services, exfiltrating sensitive files containing personal, financial, and potentially medical data. The breach is believed to have occurred when attackers exploited credentials belonging to an external IT partner using infostealer malware.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142688</guid>
-      <pubDate>Wed, 18 Jun 2025 07:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asana warns MCP AI feature exposed customer data to other orgs</title>
-      <link>https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/</link>
-      <description>Vulnerable Product: Asana; CVE(s): None; Summary: A logic flaw in the Model Context Protocol (MCP) feature of Asana's work management platform potentially exposed data from one organization to another, including task-level information and project metadata. The exposure occurred for over a month before being discovered on June 4 and has impacted around 1,000 customers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/</guid>
-      <pubDate>Wed, 18 Jun 2025 07:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-23121: Critical RCE Vulnerability Patched in Veeam Backup &amp; Replication</title>
-      <link>https://socradar.io/cve-2025-23121-rce-patched-veeam-backup-replication/</link>
-      <description>Vulnerable Product: Veeam Backup &amp; Replication; CVE(s): CVE-2025-23121 (CVSS 9.9), CVE-2025-24286 (CVSS 7.2), CVE-2025-24287 (CVSS 6.1); Summary: A critical Remote Code Execution (RCE) vulnerability (CVE-2025-23121) allows authenticated domain users to remotely execute arbitrary code on Veeam Backup Servers, affecting systems that are domain-joined. Additionally, two other vulnerabilities were discovered, one allowing modification of backup jobs and another allowing local system users to modify directory contents.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061066</guid>
-      <pubDate>Wed, 18 Jun 2025 06:56:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Alerts to Active Exploits of Linux Kernel Improper Ownership Management Vulnerability</title>
-      <link>https://gbhackers.com/cisa-alerts-to-active-exploits-of-linux-kernel-improper-ownership-management-vulnerability/</link>
-      <description>Vulnerable Product: Various Linux distributions; CVE(s): CVE-2023-0386; Summary: A critical Linux kernel vulnerability (CVE-2023-0386) allows local users to escalate privileges and potentially gain root-level access. The flaw emerges when a user copies a file with special capabilities from a nosuid mount into another mount, due to the kernel's failure to properly clear setuid and setgid bits during the copy-up operation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142676</guid>
-      <pubDate>Wed, 18 Jun 2025 06:45:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents</title>
-      <link>https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html</link>
-      <description>A former CIA analyst, Asif William Rahman, was sentenced to 37 months in prison for stealing and transmitting classified National Defense Information (NDI) without authorization. He retained multiple Secret and Top Secret documents on October 17, 2024, and wilfully sent them to individuals who did not have the necessary clearance.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html</guid>
-      <pubDate>Wed, 18 Jun 2025 06:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability</title>
-      <link>https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html</link>
-      <description>Vulnerable Product: Linux kernel; CVE(s): CVE-2023-0386; Summary: The Linux kernel contains an improper ownership management vulnerability (CVE-2023-0386) that can be exploited to escalate privileges on susceptible systems. The flaw, which has a CVSS score of 7.8, allows a local user to create SUID binaries owned by root and execute them, potentially leading to privilege escalation.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html</guid>
-      <pubDate>Wed, 18 Jun 2025 06:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Gerrit Platform Flaw Exposes 18 Google Projects, Including ChromiumOS, to Hackers</title>
-      <link>https://gbhackers.com/googles-gerrit-platform-flaw-exposes-18-google-projects/</link>
-      <description>Vulnerable Product: Google Gerrit; CVE(s): CVE-2025-1568; Summary: A critical vulnerability in Google's Gerrit code-collaboration platform allows unauthorized code submissions by hackers, putting at least 18 major Google projects at risk. The flaw centers on misconfigured permissions and logic flaws in the review process, enabling attackers to inject malicious code without detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142671</guid>
-      <pubDate>Wed, 18 Jun 2025 06:31:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
