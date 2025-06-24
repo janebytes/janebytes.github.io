@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 11:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 12:02:44 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Critical Convoy Flaw Allows Remote Code Execution on Servers</title>
+      <link>https://gbhackers.com/critical-convoy-flaw/</link>
+      <description>Vulnerable Product: Performave Convoy; CVE(s): CVE-2025-52562; Summary: A critical vulnerability in Performave Convoy allows unauthenticated attackers to execute arbitrary code, steal sensitive data, and gain full server control. The flaw is due to improper input validation in the LocaleController component, enabling directory traversal attacks and remote code execution (RCE).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143880</guid>
+      <pubDate>Tue, 24 Jun 2025 11:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>NCSC Warns of SHOE RACK Malware Targeting Fortinet Firewalls via DOH &amp; SSH Protocols</title>
+      <link>https://gbhackers.com/ncsc-warns-of-shoe-rack-malware-targeting-fortinet-firewalls/</link>
+      <description>The National Cyber Security Centre (NCSC) has identified a newly discovered malware called SHOE RACK that targets Fortinet firewalls and other perimeter devices. The malware uses DNS-over-HTTPS (DoH) for command and control resolution, employs custom SSH extensions, and can enable lateral movement into local area networks (LANs).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143848</guid>
+      <pubDate>Tue, 24 Jun 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud Donates A2A Protocol to Linux Foundation for Smarter, Secure Communication</title>
+      <link>https://gbhackers.com/google-cloud-donates-a2a-protocol/</link>
+      <description>Google Cloud has donated its Agent2Agent (A2A) protocol to the Linux Foundation to promote open, secure, and interoperable communication between AI agents. The A2A protocol is designed as an open standard for seamless collaboration between autonomous AI agents from different platforms and vendors. This move aims to foster innovation, reduce vendor lock-in, and accelerate the development of AI-driven applications across industries.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143867</guid>
+      <pubDate>Tue, 24 Jun 2025 11:10:12 +0000</pubDate>
+    </item>
     <item>
       <title>OPPO Clone Phone Vulnerability Leaks Sensitive Data via Weak WiFi Hotspot</title>
       <link>https://gbhackers.com/oppo-clone-phone-vulnerability/</link>
@@ -368,6 +389,15 @@ FYSA:</description>
       <description>Vulnerable Product: N/A; CVE(s): None; Summary: This article discusses various safety measures implemented by Google to mitigate emerging attack vectors on its generative AI systems, specifically indirect prompt injections. The measures include model hardening, machine learning models, and system-level safeguards, as well as additional guardrails such as content classifiers, spotlighting, and user confirmation frameworks.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html</guid>
       <pubDate>Mon, 23 Jun 2025 10:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Root Exploit, Oracle EBS Flaw, Crypto Logins, and Cisco Access Posted for Sale</title>
+      <link>https://socradar.io/android-root-oracle-ebs-flaws-crypto-logins-cisco-access-sale/</link>
+      <description>The article reports on various listings found on underground forums offering high-value exploits, access credentials, and corporate network access. Specifically, it mentions alleged zero-day vulnerabilities targeting Android and Oracle E-Business Suite, as well as a massive cache of login credentials linked to cryptocurrency users and unauthorized Cisco system access for a German electronics company.
+
+FYSA: The article highlights the continued interest of threat actors in targeting both infrastructure and user-level assets across industries, with listings offering high-value exploits and sensitive information for sale on underground forums.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061172</guid>
+      <pubDate>Mon, 23 Jun 2025 10:00:31 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More</title>
@@ -1421,34 +1451,6 @@ FYSA: The article highlights the use of an illicit offering, the Stargazers Ghos
       <description>Vulnerable Product: WormGPT; CVE(s): None; Summary: WormGPT is a notorious blackhat AI tool that has resurfaced in enhanced forms powered by advanced language models such as xAI's Grok and Mistral AI's Mixtral. The tool allows for the generation of human-like text, enabling malicious activities, and its variants have been introduced on underground forums.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142766</guid>
       <pubDate>Wed, 18 Jun 2025 10:36:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeyondTrust warns of pre-auth RCE in Remote Support software</title>
-      <link>https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/</link>
-      <description>Vulnerable Product: BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) solutions; CVE(s): CVE-2025-5309; Summary: A high-severity Server-Side Template Injection vulnerability in the chat feature of BeyondTrust RS/PRA allows unauthenticated attackers to gain remote code execution on vulnerable servers. Exploitation does not require authentication, and administrators can mitigate the risk by enabling SAML authentication and enforcing session keys.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/</guid>
-      <pubDate>Wed, 18 Jun 2025 10:10:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-402: Fuji Electric Smart Editor TL5 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-402/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor; CVE(s): CVE-2025-41388; Summary: The Fuji Electric Smart Editor TL5 file parsing vulnerability is a stack-based buffer overflow that allows remote attackers to execute arbitrary code, requiring user interaction. This occurs due to the lack of proper validation of user-supplied data length prior to copying it to a fixed-length buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-25942</guid>
-      <pubDate>Wed, 18 Jun 2025 10:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>When legitimate tools go rogue</title>
-      <link>https://blog.talosintelligence.com/when-legitimate-tools-go-rogue/</link>
-      <description>The article discusses the trend of attackers using legitimate software, such as system tools (e.g., whoami, nltest, and nslookup) and remote monitoring and management (RMM) tools (e.g., ScreenConnect or AnyDesk), to carry out malicious actions. This tactic is referred to as "living off the land binaries" (LOLBins). The article highlights the importance of asset management, behavioral baselining, continuous monitoring, and threat intel alignment in detecting these types of attacks.</description>
-      <guid isPermaLink="false">68517e4b813ef30001920ffc</guid>
-      <pubDate>Wed, 18 Jun 2025 10:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-403: Fuji Electric Smart Editor V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-403/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor V8; CVE(s): CVE-2025-41388; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor. User interaction is required, and the issue results from the lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26020</guid>
-      <pubDate>Wed, 18 Jun 2025 10:09:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
