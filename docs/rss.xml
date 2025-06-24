@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 14:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 15:04:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>FileFix attack weaponizes Windows File Explorer for stealthy commands</title>
+      <link>https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/</link>
+      <description>A new variant of the ClickFix social engineering attack called FileFix has been discovered, allowing threat actors to execute malicious commands via the File Explorer address bar in Windows. The attack works by tricking users into pasting a command into the File Explorer address bar, which can then be executed as an operating system command.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/</guid>
+      <pubDate>Tue, 24 Jun 2025 15:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gonjeshke Darande Hackers Pose as Activists to Infiltrate Iranian Crypto Exchange</title>
+      <link>https://gbhackers.com/gonjeshke-darande-hackers-pose-as-activists/</link>
+      <description>Gonjeshke Darande, a suspected Israeli state-sponsored group, launched a devastating attack on Nobitex, Iran's largest cryptocurrency exchange, resulting in the destruction of US$90 million in cryptocurrencies. The attack was motivated by political statements rather than financial gain and highlights the growing role of cyber operations in geopolitical conflicts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143938</guid>
+      <pubDate>Tue, 24 Jun 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 2,000 Devices Compromised by Weaponized Social Security Statement Phishing Attacks</title>
+      <link>https://gbhackers.com/over-2000-devices-compromised-by-weaponized-social-security/</link>
+      <description>CyberArmor analysts have uncovered a sophisticated phishing campaign that has compromised over 2,000 devices by exploiting the trusted theme of Social Security Administration (SSA) statements. The campaign uses a convincing email lure and redirects victims to a counterfeit webpage hosted on Amazon Web Services (AWS), leading users to download malicious software and install malware on their systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143922</guid>
+      <pubDate>Tue, 24 Jun 2025 14:33:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue</title>
+      <link>https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html</link>
+      <description>Akamai researchers have identified two novel methods to disrupt cryptocurrency mining botnets by exploiting common mining topologies and pool policies. The methods involve submitting invalid mining job results ("bad shares") or initiating excessive login requests to ban the attacker's wallet, effectively shutting down the mining operation.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html</guid>
+      <pubDate>Tue, 24 Jun 2025 14:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit ConnectWise Configuration to Create Signed Malware</title>
+      <link>https://gbhackers.com/threat-actors-exploit-connectwise-configuration/</link>
+      <description>Vulnerable Product: ConnectWise; CVE(s): CVE-2024-1708, CVE-2024-1709; Summary: Threat actors are exploiting vulnerabilities in ConnectWise software to distribute signed malware, masquerading as legitimate applications. They use Authenticode stuffing to modify executables without invalidating signatures, enabling remote access malware that mimics trusted software.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143907</guid>
+      <pubDate>Tue, 24 Jun 2025 14:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Today’s Pentest Models Compare and Why Continuous Wins</title>
+      <link>https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/</link>
+      <description>Vulnerable Product: None; Summary: The article discusses the limitations of traditional pentesting approaches and introduces Continuous Penetration Testing (CPT) as a proactive security strategy that simulates real-world attackers operating against an organization's attack surface. CPT combines human-led testing with automation to provide continuous, contextual findings, and real-time alerts and remediation support.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/</guid>
+      <pubDate>Tue, 24 Jun 2025 14:01:11 +0000</pubDate>
+    </item>
     <item>
       <title>Weaponized DMV-Themed Phishing Scam Targets U.S. Citizens to Steal Personal and Financial Data</title>
       <link>https://gbhackers.com/weaponized-dmv-themed-phishing-scam-targets-u-s-citizens/</link>
@@ -21,6 +63,13 @@
       <description>The U.S. House of Representatives has banned the installation and use of WhatsApp on government-issued devices due to concerns over data encryption and security.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/</guid>
       <pubDate>Tue, 24 Jun 2025 13:43:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers</title>
+      <link>https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html</link>
+      <description>Vulnerable Product: Microsoft Exchange Server; CVE(s): CVE-2014-4078, CVE-2020-0796, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-31206, CVE-2021-31207, CVE-2021-34473, CVE-2021-34523; Summary: Unidentified threat actors inject malicious code into Microsoft Exchange server login pages to harvest credentials. The code reads and processes authentication form data, then sends it via XHR request to a compromised server or uses Telegram bots as an exfiltration point.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html</guid>
+      <pubDate>Tue, 24 Jun 2025 13:26:00 +0000</pubDate>
     </item>
     <item>
       <title>EagleSpy v5 RAT Promoted by Hacker for Stealthy Android Access</title>
@@ -1402,55 +1451,6 @@ FYSA: The article highlights the use of an illicit offering, the Stargazers Ghos
       <description>Episource, a healthcare services company, has reported a data breach that affected over 5 million people in the United States. The breach occurred between January 27 and February 6, 2025, when hackers accessed and exfiltrated sensitive health information, including full names, physical addresses, medical records, and social security numbers.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/</guid>
       <pubDate>Wed, 18 Jun 2025 13:44:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>SuperCard Malware Hijacks Android Devices to Steal Payment Card Data and Relay it to Attackers</title>
-      <link>https://gbhackers.com/supercard-malware-hijacks-android-devices/</link>
-      <description>The article discusses the emergence of SuperCard, a malicious modification of the legitimate NFCGate program, which exploits Near Field Communication (NFC) traffic to intercept sensitive bank card data. The malware is distributed via a Malware-as-a-Service (MaaS) platform named SuperCard X and targets Android users globally, with recent attacks recorded in Russia.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142823</guid>
-      <pubDate>Wed, 18 Jun 2025 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zyxel NWA50AX Pro Hit by N-Day Flaw Allowing Arbitrary File Deletion</title>
-      <link>https://gbhackers.com/zyxel-nwa50ax-pro-hit-by-n-day-flaw/</link>
-      <description>Vulnerable Product: Zyxel NWA50AX Pro; CVE(s): CVE-2024-29974; Summary: The Zyxel NWA50AX Pro WiFi 6 access point contains an arbitrary file deletion vulnerability (CVE-2024-29974) that allows attackers to delete files without authentication by crafting a POST request with manipulated parameters. This can lead to further attacks, such as replacing configuration or password files, potentially causing privilege escalation or denial of service.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142854</guid>
-      <pubDate>Wed, 18 Jun 2025 13:17:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Transit Mode in Apple Pay and GPay to Steal Money</title>
-      <link>https://gbhackers.com/hackers-exploit-apple-pay-and-gpay/</link>
-      <description>Vulnerable Product: Mobile Wallets (Apple Pay, Google Pay); CVE(s): None; Summary: The Express Transit mode in mobile wallets like Apple Pay and Google Pay allows for automatic charges without biometric checks or alerts, making it vulnerable to exploitation by hackers who can drain funds instantly and silently. Attackers can grab unlocked phones, mimic legitimate behavior, and exploit weak PINs to steal money.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142853</guid>
-      <pubDate>Wed, 18 Jun 2025 13:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Enhances Office 365 Defender to Stop Email Bombing Campaigns</title>
-      <link>https://gbhackers.com/office-365-defender-to-stop-email-bombing-campaigns/</link>
-      <description>The article discusses a new feature called Mail Bombing Detection in Microsoft Office 365 Defender, designed to combat email bombing attacks by automatically identifying and blocking massive volumes of emails. This feature is enabled by default and does not require manual configuration, providing enhanced protection against email-based threats without additional administrative overhead.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142852</guid>
-      <pubDate>Wed, 18 Jun 2025 13:12:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>MITRE and Splunk Expose Critical Vulnerabilities in Open Source GitHub Actions</title>
-      <link>https://gbhackers.com/mitre-and-splunk-expose-critical-vulnerabilities/</link>
-      <description>Vulnerable Product: GitHub Actions; CVE(s): CVE-2025-47928; Summary: The GitHub Actions workflows of several high-profile open source projects were found to be vulnerable due to the misuse of the pull_request_target trigger. This vulnerability allows attackers to access sensitive secrets and high-privilege tokens, potentially leading to full repository takeovers. The vulnerability was exploited in projects like spotipy-dev/spotipy and MITRE's Cyber Analytics Repository (CAR).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142812</guid>
-      <pubDate>Wed, 18 Jun 2025 13:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>RapperBot Botnet Surges with 50,000+ Attacks Targeting Network Edge Devices</title>
-      <link>https://gbhackers.com/rapperbot-botnet-surges-with-50000-attacks/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The RapperBot botnet has resurfaced with over 50,000 attacks targeting network edge devices, exploiting vulnerabilities in IoT devices such as routers, IP cameras, and other connected hardware. The botnet uses brute-force techniques and exploits known vulnerabilities to compromise devices, establishing persistence by downloading additional payloads and conducting DDoS attacks or serving as a gateway for further malicious activities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142777</guid>
-      <pubDate>Wed, 18 Jun 2025 12:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DMV-Style Phishing Scams Target U.S. Citizens to Harvest Sensitive Information</title>
-      <link>https://gbhackers.com/dmv-style-phishing-scams-target-u-s-citizens/</link>
-      <description>A highly coordinated phishing campaign targeting U.S. citizens has been discovered, utilizing SMS phishing (smishing) and impersonating state Departments of Motor Vehicles (DMVs). The attack threatened license suspension or legal action and attempted to steal personal information by directing victims to fake DMV websites. The campaign is attributed to a China-based threat actor.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142746</guid>
-      <pubDate>Wed, 18 Jun 2025 11:37:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
