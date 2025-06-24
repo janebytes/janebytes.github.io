@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 12:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 13:02:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Zimbra Classic Web Client Vulnerability Allows Arbitrary JavaScript Execution</title>
+      <link>https://gbhackers.com/zimbra-classic-web-client-vulnerability/</link>
+      <description>Vulnerable Product: Zimbra Collaboration Suite; CVE(s): CVE-2025-27915; Summary: The Zimbra Classic Web Client has a critical security flaw allowing arbitrary JavaScript execution through stored cross-site scripting (XSS) in ICS calendar invite files, affecting versions 9.0, 10.0, and 10.1 prior to patch releases. Attackers can execute embedded JavaScript, potentially leading to unauthorized actions like email redirection, data exfiltration, or session hijacking.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143908</guid>
+      <pubDate>Tue, 24 Jun 2025 12:54:23 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Convoy Flaw Allows Remote Code Execution on Servers</title>
       <link>https://gbhackers.com/critical-convoy-flaw/</link>
@@ -28,6 +35,13 @@
       <description>Google Cloud has donated its Agent2Agent (A2A) protocol to the Linux Foundation to promote open, secure, and interoperable communication between AI agents. The A2A protocol is designed as an open standard for seamless collaboration between autonomous AI agents from different platforms and vendors. This move aims to foster innovation, reduce vendor lock-in, and accelerate the development of AI-driven applications across industries.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143867</guid>
       <pubDate>Tue, 24 Jun 2025 11:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Between Buzz and Reality: The CTEM Conversation We All Need</title>
+      <link>https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html</link>
+      <description>The article discusses the implementation of Continuous Threat Exposure Management (CTEM) in complex production environments. Three cybersecurity leaders share their insights and experiences in operationalizing CTEM, highlighting the importance of asset inventory, identity management, threat intelligence, and risk reporting. They also emphasize the need to move away from vulnerability-focused metrics and towards a business-risk-based approach.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html</guid>
+      <pubDate>Tue, 24 Jun 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OPPO Clone Phone Vulnerability Leaks Sensitive Data via Weak WiFi Hotspot</title>
@@ -1437,20 +1451,6 @@ FYSA: The article highlights the use of an illicit offering, the Stargazers Ghos
       <description>Vulnerable Product: Google Chrome; CVE(s): None; Summary: The update addresses three high-severity vulnerabilities, including an integer overflow in V8 and a use-after-free in Profiler, which could allow attackers to execute arbitrary code, potentially leading to data theft or system compromise. If exploited, these vulnerabilities could enable attackers to bypass security controls and take control of a user's system.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=142773</guid>
       <pubDate>Wed, 18 Jun 2025 10:58:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Water Curse Hijacks 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign</title>
-      <link>https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html</link>
-      <description>Water Curse is a financially motivated threat actor that uses weaponized GitHub repositories to deliver multi-stage malware, enabling data exfiltration, remote access, and long-term persistence on infected systems. The actor's arsenal includes various tools and programming languages, and they employ anti-debugging techniques, privilege escalation methods, and persistence mechanisms to maintain a foothold on affected hosts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html</guid>
-      <pubDate>Wed, 18 Jun 2025 10:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlackHat AI Tool WormGPT Enhanced with Grok and Mixtral</title>
-      <link>https://gbhackers.com/wormgpt-enhanced-with-grok-and-mixtral/</link>
-      <description>Vulnerable Product: WormGPT; CVE(s): None; Summary: WormGPT is a notorious blackhat AI tool that has resurfaced in enhanced forms powered by advanced language models such as xAI's Grok and Mistral AI's Mixtral. The tool allows for the generation of human-like text, enabling malicious activities, and its variants have been introduced on underground forums.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142766</guid>
-      <pubDate>Wed, 18 Jun 2025 10:36:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
