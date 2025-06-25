@@ -6,14 +6,56 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 20:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 21:03:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-421: Microsoft Azure App Services Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-421/</link>
+      <description>Vulnerable Product: Microsoft Azure App Services; CVE(s): ZDI-25-421, ZDI-CAN-24622; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Microsoft Azure without authentication. The issue exists within Azure App Services due to the exposure of sensitive information, which can be leveraged by an attacker to disclose information.</description>
+      <guid isPermaLink="false">ZDI-CAN-24622</guid>
+      <pubDate>Wed, 25 Jun 2025 21:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-422: Microsoft Azure Machine Learning Environments Denial-of-Service Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-422/</link>
+      <description>Vulnerable Product: Microsoft Azure Machine Learning Environments; CVE(s): ZDI-CAN-24823, ZDI-25-422; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Microsoft Azure, without requiring authentication. The issue results from predictable Azure Container Registry names, which can be exploited to cause a denial-of-service condition on the AML workspace.</description>
+      <guid isPermaLink="false">ZDI-CAN-24823</guid>
+      <pubDate>Wed, 25 Jun 2025 21:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-423: Microsoft WinJS winjsdevelop Uncontrolled Search Path Element Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-423/</link>
+      <description>Vulnerable Product: Microsoft WinJS; CVE(s): ZDI-25-423, ZDI-CAN-23719; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft WinJS without authentication. The flaw exists in the installation process when loading a non-existent cloud resource that can be taken over by an attacker, enabling them to execute code on dependent systems.</description>
+      <guid isPermaLink="false">ZDI-CAN-23719</guid>
+      <pubDate>Wed, 25 Jun 2025 21:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/</link>
+      <description>Vulnerable Product: Microsoft ClickOnce software deployment tool; CVE(s): None; Summary: The article describes a malicious campaign called OneClik that leverages Microsoft's ClickOnce software deployment tool and custom Golang backdoors to compromise organizations in the energy, oil, and gas sectors. The attackers use legitimate AWS cloud services to keep their command and control infrastructure hidden, and deploy a sophisticated Golang-based backdoor called RunnerBeacon via a .NET-based loader tracked as OneClikNet.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/</guid>
+      <pubDate>Wed, 25 Jun 2025 20:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Malware Discovered Using Prompt Injection to Manipulate AI Models in the Wild</title>
+      <link>https://gbhackers.com/new-malware-discovered-using-prompt-injection/</link>
+      <description>Skynet malware employs a unique evasion tactic called prompt injection to manipulate AI models used in malware analysis. Although the sample is rudimentary, it highlights concerns about the future of AI in cybersecurity and signals an emerging trend of manipulating AI systems with adversarial input.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144203</guid>
+      <pubDate>Wed, 25 Jun 2025 20:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-420: PaperCut NG web-print-hot-folder Link Following Local Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-420/</link>
       <description>Vulnerable Product: PaperCut NG; CVE(s): CVE-2024-8404; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of PaperCut NG by creating a symbolic link, which can be used to delete a file. An attacker must first obtain low-privileged code execution to exploit this vulnerability, and can leverage it to execute arbitrary code in the context of SYSTEM.</description>
       <guid isPermaLink="false">ZDI-CAN-26241</guid>
       <pubDate>Wed, 25 Jun 2025 20:02:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple Brother Device Vulnerabilities Allow Attackers to Execute Arbitrary HTTP Requests</title>
+      <link>https://gbhackers.com/multiple-brother-device-vulnerabilities-allow-attackers/</link>
+      <description>Vulnerable Product: Brother Industries, Ltd. multifunction printers (MFPs) and related devices; CVE(s): CVE-2024-51978, CVE-2024-51981, CVE-2024-51979, CVE-2024-51977, CVE-2024-51982, CVE-2024-51983, CVE-2024-51984; Summary: The article reports on eight zero-day vulnerabilities in Brother MFPs and related devices, affecting 748 models from five major vendors. The most severe vulnerability (CVE-2024-51978) allows an unauthenticated attacker to generate the device's default administrator password, while others permit arbitrary HTTP requests, bypass authentication, or enable remote code execution (RCE).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144186</guid>
+      <pubDate>Wed, 25 Jun 2025 20:02:00 +0000</pubDate>
     </item>
     <item>
       <title>Ubuntu disables Intel GPU security mitigations, promises 20% performance boost</title>
@@ -1395,48 +1437,6 @@ FYSA: Cybercriminals have gained access to a massive dataset of login records, w
       <description>Cybersecurity researchers have discovered a new campaign of 67 GitHub repositories claiming to offer Python-based hacking tools, but delivering trojanized payloads instead. The repositories were taken down by GitHub, and the campaign is believed to target users searching for software such as account cleaning tools and game cheats.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html</guid>
       <pubDate>Fri, 20 Jun 2025 07:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache SeaTunnel Flaw Lets Unauthorized Users Launch Deserialization Attacks</title>
-      <link>https://gbhackers.com/apache-seatunnel-flaw/</link>
-      <description>Vulnerable Product: Apache SeaTunnel; CVE(s): CVE-2025-32896; Summary: The Apache SeaTunnel vulnerability (CVE-2025-32896) allows unauthorized users to exploit insecure REST API endpoints, enabling arbitrary file read and potentially remote code execution through deserialization attacks. This affects versions 2.3.1-2.3.10 and has been classified as moderate to critical in severity, depending on deployment context.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143186</guid>
-      <pubDate>Fri, 20 Jun 2025 07:38:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tesla Wall Connector Hacked Through Charging Port in Just 18 Minutes</title>
-      <link>https://gbhackers.com/tesla-wall-connector-hacked/</link>
-      <description>Vulnerable Product: Tesla Wall Connector; CVE(s): None; Summary: Security researchers from Synacktiv successfully hacked the Tesla Wall Connector through its charging port in just 18 minutes, exposing critical vulnerabilities in the device's firmware and communication protocols. The attack involved downgrading the Wall Connector's firmware to an older version with exposed debug features, including a TCP debug shell accessible over Wi-Fi, and exploiting a global buffer overflow in the shell's command parsing logic for code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143172</guid>
-      <pubDate>Fri, 20 Jun 2025 05:32:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Support Tickets Let Hackers Exploit Atlassian’s Model Context Protocol</title>
-      <link>https://gbhackers.com/malicious-support-tickets-let-hackers-exploit-atlassians-model-context-protocol/</link>
-      <description>Vulnerable Product: Atlassian Jira Service Management (JSM); CVE(s): None; Summary: A new class of cyberattack targets organizations using Atlassian's Model Context Protocol (MCP), exploiting AI-powered workflows in JSM. Malicious support tickets can be used to gain privileged access and exfiltrate sensitive data without breaching internal systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143168</guid>
-      <pubDate>Fri, 20 Jun 2025 05:14:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>No, the 16 billion credentials leak is not a new data breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/</link>
-      <description>This article reports on a massive compilation of previously stolen credentials, allegedly obtained through infostealers, data breaches, and credential-stuffing attacks. The compilation was briefly exposed online, containing over 64,000 credential pairs. The article warns users to adopt good cybersecurity habits, use unique and strong passwords, enable two-factor authentication (2FA), and monitor for known breaches using services like Have I Been Pwned.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/</guid>
-      <pubDate>Thu, 19 Jun 2025 21:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Godfather Android malware now uses virtualization to hijack banking apps</title>
-      <link>https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/</link>
-      <description>Vulnerable Product: Godfather Android Malware; CVE(s): None; Summary: The Godfather Android malware creates isolated virtual environments on mobile devices to steal account data and transactions from legitimate banking apps, using tactics such as intent spoofing, StubActivity, and API hooking. The malware displays a fake lock screen overlay to trick users into entering their PIN/passwords and can record account credentials, passwords, PINs, touch events, and capture responses from the banking backend.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/</guid>
-      <pubDate>Thu, 19 Jun 2025 19:54:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 100,000 WordPress Sites Exposed to Privilege Escalation via MCP AI Engine</title>
-      <link>https://gbhackers.com/over-100000-wordpress-sites-exposed/</link>
-      <description>Vulnerable Product: Jordy Meow AI Engine; CVE(s): CVE-2025-5071; Summary: The AI Engine plugin has a severe vulnerability allowing authenticated attackers with subscriber-level access or higher to gain full control over the Model Context Protocol (MCP) module, enabling privilege escalation and potentially complete site compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143132</guid>
-      <pubDate>Thu, 19 Jun 2025 19:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
