@@ -6,8 +6,183 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 21:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 22:07:54 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-424: Mikrotik RouterOS VXLAN Source IP Improper Access Control Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-424/</link>
+      <description>Vulnerable Product: Mikrotik RouterOS; CVE(s): CVE-2025-6443; Summary: This vulnerability allows remote attackers to bypass access restrictions on affected installations of Mikrotik RouterOS without authentication. The specific flaw exists within the handling of remote IP addresses when processing VXLAN traffic, allowing an attacker to gain access to internal network resources.</description>
+      <guid isPermaLink="false">ZDI-CAN-26415</guid>
+      <pubDate>Wed, 25 Jun 2025 22:07:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-425: PDF-XChange Editor U3D File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-425/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6640; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, and it occurs when parsing U3D files due to the lack of validating the existence of an object prior to performing operations on the object.</description>
+      <guid isPermaLink="false">ZDI-CAN-26527</guid>
+      <pubDate>Wed, 25 Jun 2025 22:07:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-426: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-426/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6641; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, which exists within the parsing of U3D files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26528</guid>
+      <pubDate>Wed, 25 Jun 2025 22:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-427: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-427/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6642; Summary: The PDF-XChange Editor U3D file parsing allows remote attackers to execute arbitrary code by reading past the end of an allocated object due to lack of proper validation of user-supplied data. User interaction is required, and the vulnerability can be exploited by visiting a malicious page or opening a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26530</guid>
+      <pubDate>Wed, 25 Jun 2025 22:07:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-428: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-428/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6643; Summary: The PDF-XChange Editor U3D file parsing allows remote attackers to disclose sensitive information, requiring user interaction. The vulnerability occurs due to the lack of proper validation of user-supplied data, resulting in a read past the end of an allocated object. An attacker can leverage this to execute arbitrary code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26532</guid>
+      <pubDate>Wed, 25 Jun 2025 22:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-429: PDF-XChange Editor U3D File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-429/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6644; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, which exists in the parsing of U3D files due to a lack of validating the existence of an object prior to performing operations on it.</description>
+      <guid isPermaLink="false">ZDI-CAN-26536</guid>
+      <pubDate>Wed, 25 Jun 2025 22:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-430: PDF-XChange Editor U3D File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-430/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6645; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by exploiting a use-after-free flaw in the parsing of U3D files. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26642</guid>
+      <pubDate>Wed, 25 Jun 2025 22:06:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-431: PDF-XChange Editor U3D File Parsing Use-After-Free Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-431/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6646; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor through the parsing of U3D files. User interaction is required, and an attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26643</guid>
+      <pubDate>Wed, 25 Jun 2025 22:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-432: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-432/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6647; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. It requires user interaction, such as visiting a malicious page or opening a malicious file, and is caused by the lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26644</guid>
+      <pubDate>Wed, 25 Jun 2025 22:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-433: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-433/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6648; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor by reading past the end of an allocated object due to lack of proper validation of user-supplied data in U3D file parsing. User interaction is required, and the issue can be exploited by visiting a malicious page or opening a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26671</guid>
+      <pubDate>Wed, 25 Jun 2025 22:05:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-434: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-434/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6649; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, which exists within the parsing of U3D files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26709</guid>
+      <pubDate>Wed, 25 Jun 2025 22:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-435: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-435/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6650; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor by exploiting an out-of-bounds read information disclosure flaw within the parsing of U3D files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data, which can result in reading past the end of an allocated object.</description>
+      <guid isPermaLink="false">ZDI-CAN-26712</guid>
+      <pubDate>Wed, 25 Jun 2025 22:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-436: PDF-XChange Editor JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-436/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6651; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by parsing out-of-bounds write JP2 files. User interaction is required, and the issue results from lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26713</guid>
+      <pubDate>Wed, 25 Jun 2025 22:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-437: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-437/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6652; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor by parsing PRC files without proper validation of user-supplied data, resulting in a read past the end of an allocated object. User interaction is required to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-26724</guid>
+      <pubDate>Wed, 25 Jun 2025 22:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-438: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-438/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6653; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. User interaction is required, and the specific flaw exists within the parsing of PRC files due to a lack of proper validation of user-supplied data, leading to an out-of-bounds read information disclosure.</description>
+      <guid isPermaLink="false">ZDI-CAN-26726</guid>
+      <pubDate>Wed, 25 Jun 2025 22:03:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-439: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-439/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6654; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by parsing out-of-bounds write PRC files. User interaction is required, and the issue results from lack of proper validation of user-supplied data, leading to a write past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26729</guid>
+      <pubDate>Wed, 25 Jun 2025 22:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-440: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-440/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6655; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. It requires user interaction, such as visiting a malicious page or opening a malicious file, and is caused by the lack of proper validation of user-supplied data, leading to a read past the end of an allocated object.</description>
+      <guid isPermaLink="false">ZDI-CAN-26730</guid>
+      <pubDate>Wed, 25 Jun 2025 22:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-441: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-441/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6656; Summary: The PDF-XChange Editor PRC file parsing allows remote attackers to disclose sensitive information by exploiting an out-of-bounds read information disclosure vulnerability. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue exists within the parsing of PRC files and can be exploited in conjunction with other vulnerabilities to execute arbitrary code.</description>
+      <guid isPermaLink="false">ZDI-CAN-26731</guid>
+      <pubDate>Wed, 25 Jun 2025 22:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-442: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-442/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6657; Summary: The vulnerability allows remote attackers to disclose sensitive information by reading past the end of an allocated buffer due to lack of proper validation of user-supplied data in PRC file parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26732</guid>
+      <pubDate>Wed, 25 Jun 2025 22:02:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-443: PDF-XChange Editor GIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-443/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6660; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by exploiting a heap-based buffer overflow in the GIF file parsing. User interaction is required, and the attack vector involves visiting a malicious page or opening a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26763</guid>
+      <pubDate>Wed, 25 Jun 2025 22:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-444: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-444/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6658; Summary: The vulnerability allows remote attackers to disclose sensitive information by parsing out-of-bounds read information disclosure. User interaction is required, and the issue results from lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26733</guid>
+      <pubDate>Wed, 25 Jun 2025 22:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-445: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-445/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6659; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, which exists within the parsing of PRC files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26734</guid>
+      <pubDate>Wed, 25 Jun 2025 22:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-446: PDF-XChange Editor App Object Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-446/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6661; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by exploiting an App object use-after-free remote code execution flaw. User interaction is required to exploit this vulnerability, and the issue results from a lack of validating the existence of an object prior to performing operations on it.</description>
+      <guid isPermaLink="false">ZDI-CAN-26823</guid>
+      <pubDate>Wed, 25 Jun 2025 22:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-447: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-447/</link>
+      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6662; Summary: The PDF-XChange Editor PRC file parsing allows remote attackers to disclose sensitive information through an out-of-bounds read information disclosure vulnerability. User interaction is required, and the specific flaw exists within the parsing of PRC files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26985</guid>
+      <pubDate>Wed, 25 Jun 2025 22:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers turn ScreenConnect into malware using Authenticode stuffing</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/</link>
+      <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): None; Summary: Threat actors are modifying the authenticode signature of the ConnectWise ScreenConnect installer to build signed remote access malware. The modified certificate table contains new malicious configuration information, allowing for stealthy access to infected devices.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/</guid>
+      <pubDate>Wed, 25 Jun 2025 21:51:46 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-421: Microsoft Azure App Services Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-421/</link>
@@ -1256,187 +1431,6 @@ The article discusses the potential for cyber retaliation following a kinetic st
       <description>A sophisticated PowerShell script named y1.ps1 has been discovered hosted in an open directory on a Chinese server. The script operates as a shellcode loader, employing advanced in-memory execution techniques to bypass traditional detection mechanisms. It uses various evasion techniques, including API hashing and forged User-Agent strings, to evade network monitoring and antivirus solutions.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143261</guid>
       <pubDate>Fri, 20 Jun 2025 17:23:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft investigates OneDrive bug that breaks file search</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/</link>
-      <description>Vulnerable Product: Microsoft OneDrive; CVE(s): None; Summary: Some OneDrive users are experiencing blank search results or no results at all, even when searching for files they know exist. The issue affects a subset of users across most OneDrive platforms and there is currently no known workaround or estimated timeline for a fix.
-
-FYSA:</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/</guid>
-      <pubDate>Fri, 20 Jun 2025 16:39:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Ransomware Adds "Call Lawyer" Feature to Pressure Victims for Larger Ransoms</title>
-      <link>https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html</link>
-      <description>Qilin ransomware-as-a-service (RaaS) scheme is intensifying its activity, offering legal counsel for affiliates to put pressure on victims to pay up. The group's affiliate panel now includes features like "Call Lawyer" and spam services, positioning itself as a full-service cybercrime platform.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html</guid>
-      <pubDate>Fri, 20 Jun 2025 16:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider</title>
-      <link>https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/</link>
-      <description>Cloudflare mitigated a record-breaking distributed denial of service (DDoS) attack in May 2025 that peaked at 7.3 Tbps, targeting a hosting provider. The attack used multiple vectors, including UDP floods, QOTD reflection, Echo reflection, NTP amplification, Mirai botnet UDP flood, Portmap flood, and RIPv1 amplification, each exploiting legacy or poorly configured services.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/</guid>
-      <pubDate>Fri, 20 Jun 2025 15:54:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aflac discloses breach amidst Scattered Spider insurance attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/</link>
-      <description>Vulnerable Product: Aflac; CVE(s): None; Summary: The systems of American insurance giant Aflac were breached by a sophisticated cybercrime group, potentially stealing personal and health information. The attack shows signs of being carried out by Scattered Spider, a group known for their social engineering attacks against high-profile organizations worldwide.
-
-Note: There is no specific vulnerability mentioned in the article, so no CVEs are listed.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/</guid>
-      <pubDate>Fri, 20 Jun 2025 14:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can users reset their own passwords without sacrificing security?</title>
-      <link>https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/</link>
-      <description>The article discusses the benefits of self-service password reset (SSPR) solutions in reducing helpdesk load, costs, and improving productivity. It highlights the importance of proper security considerations when implementing an SSPR solution, including strong identity verification measures and multi-factor authentication (MFA). The article also emphasizes the need for a user-friendly experience to promote adoption and minimize abandonment.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/</guid>
-      <pubDate>Fri, 20 Jun 2025 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive DDoS Attack Hits 7.3 Tbps Delivering 37.4 Terabytes in 45 Seconds</title>
-      <link>https://gbhackers.com/massive-ddos-attack-hits-7-3-tbps/</link>
-      <description>A massive distributed denial-of-service (DDoS) attack peaked at 7.3 terabits per second (Tbps), overwhelming its target with 37.4 terabytes of data in just 45 seconds, targeting an unnamed hosting provider that relied on Cloudflare's Magic Transit service for network defense.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143273</guid>
-      <pubDate>Fri, 20 Jun 2025 13:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft to remove legacy drivers from Windows Update for security boost</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-legacy-drivers-from-windows-update-for-security-boost/</link>
-      <description>This article is not about a specific vulnerability, but rather discusses Microsoft's plan to periodically remove legacy drivers from the Windows Update catalog to mitigate security and compatibility risks. The company aims to ensure the optimal set of drivers on Windows Update while maintaining its security posture.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-legacy-drivers-from-windows-update-for-security-boost/</guid>
-      <pubDate>Fri, 20 Jun 2025 13:05:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azure Misconfiguration Lets Attackers Take Over Cloud Infrastructure</title>
-      <link>https://gbhackers.com/azure-misconfiguration-take-over-cloud-infrastructure/</link>
-      <description>Vulnerable Product: Microsoft Azure; CVE(s): None; Summary: A chain of misconfigurations in Microsoft Azure allows attackers to gain complete control over an organization's cloud infrastructure, from initial access to full tenant takeover. The attack path involves unauthenticated reconnaissance, exploiting public storage accounts, and leveraging dynamic group membership rules to achieve privilege escalation and lateral movement, ultimately leading to total ownership of the Azure environment.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143248</guid>
-      <pubDate>Fri, 20 Jun 2025 13:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran's State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist</title>
-      <link>https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html</link>
-      <description>Iran's state-owned TV broadcaster was hacked to air videos calling for street protests against the Iranian government, while Israel accused Iran of launching cyber attacks. The incident is part of a larger cyber war between Israel and Iran that has been ongoing for over a decade.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html</guid>
-      <pubDate>Fri, 20 Jun 2025 11:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AntiDot 3-in-1 Android Botnet Malware Grants Attackers Full Control Over Victim Devices</title>
-      <link>https://gbhackers.com/antidot-3-in-1-android-botnet-malware-grants-attackers/</link>
-      <description>AntiDot is a new Android botnet malware that grants cybercriminals control over infected devices. It has advanced capabilities such as screen recording, SMS interception, and credential theft through overlay attacks. The malware operates through at least 11 active command-and-control (C2) servers, managing over 3,775 infected devices across 273 distinct campaigns.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143233</guid>
-      <pubDate>Fri, 20 Jun 2025 11:53:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oxford City Council Hit by Cyberattack Exposing Employee Personal Data</title>
-      <link>https://gbhackers.com/oxford-city-council-hit-by-cyberattack/</link>
-      <description>Oxford City Council's network was targeted by a sophisticated cyberattack that exposed personal data of employees involved in council-administered elections over the past two decades. The attack allowed attackers to access historic data stored on legacy systems, affecting current and former council officers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143245</guid>
-      <pubDate>Fri, 20 Jun 2025 11:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Versa Director Flaws Let Attackers Execute Arbitrary Commands</title>
-      <link>https://gbhackers.com/versa-director-flaws/</link>
-      <description>Vulnerable Product: Versa Networks' SD-WAN orchestration platform, Versa Director; CVE(s): CVE-2025-23171, CVE-2025-23172; Summary: Authenticated attackers can upload malicious files and execute arbitrary commands on affected systems due to insecure file upload and webhook functionalities. The first flaw allows remote code execution (RCE) if a webshell is uploaded and accessed, while the second vulnerability enables authenticated users to execute commands as the "versa" user with sudo privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143238</guid>
-      <pubDate>Fri, 20 Jun 2025 11:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>GodFather Android Malware Uses On-Device Virtualization to Hijack Legitimate Banking Apps</title>
-      <link>https://gbhackers.com/godfather-android-malware-uses-on-device-virtualization/</link>
-      <description>The GodFather Android banking malware creates a fully isolated virtual environment on the victim's device, enabling attackers to monitor and manipulate user interactions in real-time. It employs a malicious "host" application that downloads and runs a copy of the targeted app within a controlled sandbox, capturing credentials and sensitive information with precision.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143210</guid>
-      <pubDate>Fri, 20 Jun 2025 10:38:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-411: Delta Electronics CNCSoft-G2 DPAX File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-411/</link>
-      <description>Vulnerable Product: Delta Electronics CNCSoft-G2; CVE(s): CVE-2025-47728; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft-G2. User interaction is required, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of DPAX files due to a lack of proper validation of user-supplied data, leading to a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26167</guid>
-      <pubDate>Fri, 20 Jun 2025 10:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-412: Fuji Electric Smart Editor  X1 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-412/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor X1; CVE(s): CVE-2025-41413; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fuji Electric Smart Editor by writing past the end of an allocated data structure. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26031</guid>
-      <pubDate>Fri, 20 Jun 2025 10:04:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-413: Fuji Electric Smart Editor TL5 File Parsing Stack-Based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-413/</link>
-      <description>Vulnerable Product: Fuji Electric Smart Editor; CVE(s): CVE-2025-41388; Summary: The Fuji Electric Smart Editor TL5 file parsing stack-based buffer overflow vulnerability allows remote attackers to execute arbitrary code on affected installations, requiring user interaction. The flaw exists in the processing of TL5 files due to lack of proper validation of user-supplied data prior to copying it to a fixed-length buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26018</guid>
-      <pubDate>Fri, 20 Jun 2025 10:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Resurgence of the Prometei Botnet</title>
-      <link>https://unit42.paloaltonetworks.com/prometei-botnet-2025-activity/</link>
-      <description>Vulnerable Product: Prometei Linux Botnet; CVE(s): None; Summary: The Prometei malware family, which includes both Linux and Windows variants, allows attackers to remotely control compromised systems for cryptocurrency mining (particularly Monero) and credential theft. The latest versions feature a backdoor that enables a variety of malicious activities, including brute-forcing administrator credentials, exploiting vulnerabilities, and self-updating features for stealth and evasion.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=143713</guid>
-      <pubDate>Fri, 20 Jun 2025 10:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>6 Steps to 24/7 In-House SOC Success</title>
-      <link>https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html</link>
-      <description>Threat actors often target businesses during off-hours when security personnel are fewer or not present. A 24/7 Security Operations Center (SOC) can provide real-time threat detection and resolution, but requires a perfect balance of proven processes, advanced tools, and skilled professionals.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html</guid>
-      <pubDate>Fri, 20 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>16 Billion Password Leak, Not New, Still Dangerous: What You Need to Know?</title>
-      <link>https://socradar.io/16-billion-password-leak-not-new-still-dangerous/</link>
-      <description>This article discusses the exposure of 16 billion login credentials collected by infostealer malware over several years. The data includes usernames, passwords, cookies, tokens, and other sensitive information from various services like Google, Facebook, Apple, Microsoft, Telegram, and more.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061153</guid>
-      <pubDate>Fri, 20 Jun 2025 09:39:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider</title>
-      <link>https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html</link>
-      <description>Cloudflare reported blocking a 7.3 Tbps DDoS attack, targeting an unnamed hosting provider, which used a combination of UDP flood, QOTD reflection attack, echo reflection attack, NTP reflection attack, Mirai UDP flood attack, portmap flood, and RIPv1 amplification attack. The attack originated from over 122,145 source IP addresses across 161 countries, with the largest portions coming from Brazil, Vietnam, Taiwan, China, Indonesia, Ukraine, Ecuador, Thailand, the United States, and Saudi Arabia.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html</guid>
-      <pubDate>Fri, 20 Jun 2025 09:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Introduces Enhanced Security Defaults for Windows 365 Cloud PCs</title>
-      <link>https://gbhackers.com/microsoft-introduces-enhanced-security-defaults-for-windows-365/</link>
-      <description>Microsoft is introducing new secure-by-default capabilities for Windows 365 Cloud PCs to fortify virtual desktop environments against modern cyber threats. The update includes default disabling of device redirections (clipboard, drive, USB, and printer) and enabling advanced security controls such as virtualization-based security, Credential Guard, and hypervisor-protected code integrity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143202</guid>
-      <pubDate>Fri, 20 Jun 2025 09:35:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dover Fueling Solutions Flaw Lets Attackers Control Fueling Operations</title>
-      <link>https://gbhackers.com/dover-fueling-solutions-flaw/</link>
-      <description>Vulnerable Product: Dover Fueling Solutions' ProGauge MagLink LX consoles; CVE(s): CVE-2025-5310; Summary: The vulnerability, tracked as CVE-2025-5310, allows remote attackers to seize control of fueling operations, manipulate tank monitoring, and deploy malware, posing a severe risk to transportation systems worldwide.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143199</guid>
-      <pubDate>Fri, 20 Jun 2025 09:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>16 Billion Passwords Stolen From 320 Million+ Computers Leaked Online</title>
-      <link>https://gbhackers.com/16-billion-passwords-stolen-from-320-million-computers-leaked-online/</link>
-      <description>A massive data breach has exposed approximately 16 billion login credentials, usernames, and passwords across various platforms, including Apple, Facebook, Google, Instagram, Telegram, GitHub, and government services. The compromised data can be used for account takeover, identity theft, targeted phishing attacks, and ransomware attacks.
-
-FYSA: Cybercriminals have gained access to a massive dataset of login records, which can be exploited for account takeovers, identity theft, and targeted phishing attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143181</guid>
-      <pubDate>Fri, 20 Jun 2025 07:58:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM QRadar SIEM Bug Lets Attackers Run Arbitrary Commands</title>
-      <link>https://gbhackers.com/ibm-qradar-siem-bug/</link>
-      <description>Vulnerable Product: IBM Security QRadar SIEM; CVE(s): CVE-2025-33117, None (other CVEs mentioned are not explicitly linked to the vulnerability); Summary: A critical flaw in IBM's QRadar SIEM platform allows privileged users to execute arbitrary commands on affected systems, enabling attackers to compromise sensitive data or gain unauthorized access. The vulnerability has been addressed in the latest interim fix (UP12 IF02), and customers are urged to update their installations to protect against potential exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143190</guid>
-      <pubDate>Fri, 20 Jun 2025 07:49:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers</title>
-      <link>https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html</link>
-      <description>Cybersecurity researchers have discovered a new campaign of 67 GitHub repositories claiming to offer Python-based hacking tools, but delivering trojanized payloads instead. The repositories were taken down by GitHub, and the campaign is believed to target users searching for software such as account cleaning tools and game cheats.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html</guid>
-      <pubDate>Fri, 20 Jun 2025 07:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
