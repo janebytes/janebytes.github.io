@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 18:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 19:01:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>North Korean Hackers Pose as Recruiters, Target Developers with 35 New Malicious npm Packages</title>
+      <link>https://gbhackers.com/north-korean-hackers-pose-as-recruiters-target-developers/</link>
+      <description>Vulnerable Product: npm registry; CVE(s): None; Summary: A North Korean threat actor campaign has been exposed, targeting software developers through the npm registry. The campaign involves 35 malicious packages across 24 accounts, with six still active on the registry. These packages have collectively been downloaded over 4,000 times, posing a significant risk to unsuspecting developers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144167</guid>
+      <pubDate>Wed, 25 Jun 2025 18:40:47 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-419: TeamViewer Incorrect Permission Assignment Local Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-419/</link>
@@ -119,6 +126,13 @@
       <description>Vulnerable Product: Google Chrome; CVE(s): 11 (no specific CVEs listed); Summary: The Chrome team has released a critical security update addressing 11 code execution vulnerabilities that could put millions of users at risk. The update patches a range of vulnerabilities, including several discovered and reported by external security researchers, and is being distributed through the stable channel to reach users over the coming days and weeks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144106</guid>
       <pubDate>Wed, 25 Jun 2025 12:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/25/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation. CISA urges all organizations to prioritize timely remediation of these vulnerabilities as part of their vulnerability management practice, with a focus on reducing the risk of cyberattacks.</description>
+      <guid isPermaLink="false">/node/23550</guid>
+      <pubDate>Wed, 25 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Publishes Guide to Address Memory Safety Vulnerabilities in Modern Software Development</title>
@@ -1423,20 +1437,6 @@ FYSA: Cybercriminals have gained access to a massive dataset of login records, w
       <description>Credential-based attacks are becoming increasingly common, with threat actors using stolen credentials to breach networks. Infostealer malware campaigns have exploded in recent years, stealing billions of credentials and feeding a booming cybercrime marketplace. The webinar will explore how attackers are shifting from exploiting vulnerabilities to simply logging in using large-scale credential abuse.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/</guid>
       <pubDate>Thu, 19 Jun 2025 16:33:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-409: RARLAB WinRAR Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-409/</link>
-      <description>Vulnerable Product: RARLAB WinRAR; CVE(s): CVE-2025-6218; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of RARLAB WinRAR, requiring user interaction. The specific flaw exists in the handling of file paths within archive files, allowing an attacker to traverse to unintended directories and execute code in the context of the current user.</description>
-      <guid isPermaLink="false">ZDI-CAN-27198</guid>
-      <pubDate>Thu, 19 Jun 2025 16:01:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-410: Allegra calculateTokenExpDate Password Recovery Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-410/</link>
-      <description>Vulnerable Product: Allegra; CVE(s): CVE-2025-6216; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Allegra, with no required user interaction. The issue stems from a predictable value used in generating a password reset token within the application's password recovery mechanism, allowing attackers to exploit it and bypass authentication.</description>
-      <guid isPermaLink="false">ZDI-CAN-27104</guid>
-      <pubDate>Thu, 19 Jun 2025 16:01:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
