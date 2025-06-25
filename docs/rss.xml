@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 11:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 12:03:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Chrome Releases Security Patch for 11 Code Execution Vulnerabilities</title>
+      <link>https://gbhackers.com/chrome-releases-security-patch-for-11-code-execution-vulnerabilities/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): 11 (no specific CVEs listed); Summary: The Chrome team has released a critical security update addressing 11 code execution vulnerabilities that could put millions of users at risk. The update patches a range of vulnerabilities, including several discovered and reported by external security researchers, and is being distributed through the stable channel to reach users over the coming days and weeks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144106</guid>
+      <pubDate>Wed, 25 Jun 2025 12:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Publishes Guide to Address Memory Safety Vulnerabilities in Modern Software Development</title>
+      <link>https://gbhackers.com/cisa-publishes-guide-to-address-memory-safety-vulnerabilities/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA) have released a comprehensive guide titled “Memory Safe Languages: Reducing Vulnerabilities in Modern Software Development.” The report highlights the importance of adopting Memory Safe Languages (MSLs) to combat memory safety vulnerabilities, which contribute to 66-75% of Common Vulnerabilities and Exposures (CVEs).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144065</guid>
+      <pubDate>Wed, 25 Jun 2025 11:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Manipulate Search Results, Exploit ChatGPT and Luma AI Popularity to Deliver Malicious Payloads</title>
+      <link>https://gbhackers.com/threat-actors-manipulate-search-results/</link>
+      <description>Threat actors are using AI-themed websites to distribute malware, such as Vidar Stealer, Lumma Stealer, and Legion Loader. The attack begins with a user clicking on a seemingly legitimate search result, leading to an AI-themed webpage embedded with malicious JavaScript that collects browser data and initiates a multi-layered redirection process to deliver the malware payloads.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144058</guid>
+      <pubDate>Wed, 25 Jun 2025 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Iranian Hacktivist Group Leaks Personal Records from the 2024 Saudi Games</title>
+      <link>https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html</link>
+      <description>The article reports on a data breach allegedly carried out by the pro-Iranian hacktivist group Cyber Fattah, which published personal records of athletes and visitors of the Saudi Games online. The breach is believed to have originated from the official website of the Saudi Games 2024 and was shared on DarkForums, a cybercrime forum. The leaked data includes IT staff credentials, government official email addresses, and sensitive documents.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html</guid>
+      <pubDate>Wed, 25 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kubernetes NodeRestriction Flaw Lets Nodes Bypass Resource Authorization</title>
       <link>https://gbhackers.com/kubernetes-noderestriction-flaw/</link>
@@ -28,6 +56,15 @@
       <description>Akamai has developed two proactive strategies to disrupt malicious cryptominer operations by exploiting the design of common mining topologies. The first strategy targets mining proxies by submitting invalid mining job results, while the second method temporarily bans wallet addresses by flooding login requests. These techniques can halt botnet-driven cryptomining campaigns and potentially impact other cryptocurrencies.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144029</guid>
       <pubDate>Wed, 25 Jun 2025 10:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware the Hidden Risk in Your Entra Environment</title>
+      <link>https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html</link>
+      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: A gap in access control in Microsoft Entra's subscription handling allows guest users to create and transfer subscriptions into the tenant they are invited into, while maintaining full ownership rights. This privilege escalation tactic allows a guest user to gain a foothold in an environment where they should only have limited access.
+
+FYSA: The article discusses a surprising risk in Microsoft Entra ID that can allow guest users to escalate their privileges by creating and controlling subscriptions. The vulnerability is due to the fact that Microsoft's billing permissions are scoped at the billing account level, rather than the Entra directory. This allows an attacker with the right billing role to spin up or transfer subscriptions from their home tenant to gain control inside a target tenant.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html</guid>
+      <pubDate>Wed, 25 Jun 2025 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>APT Attackers Leverage Microsoft ClickOnce to Run Malware as Trusted Applications</title>
@@ -1402,41 +1439,6 @@ Note: This summary does not fit into any specific format (vulnerability or threa
       <description>A Chinese state-sponsored group known as Salt Typhoon has been linked to a sweeping cyberespionage campaign that compromised major telecommunications firms, including Viasat Inc., Verizon, AT&amp;T, and Lumen Technologies. The campaign targeted phone records, including those of then-presidential candidate Donald Trump and members of both major campaigns, and highlights the growing threat posed by advanced persistent threat (APT) actors targeting critical American infrastructure.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143058</guid>
       <pubDate>Thu, 19 Jun 2025 11:46:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with MacOS Backdoor Malware</title>
-      <link>https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html</link>
-      <description>BlueNoroff threat actor targets employee with deepfaked company executives in deceptive Zoom calls to trick them into installing malware on their Apple macOS devices. The attack involves the use of Calendly link, fake Zoom domain, and AppleScript that downloads next-stage payload and executes shell script, ultimately leading to the installation of eight distinct malicious binaries.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html</guid>
-      <pubDate>Thu, 19 Jun 2025 11:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Golden SAML Attack: How Attackers Gain Control of Federation Server’s Private Key</title>
-      <link>https://gbhackers.com/how-attackers-gain-control-of-federation-servers-private-key/</link>
-      <description>The Golden SAML attack is a sophisticated threat that exploits the trust mechanisms of Security Assertion Markup Language (SAML) authentication to compromise every account within an organization by forging authentic-looking tokens. This attack targets the private key of federation servers, allowing attackers to impersonate any user and bypass security controls with stealth and precision.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143034</guid>
-      <pubDate>Thu, 19 Jun 2025 11:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Ransomware Rises as Major Threat, Demanding $50M in Ransom</title>
-      <link>https://gbhackers.com/qilin-ransomware-rises-as-major-threat/</link>
-      <description>The Qilin ransomware group has surged to the forefront of digital extortion, demanding ransoms as high as $50 million and disrupting critical services worldwide. With a robust Ransomware-as-a-Service (RaaS) platform, recruiting affiliates through Russian-language forums, and offering lucrative revenue shares, Qilin has amassed over $50 million in ransom payments in 2024 alone.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143050</guid>
-      <pubDate>Thu, 19 Jun 2025 11:34:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure Vibe Coding: The Complete New Guide</title>
-      <link>https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html</link>
-      <description>Vulnerable Product: Vibe Coding; CVE(s): None; Summary: Vibe coding, the use of natural language to generate software with AI, introduces "silent killer" vulnerabilities that evade traditional security tools. These exploitable flaws are created when AI generates code without explicit prompting for security features, leading to insecure patterns and functions that can be exploited in production environments.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html</guid>
-      <pubDate>Thu, 19 Jun 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actor Exploit GitHub and Hosted 60 GitHub Repositories with 100s of Malware</title>
-      <link>https://gbhackers.com/threat-actor-exploit-github-and-hosted-60-github-repositories/</link>
-      <description>Vulnerable Product: GitHub; CVE(s): None; Summary: Banana Squad exploited GitHub by hosting over 60 malicious repositories containing hundreds of trojanized Python files. The repositories used advanced evasion techniques to hide harmful content, making it nearly undetectable to casual inspection. All 67 repositories have been removed by GitHub, but the potential impact remains unclear.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143003</guid>
-      <pubDate>Thu, 19 Jun 2025 11:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
