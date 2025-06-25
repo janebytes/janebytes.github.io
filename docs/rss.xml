@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 12:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 13:01:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Realtek Bluetooth Flaw Allows Attackers to Launch DoS Attacks During Pairing</title>
+      <link>https://gbhackers.com/realtek-bluetooth-flaw/</link>
+      <description>Vulnerable Product: Realtek RTL8762E BLE SDK v1.4.0; CVE(s): CVE-2024-48290; Summary: A critical vulnerability in Realtek's Bluetooth Low Energy (BLE) implementation allows attackers to launch denial-of-service (DoS) attacks during device pairing, disrupting connections and blocking legitimate pairing attempts. The flaw occurs when attackers inject premature pairing data or send a crafted ll_terminate_ind packet, causing the target device's Bluetooth stack to crash and prevent subsequent connection attempts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144114</guid>
+      <pubDate>Wed, 25 Jun 2025 12:16:54 +0000</pubDate>
+    </item>
     <item>
       <title>Chrome Releases Security Patch for 11 Code Execution Vulnerabilities</title>
       <link>https://gbhackers.com/chrome-releases-security-patch-for-11-code-execution-vulnerabilities/</link>
@@ -1432,13 +1439,6 @@ Note: This summary does not fit into any specific format (vulnerability or threa
       <description>The article reports that satellite communications company Viasat has been breached by China's Salt Typhoon state hackers. The breach occurred earlier this year and was discovered when a compromised device was found to have unauthorized access. Viasat claims the incident has been remediated and no customer impact was detected.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/</guid>
       <pubDate>Thu, 19 Jun 2025 11:54:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viasat Targeted in Cyberattack by Salt Typhoon APT Group</title>
-      <link>https://gbhackers.com/viasat-targeted-in-cyberattack/</link>
-      <description>A Chinese state-sponsored group known as Salt Typhoon has been linked to a sweeping cyberespionage campaign that compromised major telecommunications firms, including Viasat Inc., Verizon, AT&amp;T, and Lumen Technologies. The campaign targeted phone records, including those of then-presidential candidate Donald Trump and members of both major campaigns, and highlights the growing threat posed by advanced persistent threat (APT) actors targeting critical American infrastructure.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143058</guid>
-      <pubDate>Thu, 19 Jun 2025 11:46:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
