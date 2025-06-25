@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 13:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 14:02:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hacktivist Groups Target U.S. Companies and Military Domains in Retaliation for Iran Attacks</title>
+      <link>https://gbhackers.com/hacktivist-groups-target-u-s-companies-and-military-domains/</link>
+      <description>Pro-Iranian hacktivist groups have claimed responsibility for a series of Distributed Denial of Service (DDoS) attacks targeting US military domains, major aerospace and defense corporations, and key financial institutions, in retaliation to US involvement in the Israel-Iran conflict. The cyber warfare has escalated with claims of data breaches, website defacements, and electronic interference with commercial navigation systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144125</guid>
+      <pubDate>Wed, 25 Jun 2025 13:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure</title>
+      <link>https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html</link>
+      <description>Vulnerable Product: SAP Graphical User Interface (GUI) for Windows and Java; CVE(s): CVE-2025-0055, CVE-2025-0056; Summary: The vulnerabilities allow attackers with administrative privileges or access to the user directory to access sensitive information stored in input history files. In SAP GUI for Windows, the data is weakly encrypted using XOR-based encryption, making it easily decodable. In SAP GUI for Java, the data is stored as unencrypted Java serialized objects.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html</guid>
+      <pubDate>Wed, 25 Jun 2025 13:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firefox 140 Launches with Critical Code Execution Bug Fix – Update Now</title>
+      <link>https://gbhackers.com/firefox-140-launches-with-critical-code-execution-bug/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): None; Summary: The critical use-after-free vulnerability in the FontFaceSet component allows attackers to execute arbitrary code on a victim's machine, posing a major risk to user security. Additionally, two high-severity memory safety issues were patched, including memory corruption defects that could be exploited for remote code execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144123</guid>
+      <pubDate>Wed, 25 Jun 2025 13:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Configuration Bug Freezes Update Scanning Process</title>
+      <link>https://gbhackers.com/windows-11-configuration-bug-freezes-update-scanning-process/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The "Scan for Updates" feature in Windows 11 version 24H2 can freeze unexpectedly, preventing devices from detecting and installing critical updates. This issue can leave systems vulnerable to threats. A temporary fix is restarting the computer, but a permanent resolution requires installing the May Windows non-security preview update (KB5058499) or subsequent updates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144118</guid>
+      <pubDate>Wed, 25 Jun 2025 13:21:45 +0000</pubDate>
+    </item>
     <item>
       <title>Realtek Bluetooth Flaw Allows Attackers to Launch DoS Attacks During Pairing</title>
       <link>https://gbhackers.com/realtek-bluetooth-flaw/</link>
@@ -1411,34 +1439,6 @@ Note: This summary does not fit into any specific format (vulnerability or threa
       <description>The article discusses the discovery of multiple SpyNote spyware samples in open directories across the internet, which can be disguised as legitimate Android applications. These malware files harvest sensitive data from unsuspecting users by exploiting accessibility services and device administrator privileges.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143069</guid>
       <pubDate>Thu, 19 Jun 2025 12:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use VBScript Files to Deploy Masslogger Credential Stealer Malware</title>
-      <link>https://gbhackers.com/hackers-use-vbscript-files-to-deploy-masslogger/</link>
-      <description>The article discusses a sophisticated variant of the Masslogger credential stealer malware that spreads through VBScript Encoded (.VBE) files. It uses evasive techniques such as fileless malware, heavy registry exploitation, and multi-stage execution to evade detection by traditional antivirus and signature-based methods.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143042</guid>
-      <pubDate>Thu, 19 Jun 2025 12:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckGo beefs up scam defense to block fake stores, crypto sites</title>
-      <link>https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/</link>
-      <description>DuckDuckGo's Scam Blocker tool has been updated to protect against a broader range of online scams, including fake e-commerce, cryptocurrency exchanges, and "scareware" sites. The tool blocks known malware distribution and phishing URLs by default, and users can opt-in for additional protection across other internet apps when using the DuckDuckGo VPN.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/</guid>
-      <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-5309: RCE in BeyondTrust Chat Feature Affects Remote Support and PRA</title>
-      <link>https://socradar.io/cve-2025-5309-beyondtrust-chat-feature-rs-pra/</link>
-      <description>Vulnerable Product: BeyondTrust Remote Support and Privileged Remote Access; CVE(s): CVE-2025-5309; Summary: The vulnerability allows for Remote Code Execution (RCE) through a chat feature due to server-side template injection. It can be exploited remotely without authentication, with high potential for confidentiality and integrity impacts.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061127</guid>
-      <pubDate>Thu, 19 Jun 2025 11:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telecom giant Viasat breached by China's Salt Typhoon hackers</title>
-      <link>https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/</link>
-      <description>The article reports that satellite communications company Viasat has been breached by China's Salt Typhoon state hackers. The breach occurred earlier this year and was discovered when a compromised device was found to have unauthorized access. Viasat claims the incident has been remediated and no customer impact was detected.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/</guid>
-      <pubDate>Thu, 19 Jun 2025 11:54:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
