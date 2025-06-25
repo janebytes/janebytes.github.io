@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 16:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 17:03:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>WinRAR patches bug letting malware launch from extracted archives</title>
+      <link>https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/</link>
+      <description>Vulnerable Product: WinRAR; CVE(s): CVE-2025-6218, None (other issues); Summary: A directory traversal vulnerability in older versions of WinRAR's Windows version allows malware execution after extracting a malicious archive. The flaw requires user interaction and can be exploited to launch malicious code, steal sensitive data, or install persistence mechanisms.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/</guid>
+      <pubDate>Wed, 25 Jun 2025 16:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/</link>
+      <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-5777, CVE-2025-5349; Summary: A critical flaw (CVE-2025-5777) allows unauthenticated attackers to access sensitive data from public-facing gateways and virtual servers, while a high-severity flaw (CVE-2025-5349) is an improper access control problem in the NetScaler Management Interface. The flaws impact devices running versions before 14.1-43.56, releases before 13.1-58.32, and also 13.1-37.235-FIPS/NDcPP and 2.1-55.328-FIPS.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/</guid>
+      <pubDate>Wed, 25 Jun 2025 16:10:37 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Distribute Compromised SonicWall SSL VPN NetExtender to Steal Sensitive Data</title>
       <link>https://gbhackers.com/threat-actors-distribute-compromised-sonicwall-ssl-vpn-netextender/</link>
       <description>Vulnerable Product: SonicWall NetExtender; CVE(s): None; Summary: A malicious version of SonicWall's SSL VPN NetExtender application was discovered being disseminated by threat actors in a cyberattack. The tampered installer bypasses digital certificate checks and steals sensitive VPN configuration data, including usernames, passwords, and domain details, which can grant attackers unauthorized access to corporate networks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144134</guid>
       <pubDate>Wed, 25 Jun 2025 15:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC</title>
+      <link>https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html</link>
+      <description>Vulnerable Product: Citrix NetScaler ADC; CVE(s): CVE-2025-6543; Summary: The vulnerability is a critical memory overflow issue (CVSS score 9.2) affecting NetScaler ADC and Gateway versions prior to specific patches, allowing unintended control flow and denial-of-service. Successful exploitation requires the appliance to be configured as a Gateway or AAA virtual server. Exploits have been observed on unmitigated appliances.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html</guid>
+      <pubDate>Wed, 25 Jun 2025 14:51:00 +0000</pubDate>
     </item>
     <item>
       <title>BreachForums hacking forum operators reportedly arrested in France</title>
@@ -892,6 +913,15 @@ Overall, the article provides a snapshot of current cybersecurity threats and vu
       <pubDate>Mon, 23 Jun 2025 05:13:44 +0000</pubDate>
     </item>
     <item>
+      <title>The Retaliation Window</title>
+      <link>https://www.recordedfuture.com/blog/the-retaliation-window</link>
+      <description>FYSA:
+
+The article discusses the potential for cyber retaliation following a kinetic strike on Iran's Fordow enrichment plant. It highlights the historical pattern of Iran responding to physical provocations with cyber attacks, and notes that Russia may also be involved in such campaigns. The article emphasizes the importance of threat intelligence and AI-assisted defense to anticipate and respond to potential cyber attacks. It also stresses the need for resilient organizations to move beyond compliance theater and instead focus on proactive control validation, communication, and strategic decision-making.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/blog/the-retaliation-window</guid>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup</title>
       <link>https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/</link>
       <description>Vulnerable Product: CoinMarketCap; CVE(s): None; Summary: A supply chain attack was used to inject a malicious script into CoinMarketCap's website, which drained cryptocurrency from visitors' wallets when they connected them. The attack exploited a vulnerability in the site's "doodle" image and was executed through an API call, resulting in the execution of a wallet drainer script that stole assets.</description>
@@ -1411,34 +1441,6 @@ The article highlights the growing threat of cyberattacks in the manufacturing s
 Note: This summary does not fit into any specific format (vulnerability or threat actor-focused) as it does not specifically discuss a vulnerability or threat actors.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061085</guid>
       <pubDate>Thu, 19 Jun 2025 14:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft unveils new security defaults for Windows 365 Cloud PCs</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/</link>
-      <description>Microsoft has announced new security defaults for Windows 365 Cloud PCs, including disabling clipboard, drive, USB, and printer redirections by default to reduce risks of data theft and block malware attacks. Additionally, the company will start blocking access to SharePoint, OneDrive, and Office files via legacy authentication protocols in July.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/</guid>
-      <pubDate>Thu, 19 Jun 2025 13:55:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>jQuery Migrate Library Compromised to Steal Logins via Parrot Traffic Direction System</title>
-      <link>https://gbhackers.com/jquery-migrate-library-compromised-to-steal-logins/</link>
-      <description>Vulnerable Product: jQuery Migrate; CVE(s): None; Summary: A weaponized version of the jQuery Migrate library was used in a sophisticated malware campaign that exploited the trust in the library. The attack delivered a malicious script through a compromised Middle Eastern business website, which stole sensitive data, logged keystrokes, and deployed additional threats such as cryptocurrency miners or click-fraud scripts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143096</guid>
-      <pubDate>Thu, 19 Jun 2025 13:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT will analyze Gmail emails, manage schedule on Google Calendar</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/</link>
-      <description>This article does not discuss a vulnerability, but rather mentions the testing of integration features between ChatGPT and Gmail/Google Calendar. The feature will allow users to summarize emails and create events, and may be tied to the ChatGPT Search feature.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/</guid>
-      <pubDate>Thu, 19 Jun 2025 13:29:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Deploy Amatera Stealer Using Advanced Web Injection and Anti-Analysis Techniques</title>
-      <link>https://gbhackers.com/hackers-deploy-amatera-stealer-using-advanced-web-injection/</link>
-      <description>Amatera Stealer is a rebranded information stealer malware that exhibits advanced features and stealth mechanisms. It is distributed through web injection campaigns, software cracks, and fake downloads, and can steal sensitive data from browsers, cryptocurrency wallets, email clients, and messaging apps.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143084</guid>
-      <pubDate>Thu, 19 Jun 2025 13:29:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
