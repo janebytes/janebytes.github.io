@@ -6,14 +6,49 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 10:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 11:04:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Kubernetes NodeRestriction Flaw Lets Nodes Bypass Resource Authorization</title>
+      <link>https://gbhackers.com/kubernetes-noderestriction-flaw/</link>
+      <description>Vulnerable Product: Kubernetes; CVE(s): CVE-2025-4563; Summary: A critical security vulnerability in Kubernetes allows nodes to bypass authorization checks for dynamic resource allocation, enabling privilege escalation in affected clusters. The flaw resides in the NodeRestriction admission controller and affects kube-apiserver versions 1.32.0-1.32.5 and 1.33.0-1.33.1, with a CVSS score of 2.7 (Low severity).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144103</guid>
+      <pubDate>Wed, 25 Jun 2025 10:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>NetNerve: AI-Powered Tool for Deep PCAP Threat Detection</title>
+      <link>https://gbhackers.com/netnerve-ai-powered-tool/</link>
+      <description>The article discusses NetNerve, an AI-powered platform that automates packet capture analysis, providing real-time insights and actionable recommendations to detect threats hidden in packet capture files. This platform addresses the limitations of traditional packet capture solutions by leveraging machine learning to identify potential security threats, eliminating manual review requirements.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144093</guid>
+      <pubDate>Wed, 25 Jun 2025 10:41:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akamai Reveals New Strategies for Defenders to Combat Cryptominer Attacks</title>
+      <link>https://gbhackers.com/akamai-reveals-new-strategies-for-defenders/</link>
+      <description>Akamai has developed two proactive strategies to disrupt malicious cryptominer operations by exploiting the design of common mining topologies. The first strategy targets mining proxies by submitting invalid mining job results, while the second method temporarily bans wallet addresses by flooding login requests. These techniques can halt botnet-driven cryptomining campaigns and potentially impact other cryptocurrencies.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144029</guid>
+      <pubDate>Wed, 25 Jun 2025 10:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT Attackers Leverage Microsoft ClickOnce to Run Malware as Trusted Applications</title>
+      <link>https://gbhackers.com/apt-attackers-leverage-microsoft-clickonce/</link>
+      <description>The article reports an Advanced Persistent Threat (APT) malware campaign dubbed “OneClik” targeting the energy, oil, and gas sectors. The campaign uses phishing attacks, exploits Microsoft ClickOnce, and employs "living off the land" tactics to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143998</guid>
+      <pubDate>Wed, 25 Jun 2025 10:14:10 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-418: Apple macOS CoreGraphics PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-418/</link>
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31196; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS by parsing PDF files without proper validation, resulting in a read past the end of an allocated buffer. User interaction is required for exploitation, and the issue can be leveraged with other vulnerabilities to execute arbitrary code.</description>
       <guid isPermaLink="false">ZDI-CAN-26498</guid>
       <pubDate>Wed, 25 Jun 2025 10:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminal abuse of large language models</title>
+      <link>https://blog.talosintelligence.com/cybercriminal-abuse-of-large-language-models/</link>
+      <description>Cybercriminals are exploiting artificial intelligence (AI) technologies such as large language models (LLMs) to aid in their criminal hacking activities. They use uncensored LLMs or custom-built criminal LLMs for illicit purposes, including generating malicious code, creating undetectable malware, and sending phishing emails. Some enterprising cybercriminals have developed their own LLMs without restrictions, marketing them to other cybercriminals on the dark web.</description>
+      <guid isPermaLink="false">685ac23e178bd70001283c68</guid>
+      <pubDate>Wed, 25 Jun 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks</title>
@@ -1402,43 +1437,6 @@ Note: This summary does not fit into any specific format (vulnerability or threa
       <description>Vulnerable Product: GitHub; CVE(s): None; Summary: Banana Squad exploited GitHub by hosting over 60 malicious repositories containing hundreds of trojanized Python files. The repositories used advanced evasion techniques to hide harmful content, making it nearly undetectable to casual inspection. All 67 repositories have been removed by GitHub, but the potential impact remains unclear.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143003</guid>
       <pubDate>Thu, 19 Jun 2025 11:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophisticated Phishing Attack Uses ASP Pages to Target Prominent Russia Critics – Google</title>
-      <link>https://gbhackers.com/sophisticated-phishing-attack-uses-asp-pages/</link>
-      <description>A Russia state-sponsored cyber threat actor, tracked as UNC6293, has been identified by Google Threat Intelligence Group (GTIG) in a sophisticated phishing campaign targeting academics and critics of Russia. The campaign used advanced social engineering tactics to trick victims into creating and sharing Application Specific Passwords (ASPs), which granted persistent access to Gmail accounts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142986</guid>
-      <pubDate>Thu, 19 Jun 2025 10:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClamAV 1.4.3 and 1.0.9 Released with Fixes for Critical Remote Code Execution Vulnerability</title>
-      <link>https://gbhackers.com/clamav-1-4-3-and-1-0-9-released-with-fixes/</link>
-      <description>Vulnerable Product: ClamAV; CVE(s): CVE-2025-20260, CVE-2025-20234; Summary: The ClamAV development team has released two security patch releases, versions 1.4.3 and 1.0.9, to address significant vulnerabilities in the PDF file parser and UDF file parser. The flaws, identified as CVE-2025-20260 and CVE-2025-20234, have the potential to trigger a denial-of-service (DoS) condition or enable remote code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142951</guid>
-      <pubDate>Thu, 19 Jun 2025 10:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Cloudflare Tunnels to Infect Windows Systems With Python Malware</title>
-      <link>https://gbhackers.com/hackers-exploit-cloudflare-tunnels-to-infect-windows-systems/</link>
-      <description>A sophisticated malware campaign dubbed SERPENTINE#CLOUD has emerged, using Cloudflare Tunnel infrastructure to deliver Python-based malware to Windows systems across Western nations. The campaign exploits trusted cloud services to bypass network defenses and maintain anonymity, featuring a complex, multi-stage infection chain designed for stealth and persistence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142938</guid>
-      <pubDate>Thu, 19 Jun 2025 10:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uncover LOTS Attacks Hiding in Trusted Tools — Learn How in This Free Expert Session</title>
-      <link>https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html</link>
-      <description>The article discusses a tactic called "Living Off Trusted Sites" (LOTS), where attackers blend in with legitimate traffic by hiding malicious code inside routine traffic on well-known platforms like Google, Microsoft, Dropbox, and Slack. LOTS tactics exploit common business tools, shortened URLs, and trusted cloud services to host malicious payloads, making it difficult for traditional defenses to detect them.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html</guid>
-      <pubDate>Thu, 19 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krispy Kreme says November data breach impacts over 160,000 people</title>
-      <link>https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/</link>
-      <description>FYSA:
-
-The article discusses a cyberattack on Krispy Kreme that resulted in the theft of personal information of over 160,000 individuals. The attackers, identified as the Play ransomware gang, claimed to have stolen sensitive data from the company's network and threatened to leak it online unless a ransom was paid. The breach was detected by Krispy Kreme on November 29 and notified affected individuals in May 2025.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/</guid>
-      <pubDate>Thu, 19 Jun 2025 09:59:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
