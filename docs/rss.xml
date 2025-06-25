@@ -6,8 +6,99 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 22:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 10:07:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-418: Apple macOS CoreGraphics PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-418/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31196; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS by parsing PDF files without proper validation, resulting in a read past the end of an allocated buffer. User interaction is required for exploitation, and the issue can be leveraged with other vulnerabilities to execute arbitrary code.</description>
+      <guid isPermaLink="false">ZDI-CAN-26498</guid>
+      <pubDate>Wed, 25 Jun 2025 10:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks</title>
+      <link>https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html</link>
+      <description>Vulnerable Product: SonicWall SSL VPN NetExtender; CVE(s): None; Summary: The trojanized version of SonicWall's SSL VPN NetExtender application steals credentials from unsuspecting users by impersonating the latest version (10.3.2.27) and modifying components "NeService.exe" and "NetExtender.exe" to exfiltrate configuration information to a remote server.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html</guid>
+      <pubDate>Wed, 25 Jun 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Plans to Remove Chrome’s Tab Scrolling Feature</title>
+      <link>https://gbhackers.com/google-plans-to-remove-chromes-tab-scrolling-feature/</link>
+      <description>The "Tab Scrolling" feature in Google's Chrome browser is being deprecated, which will allow tabs to compress into an unreadable strip again. Users who relied on this feature may need to explore alternative tab management solutions or adjust their browsing habits.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144051</guid>
+      <pubDate>Wed, 25 Jun 2025 08:43:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Kibana Flaws Enable Heap Corruption and Remote Code Execution</title>
+      <link>https://gbhackers.com/critical-kibana-flaws-enable-heap-corruption/</link>
+      <description>Vulnerable Product: Elastic Kibana; CVE(s): CVE-2025-2135; Summary: The critical vulnerability in Kibana's reporting engine, tracked as CVE-2025-2135, allows attackers to exploit heap memory corruption and potentially execute arbitrary code on the underlying system, posing a significant risk to data integrity and system security.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144045</guid>
+      <pubDate>Wed, 25 Jun 2025 08:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>CentOS Web Panel Vulnerability Allows Remote Code Execution – PoC Released</title>
+      <link>https://gbhackers.com/centos-web-panel-vulnerability/</link>
+      <description>Vulnerable Product: CentOS Web Panel; CVE(s): CVE-2025-48703; Summary: The vulnerability allows unauthenticated attackers to execute arbitrary commands, potentially leading to full server compromise. The flaw exploits two issues: improper enforcement of the authentication mechanism and a command injection vulnerability in the t_total parameter, which can be used to inject arbitrary commands and result in remote code execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144040</guid>
+      <pubDate>Wed, 25 Jun 2025 08:14:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages</title>
+      <link>https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html</link>
+      <description>Vulnerable Product: Various npm packages; CVE(s): None; Summary: A total of 35 malicious npm packages have been discovered, linked to the Contagious Interview operation originating from North Korea. These packages contain a hex-encoded loader called HexEval, which collects host information and delivers a follow-on payload that downloads and executes a Python backdoor called InvisibleFerret, enabling remote control and data theft.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html</guid>
+      <pubDate>Wed, 25 Jun 2025 08:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases New ICS Advisories Highlighting Ongoing Threats and Exploits</title>
+      <link>https://gbhackers.com/cisa-releases-new-ics-advisories/</link>
+      <description>Vulnerable Product: Various Industrial Control Systems (ICS) products; CVE(s): CVE-2025-2566, CVE-2025-5087, CVE-2025-47724, CVE-2025-47725, CVE-2025-47726, CVE-2025-47727, CVE-2025-3898, CVE-2025-3116, CVE-2025-3899, CVE-2025-3905, CVE-2025-3117, CVE-2025-3112, CVE-2025-5740, CVE-2025-5741, CVE-2025-5742, CVE-2025-5743, CVE-2025-49851, CVE-2025-49852, CVE-2025-49853, CVE-2025-5015, CVE-2025-49151, CVE-2025-49152, CVE-2025-49153; Summary: The Cybersecurity and Infrastructure Security Agency (CISA) released eight new Industrial Control Systems (ICS) advisories addressing critical vulnerabilities and ongoing threats to essential infrastructure. The advisories detail technical information and mitigation guidance for various ICS products used worldwide, including vulnerabilities that allow remote code execution, extract sensitive credentials, or execute arbitrary code.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144024</guid>
+      <pubDate>Wed, 25 Jun 2025 06:56:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>TeamViewer for Windows Vulnerability Lets Hackers Delete Files with SYSTEM Rights</title>
+      <link>https://gbhackers.com/teamviewer-for-windows-vulnerability/</link>
+      <description>Vulnerable Product: TeamViewer Remote Management for Windows; CVE(s): CVE-2025-36537; Summary: A critical vulnerability (CVSS score 7.0) in TeamViewer's Remote Management features allows a local unprivileged attacker to delete arbitrary files with SYSTEM-level privileges, posing a risk of privilege escalation or system compromise. The flaw stems from an incorrect permission assignment for critical resources in the TeamViewer Client, affecting installations with Backup, Monitoring, or Patch Management enabled.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144012</guid>
+      <pubDate>Wed, 25 Jun 2025 06:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Megatron LM Flaw Allows Attackers to Inject Malicious Code</title>
+      <link>https://gbhackers.com/nvidia-megatron-lm-flaw/</link>
+      <description>Vulnerable Product: NVIDIA Megatron-LM; CVE(s): CVE-2025-23264, CVE-2025-23265; Summary: The Megatron-LM framework has two critical vulnerabilities (CVE-2025-23264 and CVE-2025-23265) that allow attackers to inject and execute malicious code on affected systems. Attackers can exploit these flaws by providing a specially crafted file, which could lead to remote code execution, privilege escalation, information disclosure, and data tampering with low attack complexity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144001</guid>
+      <pubDate>Wed, 25 Jun 2025 06:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>New FileFix Exploit Uses Windows File Explorer to Run Malicious Commands</title>
+      <link>https://gbhackers.com/new-filefix-exploit-uses-windows-file-explorer/</link>
+      <description>The article discusses a newly discovered exploit called "FileFix" that uses Windows File Explorer to execute malicious commands without leaving the web browser. It is a social engineering attack that relies on users following instructions to copy and paste file paths or commands, which can lead to execution of PowerShell commands, potentially delivering malware like infostealers, ransomware, or other types of attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=143993</guid>
+      <pubDate>Wed, 25 Jun 2025 05:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options</title>
+      <link>https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html</link>
+      <description>Microsoft is extending Windows 10 Extended Security Updates (ESU) for an extra year, allowing users to pay a small fee or sync their PC settings to the cloud. The enrollment wizard will be available in July and mid-August, enabling users to continue receiving critical and important security updates after support ends on October 14, 2025.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html</guid>
+      <pubDate>Wed, 25 Jun 2025 05:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google rolls out text-to-image model Imagen 4 for free</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/</link>
+      <description>The article discusses Google's Imagen 4 text-to-image model, which is being rolled out for free on AI Studio. It also mentions two new Imagen models, Imagen 4 and Imagen 4 Ultra, which offer improvements in image generation quality. Additionally, the article touches on other cybersecurity-related topics such as patching automation and tech support scams detection.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/</guid>
+      <pubDate>Tue, 24 Jun 2025 22:36:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Abuse Open-Source Tools To Target Africa’s Financial Sector</title>
+      <link>https://unit42.paloaltonetworks.com/cybercriminals-attack-financial-sector-across-africa/</link>
+      <description>The article discusses a series of attacks targeting financial organizations across Africa, attributed to an initial access broker. The threat actor uses a combination of open-source and publicly available tools, including PoshC2, Chisel, and Classroom Spy, to establish their attack framework and maintain persistence on compromised machines. The attackers create tunnels for network communication, perform remote administration, and disguise their tools to mask their malicious activities. Palo Alto Networks customers are better protected through various products and services, including Cortex XDR, XSIAM, Advanced WildFire, and the Unit 42 Deep and Dark Web Service.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=144003</guid>
+      <pubDate>Tue, 24 Jun 2025 22:00:22 +0000</pubDate>
+    </item>
     <item>
       <title>Claude catches up to ChatGPT with built-in memory support</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/</link>
@@ -1348,97 +1439,6 @@ Note: This summary does not fit into any specific format (vulnerability or threa
 The article discusses a cyberattack on Krispy Kreme that resulted in the theft of personal information of over 160,000 individuals. The attackers, identified as the Play ransomware gang, claimed to have stolen sensitive data from the company's network and threatened to leak it online unless a ransom was paid. The breach was detected by Krispy Kreme on November 29 and notified affected individuals in May 2025.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/</guid>
       <pubDate>Thu, 19 Jun 2025 09:59:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Entra ID Adds Passkey (FIDO2) Support in Public Preview</title>
-      <link>https://gbhackers.com/microsoft-entra-id-adds-passkey-fido2-support/</link>
-      <description>Microsoft has announced an update to its identity platform, Microsoft Entra ID, which introduces expanded passkey (FIDO2) support. This update allows IT administrators to configure passkey authentication policies at a granular level, enabling organizations to tailor authentication methods for different user groups. The rollout is set to occur globally from mid-October to mid-November 2025 and will simplify the authentication process by unifying credentials from hardware keys, computers, and mobile devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142998</guid>
-      <pubDate>Thu, 19 Jun 2025 09:18:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>How CVE-2025-6018 and CVE-2025-6019 Enable Full Root Access on Linux</title>
-      <link>https://socradar.io/cve-2025-6018-and-cve-2025-6019-root-access-on-linux/</link>
-      <description>Vulnerable Product: openSUSE Leap 15, SUSE Linux Enterprise 15; CVE(s): CVE-2025-6018, CVE-2025-6019; Summary: Two newly discovered Local Privilege Escalation (LPE) vulnerabilities in Linux distributions allow attackers to chain low-level access into full root control. The first vulnerability manipulates environment variables during login, allowing remote attackers to impersonate local users and gain permission to perform actions reserved for physical users. The second vulnerability abuses XFS file system resizing to gain root access using the udisk daemon.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061109</guid>
-      <pubDate>Thu, 19 Jun 2025 08:46:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>LogMeIn Remote Access Abused in Targeted System Compromise</title>
-      <link>https://gbhackers.com/logmein-remote-access-abused/</link>
-      <description>This article describes a sophisticated cyberattack campaign that leverages LogMeIn Resolve remote access software to gain unauthorized control over user systems. The attack begins with a convincingly crafted invoice-themed spam email, designed to trick recipients into opening a malicious PDF attachment, which installs the remote access tool and grants attackers full remote access to the compromised system.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142983</guid>
-      <pubDate>Thu, 19 Jun 2025 08:16:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jitter-Trap: New Method Uncovers Stealthy Beacon Communications</title>
-      <link>https://gbhackers.com/jitter-trap-stealthy-beacon-communications/</link>
-      <description>The article introduces Jitter-Trap, a detection technique that uses behavioral and network analysis to identify post-exploitation and command-and-control (C2) communication in cyberattacks. It leverages the randomness used by attackers to evade detection, turning it into a powerful detection tool.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142975</guid>
-      <pubDate>Thu, 19 Jun 2025 08:08:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian APT29 Exploits Gmail App Passwords to Bypass 2FA in Targeted Phishing Campaign</title>
-      <link>https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html</link>
-      <description>Vulnerable Product: Google account feature - Application Specific Passwords (ASPs); CVE(s): None; Summary: Threat actors with suspected ties to Russia are using a novel social engineering tactic that takes advantage of Google's application specific passwords (ASPs) to gain access to victims' email accounts. The tactic involves building rapport with targets, sending benign phishing emails disguised as meeting invitations, and tricking them into sharing the ASP passcode.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html</guid>
-      <pubDate>Thu, 19 Jun 2025 08:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-3248 in Langflow Exploited to Deploy Flodrix Botnet</title>
-      <link>https://socradar.io/cve-2025-3248-in-langflow-deploy-flodrix-botnet/</link>
-      <description>Vulnerable Product: Langflow; CVE(s): CVE-2025-3248; Summary: A critical Remote Code Execution (RCE) vulnerability in Langflow's /api/v1/validate/code endpoint allows unauthenticated attackers to execute arbitrary code directly on the server, granting remote control over the host. The vulnerability impacts Langflow versions prior to 1.3.0 and is particularly dangerous due to Langflow's popularity in cloud-hosted AI deployments.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061100</guid>
-      <pubDate>Thu, 19 Jun 2025 07:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco AnyConnect VPN Flaw Allows Attackers to Launch DoS Attacks</title>
-      <link>https://gbhackers.com/cisco-anyconnect-vpn-flaw/</link>
-      <description>Vulnerable Product: Cisco Meraki; CVE(s): CVE-2025-20271; Summary: The vulnerability stems from a variable initialization error that occurs when establishing SSL VPN sessions using client certificate authentication. Attackers can exploit this flaw by sending specially crafted HTTPS requests to affected devices, causing the Cisco AnyConnect VPN service to crash and restart, immediately disconnecting all active VPN users and forcing them to re-authenticate.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142952</guid>
-      <pubDate>Thu, 19 Jun 2025 07:44:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gang Busted by Authorities; Devices and Evidence Seized</title>
-      <link>https://gbhackers.com/ransomware-gang-busted-by-authorities/</link>
-      <description>Thai authorities dismantled a sophisticated criminal enterprise operating from the Antai Holiday Hotel in Pattaya, discovering a high-stakes gambling den and a ransomware cybercrime ring. The operation highlights the growing trend of cybercrime being intertwined with traditional organized crime, including gambling, money laundering, and identity theft.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142933</guid>
-      <pubDate>Thu, 19 Jun 2025 06:35:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache Traffic Server Vulnerability Allows DoS Attacks Through Memory Exhaustion</title>
-      <link>https://gbhackers.com/apache-traffic-server-vulnerability/</link>
-      <description>Vulnerable Product: Apache Software Foundation Apache Traffic Server; CVE(s): CVE-2025-49763; Summary: Attackers can exploit a flaw in the Edge Side Includes (ESI) plugin to trigger denial-of-service (DoS) attacks by exhausting server memory, affecting multiple versions of ATS 9.0.0 to 9.2.101 and 10.0.0 to 10.0.5.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142927</guid>
-      <pubDate>Thu, 19 Jun 2025 06:25:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryuk ransomware’s initial access expert extradited to the U.S.</title>
-      <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/</link>
-      <description>A member of the Ryuk ransomware operation, who specialized in gaining initial access to corporate networks, has been extradited to the United States. The individual was arrested in April 2025 and is suspected of earning $150 million while active between 2018 and 2020.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/</guid>
-      <pubDate>Thu, 19 Jun 2025 06:05:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Adds Passkey Login Support to Facebook for Android and iOS Users</title>
-      <link>https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html</link>
-      <description>Meta Platforms is adding support for passkeys on Facebook, allowing users to securely sign in with biometrics or device lock PIN code. This passwordless authentication solution is resistant to guessing or theft by malicious websites and effective against phishing and password spraying attacks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html</guid>
-      <pubDate>Thu, 19 Jun 2025 06:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open Next SSRF Flaw in Cloudflare Lets Hackers Fetch Data from Any Host</title>
-      <link>https://gbhackers.com/open-next-ssrf-flaw-in-cloudflare/</link>
-      <description>Vulnerable Product: @opennextjs/cloudflare; CVE(s): CVE-2025-6087; Summary: The @opennextjs/cloudflare package contains a critical Server-Side Request Forgery (SSRF) vulnerability that allows unauthenticated attackers to proxy arbitrary remote content through the vulnerable site's domain, posing risks of phishing, data exposure, and domain abuse.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142923</guid>
-      <pubDate>Thu, 19 Jun 2025 05:27:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Password Reset Link Poisoning Leads to Full Account Takeover</title>
-      <link>https://gbhackers.com/password-reset-link-poisoning/</link>
-      <description>A critical vulnerability known as Password Reset Link Poisoning enables attackers to manipulate the domain in password reset links, redirecting users to malicious sites and capturing sensitive reset tokens. This allows for full account takeover, exposing web users and organizations to serious risks such as account takeover, phishing, and reputational damage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142918</guid>
-      <pubDate>Thu, 19 Jun 2025 05:10:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
