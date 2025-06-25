@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 19:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 20:02:44 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-420: PaperCut NG web-print-hot-folder Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-420/</link>
+      <description>Vulnerable Product: PaperCut NG; CVE(s): CVE-2024-8404; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of PaperCut NG by creating a symbolic link, which can be used to delete a file. An attacker must first obtain low-privileged code execution to exploit this vulnerability, and can leverage it to execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26241</guid>
+      <pubDate>Wed, 25 Jun 2025 20:02:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu disables Intel GPU security mitigations, promises 20% performance boost</title>
+      <link>https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/</link>
+      <description>Vulnerable Product: Ubuntu; CVE(s): None; Summary: The article discusses the potential security implications of disabling Spectre GPU mitigations in Ubuntu. Researchers agree that most Spectre attack scenarios are unlikely to be exploited, and that the mitigations built into the kernel will protect against attacks. However, some researchers suggest that for typical users, the risk from downloading malware is higher than any potential gain from disabling these mitigations.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/</guid>
+      <pubDate>Wed, 25 Jun 2025 19:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Weaponized Wedding Invite Scams Delivering SpyMax RAT to Android Devices</title>
+      <link>https://gbhackers.com/beware-of-weaponized-wedding-invite-scams-delivering-spymax-rat/</link>
+      <description>The "Wedding Invitation" Android phishing campaign targets mobile users in India by sending seemingly harmless digital wedding invitations that conceal malicious APK files. These files contain the SpyMax Remote Access Trojan (RAT) or similar malware, which can steal sensitive information and exfiltrate it to attackers through Telegram bots or C2 servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144150</guid>
+      <pubDate>Wed, 25 Jun 2025 19:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New wave of ‘fake interviews’ use 35 npm packages to spread malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/</link>
+      <description>Vulnerable Product: Various; CVE(s): None; Summary: A new wave of North Korean "Contagious Interview" campaign targets job seekers with malicious npm packages that infect dev's devices with info-stealers and backdoors. The packages load BeaverTail info-stealer and InvisibleFerret backdoor, allowing attackers to steal browser data, load keyloggers, and perform remote control and file theft.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/</guid>
+      <pubDate>Wed, 25 Jun 2025 19:24:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>INTERPOL Cautions of Significant Increase in Cyber Attacks on Western and Eastern Africa</title>
+      <link>https://gbhackers.com/interpol-cautions-of-significant-increase-in-cyber-attacks/</link>
+      <description>The INTERPOL 2025 Africa Cyberthreat Assessment Report highlights a significant surge in cybercrime across Africa, with over 30% of all documented criminal activities being cyber-related. The report emphasizes the urgent need for enhanced cybersecurity measures, citing emerging risks such as AI-driven fraud and a lack of adequate law enforcement capabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144177</guid>
+      <pubDate>Wed, 25 Jun 2025 19:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean Hackers Pose as Recruiters, Target Developers with 35 New Malicious npm Packages</title>
       <link>https://gbhackers.com/north-korean-hackers-pose-as-recruiters-target-developers/</link>
@@ -1402,41 +1437,6 @@ FYSA: Cybercriminals have gained access to a massive dataset of login records, w
       <description>Vulnerable Product: Jordy Meow AI Engine; CVE(s): CVE-2025-5071; Summary: The AI Engine plugin has a severe vulnerability allowing authenticated attackers with subscriber-level access or higher to gain full control over the Model Context Protocol (MCP) module, enabling privilege escalation and potentially complete site compromise.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143132</guid>
       <pubDate>Thu, 19 Jun 2025 19:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Deploy Malware Using Weaponized Calendly and Google Meet Links</title>
-      <link>https://gbhackers.com/north-korean-hackers-deploy-malware-using-weaponized-calendly/</link>
-      <description>TA444, a North Korean state-sponsored threat actor group, has launched a sophisticated malware campaign targeting cryptocurrency foundations. The attack leverages weaponized Calendly links, deceptive Google Meet invitations, and deepfakes to deliver malicious payloads designed for macOS systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143141</guid>
-      <pubDate>Thu, 19 Jun 2025 19:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Silver Fox APT Uses Weaponized Medical Software to Deploy Remote Access Tools and Disable AV</title>
-      <link>https://gbhackers.com/silver-fox-apt-uses-weaponized-medical-software/</link>
-      <description>The article discusses the China-based advanced persistent threat (APT) group Silver Fox's multi-stage campaign targeting healthcare delivery organizations (HDOs) and public sector entities. The campaign uses trojanized medical software, cloud infrastructure, and a custom remote access trojan (RAT) to deploy cyber espionage and data theft operations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143124</guid>
-      <pubDate>Thu, 19 Jun 2025 18:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gamers Targeted! Fake Minecraft Mods Enable Attackers to Take Control of Your System</title>
-      <link>https://gbhackers.com/fake-minecraft-mods-enable-attackers-to-take-control/</link>
-      <description>Vulnerable Product: Minecraft; CVE(s): None; Summary: A malicious campaign targeting Minecraft users has been discovered, using a Distribution as a Service (DaaS) platform to distribute malware disguised as legitimate mods. The malware initiates a multi-stage attack chain designed to steal sensitive data and compromise systems, exploiting the trust of gamers seeking to enhance their gaming experience.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143113</guid>
-      <pubDate>Thu, 19 Jun 2025 18:11:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft</title>
-      <link>https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html</link>
-      <description>AntiDot is a financially motivated Android malware sold as a Malware-as-a-Service (MaaS) on underground forums, compromising over 3,775 devices across 273 unique campaigns. It features capabilities to record device screens, intercept SMS messages, extract sensitive data, conduct overlay attacks, and remotely control infected devices.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html</guid>
-      <pubDate>Thu, 19 Jun 2025 17:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinar: Stolen credentials are the new front door to your network</title>
-      <link>https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/</link>
-      <description>Credential-based attacks are becoming increasingly common, with threat actors using stolen credentials to breach networks. Infostealer malware campaigns have exploded in recent years, stealing billions of credentials and feeding a booming cybercrime marketplace. The webinar will explore how attackers are shifting from exploiting vulnerabilities to simply logging in using large-scale credential abuse.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/</guid>
-      <pubDate>Thu, 19 Jun 2025 16:33:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
