@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 17:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 18:03:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-419: TeamViewer Incorrect Permission Assignment Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-419/</link>
+      <description>Vulnerable Product: TeamViewer; CVE(s): CVE-2025-36537; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of TeamViewer. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which results from incorrect permissions on folders.</description>
+      <guid isPermaLink="false">ZDI-CAN-26660</guid>
+      <pubDate>Wed, 25 Jun 2025 18:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Brief: Escalation of Cyber Risk Related to Iran</title>
+      <link>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2025/</link>
+      <description>The article discusses the heightened risk of cyber spillover due to the recent conflict involving Iran, particularly its military engagements with Israel and the U.S. It highlights the potential for Iranian-directed cyberattacks, including destructive attacks, website defacements, DDoS attacks, data exfiltration, and wiper attacks. The article also identifies four key areas of potential cyber threat activity: Iranian nation-state hackers, hacktivists, cybercriminal groups, and other nation-state actors. It emphasizes the importance of a multi-layered defense and recommends foundational security hygiene, including increasing response to threat signals, ensuring internet-facing infrastructure is up-to-date, training employees on phishing and social engineering tactics, and preparing for business continuity plans.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=144269</guid>
+      <pubDate>Wed, 25 Jun 2025 18:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google releases Gemini CLI with free Gemini 2.5 Pro</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/</link>
+      <description>Google has released Gemini 2.5 Pro-powered Gemini CLI, which allows users to use Gemini inside their terminal. The article also mentions other cybersecurity-relevant topics such as Google's text-to-image model Imagen 4, on-device AI for detecting tech support scams in Google Chrome, and the donation of A2A AI protocol to the Linux Foundation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/</guid>
+      <pubDate>Wed, 25 Jun 2025 17:53:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix warns of NetScaler vulnerability exploited in DoS attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/</link>
+      <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-6543; Summary: A critical vulnerability (CVE-2025-6543) is being actively exploited, causing devices to enter a denial of service condition. The flaw impacts NetScaler ADC and Gateway versions 14.1 before 14.1-47.46, 13.1 before 13.1-59.19, and 13.1-FIPS and NDcPP before 13.1-37.236-FIPS and NDcPP.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/</guid>
+      <pubDate>Wed, 25 Jun 2025 17:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery</title>
+      <link>https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html</link>
+      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: The vulnerability in Microsoft's Entra ID allows malicious actors to achieve account takeovers in susceptible software-as-a-service (SaaS) applications. It exploits a weakness in how SaaS applications implement OpenID Connect (OIDC), permitting attackers to change the mail attribute in an Entra ID account and hijack accounts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html</guid>
+      <pubDate>Wed, 25 Jun 2025 16:56:00 +0000</pubDate>
+    </item>
     <item>
       <title>WinRAR patches bug letting malware launch from extracted archives</title>
       <link>https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/</link>
@@ -1402,45 +1437,6 @@ FYSA: Cybercriminals have gained access to a massive dataset of login records, w
       <description>Vulnerable Product: Allegra; CVE(s): CVE-2025-6216; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Allegra, with no required user interaction. The issue stems from a predictable value used in generating a password reset token within the application's password recovery mechanism, allowing attackers to exploit it and bypass authentication.</description>
       <guid isPermaLink="false">ZDI-CAN-27104</guid>
       <pubDate>Thu, 19 Jun 2025 16:01:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s Sam Altman discusses GPT-5 release date</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/</link>
-      <description>This article does not discuss a vulnerability. It appears to be an update about OpenAI's next big upgrade to ChatGPT, including the potential release of GPT-5 and improvements to the Operator Agent.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/</guid>
-      <pubDate>Thu, 19 Jun 2025 15:43:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel-tied Predatory Sparrow hackers are waging cyberwar on Iran’s financial system</title>
-      <link>https://arstechnica.com/information-technology/2025/06/israel-tied-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/</link>
-      <description>Vulnerable Product: None; Summary: Predatory Sparrow, a group believed to be linked to Israel's military or intelligence agencies, has been carrying out cyberattacks against Iran's critical infrastructure, including railways and gas stations. The group's recent attack on the Khouzestan steel mill caused significant physical damage. It is unclear why they have turned their attention to Iran's financial sector, but experts warn that this development may lead to more serious consequences.</description>
-      <guid isPermaLink="true">https://arstechnica.com/information-technology/2025/06/israel-tied-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/</guid>
-      <pubDate>Thu, 19 Jun 2025 14:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>US recovers $225 million of crypto stolen in investment scams</title>
-      <link>https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/</link>
-      <description>The U.S. Department of Justice has seized over $225 million in cryptocurrency linked to investment fraud and money laundering operations, the largest crypto seizure in the history of the U.S. Secret Service. The funds were traced using blockchain analysis and were laundered through a complex network of cryptocurrency addresses to obscure their origin.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/</guid>
-      <pubDate>Thu, 19 Jun 2025 14:33:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Special Webinar: Key Insights from Verizon’s 2025 DBIR</title>
-      <link>https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/</link>
-      <description>The article discusses the Verizon Data Breach Investigations Report (DBIR) 2025, which highlights critical trends in cybersecurity, including rising GenAI-related risks, credential theft, and vulnerabilities from third-party partners. It also emphasizes the need for enterprises to adopt an updated, integrated approach to cybersecurity and provides insights on how to strengthen security posture.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/</guid>
-      <pubDate>Thu, 19 Jun 2025 14:04:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Cyber Attacks Targeting Manufacturing Industry in 2025</title>
-      <link>https://socradar.io/major-cyber-attacks-manufacturing-industry-in-2025/</link>
-      <description>FYSA:
-
-The article highlights the growing threat of cyberattacks in the manufacturing sector. In 2025, the global manufacturing industry faced a surge in cyberattacks, driven by ransomware gangs, espionage-motivated actors, and supply chain vulnerabilities. The cost of these attacks is increasing rapidly, with losses rising by 125% each year. The article also explores the tactics used by attackers and the key lessons for improving industrial cybersecurity.
-
-Note: This summary does not fit into any specific format (vulnerability or threat actor-focused) as it does not specifically discuss a vulnerability or threat actors.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061085</guid>
-      <pubDate>Thu, 19 Jun 2025 14:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
