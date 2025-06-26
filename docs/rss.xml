@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 15:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 16:01:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cisco warns of max severity RCE flaws in Identity Services Engine</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-rce-flaws-in-identity-services-engine/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and Passive Identity Connector (ISE-PIC); CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two critical, unauthenticated remote code execution (RCE) vulnerabilities affect ISE and ISE-PIC versions 3.4 and 3.3, allowing an attacker to execute arbitrary operating system commands as the root user or upload and execute arbitrary files with root privileges.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-rce-flaws-in-identity-services-engine/</guid>
+      <pubDate>Thu, 26 Jun 2025 15:20:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit ChatGPT, Cisco AnyConnect, Google Meet, and Teams in Attacks on SMBs</title>
+      <link>https://gbhackers.com/threat-actors-exploit-chatgpt-cisco-anyconnect-google-meet-and-teams/</link>
+      <description>Threat actors are leveraging the trusted names of popular software and services like ChatGPT, Cisco AnyConnect, Google Meet, and Microsoft Teams to orchestrate sophisticated cyberattacks against SMBs. The report reveals that approximately 8,500 SMB users faced attacks involving malware or potentially unwanted software (PUS) disguised as legitimate tools, with Zoom emerging as the most mimicked platform.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144398</guid>
+      <pubDate>Thu, 26 Jun 2025 15:17:44 +0000</pubDate>
+    </item>
     <item>
       <title>Man pleads guilty to hacking networks to pitch security services</title>
       <link>https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/</link>
@@ -1423,20 +1437,6 @@ Overall, the article provides a snapshot of current cybersecurity threats and vu
       <description>Vulnerable Product: Amazon Elastic Kubernetes Service (EKS); CVE(s): None; Summary: The article discusses vulnerabilities in Amazon EKS that could expose sensitive AWS credentials and enable privilege escalation. Misconfigurations and excessive container privileges allow attackers to intercept plaintext credentials, capture AWS credentials using standard tools like tcpdump, or spoof APIs to harvest authorization tokens and obtain valid AWS credentials.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143530</guid>
       <pubDate>Mon, 23 Jun 2025 05:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Meshtastic Flaw Allows Attackers to Decrypt Private Messages</title>
-      <link>https://gbhackers.com/critical-meshtastic-flaw/</link>
-      <description>Vulnerable Product: Meshtastic; CVE(s): CVE-2025-52464; Summary: A severe cryptographic vulnerability in the Meshtastic project allows attackers to decrypt private messages and hijack nodes across LoRa mesh networks. The vulnerability stems from duplicated encryption keys and insufficient randomness during key generation, affecting multiple hardware platforms and posing significant risks to users relying on Meshtastic for secure off-grid communication.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143527</guid>
-      <pubDate>Mon, 23 Jun 2025 05:41:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoinMarketCap Doodle Image Vulnerability Lets Attackers Run Malicious Code via API Call</title>
-      <link>https://gbhackers.com/coinmarketcap-doodle-image-vulnerability/</link>
-      <description>Vulnerable Product: CoinMarketCap; CVE(s): None; Summary: A vulnerability in a doodle image featured on CoinMarketCap's homepage allowed threat actors to inject malicious code, leading to a phishing campaign targeting user wallets. The exploit delivered a tampered JSON payload that embedded unauthorized JavaScript into the site's front end, prompting users to "Verify Wallet" and gain access to their crypto holdings.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143523</guid>
-      <pubDate>Mon, 23 Jun 2025 05:13:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
