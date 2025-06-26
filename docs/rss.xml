@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 16:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 17:02:19 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ex-student charged over hacking university for cheap parking, data breaches</title>
+      <link>https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/</link>
+      <description>The article describes a hacking case involving Birdie Kingston, a 27-year-old former Western Sydney University (WSU) student, who allegedly hacked into the university's systems multiple times starting from 2021. She is accused of unauthorized access, data theft, and compromising university infrastructure, affecting hundreds of staff and students.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/</guid>
+      <pubDate>Thu, 26 Jun 2025 16:24:59 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco warns of max severity RCE flaws in Identity Services Engine</title>
       <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-rce-flaws-in-identity-services-engine/</link>
@@ -79,6 +86,27 @@ FYSA: Threat actors have been advertising builders that provide ClickFix-weaponi
       <description>Microsoft is rolling out an update to Microsoft Teams that allows administrators to manage third-party app availability through rule-based settings in the Teams admin center. This feature aims to enhance security and streamline app management by enabling granular control over certified apps based on permissions, publisher names, or other criteria. The default setting will allow all certified apps, but admins can customize availability using the new "Customize availability" option.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144365</guid>
       <pubDate>Thu, 26 Jun 2025 12:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>TrendMakers Sight Bulb Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-177-02</link>
+      <description>Vulnerable Product: TrendMakers Sight Bulb Pro; CVE(s): CVE-2025-6521, CVE-2025-6522; Summary: Successful exploitation of these vulnerabilities could allow an attacker to capture sensitive information and execute arbitrary shell commands on the target device as root if connected to the local network segment.</description>
+      <guid isPermaLink="false">/node/23556</guid>
+      <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric Air Conditioning Systems</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-177-01</link>
+      <description>Vulnerable Product: Mitsubishi Electric air conditioning systems; CVE(s): CVE-2025-3699; Summary: An authentication bypass vulnerability exists in Mitsubishi Electric air conditioning systems, allowing an attacker to control the system or disclose information by exploiting this vulnerability. Successful exploitation could also allow tampering with the firmware of affected products.</description>
+      <guid isPermaLink="false">/node/23555</guid>
+      <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/26/cisa-releases-two-industrial-control-systems-advisories</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released two Industrial Control Systems (ICS) advisories regarding Mitsubishi Electric Air Conditioning Systems and TrendMakers Sight Bulb Pro. These advisories provide information on current security issues, vulnerabilities, and exploits surrounding ICS, and encourage users and administrators to review the technical details and mitigations.</description>
+      <guid isPermaLink="false">/node/23557</guid>
+      <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Authorities Charge 25-Year-Old British National Linked to IntelBroker Hacks</title>
@@ -1409,34 +1437,6 @@ Some notable points include:
 Overall, the article provides a snapshot of current cybersecurity threats and vulnerabilities, along with practical advice on how to mitigate them.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html</guid>
       <pubDate>Mon, 23 Jun 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Family Safety Now Blocking All Versions of Google Chrome</title>
-      <link>https://gbhackers.com/microsoft-family-safety-blocking-of-google-chrome/</link>
-      <description>Microsoft's Family Safety feature is blocking all versions of Google Chrome from launching on Windows devices due to a bug in the feature. The issue affects only Chrome, while other browsers like Edge, Firefox, and Opera remain unaffected. The root cause is a bug in Microsoft's Family Safety feature, which prevents Chrome from running when enabled.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143552</guid>
-      <pubDate>Mon, 23 Jun 2025 08:38:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former JBLM Soldier Admits Attempting to Leak U.S. Military Network Details to China</title>
-      <link>https://gbhackers.com/former-jblm-soldier-leak-u-s-military-network-details-to-china/</link>
-      <description>A former US Army sergeant, Joseph Daniel Schmidt, has pleaded guilty to attempting to deliver sensitive military secrets to Chinese authorities. He held classified information while serving with the 109th Military Intelligence Battalion at Joint Base Lewis-McChord and later attempted to share this information with Chinese officials, including creating and offering documents containing "high-level secrets" during his time in Hong Kong.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143545</guid>
-      <pubDate>Mon, 23 Jun 2025 08:17:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Snipping Tool Now Lets Users Export Captures as GIFs</title>
-      <link>https://gbhackers.com/windows-snipping-tool-export-captures-as-gifs/</link>
-      <description>The article discusses an update to Microsoft's Snipping Tool that allows users to export screen recordings as animated GIFs. This feature aims to streamline the process of creating and sharing dynamic visual content, which can be particularly useful for remote work environments. The update is currently available in the Canary and Dev Channels for Windows 11 Insiders, with a broader rollout expected in the near future.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143537</guid>
-      <pubDate>Mon, 23 Jun 2025 06:57:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon EKS Flaws Expose AWS Credentials and Enable Privilege Escalation</title>
-      <link>https://gbhackers.com/amazon-eks-flaws-expose-aws-credentials/</link>
-      <description>Vulnerable Product: Amazon Elastic Kubernetes Service (EKS); CVE(s): None; Summary: The article discusses vulnerabilities in Amazon EKS that could expose sensitive AWS credentials and enable privilege escalation. Misconfigurations and excessive container privileges allow attackers to intercept plaintext credentials, capture AWS credentials using standard tools like tcpdump, or spoof APIs to harvest authorization tokens and obtain valid AWS credentials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143530</guid>
-      <pubDate>Mon, 23 Jun 2025 05:49:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
