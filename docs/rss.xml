@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 13:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 14:01:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>WhatsApp to Introduce AI-Powered Message Summaries for Faster Catch-Up</title>
+      <link>https://gbhackers.com/whatsapp-to-introduce-ai-powered-message-summaries/</link>
+      <description>WhatsApp has announced the upcoming launch of "Message Summaries" - an AI-powered feature that provides concise summaries of unread messages. The feature is designed to help users quickly catch up on conversations without compromising privacy. The summaries are generated through "Private Processing" technology, which means neither Meta nor WhatsApp can see the messages or summaries, and users have control over whether to enable the feature and customize which chats are eligible for AI-powered summaries.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144388</guid>
+      <pubDate>Thu, 26 Jun 2025 13:44:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco ISE Vulnerability Allows Remote Attackers to Execute Malicious Commands</title>
+      <link>https://gbhackers.com/cisco-ise-vulnerability/</link>
+      <description>Vulnerable Product: Cisco ISE and ISE-PIC; CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two critical vulnerabilities (CVSS 10.0) in Cisco ISE and ISE-PIC platforms allow unauthenticated remote attackers to execute malicious commands as the root user, potentially taking complete control of affected systems. The flaws target specific APIs within Cisco ISE and ISE-PIC, enabling arbitrary code execution or file uploads with root privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144381</guid>
+      <pubDate>Thu, 26 Jun 2025 13:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 'Direct Send' abused to send phishing as internal users</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/</link>
+      <description>Vulnerable Product: Microsoft 365; CVE(s): None; Summary: The Direct Send feature in Microsoft 365 allows on-premises devices or cloud services to send emails through a tenant's smart host as if they originated from the organization's domain. This feature is designed for use by printers, scanners, and other devices that need to send messages on behalf of the company, but it does not require authentication, allowing remote users to send internal-looking emails from the company's domain.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/</guid>
+      <pubDate>Thu, 26 Jun 2025 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Teams Adds Feature for Admins to Control 365 Certified Apps with Custom Rules</title>
       <link>https://gbhackers.com/microsoft-teams-adds-feature-for-admins-to-control-365-certified-apps/</link>
@@ -1416,27 +1437,6 @@ The article discusses the potential for cyber retaliation following a kinetic st
       <description>The article discusses updates to Microsoft's Snipping Tool utility, including the addition of GIF export for screen recordings. It also mentions other recent features added to Snipping Tool, such as a Text Extractor and draw &amp; hold capabilities. There is no mention of vulnerabilities or cybersecurity-related threats in this article.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/</guid>
       <pubDate>Sun, 22 Jun 2025 14:11:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stellar Repair For Outlook: A Comprehensive Review Of The Ultimate PST Repair Tool</title>
-      <link>https://gbhackers.com/stellar-repair-for-outlook/</link>
-      <description>The article reviews Stellar Repair for Outlook, a software designed to repair and recover corrupted Outlook PST files. It highlights the causes of PST file corruption, such as oversized files, improper shutdowns, malware attacks, and storage device issues. The review provides an in-depth evaluation of the software's features, performance, and usability, including its ability to handle large PST files, selective recovery, and export options.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=142783</guid>
-      <pubDate>Sun, 22 Jun 2025 10:44:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenVPN Driver Vulnerability Let Attackers Crash Windows Systems</title>
-      <link>https://gbhackers.com/openvpn-driver-vulnerability/</link>
-      <description>Vulnerable Product: OpenVPN; CVE(s): CVE-2025-50054; Summary: The OpenVPN 2.7_alpha2 release addresses a critical vulnerability in the Windows driver (CVE-2025-50054) that could allow attackers to crash systems, emphasizing the importance of timely updates and rigorous testing before deployment.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143447</guid>
-      <pubDate>Sun, 22 Jun 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israeli Social Media Users Targeted in Covert Iranian Influence Campaign</title>
-      <link>https://gbhackers.com/israeli-social-media-users-targeted-in-covert/</link>
-      <description>A covert Iranian social media operation has been uncovered, targeting Israeli users on platform X with a psychological campaign designed to sow discord and despair. The operation uses AI tools like ChatGPT for translation and recommends account naming conventions to enhance authenticity. The campaign's technical sophistication allows it to evade detection by moderation systems, making it difficult to detect using traditional automated detection methods.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143440</guid>
-      <pubDate>Sun, 22 Jun 2025 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
