@@ -6,8 +6,110 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 22:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 10:07:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft confirms Family Safety blocks Google Chrome from launching</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/</link>
+      <description>Vulnerable Product: Microsoft Family Safety; CVE(s): None; Summary: The Microsoft Family Safety parental control service is blocking users from launching Google Chrome and other web browsers on Windows systems due to a bug in its web filtering tool, which prompts children to ask for their parents' approval to use other browsers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/</guid>
+      <pubDate>Thu, 26 Jun 2025 09:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Use TeamFiltration Pentesting Framework to Breach Microsoft Teams, OneDrive, Outlook, and More</title>
+      <link>https://gbhackers.com/cybercriminals-use-teamfiltration-pentesting-framework/</link>
+      <description>The UNK_SneakyStrike account takeover campaign uses the TeamFiltration pentesting framework to target Microsoft Entra ID user accounts, exploiting credentials and gaining unauthorized access to critical native applications such as Microsoft Teams, OneDrive, and Outlook.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144233</guid>
+      <pubDate>Thu, 26 Jun 2025 09:37:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues Alert on Active Exploitation of D-Link Path Traversal Flaw</title>
+      <link>https://gbhackers.com/cisa-issues-alert-on-d-link-path-traversal-flaw/</link>
+      <description>Vulnerable Product: D-Link DIR-859 WiFi Router; CVE(s): CVE-2024-0769; Summary: The vulnerability (CVE-2024-0769) is a path traversal vulnerability in the HTTP POST request handler of the router's hedwig.cgi file, allowing attackers to traverse directories and access sensitive configuration files, leading to unauthorized access and potential full control over affected devices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144303</guid>
+      <pubDate>Thu, 26 Jun 2025 09:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian APT35 Hackers Targeting Israeli Tech Experts with AI-Powered Phishing Attacks</title>
+      <link>https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html</link>
+      <description>The article reports on a spear-phishing campaign attributed to the Iranian state-sponsored hacking group Educated Manticore (also known as APT35), targeting journalists, high-profile cybersecurity experts, and computer science professors in Israel. The attackers use social engineering tactics, posing as fictitious assistants or using AI-generated messages to trick victims into deploying malware on their systems.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html</guid>
+      <pubDate>Thu, 26 Jun 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA: AMI MegaRAC bug enabling server hijacks exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/</link>
+      <description>Vulnerable Product: AMI MegaRAC Baseboard Management Controller (BMC) software; CVE(s): CVE-2024-54085; Summary: A maximum severity vulnerability allows remote unauthenticated attackers to hijack and potentially brick unpatched servers, enabling attacks such as malware deployment, ransomware, firmware tampering, and server physical damage.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/</guid>
+      <pubDate>Thu, 26 Jun 2025 08:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Demonstrate Windows Registry Manipulation via C++ Program</title>
+      <link>https://gbhackers.com/windows-registry-manipulation-via-c-program/</link>
+      <description>The article discusses a C++ program demonstrating how attackers manipulate the Windows Registry to establish persistence, evade defenses, and alter system behavior. The program uses Windows API functions to modify registry keys, simulating tactics employed by real-world malware while highlighting critical defense implications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144260</guid>
+      <pubDate>Thu, 26 Jun 2025 08:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM i Vulnerability Allows Attackers to Escalate Privileges</title>
+      <link>https://gbhackers.com/ibm-i-vulnerability/</link>
+      <description>Vulnerable Product: IBM; CVE(s): CVE-2025-36004; Summary: The vulnerability allows attackers to escalate privileges and execute arbitrary code with administrator rights. It affects multiple versions of IBM i, including 7.5, 7.4, 7.3, and 7.2. An attacker can gain unauthorized access to sensitive system resources, compromise the integrity and availability of the system, and potentially take full control of the affected environment.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144261</guid>
+      <pubDate>Thu, 26 Jun 2025 07:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa</title>
+      <link>https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html</link>
+      <description>This article discusses a series of cyber attacks targeting financial organizations across Africa, using open-source and publicly available tools to maintain access. The attackers use a mix of tools, including PoshC2, Chisel, and Classroom Spy, to commandeer machines and bypass firewalls, with the goal of selling initial access to other criminal actors on underground forums.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html</guid>
+      <pubDate>Thu, 26 Jun 2025 07:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues Alert on ControlID iDSecure Flaws Enabling Bypass Authentication</title>
+      <link>https://gbhackers.com/cisa-issues-alert-on-controlid-idsecure-flaws/</link>
+      <description>Vulnerable Product: ControlID iDSecure On-premises; CVE(s): CVE-2025-49851, CVE-2025-49852, CVE-2025-49853; Summary: The software has multiple critical vulnerabilities that allow attackers to bypass authentication, leak sensitive data, and execute malicious SQL commands. Exploitation can lead to unauthorized access, data breaches, and disruption of critical operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144236</guid>
+      <pubDate>Thu, 26 Jun 2025 06:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet</title>
+      <link>https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html</link>
+      <description>Vulnerable Product: AMI MegaRAC; CVE(s): CVE-2024-54085; Summary: An authentication bypass vulnerability allows a remote attacker to take control of the Redfish Host Interface of AMI MegaRAC SPx, potentially leading to malicious actions such as deploying malware and tampering with device firmware. The flaw has a CVSS score of 10.0.
+
+Vulnerable Product: D-Link DIR-859; CVE(s): CVE-2024-0769; Summary: A path traversal vulnerability in the D-Link DIR-859 router allows for privilege escalation and unauthorized control, potentially allowing an attacker to dump account names, passwords, groups, and descriptions for all users of the device. The router has reached end-of-life (EoL) as of December 2020.
+
+Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-coded cryptographic key vulnerability in FortiOS allows an attacker with access to the CLI configuration or the CLI backup file to decrypt sensitive data, potentially leading to initial access for threat actors linked to the Akira ransomware scheme.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html</guid>
+      <pubDate>Thu, 26 Jun 2025 06:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MOVEit Transfer Systems Hit by Wave of Attacks Using Over 100 Unique IPs</title>
+      <link>https://gbhackers.com/moveit-transfer-systems-hit-by-wave-of-attacks/</link>
+      <description>Vulnerable Product: Progress Software MOVEit Transfer; CVE(s): CVE-2023-34362, CVE-2023-36934; Summary: The MOVEit Transfer file-sharing platform has been targeted by a surge in scanning and exploitation activity. Over 682 unique IP addresses have been detected targeting MOVEit Transfer systems, with the most intense activity beginning on May 27, 2025. Exploitation attempts have been linked to two previously disclosed vulnerabilities (CVE-2023-34362 and CVE-2023-36934).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144227</guid>
+      <pubDate>Thu, 26 Jun 2025 05:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Authorities Arrest Five Operators Behind Infamous BreachForums Cybercrime Hub</title>
+      <link>https://gbhackers.com/authorities-arrest-five-operators/</link>
+      <description>Five key operators behind BreachForums, an online marketplace for stolen data, have been arrested by French authorities. The operation targeted suspects believed to be operating from Russian-speaking territories, but the core administrators were revealed to be four French nationals in their early twenties. The arrests are expected to disrupt the global trade in stolen data and serve as a warning to other cybercriminals who rely on such platforms for anonymity and profit.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144221</guid>
+      <pubDate>Thu, 26 Jun 2025 05:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews</title>
+      <link>https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html</link>
+      <description>WhatsApp has introduced an AI-powered feature called Message Summaries that summarizes unread messages in chats using Meta AI's Private Processing technology. This feature is designed to preserve user privacy and prevent third-party access to message contents. The development comes as the U.S. House of Representatives added WhatsApp to a list of apps banned from government-issued devices due to security concerns.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html</guid>
+      <pubDate>Thu, 26 Jun 2025 04:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacker 'IntelBroker' charged in US for global data theft breaches</title>
+      <link>https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/</link>
+      <description>A British national, "IntelBroker" (Kai West), has been charged by the US for stealing and selling sensitive data worldwide, causing an estimated $25 million in damages. The stolen information included health records, internal files from companies, and user data from online platforms.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/</guid>
+      <pubDate>Wed, 25 Jun 2025 23:54:22 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-424: Mikrotik RouterOS VXLAN Source IP Improper Access Control Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-424/</link>
@@ -1333,104 +1435,6 @@ The article discusses the potential for cyber retaliation following a kinetic st
       <description>Russian hackers bypassed multi-factor authentication and accessed Gmail accounts by leveraging app-specific passwords in advanced social engineering attacks that impersonated U.S. Department of State officials. The attackers used meticulously developed phishing messages, fake identities, and various materials to deceive victims into creating and sharing app-specific passwords, allowing the hackers full access to their Google accounts.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/</guid>
       <pubDate>Sat, 21 Jun 2025 15:13:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Motors theme flaw mass-exploited to hijack admin accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/</link>
-      <description>Vulnerable Product: StylemixThemes Motors; CVE(s): CVE-2025-4322; Summary: The WordPress theme "Motors" contains a privilege escalation vulnerability that allows unauthenticated attackers to change administrator passwords, granting complete control of the targeted site. The flaw arises from improper user identity validation during password updating and affects all versions before and including 5.6.67.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/</guid>
-      <pubDate>Sat, 21 Jun 2025 14:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages</title>
-      <link>https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html</link>
-      <description>This article is not about a vulnerability, but rather a cyber attack on UK retailers Marks &amp; Spencer and Co-op. The attacks were classified as a single combined cyber event by the Cyber Monitoring Centre (CMC), with an estimated financial impact of £270-440 million.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html</guid>
-      <pubDate>Sat, 21 Jun 2025 09:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target 700+ ComfyUI AI Image Generation Servers to Spread Malware</title>
-      <link>https://gbhackers.com/hackers-target-700-comfyui-ai-image-generation-servers/</link>
-      <description>Vulnerable Product: ComfyUI; CVE(s): None; Summary: Critical vulnerabilities in ComfyUI have been exploited by hacker groups, compromising at least 695 servers worldwide. The flaws allow attackers to steal sensitive AI-related data, execute remote commands, and establish reverse shell access, posing a significant risk of network intrusions and data breaches.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143372</guid>
-      <pubDate>Fri, 20 Jun 2025 21:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberattack Disrupts Russian Dairy Supply Chain by Targeting Animal Certification System</title>
-      <link>https://gbhackers.com/cyberattack-disrupts-russian-dairy-supply-chain/</link>
-      <description>A suspected cyberattack has targeted Russia's national veterinary certification system (Mercury), forcing it into emergency operation mode. The attack has halted normal operations, prompting authorities to implement contingency measures to maintain the flow of goods while restoration efforts are underway.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143317</guid>
-      <pubDate>Fri, 20 Jun 2025 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prometei Botnet Targets Linux Servers for Cryptocurrency Mining Operations</title>
-      <link>https://gbhackers.com/prometei-botnet-targets-linux-servers/</link>
-      <description>The article discusses a renewed wave of attacks by the Prometei botnet targeting Linux servers. The malware has advanced capabilities such as a backdoor for remote control, DGA for resilient C2 infrastructure, and self-updating mechanisms to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143326</guid>
-      <pubDate>Fri, 20 Jun 2025 20:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Weaponized MSI Installer Masquerading as WhatsApp to Deliver XWorm RAT</title>
-      <link>https://gbhackers.com/beware-of-weaponized-msi-installer-masquerading-as-whatsapp/</link>
-      <description>A China-based threat actor is targeting users across East and Southeast Asia with a trojanized MSI installer disguised as a legitimate WhatsApp setup file. The installer delivers a customized version of the XWorm Remote Access Trojan (RAT), which can steal sensitive data, maintain persistent access for attackers, and detect Telegram installations on compromised devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143293</guid>
-      <pubDate>Fri, 20 Jun 2025 20:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mocha Manakin Uses Paste-and-Run Technique to Deceive Users into Downloading Malware</title>
-      <link>https://gbhackers.com/mocha-manakin-uses-paste-and-run-technique-to-deceive-users/</link>
-      <description>Mocha Manakin is a malicious campaign using the "paste-and-run" technique to trick users into executing harmful scripts. The campaign employs sophisticated social engineering lures, exploiting digital conditioning to prompt users to copy and paste obfuscated PowerShell commands, which download malicious payloads from adversary-controlled infrastructure.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143334</guid>
-      <pubDate>Fri, 20 Jun 2025 19:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Manipulate Google Search Results to Display Scammer’s Phone Number Instead of Real Number</title>
-      <link>https://gbhackers.com/threat-actors-manipulate-google-search-results/</link>
-      <description>Threat actors are exploiting trust in sponsored search results to orchestrate scams, targeting popular brands and tech support services. They manipulate search engine results to display fake contact numbers and redirect users to malicious sites or fraudulent phone numbers, leading to financial losses, identity theft, and potential malware infections.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143301</guid>
-      <pubDate>Fri, 20 Jun 2025 19:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic</title>
-      <link>https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/</link>
-      <description>The article discusses the use of reflection attacks in a record-breaking DDoS attack. Reflection attacks direct malicious traffic to third-party intermediaries, making it harder for targets to defend against the attack. The attack exploited various amplification vectors, including Network Time Protocol, Quote of the Day Protocol, Echo Protocol, and Portmapper services, as well as Mirai-based botnets.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/</guid>
-      <pubDate>Fri, 20 Jun 2025 19:04:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insomnia API Client Vulnerability Enables Arbitrary Code Execution via Template Injection</title>
-      <link>https://gbhackers.com/insomnia-api-client-vulnerability/</link>
-      <description>Vulnerable Product: Insomnia API Client; CVE(s): CVE-2025-1087; Summary: The Insomnia API Client has a severe security vulnerability allowing for arbitrary code execution through Client-Side Template Injection (CSTI) due to its use of the Nunjucks templating engine. The flaw persists in version 11.2.0 and can be exploited via multiple vectors, including imported collection files, pasted data, server-provided cookies, and HTTP responses.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143308</guid>
-      <pubDate>Fri, 20 Jun 2025 18:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Vercel Hosting Platform to Distribute Remote Access Malware</title>
-      <link>https://gbhackers.com/threat-actors-exploit-vercel-hosting-platform/</link>
-      <description>CyberArmor has uncovered a sophisticated phishing campaign exploiting Vercel, a frontend hosting platform, to distribute a malicious variant of LogMeIn. The campaign targeted over 1,271 users with deceptive emails leading to fraudulent pages hosted on Vercel subdomains, tricking victims into downloading and installing the malware.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143286</guid>
-      <pubDate>Fri, 20 Jun 2025 18:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BitoPro exchange links Lazarus hackers to $11 million crypto heist</title>
-      <link>https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/</link>
-      <description>The article reports on a cyberattack on Taiwanese cryptocurrency exchange BitoPro, allegedly carried out by the North Korean hacking group Lazarus. The attackers stole approximately $11 million worth of cryptocurrency and laundered it through decentralized exchanges (DEXs) and mixers. The incident involved social engineering, malware, and hijacked AWS session tokens to bypass multi-factor authentication (MFA).</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/</guid>
-      <pubDate>Fri, 20 Jun 2025 17:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>TxTag Phishing Campaign Exploits .gov Domain to Deceive Employees</title>
-      <link>https://gbhackers.com/txtag-phishing-campaign-exploits-gov-domain/</link>
-      <description>A new phishing campaign has emerged, using the credibility of a .gov domain to deceive employees into believing they owe unpaid tolls. The attack leverages the GovDelivery system and uses psychological manipulation, combined with technical deception, to maximize its impact. The campaign targets employees' personal data and corporate reputation, posing risks that traditional perimeter defenses often fail to detect.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143269</guid>
-      <pubDate>Fri, 20 Jun 2025 17:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PowerShell Loaders Use In-Memory Execution to Evade Disk-Based Detection</title>
-      <link>https://gbhackers.com/powershell-loaders-use-in-memory-execution/</link>
-      <description>A sophisticated PowerShell script named y1.ps1 has been discovered hosted in an open directory on a Chinese server. The script operates as a shellcode loader, employing advanced in-memory execution techniques to bypass traditional detection mechanisms. It uses various evasion techniques, including API hashing and forged User-Agent strings, to evade network monitoring and antivirus solutions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143261</guid>
-      <pubDate>Fri, 20 Jun 2025 17:23:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
