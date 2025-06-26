@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 10:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 11:02:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Iranian Spear-Phishing Attack Impersonates Google, Outlook, and Yahoo Domains</title>
+      <link>https://gbhackers.com/iranian-spear-phishing-attack-impersonates-google/</link>
+      <description>The article reports a renewed global spear-phishing campaign by the Iranian threat actor Educated Manticore (APT42), targeting high-value individuals with credential theft and bypassing multi-factor authentication through advanced social engineering tactics. The campaign poses a significant risk to academics, journalists, and geopolitical figures, particularly prominent Israeli figures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144323</guid>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Deploy Pubload Malware Using Tibetan Community Lures and Weaponized Filenames</title>
+      <link>https://gbhackers.com/chinese-hackers-deploy-pubload-malware-using-tibetan-community-lures/</link>
+      <description>This article reports on a targeted cyberattack campaign orchestrated by the China-aligned threat actor Hive0154. The campaign involves phishing attacks using culturally sensitive topics to manipulate trust and curiosity within the Tibetan community, as well as targeting other entities such as the U.S. Navy with lures referencing strategic military engagements.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144293</guid>
+      <pubDate>Thu, 26 Jun 2025 10:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft fixes Outlook bug causing crashes when opening emails</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/</link>
+      <description>Vulnerable Product: Microsoft Outlook; CVE(s): None; Summary: A bug causes classic Outlook to crash when opening emails or starting a new message, affecting users across all Microsoft 365 Office channels who updated Outlook for Microsoft 365 earlier this month. The issue occurs because Outlook cannot open the Forms Library.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/</guid>
+      <pubDate>Thu, 26 Jun 2025 10:26:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>US University Targeted by Androxgh0st Botnet Operators for C2 Logger Hosting</title>
+      <link>https://gbhackers.com/us-university-targeted-by-androxgh0st-botnet-operators/</link>
+      <description>The Androxgh0st botnet has been found to be a persistent and dynamic cyberthreat that has targeted the University of California, San Diego's "USArhythms" portal to host its command-and-control (C2) logger panels. The botnet exploits over 20 vulnerabilities, including Apache Shiro, Spring Framework, WordPress plugins, IoT devices, and others, to execute remote code, steal sensitive data, and deploy cryptomining payloads. It also utilizes webshells and OGNL payloads to maintain persistent access and facilitate further malware deployment.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144245</guid>
+      <pubDate>Thu, 26 Jun 2025 10:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft confirms Family Safety blocks Google Chrome from launching</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/</link>
@@ -1407,34 +1435,6 @@ The article discusses the potential for cyber retaliation following a kinetic st
       <description>The Russia-aligned Sednit group has been conducting a sophisticated cyber espionage campaign, dubbed Operation RoundPress, targeting high-value webmail platforms through cross-site scripting (XSS) attacks. The operation compromises popular webmail services, stealing credentials, exfiltrating email content, and bypassing two-factor authentication.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143412</guid>
       <pubDate>Sat, 21 Jun 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Announces New Graph Powered Detection of Hybrid Attack Targeting Organizations</title>
-      <link>https://gbhackers.com/microsoft-announces-new-graph-powered-detection/</link>
-      <description>Microsoft has unveiled an innovative approach to detecting hybrid attacks that span on-premises and cloud environments. The Enterprise Exposure Graph provides contextual enrichment and enables Security Operations Center (SOC) teams to detect and respond to multi-faceted threats with unprecedented precision, addressing critical blind spots in traditional security frameworks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143404</guid>
-      <pubDate>Sat, 21 Jun 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Hacktivist Attacking Israeli Military, Government, and Infrastructure Targets</title>
-      <link>https://gbhackers.com/iranian-hacktivist-attacking-israeli/</link>
-      <description>Pro-Iranian hacktivist organizations launched a coordinated attack on Israeli military, government, and infrastructure targets, using tactics such as DDoS attacks, website defacements, and data breaches. The pro-Israeli groups responded with targeted infrastructure attacks against Iranian nuclear facilities and military assets, highlighting a significant imbalance in the ongoing digital conflict between the two nations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143396</guid>
-      <pubDate>Sat, 21 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aflac Hit by Cyberattack: What You Need to Know About the Breach</title>
-      <link>https://socradar.io/aflac-cyberattack-what-you-need-to-know/</link>
-      <description>Vulnerable Product: Aflac; CVE(s): None; Summary: Aflac suffered a significant cybersecurity breach caused by social engineering tactics, resulting in unauthorized access to sensitive information on its network. The attackers accessed a range of Personally Identifiable Information (PII), including health insurance claims and medical-related data, Social Security numbers, and personal data associated with customers, beneficiaries, employees, agents, and potentially other individuals.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061161</guid>
-      <pubDate>Sat, 21 Jun 2025 16:05:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian hackers bypass Gmail MFA using stolen app passwords</title>
-      <link>https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/</link>
-      <description>Russian hackers bypassed multi-factor authentication and accessed Gmail accounts by leveraging app-specific passwords in advanced social engineering attacks that impersonated U.S. Department of State officials. The attackers used meticulously developed phishing messages, fake identities, and various materials to deceive victims into creating and sharing app-specific passwords, allowing the hackers full access to their Google accounts.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/</guid>
-      <pubDate>Sat, 21 Jun 2025 15:13:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
