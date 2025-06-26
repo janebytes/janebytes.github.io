@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 12:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 13:01:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Teams Adds Feature for Admins to Control 365 Certified Apps with Custom Rules</title>
+      <link>https://gbhackers.com/microsoft-teams-adds-feature-for-admins-to-control-365-certified-apps/</link>
+      <description>Microsoft is rolling out an update to Microsoft Teams that allows administrators to manage third-party app availability through rule-based settings in the Teams admin center. This feature aims to enhance security and streamline app management by enabling granular control over certified apps based on permissions, publisher names, or other criteria. The default setting will allow all certified apps, but admins can customize availability using the new "Customize availability" option.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144365</guid>
+      <pubDate>Thu, 26 Jun 2025 12:03:10 +0000</pubDate>
+    </item>
     <item>
       <title>Authorities Charge 25-Year-Old British National Linked to IntelBroker Hacks</title>
       <link>https://gbhackers.com/authorities-charge-25-year-old-british-national-linked-to-intelbroker-hacks/</link>
@@ -1430,13 +1437,6 @@ The article discusses the potential for cyber retaliation following a kinetic st
       <description>A covert Iranian social media operation has been uncovered, targeting Israeli users on platform X with a psychological campaign designed to sow discord and despair. The operation uses AI tools like ChatGPT for translation and recommends account naming conventions to enhance authenticity. The campaign's technical sophistication allows it to evade detection by moderation systems, making it difficult to detect using traditional automated detection methods.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143440</guid>
       <pubDate>Sun, 22 Jun 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mattermost Vulnerabilities Let Attackers Execute Remote Code Via Path Traversal</title>
-      <link>https://gbhackers.com/mattermost-vulnerabilities-let-attackers-execute-remote-code/</link>
-      <description>Vulnerable Product: Mattermost; CVE(s): None; Summary: Mattermost has disclosed critical path traversal vulnerabilities that could allow attackers to execute remote code. The flaws can be exploited to access restricted directories and files, potentially compromising sensitive data or disrupting operations. The company urges users to prioritize upgrading to the latest fixed versions to safeguard their environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143433</guid>
-      <pubDate>Sun, 22 Jun 2025 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
