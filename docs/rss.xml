@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 14:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 15:03:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Man pleads guilty to hacking networks to pitch security services</title>
+      <link>https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/</link>
+      <description>Nicholas Michael Kloster, a 32-year-old Kansas City man, has pleaded guilty to hacking multiple organizations to advertise his cybersecurity services. He accessed the networks of three organizations, including a health club and a Missouri nonprofit corporation, and used the access to offer his services as a cybersecurity consultant.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/</guid>
+      <pubDate>Thu, 26 Jun 2025 14:03:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 key takeaways from the Scattered Spider attacks on insurance firms</title>
+      <link>https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/</link>
+      <description>Scattered Spider, a group of threat actors, has been linked to attacks on several US insurance companies, including Aflac, Philadelphia Insurance Companies, and Erie Insurance. The attackers used identity-based techniques, such as impersonating IT users or employees, to reset passwords and gain access to victim environments. This is not an isolated incident, as Scattered Spider has a history of high-profile breaches in the insurance industry.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/</guid>
+      <pubDate>Thu, 26 Jun 2025 14:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>WhatsApp to Introduce AI-Powered Message Summaries for Faster Catch-Up</title>
       <link>https://gbhackers.com/whatsapp-to-introduce-ai-powered-message-summaries/</link>
@@ -16,11 +30,27 @@
       <pubDate>Thu, 26 Jun 2025 13:44:29 +0000</pubDate>
     </item>
     <item>
+      <title>Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access</title>
+      <link>https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC); CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two maximum-severity security flaws in Cisco ISE and ISE-PIC allow an unauthenticated attacker to execute arbitrary commands as the root user. The vulnerabilities stem from insufficient input validation and lack of file validation checks, and can be exploited by sending crafted API requests or uploading malicious files.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html</guid>
+      <pubDate>Thu, 26 Jun 2025 13:24:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cisco ISE Vulnerability Allows Remote Attackers to Execute Malicious Commands</title>
       <link>https://gbhackers.com/cisco-ise-vulnerability/</link>
       <description>Vulnerable Product: Cisco ISE and ISE-PIC; CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two critical vulnerabilities (CVSS 10.0) in Cisco ISE and ISE-PIC platforms allow unauthenticated remote attackers to execute malicious commands as the root user, potentially taking complete control of affected systems. The flaws target specific APIs within Cisco ISE and ISE-PIC, enabling arbitrary code execution or file uploads with root privileges.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144381</guid>
       <pubDate>Thu, 26 Jun 2025 13:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks</title>
+      <link>https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html</link>
+      <description>The article discusses the ClickFix social engineering tactic, which has seen a 517% increase in detections between 2024 and the first half of this year. It involves fake CAPTCHA verifications and deception tactics to trick victims into running malicious scripts.
+
+FYSA: Threat actors have been advertising builders that provide ClickFix-weaponized landing pages, and researchers have demonstrated an alternative tactic called FileFix that works by tricking users into copying and pasting a file path into Windows File Explorer. Additionally, various phishing campaigns have been detected, including those using government domains, long-lived domains, malicious shortcut files, and impersonating U.S. state Departments of Motor Vehicles.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html</guid>
+      <pubDate>Thu, 26 Jun 2025 13:03:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft 365 'Direct Send' abused to send phishing as internal users</title>
@@ -1407,36 +1437,6 @@ Overall, the article provides a snapshot of current cybersecurity threats and vu
       <description>Vulnerable Product: CoinMarketCap; CVE(s): None; Summary: A vulnerability in a doodle image featured on CoinMarketCap's homepage allowed threat actors to inject malicious code, leading to a phishing campaign targeting user wallets. The exploit delivered a tampered JSON payload that embedded unauthorized JavaScript into the site's front end, prompting users to "Verify Wallet" and gain access to their crypto holdings.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143523</guid>
       <pubDate>Mon, 23 Jun 2025 05:13:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Retaliation Window</title>
-      <link>https://www.recordedfuture.com/blog/the-retaliation-window</link>
-      <description>FYSA:
-
-The article discusses the potential for cyber retaliation following a kinetic strike on Iran's Fordow enrichment plant. It highlights the historical pattern of Iran responding to physical provocations with cyber attacks, and notes that Russia may also be involved in such campaigns. The article emphasizes the importance of threat intelligence and AI-assisted defense to anticipate and respond to potential cyber attacks. It also stresses the need for resilient organizations to move beyond compliance theater and instead focus on proactive control validation, communication, and strategic decision-making.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/blog/the-retaliation-window</guid>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup</title>
-      <link>https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/</link>
-      <description>Vulnerable Product: CoinMarketCap; CVE(s): None; Summary: A supply chain attack was used to inject a malicious script into CoinMarketCap's website, which drained cryptocurrency from visitors' wallets when they connected them. The attack exploited a vulnerability in the site's "doodle" image and was executed through an API call, resulting in the execution of a wallet drainer script that stole assets.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/</guid>
-      <pubDate>Sun, 22 Jun 2025 21:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oxford City Council suffers breach exposing two decades of data</title>
-      <link>https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/</link>
-      <description>Oxford City Council suffered a data breach where attackers accessed personally identifiable information from legacy systems, affecting former and current Council officers' data between 2001 and 2022.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/</guid>
-      <pubDate>Sun, 22 Jun 2025 15:17:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Snipping Tool now lets you create animated GIF recordings</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/</link>
-      <description>The article discusses updates to Microsoft's Snipping Tool utility, including the addition of GIF export for screen recordings. It also mentions other recent features added to Snipping Tool, such as a Text Extractor and draw &amp; hold capabilities. There is no mention of vulnerabilities or cybersecurity-related threats in this article.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/</guid>
-      <pubDate>Sun, 22 Jun 2025 14:11:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
