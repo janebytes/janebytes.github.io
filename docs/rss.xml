@@ -6,8 +6,38 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 11:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 12:07:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Authorities Charge 25-Year-Old British National Linked to IntelBroker Hacks</title>
+      <link>https://gbhackers.com/authorities-charge-25-year-old-british-national-linked-to-intelbroker-hacks/</link>
+      <description>A 25-year-old British national, Kai West, also known as "IntelBroker," has been charged and detained for allegedly leading a global campaign of data theft and cyber intrusions, targeting over 40 companies and organizations worldwide. West is accused of conspiring with other hackers to steal sensitive data and sell it on underground forums, causing estimated damages of over $25 million.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144353</guid>
+      <pubDate>Thu, 26 Jun 2025 11:39:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Exploit LLM Models to Enhance Hacking Activities</title>
+      <link>https://gbhackers.com/cybercriminals-exploit-llm-models/</link>
+      <description>Cybercriminals are leveraging large language models (LLMs) to amplify their hacking operations by utilizing uncensored LLMs, custom-built criminal variants, and exploiting legitimate LLMs through jailbreaking techniques. This "arms race" between attackers and developers underscores the challenge of securing AI systems as new jailbreaking methods emerge, posing a critical challenge to cybersecurity defenses.
+
+(Note: Since the article is not specifically about a vulnerability but contains cybersecurity-relevant content, I used the FYSA format)</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144331</guid>
+      <pubDate>Thu, 26 Jun 2025 11:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPE OneView for VMware vCenter Vulnerability Allows Elevated Access</title>
+      <link>https://gbhackers.com/hpe-oneview-for-vmware-vcenter-vulnerability/</link>
+      <description>Vulnerable Product: Hewlett Packard Enterprise (HPE) OneView for VMware vCenter; CVE(s): CVE-2025-37101; Summary: A critical vulnerability in HPE OneView for VMware vCenter allows attackers with read-only privileges to escalate access and perform administrative actions, putting enterprise IT environments at risk. The flaw affects all versions prior to 11.7 and has a CVSS score of 8.7 (High).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144341</guid>
+      <pubDate>Thu, 26 Jun 2025 11:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hidden Risks of SaaS: Why Built-In Protections Aren't Enough for Modern Data Resilience</title>
+      <link>https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html</link>
+      <description>The article discusses the importance of data resilience in SaaS platforms, highlighting the risks associated with data loss due to human error, ransomware attacks, and internal threats. It emphasizes that built-in protections in SaaS platforms are not enough to handle the level of complexity modern organizations face and that a unified platform is needed to secure, protect, and manage data wherever it resides.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html</guid>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iranian Spear-Phishing Attack Impersonates Google, Outlook, and Yahoo Domains</title>
       <link>https://gbhackers.com/iranian-spear-phishing-attack-impersonates-google/</link>
@@ -35,6 +65,13 @@
       <description>The Androxgh0st botnet has been found to be a persistent and dynamic cyberthreat that has targeted the University of California, San Diego's "USArhythms" portal to host its command-and-control (C2) logger panels. The botnet exploits over 20 vulnerabilities, including Apache Shiro, Spring Framework, WordPress plugins, IoT devices, and others, to execute remote code, steal sensitive data, and deploy cryptomining payloads. It also utilizes webshells and OGNL payloads to maintain persistent access and facilitate further malware deployment.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144245</guid>
       <pubDate>Thu, 26 Jun 2025 10:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decrement by one to rule them all: AsIO3.sys driver exploitation</title>
+      <link>https://blog.talosintelligence.com/decrement-by-one-to-rule-them-all/</link>
+      <description>This article appears to be an in-depth analysis of a privilege escalation exploit in a Windows kernel-mode driver. The author provides detailed information on the vulnerabilities and exploitation methods used, including the "decrement by one" primitive. The article also discusses the importance of proper security design and access controls in kernel-mode components.</description>
+      <guid isPermaLink="false">685ad99c178bd70001283c95</guid>
+      <pubDate>Thu, 26 Jun 2025 10:00:32 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft confirms Family Safety blocks Google Chrome from launching</title>
@@ -1400,41 +1437,6 @@ The article discusses the potential for cyber retaliation following a kinetic st
       <description>Vulnerable Product: Mattermost; CVE(s): None; Summary: Mattermost has disclosed critical path traversal vulnerabilities that could allow attackers to execute remote code. The flaws can be exploited to access restricted directories and files, potentially compromising sensitive data or disrupting operations. The company urges users to prioritize upgrading to the latest fixed versions to safeguard their environments.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143433</guid>
       <pubDate>Sun, 22 Jun 2025 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aflac Cyber Attack – Hackers May Have Stolen Personal And Health Information</title>
-      <link>https://gbhackers.com/hackers-may-have-stolen-personal-and-health-information/</link>
-      <description>Unauthorized access was detected in Aflac Incorporated's network infrastructure, potentially exposing sensitive personal and health information. The incident did not involve ransomware, but the company is conducting a comprehensive review to assess the full extent of the breach.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143418</guid>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberWarfare on the Rise With Surge in Hacktivist Activity Following Israel-Iran</title>
-      <link>https://gbhackers.com/cyberwarfare-on-the-rise-with-surge-in-hacktivist/</link>
-      <description>The article discusses the escalation of cyber operations between Israel and Iran in the context of their military conflict. Israeli-linked group Gonjeshke Darande (Predatory Sparrow) executed high-impact strikes on Iranian infrastructure, while Iran has responded with psychological warfare, hacktivist activities, disinformation campaigns, and propaganda efforts. The article highlights the blurring of lines between state cyberattacks, hacktivist disruptions, and influence campaigns, posing risks to critical infrastructure and global businesses.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143465</guid>
-      <pubDate>Sat, 21 Jun 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckGo Browser’s Scam Blocker to Guard Against Phishing and Malware Sites</title>
-      <link>https://gbhackers.com/duckduckgo-browsers-scam-blocker-to-guard/</link>
-      <description>DuckDuckGo has updated its browser's Scam Blocker feature to provide advanced protection against online threats, including phishing sites, malware, and sophisticated scams. The new feature is integrated into the browser for desktop and mobile platforms and offers real-time protection without compromising user privacy.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143424</guid>
-      <pubDate>Sat, 21 Jun 2025 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open Directories Exposes Publically Available tools Used by Hackers</title>
-      <link>https://gbhackers.com/open-directories-exposes-publically-available-tools/</link>
-      <description>A series of misconfigured web servers have been uncovered, revealing a treasure trove of publicly accessible tools and tactics employed by malicious actors targeting critical infrastructure. The findings show the technical prowess and intent behind these operations, which extend beyond Taiwan to other regions and institutions. The use of open-source offensive software, such as Afrog, Brute Ratel C4, and OneForAll, suggests a reliance on readily available tools for reconnaissance and attack planning.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143453</guid>
-      <pubDate>Sat, 21 Jun 2025 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surge in XSS Cyberattacks Targets Popular Webmail Platforms, ESET Reports</title>
-      <link>https://gbhackers.com/surge-in-xss-cyberattacks-targets-popular-webmail-platforms/</link>
-      <description>The Russia-aligned Sednit group has been conducting a sophisticated cyber espionage campaign, dubbed Operation RoundPress, targeting high-value webmail platforms through cross-site scripting (XSS) attacks. The operation compromises popular webmail services, stealing credentials, exfiltrating email content, and bypassing two-factor authentication.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143412</guid>
-      <pubDate>Sat, 21 Jun 2025 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
