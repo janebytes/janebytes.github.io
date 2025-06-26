@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 17:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 18:01:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Weaponize and Obfuscate .NET Assemblies Using MacroPack</title>
+      <link>https://gbhackers.com/researchers-weaponize-and-obfuscate-net-assemblies/</link>
+      <description>BallisKit's MacroPack Pro tool introduces a scenario to obfuscate and weaponize .NET assemblies, making them less detectable by modern security solutions. The tool provides multiple obfuscation options, including converting static PInvoke imports into dynamic DInvoke imports and managing .NET's reflection capabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144370</guid>
+      <pubDate>Thu, 26 Jun 2025 17:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ex-student charged over hacking university for cheap parking, data breaches</title>
       <link>https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/</link>
@@ -1418,25 +1425,6 @@ FYSA:</description>
 FYSA: The article highlights the continued interest of threat actors in targeting both infrastructure and user-level assets across industries, with listings offering high-value exploits and sensitive information for sale on underground forums.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061172</guid>
       <pubDate>Mon, 23 Jun 2025 10:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More</title>
-      <link>https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html</link>
-      <description>FYSA:
-
-The article presents a collection of cybersecurity-related news and updates from various sources. It covers a range of topics, including data breaches, vulnerabilities, and security best practices.
-
-Some notable points include:
-
-* A breach at Viasat, a US satellite communications company, which was attributed to China-linked attackers.
-* The discovery of over 46,000 internet-facing Grafana instances vulnerable to CVE-2025-4123.
-* The use of legitimate platforms like Dropbox and Google Drive as "dead drop resolvers" by threat actors.
-* A warning about the potential for AI agents to leak sensitive data without proper configuration.
-* Guidance on securing Microsoft's System Center Configuration Manager (SCCM) to prevent silent domain takeover attacks.
-
-Overall, the article provides a snapshot of current cybersecurity threats and vulnerabilities, along with practical advice on how to mitigate them.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html</guid>
-      <pubDate>Mon, 23 Jun 2025 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
