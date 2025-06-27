@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 16:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 17:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft is trying to get antivirus software away from the Windows kernel</title>
+      <link>https://arstechnica.com/gadgets/2025/06/microsoft-is-trying-to-get-antivirus-software-away-from-the-windows-kernel/</link>
+      <description>This article discusses upcoming changes in Windows 11, including a new feature called "quick machine recovery" (QMR) that enables targeted remediations on affected devices via Windows RE, and a simplified unexpected restart screen with improved readability.</description>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2025/06/microsoft-is-trying-to-get-antivirus-software-away-from-the-windows-kernel/</guid>
+      <pubDate>Fri, 27 Jun 2025 16:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign</title>
+      <link>https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2015-1548, CVE-2017-17663; Summary: The article describes a network of compromised small office and home office (SOHO) devices used by China-nexus hacking groups for cyber espionage. The Operational Relay Box (ORB) network, codenamed LapDogs, has been found to have over 1,000 infected devices across the US, Southeast Asia, Japan, South Korea, Hong Kong, and Taiwan.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html</guid>
+      <pubDate>Fri, 27 Jun 2025 15:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia’s throttling of Cloudflare makes sites inaccessible</title>
+      <link>https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/</link>
+      <description>Cloudflare's infrastructure has been throttled by Russian ISPs, making websites and services inaccessible from Russia. The throttling affects all connection methods and protocols, including HTTP/1.1 to HTTP/3 on QUIC, and is outside of Cloudflare's control.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/</guid>
+      <pubDate>Fri, 27 Jun 2025 15:47:15 +0000</pubDate>
+    </item>
     <item>
       <title>Citrix Bleed 2 flaw now believed to be exploited in attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/</link>
@@ -1400,29 +1421,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Notepad++; CVE(s): CVE-2025-49144; Summary: A critical privilege escalation vulnerability (CVE-2025-49144) in Notepad++ v8.8.1 enables attackers to achieve full system control through a supply-chain attack, exploiting the installer's insecure search path behavior, allowing unprivileged users to escalate privileges to NT AUTHORITY\SYSTEM with minimal user interaction. Successful exploitation can grant attackers SYSTEM-level access, enabling data theft, malware installation, and pivoting to other network systems.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143751</guid>
       <pubDate>Tue, 24 Jun 2025 05:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom</title>
-      <link>https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html</link>
-      <description>Vulnerable Product: Cisco; CVE(s): CVE-2023-20198; Summary: The vulnerability, CVE-2023-20198, is exploited by the China-linked Salt Typhoon actors to breach major global telecommunications providers. This allows the attackers to access configuration files and configure GRE tunnels for long-term access and data exfiltration.
-
-FYSA: Chinese state-sponsored threat actors are targeting edge network devices, including those from Canadian and US-based telecommunications companies, as part of a cyber espionage campaign to breach and maintain persistent access to telecom service providers.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html</guid>
-      <pubDate>Tue, 24 Jun 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT28 hackers use Signal chats to launch new malware attacks on Ukraine</title>
-      <link>https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/</link>
-      <description>APT28, a Russian state-sponsored threat group, is using Signal chats to target government targets in Ukraine with two previously undocumented malware families named BeardShell and SlimAgent. The attacks involve phishing, macros, and memory-resident backdoors to deliver malicious payloads.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/</guid>
-      <pubDate>Mon, 23 Jun 2025 22:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Integrates GenAI to Counter Indirect Prompt Injection Attack Vectors</title>
-      <link>https://gbhackers.com/google-integrates-genai-to-counter/</link>
-      <description>Vulnerable Product: Google Gemini 2.5; CVE(s): None; Summary: A vulnerability in indirect prompt injection attacks, where malicious instructions are embedded within external data sources such as emails, documents, or calendar invites. The vulnerability is addressed by Google's layered security framework, which includes advanced model hardening, proprietary content classifiers, and user-centric safeguards to prevent data exfiltration and rogue actions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143694</guid>
-      <pubDate>Mon, 23 Jun 2025 20:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
