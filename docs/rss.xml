@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 13:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 14:01:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack</title>
+      <link>https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html</link>
+      <description>The article reports on a cyber espionage campaign attributed to Mustang Panda, a China-linked threat actor, targeting the Tibetan community. The campaign uses spear-phishing attacks with Tibet-themed lures to distribute malware, including PUBLOAD and Pubshell, which are used to create reverse shells and execute commands on compromised hosts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html</guid>
+      <pubDate>Fri, 27 Jun 2025 13:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Teams to Auto-Detect Work Location Using Company Wi-Fi</title>
       <link>https://gbhackers.com/microsoft-teams-to-auto-detect-work-location/</link>
@@ -1416,13 +1423,6 @@ FYSA: Chinese state-sponsored threat actors are targeting edge network devices, 
       <description>This article is not about a vulnerability, but rather a sophisticated cyberattack targeting the information and communication system (ICS) of a central executive body. The attackers used various tools, including BEARDSHELL, SLIMAGENT, COVENANT framework, and macros to compromise the system.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143685</guid>
       <pubDate>Mon, 23 Jun 2025 20:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT36 Hackers Target Indian Defense Personnel with Sophisticated Phishing Campaign</title>
-      <link>https://gbhackers.com/apt36-hackers-target-indian-defense-personnel/</link>
-      <description>APT36, a Pakistan-based cyber espionage group, has launched a sophisticated phishing campaign targeting Indian defense personnel. The campaign uses malicious PDF attachments disguised as official government documents to infiltrate sensitive defense networks and steal credentials. The malware employs advanced anti-analysis techniques, keylogging, clipboard surveillance, and browser data theft to evade detection and exfiltrate sensitive information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143703</guid>
-      <pubDate>Mon, 23 Jun 2025 19:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
