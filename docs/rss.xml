@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 18:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 19:01:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Scattered Spider hackers shift focus to aviation, transportation firms</title>
+      <link>https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-shift-focus-to-aviation-transportation-firms/</link>
+      <description>Scattered Spider, a group of threat actors, has expanded its targeting to the aviation and transportation industries, following previous attacks on insurance and retail sectors. They use social engineering tactics, MFA bombing, SIM swapping, and other methods to gain initial network access.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-shift-focus-to-aviation-transportation-firms/</guid>
+      <pubDate>Fri, 27 Jun 2025 18:20:58 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft is trying to get antivirus software away from the Windows kernel</title>
       <link>https://arstechnica.com/gadgets/2025/06/microsoft-is-trying-to-get-antivirus-software-away-from-the-windows-kernel/</link>
@@ -1414,13 +1421,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Large Language Models (LLMs); CVE(s): None; Summary: The Echo Chamber Attack is a sophisticated vulnerability that exposes a critical flaw in the safety mechanisms of advanced LLMs. It leverages subtle, indirect cues and multi-turn reasoning to manipulate AI models into generating harmful or policy-violating content, bypassing token-level filters and safety guardrails.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143756</guid>
       <pubDate>Tue, 24 Jun 2025 05:34:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Notepad++ Vulnerability Allows Full System Takeover — PoC Released</title>
-      <link>https://gbhackers.com/notepad-vulnerability/</link>
-      <description>Vulnerable Product: Notepad++; CVE(s): CVE-2025-49144; Summary: A critical privilege escalation vulnerability (CVE-2025-49144) in Notepad++ v8.8.1 enables attackers to achieve full system control through a supply-chain attack, exploiting the installer's insecure search path behavior, allowing unprivileged users to escalate privileges to NT AUTHORITY\SYSTEM with minimal user interaction. Successful exploitation can grant attackers SYSTEM-level access, enabling data theft, malware installation, and pivoting to other network systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143751</guid>
-      <pubDate>Tue, 24 Jun 2025 05:30:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
