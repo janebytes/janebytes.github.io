@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 11:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 12:03:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Let’s Encrypt Launches 6-Day Certificates for IP-Based SSL Encryption</title>
+      <link>https://gbhackers.com/lets-encrypt-launches-6-day-certificates/</link>
+      <description>Let's Encrypt is preparing to issue SSL/TLS certificates that include IP addresses in their Subject Alternative Name (SAN) fields, enabling secure communication for a wider range of internet-connected devices and services. The new certificates will have a short-lived validity period of six days to minimize the risk window in case of a key compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144545</guid>
+      <pubDate>Fri, 27 Jun 2025 11:56:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hawaiian Airlines Targeted in Cyberattack, Systems Compromised</title>
+      <link>https://gbhackers.com/hawaiian-airlines-targeted-in-cyberattack/</link>
+      <description>Hawaiian Airlines has experienced a significant cybersecurity incident that has disrupted parts of its IT infrastructure, with no group claiming responsibility or confirming whether ransomware was involved. Despite the disruption, flights are operating safely and as scheduled, with the airline engaging federal authorities and external cybersecurity experts to assist in investigating the breach and restoring affected systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144540</guid>
+      <pubDate>Fri, 27 Jun 2025 11:44:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunt Electronic DVR Vulnerability Leaves Admin Credentials Unprotected</title>
+      <link>https://gbhackers.com/hunt-electronic-dvr-vulnerability/</link>
+      <description>Vulnerable Product: Hunt Electronics Hybrid DVRs; CVE(s): CVE-2025-6561; Summary: The hybrid DVRs from Hunt Electronics, specifically models HBF-09KD and HBF-16NK running firmware version V3.1.67_1786 BB11115 or earlier, contain a critical vulnerability (CVE-2025-6561) that allows unauthenticated remote attackers to retrieve the system's configuration file, which contains administrator credentials in plaintext, granting full administrative access to the compromised DVR.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144534</guid>
+      <pubDate>Fri, 27 Jun 2025 11:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business Case for Agentic AI SOC Analysts</title>
+      <link>https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html</link>
+      <description>The article discusses the challenges faced by Security Operations Centers (SOCs) in today's cybersecurity landscape, including an increase in complex threats, false positives, and staffing shortages. It highlights the benefits of using agentic AI-powered SOCs to automate routine tasks, filter out noise, and surface high-priority alerts for human analysts to focus on. The article also emphasizes the importance of maximizing the impact of existing skilled staff, reducing burnout, and improving operational efficiency.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html</guid>
+      <pubDate>Fri, 27 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit</title>
+      <link>https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html</link>
+      <description>A Chinese-speaking threat actor, attributed with medium confidence to Silver Fox (aka Void Arachne), has been observed delivering Sainbox RAT and the open-source Hidden rootkit through phishing websites. The campaign leverages fake software installers, similar to previous attacks that targeted Chinese-speaking users.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html</guid>
+      <pubDate>Fri, 27 Jun 2025 10:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>ClickFix Attacks Soar by 500%: Hackers Intensify Use of This Manipulative Technique to Deceive Users</title>
       <link>https://gbhackers.com/hackers-intensify-use-of-this-manipulative-technique-to-deceive-users/</link>
@@ -1388,41 +1423,6 @@ FYSA: Chinese state-sponsored threat actors are targeting edge network devices, 
       <description>Vulnerable Product: Cisco; CVE(s): CVE-2023-20198, CVE-2018-0171, CVE-2023-20273, CVE-2024-20399; Summary: Attackers exploited multiple previously patched vulnerabilities, including CVE-2023-20198, to compromise network devices operated by a Canadian telecom company. The hackers retrieved running configuration files and modified one file to create an aGRE tunnel for traffic collection from the internal network.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/06/suspected-china-state-hackers-exploited-patched-flaw-to-breach-canadian-telecom/</guid>
       <pubDate>Mon, 23 Jun 2025 19:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>RapperBot Targets DVRs to Hijack Surveillance Cameras and Record Video</title>
-      <link>https://gbhackers.com/rapperbot-targets-dvrs-to-hijack-surveillance-cameras/</link>
-      <description>Vulnerable Product: None; CVE(s): RapperBot variant; Summary: A Mirai variant, RapperBot, targets Digital Video Recorders (DVRs) by exploiting inherent vulnerabilities such as weak default passwords, open ports, and infrequent firmware updates. It uses a multi-pronged approach to compromise DVRs, including brute force login attacks, exploiting known CVEs, and zero-day vulnerabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143679</guid>
-      <pubDate>Mon, 23 Jun 2025 19:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shadow Vector Malware Uses SVG Images to Deliver AsyncRAT and RemcosRAT Payloads</title>
-      <link>https://gbhackers.com/shadow-vector-malware-uses-svg-images/</link>
-      <description>A malicious campaign called "Shadow Vector" is targeting Colombian users by sending phishing emails with SVG attachments that mimic official legal documents. The attack vector uses embedded links to download a ZIP archive containing malicious DLLs and ultimately deploys remote access tools (RATs) such as AsyncRAT and RemcosRAT, enabling keylogging, credential theft, and full remote control of compromised systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143671</guid>
-      <pubDate>Mon, 23 Jun 2025 18:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malware on Google Play, Apple App Store stole your photos—and crypto</title>
-      <link>https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/</link>
-      <description>Vulnerable Product: Various mobile apps on Google Play and Apple App Store; CVE(s): None; Summary: SparkKitty is a new mobile crypto-stealing malware that targets Android and iOS devices, stealing images from infected device's photo gallery to obtain cryptocurrency wallet recovery phrases. The malware spreads through official app stores and unofficial platforms, with identified malicious apps such as 币coin on Apple App Store and SOEX on Google Play.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/</guid>
-      <pubDate>Mon, 23 Jun 2025 16:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Homeland Security warns of escalating Iranian cyberattack risks</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/</link>
-      <description>The U.S. Department of Homeland Security (DHS) issued a National Terrorism Advisory System bulletin warning about escalating cyberattack risks from Iran-backed hacking groups and pro-Iranian hacktivists, citing the ongoing conflict as a "heightened threat environment" with potential violent extremism and attacks on networks in the United States.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/</guid>
-      <pubDate>Mon, 23 Jun 2025 16:22:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content</title>
-      <link>https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html</link>
-      <description>A new jailbreaking method called Echo Chamber can be used to trick large language models (LLMs) into generating undesirable responses. The attack uses indirect references and multi-step inference to manipulate the model's internal state, allowing for high success rates with little technical expertise.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html</guid>
-      <pubDate>Mon, 23 Jun 2025 15:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
