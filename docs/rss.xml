@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 14:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 15:01:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Citrix Bleed 2 flaw now believed to be exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/</link>
+      <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: The "Citrix Bleed 2" vulnerability, an out-of-bounds memory read vulnerability (CVE-2025-5777), allows unauthenticated attackers to access sensitive data from public-facing gateways and virtual servers, enabling session hijacking and bypassing multi-factor authentication.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/</guid>
+      <pubDate>Fri, 27 Jun 2025 14:18:09 +0000</pubDate>
+    </item>
     <item>
       <title>PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack</title>
       <link>https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html</link>
@@ -1416,13 +1423,6 @@ FYSA: Chinese state-sponsored threat actors are targeting edge network devices, 
       <description>Vulnerable Product: Google Gemini 2.5; CVE(s): None; Summary: A vulnerability in indirect prompt injection attacks, where malicious instructions are embedded within external data sources such as emails, documents, or calendar invites. The vulnerability is addressed by Google's layered security framework, which includes advanced model hardening, proprietary content classifiers, and user-centric safeguards to prevent data exfiltration and rogue actions.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143694</guid>
       <pubDate>Mon, 23 Jun 2025 20:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAC-0001 Hackers Target ICS Devices Running Windows-Based Server Systems</title>
-      <link>https://gbhackers.com/uac-0001-hackers-target-ics-devices/</link>
-      <description>This article is not about a vulnerability, but rather a sophisticated cyberattack targeting the information and communication system (ICS) of a central executive body. The attackers used various tools, including BEARDSHELL, SLIMAGENT, COVENANT framework, and macros to compromise the system.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143685</guid>
-      <pubDate>Mon, 23 Jun 2025 20:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
