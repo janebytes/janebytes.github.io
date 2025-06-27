@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 19:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 20:02:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Leverage Windows Task Scheduler to Embed Malware and Maintain Persistence</title>
+      <link>https://gbhackers.com/threat-actors-leverage-windows-task-scheduler/</link>
+      <description>The article discusses a protracted cyberattack that targeted critical national infrastructure (CNI) in the Middle East. Threat actors exploited Windows Task Scheduler to embed malicious software and ensure persistence on compromised systems, using a variant of the Havoc framework to infiltrate and manipulate Windows environments with precision.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144509</guid>
+      <pubDate>Fri, 27 Jun 2025 19:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploitation of Microsoft 365 Direct Send to Deliver Phishing Emails as Internal Users</title>
+      <link>https://gbhackers.com/exploitation-of-microsoft-365-direct-send-to-deliver-phishing-emails/</link>
+      <description>Vulnerable Product: Microsoft 365; CVE(s): None; Summary: The article describes a phishing campaign that exploits the Direct Send feature of Microsoft 365 to send spoofed internal emails without authentication. Attackers use publicly available information to craft emails that appear to originate from within the organization, bypassing traditional email security controls.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144615</guid>
+      <pubDate>Fri, 27 Jun 2025 19:06:37 +0000</pubDate>
+    </item>
     <item>
       <title>Scattered Spider hackers shift focus to aviation, transportation firms</title>
       <link>https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-shift-focus-to-aviation-transportation-firms/</link>
@@ -1407,20 +1421,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: RARLAB WinRAR; CVE(s): CVE-2025-6218; Summary: A vulnerability in WinRAR allows attackers to execute arbitrary code by convincing a victim to open a specially crafted archive file. The flaw stems from insufficient validation during extraction, allowing directory traversal sequences to be embedded in archive entries. Exploitation requires user interaction and can lead to full system compromise.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143777</guid>
       <pubDate>Tue, 24 Jun 2025 06:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aviatrix Cloud Controller Flaw Enables Remote Code Execution via Authentication Bypass</title>
-      <link>https://gbhackers.com/aviatrix-cloud-controller-flaw/</link>
-      <description>Vulnerable Product: Aviatrix Controller; CVE(s): CVE-2025-2171, CVE-2025-2172; Summary: The Aviatrix Controller has two critical vulnerabilities allowing for full system compromise through authentication bypass (CVE-2025-2171) and authenticated command injection (CVE-2025-2172). Attackers can brute-force a weak password reset mechanism to gain administrative access, then inject commands to execute code with root privileges, potentially compromising connected cloud gateways and APIs.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143772</guid>
-      <pubDate>Tue, 24 Jun 2025 06:25:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Echo Chamber Attack Breaks AI Models Using Indirect Prompts</title>
-      <link>https://gbhackers.com/new-echo-chamber-attack-breaks-ai-models/</link>
-      <description>Vulnerable Product: Large Language Models (LLMs); CVE(s): None; Summary: The Echo Chamber Attack is a sophisticated vulnerability that exposes a critical flaw in the safety mechanisms of advanced LLMs. It leverages subtle, indirect cues and multi-turn reasoning to manipulate AI models into generating harmful or policy-violating content, bypassing token-level filters and safety guardrails.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143756</guid>
-      <pubDate>Tue, 24 Jun 2025 05:34:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
