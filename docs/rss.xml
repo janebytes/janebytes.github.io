@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 20:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 21:00:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Use Clickfix Tactics to Deploy Malicious AppleScripts for Stealing Login Credentials</title>
+      <link>https://gbhackers.com/threat-actors-use-clickfix-tactics/</link>
+      <description>A sophisticated malware campaign called Odyssey Stealer has been discovered targeting macOS users through a deceptive method known as Clickfix tactics. The campaign leverages typosquatted domains to trick users into executing harmful AppleScripts, which harvest sensitive data such as browser cookies, saved passwords, and cryptocurrency wallet information. The operation is linked to a command-and-control panel primarily hosted in Russia and prioritizes Western users, particularly those engaged in financial and crypto activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144605</guid>
+      <pubDate>Fri, 27 Jun 2025 20:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Leverage Windows Task Scheduler to Embed Malware and Maintain Persistence</title>
       <link>https://gbhackers.com/threat-actors-leverage-windows-task-scheduler/</link>
@@ -1414,13 +1421,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Xiaomi Mi Connect Service App; CVE(s): CVE-2024-45347; Summary: The Mi Connect Service App has a critical vulnerability allowing attackers to bypass security checks and gain unauthorized access to user devices. This flaw can be exploited by an attacker on the same network segment, resulting in potential consequences such as unauthorized access to sensitive information, modification of device settings or stored data, disruption of normal device functionality, and complete compromise of device confidentiality and integrity.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143807</guid>
       <pubDate>Tue, 24 Jun 2025 08:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>WinRAR Vulnerability Exploited with Malicious Archives to Execute Code</title>
-      <link>https://gbhackers.com/winrar-vulnerability-exploited/</link>
-      <description>Vulnerable Product: RARLAB WinRAR; CVE(s): CVE-2025-6218; Summary: A vulnerability in WinRAR allows attackers to execute arbitrary code by convincing a victim to open a specially crafted archive file. The flaw stems from insufficient validation during extraction, allowing directory traversal sequences to be embedded in archive entries. Exploitation requires user interaction and can lead to full system compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143777</guid>
-      <pubDate>Tue, 24 Jun 2025 06:37:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
