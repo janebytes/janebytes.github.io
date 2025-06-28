@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 11:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 12:01:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Exploit Windows and Linux Server Vulnerabilities to Deploy Web Shells</title>
+      <link>https://gbhackers.com/threat-actors-exploit-windows-and-linux-server-vulnerabilities/</link>
+      <description>Threat actors are exploiting file upload vulnerabilities to deploy web shells and advanced malware on Windows and Linux systems. The attack chain involves using tools like MeshAgent, SuperShell, and WogRAT to gain initial access, persistence, and lateral movement, ultimately allowing for command execution, reconnaissance, and potential data exfiltration or ransomware deployment.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144576</guid>
+      <pubDate>Sat, 28 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-448: (0Day) Mescius ActiveReports.NET ReadValue Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-448/</link>
@@ -147,6 +154,13 @@
       <description>A sophisticated social engineering campaign has surfaced on TikTok, leveraging AI-generated videos to distribute information-stealing malware Vidar and StealC. The campaign uses instructional videos to socially engineer victims into executing malicious PowerShell commands under the guise of activating pirated software, making it harder for traditional security tools to detect and block the threat.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144539</guid>
       <pubDate>Sat, 28 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Warns of Scattered Spider's Expanding Attacks on Airlines Using Social Engineering</title>
+      <link>https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html</link>
+      <description>The FBI has revealed that the cybercrime group Scattered Spider is targeting the airline sector, using social engineering techniques to gain access and steal data. The group also targets third-party IT providers, putting trusted vendors at risk of attacks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html</guid>
+      <pubDate>Sat, 28 Jun 2025 09:48:00 +0000</pubDate>
     </item>
     <item>
       <title>Weaponized DeepSeek Installers Deploy Sainbox RAT and Hidden Rootkit</title>
@@ -1407,20 +1421,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>A sophisticated phishing campaign targeting citizens across multiple US states has been detected, impersonating state Departments of Motor Vehicles (DMVs) to harvest personal and financial data. The campaign uses SMS phishing, fake DMV websites, and a centralized phishing kit named "Lighthouse" to execute its attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143897</guid>
       <pubDate>Tue, 24 Jun 2025 13:44:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>US House bans WhatsApp on staff devices over security concerns</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/</link>
-      <description>The U.S. House of Representatives has banned the installation and use of WhatsApp on government-issued devices due to concerns over data encryption and security.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/</guid>
-      <pubDate>Tue, 24 Jun 2025 13:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers</title>
-      <link>https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html</link>
-      <description>Vulnerable Product: Microsoft Exchange Server; CVE(s): CVE-2014-4078, CVE-2020-0796, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-31206, CVE-2021-31207, CVE-2021-34473, CVE-2021-34523; Summary: Unidentified threat actors inject malicious code into Microsoft Exchange server login pages to harvest credentials. The code reads and processes authentication form data, then sends it via XHR request to a compromised server or uses Telegram bots as an exfiltration point.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html</guid>
-      <pubDate>Tue, 24 Jun 2025 13:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
