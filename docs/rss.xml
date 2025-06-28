@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 12:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 13:01:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ESET Warns Cybercriminals Are Targeting NFC Data for Contactless Payments</title>
+      <link>https://gbhackers.com/eset-warns-cybercriminals-are-targeting-nfc-data/</link>
+      <description>The article discusses a sophisticated attack vector exploiting Near Field Communication (NFC) data, initially targeting Czech banking customers but now spreading worldwide. Cybercriminals are using a tool called NFCGate to capture card data when victims place their cards near their smartphones, enabling attackers to emulate the card on their devices for unauthorized transactions or cash withdrawals. The attacks rely on social engineering and phishing attempts, and users can mitigate risks by setting low limits on contactless payment transactions, using RFID blockers, and deploying robust cybersecurity solutions like ESET HOME Security.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144587</guid>
+      <pubDate>Sat, 28 Jun 2025 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Exploit Windows and Linux Server Vulnerabilities to Deploy Web Shells</title>
       <link>https://gbhackers.com/threat-actors-exploit-windows-and-linux-server-vulnerabilities/</link>
@@ -1414,13 +1421,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: None; Summary: The article discusses the limitations of traditional pentesting approaches and introduces Continuous Penetration Testing (CPT) as a proactive security strategy that simulates real-world attackers operating against an organization's attack surface. CPT combines human-led testing with automation to provide continuous, contextual findings, and real-time alerts and remediation support.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/</guid>
       <pubDate>Tue, 24 Jun 2025 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weaponized DMV-Themed Phishing Scam Targets U.S. Citizens to Steal Personal and Financial Data</title>
-      <link>https://gbhackers.com/weaponized-dmv-themed-phishing-scam-targets-u-s-citizens/</link>
-      <description>A sophisticated phishing campaign targeting citizens across multiple US states has been detected, impersonating state Departments of Motor Vehicles (DMVs) to harvest personal and financial data. The campaign uses SMS phishing, fake DMV websites, and a centralized phishing kit named "Lighthouse" to execute its attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143897</guid>
-      <pubDate>Tue, 24 Jun 2025 13:44:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
