@@ -6,8 +6,190 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 22:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 10:10:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-448: (0Day) Mescius ActiveReports.NET ReadValue Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-448/</link>
+      <description>Vulnerable Product: Mescius ActiveReports.NET; CVE(s): CVE-2025-6810; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Mescius ActiveReports.NET through deserialization of untrusted data in the ReadValue method. The vulnerability can be exploited by interacting with the library, and attack vectors may vary depending on the implementation.</description>
+      <guid isPermaLink="false">ZDI-CAN-25246</guid>
+      <pubDate>Sat, 28 Jun 2025 10:09:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-449: (0Day) Mescius ActiveReports.NET TypeResolutionService Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-449/</link>
+      <description>Vulnerable Product: Mescius ActiveReports.NET; CVE(s): CVE-2025-6811; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Mescius ActiveReports.NET by deserializing untrusted data. The issue exists within the TypeResolutionService class due to a lack of proper validation, which can be exploited to run code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-25397</guid>
+      <pubDate>Sat, 28 Jun 2025 10:08:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-450: (0Day) Marvell QConvergeConsole QLogicDownloadImpl Directory Traversal Arbitrary File Deletion and Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-450/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6793; Summary: This vulnerability allows remote attackers to delete arbitrary files and disclose sensitive information on affected installations of Marvell QConvergeConsole. Authentication is not required to exploit this vulnerability, and the specific flaw exists within the QLogicDownloadImpl class due to a lack of proper validation of a user-supplied path prior to using it in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-24912</guid>
+      <pubDate>Sat, 28 Jun 2025 10:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-451: (0Day) Marvell QConvergeConsole getAppFileBytes Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-451/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6796; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Marvell QConvergeConsole. Authentication is not required to exploit this vulnerability, and an attacker can leverage this to disclose information in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-24916</guid>
+      <pubDate>Sat, 28 Jun 2025 10:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-452: (0Day) Marvell QConvergeConsole compressDriverFiles Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-452/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6803; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Marvell QConvergeConsole without authentication. The issue occurs due to the lack of proper validation of a user-supplied path prior to using it in file operations, which can be exploited by an attacker to disclose information in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-24923</guid>
+      <pubDate>Sat, 28 Jun 2025 10:07:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-453: (0Day) Marvell QConvergeConsole compressFirmwareDumpFiles Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-453/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6804; Summary: The Marvell QConvergeConsole has an information disclosure vulnerability due to a lack of proper validation of user-supplied paths. An attacker can exploit this vulnerability without authentication, disclosing sensitive information in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-24924</guid>
+      <pubDate>Sat, 28 Jun 2025 10:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-454: (0Day) Marvell QConvergeConsole saveAsText Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-454/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6794; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Marvell QConvergeConsole without authentication. The specific flaw exists within the implementation of the saveAsText method, resulting from a lack of proper validation of user-supplied paths prior to using them in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-24913</guid>
+      <pubDate>Sat, 28 Jun 2025 10:07:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-455: (0Day) Marvell QConvergeConsole getFileUploadSize Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-455/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6795; Summary: This vulnerability allows remote attackers to disclose sensitive information without authentication. The issue arises from the lack of proper validation of a user-supplied path prior to using it in file operations, which can be exploited to disclose information in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-24914</guid>
+      <pubDate>Sat, 28 Jun 2025 10:06:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-456: (0Day) Marvell QConvergeConsole getFileUploadBytes Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-456/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6797; Summary: This vulnerability allows remote attackers to disclose sensitive information without authentication. The flaw exists in the implementation of the getFileUploadBytes method, which fails to properly validate user-supplied paths prior to using them in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-24917</guid>
+      <pubDate>Sat, 28 Jun 2025 10:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-457: (0Day) Marvell QConvergeConsole deleteAppFile Directory Traversal Arbitrary File Deletion Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-457/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6798; Summary: This vulnerability allows remote attackers to delete arbitrary files on affected installations of Marvell QConvergeConsole without authentication. The issue is due to the lack of proper validation of a user-supplied path prior to using it in file operations, which can be exploited to delete files in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-24918</guid>
+      <pubDate>Sat, 28 Jun 2025 10:06:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-458: (0Day) Marvell QConvergeConsole getFileUploadBytes Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-458/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6799; Summary: The Marvell QConvergeConsole getFileUploadBytes method contains a directory traversal information disclosure vulnerability, allowing remote attackers to disclose sensitive information without authentication. The issue occurs due to the lack of proper validation of user-supplied paths prior to using them in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-24919</guid>
+      <pubDate>Sat, 28 Jun 2025 10:05:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-459: (0Day) Marvell QConvergeConsole restoreESwitchConfig Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-459/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6800; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Marvell QConvergeConsole. Authentication is not required to exploit this vulnerability, and an attacker can leverage it to disclose information in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-24920</guid>
+      <pubDate>Sat, 28 Jun 2025 10:05:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-460: (0Day) Marvell QConvergeConsole saveNICParamsToFile Directory Traversal Arbitrary File Write Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-460/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6801; Summary: The vulnerability allows remote attackers to create arbitrary files on affected installations of Marvell QConvergeConsole without authentication, by exploiting the lack of proper validation of a user-supplied path prior to using it in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-24921</guid>
+      <pubDate>Sat, 28 Jun 2025 10:05:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-461: (0Day) Marvell QConvergeConsole deleteEventLogFile Directory Traversal Arbitrary File Deletion Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-461/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6805; Summary: This vulnerability allows remote attackers to delete arbitrary files on affected installations of Marvell QConvergeConsole. Authentication is not required to exploit this vulnerability, and the issue results from the lack of proper validation of a user-supplied path prior to using it in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-24925</guid>
+      <pubDate>Sat, 28 Jun 2025 10:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-462: (0Day) Marvell QConvergeConsole decryptFile Directory Traversal Arbitrary File Write Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-462/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6806; Summary: The vulnerability allows remote attackers to create arbitrary files on affected installations of Marvell QConvergeConsole without authentication. It occurs due to the lack of proper validation of a user-supplied path prior to using it in file operations, affecting the decryptFile method.</description>
+      <guid isPermaLink="false">ZDI-CAN-24979</guid>
+      <pubDate>Sat, 28 Jun 2025 10:04:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-463: (0Day) Marvell QConvergeConsole getDriverTmpPath Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-463/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6807; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Marvell QConvergeConsole without authentication. It exists in the implementation of the getDriverTmpPath method due to a lack of proper validation of user-supplied paths prior to using them in file operations, allowing an attacker to disclose SYSTEM-level information.</description>
+      <guid isPermaLink="false">ZDI-CAN-24980</guid>
+      <pubDate>Sat, 28 Jun 2025 10:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-464: (0Day) Marvell QConvergeConsole getFileFromURL Unrestricted File Upload Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-464/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6802; Summary: The getFileFromURL method in the Marvell QConvergeConsole has an unrestricted file upload vulnerability, allowing remote attackers to execute arbitrary code on affected installations. Authentication is not required to exploit this vulnerability, and it can be leveraged to execute code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-24922</guid>
+      <pubDate>Sat, 28 Jun 2025 10:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-465: (0Day) Marvell QConvergeConsole readObjectFromConfigFile Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-465/</link>
+      <description>Vulnerable Product: Marvell, QConvergeConsole; CVE(s): CVE-2025-6808; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Marvell QConvergeConsole without authentication. It occurs due to the lack of proper validation of user-supplied data in the readObjectFromConfigFile method, which can result in deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25217</guid>
+      <pubDate>Sat, 28 Jun 2025 10:03:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-466: (0Day) Marvell QConvergeConsole readNICParametersFromFile Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-466/</link>
+      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-6809; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Marvell QConvergeConsole without authentication. The issue is due to the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25218</guid>
+      <pubDate>Sat, 28 Jun 2025 10:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Trending TikTok Videos Promoting Pirated Apps That Deliver Stealer Malware</title>
+      <link>https://gbhackers.com/beware-of-trending-tiktok-videos-promoting-pirated-apps/</link>
+      <description>A sophisticated social engineering campaign has surfaced on TikTok, leveraging AI-generated videos to distribute information-stealing malware Vidar and StealC. The campaign uses instructional videos to socially engineer victims into executing malicious PowerShell commands under the guise of activating pirated software, making it harder for traditional security tools to detect and block the threat.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144539</guid>
+      <pubDate>Sat, 28 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weaponized DeepSeek Installers Deploy Sainbox RAT and Hidden Rootkit</title>
+      <link>https://gbhackers.com/weaponized-deepseek-installers/</link>
+      <description>Fake software installers mimicking popular tools like DeepSeek, Sogou, and WPS Office are exploited to deliver malware payloads such as the Sainbox RAT (Gh0stRAT variant) and Hidden rootkit. The attack begins with phishing websites designed to mirror legitimate software portals, tricking users into downloading malicious installers that sideload a malware payload.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144557</guid>
+      <pubDate>Sat, 28 Jun 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Exploit CapCut Popularity to Steal Apple ID Credentials and Credit Card Data</title>
+      <link>https://gbhackers.com/cybercriminals-exploit-capcut-popularity/</link>
+      <description>Threat actors have launched a sophisticated phishing campaign targeting CapCut users by impersonating legitimate invoices to extract Apple ID credentials and credit card information. The attack involves multiple stages, including a fake login page, credit card data request, and authentication code prompt, all designed to maximize the extraction of sensitive data while delaying suspicion.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144525</guid>
+      <pubDate>Sat, 28 Jun 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool</title>
+      <link>https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html</link>
+      <description>The GIFTEDCROOK malware has been updated to a potent intelligence-gathering tool, capable of exfiltrating sensitive documents from targeted devices, including proprietary files and browser secrets. The malware is used by the threat actor UAC-0226 to target Ukrainian governmental and military entities through phishing emails containing macro-laced Microsoft Excel documents.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html</guid>
+      <pubDate>Sat, 28 Jun 2025 07:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns</title>
+      <link>https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html</link>
+      <description>Meta's new AI feature on Facebook allows users to upload photos from their phones to suggest collages, recaps, and other ideas using artificial intelligence. The feature is opt-in and can be disabled at any time, but experts have concerns about user privacy, as the processing happens in the cloud and there are risks with facial recognition and hidden details such as time or location.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html</guid>
+      <pubDate>Sat, 28 Jun 2025 07:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Passlib Python Package Triggers Windows Shutdowns with Invalid Inputs</title>
+      <link>https://gbhackers.com/malicious-passlib-python-package-triggers-windows-shutdowns/</link>
+      <description>Vulnerable Product: umaraq psslib; CVE(s): None; Summary: The psslib package is a malicious Python library that poses as a legitimate password security solution. It can cause an immediate system shutdown on Windows environments when users input incorrect passwords, exploiting developer trust in security tools. The package remains active on the PyPI registry, highlighting the persistent danger of supply chain attacks in open-source ecosystems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144517</guid>
+      <pubDate>Sat, 28 Jun 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Use Clickfix Tactics to Deploy Malicious AppleScripts for Stealing Login Credentials</title>
+      <link>https://gbhackers.com/threat-actors-use-clickfix-tactics-to-deploy-malicious-applescripts/</link>
+      <description>A sophisticated malware campaign called Odyssey Stealer has been discovered, targeting macOS users through a deceptive method known as Clickfix tactics. The malware harvests sensitive data, including browser cookies, saved passwords, cryptocurrency wallet information, and browser extensions, posing a severe threat to individuals engaged in financial and crypto activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144605</guid>
+      <pubDate>Fri, 27 Jun 2025 20:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Use Clickfix Tactics to Deploy Malicious AppleScripts for Stealing Login Credentials</title>
       <link>https://gbhackers.com/threat-actors-use-clickfix-tactics/</link>
@@ -1239,188 +1421,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Microsoft Exchange Server; CVE(s): CVE-2014-4078, CVE-2020-0796, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-31206, CVE-2021-31207, CVE-2021-34473, CVE-2021-34523; Summary: Unidentified threat actors inject malicious code into Microsoft Exchange server login pages to harvest credentials. The code reads and processes authentication form data, then sends it via XHR request to a compromised server or uses Telegram bots as an exfiltration point.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html</guid>
       <pubDate>Tue, 24 Jun 2025 13:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EagleSpy v5 RAT Promoted by Hacker for Stealthy Android Access</title>
-      <link>https://gbhackers.com/eaglespy-v5-rat-promoted-by-hacker-for-stealthy-android-access/</link>
-      <description>The article describes a new version of the EagleSpy remote access Trojan (RAT), dubbed EagleSpy v5, which is being promoted by a threat actor known as "xperttechy" on a dark web forum. The malware has a wide range of features, including keylogging, screen streaming, and GPS tracking, and is designed to evade detection and maintain persistence on infected devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143914</guid>
-      <pubDate>Tue, 24 Jun 2025 13:19:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zimbra Classic Web Client Vulnerability Allows Arbitrary JavaScript Execution</title>
-      <link>https://gbhackers.com/zimbra-classic-web-client-vulnerability/</link>
-      <description>Vulnerable Product: Zimbra Collaboration Suite; CVE(s): CVE-2025-27915; Summary: The Zimbra Classic Web Client has a critical security flaw allowing arbitrary JavaScript execution through stored cross-site scripting (XSS) in ICS calendar invite files, affecting versions 9.0, 10.0, and 10.1 prior to patch releases. Attackers can execute embedded JavaScript, potentially leading to unauthorized actions like email redirection, data exfiltration, or session hijacking.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143908</guid>
-      <pubDate>Tue, 24 Jun 2025 12:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Guidance Released for Reducing Memory-Related Vulnerabilities</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/24/new-guidance-released-reducing-memory-related-vulnerabilities</link>
-      <description>The article does not discuss a vulnerability. Instead, it highlights the importance of memory safety vulnerabilities in modern software development and promotes the adoption of memory safe languages (MSLs) as a mitigation measure to reduce exploitable flaws before products reach users.</description>
-      <guid isPermaLink="false">/node/23537</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ControlID iDSecure On-Premises</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-05</link>
-      <description>Vulnerable Product: ControlID iDSecure On-premises; CVE(s): CVE-2025-49851, CVE-2025-49852, CVE-2025-49853; Summary: Successful exploitation of these vulnerabilities could allow an attacker to bypass authentication, retrieve information, leak arbitrary data, or perform SQL injections.</description>
-      <guid isPermaLink="false">/node/23546</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MICROSENS NMP Web+</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-07</link>
-      <description>Vulnerable Product: MICROSENSE NMP Web+; CVE(s): CVE-2025-49151, CVE-2025-49152, CVE-2025-49153; Summary: The vulnerabilities in NMP Web+ allow an unauthenticated attacker to generate forged JSON Web Tokens (JWT) to bypass authentication, gain system access, overwrite files or execute arbitrary code.</description>
-      <guid isPermaLink="false">/node/23548</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric EVLink WallBox</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-04</link>
-      <description>Vulnerable Product: Schneider Electric EVLink WallBox; CVE(s): CVE-2025-5740, CVE-2025-5741, CVE-2025-5742, CVE-2025-5743; Summary: The Schneider Electric EVLink WallBox has multiple vulnerabilities, including path traversal, cross-site scripting, and OS command injection, which could allow an attacker to gain remote control of the charging station. Successful exploitation could cause arbitrary file writes, reads, or remote control of the device.</description>
-      <guid isPermaLink="false">/node/23545</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Eight Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/24/cisa-releases-eight-industrial-control-systems-advisories</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released eight Industrial Control Systems (ICS) advisories on June 24, 2025. These advisories provide information about current security issues, vulnerabilities, and exploits surrounding ICS products from various vendors, including Delta Electronics, Schneider Electric, and Mitsubishi Electric. CISA encourages users to review the advisories for technical details and mitigations.</description>
-      <guid isPermaLink="false">/node/23549</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delta Electronics CNCSoft</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-02</link>
-      <description>Vulnerable Product: Delta Electronics CNCSoft; CVE(s): CVE-2025-47724, CVE-2025-47725, CVE-2025-47726, CVE-2025-47727; Summary: Out-of-bounds write vulnerabilities in Delta Electronics' CNCSoft human-machine interface software allow an attacker to execute code within the context of the current process if a user opens a maliciously crafted file.</description>
-      <guid isPermaLink="false">/node/23543</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaleris Navis N4 Terminal Operating System</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-01</link>
-      <description>Vulnerable Product: Kaleris Navis N4; CVE(s): CVE-2025-2566, CVE-2025-5087; Summary: The Navis N4 terminal operating system contains two vulnerabilities: an unsafe Java deserialization vulnerability (CVE-2025-2566) that can allow remote code execution, and cleartext transmission of sensitive information (CVE-2025-5087). Successful exploitation could lead to remote code execution or extraction of sensitive information.</description>
-      <guid isPermaLink="false">/node/23542</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric Modicon Controllers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-03</link>
-      <description>Vulnerable Product: Schneider Electric Modicon Controllers M241, M251, M258, LMC058, and M262; CVE(s): CVE-2025-3898, CVE-2025-3117, CVE-2025-3905, CVE-2025-3116; Summary: Improper input validation, cross-site scripting, and uncontrolled resource consumption vulnerabilities exist in the Modicon Controllers, allowing an attacker to execute arbitrary code or cause a denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23544</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parsons AccuWeather Widget</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-175-06</link>
-      <description>Vulnerable Product: Parsons AccuWeather and Custom RSS widget, AclaraONE Utility Portal; CVE(s): CVE-2025-5015; Summary: A cross-site scripting vulnerability exists in the AccuWeather and Custom RSS widget, allowing an unauthenticated user to replace the RSS feed URL with a malicious one. Successful exploitation could allow an attacker to insert a malicious link that users might access through the RSS feed.</description>
-      <guid isPermaLink="false">/node/23547</guid>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Convoy Flaw Allows Remote Code Execution on Servers</title>
-      <link>https://gbhackers.com/critical-convoy-flaw/</link>
-      <description>Vulnerable Product: Performave Convoy; CVE(s): CVE-2025-52562; Summary: A critical vulnerability in Performave Convoy allows unauthenticated attackers to execute arbitrary code, steal sensitive data, and gain full server control. The flaw is due to improper input validation in the LocaleController component, enabling directory traversal attacks and remote code execution (RCE).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143880</guid>
-      <pubDate>Tue, 24 Jun 2025 11:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCSC Warns of SHOE RACK Malware Targeting Fortinet Firewalls via DOH &amp; SSH Protocols</title>
-      <link>https://gbhackers.com/ncsc-warns-of-shoe-rack-malware-targeting-fortinet-firewalls/</link>
-      <description>The National Cyber Security Centre (NCSC) has identified a newly discovered malware called SHOE RACK that targets Fortinet firewalls and other perimeter devices. The malware uses DNS-over-HTTPS (DoH) for command and control resolution, employs custom SSH extensions, and can enable lateral movement into local area networks (LANs).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143848</guid>
-      <pubDate>Tue, 24 Jun 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Donates A2A Protocol to Linux Foundation for Smarter, Secure Communication</title>
-      <link>https://gbhackers.com/google-cloud-donates-a2a-protocol/</link>
-      <description>Google Cloud has donated its Agent2Agent (A2A) protocol to the Linux Foundation to promote open, secure, and interoperable communication between AI agents. The A2A protocol is designed as an open standard for seamless collaboration between autonomous AI agents from different platforms and vendors. This move aims to foster innovation, reduce vendor lock-in, and accelerate the development of AI-driven applications across industries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143867</guid>
-      <pubDate>Tue, 24 Jun 2025 11:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Between Buzz and Reality: The CTEM Conversation We All Need</title>
-      <link>https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html</link>
-      <description>The article discusses the implementation of Continuous Threat Exposure Management (CTEM) in complex production environments. Three cybersecurity leaders share their insights and experiences in operationalizing CTEM, highlighting the importance of asset inventory, identity management, threat intelligence, and risk reporting. They also emphasize the need to move away from vulnerability-focused metrics and towards a business-risk-based approach.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html</guid>
-      <pubDate>Tue, 24 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OPPO Clone Phone Vulnerability Leaks Sensitive Data via Weak WiFi Hotspot</title>
-      <link>https://gbhackers.com/oppo-clone-phone-vulnerability/</link>
-      <description>Vulnerable Product: OPPO Clone Phone; CVE(s): CVE-2025-27387; Summary: The OPPO Clone Phone app has a high-severity vulnerability (CVSS 7.4) that allows attackers within WiFi range to intercept and retrieve files being transferred, exposing sensitive information such as photos, contacts, and messages. The vulnerability is due to the use of a weak password for the temporary WiFi hotspot, making it susceptible to unauthorized access.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143856</guid>
-      <pubDate>Tue, 24 Jun 2025 10:58:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>DHS Warns of Pro-Iranian Hacktivists Targeting U.S. Networks</title>
-      <link>https://gbhackers.com/dhs-warns-of-pro-iranian-hacktivists/</link>
-      <description>Pro-Iranian hacktivist groups are expected to launch a wave of low-level cyberattacks targeting US networks in the next one to four weeks, with a focus on Distributed Denial of Service (DDoS) campaigns and exploits targeting exposed operational technology (OT) devices. The attacks aim to disrupt entities supporting US efforts in the Israel-Iran conflict and may be backed by the Iranian government.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143833</guid>
-      <pubDate>Tue, 24 Jun 2025 10:56:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-417: Clam AntiVirus UDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-417/</link>
-      <description>Vulnerable Product: Clam AntiVirus; CVE(s): CVE-2025-20234; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Clam AntiVirus. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated object.</description>
-      <guid isPermaLink="false">ZDI-CAN-26010</guid>
-      <pubDate>Tue, 24 Jun 2025 10:04:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Misconfigured Docker APIs to Mine Cryptocurrency via Tor Network</title>
-      <link>https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html</link>
-      <description>Vulnerable Product: Docker instances; CVE(s): None; Summary: Misconfigured Docker instances are being targeted by attackers who use the Tor anonymity network to stealthily mine cryptocurrency in susceptible environments. Attackers exploit misconfigured Docker APIs to gain access to containerized environments, then use Tor to mask their activities while deploying crypto miners.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html</guid>
-      <pubDate>Tue, 24 Jun 2025 09:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Use Malicious Zoom Apps to Execute System-Takeover Attacks</title>
-      <link>https://gbhackers.com/north-korean-hackers-use-malicious-zoom-apps/</link>
-      <description>Suspected North Korean hackers have been reported to be behind a highly sophisticated scam, leveraging advanced social engineering techniques to trick professionals into compromising their systems. The campaign begins with a seemingly innocuous outreach on professional networking platforms like LinkedIn, and features a fraudulent account posing as a potential business collaborator.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143824</guid>
-      <pubDate>Tue, 24 Jun 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues</title>
-      <link>https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html</link>
-      <description>Vulnerable Product: WhatsApp; CVE(s): None; Summary: The U.S. House of Representatives has banned congressional staff from using WhatsApp on government-issued devices due to security concerns, citing lack of transparency in data protection, absence of stored data encryption, and potential security risks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html</guid>
-      <pubDate>Tue, 24 Jun 2025 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LapDogs Hackers Compromise 1,000 SOHO Devices Using Custom Backdoor for Stealthy Attacks</title>
-      <link>https://gbhackers.com/lapdogs-hackers-compromise-1000-soho-devices/</link>
-      <description>Vulnerable Product: Various; CVE(s): CVE-2015-1548, CVE-2017-17663; Summary: A custom backdoor named ShortLeash was used to infiltrate over 1,000 devices worldwide, primarily targeting SOHO routers and IoT devices, with a focus on critical regions. The malware exploits outdated vulnerabilities in lightweight web servers like ACME mini_httpd, using root privileges to survive reboots and employing dual-layer encryption and UCL-like compression to conceal its payload.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143783</guid>
-      <pubDate>Tue, 24 Jun 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT28 Uses Signal Chat to Deploy BEARDSHELL Malware and COVENANT in Ukraine</title>
-      <link>https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html</link>
-      <description>Vulnerable Product: None; CVE(s): BEARDSHELL, COVENANT; Summary: The article reports a cyber attack campaign by Russia-linked APT28 (UAC-0001) using Signal chat messages to deliver two new malware families, BEARDSHELL and COVENANT. BEARDSHELL offers the ability to download and execute PowerShell scripts, while COVENANT is a memory-resident framework that downloads intermediate payloads to launch the BEARDSHELL backdoor on compromised hosts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html</guid>
-      <pubDate>Tue, 24 Jun 2025 09:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advanced Malware Campaign Targets WordPress and WooCommerce Sites with Hidden Skimmers</title>
-      <link>https://gbhackers.com/advanced-malware-campaign-targets-wordpress-and-woocommerce-sites/</link>
-      <description>Vulnerable Product: WordPress, WooCommerce; CVE(s): None; Summary: A sophisticated malware campaign targeting WordPress and WooCommerce platforms was discovered by the Wordfence Threat Intelligence Team. The malware family features over 20 distinct samples, primarily focusing on credit card skimming and credential theft, with additional functionalities like malicious ad manipulation and payload distribution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143799</guid>
-      <pubDate>Tue, 24 Jun 2025 08:44:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>OWASP Launches AI Testing Guide to Uncover Vulnerabilities in AI Systems</title>
-      <link>https://gbhackers.com/owasp-launches-ai-testing-guide/</link>
-      <description>The Open Web Application Security Project (OWASP) has released an AI Testing Guide to help organizations identify and mitigate vulnerabilities unique to AI systems. The guide emphasizes bias and fairness assessments, adversarial robustness, security and privacy evaluations, and continuous monitoring to ensure AI systems operate securely and privately.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143813</guid>
-      <pubDate>Tue, 24 Jun 2025 08:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xiaomi Interoperability App Flaw Allows Unauthorized Access to User Devices</title>
-      <link>https://gbhackers.com/xiaomi-interoperability-app-flaw/</link>
-      <description>Vulnerable Product: Xiaomi Mi Connect Service App; CVE(s): CVE-2024-45347; Summary: The Mi Connect Service App has a critical vulnerability allowing attackers to bypass security checks and gain unauthorized access to user devices. This flaw can be exploited by an attacker on the same network segment, resulting in potential consequences such as unauthorized access to sensitive information, modification of device settings or stored data, disruption of normal device functionality, and complete compromise of device confidentiality and integrity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143807</guid>
-      <pubDate>Tue, 24 Jun 2025 08:10:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
