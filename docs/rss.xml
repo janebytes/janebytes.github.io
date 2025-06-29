@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 22:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 10:01:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Transform GIFTEDCROOK Stealer into an Intelligence-Gathering Tool</title>
+      <link>https://gbhackers.com/threat-actors-transform-giftedcrook-stealer/</link>
+      <description>GIFTEDCROOK infostealer, wielded by UAC-0226 threat group, has undergone rapid evolution from a rudimentary browser data stealer to a sophisticated intelligence-gathering tool. The malware's capabilities include exfiltrating proprietary documents and browser secrets, with the goal of supporting covert intelligence objectives during periods of diplomatic and military significance.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=144594</guid>
+      <pubDate>Sat, 28 Jun 2025 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ESET Warns Cybercriminals Are Targeting NFC Data for Contactless Payments</title>
       <link>https://gbhackers.com/eset-warns-cybercriminals-are-targeting-nfc-data/</link>
@@ -1414,13 +1421,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: ConnectWise; CVE(s): CVE-2024-1708, CVE-2024-1709; Summary: Threat actors are exploiting vulnerabilities in ConnectWise software to distribute signed malware, masquerading as legitimate applications. They use Authenticode stuffing to modify executables without invalidating signatures, enabling remote access malware that mimics trusted software.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143907</guid>
       <pubDate>Tue, 24 Jun 2025 14:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Today’s Pentest Models Compare and Why Continuous Wins</title>
-      <link>https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/</link>
-      <description>Vulnerable Product: None; Summary: The article discusses the limitations of traditional pentesting approaches and introduces Continuous Penetration Testing (CPT) as a proactive security strategy that simulates real-world attackers operating against an organization's attack surface. CPT combines human-led testing with automation to provide continuous, contextual findings, and real-time alerts and remediation support.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/</guid>
-      <pubDate>Tue, 24 Jun 2025 14:01:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
