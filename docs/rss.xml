@@ -6,14 +6,37 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jun 2025 16:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 17:02:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Bluetooth flaws could let hackers spy through your microphone</title>
+      <link>https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/</link>
+      <description>Vulnerable Product: Airoha systems on a chip (SoCs); CVE(s): CVE-2025-20700, CVE-2025-20701, CVE-2025-20702; Summary: Three vulnerabilities in the Airoha SoCs, affecting more than two dozen audio devices from ten vendors, can be exploited for eavesdropping or stealing sensitive information. The issues allow an attacker to take over a vulnerable product and extract call history and contacts on some phones.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/</guid>
+      <pubDate>Sun, 29 Jun 2025 16:03:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare open-sources Orange Meets with End-to-End encryption</title>
+      <link>https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/</link>
+      <description>FYSA:
+
+This article discusses Cloudflare's Orange Meets video calling app, which has implemented end-to-end encryption (E2EE) using Messaging Layer Security (MLS). The implementation enables continuous group key agreement, supporting secure group key exchange, forward secrecy, post-compromise security, and scalability.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/</guid>
+      <pubDate>Sun, 29 Jun 2025 14:11:21 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Transform GIFTEDCROOK Stealer into an Intelligence-Gathering Tool</title>
       <link>https://gbhackers.com/threat-actors-transform-giftedcrook-stealer/</link>
       <description>GIFTEDCROOK infostealer, wielded by UAC-0226 threat group, has undergone rapid evolution from a rudimentary browser data stealer to a sophisticated intelligence-gathering tool. The malware's capabilities include exfiltrating proprietary documents and browser secrets, with the goal of supporting covert intelligence objectives during periods of diplomatic and military significance.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144594</guid>
       <pubDate>Sat, 28 Jun 2025 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let’s Encrypt ends certificate expiry emails to cut costs, boost privacy</title>
+      <link>https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/</link>
+      <description>Let's Encrypt has announced it will no longer send email notifications about certificate expirations due to high costs, privacy concerns, and unnecessary complexities. This decision is a result of the increasing adoption of automated renewal solutions and standards changes reducing certificate lifespans.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/</guid>
+      <pubDate>Sat, 28 Jun 2025 14:09:19 +0000</pubDate>
     </item>
     <item>
       <title>ESET Warns Cybercriminals Are Targeting NFC Data for Contactless Payments</title>
@@ -1400,27 +1423,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Gonjeshke Darande, a suspected Israeli state-sponsored group, launched a devastating attack on Nobitex, Iran's largest cryptocurrency exchange, resulting in the destruction of US$90 million in cryptocurrencies. The attack was motivated by political statements rather than financial gain and highlights the growing role of cyber operations in geopolitical conflicts.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=143938</guid>
       <pubDate>Tue, 24 Jun 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 2,000 Devices Compromised by Weaponized Social Security Statement Phishing Attacks</title>
-      <link>https://gbhackers.com/over-2000-devices-compromised-by-weaponized-social-security/</link>
-      <description>CyberArmor analysts have uncovered a sophisticated phishing campaign that has compromised over 2,000 devices by exploiting the trusted theme of Social Security Administration (SSA) statements. The campaign uses a convincing email lure and redirects victims to a counterfeit webpage hosted on Amazon Web Services (AWS), leading users to download malicious software and install malware on their systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143922</guid>
-      <pubDate>Tue, 24 Jun 2025 14:33:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue</title>
-      <link>https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html</link>
-      <description>Akamai researchers have identified two novel methods to disrupt cryptocurrency mining botnets by exploiting common mining topologies and pool policies. The methods involve submitting invalid mining job results ("bad shares") or initiating excessive login requests to ban the attacker's wallet, effectively shutting down the mining operation.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html</guid>
-      <pubDate>Tue, 24 Jun 2025 14:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit ConnectWise Configuration to Create Signed Malware</title>
-      <link>https://gbhackers.com/threat-actors-exploit-connectwise-configuration/</link>
-      <description>Vulnerable Product: ConnectWise; CVE(s): CVE-2024-1708, CVE-2024-1709; Summary: Threat actors are exploiting vulnerabilities in ConnectWise software to distribute signed malware, masquerading as legitimate applications. They use Authenticode stuffing to modify executables without invalidating signatures, enabling remote access malware that mimics trusted software.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143907</guid>
-      <pubDate>Tue, 24 Jun 2025 14:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
