@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 17:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 18:02:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Senator Chides FBI for Weak Advice on Mobile Security</title>
+      <link>https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/</link>
+      <description>Sen. Ron Wyden (D-Ore.) is urging the FBI to provide more comprehensive cybersecurity guidance to Senate staffers, including enabling anti-spyware defenses built into mobile devices like Apple's Lockdown Mode and Google's Advanced Protection Mode. The senator argues that the current guidance is insufficient in protecting lawmakers and their staff against sophisticated cyber threats.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71553</guid>
+      <pubDate>Mon, 30 Jun 2025 17:33:59 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. Agencies Warn of Rising Iranian Cyberattacks on Defense, OT Networks, and Critical Infrastructure</title>
       <link>https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html</link>
@@ -1418,13 +1425,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Various npm packages; CVE(s): None; Summary: A total of 35 malicious npm packages have been discovered, linked to the Contagious Interview operation originating from North Korea. These packages contain a hex-encoded loader called HexEval, which collects host information and delivers a follow-on payload that downloads and executes a Python backdoor called InvisibleFerret, enabling remote control and data theft.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html</guid>
       <pubDate>Wed, 25 Jun 2025 08:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases New ICS Advisories Highlighting Ongoing Threats and Exploits</title>
-      <link>https://gbhackers.com/cisa-releases-new-ics-advisories/</link>
-      <description>Vulnerable Product: Various Industrial Control Systems (ICS) products; CVE(s): CVE-2025-2566, CVE-2025-5087, CVE-2025-47724, CVE-2025-47725, CVE-2025-47726, CVE-2025-47727, CVE-2025-3898, CVE-2025-3116, CVE-2025-3899, CVE-2025-3905, CVE-2025-3117, CVE-2025-3112, CVE-2025-5740, CVE-2025-5741, CVE-2025-5742, CVE-2025-5743, CVE-2025-49851, CVE-2025-49852, CVE-2025-49853, CVE-2025-5015, CVE-2025-49151, CVE-2025-49152, CVE-2025-49153; Summary: The Cybersecurity and Infrastructure Security Agency (CISA) released eight new Industrial Control Systems (ICS) advisories addressing critical vulnerabilities and ongoing threats to essential infrastructure. The advisories detail technical information and mitigation guidance for various ICS products used worldwide, including vulnerabilities that allow remote code execution, extract sensitive credentials, or execute arbitrary code.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144024</guid>
-      <pubDate>Wed, 25 Jun 2025 06:56:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
