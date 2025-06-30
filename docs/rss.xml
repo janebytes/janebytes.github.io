@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 16:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 17:01:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>U.S. Agencies Warn of Rising Iranian Cyberattacks on Defense, OT Networks, and Critical Infrastructure</title>
+      <link>https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html</link>
+      <description>U.S. cybersecurity and intelligence agencies have issued a joint advisory warning of potential cyber-attacks from Iranian state-sponsored or affiliated threat actors, which may target Defense Industrial Base (DIB) companies, especially those with ties to Israeli research and defense firms. The agencies emphasize the need for "increased vigilance" and provide mitigation steps to prevent attacks, including implementing strong passwords, multi-factor authentication, and keeping systems up-to-date with the latest software patches.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html</guid>
+      <pubDate>Mon, 30 Jun 2025 16:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Defender for Office 365 now blocks email bombing attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-defender-for-office-365-now-blocks-email-bombing-attacks/</link>
+      <description>Microsoft is introducing a new detection capability in Defender for Office 365 to automatically detect and block email bombing attacks. This feature aims to protect organizations from malicious threats by flooding mailboxes with high volumes of emails, which can obscure important messages or overwhelm systems. The new "Mail Bombing" feature started rolling out in late June 2025 and will be toggled on by default.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-defender-for-office-365-now-blocks-email-bombing-attacks/</guid>
+      <pubDate>Mon, 30 Jun 2025 16:04:20 +0000</pubDate>
+    </item>
     <item>
       <title>Switzerland says government data stolen in ransomware attack</title>
       <link>https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/</link>
@@ -1411,20 +1425,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Various Industrial Control Systems (ICS) products; CVE(s): CVE-2025-2566, CVE-2025-5087, CVE-2025-47724, CVE-2025-47725, CVE-2025-47726, CVE-2025-47727, CVE-2025-3898, CVE-2025-3116, CVE-2025-3899, CVE-2025-3905, CVE-2025-3117, CVE-2025-3112, CVE-2025-5740, CVE-2025-5741, CVE-2025-5742, CVE-2025-5743, CVE-2025-49851, CVE-2025-49852, CVE-2025-49853, CVE-2025-5015, CVE-2025-49151, CVE-2025-49152, CVE-2025-49153; Summary: The Cybersecurity and Infrastructure Security Agency (CISA) released eight new Industrial Control Systems (ICS) advisories addressing critical vulnerabilities and ongoing threats to essential infrastructure. The advisories detail technical information and mitigation guidance for various ICS products used worldwide, including vulnerabilities that allow remote code execution, extract sensitive credentials, or execute arbitrary code.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144024</guid>
       <pubDate>Wed, 25 Jun 2025 06:56:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamViewer for Windows Vulnerability Lets Hackers Delete Files with SYSTEM Rights</title>
-      <link>https://gbhackers.com/teamviewer-for-windows-vulnerability/</link>
-      <description>Vulnerable Product: TeamViewer Remote Management for Windows; CVE(s): CVE-2025-36537; Summary: A critical vulnerability (CVSS score 7.0) in TeamViewer's Remote Management features allows a local unprivileged attacker to delete arbitrary files with SYSTEM-level privileges, posing a risk of privilege escalation or system compromise. The flaw stems from an incorrect permission assignment for critical resources in the TeamViewer Client, affecting installations with Backup, Monitoring, or Patch Management enabled.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144012</guid>
-      <pubDate>Wed, 25 Jun 2025 06:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Megatron LM Flaw Allows Attackers to Inject Malicious Code</title>
-      <link>https://gbhackers.com/nvidia-megatron-lm-flaw/</link>
-      <description>Vulnerable Product: NVIDIA Megatron-LM; CVE(s): CVE-2025-23264, CVE-2025-23265; Summary: The Megatron-LM framework has two critical vulnerabilities (CVE-2025-23264 and CVE-2025-23265) that allow attackers to inject and execute malicious code on affected systems. Attackers can exploit these flaws by providing a specially crafted file, which could lead to remote code execution, privilege escalation, information disclosure, and data tampering with low attack complexity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144001</guid>
-      <pubDate>Wed, 25 Jun 2025 06:30:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
