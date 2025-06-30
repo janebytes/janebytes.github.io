@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 14:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 15:02:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hikvision Canada ordered to cease operations over security risks</title>
+      <link>https://www.bleepingcomputer.com/news/security/hikvision-canada-ordered-to-cease-operations-over-security-risks/</link>
+      <description>The Canadian government has ordered Hikvision's subsidiary, Hikvision Canada Inc., to cease all operations in Canada due to a national security risk, citing concerns about its ties to the Chinese government and potential for collecting intelligence or espionage.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hikvision-canada-ordered-to-cease-operations-over-security-risks/</guid>
+      <pubDate>Mon, 30 Jun 2025 14:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is Attack Surface Threat Assessment (ASTA)?</title>
+      <link>https://socradar.io/what-is-attack-surface-threat-assessment-asta/</link>
+      <description>SOCRadar has launched ASTA (Attack Surface Threat Assessment), a module in their CTEM (Continuous Threat Exposure Management) platform. ASTA provides real-time visibility and control over vulnerabilities across an organization's digital attack surface, helping teams detect issues earlier, respond faster, and build a security posture that adapts to a constantly changing threat landscape.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061530</guid>
+      <pubDate>Mon, 30 Jun 2025 14:10:15 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft warns of Windows update delays due to wrong timestamp</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/</link>
       <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: A known issue with incorrect metadata timestamp causes delivery delays for June 2025 Windows security updates on Windows 10 and Windows 11 systems using quality update deferral policies. This delay affects the timing of update availability, but does not impact the quality or applicability of the update.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/</guid>
       <pubDate>Mon, 30 Jun 2025 13:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks</title>
+      <link>https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html</link>
+      <description>The article reports on the threat actor Blind Eagle, which uses the Russian bulletproof hosting service Proton66 as an initial attack vector. The group uses Visual Basic Script (VBS) files to install off-the-shelf remote access trojans (RATS) and targets entities in South America, particularly Colombia and Ecuador.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html</guid>
+      <pubDate>Mon, 30 Jun 2025 13:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Europol helps disrupt $540 million crypto investment fraud ring</title>
@@ -1404,29 +1425,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Microsoft is extending Windows 10 Extended Security Updates (ESU) for an extra year, allowing users to pay a small fee or sync their PC settings to the cloud. The enrollment wizard will be available in July and mid-August, enabling users to continue receiving critical and important security updates after support ends on October 14, 2025.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html</guid>
       <pubDate>Wed, 25 Jun 2025 05:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google rolls out text-to-image model Imagen 4 for free</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/</link>
-      <description>The article discusses Google's Imagen 4 text-to-image model, which is being rolled out for free on AI Studio. It also mentions two new Imagen models, Imagen 4 and Imagen 4 Ultra, which offer improvements in image generation quality. Additionally, the article touches on other cybersecurity-related topics such as patching automation and tech support scams detection.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/</guid>
-      <pubDate>Tue, 24 Jun 2025 22:36:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Abuse Open-Source Tools To Target Africa’s Financial Sector</title>
-      <link>https://unit42.paloaltonetworks.com/cybercriminals-attack-financial-sector-across-africa/</link>
-      <description>The article discusses a series of attacks targeting financial organizations across Africa, attributed to an initial access broker. The threat actor uses a combination of open-source and publicly available tools, including PoshC2, Chisel, and Classroom Spy, to establish their attack framework and maintain persistence on compromised machines. The attackers create tunnels for network communication, perform remote administration, and disguise their tools to mask their malicious activities. Palo Alto Networks customers are better protected through various products and services, including Cortex XDR, XSIAM, Advanced WildFire, and the Unit 42 Deep and Dark Web Service.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=144003</guid>
-      <pubDate>Tue, 24 Jun 2025 22:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude catches up to ChatGPT with built-in memory support</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/</link>
-      <description>This article does not discuss any vulnerabilities, but rather mentions ChatGPT's memory feature and potential use by threat actors to write malware. 
-
-(Note: Since the article is about ChatGPT's features and OpenAI's security measures, it does not fit into either of the other two formats)</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/</guid>
-      <pubDate>Tue, 24 Jun 2025 21:52:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
