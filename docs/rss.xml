@@ -6,8 +6,33 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 11:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 12:07:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Over 1,200 Citrix servers unpatched against critical auth bypass flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/</link>
+      <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: Over 1,200 unpatched Citrix NetScaler ADC and NetScaler Gateway appliances are vulnerable to a critical vulnerability (CVE-2025-5777) allowing threat actors to bypass authentication by hijacking user sessions. This out-of-bounds memory read vulnerability enables unauthenticated attackers to access restricted memory regions, potentially stealing session tokens, credentials, and other sensitive data.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/</guid>
+      <pubDate>Mon, 30 Jun 2025 11:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories</title>
+      <link>https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html</link>
+      <description>Non-human identities (NHIs) are becoming increasingly common in modern enterprises, outnumbering human identities by at least 50 to one. NHIs require unique identifiers, which are often their access keys. The article highlights the importance of securing machine identities and treating secrets as a mechanism to uniquely identify and govern non-human actors.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html</guid>
+      <pubDate>Mon, 30 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more</title>
+      <link>https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html</link>
+      <description>The provided article appears to be a cybersecurity news roundup featuring various security-related topics, including vulnerabilities, attacks, and best practices. There are no specific software, hardware, or firmware products being discussed that I could identify as vulnerable.
+
+However, some of the topics mentioned in the article do warrant attention from a cybersecurity perspective. For instance, the discussion on memory-safe languages (MSLs) such as Rust highlights the importance of language-level protections to mitigate memory-related vulnerabilities. Additionally, the mention of ultrasonic covert communication attacks and the use of smartwatches as receivers for these types of attacks serves as a reminder of the need for robust security measures in air-gapped environments.
+
+In general, it is essential to stay informed about emerging cybersecurity threats and best practices to ensure the confidentiality, integrity, and availability of sensitive data.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html</guid>
+      <pubDate>Mon, 30 Jun 2025 10:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google rolls out Veo 3 video generator, try it for free using credits</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/</link>
@@ -1402,27 +1427,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Microsoft, Windows; CVE(s): None; Summary: A configuration update (KB5062324) is being rolled out to address an issue causing Windows Update to fail on some Windows 11 systems. The update is available for devices running Windows 11 version 24H2 and earlier updates.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/</guid>
       <pubDate>Tue, 24 Jun 2025 17:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 users can get extended security updates using Microsoft points</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/</link>
-      <description>No vulnerabilities discussed in this article. The article is focused on Microsoft's Extended Security Updates (ESU) program for Windows 10 users and the end-of-support date for Windows 10, as well as statistics on Windows 10 and Windows 11 adoption rates.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/</guid>
-      <pubDate>Tue, 24 Jun 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bank of America, Netflix, and Microsoft Hacked to Inject Fake Phone Numbers</title>
-      <link>https://gbhackers.com/america-netflix-and-microsoft-hacked/</link>
-      <description>Vulnerable Product: Multiple; CVE(s): None; Summary: Cybercriminals are exploiting reflected input vulnerabilities in the search functionality of major brands' websites (e.g., Apple, Bank of America, Facebook, HP, Microsoft, Netflix, and PayPal) to inject fake phone numbers into legitimate websites, deceiving users into contacting scammers under the guise of official customer support. The attackers manipulate search results by crafting URLs that exploit vulnerabilities in the search functionality, embedding fake phone numbers directly into the displayed search results.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143965</guid>
-      <pubDate>Tue, 24 Jun 2025 16:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trezor’s support platform abused in crypto theft phishing attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/</link>
-      <description>Vulnerable Product: Trezor; CVE(s): None; Summary: The automated support system on Trezor's official platform is being abused by attackers to send phishing emails with deceptive subjects. These emails appear authentic, but contain fake alerts that link to a phishing page asking for wallet seed information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/</guid>
-      <pubDate>Tue, 24 Jun 2025 16:54:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
