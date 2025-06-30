@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 18:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 19:01:44 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Germany asks Google, Apple to remove DeepSeek AI from app stores</title>
+      <link>https://www.bleepingcomputer.com/news/security/germany-asks-google-apple-remove-deepseek-ai-from-app-stores/</link>
+      <description>The article is not about a vulnerability, but rather concerns GDPR violations by the Chinese AI platform DeepSeek AI. The Berlin Commissioner for Data Protection has requested Google and Apple to remove the app from their stores due to unlawful data collection and transfer from Germany to China.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/germany-asks-google-apple-remove-deepseek-ai-from-app-stores/</guid>
+      <pubDate>Mon, 30 Jun 2025 18:03:31 +0000</pubDate>
+    </item>
     <item>
       <title>Senator Chides FBI for Weak Advice on Mobile Security</title>
       <link>https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/</link>
@@ -84,6 +91,13 @@
       <description>The FBI warns Americans of cybercriminals impersonating health fraud investigators to steal sensitive information. Scammers are emailing or messaging victims, disguising themselves as legitimate health insurers and investigative team members, to pressure them into providing personal or health data for fraudulent purposes.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/</guid>
       <pubDate>Mon, 30 Jun 2025 12:42:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/30/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-6543; Summary: A buffer overflow vulnerability in Citrix NetScaler ADC and Gateway allows for active exploitation, posing significant risks to the federal enterprise. This vulnerability has been added to the Known Exploited Vulnerabilities (KEV) Catalog, requiring Federal Civilian Executive Branch agencies to remediate by a specified due date.</description>
+      <guid isPermaLink="false">/node/23571</guid>
+      <pubDate>Mon, 30 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA and Partners Urge Critical Infrastructure to Stay Vigilant in the Current Geopolitical Environment</title>
@@ -1411,20 +1425,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Elastic Kibana; CVE(s): CVE-2025-2135; Summary: The critical vulnerability in Kibana's reporting engine, tracked as CVE-2025-2135, allows attackers to exploit heap memory corruption and potentially execute arbitrary code on the underlying system, posing a significant risk to data integrity and system security.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144045</guid>
       <pubDate>Wed, 25 Jun 2025 08:23:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>CentOS Web Panel Vulnerability Allows Remote Code Execution – PoC Released</title>
-      <link>https://gbhackers.com/centos-web-panel-vulnerability/</link>
-      <description>Vulnerable Product: CentOS Web Panel; CVE(s): CVE-2025-48703; Summary: The vulnerability allows unauthenticated attackers to execute arbitrary commands, potentially leading to full server compromise. The flaw exploits two issues: improper enforcement of the authentication mechanism and a command injection vulnerability in the t_total parameter, which can be used to inject arbitrary commands and result in remote code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144040</guid>
-      <pubDate>Wed, 25 Jun 2025 08:14:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages</title>
-      <link>https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html</link>
-      <description>Vulnerable Product: Various npm packages; CVE(s): None; Summary: A total of 35 malicious npm packages have been discovered, linked to the Contagious Interview operation originating from North Korea. These packages contain a hex-encoded loader called HexEval, which collects host information and delivers a follow-on payload that downloads and executes a Python backdoor called InvisibleFerret, enabling remote control and data theft.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html</guid>
-      <pubDate>Wed, 25 Jun 2025 08:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
