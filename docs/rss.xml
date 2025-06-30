@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 13:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 14:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft warns of Windows update delays due to wrong timestamp</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: A known issue with incorrect metadata timestamp causes delivery delays for June 2025 Windows security updates on Windows 10 and Windows 11 systems using quality update deferral policies. This delay affects the timing of update availability, but does not impact the quality or applicability of the update.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/</guid>
+      <pubDate>Mon, 30 Jun 2025 13:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol helps disrupt $540 million crypto investment fraud ring</title>
+      <link>https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/</link>
+      <description>Spanish authorities have arrested five individuals suspected of laundering $540 million from illegal cryptocurrency investment schemes and defrauding over 5,000 victims. The investigation involved multiple countries, including Estonia, France, the U.S., and Europol. The operation also highlighted the growing use of artificial intelligence (AI) in scams, with Europol warning that online fraud is expected to surpass all other types of organized fraud in the coming years.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/</guid>
+      <pubDate>Mon, 30 Jun 2025 13:20:58 +0000</pubDate>
+    </item>
     <item>
       <title>FBI: Cybercriminals steal health data posing as fraud investigators</title>
       <link>https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/</link>
       <description>The FBI warns Americans of cybercriminals impersonating health fraud investigators to steal sensitive information. Scammers are emailing or messaging victims, disguising themselves as legitimate health insurers and investigative team members, to pressure them into providing personal or health data for fraudulent purposes.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/</guid>
       <pubDate>Mon, 30 Jun 2025 12:42:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and Partners Urge Critical Infrastructure to Stay Vigilant in the Current Geopolitical Environment</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/06/30/cisa-and-partners-urge-critical-infrastructure-stay-vigilant-current-geopolitical-environment</link>
+      <description>The US Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation (FBI), the Department of Defense Cyber Crime Center (DC3), and the National Security Agency (NSA), released a Fact Sheet warning organizations to be vigilant against potential targeted cyber operations by Iranian state-sponsored or affiliated threat actors. The advisory recommends mitigations such as disconnecting operational technology devices from the public internet, using strong passwords, applying software patches, and implementing phishing-resistant multifactor authentication.</description>
+      <guid isPermaLink="false">/node/23558</guid>
+      <pubDate>Mon, 30 Jun 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Over 1,200 Citrix servers unpatched against critical auth bypass flaw</title>
@@ -1406,27 +1427,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
 (Note: Since the article is about ChatGPT's features and OpenAI's security measures, it does not fit into either of the other two formats)</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/</guid>
       <pubDate>Tue, 24 Jun 2025 21:52:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud donates A2A AI protocol to the Linux Foundation</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-cloud-donates-a2a-ai-protocol-to-the-linux-foundation/</link>
-      <description>The article discusses the donation of Agent2Agent (A2A) protocol by Google Cloud to the Linux Foundation, creating a community-driven project for interoperability and collaboration between AI agents. This move aims to accelerate adoption and development of the A2A protocol while ensuring vendor-agnostic and open-source governance.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-cloud-donates-a2a-ai-protocol-to-the-linux-foundation/</guid>
-      <pubDate>Tue, 24 Jun 2025 21:34:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall warns of trojanized NetExtender stealing VPN logins</title>
-      <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-trojanized-netextender-stealing-vpn-logins/</link>
-      <description>Vulnerable Product: SonicWall NetExtender; CVE(s): None; Summary: A trojanized version of the SonicWall NetExtender SSL VPN client is being distributed by threat actors to steal VPN credentials. The malicious installer mimics the legitimate software and is hosted on a spoofed website, bypassing elementary defenses.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-trojanized-netextender-stealing-vpn-logins/</guid>
-      <pubDate>Tue, 24 Jun 2025 20:36:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>New U.S. Visa Rule Requires Applicants to Set Social Media Account Privacy to Public</title>
-      <link>https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html</link>
-      <description>The US Embassy in India has announced that visa applicants must make their social media accounts public to facilitate vetting and verification of identity and admissibility. This move is part of a broader effort by the US government to expand social media screening of visa applicants, with similar directives issued by other US embassies worldwide.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html</guid>
-      <pubDate>Tue, 24 Jun 2025 18:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
