@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 19:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 20:01:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Mexican drug cartel hacked FBI official’s phone to track informant, report says</title>
+      <link>https://arstechnica.com/security/2025/06/mexican-drug-cartel-hacked-fbi-officials-phone-to-track-informant-report-says/</link>
+      <description>The article discusses the United States Treasury (UST) threat, which involves using credit or debit card transaction reports to identify individuals. It also mentions a data breach at the FBI that aided UTS efforts, but details about the breach are redacted. The report recommends improving training and coordination within the FBI to address the evolving UTS threat. Additionally, it highlights the use of sophisticated technical means by Mexican drug cartels to track law enforcement officials and conceal their own activities.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/mexican-drug-cartel-hacked-fbi-officials-phone-to-track-informant-report-says/</guid>
+      <pubDate>Mon, 30 Jun 2025 19:57:49 +0000</pubDate>
+    </item>
     <item>
       <title>Germany asks Google, Apple to remove DeepSeek AI from app stores</title>
       <link>https://www.bleepingcomputer.com/news/security/germany-asks-google-apple-remove-deepseek-ai-from-app-stores/</link>
@@ -1418,13 +1425,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>The "Tab Scrolling" feature in Google's Chrome browser is being deprecated, which will allow tabs to compress into an unreadable strip again. Users who relied on this feature may need to explore alternative tab management solutions or adjust their browsing habits.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144051</guid>
       <pubDate>Wed, 25 Jun 2025 08:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Kibana Flaws Enable Heap Corruption and Remote Code Execution</title>
-      <link>https://gbhackers.com/critical-kibana-flaws-enable-heap-corruption/</link>
-      <description>Vulnerable Product: Elastic Kibana; CVE(s): CVE-2025-2135; Summary: The critical vulnerability in Kibana's reporting engine, tracked as CVE-2025-2135, allows attackers to exploit heap memory corruption and potentially execute arbitrary code on the underlying system, posing a significant risk to data integrity and system security.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144045</guid>
-      <pubDate>Wed, 25 Jun 2025 08:23:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
