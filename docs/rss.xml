@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 12:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 13:01:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>FBI: Cybercriminals steal health data posing as fraud investigators</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/</link>
+      <description>The FBI warns Americans of cybercriminals impersonating health fraud investigators to steal sensitive information. Scammers are emailing or messaging victims, disguising themselves as legitimate health insurers and investigative team members, to pressure them into providing personal or health data for fraudulent purposes.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/</guid>
+      <pubDate>Mon, 30 Jun 2025 12:42:01 +0000</pubDate>
+    </item>
     <item>
       <title>Over 1,200 Citrix servers unpatched against critical auth bypass flaw</title>
       <link>https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/</link>
       <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: Over 1,200 unpatched Citrix NetScaler ADC and NetScaler Gateway appliances are vulnerable to a critical vulnerability (CVE-2025-5777) allowing threat actors to bypass authentication by hijacking user sessions. This out-of-bounds memory read vulnerability enables unauthenticated attackers to access restricted memory regions, potentially stealing session tokens, credentials, and other sensitive data.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/</guid>
       <pubDate>Mon, 30 Jun 2025 11:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Posts Advertise Access to British Firms &amp; Data from Brazil, France, and CETDIGIT</title>
+      <link>https://socradar.io/access-british-firms-data-from-brazil-france-cetdigit/</link>
+      <description>Multiple threats have been discovered on the dark web, including unauthorized access sales targeting British firms, leaked insurance data from Brazil, stolen French credit card records, and a large-scale database breach allegedly involving U.S.-based CRM provider CETDIGIT. The threats offer various types of compromised data, including remote command execution, file management, screen sharing, and personal metadata.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061436</guid>
+      <pubDate>Mon, 30 Jun 2025 11:36:18 +0000</pubDate>
     </item>
     <item>
       <title>Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories</title>
@@ -1413,20 +1427,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>The US Embassy in India has announced that visa applicants must make their social media accounts public to facilitate vetting and verification of identity and admissibility. This move is part of a broader effort by the US government to expand social media screening of visa applicants, with similar directives issued by other US embassies worldwide.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html</guid>
       <pubDate>Tue, 24 Jun 2025 18:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 KB5061087 update released with 13 changes and fixes</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5061087-update-released-with-13-changes-and-fixes/</link>
-      <description>The article describes a non-security preview update (KB5061087) for Windows 10, version 22H2, which resolves various bugs and issues, including Start Menu launching problems, scanning feature failures on USB multi-function printers, and COM functionality errors.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5061087-update-released-with-13-changes-and-fixes/</guid>
-      <pubDate>Tue, 24 Jun 2025 18:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixes known issue that breaks Windows 11 updates</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/</link>
-      <description>Vulnerable Product: Microsoft, Windows; CVE(s): None; Summary: A configuration update (KB5062324) is being rolled out to address an issue causing Windows Update to fail on some Windows 11 systems. The update is available for devices running Windows 11 version 24H2 and earlier updates.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/</guid>
-      <pubDate>Tue, 24 Jun 2025 17:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
