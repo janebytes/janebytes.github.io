@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jun 2025 22:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 10:03:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google rolls out Veo 3 video generator, try it for free using credits</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/</link>
+      <description>Vulnerable Product: None; FYSA: This article contains no cybersecurity-relevant content. It appears to be a collection of news and updates from Google regarding various products and services, including Veo 3, Vertex AI, Tines, and others. There are no discussions of vulnerabilities, threats, or best practices for cybersecurity.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/</guid>
+      <pubDate>Sun, 29 Jun 2025 23:38:30 +0000</pubDate>
+    </item>
     <item>
       <title>Bluetooth flaws could let hackers spy through your microphone</title>
       <link>https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/</link>
@@ -291,11 +298,25 @@ This article discusses Cloudflare's Orange Meets video calling app, which has im
       <pubDate>Fri, 27 Jun 2025 15:47:15 +0000</pubDate>
     </item>
     <item>
+      <title>CTEM: A Strategic Guide to Continuous Threat Exposure Management</title>
+      <link>https://socradar.io/ctem-to-continuous-threat-exposure-management/</link>
+      <description>The article discusses Continuous Threat Exposure Management (CTEM), a proactive approach to cybersecurity that involves continuous monitoring and threat-informed actions. It highlights the benefits of CTEM, including reduced time to detect and remediate exposures, fewer exploitable assets over time, and successful red team or breach simulation outcomes. The article also touches on the challenges of implementing CTEM, such as limited skilled workforce, integration complexity with existing tools, budget constraints, and lack of stakeholder awareness or buy-in.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061358</guid>
+      <pubDate>Fri, 27 Jun 2025 14:28:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Citrix Bleed 2 flaw now believed to be exploited in attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/</link>
       <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: The "Citrix Bleed 2" vulnerability, an out-of-bounds memory read vulnerability (CVE-2025-5777), allows unauthenticated attackers to access sensitive data from public-facing gateways and virtual servers, enabling session hijacking and bypassing multi-factor authentication.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/</guid>
       <pubDate>Fri, 27 Jun 2025 14:18:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Peep #19: IntelBroker Indicted, and Ransomware Goes Corporate</title>
+      <link>https://socradar.io/dark-peep-19-intelbroker-ransomware-corporate/</link>
+      <description>This article does not describe a vulnerability. Instead, it discusses various cybersecurity-related topics, including threat actors, ransomware groups, data breaches, and insider leaks. The article provides insights into the activities of these threat actors and their tactics, as well as the consequences of their actions.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061341</guid>
+      <pubDate>Fri, 27 Jun 2025 13:42:09 +0000</pubDate>
     </item>
     <item>
       <title>PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack</title>
@@ -1402,27 +1423,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: Trezor; CVE(s): None; Summary: The automated support system on Trezor's official platform is being abused by attackers to send phishing emails with deceptive subjects. These emails appear authentic, but contain fake alerts that link to a phishing page asking for wallet seed information.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/</guid>
       <pubDate>Tue, 24 Jun 2025 16:54:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>New DRAT V2 Update Enhances C2 Protocol with Shell Command Execution Capabilities</title>
-      <link>https://gbhackers.com/new-drat-v2-update-enhances-c2-protocol/</link>
-      <description>The article discusses a new variant of the DRAT remote access trojan (RAT), dubbed DRAT V2, used in a TAG-140 campaign targeting Indian government entities. The malware features updated command-and-control (C2) protocol and enhanced post-exploitation capabilities, including arbitrary shell command execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143949</guid>
-      <pubDate>Tue, 24 Jun 2025 16:27:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>FileFix attack weaponizes Windows File Explorer for stealthy commands</title>
-      <link>https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/</link>
-      <description>A new variant of the ClickFix social engineering attack called FileFix has been discovered, allowing threat actors to execute malicious commands via the File Explorer address bar in Windows. The attack works by tricking users into pasting a command into the File Explorer address bar, which can then be executed as an operating system command.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/</guid>
-      <pubDate>Tue, 24 Jun 2025 15:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gonjeshke Darande Hackers Pose as Activists to Infiltrate Iranian Crypto Exchange</title>
-      <link>https://gbhackers.com/gonjeshke-darande-hackers-pose-as-activists/</link>
-      <description>Gonjeshke Darande, a suspected Israeli state-sponsored group, launched a devastating attack on Nobitex, Iran's largest cryptocurrency exchange, resulting in the destruction of US$90 million in cryptocurrencies. The attack was motivated by political statements rather than financial gain and highlights the growing role of cyber operations in geopolitical conflicts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143938</guid>
-      <pubDate>Tue, 24 Jun 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
