@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 15:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 16:02:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Switzerland says government data stolen in ransomware attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/</link>
+      <description>Vulnerable Product: Radix; CVE(s): None; Summary: The Radix organization has been targeted by the Sarcoma ransomware group in a phishing attack that resulted in the theft and encryption of sensitive information. The stolen data was later published on the dark web, exposing sensitive information from various federal offices in Switzerland.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/</guid>
+      <pubDate>Mon, 30 Jun 2025 15:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects</title>
+      <link>https://thehackernews.com/2025/06/europol-dismantles-540-million.html</link>
+      <description>The article reports on a cryptocurrency investment fraud ring that laundered €460 million from over 5,000 victims worldwide. The ring used various tactics such as social engineering, fake trading dashboards, and scripted conversations to convince victims to invest in fake crypto platforms. Additionally, the article highlights the increasing use of artificial intelligence (AI) technologies by transnational criminal groups involved in cyber-enabled fraud, which is a complex and alarming trend observed in Southeast Asia.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/06/europol-dismantles-540-million.html</guid>
+      <pubDate>Mon, 30 Jun 2025 15:17:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hikvision Canada ordered to cease operations over security risks</title>
       <link>https://www.bleepingcomputer.com/news/security/hikvision-canada-ordered-to-cease-operations-over-security-risks/</link>
@@ -1411,20 +1425,6 @@ FYSA: The article discusses a surprising risk in Microsoft Entra ID that can all
       <description>Vulnerable Product: NVIDIA Megatron-LM; CVE(s): CVE-2025-23264, CVE-2025-23265; Summary: The Megatron-LM framework has two critical vulnerabilities (CVE-2025-23264 and CVE-2025-23265) that allow attackers to inject and execute malicious code on affected systems. Attackers can exploit these flaws by providing a specially crafted file, which could lead to remote code execution, privilege escalation, information disclosure, and data tampering with low attack complexity.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144001</guid>
       <pubDate>Wed, 25 Jun 2025 06:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>New FileFix Exploit Uses Windows File Explorer to Run Malicious Commands</title>
-      <link>https://gbhackers.com/new-filefix-exploit-uses-windows-file-explorer/</link>
-      <description>The article discusses a newly discovered exploit called "FileFix" that uses Windows File Explorer to execute malicious commands without leaving the web browser. It is a social engineering attack that relies on users following instructions to copy and paste file paths or commands, which can lead to execution of PowerShell commands, potentially delivering malware like infostealers, ransomware, or other types of attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143993</guid>
-      <pubDate>Wed, 25 Jun 2025 05:46:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options</title>
-      <link>https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html</link>
-      <description>Microsoft is extending Windows 10 Extended Security Updates (ESU) for an extra year, allowing users to pay a small fee or sync their PC settings to the cloud. The enrollment wizard will be available in July and mid-August, enabling users to continue receiving critical and important security updates after support ends on October 14, 2025.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html</guid>
-      <pubDate>Wed, 25 Jun 2025 05:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
