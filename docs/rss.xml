@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 11:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 12:02:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Johnson Controls starts notifying people affected by 2023 breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/</link>
+      <description>Johnson Controls suffered a massive ransomware attack in September 2023, resulting in the theft of sensitive documents and disruption to its global operations. The attackers, linked to the Dark Angels ransomware group, demanded $51 million for a decryptor and threatened to publish stolen data online.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/</guid>
+      <pubDate>Tue, 01 Jul 2025 11:47:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Maturity Model for Browser Security: Closing the Last-Mile Risk</title>
+      <link>https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html</link>
+      <description>The article discusses the vulnerability of enterprise browsers, highlighting that 85% of modern work happens within the browser and most security programs struggle to govern this area. It presents a new framework, "Secure Enterprise Browser Maturity Guide", to help CISOs and security teams assess, prioritize, and operationalize browser-layer security.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html</guid>
+      <pubDate>Tue, 01 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google fixes fourth actively exploited Chrome zero-day of 2025</title>
       <link>https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/</link>
@@ -1409,20 +1423,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: Kubernetes; CVE(s): CVE-2025-4563; Summary: A critical security vulnerability in Kubernetes allows nodes to bypass authorization checks for dynamic resource allocation, enabling privilege escalation in affected clusters. The flaw resides in the NodeRestriction admission controller and affects kube-apiserver versions 1.32.0-1.32.5 and 1.33.0-1.33.1, with a CVSS score of 2.7 (Low severity).</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144103</guid>
       <pubDate>Wed, 25 Jun 2025 10:53:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>NetNerve: AI-Powered Tool for Deep PCAP Threat Detection</title>
-      <link>https://gbhackers.com/netnerve-ai-powered-tool/</link>
-      <description>The article discusses NetNerve, an AI-powered platform that automates packet capture analysis, providing real-time insights and actionable recommendations to detect threats hidden in packet capture files. This platform addresses the limitations of traditional packet capture solutions by leveraging machine learning to identify potential security threats, eliminating manual review requirements.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144093</guid>
-      <pubDate>Wed, 25 Jun 2025 10:41:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Akamai Reveals New Strategies for Defenders to Combat Cryptominer Attacks</title>
-      <link>https://gbhackers.com/akamai-reveals-new-strategies-for-defenders/</link>
-      <description>Akamai has developed two proactive strategies to disrupt malicious cryptominer operations by exploiting the design of common mining topologies. The first strategy targets mining proxies by submitting invalid mining job results, while the second method temporarily bans wallet addresses by flooding login requests. These techniques can halt botnet-driven cryptomining campaigns and potentially impact other cryptocurrencies.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144029</guid>
-      <pubDate>Wed, 25 Jun 2025 10:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
