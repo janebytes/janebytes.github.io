@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 22:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 10:05:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google Patches Critical Zero-Day Flaw in Chrome’s V8 Engine After Active Exploitation</title>
+      <link>https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6554; Summary: A type confusing flaw in the V8 JavaScript and WebAssembly engine of Google Chrome allows a remote attacker to perform arbitrary read/write via a crafted HTML page, which can lead to unexpected software behavior, execution of arbitrary code, and program crashes.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html</guid>
+      <pubDate>Tue, 01 Jul 2025 08:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing SOCRadar MCP Server: AI-Powered Cybersecurity Intelligence for Enterprises</title>
+      <link>https://socradar.io/socradar-mcp-server-ai-cybersecurity-intelligence/</link>
+      <description>The article discusses the launch of SOCRadar's Model Context Protocol (MCP) Server, which integrates artificial intelligence into cybersecurity operations. The MCP Server enables security teams to access over 35 specialized tools across eight security domains, providing real-time threat analysis, report generation, and incident management capabilities.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061551</guid>
+      <pubDate>Tue, 01 Jul 2025 08:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms</title>
+      <link>https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html</link>
+      <description>The US Department of Justice (DoJ) announced a coordinated action targeting the North Korean information technology (IT) worker scheme, resulting in the arrest of one individual and seizure of financial accounts, websites, and computers. The scheme involves North Korean IT workers obtaining employment with US companies using stolen or fictitious identities, stealing sensitive data, and extorting employers.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html</guid>
+      <pubDate>Tue, 01 Jul 2025 07:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Removes Password Management from Authenticator App Starting August 2025</title>
+      <link>https://thehackernews.com/2025/07/microsoft-removes-password-management.html</link>
+      <description>Microsoft is ending support for passwords in its Authenticator app, part of a shift away from traditional password-based logins. The changes aim to streamline autofill and improve security through technologies like passkeys, Windows Hello, and FIDO2-based authentication.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/microsoft-removes-password-management.html</guid>
+      <pubDate>Tue, 01 Jul 2025 04:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. warns of Iranian cyber threats on critical infrastructure</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-cyber-threats-on-critical-infrastructure/</link>
+      <description>The US government issued an urgent warning about potential cyberattacks from Iranian-affiliated hackers targeting U.S. critical infrastructure, citing the current unrest in the Middle East and previous cyber attacks linked to Iran. The advisory warns that Iranian threat actors are known to exploit unpatched vulnerabilities or utilize default passwords to gain access to systems, and urges organizations to adopt best practices to protect against these threats.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-cyber-threats-on-critical-infrastructure/</guid>
+      <pubDate>Mon, 30 Jun 2025 22:24:46 +0000</pubDate>
+    </item>
     <item>
       <title>Mexican drug cartel hacked FBI official’s phone to track informant, report says</title>
       <link>https://arstechnica.com/security/2025/06/mexican-drug-cartel-hacked-fbi-officials-phone-to-track-informant-report-says/</link>
@@ -1390,41 +1425,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
 FYSA: The article discusses a surprising risk in Microsoft Entra ID that can allow guest users to escalate their privileges by creating and controlling subscriptions. The vulnerability is due to the fact that Microsoft's billing permissions are scoped at the billing account level, rather than the Entra directory. This allows an attacker with the right billing role to spin up or transfer subscriptions from their home tenant to gain control inside a target tenant.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html</guid>
       <pubDate>Wed, 25 Jun 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT Attackers Leverage Microsoft ClickOnce to Run Malware as Trusted Applications</title>
-      <link>https://gbhackers.com/apt-attackers-leverage-microsoft-clickonce/</link>
-      <description>The article reports an Advanced Persistent Threat (APT) malware campaign dubbed “OneClik” targeting the energy, oil, and gas sectors. The campaign uses phishing attacks, exploits Microsoft ClickOnce, and employs "living off the land" tactics to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=143998</guid>
-      <pubDate>Wed, 25 Jun 2025 10:14:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-418: Apple macOS CoreGraphics PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-418/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31196; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS by parsing PDF files without proper validation, resulting in a read past the end of an allocated buffer. User interaction is required for exploitation, and the issue can be leveraged with other vulnerabilities to execute arbitrary code.</description>
-      <guid isPermaLink="false">ZDI-CAN-26498</guid>
-      <pubDate>Wed, 25 Jun 2025 10:04:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminal abuse of large language models</title>
-      <link>https://blog.talosintelligence.com/cybercriminal-abuse-of-large-language-models/</link>
-      <description>Cybercriminals are exploiting artificial intelligence (AI) technologies such as large language models (LLMs) to aid in their criminal hacking activities. They use uncensored LLMs or custom-built criminal LLMs for illicit purposes, including generating malicious code, creating undetectable malware, and sending phishing emails. Some enterprising cybercriminals have developed their own LLMs without restrictions, marketing them to other cybercriminals on the dark web.</description>
-      <guid isPermaLink="false">685ac23e178bd70001283c68</guid>
-      <pubDate>Wed, 25 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks</title>
-      <link>https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html</link>
-      <description>Vulnerable Product: SonicWall SSL VPN NetExtender; CVE(s): None; Summary: The trojanized version of SonicWall's SSL VPN NetExtender application steals credentials from unsuspecting users by impersonating the latest version (10.3.2.27) and modifying components "NeService.exe" and "NetExtender.exe" to exfiltrate configuration information to a remote server.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html</guid>
-      <pubDate>Wed, 25 Jun 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Plans to Remove Chrome’s Tab Scrolling Feature</title>
-      <link>https://gbhackers.com/google-plans-to-remove-chromes-tab-scrolling-feature/</link>
-      <description>The "Tab Scrolling" feature in Google's Chrome browser is being deprecated, which will allow tabs to compress into an unreadable strip again. Users who relied on this feature may need to explore alternative tab management solutions or adjust their browsing habits.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144051</guid>
-      <pubDate>Wed, 25 Jun 2025 08:43:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
