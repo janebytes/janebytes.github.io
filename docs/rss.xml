@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 12:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 13:02:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Johnson Controls starts notifying people affected by 2023 breach</title>
@@ -14,6 +14,15 @@
       <description>Johnson Controls suffered a massive ransomware attack in September 2023, resulting in the theft of sensitive documents and disruption to its global operations. The attackers, linked to the Dark Angels ransomware group, demanded $51 million for a decryptor and threatened to publish stolen data online.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/</guid>
       <pubDate>Tue, 01 Jul 2025 11:47:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Are North Korean IT Workers Hacking the Global Remote Job Market?</title>
+      <link>https://socradar.io/north-korean-it-workers-hack-global-remote-job-market/</link>
+      <description>North Korean threat actors are using AI tools to create fake digital identities, resumes, and profiles to infiltrate companies and gain access to internal systems. They pose as remote IT workers and use stolen or fake identities to pass background checks. Once hired, they access sensitive information, extract valuable data, and redirect profits to the regime.
+
+FYSA: North Korean threat actors are using AI tools to enhance documents, modify voices, and alter photos to pass identity checks. They blend into freelance platforms and IT roles, creating serious risks for organizations that unknowingly give them access.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061564</guid>
+      <pubDate>Tue, 01 Jul 2025 11:37:32 +0000</pubDate>
     </item>
     <item>
       <title>A New Maturity Model for Browser Security: Closing the Last-Mile Risk</title>
@@ -1416,13 +1425,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>The article reports on a data breach allegedly carried out by the pro-Iranian hacktivist group Cyber Fattah, which published personal records of athletes and visitors of the Saudi Games online. The breach is believed to have originated from the official website of the Saudi Games 2024 and was shared on DarkForums, a cybercrime forum. The leaked data includes IT staff credentials, government official email addresses, and sensitive documents.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html</guid>
       <pubDate>Wed, 25 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kubernetes NodeRestriction Flaw Lets Nodes Bypass Resource Authorization</title>
-      <link>https://gbhackers.com/kubernetes-noderestriction-flaw/</link>
-      <description>Vulnerable Product: Kubernetes; CVE(s): CVE-2025-4563; Summary: A critical security vulnerability in Kubernetes allows nodes to bypass authorization checks for dynamic resource allocation, enabling privilege escalation in affected clusters. The flaw resides in the NodeRestriction admission controller and affects kube-apiserver versions 1.32.0-1.32.5 and 1.33.0-1.33.1, with a CVSS score of 2.7 (Low severity).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144103</guid>
-      <pubDate>Wed, 25 Jun 2025 10:53:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
