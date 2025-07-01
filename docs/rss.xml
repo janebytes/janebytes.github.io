@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 10:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 11:03:19 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google fixes fourth actively exploited Chrome zero-day of 2025</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6554; Summary: A high-severity type confusion weakness in the Chrome V8 JavaScript engine was fixed, marking the fourth actively exploited Google Chrome zero-day patch since the start of the year. The vulnerability allows attackers to execute arbitrary code on unpatched devices and can lead to browser crashes after successful exploitation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/</guid>
+      <pubDate>Tue, 01 Jul 2025 10:59:51 +0000</pubDate>
+    </item>
     <item>
       <title>Google Patches Critical Zero-Day Flaw in Chrome’s V8 Engine After Active Exploitation</title>
       <link>https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html</link>
@@ -1416,15 +1423,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Akamai has developed two proactive strategies to disrupt malicious cryptominer operations by exploiting the design of common mining topologies. The first strategy targets mining proxies by submitting invalid mining job results, while the second method temporarily bans wallet addresses by flooding login requests. These techniques can halt botnet-driven cryptomining campaigns and potentially impact other cryptocurrencies.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144029</guid>
       <pubDate>Wed, 25 Jun 2025 10:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware the Hidden Risk in Your Entra Environment</title>
-      <link>https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html</link>
-      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: A gap in access control in Microsoft Entra's subscription handling allows guest users to create and transfer subscriptions into the tenant they are invited into, while maintaining full ownership rights. This privilege escalation tactic allows a guest user to gain a foothold in an environment where they should only have limited access.
-
-FYSA: The article discusses a surprising risk in Microsoft Entra ID that can allow guest users to escalate their privileges by creating and controlling subscriptions. The vulnerability is due to the fact that Microsoft's billing permissions are scoped at the billing account level, rather than the Entra directory. This allows an attacker with the right billing role to spin up or transfer subscriptions from their home tenant to gain control inside a target tenant.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html</guid>
-      <pubDate>Wed, 25 Jun 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
