@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 19:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 20:02:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>US critical infrastructure exposed as feds worn of possible attacks from Iran</title>
+      <link>https://arstechnica.com/security/2025/07/feds-warn-of-possible-cyber-attacks-by-iran-on-us-critical-infrastructure/</link>
+      <description>Vulnerable Product: Unitronics, Orpak SiteOmat, Red Lion, Tridium Niagara framework; CVE(s): None; Summary: Devices from these manufacturers ship or previously shipped with default credentials, making it easy for threat actors to access and exploit them. The devices are widely used in the US and can be exposed to internet scans. Proper configuration and strong passwords are recommended to harden control systems against attacks.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/feds-warn-of-possible-cyber-attacks-by-iran-on-us-critical-infrastructure/</guid>
+      <pubDate>Tue, 01 Jul 2025 19:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft open-sources VS Code Copilot Chat extension on GitHub</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/</link>
+      <description>The article discusses Microsoft's decision to release the source code for the GitHub Copilot Chat extension for VS Code under the MIT license, providing transparency into the implementation of the chat-based coding assistant and telemetry collection mechanisms. This move is considered a milestone in Microsoft's plan to integrate AI features directly into the popular open-source code editor, with openness seen as superior from a security perspective.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/</guid>
+      <pubDate>Tue, 01 Jul 2025 19:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Anthropic's MCP Exposes Developer Machines to Remote Exploits</title>
+      <link>https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html</link>
+      <description>Vulnerable Product: Anthropic Model Context Protocol (MCP) Inspector; CVE(s): CVE-2025-49596; Summary: The MCP Inspector contains a critical remote code execution (RCE) vulnerability that allows an attacker to gain complete access to the host by chaining a known security flaw affecting modern web browsers, dubbed 0.0.0.0 Day, with a cross-site request forgery (CSRF) vulnerability in Inspector. The vulnerability can be exploited by visiting a malicious website, which can execute arbitrary commands on the machine running the tool.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html</guid>
+      <pubDate>Tue, 01 Jul 2025 18:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kelly Benefits says 2024 data breach impacts 550,000 customers</title>
       <link>https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/</link>
@@ -1404,27 +1425,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: TeamViewer; CVE(s): CVE-2025-36537; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of TeamViewer. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which results from incorrect permissions on folders.</description>
       <guid isPermaLink="false">ZDI-CAN-26660</guid>
       <pubDate>Wed, 25 Jun 2025 18:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Brief: Escalation of Cyber Risk Related to Iran</title>
-      <link>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2025/</link>
-      <description>The article discusses the heightened risk of cyber spillover due to the recent conflict involving Iran, particularly its military engagements with Israel and the U.S. It highlights the potential for Iranian-directed cyberattacks, including destructive attacks, website defacements, DDoS attacks, data exfiltration, and wiper attacks. The article also identifies four key areas of potential cyber threat activity: Iranian nation-state hackers, hacktivists, cybercriminal groups, and other nation-state actors. It emphasizes the importance of a multi-layered defense and recommends foundational security hygiene, including increasing response to threat signals, ensuring internet-facing infrastructure is up-to-date, training employees on phishing and social engineering tactics, and preparing for business continuity plans.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=144269</guid>
-      <pubDate>Wed, 25 Jun 2025 18:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google releases Gemini CLI with free Gemini 2.5 Pro</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/</link>
-      <description>Google has released Gemini 2.5 Pro-powered Gemini CLI, which allows users to use Gemini inside their terminal. The article also mentions other cybersecurity-relevant topics such as Google's text-to-image model Imagen 4, on-device AI for detecting tech support scams in Google Chrome, and the donation of A2A AI protocol to the Linux Foundation.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/</guid>
-      <pubDate>Wed, 25 Jun 2025 17:53:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix warns of NetScaler vulnerability exploited in DoS attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/</link>
-      <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-6543; Summary: A critical vulnerability (CVE-2025-6543) is being actively exploited, causing devices to enter a denial of service condition. The flaw impacts NetScaler ADC and Gateway versions 14.1 before 14.1-47.46, 13.1 before 13.1-59.19, and 13.1-FIPS and NDcPP before 13.1-37.236-FIPS and NDcPP.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/</guid>
-      <pubDate>Wed, 25 Jun 2025 17:35:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
