@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 16:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 17:07:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New FileFix attack runs JScript while bypassing Windows MoTW alerts</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/</link>
+      <description>Vulnerable Product: Windows; CVE(s): None; Summary: A new attack called FileFix allows executing malicious scripts by exploiting how browsers handle saved HTML webpages. The attack tricks users into saving an HTML page as ".HTA" and renaming it to auto-execute embedded JScript via mshta.exe, bypassing the Mark of the Web (MoTW) protection in Windows.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/</guid>
+      <pubDate>Tue, 01 Jul 2025 16:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns</title>
+      <link>https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html</link>
+      <description>The article discusses the tactical similarities between two threat actor groups, TA829 and UNK_GreenSec, which have been observed delivering different malware strains. The article highlights their use of similar infrastructure, delivery tactics, and email lure themes to deliver malicious payloads.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html</guid>
+      <pubDate>Tue, 01 Jul 2025 16:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>International Criminal Court hit by new 'sophisticated' cyberattack</title>
       <link>https://www.bleepingcomputer.com/news/security/international-criminal-court-hit-by-new-sophisticated-cyberattack/</link>
@@ -42,6 +56,62 @@
       <description>Esse Health suffered a cyberattack that compromised personal and health information of over 263,000 patients. The attackers stole a wide range of sensitive data, including personal information, health insurance information, medical record numbers, and some health information.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/</guid>
       <pubDate>Tue, 01 Jul 2025 13:04:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voltronic Power and PowerShield UPS Monitoring Software</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-05</link>
+      <description>Vulnerable Product: Voltronic Power Viewpower, Voltronic Power ViewPower Pro, Powershield NetGuard; CVE(s): CVE-2022-31491, CVE-2021-43110; Summary: Successful exploitation of these vulnerabilities could allow an unauthenticated attacker remotely to make configuration changes, including shutting down connected UPS devices or execution of arbitrary code.</description>
+      <guid isPermaLink="false">/node/23578</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Relion 670/650 and SAM600-IO Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-06</link>
+      <description>Vulnerable Product: Hitachi Energy Relion 670/650 and SAM600-IO series devices; CVE(s): CVE-2025-2403; Summary: A denial-of-service vulnerability exists due to improper prioritization of network traffic over protection mechanism, allowing attackers to cause critical functions like LDCM (Line Distance Communication Module) to malfunction. Successful exploitation could disrupt critical functions in the device.</description>
+      <guid isPermaLink="false">/node/23579</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/01/cisa-releases-seven-industrial-control-systems-advisories</link>
+      <description>Vulnerable Product: Multiple products from various vendors (FESTO, Hitachi Energy, Voltronic); CVE(s): None; Summary: CISA released seven ICS advisories covering vulnerabilities and exploits in industrial control systems products from FESTO, Hitachi Energy, and Voltronic. The advisories provide technical details and mitigation strategies for the identified issues.</description>
+      <guid isPermaLink="false">/node/23581</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FESTO Automation Suite, FluidDraw, and Festo Didactic Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-02</link>
+      <description>Vulnerable Product: FESTO, FESTO Didactic (various products); CVE(s): CVE-2023-3935; Summary: A heap buffer overflow vulnerability in Wibu CodeMeter Runtime network service allows an unauthenticated, remote attacker to achieve RCE and gain full access of the host system. Successful exploitation could allow an attacker to gain full control of the host system, including remote code execution.</description>
+      <guid isPermaLink="false">/node/23575</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy MSM</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-07</link>
+      <description>Vulnerable Product: Hitachi Energy Modular Switchgear Monitoring (MSM); CVE(s): CVE-2020-11022; Summary: The vulnerability is a Cross-site Scripting issue that allows attackers to execute untrusted code, potentially leading to unauthorized actions or system compromise. Successful exploitation could be done remotely with low attack complexity.</description>
+      <guid isPermaLink="false">/node/23580</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FESTO Hardware Controller, Hardware Servo Press Kit</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-04</link>
+      <description>Vulnerable Product: Festo; CVE(s): CVE-2022-30311, CVE-2022-30310, CVE-2022-30309, CVE-2022-30308; Summary: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerabilities exist in multiple versions of Festo Controller CECC-X-M1 product family. Successful exploitation could allow unauthorized system command execution with root privileges.</description>
+      <guid isPermaLink="false">/node/23577</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FESTO Didactic CP, MPS 200, and MPS 400 Firmware</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-01</link>
+      <description>Vulnerable Product: FESTO Didactic, Siemens Simatic S7-1500 / ET200SP; CVE(s): CVE-2020-15782; Summary: A memory protection bypass vulnerability in the products allows an attacker to write arbitrary data and code to protected memory areas or read sensitive data to launch further attacks. Successful exploitation could allow an attacker to write arbitrary data and code to protected memory areas or read sensitive data to launch further attacks.</description>
+      <guid isPermaLink="false">/node/23574</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FESTO CODESYS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-03</link>
+      <description>Vulnerable Product: Festo, CODESYS Gateway Server V2; CVE(s): CVE-2022-31802, CVE-2022-31803, CVE-2022-31804; Summary: Three vulnerabilities in the CODESYS Gateway Server V2 allow an attacker to block legitimate user connections, crash the application, or authenticate without proper credentials.</description>
+      <guid isPermaLink="false">/node/23576</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Johnson Controls starts notifying people affected by 2023 breach</title>
@@ -1355,76 +1425,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-5777, CVE-2025-5349; Summary: A critical flaw (CVE-2025-5777) allows unauthenticated attackers to access sensitive data from public-facing gateways and virtual servers, while a high-severity flaw (CVE-2025-5349) is an improper access control problem in the NetScaler Management Interface. The flaws impact devices running versions before 14.1-43.56, releases before 13.1-58.32, and also 13.1-37.235-FIPS/NDcPP and 2.1-55.328-FIPS.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/</guid>
       <pubDate>Wed, 25 Jun 2025 16:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Distribute Compromised SonicWall SSL VPN NetExtender to Steal Sensitive Data</title>
-      <link>https://gbhackers.com/threat-actors-distribute-compromised-sonicwall-ssl-vpn-netextender/</link>
-      <description>Vulnerable Product: SonicWall NetExtender; CVE(s): None; Summary: A malicious version of SonicWall's SSL VPN NetExtender application was discovered being disseminated by threat actors in a cyberattack. The tampered installer bypasses digital certificate checks and steals sensitive VPN configuration data, including usernames, passwords, and domain details, which can grant attackers unauthorized access to corporate networks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144134</guid>
-      <pubDate>Wed, 25 Jun 2025 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC</title>
-      <link>https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html</link>
-      <description>Vulnerable Product: Citrix NetScaler ADC; CVE(s): CVE-2025-6543; Summary: The vulnerability is a critical memory overflow issue (CVSS score 9.2) affecting NetScaler ADC and Gateway versions prior to specific patches, allowing unintended control flow and denial-of-service. Successful exploitation requires the appliance to be configured as a Gateway or AAA virtual server. Exploits have been observed on unmitigated appliances.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html</guid>
-      <pubDate>Wed, 25 Jun 2025 14:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BreachForums hacking forum operators reportedly arrested in France</title>
-      <link>https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/</link>
-      <description>The French police have arrested five operators of the BreachForum cybercrime forum, including ShinyHunters and IntelBroker, who were involved in multiple high-profile data breaches. The arrested threat actors allegedly operated BreachForums v2, a community for cybercriminals to trade, sell, and leak stolen data.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/</guid>
-      <pubDate>Wed, 25 Jun 2025 14:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-5777 (CitrixBleed 2) Exposes NetScaler Gateway Devices to Remote Exploitation</title>
-      <link>https://socradar.io/cve-2025-5777-citrixbleed-2-netscaler-gateway-devices/</link>
-      <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: A critical out-of-bounds read vulnerability (CVE-2025-5777) in Citrix's NetScaler ADC and Gateway platforms allows unauthenticated attackers to remotely read sensitive memory content, including session tokens, which can be used to hijack sessions and bypass Multi-Factor Authentication. The vulnerability is being referred to as "CitrixBleed 2" due to its resemblance to the previously exploited CVE-2023-4966.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061288</guid>
-      <pubDate>Wed, 25 Jun 2025 14:22:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivist Groups Target U.S. Companies and Military Domains in Retaliation for Iran Attacks</title>
-      <link>https://gbhackers.com/hacktivist-groups-target-u-s-companies-and-military-domains/</link>
-      <description>Pro-Iranian hacktivist groups have claimed responsibility for a series of Distributed Denial of Service (DDoS) attacks targeting US military domains, major aerospace and defense corporations, and key financial institutions, in retaliation to US involvement in the Israel-Iran conflict. The cyber warfare has escalated with claims of data breaches, website defacements, and electronic interference with commercial navigation systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144125</guid>
-      <pubDate>Wed, 25 Jun 2025 13:51:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure</title>
-      <link>https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html</link>
-      <description>Vulnerable Product: SAP Graphical User Interface (GUI) for Windows and Java; CVE(s): CVE-2025-0055, CVE-2025-0056; Summary: The vulnerabilities allow attackers with administrative privileges or access to the user directory to access sensitive information stored in input history files. In SAP GUI for Windows, the data is weakly encrypted using XOR-based encryption, making it easily decodable. In SAP GUI for Java, the data is stored as unencrypted Java serialized objects.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html</guid>
-      <pubDate>Wed, 25 Jun 2025 13:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Firefox 140 Launches with Critical Code Execution Bug Fix – Update Now</title>
-      <link>https://gbhackers.com/firefox-140-launches-with-critical-code-execution-bug/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): None; Summary: The critical use-after-free vulnerability in the FontFaceSet component allows attackers to execute arbitrary code on a victim's machine, posing a major risk to user security. Additionally, two high-severity memory safety issues were patched, including memory corruption defects that could be exploited for remote code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144123</guid>
-      <pubDate>Wed, 25 Jun 2025 13:21:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 Configuration Bug Freezes Update Scanning Process</title>
-      <link>https://gbhackers.com/windows-11-configuration-bug-freezes-update-scanning-process/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The "Scan for Updates" feature in Windows 11 version 24H2 can freeze unexpectedly, preventing devices from detecting and installing critical updates. This issue can leave systems vulnerable to threats. A temporary fix is restarting the computer, but a permanent resolution requires installing the May Windows non-security preview update (KB5058499) or subsequent updates.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144118</guid>
-      <pubDate>Wed, 25 Jun 2025 13:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Are Initial Access Brokers (IABs)?</title>
-      <link>https://socradar.io/what-are-initial-access-brokers-iabs/</link>
-      <description>Initial Access Brokers (IABs) are specialized threat actors who focus on compromising corporate networks and selling access to other attackers, often ransomware operators. They typically operate in a structured way, identifying vulnerable targets using techniques like credential stuffing, vulnerability scanning, or phishing. Once they gain access, they maintain persistence through webshells or remote administration tools and prepare the access for sale on dark web forums or private communication channels.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061272</guid>
-      <pubDate>Wed, 25 Jun 2025 12:29:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Realtek Bluetooth Flaw Allows Attackers to Launch DoS Attacks During Pairing</title>
-      <link>https://gbhackers.com/realtek-bluetooth-flaw/</link>
-      <description>Vulnerable Product: Realtek RTL8762E BLE SDK v1.4.0; CVE(s): CVE-2024-48290; Summary: A critical vulnerability in Realtek's Bluetooth Low Energy (BLE) implementation allows attackers to launch denial-of-service (DoS) attacks during device pairing, disrupting connections and blocking legitimate pairing attempts. The flaw occurs when attackers inject premature pairing data or send a crafted ll_terminate_ind packet, causing the target device's Bluetooth stack to crash and prevent subsequent connection attempts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144114</guid>
-      <pubDate>Wed, 25 Jun 2025 12:16:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
