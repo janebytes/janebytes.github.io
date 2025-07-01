@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 18:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 19:02:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Kelly Benefits says 2024 data breach impacts 550,000 customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/</link>
+      <description>The Kelly &amp; Associates Insurance Group (dba Kelly Benefits) has suffered a data breach that compromised the personal information of 553,660 individuals. The breach is believed to have occurred between December 12-17 and may have exposed full names, Social Security numbers, tax ID numbers, dates of birth, medical information, health insurance information, and financial account information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/</guid>
+      <pubDate>Tue, 01 Jul 2025 17:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aeza Group sanctioned for hosting ransomware, infostealer servers</title>
+      <link>https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/</link>
+      <description>The US Department of the Treasury has sanctioned Russian hosting company Aeza Group and four operators for allegedly providing services to ransomware gangs, infostealer operations, darknet drug markets, and Russian disinformation campaigns. The sanctions aim to disrupt these cybercriminal activities and prevent further exploitation of US-based assets.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/</guid>
+      <pubDate>Tue, 01 Jul 2025 17:09:11 +0000</pubDate>
+    </item>
     <item>
       <title>New FileFix attack runs JScript while bypassing Windows MoTW alerts</title>
       <link>https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/</link>
@@ -56,6 +70,13 @@
       <description>Esse Health suffered a cyberattack that compromised personal and health information of over 263,000 patients. The attackers stole a wide range of sensitive data, including personal information, health insurance information, medical record numbers, and some health information.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/</guid>
       <pubDate>Tue, 01 Jul 2025 13:04:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/01/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: TeleMessage TM SGNL; CVE(s): CVE-2025-48927, CVE-2025-48928; Summary: Two vulnerabilities in TeleMessage TM SGNL have been added to the Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation. These vulnerabilities pose significant risks to the federal enterprise and are frequent attack vectors for malicious cyber actors.</description>
+      <guid isPermaLink="false">/node/23583</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Voltronic Power and PowerShield UPS Monitoring Software</title>
@@ -1404,27 +1425,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-6543; Summary: A critical vulnerability (CVE-2025-6543) is being actively exploited, causing devices to enter a denial of service condition. The flaw impacts NetScaler ADC and Gateway versions 14.1 before 14.1-47.46, 13.1 before 13.1-59.19, and 13.1-FIPS and NDcPP before 13.1-37.236-FIPS and NDcPP.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/</guid>
       <pubDate>Wed, 25 Jun 2025 17:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery</title>
-      <link>https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html</link>
-      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: The vulnerability in Microsoft's Entra ID allows malicious actors to achieve account takeovers in susceptible software-as-a-service (SaaS) applications. It exploits a weakness in how SaaS applications implement OpenID Connect (OIDC), permitting attackers to change the mail attribute in an Entra ID account and hijack accounts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html</guid>
-      <pubDate>Wed, 25 Jun 2025 16:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WinRAR patches bug letting malware launch from extracted archives</title>
-      <link>https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/</link>
-      <description>Vulnerable Product: WinRAR; CVE(s): CVE-2025-6218, None (other issues); Summary: A directory traversal vulnerability in older versions of WinRAR's Windows version allows malware execution after extracting a malicious archive. The flaw requires user interaction and can be exploited to launch malicious code, steal sensitive data, or install persistence mechanisms.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/</guid>
-      <pubDate>Wed, 25 Jun 2025 16:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/</link>
-      <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-5777, CVE-2025-5349; Summary: A critical flaw (CVE-2025-5777) allows unauthenticated attackers to access sensitive data from public-facing gateways and virtual servers, while a high-severity flaw (CVE-2025-5349) is an improper access control problem in the NetScaler Management Interface. The flaws impact devices running versions before 14.1-43.56, releases before 13.1-58.32, and also 13.1-37.235-FIPS/NDcPP and 2.1-55.328-FIPS.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/</guid>
-      <pubDate>Wed, 25 Jun 2025 16:10:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
