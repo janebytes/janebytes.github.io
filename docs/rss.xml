@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 20:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 21:01:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>AT&amp;T rolls out "Wireless Lock" feature to block SIM swap attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/</link>
+      <description>This article is about a security feature called "Wireless Lock" launched by AT&amp;T to protect customers from SIM swapping attacks. The feature prevents changes to account information and phone number porting while it's enabled, and has been rolled out to all AT&amp;T customers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/</guid>
+      <pubDate>Tue, 01 Jul 2025 20:23:03 +0000</pubDate>
+    </item>
     <item>
       <title>US critical infrastructure exposed as feds worn of possible attacks from Iran</title>
       <link>https://arstechnica.com/security/2025/07/feds-warn-of-possible-cyber-attacks-by-iran-on-us-critical-infrastructure/</link>
@@ -1418,13 +1425,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: npm registry; CVE(s): None; Summary: A North Korean threat actor campaign has been exposed, targeting software developers through the npm registry. The campaign involves 35 malicious packages across 24 accounts, with six still active on the registry. These packages have collectively been downloaded over 4,000 times, posing a significant risk to unsuspecting developers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144167</guid>
       <pubDate>Wed, 25 Jun 2025 18:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-419: TeamViewer Incorrect Permission Assignment Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-419/</link>
-      <description>Vulnerable Product: TeamViewer; CVE(s): CVE-2025-36537; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of TeamViewer. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which results from incorrect permissions on folders.</description>
-      <guid isPermaLink="false">ZDI-CAN-26660</guid>
-      <pubDate>Wed, 25 Jun 2025 18:01:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
