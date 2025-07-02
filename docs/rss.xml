@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 12:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 13:02:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Grok 4 spotted ahead of launch with special coding features</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/</link>
+      <description>Vulnerable Product: None; Summary: This article does not contain information about a specific vulnerability in software, hardware, or firmware.
+
+FYSA: The article mentions xAI releasing Grok 4, which could potentially be the best model from the company. It also highlights that cloud attacks may be growing more sophisticated, but attackers still succeed with surprisingly simple techniques.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/</guid>
+      <pubDate>Wed, 02 Jul 2025 12:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: DNS issue blocks delivery of Exchange Online OTP codes</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: Microsoft is experiencing DNS misconfiguration issues affecting OTP message delivery in Exchange Online, impacting some users who may not receive OTP emails for encrypted messages. The issue affects users with a process set up to perform DNS checks on incoming email messages.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/</guid>
+      <pubDate>Wed, 02 Jul 2025 12:21:59 +0000</pubDate>
+    </item>
     <item>
       <title>That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat</title>
       <link>https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html</link>
@@ -1415,20 +1431,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: Microsoft WinJS; CVE(s): ZDI-25-423, ZDI-CAN-23719; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft WinJS without authentication. The flaw exists in the installation process when loading a non-existent cloud resource that can be taken over by an attacker, enabling them to execute code on dependent systems.</description>
       <guid isPermaLink="false">ZDI-CAN-23719</guid>
       <pubDate>Wed, 25 Jun 2025 21:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/</link>
-      <description>Vulnerable Product: Microsoft ClickOnce software deployment tool; CVE(s): None; Summary: The article describes a malicious campaign called OneClik that leverages Microsoft's ClickOnce software deployment tool and custom Golang backdoors to compromise organizations in the energy, oil, and gas sectors. The attackers use legitimate AWS cloud services to keep their command and control infrastructure hidden, and deploy a sophisticated Golang-based backdoor called RunnerBeacon via a .NET-based loader tracked as OneClikNet.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/</guid>
-      <pubDate>Wed, 25 Jun 2025 20:34:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Malware Discovered Using Prompt Injection to Manipulate AI Models in the Wild</title>
-      <link>https://gbhackers.com/new-malware-discovered-using-prompt-injection/</link>
-      <description>Skynet malware employs a unique evasion tactic called prompt injection to manipulate AI models used in malware analysis. Although the sample is rudimentary, it highlights concerns about the future of AI in cybersecurity and signals an emerging trend of manipulating AI systems with adversarial input.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144203</guid>
-      <pubDate>Wed, 25 Jun 2025 20:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
