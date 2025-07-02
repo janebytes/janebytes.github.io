@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 14:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 15:01:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Microsoft fixes ‘Print to PDF’ feature broken by Windows update</title>
@@ -44,6 +44,13 @@ FYSA: The article mentions xAI releasing Grok 4, which could potentially be the 
       <description>The article discusses the importance of multi-layered detection strategies in cybersecurity operations centers (SOCs) to detect and respond to evolving threats. It highlights the limitations of traditional endpoint detection and response (EDR) solutions and introduces network detection and response (NDR) as a complementary approach that provides visibility into network-based attacks. The article also explains different types of detections, including signature-based, threat intelligence, malware detection, behavioral detection, machine learning, anomaly detection, and search-based detection.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html</guid>
       <pubDate>Wed, 02 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-6554: Chrome’s New Zero-Day Under Active Exploitation</title>
+      <link>https://socradar.io/cve-2025-6554-chromes-new-zero-day-exploitation/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6554; Summary: A high-severity type confusion vulnerability (CVE-2025-6554) in Google Chrome's V8 JavaScript engine allows remote attackers to execute arbitrary code on the victim's machine, potentially leading to full system compromise. The vulnerability is actively being exploited and affects all major desktop platforms running Chrome, including Windows, macOS, and Linux.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061633</guid>
+      <pubDate>Wed, 02 Jul 2025 10:52:57 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns</title>
@@ -1424,13 +1431,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: ConnectWise ScreenConnect; CVE(s): None; Summary: Threat actors are modifying the authenticode signature of the ConnectWise ScreenConnect installer to build signed remote access malware. The modified certificate table contains new malicious configuration information, allowing for stealthy access to infected devices.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/</guid>
       <pubDate>Wed, 25 Jun 2025 21:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-421: Microsoft Azure App Services Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-421/</link>
-      <description>Vulnerable Product: Microsoft Azure App Services; CVE(s): ZDI-25-421, ZDI-CAN-24622; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Microsoft Azure without authentication. The issue exists within Azure App Services due to the exposure of sensitive information, which can be leveraged by an attacker to disclose information.</description>
-      <guid isPermaLink="false">ZDI-CAN-24622</guid>
-      <pubDate>Wed, 25 Jun 2025 21:03:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
