@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 17:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 18:01:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Spain arrests hackers who targeted politicians and journalists</title>
+      <link>https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/</link>
+      <description>The Spanish police have arrested two individuals suspected of cybercrime, including data theft from the government and high-ranking officials. They allegedly leaked stolen data online to increase its value and were involved in selling access to databases and credentials. The arrests are part of a larger effort by the Spanish authorities to track and apprehend cybercriminals.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/</guid>
+      <pubDate>Wed, 02 Jul 2025 17:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco warns that Unified CM has hardcoded root SSH credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisco-removes-unified-cm-callManager-backdoor-root-account/</link>
+      <description>Vulnerable Product: Cisco Unified Communications Manager (Unified CM) and Unified CM SME; CVE(s): CVE-2025-20309; Summary: The vulnerability, tracked as CVE-2025-20309, is a backdoor account with static user credentials for the root account, allowing remote attackers to log in with root privileges. This flaw affects Cisco Unified CM and Unified CM SME releases 15.0.1.13010-1 through 15.0.1.13017-1, regardless of device configuration.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-removes-unified-cm-callManager-backdoor-root-account/</guid>
+      <pubDate>Wed, 02 Jul 2025 17:08:24 +0000</pubDate>
+    </item>
     <item>
       <title>Citrix warns of login issues after NetScaler auth bypass patch</title>
       <link>https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/</link>
@@ -1419,20 +1433,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6658; Summary: The vulnerability allows remote attackers to disclose sensitive information by parsing out-of-bounds read information disclosure. User interaction is required, and the issue results from lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26733</guid>
       <pubDate>Wed, 25 Jun 2025 22:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-445: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-445/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6659; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, which exists within the parsing of PRC files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26734</guid>
-      <pubDate>Wed, 25 Jun 2025 22:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-446: PDF-XChange Editor App Object Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-446/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6661; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by exploiting an App object use-after-free remote code execution flaw. User interaction is required to exploit this vulnerability, and the issue results from a lack of validating the existence of an object prior to performing operations on it.</description>
-      <guid isPermaLink="false">ZDI-CAN-26823</guid>
-      <pubDate>Wed, 25 Jun 2025 22:01:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
