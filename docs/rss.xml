@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 19:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 20:02:44 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>NimDoor crypto-theft macOS malware revives itself when killed</title>
+      <link>https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/</link>
+      <description>North Korean state-backed hackers are using a new family of macOS malware called NimDoor in a campaign targeting web3 and cryptocurrency organizations. The attack chain involves contacting victims via Telegram, delivering fake Zoom SDK updates via Calendly and email, and deploying a persistence mechanism that uses signal-based techniques to ensure the malware remains active even after attempts to terminate it.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/</guid>
+      <pubDate>Wed, 02 Jul 2025 19:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>AT&amp;T rolls out Wireless Account Lock protection to curb the SIM-swap scourge</title>
+      <link>https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/</link>
+      <description>Vulnerable Product: AT&amp;T; CVE(s): None; Summary: The article discusses SIM-swap scams targeting cryptocurrency and bank account holders who store large sums of digital coin. Criminals take control of phone numbers to trigger password resets, draining accounts. AT&amp;T's Wireless Account Lock feature prevents changes to SIM cards until it is manually turned off again, aiming to curb these types of scams.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/</guid>
+      <pubDate>Wed, 02 Jul 2025 19:28:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOJ investigates ex-ransomware negotiator over extortion kickbacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/doj-investigates-ex-ransomware-negotiator-over-extortion-kickbacks/</link>
+      <description>A former employee of DigitalMint, a company that specializes in ransomware negotiation and cryptocurrency payments, is under criminal investigation for allegedly working with ransomware gangs to profit from extortion payment deals. The investigation suggests potential abuse of business models that incentivize larger transaction volumes and higher transaction sizes.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/doj-investigates-ex-ransomware-negotiator-over-extortion-kickbacks/</guid>
+      <pubDate>Wed, 02 Jul 2025 19:14:41 +0000</pubDate>
+    </item>
     <item>
       <title>Spain arrests hackers who targeted politicians and journalists</title>
       <link>https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/</link>
@@ -1414,27 +1435,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6654; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by parsing out-of-bounds write PRC files. User interaction is required, and the issue results from lack of proper validation of user-supplied data, leading to a write past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26729</guid>
       <pubDate>Wed, 25 Jun 2025 22:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-440: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-440/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6655; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. It requires user interaction, such as visiting a malicious page or opening a malicious file, and is caused by the lack of proper validation of user-supplied data, leading to a read past the end of an allocated object.</description>
-      <guid isPermaLink="false">ZDI-CAN-26730</guid>
-      <pubDate>Wed, 25 Jun 2025 22:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-441: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-441/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6656; Summary: The PDF-XChange Editor PRC file parsing allows remote attackers to disclose sensitive information by exploiting an out-of-bounds read information disclosure vulnerability. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue exists within the parsing of PRC files and can be exploited in conjunction with other vulnerabilities to execute arbitrary code.</description>
-      <guid isPermaLink="false">ZDI-CAN-26731</guid>
-      <pubDate>Wed, 25 Jun 2025 22:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-442: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-442/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6657; Summary: The vulnerability allows remote attackers to disclose sensitive information by reading past the end of an allocated buffer due to lack of proper validation of user-supplied data in PRC file parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26732</guid>
-      <pubDate>Wed, 25 Jun 2025 22:02:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
