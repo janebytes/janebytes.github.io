@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 13:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 14:02:17 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft fixes ‘Print to PDF’ feature broken by Windows update</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/</link>
+      <description>Vulnerable Product: Microsoft Windows 11 24H2; CVE(s): None; Summary: The "Print to PDF" feature on Windows 11 24H2 systems is broken after installing the April 2025 preview update, causing the Microsoft Print to PDF printer to no longer appear under Settings and returning error code 0x800f0922.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/</guid>
+      <pubDate>Wed, 02 Jul 2025 13:52:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dozens of fake wallet add-ons flood Firefox store to drain crypto</title>
+      <link>https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/</link>
+      <description>Vulnerable Product: Firefox; CVE(s): None; Summary: More than 40 fake extensions in Firefox's official add-ons store are impersonating popular cryptocurrency wallets, stealing wallet credentials and sensitive data by sending stolen information to attacker-controlled servers. The extensions include malicious code that monitors for sensitive data inputs from the victim, checks for realistic wallet keys/seed phrases, and exfiltrates data.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/</guid>
+      <pubDate>Wed, 02 Jul 2025 13:16:01 +0000</pubDate>
+    </item>
     <item>
       <title>Grok 4 spotted ahead of launch with special coding features</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/</link>
@@ -1417,20 +1431,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: Microsoft Azure App Services; CVE(s): ZDI-25-421, ZDI-CAN-24622; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Microsoft Azure without authentication. The issue exists within Azure App Services due to the exposure of sensitive information, which can be leveraged by an attacker to disclose information.</description>
       <guid isPermaLink="false">ZDI-CAN-24622</guid>
       <pubDate>Wed, 25 Jun 2025 21:03:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-422: Microsoft Azure Machine Learning Environments Denial-of-Service Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-422/</link>
-      <description>Vulnerable Product: Microsoft Azure Machine Learning Environments; CVE(s): ZDI-CAN-24823, ZDI-25-422; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Microsoft Azure, without requiring authentication. The issue results from predictable Azure Container Registry names, which can be exploited to cause a denial-of-service condition on the AML workspace.</description>
-      <guid isPermaLink="false">ZDI-CAN-24823</guid>
-      <pubDate>Wed, 25 Jun 2025 21:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-423: Microsoft WinJS winjsdevelop Uncontrolled Search Path Element Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-423/</link>
-      <description>Vulnerable Product: Microsoft WinJS; CVE(s): ZDI-25-423, ZDI-CAN-23719; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft WinJS without authentication. The flaw exists in the installation process when loading a non-existent cloud resource that can be taken over by an attacker, enabling them to execute code on dependent systems.</description>
-      <guid isPermaLink="false">ZDI-CAN-23719</guid>
-      <pubDate>Wed, 25 Jun 2025 21:02:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
