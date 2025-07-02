@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 11:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 12:03:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat</title>
+      <link>https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html</link>
+      <description>The article discusses the importance of multi-layered detection strategies in cybersecurity operations centers (SOCs) to detect and respond to evolving threats. It highlights the limitations of traditional endpoint detection and response (EDR) solutions and introduces network detection and response (NDR) as a complementary approach that provides visibility into network-based attacks. The article also explains different types of detections, including signature-based, threat intelligence, malware detection, behavioral detection, machine learning, anomaly detection, and search-based detection.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html</guid>
+      <pubDate>Wed, 02 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns</title>
+      <link>https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html</link>
+      <description>Cybersecurity researchers have discovered a surge in phishing campaigns impersonating popular brands, including Microsoft and Docusign. The attacks use social engineering tactics, such as telephone-oriented attack delivery (TOAD), where victims are tricked into calling phone numbers operated by threat actors. These calls often employ scripted call center tactics, hold music, and spoofed caller IDs to gain the victim's trust.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html</guid>
+      <pubDate>Wed, 02 Jul 2025 10:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Windows Shortcut (LNK) Malware Strategies</title>
       <link>https://unit42.paloaltonetworks.com/lnk-malware/</link>
@@ -18,6 +32,13 @@ The article also provides information on how Palo Alto Networks customers can pr
 Overall, this article is a valuable resource for cybersecurity professionals looking to gain a deeper understanding of LNK malware and how to protect against these types of threats.</description>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=144445</guid>
       <pubDate>Wed, 02 Jul 2025 10:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>PDFs: Portable documents, or perfect deliveries for phish?</title>
+      <link>https://blog.talosintelligence.com/pdfs-portable-documents-or-perfect-deliveries-for-phish/</link>
+      <description>The article discusses the trend of brand impersonation in email threats using PDF payloads, including social engineering techniques such as TOAD (Telephone-Oriented Attack Delivery) and QR code phishing. It highlights the use of Voice over Internet Protocol (VoIP) numbers to remain anonymous and the reuse of phone numbers on consecutive days.</description>
+      <guid isPermaLink="false">685957b84c0b2400017d9b51</guid>
+      <pubDate>Wed, 02 Jul 2025 10:00:14 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware</title>
@@ -1408,27 +1429,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Skynet malware employs a unique evasion tactic called prompt injection to manipulate AI models used in malware analysis. Although the sample is rudimentary, it highlights concerns about the future of AI in cybersecurity and signals an emerging trend of manipulating AI systems with adversarial input.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144203</guid>
       <pubDate>Wed, 25 Jun 2025 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-420: PaperCut NG web-print-hot-folder Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-420/</link>
-      <description>Vulnerable Product: PaperCut NG; CVE(s): CVE-2024-8404; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of PaperCut NG by creating a symbolic link, which can be used to delete a file. An attacker must first obtain low-privileged code execution to exploit this vulnerability, and can leverage it to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26241</guid>
-      <pubDate>Wed, 25 Jun 2025 20:02:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple Brother Device Vulnerabilities Allow Attackers to Execute Arbitrary HTTP Requests</title>
-      <link>https://gbhackers.com/multiple-brother-device-vulnerabilities-allow-attackers/</link>
-      <description>Vulnerable Product: Brother Industries, Ltd. multifunction printers (MFPs) and related devices; CVE(s): CVE-2024-51978, CVE-2024-51981, CVE-2024-51979, CVE-2024-51977, CVE-2024-51982, CVE-2024-51983, CVE-2024-51984; Summary: The article reports on eight zero-day vulnerabilities in Brother MFPs and related devices, affecting 748 models from five major vendors. The most severe vulnerability (CVE-2024-51978) allows an unauthenticated attacker to generate the device's default administrator password, while others permit arbitrary HTTP requests, bypass authentication, or enable remote code execution (RCE).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144186</guid>
-      <pubDate>Wed, 25 Jun 2025 20:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu disables Intel GPU security mitigations, promises 20% performance boost</title>
-      <link>https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/</link>
-      <description>Vulnerable Product: Ubuntu; CVE(s): None; Summary: The article discusses the potential security implications of disabling Spectre GPU mitigations in Ubuntu. Researchers agree that most Spectre attack scenarios are unlikely to be exploited, and that the mitigations built into the kernel will protect against attacks. However, some researchers suggest that for typical users, the risk from downloading malware is higher than any potential gain from disabling these mitigations.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/</guid>
-      <pubDate>Wed, 25 Jun 2025 19:39:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
