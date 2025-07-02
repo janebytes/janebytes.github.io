@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 18:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 19:02:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Spain arrests hackers who targeted politicians and journalists</title>
@@ -14,6 +14,15 @@
       <description>The Spanish police have arrested two individuals suspected of cybercrime, including data theft from the government and high-ranking officials. They allegedly leaked stolen data online to increase its value and were involved in selling access to databases and credentials. The arrests are part of a larger effort by the Spanish authorities to track and apprehend cybercriminals.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/</guid>
       <pubDate>Wed, 02 Jul 2025 17:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign</title>
+      <link>https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html</link>
+      <description>The article discusses North Korean threat actors using malware written in Nim programming language to target Web3 and cryptocurrency-related businesses. The malware uses process injection technique, remote communications via wss protocol, and a novel persistence mechanism. It also includes social engineering tactics, such as scheduling Zoom meetings and executing AppleScript that acts as a delivery vehicle for a second-stage script.
+
+FYSA: North Korean threat actors have been observed targeting Web3 and cryptocurrency-related businesses with malware written in Nim programming language. The attacks involve social engineering tactics, process injection technique, and remote communications via wss protocol.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html</guid>
+      <pubDate>Wed, 02 Jul 2025 17:09:00 +0000</pubDate>
     </item>
     <item>
       <title>Cisco warns that Unified CM has hardcoded root SSH credentials</title>
@@ -67,6 +76,13 @@ FYSA: The article mentions xAI releasing Grok 4, which could potentially be the 
       <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: Microsoft is experiencing DNS misconfiguration issues affecting OTP message delivery in Exchange Online, impacting some users who may not receive OTP emails for encrypted messages. The issue affects users with a process set up to perform DNS checks on incoming email messages.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/</guid>
       <pubDate>Wed, 02 Jul 2025 12:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/02/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Google Chromium V8; CVE(s): CVE-2025-6554; Summary: A type confusion vulnerability in Google Chromium V8 has been added to the Known Exploited Vulnerabilities (KEV) Catalog, indicating active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise.</description>
+      <guid isPermaLink="false">/node/23590</guid>
+      <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat</title>
@@ -1419,20 +1435,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6657; Summary: The vulnerability allows remote attackers to disclose sensitive information by reading past the end of an allocated buffer due to lack of proper validation of user-supplied data in PRC file parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
       <guid isPermaLink="false">ZDI-CAN-26732</guid>
       <pubDate>Wed, 25 Jun 2025 22:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-443: PDF-XChange Editor GIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-443/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6660; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by exploiting a heap-based buffer overflow in the GIF file parsing. User interaction is required, and the attack vector involves visiting a malicious page or opening a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26763</guid>
-      <pubDate>Wed, 25 Jun 2025 22:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-444: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-444/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6658; Summary: The vulnerability allows remote attackers to disclose sensitive information by parsing out-of-bounds read information disclosure. User interaction is required, and the issue results from lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26733</guid>
-      <pubDate>Wed, 25 Jun 2025 22:02:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
