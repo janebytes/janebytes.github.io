@@ -6,8 +6,40 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 22:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 10:07:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows Shortcut (LNK) Malware Strategies</title>
+      <link>https://unit42.paloaltonetworks.com/lnk-malware/</link>
+      <description>This article provides an in-depth analysis of different types of LNK malware, which are a type of Windows executable files that can be used to launch malicious payloads. The article discusses four main techniques used by attackers to execute overlay content, including using find/findstr, mshta, and PowerShell commands/intrinsics.
+
+The article also provides information on how Palo Alto Networks customers can protect themselves from these types of threats through the use of certain products, such as Next-Generation Firewall with cloud-delivered security services and Advanced Threat Prevention. Additionally, the article mentions that Palo Alto Networks has shared its findings with fellow Cyber Threat Alliance (CTA) members to rapidly deploy protections to their customers.
+
+Overall, this article is a valuable resource for cybersecurity professionals looking to gain a deeper understanding of LNK malware and how to protect against these types of threats.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=144445</guid>
+      <pubDate>Wed, 02 Jul 2025 10:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware</title>
+      <link>https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html</link>
+      <description>The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has levied sanctions against Russia-based bulletproof hosting (BPH) service provider Aeza Group and its subsidiaries, along with four individuals linked to the company, for assisting threat actors in their malicious activities.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html</guid>
+      <pubDate>Wed, 02 Jul 2025 08:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale</title>
+      <link>https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html</link>
+      <description>Unknown threat actors are using Vercel's generative AI tool v0 to design fake sign-in pages that impersonate legitimate counterparts, creating convincing replicas of login pages. This allows low-skilled attackers to build phishing sites at scale without requiring coding skills.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html</guid>
+      <pubDate>Wed, 02 Jul 2025 05:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qantas discloses cyberattack amid Scattered Spider aviation breaches</title>
+      <link>https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/</link>
+      <description>Qantas detected a cyberattack on its third-party customer servicing platform, which contained customer data. Threat actors gained access to the platform after targeting a Qantas call centre and stole a "significant" amount of data, including names, email addresses, phone numbers, birth dates, and frequent flyer numbers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/</guid>
+      <pubDate>Wed, 02 Jul 2025 00:54:45 +0000</pubDate>
+    </item>
     <item>
       <title>AT&amp;T rolls out "Wireless Lock" feature to block SIM swap attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/</link>
@@ -1397,34 +1429,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: Ubuntu; CVE(s): None; Summary: The article discusses the potential security implications of disabling Spectre GPU mitigations in Ubuntu. Researchers agree that most Spectre attack scenarios are unlikely to be exploited, and that the mitigations built into the kernel will protect against attacks. However, some researchers suggest that for typical users, the risk from downloading malware is higher than any potential gain from disabling these mitigations.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/</guid>
       <pubDate>Wed, 25 Jun 2025 19:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Weaponized Wedding Invite Scams Delivering SpyMax RAT to Android Devices</title>
-      <link>https://gbhackers.com/beware-of-weaponized-wedding-invite-scams-delivering-spymax-rat/</link>
-      <description>The "Wedding Invitation" Android phishing campaign targets mobile users in India by sending seemingly harmless digital wedding invitations that conceal malicious APK files. These files contain the SpyMax Remote Access Trojan (RAT) or similar malware, which can steal sensitive information and exfiltrate it to attackers through Telegram bots or C2 servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144150</guid>
-      <pubDate>Wed, 25 Jun 2025 19:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New wave of ‘fake interviews’ use 35 npm packages to spread malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/</link>
-      <description>Vulnerable Product: Various; CVE(s): None; Summary: A new wave of North Korean "Contagious Interview" campaign targets job seekers with malicious npm packages that infect dev's devices with info-stealers and backdoors. The packages load BeaverTail info-stealer and InvisibleFerret backdoor, allowing attackers to steal browser data, load keyloggers, and perform remote control and file theft.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/</guid>
-      <pubDate>Wed, 25 Jun 2025 19:24:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>INTERPOL Cautions of Significant Increase in Cyber Attacks on Western and Eastern Africa</title>
-      <link>https://gbhackers.com/interpol-cautions-of-significant-increase-in-cyber-attacks/</link>
-      <description>The INTERPOL 2025 Africa Cyberthreat Assessment Report highlights a significant surge in cybercrime across Africa, with over 30% of all documented criminal activities being cyber-related. The report emphasizes the urgent need for enhanced cybersecurity measures, citing emerging risks such as AI-driven fraud and a lack of adequate law enforcement capabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144177</guid>
-      <pubDate>Wed, 25 Jun 2025 19:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Pose as Recruiters, Target Developers with 35 New Malicious npm Packages</title>
-      <link>https://gbhackers.com/north-korean-hackers-pose-as-recruiters-target-developers/</link>
-      <description>Vulnerable Product: npm registry; CVE(s): None; Summary: A North Korean threat actor campaign has been exposed, targeting software developers through the npm registry. The campaign involves 35 malicious packages across 24 accounts, with six still active on the registry. These packages have collectively been downloaded over 4,000 times, posing a significant risk to unsuspecting developers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144167</guid>
-      <pubDate>Wed, 25 Jun 2025 18:40:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
