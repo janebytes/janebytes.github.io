@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 16:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 17:01:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Citrix warns of login issues after NetScaler auth bypass patch</title>
+      <link>https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/</link>
+      <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777, CVE-2025-6543; Summary: The patch for recently disclosed vulnerabilities in NetScaler ADC and Gateway appliances may also break login pages due to the enabling of Content Security Policy (CSP) header by default. This can cause authentication bypass and denial-of-service attacks. Disabling the CSP header temporarily resolves the issue, but administrators are advised to reach out to Citrix Support if the problem persists.
+
+FYSA: None</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/</guid>
+      <pubDate>Wed, 02 Jul 2025 16:19:05 +0000</pubDate>
+    </item>
     <item>
       <title>Forminator plugin flaw exposes WordPress sites to takeover attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/</link>
@@ -1424,13 +1433,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6661; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by exploiting an App object use-after-free remote code execution flaw. User interaction is required to exploit this vulnerability, and the issue results from a lack of validating the existence of an object prior to performing operations on it.</description>
       <guid isPermaLink="false">ZDI-CAN-26823</guid>
       <pubDate>Wed, 25 Jun 2025 22:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-447: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-447/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6662; Summary: The PDF-XChange Editor PRC file parsing allows remote attackers to disclose sensitive information through an out-of-bounds read information disclosure vulnerability. User interaction is required, and the specific flaw exists within the parsing of PRC files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26985</guid>
-      <pubDate>Wed, 25 Jun 2025 22:01:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
