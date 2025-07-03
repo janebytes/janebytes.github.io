@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 15:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 16:02:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>IdeaLab confirms data stolen in ransomware attack last year</title>
+      <link>https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/</link>
+      <description>IdeaLab, a California-based technology startup incubator, has been impacted by a data breach incident where hackers accessed sensitive information. The Hunters International ransomware group claimed the breach and leaked the stolen data on the dark web, affecting current and former employees, contractors, and their dependents.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/</guid>
+      <pubDate>Thu, 03 Jul 2025 15:14:56 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft investigates ongoing SharePoint Online access issues</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/</link>
@@ -1440,13 +1447,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6642; Summary: The PDF-XChange Editor U3D file parsing allows remote attackers to execute arbitrary code by reading past the end of an allocated object due to lack of proper validation of user-supplied data. User interaction is required, and the vulnerability can be exploited by visiting a malicious page or opening a malicious file.</description>
       <guid isPermaLink="false">ZDI-CAN-26530</guid>
       <pubDate>Wed, 25 Jun 2025 22:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-428: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-428/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6643; Summary: The PDF-XChange Editor U3D file parsing allows remote attackers to disclose sensitive information, requiring user interaction. The vulnerability occurs due to the lack of proper validation of user-supplied data, resulting in a read past the end of an allocated object. An attacker can leverage this to execute arbitrary code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26532</guid>
-      <pubDate>Wed, 25 Jun 2025 22:06:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
