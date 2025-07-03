@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 11:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 12:01:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Hunters International ransomware shuts down after World Leaks rebrand</title>
@@ -14,6 +14,15 @@
       <description>The Hunters International Ransomware-as-a-Service (RaaS) operation has officially closed down and will offer free decryptors to help victims recover their data without paying a ransom.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/</guid>
       <pubDate>Thu, 03 Jul 2025 10:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets</title>
+      <link>https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): None; Summary: The article describes a large-scale campaign involving over 40 malicious browser extensions for Mozilla Firefox, designed to steal cryptocurrency wallet secrets. The extensions impersonate legitimate wallet tools and employ tactics such as artificially inflating their popularity and cloning open-source code to extract wallet keys and seed phrases from targeted websites.
+
+FYSA: The article highlights a sophisticated threat actor group using a low-effort, high-impact approach to steal users' digital assets by distributing malicious browser extensions. The campaign's success relies on the ability of these extensions to operate inside the user's browser, making them harder to detect or block with traditional endpoint tools.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html</guid>
+      <pubDate>Thu, 03 Jul 2025 10:53:00 +0000</pubDate>
     </item>
     <item>
       <title>The Hidden Weaknesses in AI SOC Tools that No One Talks About</title>
@@ -1436,13 +1445,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6646; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor through the parsing of U3D files. User interaction is required, and an attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process.</description>
       <guid isPermaLink="false">ZDI-CAN-26643</guid>
       <pubDate>Wed, 25 Jun 2025 22:05:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-432: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-432/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6647; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. It requires user interaction, such as visiting a malicious page or opening a malicious file, and is caused by the lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26644</guid>
-      <pubDate>Wed, 25 Jun 2025 22:05:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
