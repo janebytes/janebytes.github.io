@@ -6,8 +6,26 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 18:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 19:02:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>xAI prepares Grok 4 Code as it plans to take on Claude and Gemini</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/</link>
+      <description>The article discusses the upcoming release of Grok 4, a new state-of-the-art language model from xAI. It also highlights various cloud-based threat actor techniques used to launch attacks on organizations. Additionally, the article mentions other AI-related updates and releases from Google and Vibe coding company.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/</guid>
+      <pubDate>Thu, 03 Jul 2025 19:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>A message from Bruce the mechanical shark</title>
+      <link>https://blog.talosintelligence.com/a-message-from-bruce-the-mechanical-shark/</link>
+      <description>FYSA:
+
+The article is a mix of cybersecurity-related content and non-security related information. The main focus is on cybersecurity, with discussions about phishing attacks, email threat detection engine updates, and malicious PowerShell scripts. Additionally, the article touches on a data breach at Ahold Delhaize, Europol's dismantling of a cryptocurrency fraud network, and an international cyberattack against the International Criminal Court.
+
+However, the article also includes non-security related content, such as a nostalgic story about the movie "Jaws" and its mechanical shark, Bruce. The article concludes with a mention of upcoming conferences and events in the cybersecurity industry. Overall, the article is a collection of various topics, with some being more cybersecurity-focused than others.</description>
+      <guid isPermaLink="false">68667978511eb7000145d3ff</guid>
+      <pubDate>Thu, 03 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Police dismantles investment fraud ring stealing €10 million</title>
       <link>https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/</link>
@@ -1431,20 +1449,6 @@ FYSA: Threat actors have been advertising builders that provide ClickFix-weaponi
       <description>Vulnerable Product: IBM; CVE(s): CVE-2025-36004; Summary: The vulnerability allows attackers to escalate privileges and execute arbitrary code with administrator rights. It affects multiple versions of IBM i, including 7.5, 7.4, 7.3, and 7.2. An attacker can gain unauthorized access to sensitive system resources, compromise the integrity and availability of the system, and potentially take full control of the affected environment.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144261</guid>
       <pubDate>Thu, 26 Jun 2025 07:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa</title>
-      <link>https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html</link>
-      <description>This article discusses a series of cyber attacks targeting financial organizations across Africa, using open-source and publicly available tools to maintain access. The attackers use a mix of tools, including PoshC2, Chisel, and Classroom Spy, to commandeer machines and bypass firewalls, with the goal of selling initial access to other criminal actors on underground forums.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html</guid>
-      <pubDate>Thu, 26 Jun 2025 07:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues Alert on ControlID iDSecure Flaws Enabling Bypass Authentication</title>
-      <link>https://gbhackers.com/cisa-issues-alert-on-controlid-idsecure-flaws/</link>
-      <description>Vulnerable Product: ControlID iDSecure On-premises; CVE(s): CVE-2025-49851, CVE-2025-49852, CVE-2025-49853; Summary: The software has multiple critical vulnerabilities that allow attackers to bypass authentication, leak sensitive data, and execute malicious SQL commands. Exploitation can lead to unauthorized access, data breaches, and disruption of critical operations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144236</guid>
-      <pubDate>Thu, 26 Jun 2025 06:46:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
