@@ -6,8 +6,51 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 10:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 11:08:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hunters International ransomware shuts down after World Leaks rebrand</title>
+      <link>https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/</link>
+      <description>The Hunters International Ransomware-as-a-Service (RaaS) operation has officially closed down and will offer free decryptors to help victims recover their data without paying a ransom.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/</guid>
+      <pubDate>Thu, 03 Jul 2025 10:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hidden Weaknesses in AI SOC Tools that No One Talks About</title>
+      <link>https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html</link>
+      <description>The article discusses the limitations of pre-trained AI models in security operations centers (SOCs) and highlights the benefits of adaptive AI, which learns to triage and respond to any alert type. Adaptive AI uses semantic classification, research agents, and multiple large language models to provide accurate, efficient, and context-aware triage. It also enables continuous learning and improvement by benchmarking model performance on real-world SOC tasks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html</guid>
+      <pubDate>Thu, 03 Jul 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft asks users to ignore Windows Firewall config errors</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/</link>
+      <description>Vulnerable Product: Microsoft, Windows Firewall; CVE(s): None; Summary: The June 2025 preview update of Windows causes incorrect Windows Firewall errors to appear in the Event Viewer after system reboots. These errors are logged as 'Event 2042' and can be safely ignored as they do not impact any Windows processes.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/</guid>
+      <pubDate>Thu, 03 Jul 2025 10:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache Under the Lens: Tomcat’s Partial PUT and Camel’s Header Hijack</title>
+      <link>https://unit42.paloaltonetworks.com/apache-cve-2025-24813-cve-2025-27636-cve-2025-29891/</link>
+      <description>FYSA:
+
+The article discusses multiple vulnerabilities in Apache Tomcat and Apache Camel, including CVE-2025-24813, CVE-2025-27636, and CVE-2025-29891. The vulnerabilities allow for potential remote code execution, which can lead to data breaches and lateral movement within the network.
+
+The analysis reveals that most of the exploit attempts use a six-character session name and a specific value for the Content-Range header. The Nuclei Scanner, a freely available scanner, is being used by attackers to check for the vulnerability.
+
+Palo Alto Networks customers are protected from these threats through various products, including the Next Generation Firewall with an Advanced Threat Prevention subscription, Advanced URL Filtering, and Cortex Xpanse.
+
+The article also highlights the importance of immediate action in addressing these vulnerabilities, as they can be exploited by less-skilled adversaries.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=144810</guid>
+      <pubDate>Thu, 03 Jul 2025 10:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms</title>
+      <link>https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html</link>
+      <description>Vulnerable Product: Ivanti Cloud Services Appliance (CSA) devices; CVE(s): CVE-2024-8963, CVE-2024-9380, and CVE-2024-8190; Summary: A Chinese hacking group, codenamed Houken, exploited zero-day vulnerabilities in Ivanti CSA devices to gain access to target networks. The attackers used a rootkit and various tools to maintain persistence and conduct reconnaissance, with the goal of selling valuable data to state-linked actors or conducting lucrative operations.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html</guid>
+      <pubDate>Thu, 03 Jul 2025 09:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials</title>
       <link>https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html</link>
@@ -1400,41 +1443,6 @@ Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-cod
       <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6647; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. It requires user interaction, such as visiting a malicious page or opening a malicious file, and is caused by the lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26644</guid>
       <pubDate>Wed, 25 Jun 2025 22:05:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-433: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-433/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6648; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor by reading past the end of an allocated object due to lack of proper validation of user-supplied data in U3D file parsing. User interaction is required, and the issue can be exploited by visiting a malicious page or opening a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26671</guid>
-      <pubDate>Wed, 25 Jun 2025 22:05:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-434: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-434/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6649; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, which exists within the parsing of U3D files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26709</guid>
-      <pubDate>Wed, 25 Jun 2025 22:05:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-435: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-435/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6650; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor by exploiting an out-of-bounds read information disclosure flaw within the parsing of U3D files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data, which can result in reading past the end of an allocated object.</description>
-      <guid isPermaLink="false">ZDI-CAN-26712</guid>
-      <pubDate>Wed, 25 Jun 2025 22:04:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-436: PDF-XChange Editor JP2 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-436/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6651; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor by parsing out-of-bounds write JP2 files. User interaction is required, and the issue results from lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26713</guid>
-      <pubDate>Wed, 25 Jun 2025 22:04:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-437: PDF-XChange Editor PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-437/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6652; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor by parsing PRC files without proper validation of user-supplied data, resulting in a read past the end of an allocated object. User interaction is required to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-26724</guid>
-      <pubDate>Wed, 25 Jun 2025 22:04:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
