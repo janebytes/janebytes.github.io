@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 19:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 20:01:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-467: GStreamer H266 Codec Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-467/</link>
+      <description>Vulnerable Product: GStreamer; CVE(s): CVE-2025-6663; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. The specific flaw exists within the parsing of H266 sei messages, resulting from a lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-27381</guid>
+      <pubDate>Thu, 03 Jul 2025 20:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-468: GFI Archiver Telerik Web UI Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-468/</link>
+      <description>Vulnerable Product: GFI, Archiver; CVE(s): CVE-2019-18935, CVE-2017-11317, CVE-2014-2217; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of GFI Archiver. Authentication is not required to exploit this vulnerability, and the issue results from the use of a vulnerable version of Telerik Web UI.</description>
+      <guid isPermaLink="false">ZDI-CAN-26061</guid>
+      <pubDate>Thu, 03 Jul 2025 20:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provider of covert surveillance app spills passwords for 62,000 users</title>
+      <link>https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/</link>
+      <description>The article reports on a stalkerware service called Catwatchful that has a hidden backdoor allowing users to uninstall the app by inputting specific numbers on their device's keyboard. The app uploads content in real-time and can be viewed from a web dashboard, and the service's operators were identified through a database dump.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/</guid>
+      <pubDate>Thu, 03 Jul 2025 19:36:44 +0000</pubDate>
+    </item>
     <item>
       <title>xAI prepares Grok 4 Code as it plans to take on Claude and Gemini</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/</link>
@@ -1428,27 +1449,6 @@ FYSA: Threat actors have been advertising builders that provide ClickFix-weaponi
       <description>The article reports on a spear-phishing campaign attributed to the Iranian state-sponsored hacking group Educated Manticore (also known as APT35), targeting journalists, high-profile cybersecurity experts, and computer science professors in Israel. The attackers use social engineering tactics, posing as fictitious assistants or using AI-generated messages to trick victims into deploying malware on their systems.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html</guid>
       <pubDate>Thu, 26 Jun 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA: AMI MegaRAC bug enabling server hijacks exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/</link>
-      <description>Vulnerable Product: AMI MegaRAC Baseboard Management Controller (BMC) software; CVE(s): CVE-2024-54085; Summary: A maximum severity vulnerability allows remote unauthenticated attackers to hijack and potentially brick unpatched servers, enabling attacks such as malware deployment, ransomware, firmware tampering, and server physical damage.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/</guid>
-      <pubDate>Thu, 26 Jun 2025 08:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Demonstrate Windows Registry Manipulation via C++ Program</title>
-      <link>https://gbhackers.com/windows-registry-manipulation-via-c-program/</link>
-      <description>The article discusses a C++ program demonstrating how attackers manipulate the Windows Registry to establish persistence, evade defenses, and alter system behavior. The program uses Windows API functions to modify registry keys, simulating tactics employed by real-world malware while highlighting critical defense implications.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144260</guid>
-      <pubDate>Thu, 26 Jun 2025 08:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM i Vulnerability Allows Attackers to Escalate Privileges</title>
-      <link>https://gbhackers.com/ibm-i-vulnerability/</link>
-      <description>Vulnerable Product: IBM; CVE(s): CVE-2025-36004; Summary: The vulnerability allows attackers to escalate privileges and execute arbitrary code with administrator rights. It affects multiple versions of IBM i, including 7.5, 7.4, 7.3, and 7.2. An attacker can gain unauthorized access to sensitive system resources, compromise the integrity and availability of the system, and potentially take full control of the affected environment.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144261</guid>
-      <pubDate>Thu, 26 Jun 2025 07:42:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
