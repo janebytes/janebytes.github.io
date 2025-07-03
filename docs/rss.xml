@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 20:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 21:02:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-469: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-469/</link>
+      <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47724; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of DPB files by the Screen Editor module due to lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26718</guid>
+      <pubDate>Thu, 03 Jul 2025 21:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-470: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-470/</link>
+      <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47725; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of DPB files by the Screen Editor module due to lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26719</guid>
+      <pubDate>Thu, 03 Jul 2025 21:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-471: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-471/</link>
+      <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47727; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft by parsing DPB files without proper validation of user-supplied data, resulting in a write past the end of an allocated data structure. User interaction is required to exploit this vulnerability, requiring the target to visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26842</guid>
+      <pubDate>Thu, 03 Jul 2025 21:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-472: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-472/</link>
+      <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47726; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft, requiring user interaction. It exists within the parsing of DPB files by the Screen Editor module due to lack of proper validation of user-supplied data, resulting in a write past the end of an allocated data structure.</description>
+      <guid isPermaLink="false">ZDI-CAN-26720</guid>
+      <pubDate>Thu, 03 Jul 2025 21:01:34 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-467: GStreamer H266 Codec Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-467/</link>
@@ -1421,34 +1449,6 @@ FYSA: Threat actors have been advertising builders that provide ClickFix-weaponi
       <description>This article appears to be an in-depth analysis of a privilege escalation exploit in a Windows kernel-mode driver. The author provides detailed information on the vulnerabilities and exploitation methods used, including the "decrement by one" primitive. The article also discusses the importance of proper security design and access controls in kernel-mode components.</description>
       <guid isPermaLink="false">685ad99c178bd70001283c95</guid>
       <pubDate>Thu, 26 Jun 2025 10:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft confirms Family Safety blocks Google Chrome from launching</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/</link>
-      <description>Vulnerable Product: Microsoft Family Safety; CVE(s): None; Summary: The Microsoft Family Safety parental control service is blocking users from launching Google Chrome and other web browsers on Windows systems due to a bug in its web filtering tool, which prompts children to ask for their parents' approval to use other browsers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/</guid>
-      <pubDate>Thu, 26 Jun 2025 09:50:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Use TeamFiltration Pentesting Framework to Breach Microsoft Teams, OneDrive, Outlook, and More</title>
-      <link>https://gbhackers.com/cybercriminals-use-teamfiltration-pentesting-framework/</link>
-      <description>The UNK_SneakyStrike account takeover campaign uses the TeamFiltration pentesting framework to target Microsoft Entra ID user accounts, exploiting credentials and gaining unauthorized access to critical native applications such as Microsoft Teams, OneDrive, and Outlook.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144233</guid>
-      <pubDate>Thu, 26 Jun 2025 09:37:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues Alert on Active Exploitation of D-Link Path Traversal Flaw</title>
-      <link>https://gbhackers.com/cisa-issues-alert-on-d-link-path-traversal-flaw/</link>
-      <description>Vulnerable Product: D-Link DIR-859 WiFi Router; CVE(s): CVE-2024-0769; Summary: The vulnerability (CVE-2024-0769) is a path traversal vulnerability in the HTTP POST request handler of the router's hedwig.cgi file, allowing attackers to traverse directories and access sensitive configuration files, leading to unauthorized access and potential full control over affected devices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144303</guid>
-      <pubDate>Thu, 26 Jun 2025 09:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian APT35 Hackers Targeting Israeli Tech Experts with AI-Powered Phishing Attacks</title>
-      <link>https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html</link>
-      <description>The article reports on a spear-phishing campaign attributed to the Iranian state-sponsored hacking group Educated Manticore (also known as APT35), targeting journalists, high-profile cybersecurity experts, and computer science professors in Israel. The attackers use social engineering tactics, posing as fictitious assistants or using AI-generated messages to trick victims into deploying malware on their systems.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html</guid>
-      <pubDate>Thu, 26 Jun 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
