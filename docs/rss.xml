@@ -6,8 +6,31 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 16:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 17:06:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Grafana releases critical security update for Image Renderer plugin</title>
+      <link>https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/</link>
+      <description>Vulnerable Product: Grafana Image Renderer and Synthetic Monitoring Agent; CVE(s): CVE-2025-5959, CVE-2025-6554, CVE-2025-6191, CVE-2025-6192; Summary: Four high-severity Chromium vulnerabilities have been addressed in critical security updates for the Grafana Image Renderer plugin and Synthetic Monitoring Agent. The issues allow remote code execution, arbitrary memory read/write, out-of-bounds memory access, and heap corruption exploitable via crafted HTML pages.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/</guid>
+      <pubDate>Thu, 03 Jul 2025 16:16:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Tech’s Mixed Response to U.S. Treasury Sanctions</title>
+      <link>https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/</link>
+      <description>Liu "Steve" Lizhi, a 40-year-old Chinese national, was sanctioned by the U.S. Department of the Treasury for operating a cloud provider linked to virtual currency investment scams known as "pig butchering." Despite being sanctioned, Lizhi maintains active accounts on Facebook, GitHub, PayPal, and Twitter/X, which continue to operate without issue. The article highlights concerns that big tech companies are not doing enough to cut ties with sanctioned individuals like Lizhi, potentially putting users at risk of financial losses.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71564</guid>
+      <pubDate>Thu, 03 Jul 2025 16:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams</title>
+      <link>https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html</link>
+      <description>The article discusses several mobile ad fraud operations, including IconAds, Kaleidoscope, NGate, SuperCard X, and Qwizzserial. These operations involve the distribution of malicious apps through various means, including third-party app stores, fake websites, and social media platforms. The malware targets Android devices and steals user data, injects ads, and conducts fraudulent transactions.
+
+FYSA: IconAds, a mobile ad fraud operation, has been disrupted by HUMAN. Kaleidoscope is another ad fraud scheme that uses the "evil twin" technique to distribute malicious apps. NGate and SuperCard X are malware families that abuse NFC technology for financial fraud. Qwizzserial is an SMS stealer that targets users in Uzbekistan.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html</guid>
+      <pubDate>Thu, 03 Jul 2025 16:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>IdeaLab confirms data stolen in ransomware attack last year</title>
       <link>https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/</link>
@@ -37,6 +60,41 @@ The article reports on an ongoing incident affecting SharePoint Online, a cloud-
       <description>Microsoft has announced the availability of Exchange Server Subscription Edition (SE) to all customers, which introduces changes to licensing and servicing. The new edition will be an evergreen release with continuous support, replacing previous versions that will reach end-of-life soon.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/</guid>
       <pubDate>Thu, 03 Jul 2025 12:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric MELSOFT Update Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-03</link>
+      <description>Vulnerable Product: Mitsubishi Electric MELSOFT Update Manager; CVE(s): CVE-2024-11477, CVE-2025-0411; Summary: The MELSOFT Update Manager contains an Integer Underflow vulnerability in 7-zip that could allow a remote attacker to execute arbitrary code, disclose or alter information, or cause a denial-of-service (DoS) condition. Additionally, there is a Protection Mechanism Failure vulnerability that could also lead to the same impacts.</description>
+      <guid isPermaLink="false">/node/23593</guid>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Four Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/03/cisa-releases-four-industrial-control-systems-advisories</link>
+      <description>CISA has released four Industrial Control Systems (ICS) advisories on July 3, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories are specific to certain products from Hitachi Energy and Mitsubishi Electric.</description>
+      <guid isPermaLink="false">/node/23595</guid>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy MicroSCADA X SYS600</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-02</link>
+      <description>Vulnerable Product: Hitachi Energy MicroSCADA X SYS600; CVE(s): CVE-2025-39201, CVE-2025-39202, CVE-2025-39203, CVE-2025-39204, CVE-2025-39205; Summary: The product contains multiple vulnerabilities that could allow an attacker to tamper with system files, overwrite files, create a denial-of-service condition, or leak file content. Successful exploitation of these vulnerabilities could have severe impacts, including data corruption and unauthorized access.</description>
+      <guid isPermaLink="false">/node/23592</guid>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Relion 670/650 and SAM600-IO Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-01</link>
+      <description>Vulnerable Product: Hitachi Energy Relion 670/650 and SAM600-IO series, Hitachi Energy; CVE(s): CVE-2025-1718; Summary: An authenticated user with file access privilege via FTP access can cause the devices to reboot due to improper disk space management. The vulnerability has a CVSS v4 score of 7.1 and affects various versions of the products.</description>
+      <guid isPermaLink="false">/node/23591</guid>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric MELSEC iQ-F Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-04</link>
+      <description>Vulnerable Product: Mitsubishi Electric Corporation MELSEC iQ-F Series; CVE(s): CVE-2025-5241; Summary: A denial-of-service (DoS) vulnerability exists in the MELSEC iQ-F series due to an overly restrictive account lockout mechanism. A remote attacker could lockout a legitimate user for a certain period of time by repeatedly attempting to login with an incorrect password.</description>
+      <guid isPermaLink="false">/node/23594</guid>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hunters International ransomware shuts down after World Leaks rebrand</title>
@@ -1391,62 +1449,6 @@ Vulnerable Product: D-Link DIR-859; CVE(s): CVE-2024-0769; Summary: A path trave
 Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-coded cryptographic key vulnerability in FortiOS allows an attacker with access to the CLI configuration or the CLI backup file to decrypt sensitive data, potentially leading to initial access for threat actors linked to the Akira ransomware scheme.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html</guid>
       <pubDate>Thu, 26 Jun 2025 06:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOVEit Transfer Systems Hit by Wave of Attacks Using Over 100 Unique IPs</title>
-      <link>https://gbhackers.com/moveit-transfer-systems-hit-by-wave-of-attacks/</link>
-      <description>Vulnerable Product: Progress Software MOVEit Transfer; CVE(s): CVE-2023-34362, CVE-2023-36934; Summary: The MOVEit Transfer file-sharing platform has been targeted by a surge in scanning and exploitation activity. Over 682 unique IP addresses have been detected targeting MOVEit Transfer systems, with the most intense activity beginning on May 27, 2025. Exploitation attempts have been linked to two previously disclosed vulnerabilities (CVE-2023-34362 and CVE-2023-36934).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144227</guid>
-      <pubDate>Thu, 26 Jun 2025 05:50:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Authorities Arrest Five Operators Behind Infamous BreachForums Cybercrime Hub</title>
-      <link>https://gbhackers.com/authorities-arrest-five-operators/</link>
-      <description>Five key operators behind BreachForums, an online marketplace for stolen data, have been arrested by French authorities. The operation targeted suspects believed to be operating from Russian-speaking territories, but the core administrators were revealed to be four French nationals in their early twenties. The arrests are expected to disrupt the global trade in stolen data and serve as a warning to other cybercriminals who rely on such platforms for anonymity and profit.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144221</guid>
-      <pubDate>Thu, 26 Jun 2025 05:12:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews</title>
-      <link>https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html</link>
-      <description>WhatsApp has introduced an AI-powered feature called Message Summaries that summarizes unread messages in chats using Meta AI's Private Processing technology. This feature is designed to preserve user privacy and prevent third-party access to message contents. The development comes as the U.S. House of Representatives added WhatsApp to a list of apps banned from government-issued devices due to security concerns.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html</guid>
-      <pubDate>Thu, 26 Jun 2025 04:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker 'IntelBroker' charged in US for global data theft breaches</title>
-      <link>https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/</link>
-      <description>A British national, "IntelBroker" (Kai West), has been charged by the US for stealing and selling sensitive data worldwide, causing an estimated $25 million in damages. The stolen information included health records, internal files from companies, and user data from online platforms.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/</guid>
-      <pubDate>Wed, 25 Jun 2025 23:54:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-424: Mikrotik RouterOS VXLAN Source IP Improper Access Control Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-424/</link>
-      <description>Vulnerable Product: Mikrotik RouterOS; CVE(s): CVE-2025-6443; Summary: This vulnerability allows remote attackers to bypass access restrictions on affected installations of Mikrotik RouterOS without authentication. The specific flaw exists within the handling of remote IP addresses when processing VXLAN traffic, allowing an attacker to gain access to internal network resources.</description>
-      <guid isPermaLink="false">ZDI-CAN-26415</guid>
-      <pubDate>Wed, 25 Jun 2025 22:07:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-425: PDF-XChange Editor U3D File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-425/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6640; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, and it occurs when parsing U3D files due to the lack of validating the existence of an object prior to performing operations on the object.</description>
-      <guid isPermaLink="false">ZDI-CAN-26527</guid>
-      <pubDate>Wed, 25 Jun 2025 22:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-426: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-426/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6641; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability, which exists within the parsing of U3D files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26528</guid>
-      <pubDate>Wed, 25 Jun 2025 22:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-427: PDF-XChange Editor U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-427/</link>
-      <description>Vulnerable Product: PDF-XChange Editor; CVE(s): CVE-2025-6642; Summary: The PDF-XChange Editor U3D file parsing allows remote attackers to execute arbitrary code by reading past the end of an allocated object due to lack of proper validation of user-supplied data. User interaction is required, and the vulnerability can be exploited by visiting a malicious page or opening a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26530</guid>
-      <pubDate>Wed, 25 Jun 2025 22:07:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
