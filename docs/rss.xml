@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 17:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 18:01:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Police dismantles investment fraud ring stealing €10 million</title>
+      <link>https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/</link>
+      <description>The article discusses a large-scale investment fraud operation that was dismantled by the Spanish police, resulting in the arrest of 21 individuals and the confiscation of luxury vehicles and cash. The scammers used tactics similar to "romance baiting" scams, luring victims into fake investments through social media ads and manipulated websites.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/</guid>
+      <pubDate>Thu, 03 Jul 2025 17:53:21 +0000</pubDate>
+    </item>
     <item>
       <title>Grafana releases critical security update for Image Renderer plugin</title>
       <link>https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/</link>
@@ -1438,17 +1445,6 @@ FYSA: Threat actors have been advertising builders that provide ClickFix-weaponi
       <description>Vulnerable Product: ControlID iDSecure On-premises; CVE(s): CVE-2025-49851, CVE-2025-49852, CVE-2025-49853; Summary: The software has multiple critical vulnerabilities that allow attackers to bypass authentication, leak sensitive data, and execute malicious SQL commands. Exploitation can lead to unauthorized access, data breaches, and disruption of critical operations.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144236</guid>
       <pubDate>Thu, 26 Jun 2025 06:46:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet</title>
-      <link>https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html</link>
-      <description>Vulnerable Product: AMI MegaRAC; CVE(s): CVE-2024-54085; Summary: An authentication bypass vulnerability allows a remote attacker to take control of the Redfish Host Interface of AMI MegaRAC SPx, potentially leading to malicious actions such as deploying malware and tampering with device firmware. The flaw has a CVSS score of 10.0.
-
-Vulnerable Product: D-Link DIR-859; CVE(s): CVE-2024-0769; Summary: A path traversal vulnerability in the D-Link DIR-859 router allows for privilege escalation and unauthorized control, potentially allowing an attacker to dump account names, passwords, groups, and descriptions for all users of the device. The router has reached end-of-life (EoL) as of December 2020.
-
-Vulnerable Product: Fortinet FortiOS; CVE(s): CVE-2019-6693; Summary: A hard-coded cryptographic key vulnerability in FortiOS allows an attacker with access to the CLI configuration or the CLI backup file to decrypt sensitive data, potentially leading to initial access for threat actors linked to the Akira ransomware scheme.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html</guid>
-      <pubDate>Thu, 26 Jun 2025 06:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
