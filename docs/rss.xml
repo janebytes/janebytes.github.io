@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jul 2025 13:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 14:01:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors</title>
+      <link>https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html</link>
+      <description>No vulnerability is mentioned in this article. Instead, it discusses a threat actor called NightEagle (APT-Q-95) that targets Microsoft Exchange servers as part of a zero-day exploit chain to gather intelligence from government, defense, and technology sectors in China. The attackers use a bespoke version of the Chisel utility and implant a Trojan into the Internet Information Server (IIS) service of the Microsoft Exchange Server to gain unauthorized access.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html</guid>
+      <pubDate>Fri, 04 Jul 2025 12:59:00 +0000</pubDate>
+    </item>
     <item>
       <title>Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It</title>
       <link>https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html</link>
@@ -1441,13 +1448,6 @@ FYSA: Threat actors have been advertising builders that provide ClickFix-weaponi
       <link>https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html</link>
       <description>The article discusses the importance of data resilience in SaaS platforms, highlighting the risks associated with data loss due to human error, ransomware attacks, and internal threats. It emphasizes that built-in protections in SaaS platforms are not enough to handle the level of complexity modern organizations face and that a unified platform is needed to secure, protect, and manage data wherever it resides.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html</guid>
-      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Spear-Phishing Attack Impersonates Google, Outlook, and Yahoo Domains</title>
-      <link>https://gbhackers.com/iranian-spear-phishing-attack-impersonates-google/</link>
-      <description>The article reports a renewed global spear-phishing campaign by the Iranian threat actor Educated Manticore (APT42), targeting high-value individuals with credential theft and bypassing multi-factor authentication through advanced social engineering tactics. The campaign poses a significant risk to academics, journalists, and geopolitical figures, particularly prominent Israeli figures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144323</guid>
       <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
