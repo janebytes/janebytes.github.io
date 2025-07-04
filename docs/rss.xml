@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jul 2025 22:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 10:03:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It</title>
+      <link>https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: This article is not about a specific vulnerability, but rather highlights the potential risks of using generative AI (GenAI) systems without proper access controls, governance policies, and oversight. It discusses how well-meaning AI agents can unintentionally leak sensitive data to the wrong users or the internet, and emphasizes the importance of securing AI agents to prevent data exposure.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html</guid>
+      <pubDate>Fri, 04 Jul 2025 09:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros</title>
+      <link>https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html</link>
+      <description>Vulnerable Product: Sudo; CVE(s): CVE-2025-32462, CVE-2025-32463; Summary: Two security flaws were discovered in Sudo, a command-line utility for Linux and Unix-like operating systems. The vulnerabilities allow local attackers to escalate their privileges to root on susceptible machines. CVE-2025-32462 enables listed users to execute commands on unintended machines, while CVE-2025-32463 allows local users to obtain root access by using the --chroot option with a user-controlled directory.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html</guid>
+      <pubDate>Fri, 04 Jul 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission</title>
+      <link>https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html</link>
+      <description>Google has been ordered by a California court to pay $314 million over allegations that it misused Android device users' cellular data when idle, sending information to the company without permission. The verdict marks an end to a legal class-action complaint filed in 2019.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html</guid>
+      <pubDate>Fri, 04 Jul 2025 07:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/</link>
+      <description>Vulnerable Product: None; FYSA: There are no cybersecurity-relevant vulnerabilities or threats discussed in this article. Instead, it appears to be a collection of unrelated news and updates about OpenAI's ChatGPT and cloud security. The article mentions the possibility of an "Operator-like tool" being developed by OpenAI, but does not provide any information about potential vulnerabilities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/</guid>
+      <pubDate>Thu, 03 Jul 2025 23:22:31 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-469: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-469/</link>
@@ -1421,34 +1449,6 @@ FYSA: Threat actors have been advertising builders that provide ClickFix-weaponi
       <description>The article reports a renewed global spear-phishing campaign by the Iranian threat actor Educated Manticore (APT42), targeting high-value individuals with credential theft and bypassing multi-factor authentication through advanced social engineering tactics. The campaign poses a significant risk to academics, journalists, and geopolitical figures, particularly prominent Israeli figures.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144323</guid>
       <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Deploy Pubload Malware Using Tibetan Community Lures and Weaponized Filenames</title>
-      <link>https://gbhackers.com/chinese-hackers-deploy-pubload-malware-using-tibetan-community-lures/</link>
-      <description>This article reports on a targeted cyberattack campaign orchestrated by the China-aligned threat actor Hive0154. The campaign involves phishing attacks using culturally sensitive topics to manipulate trust and curiosity within the Tibetan community, as well as targeting other entities such as the U.S. Navy with lures referencing strategic military engagements.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144293</guid>
-      <pubDate>Thu, 26 Jun 2025 10:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixes Outlook bug causing crashes when opening emails</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/</link>
-      <description>Vulnerable Product: Microsoft Outlook; CVE(s): None; Summary: A bug causes classic Outlook to crash when opening emails or starting a new message, affecting users across all Microsoft 365 Office channels who updated Outlook for Microsoft 365 earlier this month. The issue occurs because Outlook cannot open the Forms Library.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/</guid>
-      <pubDate>Thu, 26 Jun 2025 10:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>US University Targeted by Androxgh0st Botnet Operators for C2 Logger Hosting</title>
-      <link>https://gbhackers.com/us-university-targeted-by-androxgh0st-botnet-operators/</link>
-      <description>The Androxgh0st botnet has been found to be a persistent and dynamic cyberthreat that has targeted the University of California, San Diego's "USArhythms" portal to host its command-and-control (C2) logger panels. The botnet exploits over 20 vulnerabilities, including Apache Shiro, Spring Framework, WordPress plugins, IoT devices, and others, to execute remote code, steal sensitive data, and deploy cryptomining payloads. It also utilizes webshells and OGNL payloads to maintain persistent access and facilitate further malware deployment.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144245</guid>
-      <pubDate>Thu, 26 Jun 2025 10:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decrement by one to rule them all: AsIO3.sys driver exploitation</title>
-      <link>https://blog.talosintelligence.com/decrement-by-one-to-rule-them-all/</link>
-      <description>This article appears to be an in-depth analysis of a privilege escalation exploit in a Windows kernel-mode driver. The author provides detailed information on the vulnerabilities and exploitation methods used, including the "decrement by one" primitive. The article also discusses the importance of proper security design and access controls in kernel-mode components.</description>
-      <guid isPermaLink="false">685ad99c178bd70001283c95</guid>
-      <pubDate>Thu, 26 Jun 2025 10:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
