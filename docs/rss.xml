@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 19:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 20:01:17 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Employee gets $920 for credentials used in $140 million bank heist</title>
+      <link>https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/</link>
+      <description>The article reports a social engineering attack on an employee at C&amp;M, a company that offers financial connectivity solutions. The attackers bribed the employee to gain access to confidential systems and steal nearly $140 million from six banks in Brazil. The incident highlights the importance of employee awareness and training in preventing such attacks.
+
+FYSA: The article discusses a sophisticated social engineering attack on an employee at C&amp;M, a company that offers financial connectivity solutions. The attackers bribed the employee to gain access to confidential systems and steal nearly $140 million from six banks in Brazil.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/</guid>
+      <pubDate>Mon, 07 Jul 2025 19:10:50 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-474: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-474/</link>
@@ -1450,13 +1459,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Vulnerable Product: MongoDB Server; CVE(s): CVE-2025-6709; Summary: A pre-authentication vulnerability in OIDC authentication of MongoDB Server enables unauthenticated attackers to trigger denial-of-service (DoS) conditions by exploiting improper input validation. The flaw affects versions before 7.0.17, 8.0.5, and 6.0.21, allowing for complete server crashes or post-authentication DoS in affected environments.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144457</guid>
       <pubDate>Fri, 27 Jun 2025 06:18:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>University Student Charged for Alleged Hacking and Data Theft</title>
-      <link>https://gbhackers.com/university-student-charged-for-alleged-hacking/</link>
-      <description>A former Western Sydney University student has been charged with 20 cyber offenses, including unauthorized access to restricted data, altering academic results, and threatening to sell confidential student information. The investigation was launched after the university reported suspicious incidents involving student data, and police executed a search warrant at the suspect's residence, seizing computer equipment and mobile devices believed to have been used in the commission of the offenses.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144452</guid>
-      <pubDate>Fri, 27 Jun 2025 06:05:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
