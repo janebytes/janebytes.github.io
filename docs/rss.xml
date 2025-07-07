@@ -6,8 +6,77 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jul 2025 22:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 10:05:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SSO 0-Day &amp; Fortinet Exploits, Allianz Breach, Social Media Ban Service Listed on Dark Web</title>
+      <link>https://socradar.io/sso-0-day-fortinet-exploits-allianz-breach-social-media-ban-service/</link>
+      <description>Vulnerable Product: Apereo CAS, Jasig, Keycloak with the CAS plugin; CVE(s): None; Summary: An alleged 0-day redirect vulnerability exists in major Single Sign-On (SSO) platforms, potentially allowing attackers to redirect users from trusted login portals to attacker-controlled domains, enabling phishing, session hijacking, or login bypass. The issue affects over 12,000 live systems across government, healthcare, finance, and international organizations.
+
+FYSA: Threat actors are advertising exploits targeting known Fortinet CVEs (CVE-2024-55591) and a stolen database linked to Allianz Seguros Spain, potentially containing approximately 4.6 million records. Additionally, a social media ban service is being promoted, offering targeted takedowns across multiple platforms.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061689</guid>
+      <pubDate>Mon, 07 Jul 2025 09:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors</title>
+      <link>https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html</link>
+      <description>The article discusses the use of a modified variant of a remote access trojan (RAT) called DRAT V2, used by the threat actor TAG-140 to target Indian government organizations. The malware, which is part of an "interchangeable suite" of RATs, allows for harvesting sensitive data and complicates attribution, detection, and monitoring efforts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html</guid>
+      <pubDate>Mon, 07 Jul 2025 04:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI says GPT-5 will unify breakthroughs from different models</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/</link>
+      <description>Vulnerable Product: None; Summary: This article does not discuss a vulnerability. Instead, it provides information on OpenAI's plans to unify multiple models into one, creating GPT-5, and improves the existing models.
+
+FYSA: Threat actors are using simple techniques to succeed in cloud attacks, with 8 key techniques revealed by Wiz's detections across thousands of organizations.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/</guid>
+      <pubDate>Mon, 07 Jul 2025 00:22:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hands on with Windows 11 Notepad's new markdown support</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/</link>
+      <description>Vulnerable Product: None; Summary: This article is not about a vulnerability, but rather discusses the addition of markdown text formatting in Windows 11's Notepad app. The feature allows users to apply different formatting options such as headings, bold and italic styling, and hyperlinks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/</guid>
+      <pubDate>Sun, 06 Jul 2025 23:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT is testing disruptive Study Together feature</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/</link>
+      <description>Vulnerable Product: None; FYSA: The article does not contain information about a vulnerability. Instead, it discusses new features and updates related to OpenAI's ChatGPT, including the potential introduction of "Study together" mode, new connectors for GPT Search and Deep Research, and upcoming developments with GPT-5.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/</guid>
+      <pubDate>Sun, 06 Jul 2025 23:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ingram Micro outage caused by SafePay ransomware attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/</link>
+      <description>The article reports on an ongoing outage at Ingram Micro caused by a SafePay ransomware attack. The attack led to the shutdown of internal systems and ransom notes were found on employee devices, although it's unclear if devices were actually encrypted.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/</guid>
+      <pubDate>Sat, 05 Jul 2025 15:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties</title>
+      <link>https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html</link>
+      <description>Vulnerable Product: Taiwan's National Security Bureau (NSB) warned about various Chinese-developed applications; CVE(s): None; Summary: The NSB detected excessive data collection, privacy infringement, and unauthorized data transmission from apps like RedNote, Weibo, TikTok, WeChat, and Baidu Cloud to China. These apps breached security indicators, including personal data collection, permission usage, data transmission, system information extraction, and biometric data access.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html</guid>
+      <pubDate>Sat, 05 Jul 2025 06:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS</title>
+      <link>https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html</link>
+      <description>Vulnerable Product: Multiple applications (TeamCity, Jenkins, Selenium Grid, Elasticsearch, Quarkus, Spring Boot, Apache Tomcat); CVE(s): None; Summary: Threat actors are exploiting exposed Java Debug Wire Protocol (JDWP) interfaces to obtain code execution capabilities and deploy cryptocurrency miners on compromised hosts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html</guid>
+      <pubDate>Sat, 05 Jul 2025 05:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Deep Research tests new connectors for more context</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/</link>
+      <description>Vulnerable Product: None; FYSA: The article discusses the integration of Slack with ChatGPT, a research AI agent. It mentions potential use cases for the integration, such as allowing ChatGPT to access an organization's chat and use messages in the context of research.
+
+(Note: Since there is no vulnerability mentioned in the article, I summarized it using the FYSA format)</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/</guid>
+      <pubDate>Fri, 04 Jul 2025 22:20:14 +0000</pubDate>
+    </item>
     <item>
       <title>Ingram Micro suffers global outage as internal systems inaccessible</title>
       <link>https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/</link>
@@ -1382,73 +1451,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC); CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two maximum-severity security flaws in Cisco ISE and ISE-PIC allow an unauthenticated attacker to execute arbitrary commands as the root user. The vulnerabilities stem from insufficient input validation and lack of file validation checks, and can be exploited by sending crafted API requests or uploading malicious files.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html</guid>
       <pubDate>Thu, 26 Jun 2025 13:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco ISE Vulnerability Allows Remote Attackers to Execute Malicious Commands</title>
-      <link>https://gbhackers.com/cisco-ise-vulnerability/</link>
-      <description>Vulnerable Product: Cisco ISE and ISE-PIC; CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two critical vulnerabilities (CVSS 10.0) in Cisco ISE and ISE-PIC platforms allow unauthenticated remote attackers to execute malicious commands as the root user, potentially taking complete control of affected systems. The flaws target specific APIs within Cisco ISE and ISE-PIC, enabling arbitrary code execution or file uploads with root privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144381</guid>
-      <pubDate>Thu, 26 Jun 2025 13:18:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks</title>
-      <link>https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html</link>
-      <description>The article discusses the ClickFix social engineering tactic, which has seen a 517% increase in detections between 2024 and the first half of this year. It involves fake CAPTCHA verifications and deception tactics to trick victims into running malicious scripts.
-
-FYSA: Threat actors have been advertising builders that provide ClickFix-weaponized landing pages, and researchers have demonstrated an alternative tactic called FileFix that works by tricking users into copying and pasting a file path into Windows File Explorer. Additionally, various phishing campaigns have been detected, including those using government domains, long-lived domains, malicious shortcut files, and impersonating U.S. state Departments of Motor Vehicles.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html</guid>
-      <pubDate>Thu, 26 Jun 2025 13:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 'Direct Send' abused to send phishing as internal users</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/</link>
-      <description>Vulnerable Product: Microsoft 365; CVE(s): None; Summary: The Direct Send feature in Microsoft 365 allows on-premises devices or cloud services to send emails through a tenant's smart host as if they originated from the organization's domain. This feature is designed for use by printers, scanners, and other devices that need to send messages on behalf of the company, but it does not require authentication, allowing remote users to send internal-looking emails from the company's domain.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/</guid>
-      <pubDate>Thu, 26 Jun 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams Adds Feature for Admins to Control 365 Certified Apps with Custom Rules</title>
-      <link>https://gbhackers.com/microsoft-teams-adds-feature-for-admins-to-control-365-certified-apps/</link>
-      <description>Microsoft is rolling out an update to Microsoft Teams that allows administrators to manage third-party app availability through rule-based settings in the Teams admin center. This feature aims to enhance security and streamline app management by enabling granular control over certified apps based on permissions, publisher names, or other criteria. The default setting will allow all certified apps, but admins can customize availability using the new "Customize availability" option.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144365</guid>
-      <pubDate>Thu, 26 Jun 2025 12:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>TrendMakers Sight Bulb Pro</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-177-02</link>
-      <description>Vulnerable Product: TrendMakers Sight Bulb Pro; CVE(s): CVE-2025-6521, CVE-2025-6522; Summary: Successful exploitation of these vulnerabilities could allow an attacker to capture sensitive information and execute arbitrary shell commands on the target device as root if connected to the local network segment.</description>
-      <guid isPermaLink="false">/node/23556</guid>
-      <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric Air Conditioning Systems</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-177-01</link>
-      <description>Vulnerable Product: Mitsubishi Electric air conditioning systems; CVE(s): CVE-2025-3699; Summary: An authentication bypass vulnerability exists in Mitsubishi Electric air conditioning systems, allowing an attacker to control the system or disclose information by exploiting this vulnerability. Successful exploitation could also allow tampering with the firmware of affected products.</description>
-      <guid isPermaLink="false">/node/23555</guid>
-      <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/06/26/cisa-releases-two-industrial-control-systems-advisories</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released two Industrial Control Systems (ICS) advisories regarding Mitsubishi Electric Air Conditioning Systems and TrendMakers Sight Bulb Pro. These advisories provide information on current security issues, vulnerabilities, and exploits surrounding ICS, and encourage users and administrators to review the technical details and mitigations.</description>
-      <guid isPermaLink="false">/node/23557</guid>
-      <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Authorities Charge 25-Year-Old British National Linked to IntelBroker Hacks</title>
-      <link>https://gbhackers.com/authorities-charge-25-year-old-british-national-linked-to-intelbroker-hacks/</link>
-      <description>A 25-year-old British national, Kai West, also known as "IntelBroker," has been charged and detained for allegedly leading a global campaign of data theft and cyber intrusions, targeting over 40 companies and organizations worldwide. West is accused of conspiring with other hackers to steal sensitive data and sell it on underground forums, causing estimated damages of over $25 million.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144353</guid>
-      <pubDate>Thu, 26 Jun 2025 11:39:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Exploit LLM Models to Enhance Hacking Activities</title>
-      <link>https://gbhackers.com/cybercriminals-exploit-llm-models/</link>
-      <description>Cybercriminals are leveraging large language models (LLMs) to amplify their hacking operations by utilizing uncensored LLMs, custom-built criminal variants, and exploiting legitimate LLMs through jailbreaking techniques. This "arms race" between attackers and developers underscores the challenge of securing AI systems as new jailbreaking methods emerge, posing a critical challenge to cybersecurity defenses.
-
-(Note: Since the article is not specifically about a vulnerability but contains cybersecurity-relevant content, I used the FYSA format)</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144331</guid>
-      <pubDate>Thu, 26 Jun 2025 11:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
