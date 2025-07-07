@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 17:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 18:03:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools</title>
+      <link>https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: This article does not describe a vulnerability in any specific product. Instead, it discusses various malicious campaigns and tactics used by threat actors to spread malware, steal sensitive information, and commit financial fraud. The article highlights the use of search engine optimization (SEO) poisoning techniques, malvertising, and social engineering tactics to deliver malware loaders like Oyster, Vidar, Lumma, and Legion Loader.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html</guid>
+      <pubDate>Mon, 07 Jul 2025 17:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qantas is being extorted in recent data-theft cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/</link>
+      <description>Qantas has confirmed a cyberattack that potentially exposed 6 million customers' data, with threat actors demanding extortion. The attack did not expose financial information or sensitive details, but warned customers to be cautious of scams and phishing emails.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/</guid>
+      <pubDate>Mon, 07 Jul 2025 17:02:02 +0000</pubDate>
+    </item>
     <item>
       <title>'Batavia' Windows spyware campaign targets dozens of Russian orgs</title>
       <link>https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/</link>
@@ -1443,20 +1457,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Vulnerable Product: Open VSX Registry; CVE(s): None; Summary: The Open VSX Registry contains a critical vulnerability that allows attackers to take control of the entire Visual Studio Code extensions marketplace by exploiting a CI issue in the publish-extensions repository. This could enable an attacker to publish malicious updates to every extension on Open VSX, posing a severe supply chain risk.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html</guid>
       <pubDate>Thu, 26 Jun 2025 16:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-student charged over hacking university for cheap parking, data breaches</title>
-      <link>https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/</link>
-      <description>The article describes a hacking case involving Birdie Kingston, a 27-year-old former Western Sydney University (WSU) student, who allegedly hacked into the university's systems multiple times starting from 2021. She is accused of unauthorized access, data theft, and compromising university infrastructure, affecting hundreds of staff and students.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/</guid>
-      <pubDate>Thu, 26 Jun 2025 16:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco warns of max severity RCE flaws in Identity Services Engine</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-rce-flaws-in-identity-services-engine/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and Passive Identity Connector (ISE-PIC); CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two critical, unauthenticated remote code execution (RCE) vulnerabilities affect ISE and ISE-PIC versions 3.4 and 3.3, allowing an attacker to execute arbitrary operating system commands as the root user or upload and execute arbitrary files with root privileges.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-rce-flaws-in-identity-services-engine/</guid>
-      <pubDate>Thu, 26 Jun 2025 15:20:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
