@@ -6,8 +6,85 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 18:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 19:05:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-474: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-474/</link>
+      <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7223; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of VPM files due to lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25044</guid>
+      <pubDate>Mon, 07 Jul 2025 19:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-475: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-475/</link>
+      <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7224; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool by exploiting an out-of-bounds write in the parsing of VPM files. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-25045</guid>
+      <pubDate>Mon, 07 Jul 2025 19:04:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-476: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-476/</link>
+      <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7225; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool by exploiting an out-of-bounds write in the parsing of VPM files. User interaction is required, and the issue results from the lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25047</guid>
+      <pubDate>Mon, 07 Jul 2025 19:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-477: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-477/</link>
+      <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7226; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool by parsing VPM files with an out-of-bounds write. User interaction is required, and the issue stems from a lack of proper validation of user-supplied data, which can result in writing past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-25048</guid>
+      <pubDate>Mon, 07 Jul 2025 19:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-478: (0Day) INVT VT-Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-478/</link>
+      <description>Vulnerable Product: INVT VT-Designer PM3 File Parser; CVE(s): CVE-2025-7227; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer by exploiting an out-of-bounds write in the parsing of PM3 files. User interaction is required, and the attack can be initiated through a malicious page or file.</description>
+      <guid isPermaLink="false">ZDI-CAN-25550</guid>
+      <pubDate>Mon, 07 Jul 2025 19:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-479: (0Day) INVT VT-Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-479/</link>
+      <description>Vulnerable Product: INVT, VT-Designer PM3 File Parser; CVE(s): CVE-2025-7228; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer by exploiting an out-of-bounds write issue in the parsing of PM3 files. User interaction is required to exploit this vulnerability, and the specific flaw exists due to the lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25571</guid>
+      <pubDate>Mon, 07 Jul 2025 19:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-480: (0Day) INVT VT-Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-480/</link>
+      <description>Vulnerable Product: INVT VT-Designer; CVE(s): CVE-2025-7229; Summary: The vulnerability allows remote attackers to execute arbitrary code by parsing PM3 files without proper validation of user-supplied data, resulting in a write past the end of an allocated data structure. User interaction is required to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-25722</guid>
+      <pubDate>Mon, 07 Jul 2025 19:03:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-481: (0Day) INVT VT-Designer PM3 File Parsing Type Confusion Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-481/</link>
+      <description>Vulnerable Product: INVT VT-Designer; CVE(s): CVE-2025-7230; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer by exploiting a type confusion condition in the parsing of PM3 files. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25723</guid>
+      <pubDate>Mon, 07 Jul 2025 19:02:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-482: (0Day) INVT VT-Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-482/</link>
+      <description>Vulnerable Product: INVT VT-Designer; CVE(s): CVE-2025-7231; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer. It requires user interaction, such as visiting a malicious page or opening a malicious file, and is caused by the lack of proper validation of user-supplied data in the parsing of PM3 files.</description>
+      <guid isPermaLink="false">ZDI-CAN-25724</guid>
+      <pubDate>Mon, 07 Jul 2025 19:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atomic macOS infostealer adds backdoor for persistent attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/</link>
+      <description>Vulnerable Product: Atomic macOS Stealer; CVE(s): None; Summary: The Atomic macOS info-stealer (AMOS) has been updated with a backdoor, allowing attackers to execute arbitrary remote commands, survive reboots, and maintain control over infected hosts indefinitely. The malware can log keystrokes, introduce additional payloads, or perform lateral movement. It also features string obfuscation and checks for sandbox or virtual machine environments to evade detection.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/</guid>
+      <pubDate>Mon, 07 Jul 2025 18:24:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>“No honor among thieves”: M&amp;S hacking group starts turf war</title>
+      <link>https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/</link>
+      <description>The article discusses a potential conflict between two ransomware groups, DragonForce and RansomHub, which could lead to increased risk of cyberattacks and double extortions. The instability in the extortion ecosystem can have serious implications for ransomware and data theft extortion victims. Additionally, the global cost of cybercrime is estimated to reach $10 trillion by 2025.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/</guid>
+      <pubDate>Mon, 07 Jul 2025 18:12:10 +0000</pubDate>
+    </item>
     <item>
       <title>SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools</title>
       <link>https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html</link>
@@ -44,6 +121,13 @@ FYSA: The article highlights the effectiveness of simple techniques used by thre
       <description>Vulnerable Product: Parallels Client; CVE(s): CVE-2025-6812; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Client by exploiting an uncontrolled search path element in the AppServer service, which loads an OpenSSL configuration file from an unsecured location. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability and execute arbitrary code in the context of a target user.</description>
       <guid isPermaLink="false">ZDI-CAN-25039</guid>
       <pubDate>Mon, 07 Jul 2025 14:02:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/07/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Multiple products; CVE(s): CVE-2014-3931, CVE-2016-10033, CVE-2019-5418, CVE-2019-9621; Summary: The Known Exploited Vulnerabilities (KEV) Catalog has added four new vulnerabilities, including a Multi-Router Looking Glass Buffer Overflow, PHPMailer Command Injection, Rails Ruby on Rails Path Traversal, and Synacor Zimbra Collaboration Suite Server-Side Request Forgery. These vulnerabilities are frequently targeted by malicious actors and pose significant risks to the federal enterprise and other organizations.</description>
+      <guid isPermaLink="false">/node/23600</guid>
+      <pubDate>Mon, 07 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More</title>
@@ -1373,90 +1457,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>A former Western Sydney University student has been charged with 20 cyber offenses, including unauthorized access to restricted data, altering academic results, and threatening to sell confidential student information. The investigation was launched after the university reported suspicious incidents involving student data, and police executed a search warrant at the suspect's residence, seizing computer equipment and mobile devices believed to have been used in the commission of the offenses.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144452</guid>
       <pubDate>Fri, 27 Jun 2025 06:05:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hawaiian Airlines discloses cyberattack, flights not affected</title>
-      <link>https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/</link>
-      <description>Hawaiian Airlines is investigating a cyberattack that has disrupted access to some of its systems, but did not affect flight safety. The airline has hired external cybersecurity experts and contacted relevant authorities to assist in the investigation.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/</guid>
-      <pubDate>Fri, 27 Jun 2025 05:37:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open VSX Marketplace Flaw Enables Millions of Developers at Risk of Supply Chain Attacks</title>
-      <link>https://gbhackers.com/open-vsx-marketplace-flaw/</link>
-      <description>Vulnerable Product: Open VSX Registry; CVE(s): None; Summary: A critical vulnerability in the Open VSX Registry, a marketplace for Visual Studio Code (VS Code) extensions, allowed attackers to seize control of the entire extensions marketplace, enabling the silent distribution of malicious updates to developer environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144446</guid>
-      <pubDate>Fri, 27 Jun 2025 04:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kansas City Man Pleads Guilty After Hacking to Promote His Cybersecurity Services</title>
-      <link>https://gbhackers.com/kansas-city-man-pleads-guilty-after-hacking/</link>
-      <description>A 32-year-old man in Kansas City has pleaded guilty to federal charges for hacking into multiple organizations' computer systems to promote his cybersecurity services. The methods used were physical breaches and digital exploits rather than sophisticated cyberattacks. He accessed sensitive information, manipulated systems, and caused significant damage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144443</guid>
-      <pubDate>Fri, 27 Jun 2025 04:42:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Actively exploited vulnerability gives extraordinary control over server fleets</title>
-      <link>https://arstechnica.com/security/2025/06/active-exploitation-of-ami-management-tool-imperils-thousands-of-servers/</link>
-      <description>Vulnerable Product: Unknown; CVE(s): CVE-2024-54085; Summary: The vulnerability allows attackers to implant malicious code in the firmware of BMCs (Baseboard Management Controllers), enabling them to evade detection, move laterally within the network, and cause significant operational disruption.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/06/active-exploitation-of-ami-management-tool-imperils-thousands-of-servers/</guid>
-      <pubDate>Thu, 26 Jun 2025 22:52:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>FTC approves $126 million in Fortnite refunds over ‘dark patterns’</title>
-      <link>https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/</link>
-      <description>The article discusses a settlement between the Federal Trade Commission (FTC) and Epic Games regarding allegations of violating children's privacy laws and using "dark patterns" to trick users into making unwanted purchases in Fortnite. The FTC has approved $126 million in refunds for 969,173 eligible players and reopened the claims portal for a third round of refunds.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/</guid>
-      <pubDate>Thu, 26 Jun 2025 20:27:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian APT35 Hackers Targeting High-Profile Cybersecurity Experts and Professors in Israel</title>
-      <link>https://gbhackers.com/iranian-apt35-hackers-targeting-high-profile-cybersecurity-experts/</link>
-      <description>Educated Manticore, an advanced persistent threat (APT) group associated with the Islamic Revolutionary Guard Corps' Intelligence Organization (IRGC-IO), has intensified its cyber-espionage operations targeting Israeli cybersecurity experts, computer science professors, and journalists. The group uses sophisticated spear-phishing campaigns, custom phishing kits, and legitimate-looking authentication flows to deceive victims.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144410</guid>
-      <pubDate>Thu, 26 Jun 2025 19:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBM WebSphere Application Server Flaw Enables Arbitrary Code Execution</title>
-      <link>https://gbhackers.com/ibm-websphere-application-server-flaw/</link>
-      <description>Vulnerable Product: IBM WebSphere Application Server; CVE(s): CVE-2025-36038; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected systems by deserializing untrusted data. It affects versions 9.0 and 8.5 of the IBM WebSphere Application Server, posing a significant risk to organizations using this middleware platform.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144354</guid>
-      <pubDate>Thu, 26 Jun 2025 18:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>nOAuth Exploit Enables Full Account Takeover of Entra Cross-Tenant SaaS Applications</title>
-      <link>https://gbhackers.com/noauth-exploit-enables-full-account-takeover/</link>
-      <description>Vulnerable Product: Microsoft Entra App Gallery; CVE(s): None; Summary: The nOAuth vulnerability allows attackers to achieve full account takeover across tenant boundaries by exploiting a critical authentication misconfiguration in OpenID Connect (OIDC) implementations. Attackers can impersonate legitimate users by manipulating mutable attributes like email addresses, gaining unauthorized access to sensitive data and enabling persistence and lateral movement within the compromised application.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144380</guid>
-      <pubDate>Thu, 26 Jun 2025 18:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brother printer bug in 689 models exposes default admin passwords</title>
-      <link>https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/</link>
-      <description>Vulnerable Product: Brother (689 models), Fujifilm (53 models), Toshiba (2 models), Konica Minolta (6 models), Ricoh (5 models); CVE(s): CVE-2024-51978; Summary: The default administrator password of 689 printer models from Brother and other manufacturers can be generated by remote attackers, allowing them to take control of devices, perform remote code execution, or pivot within networks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/</guid>
-      <pubDate>Thu, 26 Jun 2025 18:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Getting a career in cybersecurity isn’t easy, but this can help</title>
-      <link>https://blog.talosintelligence.com/getting-a-career-in-cybersecurity-isnt-easy-but-this-can-help/</link>
-      <description>Cybercriminals are increasingly exploiting Large Language Models (LLMs) by using uncensored versions, developing their own malicious LLMs or "jailbreaking" legitimate ones to bypass safety protocols. These compromised or malicious LLMs are then used to generate highly convincing phishing campaigns, create harmful code and automate various cybercrime operations, making attacks more sophisticated and scalable.</description>
-      <guid isPermaLink="false">685beb102e3f7200011b4a3b</guid>
-      <pubDate>Thu, 26 Jun 2025 18:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Weaponize and Obfuscate .NET Assemblies Using MacroPack</title>
-      <link>https://gbhackers.com/researchers-weaponize-and-obfuscate-net-assemblies/</link>
-      <description>BallisKit's MacroPack Pro tool introduces a scenario to obfuscate and weaponize .NET assemblies, making them less detectable by modern security solutions. The tool provides multiple obfuscation options, including converting static PInvoke imports into dynamic DInvoke imports and managing .NET's reflection capabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144370</guid>
-      <pubDate>Thu, 26 Jun 2025 17:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks</title>
-      <link>https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html</link>
-      <description>Vulnerable Product: Open VSX Registry; CVE(s): None; Summary: The Open VSX Registry contains a critical vulnerability that allows attackers to take control of the entire Visual Studio Code extensions marketplace by exploiting a CI issue in the publish-extensions repository. This could enable an attacker to publish malicious updates to every extension on Open VSX, posing a severe supply chain risk.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html</guid>
-      <pubDate>Thu, 26 Jun 2025 16:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
