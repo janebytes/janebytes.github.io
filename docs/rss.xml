@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 13:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 14:02:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-473: Parallels Client Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-473/</link>
+      <description>Vulnerable Product: Parallels Client; CVE(s): CVE-2025-6812; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Client by exploiting an uncontrolled search path element in the AppServer service, which loads an OpenSSL configuration file from an unsecured location. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability and execute arbitrary code in the context of a target user.</description>
+      <guid isPermaLink="false">ZDI-CAN-25039</guid>
+      <pubDate>Mon, 07 Jul 2025 14:02:37 +0000</pubDate>
+    </item>
     <item>
       <title>⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More</title>
       <link>https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html</link>
@@ -1448,13 +1455,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Nicholas Michael Kloster, a 32-year-old Kansas City man, has pleaded guilty to hacking multiple organizations to advertise his cybersecurity services. He accessed the networks of three organizations, including a health club and a Missouri nonprofit corporation, and used the access to offer his services as a cybersecurity consultant.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/</guid>
       <pubDate>Thu, 26 Jun 2025 14:03:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 key takeaways from the Scattered Spider attacks on insurance firms</title>
-      <link>https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/</link>
-      <description>Scattered Spider, a group of threat actors, has been linked to attacks on several US insurance companies, including Aflac, Philadelphia Insurance Companies, and Erie Insurance. The attackers used identity-based techniques, such as impersonating IT users or employees, to reset passwords and gain access to victim environments. This is not an isolated incident, as Scattered Spider has a history of high-profile breaches in the insurance industry.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/</guid>
-      <pubDate>Thu, 26 Jun 2025 14:02:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
