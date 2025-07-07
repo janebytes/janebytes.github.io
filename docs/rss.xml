@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 16:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 17:01:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>'Batavia' Windows spyware campaign targets dozens of Russian orgs</title>
+      <link>https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/</link>
+      <description>The article describes a previously undocumented spyware called "Batavia" that targets large industrial enterprises in Russia through phishing email campaigns. The malware has multiple stages, including profile gathering, data exfiltration, and additional payload downloads, indicating an espionage operation on Russia's industrial activity.
+
+FYSA: The article highlights the effectiveness of simple techniques used by threat actors, even as cloud attacks become more sophisticated.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/</guid>
+      <pubDate>Mon, 07 Jul 2025 16:48:39 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers abuse leaked Shellter red team tool to deploy infostealers</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/</link>
@@ -1448,13 +1457,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and Passive Identity Connector (ISE-PIC); CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two critical, unauthenticated remote code execution (RCE) vulnerabilities affect ISE and ISE-PIC versions 3.4 and 3.3, allowing an attacker to execute arbitrary operating system commands as the root user or upload and execute arbitrary files with root privileges.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-rce-flaws-in-identity-services-engine/</guid>
       <pubDate>Thu, 26 Jun 2025 15:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit ChatGPT, Cisco AnyConnect, Google Meet, and Teams in Attacks on SMBs</title>
-      <link>https://gbhackers.com/threat-actors-exploit-chatgpt-cisco-anyconnect-google-meet-and-teams/</link>
-      <description>Threat actors are leveraging the trusted names of popular software and services like ChatGPT, Cisco AnyConnect, Google Meet, and Microsoft Teams to orchestrate sophisticated cyberattacks against SMBs. The report reveals that approximately 8,500 SMB users faced attacks involving malware or potentially unwanted software (PUS) disguised as legitimate tools, with Zoom emerging as the most mimicked platform.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144398</guid>
-      <pubDate>Thu, 26 Jun 2025 15:17:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
