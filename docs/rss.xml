@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 14:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 15:02:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers abuse leaked Shellter red team tool to deploy infostealers</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/</link>
+      <description>Vulnerable Product: Shellter; CVE(s): None; Summary: Hackers used Shellter Elite, a commercial AV/EDR evasion loader for penetration testing, in attacks after a customer leaked a copy of the software. The misuse was discovered by security researchers and an update has been released to address the issue.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/</guid>
+      <pubDate>Mon, 07 Jul 2025 14:49:27 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-473: Parallels Client Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-473/</link>
@@ -1448,13 +1455,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Threat actors are leveraging the trusted names of popular software and services like ChatGPT, Cisco AnyConnect, Google Meet, and Microsoft Teams to orchestrate sophisticated cyberattacks against SMBs. The report reveals that approximately 8,500 SMB users faced attacks involving malware or potentially unwanted software (PUS) disguised as legitimate tools, with Zoom emerging as the most mimicked platform.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144398</guid>
       <pubDate>Thu, 26 Jun 2025 15:17:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man pleads guilty to hacking networks to pitch security services</title>
-      <link>https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/</link>
-      <description>Nicholas Michael Kloster, a 32-year-old Kansas City man, has pleaded guilty to hacking multiple organizations to advertise his cybersecurity services. He accessed the networks of three organizations, including a health club and a Missouri nonprofit corporation, and used the access to offer his services as a cybersecurity consultant.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/</guid>
-      <pubDate>Thu, 26 Jun 2025 14:03:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
