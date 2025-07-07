@@ -6,8 +6,26 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 11:01:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 12:06:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More</title>
+      <link>https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html</link>
+      <description>This article appears to be a collection of various cybersecurity-related news and developments, covering topics such as malware attacks, phishing campaigns, data breaches, and security updates from major technology companies. There are no specific vulnerabilities mentioned in the article.
+
+However, it's worth noting that the article does discuss some common attack vectors and tactics used by malicious actors, including smishing campaigns, email bombing, and file system redirection attacks. It also highlights the importance of robust cybersecurity measures and the need for organizations to stay vigilant against emerging threats.
+
+Overall, while this article is not focused on a specific vulnerability, it provides valuable insights into the current state of cybersecurity and the types of threats that organizations may face in today's digital landscape.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html</guid>
+      <pubDate>Mon, 07 Jul 2025 11:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manufacturing Security: Why Default Passwords Must Go</title>
+      <link>https://thehackernews.com/2025/07/manufacturing-security-why-default.html</link>
+      <description>The article highlights the risks associated with using default passwords in various devices and software systems. It emphasizes that default passwords provide an easy entry point for attackers, allowing them to recruit botnets, launch ransomware attacks, and compromise entire networks or partner systems.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/manufacturing-security-why-default.html</guid>
+      <pubDate>Mon, 07 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SSO 0-Day &amp; Fortinet Exploits, Allianz Breach, Social Media Ban Service Listed on Dark Web</title>
       <link>https://socradar.io/sso-0-day-fortinet-exploits-allianz-breach-social-media-ban-service/</link>
@@ -1437,20 +1455,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Scattered Spider, a group of threat actors, has been linked to attacks on several US insurance companies, including Aflac, Philadelphia Insurance Companies, and Erie Insurance. The attackers used identity-based techniques, such as impersonating IT users or employees, to reset passwords and gain access to victim environments. This is not an isolated incident, as Scattered Spider has a history of high-profile breaches in the insurance industry.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/</guid>
       <pubDate>Thu, 26 Jun 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp to Introduce AI-Powered Message Summaries for Faster Catch-Up</title>
-      <link>https://gbhackers.com/whatsapp-to-introduce-ai-powered-message-summaries/</link>
-      <description>WhatsApp has announced the upcoming launch of "Message Summaries" - an AI-powered feature that provides concise summaries of unread messages. The feature is designed to help users quickly catch up on conversations without compromising privacy. The summaries are generated through "Private Processing" technology, which means neither Meta nor WhatsApp can see the messages or summaries, and users have control over whether to enable the feature and customize which chats are eligible for AI-powered summaries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144388</guid>
-      <pubDate>Thu, 26 Jun 2025 13:44:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access</title>
-      <link>https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC); CVE(s): CVE-2025-20281, CVE-2025-20282; Summary: Two maximum-severity security flaws in Cisco ISE and ISE-PIC allow an unauthenticated attacker to execute arbitrary commands as the root user. The vulnerabilities stem from insufficient input validation and lack of file validation checks, and can be exploited by sending crafted API requests or uploading malicious files.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html</guid>
-      <pubDate>Thu, 26 Jun 2025 13:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
