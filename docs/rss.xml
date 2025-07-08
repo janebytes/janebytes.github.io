@@ -6,8 +6,21 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 10:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 11:05:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>GoldMelody’s Hidden Chords: Initial Access Broker In-Memory IIS Modules Revealed</title>
+      <link>https://unit42.paloaltonetworks.com/initial-access-broker-exploits-leaked-machine-keys/</link>
+      <description>This article appears to be a threat brief on an Initial Access Broker (IAB) group known as TGR-CRI-0045, which is leveraging in-memory IIS techniques for persistent access. The article discusses the group's use of ASP.NET View State deserialization vulnerabilities and its exploitation of exposed Machine Keys.
+
+The article provides details on the group's tactics, techniques, and procedures (TTPs), including the use of reflective .NET assemblies, TxPortMap tooling, and GodPotato privilege escalation technique. It also discusses the group's post-exploitation activities, such as code injection attacks using publicly disclosed ASP.NET machine keys.
+
+The article concludes by highlighting the need for organizations to prioritize identifying and remediating compromised Machine Keys, as outlined by Microsoft. It also mentions that Palo Alto Networks customers are better protected from these threats through various products and features.
+
+Overall, this article is not discussing a specific vulnerability (software, hardware, or firmware), but rather providing insights on an IAB group's TTPs and the need for organizations to be aware of these types of attacks.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=145084</guid>
+      <pubDate>Tue, 08 Jul 2025 10:00:43 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms</title>
       <link>https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</link>
@@ -1454,13 +1467,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Vulnerable Product: Mitsubishi Electric air conditioning systems; CVE(s): CVE-2025-3699; Summary: A critical security vulnerability allows hackers to bypass authentication and remotely control affected units, enabling unauthorized access, system manipulation, and firmware tampering. Exploitation could disrupt climate control in offices or data centers, posing risks to safety, privacy, and operational continuity.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144472</guid>
       <pubDate>Fri, 27 Jun 2025 07:45:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-20281 &amp; CVE-2025-20282: Critical Cisco ISE Vulnerabilities Allow Root-Level RCE</title>
-      <link>https://socradar.io/cve-2025-20281-cve-2025-20282-critical-cisco-ise-rce/</link>
-      <description>Vulnerable Product: Cisco ISE (Identity Services Engine) and ISE Passive Identity Connector (ISE-PIC); CVE(s): CVE-2025-20281 (CVSS 9.8), CVE-2025-20282 (CVSS 10.0); Summary: Two critical vulnerabilities in Cisco ISE and ISE-PIC allow remote attackers to execute arbitrary code as the root user, or upload and execute malicious files, without requiring credentials; exploitation details include unauthenticated access vectors and insufficient validation of user input.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061310</guid>
-      <pubDate>Fri, 27 Jun 2025 07:43:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
