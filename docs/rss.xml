@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 17:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 18:05:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 10 KB5062554 cumulative update released with 13 changes, fixes</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/</link>
+      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): One zero-day vulnerability and 136 other flaws; Summary: The Windows 10 KB5062554 cumulative update contains fixes for one zero-day vulnerability and 136 other flaws. It is mandatory and will automatically start installing once checked for updates.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/</guid>
+      <pubDate>Tue, 08 Jul 2025 17:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 KB5062553 &amp; KB5062552  cumulative updates released</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/</link>
+      <description>There are no specific cybersecurity-related vulnerabilities or threats mentioned in this article. The article is focused on describing the new features and updates included in the latest Windows 11 cumulative updates, such as changes to the taskbar, Narrator, and Voice Access. Additionally, the article includes a brief mention of cloud attacks growing more sophisticated but does not provide any specific details or recommendations for mitigating these threats.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/</guid>
+      <pubDate>Tue, 08 Jul 2025 17:32:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft July 2025 Patch Tuesday fixes one zero-day, 137 flaws</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2025-patch-tuesday-fixes-one-zero-day-137-flaws/</link>
+      <description>Vulnerable Product: Microsoft SQL Server; CVE(s): CVE-2025-49719; Summary: A publicly disclosed zero-day vulnerability in Microsoft SQL Server allows a remote, unauthenticated attacker to access data from uninitialized memory. The flaw can be fixed by installing the latest version of Microsoft SQL Server and by installing the Microsoft OLE DB Driver 18 or 19.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2025-patch-tuesday-fixes-one-zero-day-137-flaws/</guid>
+      <pubDate>Tue, 08 Jul 2025 17:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play</title>
+      <link>https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html</link>
+      <description>An Android banking malware campaign, known as Anatsa, has targeted users in North America by distributing a trojan disguised as a "PDF Update" to a document viewer app. The malware can steal credentials through overlay and keylogging attacks, conduct Device-Takeover Fraud (DTO), and receive a dynamic list of targeted financial institutions from an external server.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html</guid>
+      <pubDate>Tue, 08 Jul 2025 16:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>Android malware Anatsa infiltrates Google Play to target US banks</title>
       <link>https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/</link>
@@ -37,6 +65,20 @@
 FYSA: This is an example of a broader trend of software supply chain attacks, where attackers weaponize public repositories like GitHub and npm to deliver malware directly into developer environments. The attack highlights the importance of secure development practices and the need for continuous monitoring and auditing of open-source dependencies.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html</guid>
       <pubDate>Tue, 08 Jul 2025 13:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emerson ValveLink Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-189-01</link>
+      <description>Vulnerable Product: Emerson ValveLink Products; CVE(s): CVE-2025-52579, CVE-2025-50109, CVE-2025-46358, CVE-2025-48496, CVE-2025-53471; Summary: Successful exploitation of these vulnerabilities could allow an attacker with access to the system to read sensitive information stored in cleartext, tamper with parameters, and run un-authorized code. The affected products are ValveLink SOLO, ValveLink DTM, ValveLink PRM, and ValveLink SNAP-ON, all versions prior to ValveLink 14.0.</description>
+      <guid isPermaLink="false">/node/23602</guid>
+      <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases One Industrial Control Systems Advisory</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/08/cisa-releases-one-industrial-control-systems-advisory</link>
+      <description>CISA released an Industrial Control Systems (ICS) advisory on July 8, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisory is for Emerson ValveLink Products.</description>
+      <guid isPermaLink="false">/node/23603</guid>
+      <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>5 Ways Identity-based Attacks Are Breaching Retail</title>
@@ -1425,48 +1467,6 @@ This article discusses Cloudflare's Orange Meets video calling app, which has im
       <description>This article does not describe a vulnerability. Instead, it discusses various cybersecurity-related topics, including threat actors, ransomware groups, data breaches, and insider leaks. The article provides insights into the activities of these threat actors and their tactics, as well as the consequences of their actions.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061341</guid>
       <pubDate>Fri, 27 Jun 2025 13:42:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>PUBLOAD and Pubshell Malware Used in Mustang Panda's Tibet-Specific Attack</title>
-      <link>https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html</link>
-      <description>The article reports on a cyber espionage campaign attributed to Mustang Panda, a China-linked threat actor, targeting the Tibetan community. The campaign uses spear-phishing attacks with Tibet-themed lures to distribute malware, including PUBLOAD and Pubshell, which are used to create reverse shells and execute commands on compromised hosts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html</guid>
-      <pubDate>Fri, 27 Jun 2025 13:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams to Auto-Detect Work Location Using Company Wi-Fi</title>
-      <link>https://gbhackers.com/microsoft-teams-to-auto-detect-work-location/</link>
-      <description>This article discusses Microsoft Teams' new feature that automatically detects users' work locations when they connect to their organization's Wi-Fi network. The feature aims to streamline the hybrid workplace experience by eliminating manual updates and improving collaboration, resource management, and employee privacy.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144558</guid>
-      <pubDate>Fri, 27 Jun 2025 12:32:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leeds United And Reflectiz Partner To Share Insights On Proactive Web Security After Cyber Attack</title>
-      <link>https://gbhackers.com/leeds-united-and-reflectiz-partner-to-share-insights-on-proactive-web-security-after-cyber-attack/</link>
-      <description>The article announces an upcoming webinar between Leeds United FC and Reflectiz, discussing proactive web security measures after a Magecart attack on Leeds United's online shop. The webinar will feature Graham Peck, Head of IT and Security at Leeds United, and Isaac Moddel, VP Sales at Reflectiz, sharing insights and best practices to safeguard digital assets and customer data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144547</guid>
-      <pubDate>Fri, 27 Jun 2025 12:26:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Let’s Encrypt Launches 6-Day Certificates for IP-Based SSL Encryption</title>
-      <link>https://gbhackers.com/lets-encrypt-launches-6-day-certificates/</link>
-      <description>Let's Encrypt is preparing to issue SSL/TLS certificates that include IP addresses in their Subject Alternative Name (SAN) fields, enabling secure communication for a wider range of internet-connected devices and services. The new certificates will have a short-lived validity period of six days to minimize the risk window in case of a key compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144545</guid>
-      <pubDate>Fri, 27 Jun 2025 11:56:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hawaiian Airlines Targeted in Cyberattack, Systems Compromised</title>
-      <link>https://gbhackers.com/hawaiian-airlines-targeted-in-cyberattack/</link>
-      <description>Hawaiian Airlines has experienced a significant cybersecurity incident that has disrupted parts of its IT infrastructure, with no group claiming responsibility or confirming whether ransomware was involved. Despite the disruption, flights are operating safely and as scheduled, with the airline engaging federal authorities and external cybersecurity experts to assist in investigating the breach and restoring affected systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144540</guid>
-      <pubDate>Fri, 27 Jun 2025 11:44:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hunt Electronic DVR Vulnerability Leaves Admin Credentials Unprotected</title>
-      <link>https://gbhackers.com/hunt-electronic-dvr-vulnerability/</link>
-      <description>Vulnerable Product: Hunt Electronics Hybrid DVRs; CVE(s): CVE-2025-6561; Summary: The hybrid DVRs from Hunt Electronics, specifically models HBF-09KD and HBF-16NK running firmware version V3.1.67_1786 BB11115 or earlier, contain a critical vulnerability (CVE-2025-6561) that allows unauthenticated remote attackers to retrieve the system's configuration file, which contains administrator credentials in plaintext, granting full administrative access to the compromised DVR.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144534</guid>
-      <pubDate>Fri, 27 Jun 2025 11:30:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
