@@ -6,8 +6,31 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 14:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 15:03:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Overcoming Technical Barriers in Desktop and Application Virtualization</title>
+      <link>https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/</link>
+      <description>The article discusses the challenges and risks associated with desktop and application virtualization, including security risks from exposed firewall ports, lateral movement threats, and network performance issues. It highlights the importance of implementing a Zero Trust architecture and Multi-Factor Authentication (MFA) to mitigate these risks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/</guid>
+      <pubDate>Tue, 08 Jul 2025 14:09:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Chrome extensions with 1.7M installs found on Web Store</title>
+      <link>https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/</link>
+      <description>Vulnerable Product: Google Chrome Web Store; CVE(s): None; Summary: Malicious extensions with over 1.7 million downloads in the Google Chrome Web Store can track users, steal browser activity, and redirect to potentially unsafe web addresses. The extensions, posing as legitimate tools, were discovered by researchers at Koi Security and reported to Google.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/</guid>
+      <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension</title>
+      <link>https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html</link>
+      <description>Vulnerable Product: Microsoft Visual Studio Code (VS Code) extension Ethcode; CVE(s): None; Summary: A supply chain attack compromised the Ethcode VS Code extension, which has been installed over 6,000 times. The attacker added a malicious dependency called "keythereum-utils" that downloads an unknown second-stage payload, potentially capable of stealing cryptocurrency assets or poisoning smart contracts.
+
+FYSA: This is an example of a broader trend of software supply chain attacks, where attackers weaponize public repositories like GitHub and npm to deliver malware directly into developer environments. The attack highlights the importance of secure development practices and the need for continuous monitoring and auditing of open-source dependencies.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html</guid>
+      <pubDate>Tue, 08 Jul 2025 13:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>5 Ways Identity-based Attacks Are Breaching Retail</title>
       <link>https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html</link>
@@ -1444,29 +1467,6 @@ This article discusses Cloudflare's Orange Meets video calling app, which has im
       <description>The article discusses the challenges faced by Security Operations Centers (SOCs) in today's cybersecurity landscape, including an increase in complex threats, false positives, and staffing shortages. It highlights the benefits of using agentic AI-powered SOCs to automate routine tasks, filter out noise, and surface high-priority alerts for human analysts to focus on. The article also emphasizes the importance of maximizing the impact of existing skilled staff, reducing burnout, and improving operational efficiency.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html</guid>
       <pubDate>Fri, 27 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit</title>
-      <link>https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html</link>
-      <description>A Chinese-speaking threat actor, attributed with medium confidence to Silver Fox (aka Void Arachne), has been observed delivering Sainbox RAT and the open-source Hidden rootkit through phishing websites. The campaign leverages fake software installers, similar to previous attacks that targeted Chinese-speaking users.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html</guid>
-      <pubDate>Fri, 27 Jun 2025 10:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClickFix Attacks Soar by 500%: Hackers Intensify Use of This Manipulative Technique to Deceive Users</title>
-      <link>https://gbhackers.com/hackers-intensify-use-of-this-manipulative-technique-to-deceive-users/</link>
-      <description>ClickFix is a novel social engineering technique that has surged in prevalence by 517% between 2024 and 2025, exploiting user trust in online verification processes. It tricks users into copying malicious scripts under the guise of resolving fake errors or completing verification checks, ultimately leading to severe system compromises. The threat operates by presenting users with counterfeit prompts mimicking legitimate services, and has been adopted by nation-state-aligned groups for initial access across Windows, macOS, and Linux platforms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144475</guid>
-      <pubDate>Fri, 27 Jun 2025 09:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT-C-36 Hackers Launching Cyberattacks on Government Entities, Financial Sectors, and Critical Systems</title>
-      <link>https://gbhackers.com/apt-c-36-hackers-launching-cyberattacks/</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2024-43451; Summary: The article discusses the threat group APT-C-36 (Blind Eagle) that exploits vulnerabilities with social engineering. They use phishing emails as an initial attack vector, deploying RATs and leveraging WebDAV requests to deliver malware. Although a related vulnerability was patched, Blind Eagle adapted and continued attacks.
-
-FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (TTPs), including the use of phishing emails, Remote Access Trojans (RATs), and WebDAV requests to deliver malware. It also emphasizes the importance of advanced security solutions capable of detecting and containing evolving threats in real-time to ensure robust defense against sophisticated actors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144461</guid>
-      <pubDate>Fri, 27 Jun 2025 09:24:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
