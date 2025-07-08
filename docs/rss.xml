@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 15:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 16:01:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Android malware Anatsa infiltrates Google Play to target US banks</title>
+      <link>https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/</link>
+      <description>Vulnerable Product: Hybrid Cars Simulator, Drift &amp; Racing; CVE(s): None; Summary: The Anatsa banking trojan was found in Google Play as an app posing as a PDF viewer that had over 50,000 downloads. The malware becomes active immediately after installation and tracks users launching North American banking apps, serving overlays, keylogging, or automating transactions.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/</guid>
+      <pubDate>Tue, 08 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Overcoming Technical Barriers in Desktop and Application Virtualization</title>
       <link>https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/</link>
@@ -1460,13 +1467,6 @@ This article discusses Cloudflare's Orange Meets video calling app, which has im
       <description>Vulnerable Product: Hunt Electronics Hybrid DVRs; CVE(s): CVE-2025-6561; Summary: The hybrid DVRs from Hunt Electronics, specifically models HBF-09KD and HBF-16NK running firmware version V3.1.67_1786 BB11115 or earlier, contain a critical vulnerability (CVE-2025-6561) that allows unauthenticated remote attackers to retrieve the system's configuration file, which contains administrator credentials in plaintext, granting full administrative access to the compromised DVR.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144534</guid>
       <pubDate>Fri, 27 Jun 2025 11:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business Case for Agentic AI SOC Analysts</title>
-      <link>https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html</link>
-      <description>The article discusses the challenges faced by Security Operations Centers (SOCs) in today's cybersecurity landscape, including an increase in complex threats, false positives, and staffing shortages. It highlights the benefits of using agentic AI-powered SOCs to automate routine tasks, filter out noise, and surface high-priority alerts for human analysts to focus on. The article also emphasizes the importance of maximizing the impact of existing skilled staff, reducing burnout, and improving operational efficiency.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html</guid>
-      <pubDate>Fri, 27 Jun 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
