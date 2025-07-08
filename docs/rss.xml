@@ -6,8 +6,246 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 20:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 21:10:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-555: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-555/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7308; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the target must visit a malicious page or open a malicious file. The issue results from lack of proper validation of user-supplied data, leading to memory corruption.</description>
+      <guid isPermaLink="false">ZDI-CAN-26389</guid>
+      <pubDate>Tue, 08 Jul 2025 21:10:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-556: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-556/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7310; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition caused by the lack of proper validation of user-supplied data during DWG file parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26393</guid>
+      <pubDate>Tue, 08 Jul 2025 21:10:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-557: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-557/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7309; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26391</guid>
+      <pubDate>Tue, 08 Jul 2025 21:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-558: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-558/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7311; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition.</description>
+      <guid isPermaLink="false">ZDI-CAN-26395</guid>
+      <pubDate>Tue, 08 Jul 2025 21:10:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-559: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-559/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7312; Summary: The IrfanView CADImage Plugin contains an out-of-bounds read remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26398</guid>
+      <pubDate>Tue, 08 Jul 2025 21:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-560: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-560/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7313; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing DWG files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data, leading to memory corruption.</description>
+      <guid isPermaLink="false">ZDI-CAN-26399</guid>
+      <pubDate>Tue, 08 Jul 2025 21:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-561: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-561/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7314; Summary: The IrfanView CADImage Plugin contains a memory corruption remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, leading to a memory corruption condition.</description>
+      <guid isPermaLink="false">ZDI-CAN-26400</guid>
+      <pubDate>Tue, 08 Jul 2025 21:09:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-562: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-562/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7315; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, and the attacker can leverage this vulnerability to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26408</guid>
+      <pubDate>Tue, 08 Jul 2025 21:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-563: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-563/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7316; Summary: The IrfanView CADImage Plugin suffers from a remote code execution vulnerability due to the lack of proper validation of user-supplied data during DWG file parsing, allowing attackers to execute arbitrary code with user interaction.</description>
+      <guid isPermaLink="false">ZDI-CAN-26410</guid>
+      <pubDate>Tue, 08 Jul 2025 21:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-564: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-564/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7317; Summary: The IrfanView CADImage Plugin is vulnerable to a remote code execution vulnerability due to the lack of proper validation of user-supplied data during DWG file parsing. An attacker can exploit this by requiring user interaction, such as visiting a malicious page or opening a malicious file, resulting in memory corruption and arbitrary code execution in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26411</guid>
+      <pubDate>Tue, 08 Jul 2025 21:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-565: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-565/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7318; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin, requiring user interaction. The flaw exists within the parsing of DWG files and results from a lack of proper validation of user-supplied data, leading to memory corruption. An attacker can leverage this vulnerability to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26412</guid>
+      <pubDate>Tue, 08 Jul 2025 21:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-566: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-566/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7319; Summary: The IrfanView CADImage Plugin contains an out-of-bounds read remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, and the issue exists in the parsing of DWG files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26413</guid>
+      <pubDate>Tue, 08 Jul 2025 21:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-567: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-567/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7320; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DXF files, requiring user interaction. An attacker can leverage this vulnerability to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26418</guid>
+      <pubDate>Tue, 08 Jul 2025 21:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-568: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-568/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7321; Summary: The IrfanView CADImage Plugin is vulnerable to a remote code execution vulnerability due to memory corruption in the parsing of DWG files. User interaction is required, and an attacker can execute arbitrary code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26421</guid>
+      <pubDate>Tue, 08 Jul 2025 21:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-569: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-569/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7322; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the specific flaw exists within the parsing of DWG files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26423</guid>
+      <pubDate>Tue, 08 Jul 2025 21:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-570: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-570/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7323; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The flaw exists within the parsing of DWG files and can result in memory corruption.</description>
+      <guid isPermaLink="false">ZDI-CAN-26428</guid>
+      <pubDate>Tue, 08 Jul 2025 21:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-571: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-571/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7324; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue exists in the parsing of DXF files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26430</guid>
+      <pubDate>Tue, 08 Jul 2025 21:06:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-572: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-572/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7325; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin, requiring user interaction to exploit. The issue exists in the parsing of DXF files due to lack of proper validation of user-supplied data, resulting in a memory corruption condition.</description>
+      <guid isPermaLink="false">ZDI-CAN-26434</guid>
+      <pubDate>Tue, 08 Jul 2025 21:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-573: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-573/</link>
+      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7299; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files, requiring user interaction. The issue stems from the lack of proper validation of user-supplied data, which can result in a memory corruption condition.</description>
+      <guid isPermaLink="false">ZDI-CAN-26376</guid>
+      <pubDate>Tue, 08 Jul 2025 21:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-574: Siemens SINEC NMS reqToChangePassword Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-574/</link>
+      <description>Vulnerable Product: Siemens SINEC NMS; CVE(s): CVE-2025-40736; Summary: The vulnerability allows remote attackers to bypass authentication on affected installations of Siemens SINEC NMS, with no prior authentication required. The flaw exists within the implementation of the reqToChangePassword method and results in access to password change functionality.</description>
+      <guid isPermaLink="false">ZDI-CAN-26569</guid>
+      <pubDate>Tue, 08 Jul 2025 21:05:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-575: Siemens SINEC NMS unZipJarFilestoLocation Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-575/</link>
+      <description>Vulnerable Product: Siemens SINEC NMS; CVE(s): CVE-2025-40737; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Siemens SINEC NMS. Authentication is required, but the existing mechanism can be bypassed due to a lack of proper validation of user-supplied paths in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-26571</guid>
+      <pubDate>Tue, 08 Jul 2025 21:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-576: Siemens SINEC NMS uploadFWBinary Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-576/</link>
+      <description>Vulnerable Product: Siemens SINEC NMS; CVE(s): CVE-2025-40738; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Siemens SINEC NMS, bypassing existing authentication mechanisms. The flaw exists in the implementation of the uploadFWBinary method due to improper validation of a user-supplied path prior to file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-26572</guid>
+      <pubDate>Tue, 08 Jul 2025 21:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-577: Microsoft Windows AppX Deployment Service Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-577/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-48820; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which can be used to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26358</guid>
+      <pubDate>Tue, 08 Jul 2025 21:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-578: Microsoft Windows win32kfull Integer Overflow Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-578/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-49742; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which results from an integer overflow before writing to memory.</description>
+      <guid isPermaLink="false">ZDI-CAN-26768</guid>
+      <pubDate>Tue, 08 Jul 2025 21:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-579: Microsoft PC Manager Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-579/</link>
+      <description>Vulnerable Product: Microsoft PC Manager; CVE(s): CVE-2025-47993; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft PC Manager. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which can be used to execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26249</guid>
+      <pubDate>Tue, 08 Jul 2025 21:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-580: (Pwn2Own) Microsoft SharePoint ToolPane Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-580/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49706; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Microsoft SharePoint, with no required authentication needed for exploitation. The flaw exists in the handling of the Referer HTTP header provided to the ToolPane endpoint, allowing an attacker to access a protected API and bypass authentication.</description>
+      <guid isPermaLink="false">ZDI-CAN-27162</guid>
+      <pubDate>Tue, 08 Jul 2025 21:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-581: (Pwn2Own) Microsoft SharePoint DataSetSurrogateSelector Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-581/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49704; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft SharePoint Server by deserializing untrusted data, bypassing existing authentication mechanisms. The flaw exists within the DataSetSurrogateSelector class due to lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-27247</guid>
+      <pubDate>Tue, 08 Jul 2025 21:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-582: Microsoft Windows Startup Folder SmartScreen Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-582/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-49740; Summary: This vulnerability allows remote attackers to bypass the SmartScreen security feature on affected installations of Microsoft Windows by exploiting the handling of executables in the user's Startup folder. User interaction is required, and an attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current user.</description>
+      <guid isPermaLink="false">ZDI-CAN-27246</guid>
+      <pubDate>Tue, 08 Jul 2025 21:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-583: Microsoft Windows win32kfull Out-Of-Bounds Write Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-583/</link>
+      <description>Vulnerable Product: Microsoft Windows win32kfull; CVE(s): CVE-2025-49732; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by writing before the start of an allocated array. An attacker must first obtain the ability to execute low-privileged code on the target system to exploit this vulnerability, which can result in executing arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26791</guid>
+      <pubDate>Tue, 08 Jul 2025 21:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-584: Microsoft Windows win32kfull Out-Of-Bounds Write Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-584/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-49727; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which results from a lack of proper validation of user-supplied data and can be used to write past the end of an allocated buffer, allowing for privilege escalation and arbitrary code execution in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-27167</guid>
+      <pubDate>Tue, 08 Jul 2025 21:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-585: Trend Micro Maximum Security Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-585/</link>
+      <description>Vulnerable Product: Trend Micro Maximum Security; CVE(s): CVE-2025-52521, ZDI-CAN-26887; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Maximum Security by creating a junction and abusing the Platinum Host Service to delete arbitrary files. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability, which can then be used to execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26887</guid>
+      <pubDate>Tue, 08 Jul 2025 21:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-586: Trend Micro Password Manager Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-586/</link>
+      <description>Vulnerable Product: Trend Micro Password Manager; CVE(s): CVE-2025-52837; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Password Manager by exploiting a flaw within the Trend Micro Password Manager Service. The attacker must first obtain the ability to execute low-privileged code on the target system and can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-25729</guid>
+      <pubDate>Tue, 08 Jul 2025 21:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung announces major security enhancements coming to One UI 8</title>
+      <link>https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/</link>
+      <description>Samsung has announced multiple data security and privacy enhancements for its upcoming Galaxy smartphones running One UI 8, including the introduction of Knox Enhanced Encrypted Protection (KEEP), upgrades to Knox Matrix, and the addition of quantum resistance to WiFi connectivity. The updates aim to protect user inputs, sensitive data, and cloud-connected services from unauthorized access and manipulation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/</guid>
+      <pubDate>Tue, 08 Jul 2025 20:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>M&amp;S confirms social engineering led to massive ransomware attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/</link>
+      <description>M&amp;S experienced a sophisticated impersonation attack that led to a DragonForce ransomware attack, with the threat actors impersonating an employee's details to trick a third-party entity into resetting their password. The attackers used social engineering tactics and exploited a third-party help desk support system to breach the company's network.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/</guid>
+      <pubDate>Tue, 08 Jul 2025 20:39:53 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-483: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-483/</link>
@@ -1215,250 +1453,6 @@ FYSA: None</description>
       <description>Vulnerable Product: WPMU DEV Forminator; CVE(s): CVE-2025-6463; Summary: The Forminator plugin for WordPress is vulnerable to an unauthenticated arbitrary file deletion flaw, tracked as CVE-2025-6463. This high-severity vulnerability (CVSS 8.8 score) allows attackers to delete critical files, such as wp-config.php, and take over the site.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/</guid>
       <pubDate>Wed, 02 Jul 2025 15:38:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-49596: Critical Flaw in Anthropic’s MCP Inspector Leads to RCE</title>
-      <link>https://socradar.io/cve-2025-49596-flaw-anthropics-mcp-inspector-rce/</link>
-      <description>Vulnerable Product: Anthropic's MCP Inspector; CVE(s): CVE-2025-49596; Summary: The vulnerability in Anthropic's MCP Inspector allows Remote Code Execution (RCE) due to overly lenient security defaults, including unauthenticated connections and lack of encryption. This can lead to full control over affected machines, making it a critical issue that needs to be addressed promptly.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061652</guid>
-      <pubDate>Wed, 02 Jul 2025 14:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixes ‘Print to PDF’ feature broken by Windows update</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/</link>
-      <description>Vulnerable Product: Microsoft Windows 11 24H2; CVE(s): None; Summary: The "Print to PDF" feature on Windows 11 24H2 systems is broken after installing the April 2025 preview update, causing the Microsoft Print to PDF printer to no longer appear under Settings and returning error code 0x800f0922.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/</guid>
-      <pubDate>Wed, 02 Jul 2025 13:52:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dozens of fake wallet add-ons flood Firefox store to drain crypto</title>
-      <link>https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/</link>
-      <description>Vulnerable Product: Firefox; CVE(s): None; Summary: More than 40 fake extensions in Firefox's official add-ons store are impersonating popular cryptocurrency wallets, stealing wallet credentials and sensitive data by sending stolen information to attacker-controlled servers. The extensions include malicious code that monitors for sensitive data inputs from the victim, checks for realistic wallet keys/seed phrases, and exfiltrates data.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/</guid>
-      <pubDate>Wed, 02 Jul 2025 13:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok 4 spotted ahead of launch with special coding features</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/</link>
-      <description>Vulnerable Product: None; Summary: This article does not contain information about a specific vulnerability in software, hardware, or firmware.
-
-FYSA: The article mentions xAI releasing Grok 4, which could potentially be the best model from the company. It also highlights that cloud attacks may be growing more sophisticated, but attackers still succeed with surprisingly simple techniques.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/</guid>
-      <pubDate>Wed, 02 Jul 2025 12:22:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: DNS issue blocks delivery of Exchange Online OTP codes</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: Microsoft is experiencing DNS misconfiguration issues affecting OTP message delivery in Exchange Online, impacting some users who may not receive OTP emails for encrypted messages. The issue affects users with a process set up to perform DNS checks on incoming email messages.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/</guid>
-      <pubDate>Wed, 02 Jul 2025 12:21:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/02/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Google Chromium V8; CVE(s): CVE-2025-6554; Summary: A type confusion vulnerability in Google Chromium V8 has been added to the Known Exploited Vulnerabilities (KEV) Catalog, indicating active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise.</description>
-      <guid isPermaLink="false">/node/23590</guid>
-      <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat</title>
-      <link>https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html</link>
-      <description>The article discusses the importance of multi-layered detection strategies in cybersecurity operations centers (SOCs) to detect and respond to evolving threats. It highlights the limitations of traditional endpoint detection and response (EDR) solutions and introduces network detection and response (NDR) as a complementary approach that provides visibility into network-based attacks. The article also explains different types of detections, including signature-based, threat intelligence, malware detection, behavioral detection, machine learning, anomaly detection, and search-based detection.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html</guid>
-      <pubDate>Wed, 02 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-6554: Chrome’s New Zero-Day Under Active Exploitation</title>
-      <link>https://socradar.io/cve-2025-6554-chromes-new-zero-day-exploitation/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6554; Summary: A high-severity type confusion vulnerability (CVE-2025-6554) in Google Chrome's V8 JavaScript engine allows remote attackers to execute arbitrary code on the victim's machine, potentially leading to full system compromise. The vulnerability is actively being exploited and affects all major desktop platforms running Chrome, including Windows, macOS, and Linux.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061633</guid>
-      <pubDate>Wed, 02 Jul 2025 10:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns</title>
-      <link>https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html</link>
-      <description>Cybersecurity researchers have discovered a surge in phishing campaigns impersonating popular brands, including Microsoft and Docusign. The attacks use social engineering tactics, such as telephone-oriented attack delivery (TOAD), where victims are tricked into calling phone numbers operated by threat actors. These calls often employ scripted call center tactics, hold music, and spoofed caller IDs to gain the victim's trust.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html</guid>
-      <pubDate>Wed, 02 Jul 2025 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Shortcut (LNK) Malware Strategies</title>
-      <link>https://unit42.paloaltonetworks.com/lnk-malware/</link>
-      <description>This article provides an in-depth analysis of different types of LNK malware, which are a type of Windows executable files that can be used to launch malicious payloads. The article discusses four main techniques used by attackers to execute overlay content, including using find/findstr, mshta, and PowerShell commands/intrinsics.
-
-The article also provides information on how Palo Alto Networks customers can protect themselves from these types of threats through the use of certain products, such as Next-Generation Firewall with cloud-delivered security services and Advanced Threat Prevention. Additionally, the article mentions that Palo Alto Networks has shared its findings with fellow Cyber Threat Alliance (CTA) members to rapidly deploy protections to their customers.
-
-Overall, this article is a valuable resource for cybersecurity professionals looking to gain a deeper understanding of LNK malware and how to protect against these types of threats.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=144445</guid>
-      <pubDate>Wed, 02 Jul 2025 10:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>PDFs: Portable documents, or perfect deliveries for phish?</title>
-      <link>https://blog.talosintelligence.com/pdfs-portable-documents-or-perfect-deliveries-for-phish/</link>
-      <description>The article discusses the trend of brand impersonation in email threats using PDF payloads, including social engineering techniques such as TOAD (Telephone-Oriented Attack Delivery) and QR code phishing. It highlights the use of Voice over Internet Protocol (VoIP) numbers to remain anonymous and the reuse of phone numbers on consecutive days.</description>
-      <guid isPermaLink="false">685957b84c0b2400017d9b51</guid>
-      <pubDate>Wed, 02 Jul 2025 10:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware</title>
-      <link>https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html</link>
-      <description>The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has levied sanctions against Russia-based bulletproof hosting (BPH) service provider Aeza Group and its subsidiaries, along with four individuals linked to the company, for assisting threat actors in their malicious activities.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html</guid>
-      <pubDate>Wed, 02 Jul 2025 08:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale</title>
-      <link>https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html</link>
-      <description>Unknown threat actors are using Vercel's generative AI tool v0 to design fake sign-in pages that impersonate legitimate counterparts, creating convincing replicas of login pages. This allows low-skilled attackers to build phishing sites at scale without requiring coding skills.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html</guid>
-      <pubDate>Wed, 02 Jul 2025 05:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qantas discloses cyberattack amid Scattered Spider aviation breaches</title>
-      <link>https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/</link>
-      <description>Qantas detected a cyberattack on its third-party customer servicing platform, which contained customer data. Threat actors gained access to the platform after targeting a Qantas call centre and stole a "significant" amount of data, including names, email addresses, phone numbers, birth dates, and frequent flyer numbers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/</guid>
-      <pubDate>Wed, 02 Jul 2025 00:54:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>AT&amp;T rolls out "Wireless Lock" feature to block SIM swap attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/</link>
-      <description>This article is about a security feature called "Wireless Lock" launched by AT&amp;T to protect customers from SIM swapping attacks. The feature prevents changes to account information and phone number porting while it's enabled, and has been rolled out to all AT&amp;T customers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/</guid>
-      <pubDate>Tue, 01 Jul 2025 20:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>US critical infrastructure exposed as feds worn of possible attacks from Iran</title>
-      <link>https://arstechnica.com/security/2025/07/feds-warn-of-possible-cyber-attacks-by-iran-on-us-critical-infrastructure/</link>
-      <description>Vulnerable Product: Unitronics, Orpak SiteOmat, Red Lion, Tridium Niagara framework; CVE(s): None; Summary: Devices from these manufacturers ship or previously shipped with default credentials, making it easy for threat actors to access and exploit them. The devices are widely used in the US and can be exposed to internet scans. Proper configuration and strong passwords are recommended to harden control systems against attacks.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/feds-warn-of-possible-cyber-attacks-by-iran-on-us-critical-infrastructure/</guid>
-      <pubDate>Tue, 01 Jul 2025 19:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft open-sources VS Code Copilot Chat extension on GitHub</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/</link>
-      <description>The article discusses Microsoft's decision to release the source code for the GitHub Copilot Chat extension for VS Code under the MIT license, providing transparency into the implementation of the chat-based coding assistant and telemetry collection mechanisms. This move is considered a milestone in Microsoft's plan to integrate AI features directly into the popular open-source code editor, with openness seen as superior from a security perspective.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/</guid>
-      <pubDate>Tue, 01 Jul 2025 19:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Anthropic's MCP Exposes Developer Machines to Remote Exploits</title>
-      <link>https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html</link>
-      <description>Vulnerable Product: Anthropic Model Context Protocol (MCP) Inspector; CVE(s): CVE-2025-49596; Summary: The MCP Inspector contains a critical remote code execution (RCE) vulnerability that allows an attacker to gain complete access to the host by chaining a known security flaw affecting modern web browsers, dubbed 0.0.0.0 Day, with a cross-site request forgery (CSRF) vulnerability in Inspector. The vulnerability can be exploited by visiting a malicious website, which can execute arbitrary commands on the machine running the tool.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html</guid>
-      <pubDate>Tue, 01 Jul 2025 18:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kelly Benefits says 2024 data breach impacts 550,000 customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/</link>
-      <description>The Kelly &amp; Associates Insurance Group (dba Kelly Benefits) has suffered a data breach that compromised the personal information of 553,660 individuals. The breach is believed to have occurred between December 12-17 and may have exposed full names, Social Security numbers, tax ID numbers, dates of birth, medical information, health insurance information, and financial account information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/</guid>
-      <pubDate>Tue, 01 Jul 2025 17:28:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aeza Group sanctioned for hosting ransomware, infostealer servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/</link>
-      <description>The US Department of the Treasury has sanctioned Russian hosting company Aeza Group and four operators for allegedly providing services to ransomware gangs, infostealer operations, darknet drug markets, and Russian disinformation campaigns. The sanctions aim to disrupt these cybercriminal activities and prevent further exploitation of US-based assets.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/</guid>
-      <pubDate>Tue, 01 Jul 2025 17:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>New FileFix attack runs JScript while bypassing Windows MoTW alerts</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/</link>
-      <description>Vulnerable Product: Windows; CVE(s): None; Summary: A new attack called FileFix allows executing malicious scripts by exploiting how browsers handle saved HTML webpages. The attack tricks users into saving an HTML page as ".HTA" and renaming it to auto-execute embedded JScript via mshta.exe, bypassing the Mark of the Web (MoTW) protection in Windows.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/</guid>
-      <pubDate>Tue, 01 Jul 2025 16:37:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns</title>
-      <link>https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html</link>
-      <description>The article discusses the tactical similarities between two threat actor groups, TA829 and UNK_GreenSec, which have been observed delivering different malware strains. The article highlights their use of similar infrastructure, delivery tactics, and email lure themes to deliver malicious payloads.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html</guid>
-      <pubDate>Tue, 01 Jul 2025 16:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>International Criminal Court hit by new 'sophisticated' cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/international-criminal-court-hit-by-new-sophisticated-cyberattack/</link>
-      <description>The International Criminal Court (ICC) is investigating a new "sophisticated" cyberattack that targeted its systems last week. The incident was contained through the ICC's alert and response mechanisms, but further details about the nature of the attack, impact, or any data exfiltration are not yet available. This is the second cyberattack targeting the ICC in recent years, following a breach in September 2023 attributed to cyber espionage.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/international-criminal-court-hit-by-new-sophisticated-cyberattack/</guid>
-      <pubDate>Tue, 01 Jul 2025 14:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Free IoC Search &amp; Enrichment Platforms</title>
-      <link>https://socradar.io/top-10-free-ioc-search-enrichment-platforms/</link>
-      <description>This article discusses the importance of Indicators of Compromise (IoCs) in cybersecurity and provides a list of 10 free platforms for searching and enriching IoCs. The platforms featured include AlienVault OTX, Pulsedive, AbuseIPDB, ThreatMiner, IOC Radar, threatfox, URLhaus, GreyNoise, MISP, VirusTotal, and ThreatBook. These platforms provide various capabilities such as search, enrichment, and integration with other security tools to help analysts detect and respond to threats.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100046856</guid>
-      <pubDate>Tue, 01 Jul 2025 14:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>US disrupts North Korean IT worker "laptop farm" scheme in 16 states</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-it-worker-laptop-farm-scheme-in-16-states/</link>
-      <description>The U.S. Department of Justice (DoJ) took coordinated law enforcement actions against North Korea's fund-raising operations using remote IT workers, compromising the identities of over 80 U.S. citizens and generating more than $5 million in illicit revenue. Sensitive data, including US military tech regulated under ITAR, was accessed and exfiltrated by North Koreans.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-it-worker-laptop-farm-scheme-in-16-states/</guid>
-      <pubDate>Tue, 01 Jul 2025 13:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status</title>
-      <link>https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html</link>
-      <description>Vulnerable Product: Microsoft Visual Studio Code; CVE(s): None; Summary: Flawed verification checks in Visual Studio Code allow attackers to add malicious functionality to extensions while maintaining a verified icon, enabling remote code execution and opening up a low-barrier entry point for attackers. The vulnerability can be exploited by creating a malicious extension with the same verifiable values as an already verified extension and bypassing trust checks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html</guid>
-      <pubDate>Tue, 01 Jul 2025 13:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esse Health says recent data breach affects over 263,000 patients</title>
-      <link>https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/</link>
-      <description>Esse Health suffered a cyberattack that compromised personal and health information of over 263,000 patients. The attackers stole a wide range of sensitive data, including personal information, health insurance information, medical record numbers, and some health information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/</guid>
-      <pubDate>Tue, 01 Jul 2025 13:04:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/01/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: TeleMessage TM SGNL; CVE(s): CVE-2025-48927, CVE-2025-48928; Summary: Two vulnerabilities in TeleMessage TM SGNL have been added to the Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation. These vulnerabilities pose significant risks to the federal enterprise and are frequent attack vectors for malicious cyber actors.</description>
-      <guid isPermaLink="false">/node/23583</guid>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voltronic Power and PowerShield UPS Monitoring Software</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-05</link>
-      <description>Vulnerable Product: Voltronic Power Viewpower, Voltronic Power ViewPower Pro, Powershield NetGuard; CVE(s): CVE-2022-31491, CVE-2021-43110; Summary: Successful exploitation of these vulnerabilities could allow an unauthenticated attacker remotely to make configuration changes, including shutting down connected UPS devices or execution of arbitrary code.</description>
-      <guid isPermaLink="false">/node/23578</guid>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy Relion 670/650 and SAM600-IO Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-06</link>
-      <description>Vulnerable Product: Hitachi Energy Relion 670/650 and SAM600-IO series devices; CVE(s): CVE-2025-2403; Summary: A denial-of-service vulnerability exists due to improper prioritization of network traffic over protection mechanism, allowing attackers to cause critical functions like LDCM (Line Distance Communication Module) to malfunction. Successful exploitation could disrupt critical functions in the device.</description>
-      <guid isPermaLink="false">/node/23579</guid>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Seven Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/01/cisa-releases-seven-industrial-control-systems-advisories</link>
-      <description>Vulnerable Product: Multiple products from various vendors (FESTO, Hitachi Energy, Voltronic); CVE(s): None; Summary: CISA released seven ICS advisories covering vulnerabilities and exploits in industrial control systems products from FESTO, Hitachi Energy, and Voltronic. The advisories provide technical details and mitigation strategies for the identified issues.</description>
-      <guid isPermaLink="false">/node/23581</guid>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FESTO Automation Suite, FluidDraw, and Festo Didactic Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-02</link>
-      <description>Vulnerable Product: FESTO, FESTO Didactic (various products); CVE(s): CVE-2023-3935; Summary: A heap buffer overflow vulnerability in Wibu CodeMeter Runtime network service allows an unauthenticated, remote attacker to achieve RCE and gain full access of the host system. Successful exploitation could allow an attacker to gain full control of the host system, including remote code execution.</description>
-      <guid isPermaLink="false">/node/23575</guid>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy MSM</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-07</link>
-      <description>Vulnerable Product: Hitachi Energy Modular Switchgear Monitoring (MSM); CVE(s): CVE-2020-11022; Summary: The vulnerability is a Cross-site Scripting issue that allows attackers to execute untrusted code, potentially leading to unauthorized actions or system compromise. Successful exploitation could be done remotely with low attack complexity.</description>
-      <guid isPermaLink="false">/node/23580</guid>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FESTO Hardware Controller, Hardware Servo Press Kit</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-182-04</link>
-      <description>Vulnerable Product: Festo; CVE(s): CVE-2022-30311, CVE-2022-30310, CVE-2022-30309, CVE-2022-30308; Summary: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerabilities exist in multiple versions of Festo Controller CECC-X-M1 product family. Successful exploitation could allow unauthorized system command execution with root privileges.</description>
-      <guid isPermaLink="false">/node/23577</guid>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
