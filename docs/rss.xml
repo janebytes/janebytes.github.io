@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 21:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 22:01:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>ZDI-25-555: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
@@ -245,6 +245,13 @@
       <description>M&amp;S experienced a sophisticated impersonation attack that led to a DragonForce ransomware attack, with the threat actors impersonating an employee's details to trick a third-party entity into resetting their password. The attackers used social engineering tactics and exploited a third-party help desk support system to breach the company's network.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/</guid>
       <pubDate>Tue, 08 Jul 2025 20:39:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday for July 2025 — Snort rules and prominent vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2025/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-49735, CVE-2025-49704, CVE-2025-49695, CVE-2025-49696, CVE-2025-49697, CVE-2025-49698, CVE-2025-49702, CVE-2025-49703, CVE-2025-48822, CVE-2025-47981, CVE-2025-49717; Summary: Microsoft released 132 vulnerabilities in July 2025, including 14 critical ones. The vulnerable products include Windows services and applications, SharePoint server, Office, and SQL Server. The vulnerabilities are remote code execution (RCE) vulnerabilities, out-of-bounds read, use after free, heap-based buffer overflow, and information disclosure.</description>
+      <guid isPermaLink="false">686d5fdf5df3de0001555dcf</guid>
+      <pubDate>Tue, 08 Jul 2025 20:29:05 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-483: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
@@ -1446,13 +1453,6 @@ FYSA: North Korean threat actors have been observed targeting Web3 and cryptocur
 FYSA: None</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/</guid>
       <pubDate>Wed, 02 Jul 2025 16:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forminator plugin flaw exposes WordPress sites to takeover attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/</link>
-      <description>Vulnerable Product: WPMU DEV Forminator; CVE(s): CVE-2025-6463; Summary: The Forminator plugin for WordPress is vulnerable to an unauthenticated arbitrary file deletion flaw, tracked as CVE-2025-6463. This high-severity vulnerability (CVSS 8.8 score) allows attackers to delete critical files, such as wp-config.php, and take over the site.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/</guid>
-      <pubDate>Wed, 02 Jul 2025 15:38:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
