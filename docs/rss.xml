@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 18:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 19:01:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Windows 10 KB5062554 cumulative update released with 13 changes, fixes</title>
@@ -14,6 +14,13 @@
       <description>Vulnerable Product: Microsoft Windows 10; CVE(s): One zero-day vulnerability and 136 other flaws; Summary: The Windows 10 KB5062554 cumulative update contains fixes for one zero-day vulnerability and 136 other flaws. It is mandatory and will automatically start installing once checked for updates.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/</guid>
       <pubDate>Tue, 08 Jul 2025 17:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware</title>
+      <link>https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html</link>
+      <description>Vulnerable Product: Shellter; CVE(s): None; Summary: Hackers are exploiting a popular red teaming tool called Shellter to distribute stealer malware. The tool allows offensive security teams to bypass antivirus and endpoint detection and response (EDR) software installed on endpoints, making it a powerful tool in the wrong hands.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html</guid>
+      <pubDate>Tue, 08 Jul 2025 17:35:00 +0000</pubDate>
     </item>
     <item>
       <title>Windows 11 KB5062553 &amp; KB5062552  cumulative updates released</title>
@@ -1460,13 +1467,6 @@ This article discusses Cloudflare's Orange Meets video calling app, which has im
       <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: The "Citrix Bleed 2" vulnerability, an out-of-bounds memory read vulnerability (CVE-2025-5777), allows unauthenticated attackers to access sensitive data from public-facing gateways and virtual servers, enabling session hijacking and bypassing multi-factor authentication.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/</guid>
       <pubDate>Fri, 27 Jun 2025 14:18:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Peep #19: IntelBroker Indicted, and Ransomware Goes Corporate</title>
-      <link>https://socradar.io/dark-peep-19-intelbroker-ransomware-corporate/</link>
-      <description>This article does not describe a vulnerability. Instead, it discusses various cybersecurity-related topics, including threat actors, ransomware groups, data breaches, and insider leaks. The article provides insights into the activities of these threat actors and their tactics, as well as the consequences of their actions.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061341</guid>
-      <pubDate>Fri, 27 Jun 2025 13:42:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
