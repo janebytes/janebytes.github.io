@@ -6,8 +6,45 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jul 2025 22:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 10:02:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms</title>
+      <link>https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</link>
+      <description>The article describes two separate cyberattacks, one delivering Batavia Windows spyware and another delivering NordDragonScan Windows stealer malware. Both attacks use phishing emails to deliver malicious payloads that steal sensitive data from compromised hosts.
+
+FYSA: Russian organizations have been targeted by a campaign delivering the previously undocumented Windows spyware called Batavia. The attack uses bait emails containing malicious links, which download an archive file containing a Visual Basic Encoded script (.VBE) file.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</guid>
+      <pubDate>Tue, 08 Jul 2025 08:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation</title>
+      <link>https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html</link>
+      <description>Vulnerable Product: Various; CVE(s): CVE-2014-3931, CVE-2016-10033, CVE-2019-5418, CVE-2019-9621; Summary: Four security flaws have been added to the Known Exploited Vulnerabilities (KEV) catalog by CISA due to active exploitation. The vulnerabilities include a buffer overflow in MRLG, command injection in PHPMailer, path traversal in Ruby on Rails' Action View, and SSRF in Zimbra Collaboration Suite.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html</guid>
+      <pubDate>Tue, 08 Jul 2025 05:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage</title>
+      <link>https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/</link>
+      <description>A Chinese national, Xu Zewei, was arrested in Italy for allegedly being linked to the state-sponsored Silk Typhoon hacking group, responsible for cyberattacks against American organizations and government agencies. The group is accused of targeting infectious disease researchers and healthcare organizations, as well as the U.S. Treasury's Office of Foreign Assets Control and the Committee on Foreign Investment.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/</guid>
+      <pubDate>Tue, 08 Jul 2025 01:39:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unless users take action, Android will let Gemini access third-party apps</title>
+      <link>https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/</link>
+      <description>The article discusses the Google Gemini app's data collection capabilities and provides remedies for users who want to prevent data collection. Disabling app activity or uninstalling the app can be done through command-line terminal or using Android debug bridge, but some users may encounter errors like "DELETE_FAILED_INTERNAL_ERROR".</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/</guid>
+      <pubDate>Mon, 07 Jul 2025 23:46:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Public exploits released for Citrix Bleed 2 NetScaler flaw, patch now</title>
+      <link>https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/</link>
+      <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-5777; Summary: The CitrixBleed2 vulnerability allows attackers to retrieve memory contents by sending malformed POST requests during login attempts. This can lead to the theft of user session tokens and potentially exploit sensitive data.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/</guid>
+      <pubDate>Mon, 07 Jul 2025 22:57:37 +0000</pubDate>
+    </item>
     <item>
       <title>Employee gets $920 for credentials used in $140 million bank heist</title>
       <link>https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/</link>
@@ -1424,41 +1461,6 @@ FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (
       <description>Vulnerable Product: Cisco ISE (Identity Services Engine) and ISE Passive Identity Connector (ISE-PIC); CVE(s): CVE-2025-20281 (CVSS 9.8), CVE-2025-20282 (CVSS 10.0); Summary: Two critical vulnerabilities in Cisco ISE and ISE-PIC allow remote attackers to execute arbitrary code as the root user, or upload and execute malicious files, without requiring credentials; exploitation details include unauthenticated access vectors and insufficient validation of user input.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061310</guid>
       <pubDate>Fri, 27 Jun 2025 07:43:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted</title>
-      <link>https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html</link>
-      <description>Vulnerable Product: Progress MOVEit Transfer; CVE(s): CVE-2023-34362, CVE-2023-36934; Summary: A surge in scanning activity targeting Progress MOVEit Transfer systems suggests attackers may be preparing for another mass exploitation campaign or probing for unpatched systems. The increase in scanning activity has been observed since May 27, 2025, with daily scanner IP volume remaining intermittently elevated.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html</guid>
-      <pubDate>Fri, 27 Jun 2025 07:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 KB5060829 update released with 38 new changes, fixes</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/</link>
-      <description>The article discusses the release of Microsoft's KB5060829 preview cumulative update for Windows 11 24H2, which includes 38 changes and new features such as a PC-to-PC migration experience and improved taskbar functionality. It also mentions various bug fixes and improvements.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/</guid>
-      <pubDate>Fri, 27 Jun 2025 07:28:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors</title>
-      <link>https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html</link>
-      <description>Vulnerable Product: Microsoft ClickOnce; CVE(s): None; Summary: Microsoft's ClickOnce software deployment technology can be leveraged by threat actors to compromise organizations within the energy, oil, and gas sectors. The attack chain begins with phishing emails containing a link to a fake hardware analysis website that serves as a conduit for delivering a ClickOnce application, which runs an executable using dfsvc.exe, ultimately resulting in the execution of an encrypted shellcode in memory to load the RunnerBeacon backdoor.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html</guid>
-      <pubDate>Fri, 27 Jun 2025 06:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Whole Foods supplier UNFI restores core systems after cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/</link>
-      <description>United Natural Foods (UNFI) has restored its core systems and electronic ordering/invoicing systems after a cyberattack, which is believed to have a material impact on its net income/loss and adjusted EBITDA for the year's fourth fiscal quarter of 2025. The company experienced reduced sales volume and increased operational costs during the incident, but expects to recover with the help of cybersecurity insurance.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/</guid>
-      <pubDate>Fri, 27 Jun 2025 06:21:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pre-Auth Flaw in MongoDB Server Allows Attackers to Cause DoS</title>
-      <link>https://gbhackers.com/pre-auth-flaw-in-mongodb-server/</link>
-      <description>Vulnerable Product: MongoDB Server; CVE(s): CVE-2025-6709; Summary: A pre-authentication vulnerability in OIDC authentication of MongoDB Server enables unauthenticated attackers to trigger denial-of-service (DoS) conditions by exploiting improper input validation. The flaw affects versions before 7.0.17, 8.0.5, and 6.0.21, allowing for complete server crashes or post-authentication DoS in affected environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144457</guid>
-      <pubDate>Fri, 27 Jun 2025 06:18:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
