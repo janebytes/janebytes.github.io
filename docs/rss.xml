@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 11:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 12:03:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>5 Ways Identity-based Attacks Are Breaching Retail</title>
+      <link>https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html</link>
+      <description>The article discusses recent high-profile data breaches in retail, where attackers exploited overprivileged access and unmonitored service accounts using social engineering tactics. The attacks targeted third-party customer service providers, resulting in the exposure of customer data, including names, email addresses, and order details.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html</guid>
+      <pubDate>Tue, 08 Jul 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks</title>
+      <link>https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html</link>
+      <description>Vulnerable Product: TBK Digital Video Recorders (DVRs) - DVR-4104 and DVR-4216; Four-Faith routers - F3x24 and F3x36; CVE(s): CVE-2024-3721, CVE-2024-12856; Summary: Medium-severity command injection vulnerabilities in TBK DVRs and Four-Faith routers allow attackers to deploy different Mirai botnet variants. The flaws have been publicly disclosed and are actively being targeted, posing serious risks to device security and overall network integrity.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html</guid>
+      <pubDate>Tue, 08 Jul 2025 11:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally</title>
+      <link>https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html</link>
+      <description>A large-scale scam operation utilizing fake news websites (Baiting News Sites) has been discovered, targeting users across 50 countries with online investment fraud. The scammers use sponsored ads and fake articles to lure victims into fraudulent trading platforms, followed by a two-phase structure of building trust and extracting maximum value before the victim realizes it's a trap.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html</guid>
+      <pubDate>Tue, 08 Jul 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>GoldMelody’s Hidden Chords: Initial Access Broker In-Memory IIS Modules Revealed</title>
       <link>https://unit42.paloaltonetworks.com/initial-access-broker-exploits-leaked-machine-keys/</link>
@@ -1446,27 +1467,6 @@ This article discusses Cloudflare's Orange Meets video calling app, which has im
 FYSA: The article highlights Blind Eagle's tactics, techniques, and procedures (TTPs), including the use of phishing emails, Remote Access Trojans (RATs), and WebDAV requests to deliver malware. It also emphasizes the importance of advanced security solutions capable of detecting and containing evolving threats in real-time to ensure robust defense against sophisticated actors.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=144461</guid>
       <pubDate>Fri, 27 Jun 2025 09:24:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retail giant Ahold Delhaize says data breach affects 2.2 million people</title>
-      <link>https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/</link>
-      <description>Ahold Delhaize, a multinational food retail chain, has notified over 2.2 million individuals that their personal, financial, and health information was stolen in a November ransomware attack affecting its U.S. systems. The attackers gained access to the company's internal U.S. business systems on November 6, 2024, stealing data including internal employment records, contact information, government-issued identification numbers, financial account information, health information, and employment-related information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/</guid>
-      <pubDate>Fri, 27 Jun 2025 09:12:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Says Goodbye to Blue Screen of Death, Introduces Black Screen</title>
-      <link>https://gbhackers.com/windows-says-goodbye-to-blue-screen-of-death/</link>
-      <description>Microsoft is retiring the Blue Screen of Death (BSOD) in favor of a new Black Screen of Death, which will debut with Windows 11 version 24H2. The redesign aims to improve readability, reduce user anxiety, and provide better information for troubleshooting and recovery. The change comes after last year's CrowdStrike incident highlighted the need for clearer diagnostics and faster recovery options.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144480</guid>
-      <pubDate>Fri, 27 Jun 2025 07:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric AC Flaw Lets Hackers Remotely Control Systems</title>
-      <link>https://gbhackers.com/mitsubishi-electric-ac-flaw/</link>
-      <description>Vulnerable Product: Mitsubishi Electric air conditioning systems; CVE(s): CVE-2025-3699; Summary: A critical security vulnerability allows hackers to bypass authentication and remotely control affected units, enabling unauthorized access, system manipulation, and firmware tampering. Exploitation could disrupt climate control in offices or data centers, posing risks to safety, privacy, and operational continuity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=144472</guid>
-      <pubDate>Fri, 27 Jun 2025 07:45:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
