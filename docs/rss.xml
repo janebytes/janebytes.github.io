@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jul 2025 15:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 16:02:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ruckus Networks leaves severe flaws unpatched in management devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/</link>
+      <description>Vulnerable Product: Ruckus Wireless; CVE(s): CVE-2025-44957, CVE-2025-44962, CVE-2025-44954, CVE-2025-44960, CVE-2025-44961, CVE-2025-44963, CVE-2025-44955, CVE-2025-6243, CVE-2025-44958; Summary: Multiple unpatched vulnerabilities in Ruckus Wireless management products, including remote code execution, hardcoded passwords, and hardcoded SSH public and private keys, could allow an attacker to fully compromise the network environment they serve.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/</guid>
+      <pubDate>Wed, 09 Jul 2025 15:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ingram Micro starts restoring systems after ransomware attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/ingram-micro-starts-restoring-systems-after-ransomware-attack/</link>
+      <description>Ingram Micro suffered a SafePay ransomware attack, resulting in a global outage and forced employees to work from home. The company is currently restoring systems and business services, but it's unclear if data was stolen during the attack.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ingram-micro-starts-restoring-systems-after-ransomware-attack/</guid>
+      <pubDate>Wed, 09 Jul 2025 15:13:50 +0000</pubDate>
+    </item>
     <item>
       <title>Treasury sanctions North Korean over IT worker malware scheme</title>
       <link>https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/</link>
@@ -1433,22 +1447,6 @@ The article reports on an ongoing incident affecting SharePoint Online, a cloud-
       <description>The Hunters International Ransomware-as-a-Service (RaaS) operation has officially closed down and will offer free decryptors to help victims recover their data without paying a ransom.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/</guid>
       <pubDate>Thu, 03 Jul 2025 10:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets</title>
-      <link>https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): None; Summary: The article describes a large-scale campaign involving over 40 malicious browser extensions for Mozilla Firefox, designed to steal cryptocurrency wallet secrets. The extensions impersonate legitimate wallet tools and employ tactics such as artificially inflating their popularity and cloning open-source code to extract wallet keys and seed phrases from targeted websites.
-
-FYSA: The article highlights a sophisticated threat actor group using a low-effort, high-impact approach to steal users' digital assets by distributing malicious browser extensions. The campaign's success relies on the ability of these extensions to operate inside the user's browser, making them harder to detect or block with traditional endpoint tools.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html</guid>
-      <pubDate>Thu, 03 Jul 2025 10:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hidden Weaknesses in AI SOC Tools that No One Talks About</title>
-      <link>https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html</link>
-      <description>The article discusses the limitations of pre-trained AI models in security operations centers (SOCs) and highlights the benefits of adaptive AI, which learns to triage and respond to any alert type. Adaptive AI uses semantic classification, research agents, and multiple large language models to provide accurate, efficient, and context-aware triage. It also enables continuous learning and improvement by benchmarking model performance on real-world SOC tasks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html</guid>
-      <pubDate>Thu, 03 Jul 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
