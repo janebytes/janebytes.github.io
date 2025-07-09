@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jul 2025 12:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 13:02:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme</title>
+      <link>https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html</link>
+      <description>The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned a member of a North Korean hacking group called Andariel for their role in an IT worker scheme. The scheme involved using foreign-hired IT workers to seek remote employment with US companies, and the sanctions are part of efforts to disrupt North Korea's ability to generate revenue through illicit means.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html</guid>
+      <pubDate>Wed, 09 Jul 2025 11:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Critical CitrixBleed 2 vulnerability has been under active exploit for weeks</title>
       <link>https://arstechnica.com/security/2025/07/critical-citrixbleed-2-vulnerability-has-been-under-active-exploit-for-weeks/</link>
       <description>The article discusses the importance of providing detailed security advisories and indicators to help defenders detect and respond to critical vulnerabilities. It highlights how Citrix's decision to withhold technical details about a recent vulnerability has allowed attackers to gain an advantage, making it harder for customers to identify compromised devices.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/07/critical-citrixbleed-2-vulnerability-has-been-under-active-exploit-for-weeks/</guid>
       <pubDate>Wed, 09 Jul 2025 11:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>How To Automate Ticket Creation, Device Identification and Threat Triage With Tines</title>
+      <link>https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html</link>
+      <description>The article discusses a pre-built workflow in Tines, a workflow orchestration and AI platform, that automates the process of responding to malware security alerts from CrowdStrike. The workflow involves integrating with various platforms such as Oomnitza, GitHub, PagerDuty, and Slack to streamline the response to malware threats.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html</guid>
+      <pubDate>Wed, 09 Jul 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks</title>
@@ -1443,20 +1457,6 @@ The article also highlights the importance of immediate action in addressing the
       <description>Vulnerable Product: Cisco Unified Communications Manager; CVE(s): CVE-2025-20309; Summary: A maximum-severity vulnerability in Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME) allows an attacker to log in as the root user, gaining elevated privileges. The flaw is due to static user credentials for the root account and can be exploited by using the account to log in to an affected system, allowing the attacker to execute arbitrary commands as the root user.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html</guid>
       <pubDate>Thu, 03 Jul 2025 04:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NimDoor crypto-theft macOS malware revives itself when killed</title>
-      <link>https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/</link>
-      <description>North Korean state-backed hackers are using a new family of macOS malware called NimDoor in a campaign targeting web3 and cryptocurrency organizations. The attack chain involves contacting victims via Telegram, delivering fake Zoom SDK updates via Calendly and email, and deploying a persistence mechanism that uses signal-based techniques to ensure the malware remains active even after attempts to terminate it.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/</guid>
-      <pubDate>Wed, 02 Jul 2025 19:36:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>AT&amp;T rolls out Wireless Account Lock protection to curb the SIM-swap scourge</title>
-      <link>https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/</link>
-      <description>Vulnerable Product: AT&amp;T; CVE(s): None; Summary: The article discusses SIM-swap scams targeting cryptocurrency and bank account holders who store large sums of digital coin. Criminals take control of phone numbers to trigger password resets, draining accounts. AT&amp;T's Wireless Account Lock feature prevents changes to SIM cards until it is manually turned off again, aiming to curb these types of scams.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/</guid>
-      <pubDate>Wed, 02 Jul 2025 19:28:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
