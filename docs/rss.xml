@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jul 2025 20:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 21:01:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft confirms Windows Server Update Services (WSUS) sync is broken</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/</link>
+      <description>Vulnerable Product: Microsoft WSUS; CVE(s): None; Summary: A widespread issue in Windows Server Update Services (WSUS) prevents organizations from syncing with Microsoft Update and deploying the latest Windows updates. The problem is caused by a "problematic update revision in the storage layer" that affects devices trying to synchronize updates from Microsoft Updates using WSUS or Configuration Manager.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/</guid>
+      <pubDate>Wed, 09 Jul 2025 20:58:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qantas confirms data breach impacts 5.7 million customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/</link>
+      <description>The article reports on a data breach at Qantas airline, where threat actors stole personal data from approximately 5.7 million customers. The stolen data includes names, email addresses, phone numbers, and other personal information. The attackers are believed to be Scattered Spider, a group known for targeting the aviation industry with social engineering attacks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/</guid>
+      <pubDate>Wed, 09 Jul 2025 20:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser extensions turn nearly 1 million browsers into website-scraping bots</title>
+      <link>https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/</link>
+      <description>The article discusses security concerns related to MellowTel and its ability to open unknown sites, which can compromise end users' trust in the vetting process. This raises risks for enterprise networks that restrict code and site access. Additionally, the article highlights a previous analysis of browser extensions that collected sensitive user data without consent, including proprietary information from various companies.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/</guid>
+      <pubDate>Wed, 09 Jul 2025 20:08:27 +0000</pubDate>
+    </item>
     <item>
       <title>Google reveals details on Android’s Advanced Protection for Chrome</title>
       <link>https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/</link>
@@ -1426,27 +1447,6 @@ The article reports on an ongoing incident affecting SharePoint Online, a cloud-
       <description>Microsoft has announced the availability of Exchange Server Subscription Edition (SE) to all customers, which introduces changes to licensing and servicing. The new edition will be an evergreen release with continuous support, replacing previous versions that will reach end-of-life soon.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/</guid>
       <pubDate>Thu, 03 Jul 2025 12:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric MELSOFT Update Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-03</link>
-      <description>Vulnerable Product: Mitsubishi Electric MELSOFT Update Manager; CVE(s): CVE-2024-11477, CVE-2025-0411; Summary: The MELSOFT Update Manager contains an Integer Underflow vulnerability in 7-zip that could allow a remote attacker to execute arbitrary code, disclose or alter information, or cause a denial-of-service (DoS) condition. Additionally, there is a Protection Mechanism Failure vulnerability that could also lead to the same impacts.</description>
-      <guid isPermaLink="false">/node/23593</guid>
-      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Four Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/03/cisa-releases-four-industrial-control-systems-advisories</link>
-      <description>CISA has released four Industrial Control Systems (ICS) advisories on July 3, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories are specific to certain products from Hitachi Energy and Mitsubishi Electric.</description>
-      <guid isPermaLink="false">/node/23595</guid>
-      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy MicroSCADA X SYS600</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-02</link>
-      <description>Vulnerable Product: Hitachi Energy MicroSCADA X SYS600; CVE(s): CVE-2025-39201, CVE-2025-39202, CVE-2025-39203, CVE-2025-39204, CVE-2025-39205; Summary: The product contains multiple vulnerabilities that could allow an attacker to tamper with system files, overwrite files, create a denial-of-service condition, or leak file content. Successful exploitation of these vulnerabilities could have severe impacts, including data corruption and unauthorized access.</description>
-      <guid isPermaLink="false">/node/23592</guid>
-      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
