@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jul 2025 19:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 20:02:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google reveals details on Android’s Advanced Protection for Chrome</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/</link>
+      <description>The article discusses the security improvements brought by Google's Advanced Protection program for Android mobile users. With the release of Android 16, Advanced Protection can be activated from the settings, enhancing security measures across Google apps like Chrome, Messages, and Phone.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/</guid>
+      <pubDate>Wed, 09 Jul 2025 19:31:41 +0000</pubDate>
+    </item>
     <item>
       <title>Bitcoin Depot breach exposes data of nearly 27,000 crypto users</title>
       <link>https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/</link>
       <description>Bitcoin Depot's data breach has exposed sensitive information of nearly 27,000 customers, including names, phone numbers, driver's license numbers, addresses, dates of birth, and email addresses. The incident occurred on June 23, 2024, but public disclosure was delayed due to an ongoing investigation by federal agencies.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/</guid>
       <pubDate>Wed, 09 Jul 2025 17:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets</title>
+      <link>https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html</link>
+      <description>The article reports on an Initial Access Broker (IAB) called Gold Melody, which exploits leaked ASP.NET machine keys to obtain unauthorized access to organizations. The IAB uses the exploited keys to sign malicious payloads that provide access to targeted servers through ASP.NET ViewState deserialization.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html</guid>
+      <pubDate>Wed, 09 Jul 2025 16:26:00 +0000</pubDate>
     </item>
     <item>
       <title>Ruckus Networks leaves severe flaws unpatched in management devices</title>
@@ -1432,20 +1446,6 @@ The article reports on an ongoing incident affecting SharePoint Online, a cloud-
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-02</link>
       <description>Vulnerable Product: Hitachi Energy MicroSCADA X SYS600; CVE(s): CVE-2025-39201, CVE-2025-39202, CVE-2025-39203, CVE-2025-39204, CVE-2025-39205; Summary: The product contains multiple vulnerabilities that could allow an attacker to tamper with system files, overwrite files, create a denial-of-service condition, or leak file content. Successful exploitation of these vulnerabilities could have severe impacts, including data corruption and unauthorized access.</description>
       <guid isPermaLink="false">/node/23592</guid>
-      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy Relion 670/650 and SAM600-IO Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-01</link>
-      <description>Vulnerable Product: Hitachi Energy Relion 670/650 and SAM600-IO series, Hitachi Energy; CVE(s): CVE-2025-1718; Summary: An authenticated user with file access privilege via FTP access can cause the devices to reboot due to improper disk space management. The vulnerability has a CVSS v4 score of 7.1 and affects various versions of the products.</description>
-      <guid isPermaLink="false">/node/23591</guid>
-      <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitsubishi Electric MELSEC iQ-F Series</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-184-04</link>
-      <description>Vulnerable Product: Mitsubishi Electric Corporation MELSEC iQ-F Series; CVE(s): CVE-2025-5241; Summary: A denial-of-service (DoS) vulnerability exists in the MELSEC iQ-F series due to an overly restrictive account lockout mechanism. A remote attacker could lockout a legitimate user for a certain period of time by repeatedly attempting to login with an incorrect password.</description>
-      <guid isPermaLink="false">/node/23594</guid>
       <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
