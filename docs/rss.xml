@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 14:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 15:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>FBI's CJIS demystified: Best practices for passwords, MFA &amp; access control</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/</link>
+      <description>The article discusses the Criminal Justice Information Services (CJIS) Security Policy, which governs how criminal histories, fingerprints, and investigation files must be protected. It explains the origins of CJIS, its purpose, and why it matters to organizations handling criminal-justice information. The article also covers the pillars of identity (passwords, multifactor authentication, and strict access controls), and provides guidance on how to embed these controls seamlessly into an environment.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/</guid>
+      <pubDate>Thu, 10 Jul 2025 14:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>Four arrested in UK over M&amp;S, Co-op, Harrod cyberattacks</title>
       <link>https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/</link>
@@ -1449,13 +1456,6 @@ FYSA: Threat actors are using simple techniques to succeed in cloud attacks, wit
       <description>Vulnerable Product: GStreamer; CVE(s): CVE-2025-6663; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. The specific flaw exists within the parsing of H266 sei messages, resulting from a lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-27381</guid>
       <pubDate>Thu, 03 Jul 2025 20:01:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-468: GFI Archiver Telerik Web UI Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-468/</link>
-      <description>Vulnerable Product: GFI, Archiver; CVE(s): CVE-2019-18935, CVE-2017-11317, CVE-2014-2217; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of GFI Archiver. Authentication is not required to exploit this vulnerability, and the issue results from the use of a vulnerable version of Telerik Web UI.</description>
-      <guid isPermaLink="false">ZDI-CAN-26061</guid>
-      <pubDate>Thu, 03 Jul 2025 20:01:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
