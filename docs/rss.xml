@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 20:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 21:01:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 11 now uses JScript9Legacy engine for improved security</title>
+      <link>https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/</link>
+      <description>Vulnerable Product: Microsoft JScript; CVE(s): None; Summary: Microsoft replaced the default scripting engine JScript with JScript9Legacy on Windows 11 version 24H2 and later to improve security against web threats such as cross-site scripting (XSS). The outdated JScript engine was a frequent target of memory corruption, arbitrary code execution, and XSS vulnerabilities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/</guid>
+      <pubDate>Thu, 10 Jul 2025 20:46:27 +0000</pubDate>
+    </item>
     <item>
       <title>Patch, track, repeat</title>
       <link>https://blog.talosintelligence.com/patch-track-repeat/</link>
@@ -1447,13 +1454,6 @@ Overall, while this article is not focused on a specific vulnerability, it provi
 FYSA: Threat actors are advertising exploits targeting known Fortinet CVEs (CVE-2024-55591) and a stolen database linked to Allianz Seguros Spain, potentially containing approximately 4.6 million records. Additionally, a social media ban service is being promoted, offering targeted takedowns across multiple platforms.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061689</guid>
       <pubDate>Mon, 07 Jul 2025 09:55:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors</title>
-      <link>https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html</link>
-      <description>The article discusses the use of a modified variant of a remote access trojan (RAT) called DRAT V2, used by the threat actor TAG-140 to target Indian government organizations. The malware, which is part of an "interchangeable suite" of RATs, allows for harvesting sensitive data and complicates attribution, detection, and monitoring efforts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html</guid>
-      <pubDate>Mon, 07 Jul 2025 04:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
