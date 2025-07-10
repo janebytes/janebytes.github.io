@@ -6,8 +6,21 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 10:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 11:07:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fix the Click: Preventing the ClickFix Attack Vector</title>
+      <link>https://unit42.paloaltonetworks.com/preventing-clickfix-attack-vector/</link>
+      <description>FYSA:
+
+This article appears to be an analysis of various cyber threats and tactics used by malicious actors. The article discusses different types of malware, including AutoIT, Lumma Stealer, and NetSupport RAT, as well as other techniques such as social engineering, typosquatting, and malvertising.
+
+The article also highlights the use of legitimate software and tools, such as PowerShell, FileZilla, and Microsoft Windows, in malicious campaigns. Additionally, it discusses the role of cloud-based services and Linux systems in these attacks.
+
+Overall, this article provides an overview of various cyber threats and tactics used by malicious actors, highlighting the importance of staying vigilant and proactive in protecting against these types of attacks.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=145728</guid>
+      <pubDate>Thu, 10 Jul 2025 10:00:43 +0000</pubDate>
+    </item>
     <item>
       <title>ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs</title>
       <link>https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html</link>
@@ -1438,13 +1451,6 @@ However, the article also includes non-security related content, such as a nosta
 FYSA: IconAds, a mobile ad fraud operation, has been disrupted by HUMAN. Kaleidoscope is another ad fraud scheme that uses the "evil twin" technique to distribute malicious apps. NGate and SuperCard X are malware families that abuse NFC technology for financial fraud. Qwizzserial is an SMS stealer that targets users in Uzbekistan.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html</guid>
       <pubDate>Thu, 03 Jul 2025 16:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IdeaLab confirms data stolen in ransomware attack last year</title>
-      <link>https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/</link>
-      <description>IdeaLab, a California-based technology startup incubator, has been impacted by a data breach incident where hackers accessed sensitive information. The Hunters International ransomware group claimed the breach and leaked the stolen data on the dark web, affecting current and former employees, contractors, and their dependents.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/</guid>
-      <pubDate>Thu, 03 Jul 2025 15:14:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
