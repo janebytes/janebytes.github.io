@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jul 2025 22:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 10:02:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs</title>
+      <link>https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html</link>
+      <description>Vulnerable Product: ServiceNow; CVE(s): CVE-2025-3648; Summary: A high-severity vulnerability in ServiceNow's Now Platform allows unauthenticated users to infer and expose confidential data from various tables. The flaw is due to conditional access control list (ACL) rules, which can be exploited by malicious actors to obtain unauthorized access to sensitive information, including personally identifiable information (PII) and credentials.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html</guid>
+      <pubDate>Thu, 10 Jul 2025 07:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Authenticator on iOS moves backups fully to iCloud</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/</link>
+      <description>Microsoft is rolling out a new backup system for its Authenticator app on iOS, removing the requirement to use a Microsoft personal account. The new system will store backups in iCloud and restore them automatically on new devices using the same Apple account.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/</guid>
+      <pubDate>Wed, 09 Jul 2025 22:37:27 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft confirms Windows Server Update Services (WSUS) sync is broken</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/</link>
@@ -77,6 +91,13 @@
       <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses the vulnerabilities of using one-time passwords (OTP) sent via SMS or authenticator apps for multi-factor authentication (MFA). It highlights how these methods can be easily phished, relayed, or intercepted by attackers.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/</guid>
       <pubDate>Wed, 09 Jul 2025 14:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2025 Patch Tuesday Overview: 130 Vulnerabilities &amp; One Disclosed Zero-Day (CVE-2025-49719)</title>
+      <link>https://socradar.io/july-2025-patch-tuesday-130-flaws-cve-2025-49719/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-49719; Summary: An information disclosure vulnerability in Microsoft SQL Server allows an unauthenticated attacker to potentially access uninitialized memory, exposing sensitive information. The risk of exploitation is low, but users should update SQL Server to the latest version and applications built on SQL Server should update to Microsoft OLE DB Driver version 18 or 19.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061729</guid>
+      <pubDate>Wed, 09 Jul 2025 13:33:49 +0000</pubDate>
     </item>
     <item>
       <title>DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware</title>
@@ -1424,29 +1445,6 @@ FYSA: IconAds, a mobile ad fraud operation, has been disrupted by HUMAN. Kaleido
       <description>IdeaLab, a California-based technology startup incubator, has been impacted by a data breach incident where hackers accessed sensitive information. The Hunters International ransomware group claimed the breach and leaked the stolen data on the dark web, affecting current and former employees, contractors, and their dependents.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/</guid>
       <pubDate>Thu, 03 Jul 2025 15:14:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft investigates ongoing SharePoint Online access issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/</link>
-      <description>FYSA:
-
-The article reports on an ongoing incident affecting SharePoint Online, a cloud-based collaboration platform. Users are experiencing intermittent access issues, with errors such as "Something went wrong." Microsoft is investigating the root cause of the issue, which appears to be related to authentication-related cookies. The company has not disclosed the affected regions or extent of the issue but has suggested possible workarounds using incognito mode.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/</guid>
-      <pubDate>Thu, 03 Jul 2025 14:53:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-20309: Cisco Unified CM Flaw Enables Remote Root Access</title>
-      <link>https://socradar.io/cve-2025-20309-cisco-unified-cm-remote-root-access/</link>
-      <description>Vulnerable Product: Cisco Unified Communications Manager platforms; CVE(s): CVE-2025-20309; Summary: A vulnerability in the static root account credentials allows an attacker to access a vulnerable device via SSH without authentication, granting full system compromise. This could enable deeper lateral movement across the network and jeopardize the integrity and confidentiality of communication platforms.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061679</guid>
-      <pubDate>Thu, 03 Jul 2025 12:35:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Exchange Server Subscription Edition now available</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/</link>
-      <description>Microsoft has announced the availability of Exchange Server Subscription Edition (SE) to all customers, which introduces changes to licensing and servicing. The new edition will be an evergreen release with continuous support, replacing previous versions that will reach end-of-life soon.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/</guid>
-      <pubDate>Thu, 03 Jul 2025 12:03:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
