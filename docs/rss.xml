@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 17:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 18:02:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UK Charges Four in ‘Scattered Spider’ Ransom Group</title>
+      <link>https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/</link>
+      <description>Scattered Spider, a data theft and extortion group, has been targeted by law enforcement in the UK, with four alleged members arrested. The group is known for using social engineering tactics to gain access to companies' systems and steal data for ransom.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=70968</guid>
+      <pubDate>Thu, 10 Jul 2025 17:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads</title>
+      <link>https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html</link>
+      <description>Vulnerable Product: JFrog mcp-remote; CVE(s): CVE-2025-6514; Summary: The mcp-remote project contains a critical vulnerability (CVE-2025-6514) that allows attackers to execute arbitrary operating system commands, posing a significant risk to users.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html</guid>
+      <pubDate>Thu, 10 Jul 2025 17:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russian pro basketball player arrested for alleged role in ransomware attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/</link>
@@ -1442,20 +1456,6 @@ FYSA: Threat actors are advertising exploits targeting known Fortinet CVEs (CVE-
 FYSA: Threat actors are using simple techniques to succeed in cloud attacks, with 8 key techniques revealed by Wiz's detections across thousands of organizations.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/</guid>
       <pubDate>Mon, 07 Jul 2025 00:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hands on with Windows 11 Notepad's new markdown support</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/</link>
-      <description>Vulnerable Product: None; Summary: This article is not about a vulnerability, but rather discusses the addition of markdown text formatting in Windows 11's Notepad app. The feature allows users to apply different formatting options such as headings, bold and italic styling, and hyperlinks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/</guid>
-      <pubDate>Sun, 06 Jul 2025 23:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT is testing disruptive Study Together feature</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/</link>
-      <description>Vulnerable Product: None; FYSA: The article does not contain information about a vulnerability. Instead, it discusses new features and updates related to OpenAI's ChatGPT, including the potential introduction of "Study together" mode, new connectors for GPT Search and Deep Research, and upcoming developments with GPT-5.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/</guid>
-      <pubDate>Sun, 06 Jul 2025 23:07:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
