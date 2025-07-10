@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 21:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 22:01:12 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Pro basketball player and 4 youths arrested in connection to ransomware crimes</title>
+      <link>https://arstechnica.com/security/2025/07/pro-basketball-player-and-4-youths-arrested-in-connection-to-ransomware-crimes/</link>
+      <description>Authorities in the UK arrested four individuals, including three men and one woman, in connection with separate and unrelated ransomware operations. The attacks targeted M&amp;S, Co-op, and Harrods, and were attributed to Scattered Spider, a group that uses impersonation and phishing tactics to gain access to networks.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/pro-basketball-player-and-4-youths-arrested-in-connection-to-ransomware-crimes/</guid>
+      <pubDate>Thu, 10 Jul 2025 21:54:26 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 11 now uses JScript9Legacy engine for improved security</title>
       <link>https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/</link>
@@ -1445,15 +1452,6 @@ Overall, while this article is not focused on a specific vulnerability, it provi
       <description>The article highlights the risks associated with using default passwords in various devices and software systems. It emphasizes that default passwords provide an easy entry point for attackers, allowing them to recruit botnets, launch ransomware attacks, and compromise entire networks or partner systems.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/manufacturing-security-why-default.html</guid>
       <pubDate>Mon, 07 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SSO 0-Day &amp; Fortinet Exploits, Allianz Breach, Social Media Ban Service Listed on Dark Web</title>
-      <link>https://socradar.io/sso-0-day-fortinet-exploits-allianz-breach-social-media-ban-service/</link>
-      <description>Vulnerable Product: Apereo CAS, Jasig, Keycloak with the CAS plugin; CVE(s): None; Summary: An alleged 0-day redirect vulnerability exists in major Single Sign-On (SSO) platforms, potentially allowing attackers to redirect users from trusted login portals to attacker-controlled domains, enabling phishing, session hijacking, or login bypass. The issue affects over 12,000 live systems across government, healthcare, finance, and international organizations.
-
-FYSA: Threat actors are advertising exploits targeting known Fortinet CVEs (CVE-2024-55591) and a stolen database linked to Allianz Seguros Spain, potentially containing approximately 4.6 million records. Additionally, a social media ban service is being promoted, offering targeted takedowns across multiple platforms.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061689</guid>
-      <pubDate>Mon, 07 Jul 2025 09:55:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
