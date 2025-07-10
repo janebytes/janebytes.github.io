@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 13:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 14:07:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Four arrested in UK over M&amp;S, Co-op, Harrod cyberattacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/</link>
+      <description>The UK's National Crime Agency (NCA) arrested four individuals suspected of involvement in cyberattacks on major retailers, including Marks &amp; Spencer, Co-op, and Harrods. The attacks were attributed to threat actors classified as Scattered Spider, with a history of breaches over the past few years.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/</guid>
+      <pubDate>Thu, 10 Jul 2025 13:46:02 +0000</pubDate>
+    </item>
     <item>
       <title>Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods</title>
       <link>https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</link>
@@ -62,6 +69,24 @@ Overall, this article provides an overview of various cyber threats and tactics 
       <description>Vulnerable Product: ServiceNow; CVE(s): CVE-2025-3648; Summary: A high-severity vulnerability in ServiceNow's Now Platform allows unauthenticated users to infer and expose confidential data from various tables. The flaw is due to conditional access control list (ACL) rules, which can be exploited by malicious actors to obtain unauthorized access to sensitive information, including personally identifiable information (PII) and credentials.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html</guid>
       <pubDate>Thu, 10 Jul 2025 07:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Violent Extremists Likely Shifting Focus to Targeted Physical Threats in 2025</title>
+      <link>https://www.recordedfuture.com/research/us-violent-extremists-shifting-focus-targeted-physical-threats-2025</link>
+      <description>FYSA:
+
+As a cybersecurity analyst, I analyzed the provided article and found it to be a strategic threat assessment report from a credible source. The report provides an in-depth analysis of various terrorist organizations, their capabilities, and potential threats to the United States and its interests.
+
+The report covers several key topics, including:
+
+1. IS and Al-Qaeda: The report highlights the ongoing threat posed by these two terrorist organizations, which continue to inspire attacks and recruit supporters worldwide.
+2. Hamas: The report notes that while mass-casualty attacks are unlikely, small-scale violence and sporadic incidents cannot be ruled out.
+3. Iran and its proxies: The report suggests that Iran's military and intelligence agencies may attempt to recruit or incite threat actors to conduct targeted attacks against US politicians and Iranian dissidents on US soil.
+4. Hezbollah and the Houthis: The report notes that these groups have not demonstrated an interest in conducting attacks in the United States, with Hezbollah being particularly weakened by leadership losses.
+
+The report provides valuable insights into the current terrorist landscape and potential threats to national security. It is essential for policymakers, law enforcement agencies, and intelligence communities to stay informed about these developments to ensure effective counterterrorism strategies.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/us-violent-extremists-shifting-focus-targeted-physical-threats-2025</guid>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Authenticator on iOS moves backups fully to iCloud</title>
@@ -1431,20 +1456,6 @@ FYSA: Threat actors are using simple techniques to succeed in cloud attacks, wit
       <description>Vulnerable Product: GFI, Archiver; CVE(s): CVE-2019-18935, CVE-2017-11317, CVE-2014-2217; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of GFI Archiver. Authentication is not required to exploit this vulnerability, and the issue results from the use of a vulnerable version of Telerik Web UI.</description>
       <guid isPermaLink="false">ZDI-CAN-26061</guid>
       <pubDate>Thu, 03 Jul 2025 20:01:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Provider of covert surveillance app spills passwords for 62,000 users</title>
-      <link>https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/</link>
-      <description>The article reports on a stalkerware service called Catwatchful that has a hidden backdoor allowing users to uninstall the app by inputting specific numbers on their device's keyboard. The app uploads content in real-time and can be viewed from a web dashboard, and the service's operators were identified through a database dump.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/</guid>
-      <pubDate>Thu, 03 Jul 2025 19:36:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>xAI prepares Grok 4 Code as it plans to take on Claude and Gemini</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/</link>
-      <description>The article discusses the upcoming release of Grok 4, a new state-of-the-art language model from xAI. It also highlights various cloud-based threat actor techniques used to launch attacks on organizations. Additionally, the article mentions other AI-related updates and releases from Google and Vibe coding company.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/</guid>
-      <pubDate>Thu, 03 Jul 2025 19:00:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
