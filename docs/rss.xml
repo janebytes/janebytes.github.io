@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 11:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 12:04:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>What Security Leaders Need to Know About AI Governance for SaaS</title>
+      <link>https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html</link>
+      <description>The article discusses the increasing adoption of generative AI in software-as-a-service (SaaS) applications and the need for AI governance to ensure responsible use and minimize risks. It highlights concerns around data exposure, compliance violations, and operational issues that can arise from uncontrolled AI usage. The article emphasizes the importance of visibility, centralized strategy, and regular monitoring to prevent shadow AI instances and potential security breaches.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html</guid>
+      <pubDate>Thu, 10 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App</title>
+      <link>https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): None; Summary: The ZuRu malware has been observed propagating via trojanized versions of legitimate software, including Termius, a cross-platform SSH client and server-management tool. The malware uses Khepri, an open-source post-exploitation toolkit, to gain remote control of infected hosts, and employs a modified loader and C2 techniques to backdoor its targets.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html</guid>
+      <pubDate>Thu, 10 Jul 2025 10:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs</title>
+      <link>https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html</link>
+      <description>Vulnerable Product: AMD; CVE(s): CVE-2024-36350, CVE-2024-36357, CVE-2024-36348, CVE-2024-36349; Summary: A set of vulnerabilities, collectively called Transient Scheduler Attacks (TSA), affects a broad range of AMD chipsets, allowing an attacker to infer data from previous stores and potentially leading to information leakage. The flaws manifest as speculative side channels in CPUs that leverage execution timing of instructions under specific microarchitectural conditions.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html</guid>
+      <pubDate>Thu, 10 Jul 2025 10:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fix the Click: Preventing the ClickFix Attack Vector</title>
       <link>https://unit42.paloaltonetworks.com/preventing-clickfix-attack-vector/</link>
@@ -1428,29 +1449,6 @@ However, the article also includes non-security related content, such as a nosta
       <description>The article discusses a large-scale investment fraud operation that was dismantled by the Spanish police, resulting in the arrest of 21 individuals and the confiscation of luxury vehicles and cash. The scammers used tactics similar to "romance baiting" scams, luring victims into fake investments through social media ads and manipulated websites.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/</guid>
       <pubDate>Thu, 03 Jul 2025 17:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grafana releases critical security update for Image Renderer plugin</title>
-      <link>https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/</link>
-      <description>Vulnerable Product: Grafana Image Renderer and Synthetic Monitoring Agent; CVE(s): CVE-2025-5959, CVE-2025-6554, CVE-2025-6191, CVE-2025-6192; Summary: Four high-severity Chromium vulnerabilities have been addressed in critical security updates for the Grafana Image Renderer plugin and Synthetic Monitoring Agent. The issues allow remote code execution, arbitrary memory read/write, out-of-bounds memory access, and heap corruption exploitable via crafted HTML pages.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/</guid>
-      <pubDate>Thu, 03 Jul 2025 16:16:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Tech’s Mixed Response to U.S. Treasury Sanctions</title>
-      <link>https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/</link>
-      <description>Liu "Steve" Lizhi, a 40-year-old Chinese national, was sanctioned by the U.S. Department of the Treasury for operating a cloud provider linked to virtual currency investment scams known as "pig butchering." Despite being sanctioned, Lizhi maintains active accounts on Facebook, GitHub, PayPal, and Twitter/X, which continue to operate without issue. The article highlights concerns that big tech companies are not doing enough to cut ties with sanctioned individuals like Lizhi, potentially putting users at risk of financial losses.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71564</guid>
-      <pubDate>Thu, 03 Jul 2025 16:06:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams</title>
-      <link>https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html</link>
-      <description>The article discusses several mobile ad fraud operations, including IconAds, Kaleidoscope, NGate, SuperCard X, and Qwizzserial. These operations involve the distribution of malicious apps through various means, including third-party app stores, fake websites, and social media platforms. The malware targets Android devices and steals user data, injects ads, and conducts fraudulent transactions.
-
-FYSA: IconAds, a mobile ad fraud operation, has been disrupted by HUMAN. Kaleidoscope is another ad fraud scheme that uses the "evil twin" technique to distribute malicious apps. NGate and SuperCard X are malware families that abuse NFC technology for financial fraud. Qwizzserial is an SMS stealer that targets users in Uzbekistan.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html</guid>
-      <pubDate>Thu, 03 Jul 2025 16:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
