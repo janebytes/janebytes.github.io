@@ -6,8 +6,31 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 16:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 17:12:17 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Russian pro basketball player arrested for alleged role in ransomware attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/</link>
+      <description>Russian professional basketball player Daniil Kasatkin was arrested in France at the request of the United States for allegedly acting as a negotiator for a ransomware gang. The arrest is part of an international effort to disrupt and prosecute cybercrime.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/</guid>
+      <pubDate>Thu, 10 Jul 2025 16:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>PerfektBlue Bluetooth flaws impact Mercedes, Volkswagen, Skoda cars</title>
+      <link>https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/</link>
+      <description>Vulnerable Product: OpenSynergy BlueSDK; CVE(s): CVE-2024-45434, CVE-2024-45431, CVE-2024-45433, CVE-2024-45432; Summary: Four vulnerabilities in the OpenSynergy BlueSDK Bluetooth stack allow remote code execution and potentially grant access to critical elements in vehicles from multiple vendors.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/</guid>
+      <pubDate>Thu, 10 Jul 2025 16:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asus and Adobe vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/asus-and-adobe-vulnerabilities/</link>
+      <description>Vulnerable Product: Asus Armoury Crate; CVE(s): TALOS-2025-2144 (CVE-2025-1533), TALOS-2025-2150 (CVE-2022-3464); Summary: A stack-based buffer overflow vulnerability in the AsIO3.sys kernel driver of Asus Armoury Crate 5.9.13.0 allows an unprivileged attacker to run a program from user mode, while an authorization bypass vulnerability in the AsIO3.sys functionality can be triggered by creating a specially crafted hard link.
+
+Vulnerable Product: Adobe Acrobat Reader; CVE(s): TALOS-2025-2159 (CVE-2025-43578), TALOS-2025-2170 (CVE-2025-43576); Summary: An out-of-bounds read vulnerability in the Font functionality of Adobe Acrobat Reader 2025.001.20435 allows disclosure of sensitive information, while a use-after-free vulnerability in the annotation object processing functionality can lead to memory corruption and arbitrary code execution.</description>
+      <guid isPermaLink="false">686ec0185df3de0001555dfd</guid>
+      <pubDate>Thu, 10 Jul 2025 15:24:47 +0000</pubDate>
+    </item>
     <item>
       <title>Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord</title>
       <link>https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html</link>
@@ -35,6 +58,90 @@
       <description>The article reports on the arrest of four individuals suspected of being involved in cyber attacks targeting major retailers in the UK. The attacks are believed to be perpetrated by a decentralized cybercrime group called Scattered Spider, which is notorious for its advanced social engineering tactics and willingness to be persistent in gaining initial access to targets.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</guid>
       <pubDate>Thu, 10 Jul 2025 12:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>End-of-Train and Head-of-Train Remote Linking Protocol</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-10</link>
+      <description>Vulnerable Product: End-of-Train and Head-of-Train remote linking protocol; CVE(s): CVE-2025-1727; Summary: The vulnerability allows an attacker to send their own brake control commands to the end-of-train device, potentially causing a sudden stoppage or inducing brake failure. Exploitation requires low attack complexity and can be achieved through software-defined radio and a malicious packet.</description>
+      <guid isPermaLink="false">/node/23613</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Solid Edge</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-02</link>
+      <description>Vulnerable Product: Siemens Solid Edge SE2025; CVE(s): CVE-2025-40739, CVE-2025-40740, CVE-2025-40741; Summary: Successful exploitation of these vulnerabilities could allow an attacker to crash the application or execute arbitrary code. The affected applications contain out-of-bounds read past the end of an allocated structure while parsing specially crafted PAR files, which could allow an attacker to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">/node/23605</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KUNBUS RevPi Webstatus</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-09</link>
+      <description>Vulnerable Product: KUNBUS Revolution Pi Webstatus, Kunbus Revolution Pi OS Bullseye; CVE(s): CVE-2025-41646; Summary: The Revolution Pi Webstatus application is vulnerable to an authentication bypass due to an incorrect implementation of the authentication algorithm. Successful exploitation could allow attackers to gain unauthorized access to the application.</description>
+      <guid isPermaLink="false">/node/23612</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Electronics DTM Soft</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-07</link>
+      <description>Vulnerable Product: Delta Electronics DTM Soft; CVE(s): CVE-2025-53415; Summary: The DTM Soft software is vulnerable to a deserialization of untrusted data vulnerability, which could allow an attacker to extract information. Successful exploitation could also encrypt files referencing the application.</description>
+      <guid isPermaLink="false">/node/23610</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIPROTEC 5</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-06</link>
+      <description>Vulnerable Product: Siemens SIPROTEC 5; CVE(s): CVE-2025-40742; Summary: The vulnerability allows an attacker to retrieve sensitive session data from browser history, logs, or other storage mechanisms, potentially leading to unauthorized access. Successful exploitation could allow an attacker to retrieve sensitive session data, which could lead to unauthorized access.</description>
+      <guid isPermaLink="false">/node/23609</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC NMS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-01</link>
+      <description>Vulnerable Product: Siemens SINEC NMS; CVE(s): CVE-2025-40735, CVE-2025-40736, CVE-2025-40737, CVE-2025-40738; Summary: The affected devices are vulnerable to SQL injection, allowing an unauthenticated remote attacker to execute arbitrary SQL queries on the server database. Additionally, the application exposes an endpoint that allows an unauthorized modification of administrative credentials, and does not properly validate file paths when extracting uploaded ZIP files, potentially executing code with elevated privileges. Successful exploitation could allow an attacker to elevate privileges and execute arbitrary code.</description>
+      <guid isPermaLink="false">/node/23604</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/10/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-5777; Summary: This vulnerability is an out-of-bounds read vulnerability that poses significant risks to the federal enterprise. It has been added to CISA's Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation, and agencies are required to remediate it by a specified date to protect against active threats.</description>
+      <guid isPermaLink="false">/node/23615</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens TIA Project-Server and TIA Portal</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-05</link>
+      <description>Vulnerable Product: Siemens Project-Server and TIA Portal; CVE(s): CVE-2025-27127; Summary: Unrestricted upload of files with dangerous types allows an attacker to cause a denial-of-service condition by uploading a malicious project. The vulnerability affects several versions of TIA Project-Server, TIA Portal, and Totally Integrated Automation Portal (TIA Portal).</description>
+      <guid isPermaLink="false">/node/23608</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens TIA Administrator</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-03</link>
+      <description>Vulnerable Product: Siemens TIA Administrator; CVE(s): CVE-2025-23364, CVE-2025-23365; Summary: The Siemens TIA Administrator has two vulnerabilities that allow an attacker to escalate privilege or execute arbitrary code during installations. The first vulnerability is due to improper verification of cryptographic signatures, while the second allows low-privileged users to trigger installations by overwriting cache files and modifying downloads paths. Successful exploitation could result in arbitrary code execution.</description>
+      <guid isPermaLink="false">/node/23606</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advantech iView</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-08</link>
+      <description>Vulnerable Product: Advantech iView; CVE(s): CVE-2025-53397, CVE-2025-53519, CVE-2025-41442, CVE-2025-48891, CVE-2025-46704, CVE-2025-53475, CVE-2025-52577, CVE-2025-53515, CVE-2025-52459, CVE-2025-53509; Summary: Multiple vulnerabilities exist in Advantech iView versions prior to 5.7.05 build 7057, including cross-site scripting (XSS), SQL injection, path traversal, and argument injection. Successful exploitation could allow an attacker to disclose sensitive information, achieve remote code execution, or cause service disruptions.</description>
+      <guid isPermaLink="false">/node/23611</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC CN 4100</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-04</link>
+      <description>Vulnerable Product: Siemens SIMATIC CN 4100; CVE(s): CVE-2025-40593; Summary: The vulnerability allows an attacker to cause a denial-of-service condition by storing arbitrary files in the SFTP folder of the device. The vulnerable product is all versions prior to V4.0, and updating to V4.0 or later version mitigates the risk.</description>
+      <guid isPermaLink="false">/node/23607</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Thirteen Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/10/cisa-releases-thirteen-industrial-control-systems-advisories</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released 13 Industrial Control Systems (ICS) advisories on July 10, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. CISA encourages users to review the advisories for technical details and mitigations.</description>
+      <guid isPermaLink="false">/node/23614</guid>
+      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Does Dark Web Monitoring Work? A Step-by-Step Overview</title>
@@ -1349,113 +1456,6 @@ FYSA: Threat actors are using simple techniques to succeed in cloud attacks, wit
       <description>Vulnerable Product: None; FYSA: The article does not contain information about a vulnerability. Instead, it discusses new features and updates related to OpenAI's ChatGPT, including the potential introduction of "Study together" mode, new connectors for GPT Search and Deep Research, and upcoming developments with GPT-5.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/</guid>
       <pubDate>Sun, 06 Jul 2025 23:07:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ingram Micro outage caused by SafePay ransomware attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/</link>
-      <description>The article reports on an ongoing outage at Ingram Micro caused by a SafePay ransomware attack. The attack led to the shutdown of internal systems and ransom notes were found on employee devices, although it's unclear if devices were actually encrypted.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/</guid>
-      <pubDate>Sat, 05 Jul 2025 15:58:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties</title>
-      <link>https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html</link>
-      <description>Vulnerable Product: Taiwan's National Security Bureau (NSB) warned about various Chinese-developed applications; CVE(s): None; Summary: The NSB detected excessive data collection, privacy infringement, and unauthorized data transmission from apps like RedNote, Weibo, TikTok, WeChat, and Baidu Cloud to China. These apps breached security indicators, including personal data collection, permission usage, data transmission, system information extraction, and biometric data access.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html</guid>
-      <pubDate>Sat, 05 Jul 2025 06:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS</title>
-      <link>https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html</link>
-      <description>Vulnerable Product: Multiple applications (TeamCity, Jenkins, Selenium Grid, Elasticsearch, Quarkus, Spring Boot, Apache Tomcat); CVE(s): None; Summary: Threat actors are exploiting exposed Java Debug Wire Protocol (JDWP) interfaces to obtain code execution capabilities and deploy cryptocurrency miners on compromised hosts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html</guid>
-      <pubDate>Sat, 05 Jul 2025 05:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Deep Research tests new connectors for more context</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/</link>
-      <description>Vulnerable Product: None; FYSA: The article discusses the integration of Slack with ChatGPT, a research AI agent. It mentions potential use cases for the integration, such as allowing ChatGPT to access an organization's chat and use messages in the context of research.
-
-(Note: Since there is no vulnerability mentioned in the article, I summarized it using the FYSA format)</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/</guid>
-      <pubDate>Fri, 04 Jul 2025 22:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ingram Micro suffers global outage as internal systems inaccessible</title>
-      <link>https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/</link>
-      <description>Ingram Micro's global outage impacting its websites and internal systems, with customers concerned it may be a cyberattack. The company remains silent on the cause of the issue. Some customers and employees claim the outage is due to a potential ransomware attack or breach, but this has not been confirmed.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/</guid>
-      <pubDate>Fri, 04 Jul 2025 15:14:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker leaks Telefónica data allegedly stolen in a new breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/</link>
-      <description>This article is not about a vulnerability but rather reports on a potential data breach at Telefónica, a Spanish telecommunications company. The hacker, known as "Rey," claims to have stolen 106GB of internal data and has released a 2.6GB archive to prove the breach occurred.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/</guid>
-      <pubDate>Fri, 04 Jul 2025 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors</title>
-      <link>https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html</link>
-      <description>No vulnerability is mentioned in this article. Instead, it discusses a threat actor called NightEagle (APT-Q-95) that targets Microsoft Exchange servers as part of a zero-day exploit chain to gather intelligence from government, defense, and technology sectors in China. The attackers use a bespoke version of the Chisel utility and implant a Trojan into the Internet Information Server (IIS) service of the Microsoft Exchange Server to gain unauthorized access.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html</guid>
-      <pubDate>Fri, 04 Jul 2025 12:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It</title>
-      <link>https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: This article is not about a specific vulnerability, but rather highlights the potential risks of using generative AI (GenAI) systems without proper access controls, governance policies, and oversight. It discusses how well-meaning AI agents can unintentionally leak sensitive data to the wrong users or the internet, and emphasizes the importance of securing AI agents to prevent data exposure.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html</guid>
-      <pubDate>Fri, 04 Jul 2025 09:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros</title>
-      <link>https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html</link>
-      <description>Vulnerable Product: Sudo; CVE(s): CVE-2025-32462, CVE-2025-32463; Summary: Two security flaws were discovered in Sudo, a command-line utility for Linux and Unix-like operating systems. The vulnerabilities allow local attackers to escalate their privileges to root on susceptible machines. CVE-2025-32462 enables listed users to execute commands on unintended machines, while CVE-2025-32463 allows local users to obtain root access by using the --chroot option with a user-controlled directory.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html</guid>
-      <pubDate>Fri, 04 Jul 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission</title>
-      <link>https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html</link>
-      <description>Google has been ordered by a California court to pay $314 million over allegations that it misused Android device users' cellular data when idle, sending information to the company without permission. The verdict marks an end to a legal class-action complaint filed in 2019.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html</guid>
-      <pubDate>Fri, 04 Jul 2025 07:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/</link>
-      <description>Vulnerable Product: None; FYSA: There are no cybersecurity-relevant vulnerabilities or threats discussed in this article. Instead, it appears to be a collection of unrelated news and updates about OpenAI's ChatGPT and cloud security. The article mentions the possibility of an "Operator-like tool" being developed by OpenAI, but does not provide any information about potential vulnerabilities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/</guid>
-      <pubDate>Thu, 03 Jul 2025 23:22:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-469: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-469/</link>
-      <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47724; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of DPB files by the Screen Editor module due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26718</guid>
-      <pubDate>Thu, 03 Jul 2025 21:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-470: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-470/</link>
-      <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47725; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of DPB files by the Screen Editor module due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26719</guid>
-      <pubDate>Thu, 03 Jul 2025 21:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-471: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-471/</link>
-      <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47727; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft by parsing DPB files without proper validation of user-supplied data, resulting in a write past the end of an allocated data structure. User interaction is required to exploit this vulnerability, requiring the target to visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26842</guid>
-      <pubDate>Thu, 03 Jul 2025 21:01:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-472: Delta Electronics CNCSoft Screen Editor DPB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-472/</link>
-      <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47726; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft, requiring user interaction. It exists within the parsing of DPB files by the Screen Editor module due to lack of proper validation of user-supplied data, resulting in a write past the end of an allocated data structure.</description>
-      <guid isPermaLink="false">ZDI-CAN-26720</guid>
-      <pubDate>Thu, 03 Jul 2025 21:01:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
