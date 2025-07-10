@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 15:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 16:01:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord</title>
+      <link>https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html</link>
+      <description>Cryptocurrency users are being targeted by a social engineering campaign that uses fake startup companies to trick them into downloading malware. The campaign employs spoofed social media accounts and project documentation on legitimate platforms like Notion and GitHub, and has been ongoing since at least March 2024.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html</guid>
+      <pubDate>Thu, 10 Jul 2025 14:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>FBI's CJIS demystified: Best practices for passwords, MFA &amp; access control</title>
       <link>https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/</link>
@@ -1449,13 +1456,6 @@ FYSA: Threat actors are using simple techniques to succeed in cloud attacks, wit
       <description>Vulnerable Product: Delta Electronics CNCSoft Screen Editor; CVE(s): CVE-2025-47726; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics CNCSoft, requiring user interaction. It exists within the parsing of DPB files by the Screen Editor module due to lack of proper validation of user-supplied data, resulting in a write past the end of an allocated data structure.</description>
       <guid isPermaLink="false">ZDI-CAN-26720</guid>
       <pubDate>Thu, 03 Jul 2025 21:01:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-467: GStreamer H266 Codec Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-467/</link>
-      <description>Vulnerable Product: GStreamer; CVE(s): CVE-2025-6663; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. The specific flaw exists within the parsing of H266 sei messages, resulting from a lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-27381</guid>
-      <pubDate>Thu, 03 Jul 2025 20:01:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
