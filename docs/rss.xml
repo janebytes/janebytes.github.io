@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2025 17:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 18:02:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-587: Luxion KeyShot 3DM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-587/</link>
+      <description>Vulnerable Product: Luxion KeyShot; CVE(s): CVE-2025-7222; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Luxion KeyShot by writing past the end of an allocated buffer. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue exists within the parsing of 3DM files and can be exploited to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26473</guid>
+      <pubDate>Fri, 11 Jul 2025 18:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-588: Trend Micro Cleaner One Pro Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-588/</link>
+      <description>Vulnerable Product: Trend Micro Cleaner One Pro; CVE(s): CVE-2025-53503; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Cleaner One Pro. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Junk Files Cleanup functionality.</description>
+      <guid isPermaLink="false">ZDI-CAN-26484</guid>
+      <pubDate>Fri, 11 Jul 2025 18:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-589: Trend Micro Worry-Free Business Security Missing Authentication Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-589/</link>
+      <description>Vulnerable Product: Trend Micro Worry-Free Business Security; CVE(s): ZDI-25-589, ZDI-CAN-25342, CVE-2025-53378; Summary: This vulnerability allows remote attackers to hijack security agents on affected installations of Trend Micro Worry-Free Business Security. It requires user interaction and exists within the agent activation API due to a lack of authentication prior to allowing access to functionality.</description>
+      <guid isPermaLink="false">ZDI-CAN-25342</guid>
+      <pubDate>Fri, 11 Jul 2025 18:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-590: G DATA Total Security GDTunerSvc Link Following Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-590/</link>
+      <description>Vulnerable Product: G DATA Total Security; CVE(s): CVE-2025-2790; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of G DATA Total Security. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, and can leverage it to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26240</guid>
+      <pubDate>Fri, 11 Jul 2025 18:01:10 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/</link>
@@ -1422,34 +1450,6 @@ FYSA: The article discusses a sophisticated social engineering attack on an empl
       <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7224; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool by exploiting an out-of-bounds write in the parsing of VPM files. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file.</description>
       <guid isPermaLink="false">ZDI-CAN-25045</guid>
       <pubDate>Mon, 07 Jul 2025 19:04:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-476: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-476/</link>
-      <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7225; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool by exploiting an out-of-bounds write in the parsing of VPM files. User interaction is required, and the issue results from the lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25047</guid>
-      <pubDate>Mon, 07 Jul 2025 19:04:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-477: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-477/</link>
-      <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7226; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool by parsing VPM files with an out-of-bounds write. User interaction is required, and the issue stems from a lack of proper validation of user-supplied data, which can result in writing past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-25048</guid>
-      <pubDate>Mon, 07 Jul 2025 19:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-478: (0Day) INVT VT-Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-478/</link>
-      <description>Vulnerable Product: INVT VT-Designer PM3 File Parser; CVE(s): CVE-2025-7227; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer by exploiting an out-of-bounds write in the parsing of PM3 files. User interaction is required, and the attack can be initiated through a malicious page or file.</description>
-      <guid isPermaLink="false">ZDI-CAN-25550</guid>
-      <pubDate>Mon, 07 Jul 2025 19:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-479: (0Day) INVT VT-Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-479/</link>
-      <description>Vulnerable Product: INVT, VT-Designer PM3 File Parser; CVE(s): CVE-2025-7228; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer by exploiting an out-of-bounds write issue in the parsing of PM3 files. User interaction is required to exploit this vulnerability, and the specific flaw exists due to the lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25571</guid>
-      <pubDate>Mon, 07 Jul 2025 19:03:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
