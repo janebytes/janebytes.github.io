@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2025 14:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 15:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/</link>
+      <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-5777; Summary: A critical memory safety vulnerability (out-of-bounds memory read) allows unauthenticated attackers to access restricted parts of memory, impacting devices configured as a Gateway or AAA virtual server in versions prior to 14.1-43.56, 13.1-58.32, and others.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/</guid>
+      <pubDate>Fri, 11 Jul 2025 14:45:57 +0000</pubDate>
+    </item>
     <item>
       <title>PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution</title>
       <link>https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html</link>
@@ -1441,13 +1448,6 @@ FYSA: The article discusses a sophisticated social engineering attack on an empl
       <description>Vulnerable Product: INVT VT-Designer; CVE(s): CVE-2025-7231; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer. It requires user interaction, such as visiting a malicious page or opening a malicious file, and is caused by the lack of proper validation of user-supplied data in the parsing of PM3 files.</description>
       <guid isPermaLink="false">ZDI-CAN-25724</guid>
       <pubDate>Mon, 07 Jul 2025 19:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atomic macOS infostealer adds backdoor for persistent attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/</link>
-      <description>Vulnerable Product: Atomic macOS Stealer; CVE(s): None; Summary: The Atomic macOS info-stealer (AMOS) has been updated with a backdoor, allowing attackers to execute arbitrary remote commands, survive reboots, and maintain control over infected hosts indefinitely. The malware can log keystrokes, introduce additional payloads, or perform lateral movement. It also features string obfuscation and checks for sandbox or virtual machine environments to evade detection.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/</guid>
-      <pubDate>Mon, 07 Jul 2025 18:24:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
