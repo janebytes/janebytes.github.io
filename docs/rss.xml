@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 22:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 10:06:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Evolving Tactics of SLOW#TEMPEST: A Deep Dive Into Advanced Malware Techniques</title>
+      <link>https://unit42.paloaltonetworks.com/slow-tempest-malware-obfuscation/</link>
+      <description>Vulnerable Product: SLOW#TEMPEST malware; CVE(s): None; Summary: The article analyzes a malware variant related to the SLOW#TEMPEST campaign, which employs obfuscation techniques such as control flow graph (CFG) obfuscation using dynamic jumps and obfuscated function calls. The malware's authors use these techniques to hinder static analysis and make detection more challenging.
+
+FYSA: The article highlights the importance of adopting advanced dynamic analysis techniques alongside static analysis to effectively dissect and understand modern malware.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=146001</guid>
+      <pubDate>Fri, 11 Jul 2025 10:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises</title>
+      <link>https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html</link>
+      <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: An instance of insufficient input validation in Citrix NetScaler ADC and Gateway allows an attacker to bypass authentication when the appliance is configured as a Gateway or AAA virtual server, leading to memory overread. This vulnerability (CVE-2025-5777) has been weaponized in the wild and can be exploited by sending the same payload repeatedly, causing sensitive information to be leaked.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html</guid>
+      <pubDate>Fri, 11 Jul 2025 04:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pro basketball player and 4 youths arrested in connection to ransomware crimes</title>
       <link>https://arstechnica.com/security/2025/07/pro-basketball-player-and-4-youths-arrested-in-connection-to-ransomware-crimes/</link>
@@ -81,11 +97,32 @@ Vulnerable Product: Adobe Acrobat Reader; CVE(s): TALOS-2025-2159 (CVE-2025-4357
       <pubDate>Thu, 10 Jul 2025 14:02:12 +0000</pubDate>
     </item>
     <item>
+      <title>Four arrested in UK over M&amp;S, Co-op, Harrods cyberattacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrods-cyberattacks/</link>
+      <description>Four individuals, including two 19-year-old males, one 17-year-old male, and a 20-year-old female, were arrested by the UK's National Crime Agency (NCA) for suspected involvement in cyberattacks on major retailers, including Marks &amp; Spencer, Co-op, and Harrods. The suspects are believed to be linked to Scattered Spider, a threat actor group known for numerous breaches over the past few years.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrods-cyberattacks/</guid>
+      <pubDate>Thu, 10 Jul 2025 13:46:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Four arrested in UK over M&amp;S, Co-op, Harrod cyberattacks</title>
       <link>https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/</link>
       <description>The UK's National Crime Agency (NCA) arrested four individuals suspected of involvement in cyberattacks on major retailers, including Marks &amp; Spencer, Co-op, and Harrods. The attacks were attributed to threat actors classified as Scattered Spider, with a history of breaches over the past few years.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/</guid>
       <pubDate>Thu, 10 Jul 2025 13:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Profile: Arkana Ransomware</title>
+      <link>https://socradar.io/dark-web-profile-arkana-ransomware/</link>
+      <description>Arkana Ransomware is a group that emerged in early 2025, claiming to have stolen customer databases and taken control of key backend systems. They are part of the Qilin Network, a Ransomware-as-a-Service (RaaS) platform.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061758</guid>
+      <pubDate>Thu, 10 Jul 2025 13:21:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is a Dark Web Monitoring API?</title>
+      <link>https://socradar.io/what-is-a-dark-web-monitoring-api/</link>
+      <description>This article discusses the importance of Dark Web Monitoring APIs in detecting cyber threats and preventing attacks. It highlights the benefits of using such tools, including real-time alerts, broad coverage, and seamless integration into existing security systems. The article also provides best practices for setting up and configuring dark web monitoring APIs, as well as legal considerations and regulatory requirements.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061750</guid>
+      <pubDate>Thu, 10 Jul 2025 12:41:42 +0000</pubDate>
     </item>
     <item>
       <title>Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods</title>
@@ -1413,45 +1450,6 @@ FYSA: The article discusses a sophisticated social engineering attack on an empl
 FYSA: The article highlights the effectiveness of simple techniques used by threat actors, even as cloud attacks become more sophisticated.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/</guid>
       <pubDate>Mon, 07 Jul 2025 16:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers abuse leaked Shellter red team tool to deploy infostealers</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/</link>
-      <description>Vulnerable Product: Shellter; CVE(s): None; Summary: Hackers used Shellter Elite, a commercial AV/EDR evasion loader for penetration testing, in attacks after a customer leaked a copy of the software. The misuse was discovered by security researchers and an update has been released to address the issue.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/</guid>
-      <pubDate>Mon, 07 Jul 2025 14:49:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-473: Parallels Client Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-473/</link>
-      <description>Vulnerable Product: Parallels Client; CVE(s): CVE-2025-6812; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Client by exploiting an uncontrolled search path element in the AppServer service, which loads an OpenSSL configuration file from an unsecured location. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability and execute arbitrary code in the context of a target user.</description>
-      <guid isPermaLink="false">ZDI-CAN-25039</guid>
-      <pubDate>Mon, 07 Jul 2025 14:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/07/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
-      <description>Vulnerable Product: Multiple products; CVE(s): CVE-2014-3931, CVE-2016-10033, CVE-2019-5418, CVE-2019-9621; Summary: The Known Exploited Vulnerabilities (KEV) Catalog has added four new vulnerabilities, including a Multi-Router Looking Glass Buffer Overflow, PHPMailer Command Injection, Rails Ruby on Rails Path Traversal, and Synacor Zimbra Collaboration Suite Server-Side Request Forgery. These vulnerabilities are frequently targeted by malicious actors and pose significant risks to the federal enterprise and other organizations.</description>
-      <guid isPermaLink="false">/node/23600</guid>
-      <pubDate>Mon, 07 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More</title>
-      <link>https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html</link>
-      <description>This article appears to be a collection of various cybersecurity-related news and developments, covering topics such as malware attacks, phishing campaigns, data breaches, and security updates from major technology companies. There are no specific vulnerabilities mentioned in the article.
-
-However, it's worth noting that the article does discuss some common attack vectors and tactics used by malicious actors, including smishing campaigns, email bombing, and file system redirection attacks. It also highlights the importance of robust cybersecurity measures and the need for organizations to stay vigilant against emerging threats.
-
-Overall, while this article is not focused on a specific vulnerability, it provides valuable insights into the current state of cybersecurity and the types of threats that organizations may face in today's digital landscape.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html</guid>
-      <pubDate>Mon, 07 Jul 2025 11:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manufacturing Security: Why Default Passwords Must Go</title>
-      <link>https://thehackernews.com/2025/07/manufacturing-security-why-default.html</link>
-      <description>The article highlights the risks associated with using default passwords in various devices and software systems. It emphasizes that default passwords provide an easy entry point for attackers, allowing them to recruit botnets, launch ransomware attacks, and compromise entire networks or partner systems.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/manufacturing-security-why-default.html</guid>
-      <pubDate>Mon, 07 Jul 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
