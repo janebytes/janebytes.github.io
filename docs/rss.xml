@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2025 20:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 21:01:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-591: Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-591/</link>
+      <description>Vulnerable Product: Delta Electronics DTM Soft; CVE(s): CVE-2025-53415; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics DTM Soft. User interaction is required, and the specific flaw exists within the parsing of BIN files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26161</guid>
+      <pubDate>Fri, 11 Jul 2025 21:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Windows 11 build adds self-healing “quick machine recovery” feature</title>
+      <link>https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/</link>
+      <description>This article discusses upcoming changes to Windows Insider preview build 27898, including new Taskbar features and updates to speech-to-text voice access. The release of Windows 11 25H2 is anticipated to be a minor update with no major under-the-hood changes, instead focusing on enabling previously installed features.</description>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/</guid>
+      <pubDate>Fri, 11 Jul 2025 20:56:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>'123456' password exposed info for 64 million McDonald’s job applicants</title>
+      <link>https://www.bleepingcomputer.com/news/security/123456-password-exposed-info-for-64-million-mcdonalds-job-applicants/</link>
+      <description>Vulnerable Product: McHire; CVE(s): None; Summary: The McHire chatbot job application platform has an IDOR (Insecure Direct Object Reference) vulnerability that exposes the personal information of over 64 million job applicants across the United States. The flaw allows attackers to access and retrieve sensitive data belonging to other applicants by incrementing or decrementing a lead_id number in a request.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/123456-password-exposed-info-for-64-million-mcdonalds-job-applicants/</guid>
+      <pubDate>Fri, 11 Jul 2025 20:26:52 +0000</pubDate>
+    </item>
     <item>
       <title>Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now</title>
       <link>https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/</link>
@@ -1427,29 +1448,6 @@ FYSA: Russian organizations have been targeted by a campaign delivering the prev
       <description>A Chinese national, Xu Zewei, was arrested in Italy for allegedly being linked to the state-sponsored Silk Typhoon hacking group, responsible for cyberattacks against American organizations and government agencies. The group is accused of targeting infectious disease researchers and healthcare organizations, as well as the U.S. Treasury's Office of Foreign Assets Control and the Committee on Foreign Investment.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/</guid>
       <pubDate>Tue, 08 Jul 2025 01:39:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unless users take action, Android will let Gemini access third-party apps</title>
-      <link>https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/</link>
-      <description>The article discusses the Google Gemini app's data collection capabilities and provides remedies for users who want to prevent data collection. Disabling app activity or uninstalling the app can be done through command-line terminal or using Android debug bridge, but some users may encounter errors like "DELETE_FAILED_INTERNAL_ERROR".</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/</guid>
-      <pubDate>Mon, 07 Jul 2025 23:46:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Public exploits released for Citrix Bleed 2 NetScaler flaw, patch now</title>
-      <link>https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/</link>
-      <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-5777; Summary: The CitrixBleed2 vulnerability allows attackers to retrieve memory contents by sending malformed POST requests during login attempts. This can lead to the theft of user session tokens and potentially exploit sensitive data.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/</guid>
-      <pubDate>Mon, 07 Jul 2025 22:57:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Employee gets $920 for credentials used in $140 million bank heist</title>
-      <link>https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/</link>
-      <description>The article reports a social engineering attack on an employee at C&amp;M, a company that offers financial connectivity solutions. The attackers bribed the employee to gain access to confidential systems and steal nearly $140 million from six banks in Brazil. The incident highlights the importance of employee awareness and training in preventing such attacks.
-
-FYSA: The article discusses a sophisticated social engineering attack on an employee at C&amp;M, a company that offers financial connectivity solutions. The attackers bribed the employee to gain access to confidential systems and steal nearly $140 million from six banks in Brazil.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/</guid>
-      <pubDate>Mon, 07 Jul 2025 19:10:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
