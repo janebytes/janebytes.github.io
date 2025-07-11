@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2025 19:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 20:02:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now</title>
+      <link>https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/</link>
+      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A critical SQL injection vulnerability (CWE-89) exists in FortiWeb's Fabric Connector, allowing unauthenticated attackers to execute unauthorized SQL code or commands via crafted HTTP requests. The flaw can be exploited to achieve pre-authenticated remote code execution on vulnerable servers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/</guid>
+      <pubDate>Fri, 11 Jul 2025 19:41:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Gravity Forms developer hacked to push backdoored plugins</title>
+      <link>https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/</link>
+      <description>Vulnerable Product: Gravity Forms (WordPress plugin); CVE(s): None; Summary: The Gravity Forms WordPress plugin was compromised in a supply-chain attack, allowing attackers to inject a backdoor and collect site metadata. The malware can be triggered by an unauthenticated user and enables remote code execution on the server.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/</guid>
+      <pubDate>Fri, 11 Jul 2025 19:30:07 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-587: Luxion KeyShot 3DM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-587/</link>
@@ -1436,20 +1450,6 @@ FYSA: Russian organizations have been targeted by a campaign delivering the prev
 FYSA: The article discusses a sophisticated social engineering attack on an employee at C&amp;M, a company that offers financial connectivity solutions. The attackers bribed the employee to gain access to confidential systems and steal nearly $140 million from six banks in Brazil.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/</guid>
       <pubDate>Mon, 07 Jul 2025 19:10:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-474: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-474/</link>
-      <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7223; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of VPM files due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25044</guid>
-      <pubDate>Mon, 07 Jul 2025 19:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-475: (0Day) INVT HMITool VPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-475/</link>
-      <description>Vulnerable Product: INVT HMITool; CVE(s): CVE-2025-7224; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT HMITool by exploiting an out-of-bounds write in the parsing of VPM files. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-25045</guid>
-      <pubDate>Mon, 07 Jul 2025 19:04:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
