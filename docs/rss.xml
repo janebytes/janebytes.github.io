@@ -6,14 +6,37 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2025 15:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 16:03:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/</link>
+      <description>Vulnerable Product: NVIDIA; CVE(s): None; Summary: NVIDIA is warning users to enable System Level Error-Correcting Code (ECC) mitigation to protect against Rowhammer attacks on graphical processors with GDDR6 memory, as demonstrated by researchers at the University of Toronto. Enabling ECC can prevent data corruption, denial-of-service conditions, or privilege escalation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/</guid>
+      <pubDate>Fri, 11 Jul 2025 15:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The zero-day that could've compromised every Cursor and Windsurf user</title>
+      <link>https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/</link>
+      <description>Vulnerable Product: OpenVSX; CVE(s): None; Summary: A critical zero-day vulnerability was discovered in OpenVSX, an open-source marketplace powering extensions for AI coding tools like VS Code and its forks. The flaw allowed an attacker to gain full control over the entire marketplace by stealing a powerful secret token that belongs to the trusted @open-vsx account. With this token, an attacker could publish updates, overwrite existing ones, and silently hijack the entire marketplace, leading to a supply chain nightmare.
+
+Note: This is not a traditional vulnerability disclosure, as there are no CVEs assigned. However, based on the article's content, I've summarized the vulnerability according to your guidelines.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/</guid>
+      <pubDate>Fri, 11 Jul 2025 15:03:14 +0000</pubDate>
+    </item>
     <item>
       <title>CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch</title>
       <link>https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/</link>
       <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-5777; Summary: A critical memory safety vulnerability (out-of-bounds memory read) allows unauthenticated attackers to access restricted parts of memory, impacting devices configured as a Gateway or AAA virtual server in versions prior to 14.1-43.56, 13.1-58.32, and others.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/</guid>
       <pubDate>Fri, 11 Jul 2025 14:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)</title>
+      <link>https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html</link>
+      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A critical SQL injection vulnerability (CVE-2025-25257) in FortiWeb allows an unauthenticated attacker to run arbitrary database commands, impacting versions 7.6.0-7.6.3, 7.4.0-7.4.7, 7.2.0-7.2.10, and 7.0.0-7.0.10; exploitation details involve using a Bearer token in an HTTP request to execute unauthorized SQL code or commands.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html</guid>
+      <pubDate>Fri, 11 Jul 2025 14:38:00 +0000</pubDate>
     </item>
     <item>
       <title>PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution</title>
@@ -1427,27 +1450,6 @@ FYSA: The article discusses a sophisticated social engineering attack on an empl
       <description>Vulnerable Product: INVT, VT-Designer PM3 File Parser; CVE(s): CVE-2025-7228; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer by exploiting an out-of-bounds write issue in the parsing of PM3 files. User interaction is required to exploit this vulnerability, and the specific flaw exists due to the lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-25571</guid>
       <pubDate>Mon, 07 Jul 2025 19:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-480: (0Day) INVT VT-Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-480/</link>
-      <description>Vulnerable Product: INVT VT-Designer; CVE(s): CVE-2025-7229; Summary: The vulnerability allows remote attackers to execute arbitrary code by parsing PM3 files without proper validation of user-supplied data, resulting in a write past the end of an allocated data structure. User interaction is required to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-25722</guid>
-      <pubDate>Mon, 07 Jul 2025 19:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-481: (0Day) INVT VT-Designer PM3 File Parsing Type Confusion Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-481/</link>
-      <description>Vulnerable Product: INVT VT-Designer; CVE(s): CVE-2025-7230; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer by exploiting a type confusion condition in the parsing of PM3 files. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25723</guid>
-      <pubDate>Mon, 07 Jul 2025 19:02:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-482: (0Day) INVT VT-Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-482/</link>
-      <description>Vulnerable Product: INVT VT-Designer; CVE(s): CVE-2025-7231; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of INVT VT-Designer. It requires user interaction, such as visiting a malicious page or opening a malicious file, and is caused by the lack of proper validation of user-supplied data in the parsing of PM3 files.</description>
-      <guid isPermaLink="false">ZDI-CAN-25724</guid>
-      <pubDate>Mon, 07 Jul 2025 19:02:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
