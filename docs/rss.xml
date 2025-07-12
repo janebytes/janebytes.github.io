@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Jul 2025 17:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 18:01:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs</title>
+      <link>https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html</link>
+      <description>Vulnerable Product: NVIDIA GPUs; CVE(s): None; Summary: A variant of RowHammer attacks, dubbed GPUHammer, has been demonstrated against NVIDIA's graphics processing units (GPUs), causing malicious users to tamper with other users' data by triggering bit flips in GPU memory. Enabling System-level Error Correction Codes (ECC) is advised as a defense against this type of attack.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html</guid>
+      <pubDate>Sat, 12 Jul 2025 17:14:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers are exploiting critical RCE flaw in Wing FTP Server</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/</link>
@@ -1433,13 +1440,6 @@ FYSA: This is an example of a broader trend of software supply chain attacks, wh
       <description>The article discusses recent high-profile data breaches in retail, where attackers exploited overprivileged access and unmonitored service accounts using social engineering tactics. The attacks targeted third-party customer service providers, resulting in the exposure of customer data, including names, email addresses, and order details.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html</guid>
       <pubDate>Tue, 08 Jul 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks</title>
-      <link>https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html</link>
-      <description>Vulnerable Product: TBK Digital Video Recorders (DVRs) - DVR-4104 and DVR-4216; Four-Faith routers - F3x24 and F3x36; CVE(s): CVE-2024-3721, CVE-2024-12856; Summary: Medium-severity command injection vulnerabilities in TBK DVRs and Four-Faith routers allow attackers to deploy different Mirai botnet variants. The flaws have been publicly disclosed and are actively being targeted, posing serious risks to device security and overall network integrity.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html</guid>
-      <pubDate>Tue, 08 Jul 2025 11:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
