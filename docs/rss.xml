@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Jul 2025 13:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 14:01:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub</title>
+      <link>https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html</link>
+      <description>Vulnerable Product: Laravel; CVE(s): CVE-2018-15133, CVE-2024-55556; Summary: The vulnerability allows attackers to gain remote code execution capabilities by exploiting a deserialization flaw in Laravel's APP_KEY, which is often leaked publicly. This can be achieved by invoking the decrypt() function with a maliciously crafted payload.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html</guid>
+      <pubDate>Sat, 12 Jul 2025 12:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-591: Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-591/</link>
@@ -1439,15 +1446,6 @@ The article concludes by highlighting the need for organizations to prioritize i
 Overall, this article is not discussing a specific vulnerability (software, hardware, or firmware), but rather providing insights on an IAB group's TTPs and the need for organizations to be aware of these types of attacks.</description>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=145084</guid>
       <pubDate>Tue, 08 Jul 2025 10:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms</title>
-      <link>https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</link>
-      <description>The article describes two separate cyberattacks, one delivering Batavia Windows spyware and another delivering NordDragonScan Windows stealer malware. Both attacks use phishing emails to deliver malicious payloads that steal sensitive data from compromised hosts.
-
-FYSA: Russian organizations have been targeted by a campaign delivering the previously undocumented Windows spyware called Batavia. The attack uses bait emails containing malicious links, which download an archive file containing a Visual Basic Encoded script (.VBE) file.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</guid>
-      <pubDate>Tue, 08 Jul 2025 08:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
