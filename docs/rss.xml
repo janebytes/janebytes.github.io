@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2025 22:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 10:01:44 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>ZDI-25-591: Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
@@ -77,6 +77,13 @@
       <description>Vulnerable Product: G DATA Total Security; CVE(s): CVE-2025-2790; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of G DATA Total Security. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, and can leverage it to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
       <guid isPermaLink="false">ZDI-CAN-26240</guid>
       <pubDate>Fri, 11 Jul 2025 18:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/nvidia-shares-guidance-to-defend-gddr6-gpus-against-rowhammer-attacks/</link>
+      <description>Vulnerable Product: NVIDIA GDDR6 graphical processors; CVE(s): None; Summary: Rowhammer attacks can be triggered through software processes, causing memory cells to flip and potentially leading to denial-of-service conditions, data corruption, or privilege escalation. Enabling System Level Error-Correcting Codes (ECC) mitigates this risk.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/nvidia-shares-guidance-to-defend-gddr6-gpus-against-rowhammer-attacks/</guid>
+      <pubDate>Fri, 11 Jul 2025 15:39:05 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks</title>
@@ -1441,13 +1448,6 @@ Overall, this article is not discussing a specific vulnerability (software, hard
 FYSA: Russian organizations have been targeted by a campaign delivering the previously undocumented Windows spyware called Batavia. The attack uses bait emails containing malicious links, which download an archive file containing a Visual Basic Encoded script (.VBE) file.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html</guid>
       <pubDate>Tue, 08 Jul 2025 08:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation</title>
-      <link>https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html</link>
-      <description>Vulnerable Product: Various; CVE(s): CVE-2014-3931, CVE-2016-10033, CVE-2019-5418, CVE-2019-9621; Summary: Four security flaws have been added to the Known Exploited Vulnerabilities (KEV) catalog by CISA due to active exploitation. The vulnerabilities include a buffer overflow in MRLG, command injection in PHPMailer, path traversal in Ruby on Rails' Action View, and SSRF in Zimbra Collaboration Suite.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html</guid>
-      <pubDate>Tue, 08 Jul 2025 05:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
