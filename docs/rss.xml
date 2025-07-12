@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Jul 2025 15:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 16:01:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers are exploiting critical RCE flaw in Wing FTP Server</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/</link>
+      <description>Vulnerable Product: Wing FTP Server; CVE(s): CVE-2025-47812, CVE-2025-27889, CVE-2025-47811, CVE-2025-47813; Summary: The Wing FTP Server has a critical remote code execution vulnerability (CVE-2025-47812) that allows an unauthenticated attacker to execute code with the highest privileges on the system. Exploitation details include running multiple enumeration and reconnaissance commands followed by establishing persistence by creating new users, with the goal of achieving arbitrary code execution as root/SYSTEM.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/</guid>
+      <pubDate>Sat, 12 Jul 2025 14:13:24 +0000</pubDate>
+    </item>
     <item>
       <title>Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub</title>
       <link>https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html</link>
@@ -28,6 +35,13 @@
       <description>This article discusses upcoming changes to Windows Insider preview build 27898, including new Taskbar features and updates to speech-to-text voice access. The release of Windows 11 25H2 is anticipated to be a minor update with no major under-the-hood changes, instead focusing on enabling previously installed features.</description>
       <guid isPermaLink="true">https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/</guid>
       <pubDate>Fri, 11 Jul 2025 20:56:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>'123456' password exposed chats for 64 million McDonald’s job chatbot applications</title>
+      <link>https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/</link>
+      <description>Vulnerable Product: Paradox.ai McHire; CVE(s): None; Summary: The McHire job application platform, used by McDonald's franchisees, contains an Insecure Direct Object Reference (IDOR) vulnerability that allows attackers to expose chat transcripts, session tokens, and personal data of real job applicants. The flaw was discovered by security researchers Ian Carroll and Sam Curry, who found that the ChatBot's admin panel utilized weak credentials and could be exploited to access sensitive information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/</guid>
+      <pubDate>Fri, 11 Jul 2025 20:26:52 +0000</pubDate>
     </item>
     <item>
       <title>'123456' password exposed chats for 64 million McDonald’s job applicants</title>
@@ -1426,26 +1440,6 @@ FYSA: This is an example of a broader trend of software supply chain attacks, wh
       <description>Vulnerable Product: TBK Digital Video Recorders (DVRs) - DVR-4104 and DVR-4216; Four-Faith routers - F3x24 and F3x36; CVE(s): CVE-2024-3721, CVE-2024-12856; Summary: Medium-severity command injection vulnerabilities in TBK DVRs and Four-Faith routers allow attackers to deploy different Mirai botnet variants. The flaws have been publicly disclosed and are actively being targeted, posing serious risks to device security and overall network integrity.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html</guid>
       <pubDate>Tue, 08 Jul 2025 11:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally</title>
-      <link>https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html</link>
-      <description>A large-scale scam operation utilizing fake news websites (Baiting News Sites) has been discovered, targeting users across 50 countries with online investment fraud. The scammers use sponsored ads and fake articles to lure victims into fraudulent trading platforms, followed by a two-phase structure of building trust and extracting maximum value before the victim realizes it's a trap.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html</guid>
-      <pubDate>Tue, 08 Jul 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoldMelody’s Hidden Chords: Initial Access Broker In-Memory IIS Modules Revealed</title>
-      <link>https://unit42.paloaltonetworks.com/initial-access-broker-exploits-leaked-machine-keys/</link>
-      <description>This article appears to be a threat brief on an Initial Access Broker (IAB) group known as TGR-CRI-0045, which is leveraging in-memory IIS techniques for persistent access. The article discusses the group's use of ASP.NET View State deserialization vulnerabilities and its exploitation of exposed Machine Keys.
-
-The article provides details on the group's tactics, techniques, and procedures (TTPs), including the use of reflective .NET assemblies, TxPortMap tooling, and GodPotato privilege escalation technique. It also discusses the group's post-exploitation activities, such as code injection attacks using publicly disclosed ASP.NET machine keys.
-
-The article concludes by highlighting the need for organizations to prioritize identifying and remediating compromised Machine Keys, as outlined by Microsoft. It also mentions that Palo Alto Networks customers are better protected from these threats through various products and features.
-
-Overall, this article is not discussing a specific vulnerability (software, hardware, or firmware), but rather providing insights on an IAB group's TTPs and the need for organizations to be aware of these types of attacks.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=145084</guid>
-      <pubDate>Tue, 08 Jul 2025 10:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
