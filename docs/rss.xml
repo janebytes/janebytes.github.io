@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jul 2025 18:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 19:01:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 10 KB5062554 update breaks emoji panel search feature</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/</link>
+      <description>Vulnerable Product: Windows 10; CVE(s): None; Summary: The search feature for the Windows 10 emoji panel is broken after installing the KB5062554 cumulative update, making it impossible to look up emojis by name or keyword.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/</guid>
+      <pubDate>Sun, 13 Jul 2025 18:15:25 +0000</pubDate>
+    </item>
     <item>
       <title>Google Gemini flaw hijacks email summaries for phishing</title>
       <link>https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/</link>
@@ -1432,13 +1439,6 @@ FYSA: This is an example of a broader trend of software supply chain attacks, wh
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-189-01</link>
       <description>Vulnerable Product: Emerson ValveLink Products; CVE(s): CVE-2025-52579, CVE-2025-50109, CVE-2025-46358, CVE-2025-48496, CVE-2025-53471; Summary: Successful exploitation of these vulnerabilities could allow an attacker with access to the system to read sensitive information stored in cleartext, tamper with parameters, and run un-authorized code. The affected products are ValveLink SOLO, ValveLink DTM, ValveLink PRM, and ValveLink SNAP-ON, all versions prior to ValveLink 14.0.</description>
       <guid isPermaLink="false">/node/23602</guid>
-      <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases One Industrial Control Systems Advisory</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/08/cisa-releases-one-industrial-control-systems-advisory</link>
-      <description>CISA released an Industrial Control Systems (ICS) advisory on July 8, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisory is for Emerson ValveLink Products.</description>
-      <guid isPermaLink="false">/node/23603</guid>
       <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
