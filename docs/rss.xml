@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2025 10:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 11:04:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Forensic Method Reveals Hidden Traces of RDP Exploits by Hackers</title>
+      <link>https://gbhackers.com/new-forensic-method-reveals-hidden-traces-of-rdp-exploits/</link>
+      <description>The article discusses advanced techniques for tracking attackers who use Remote Desktop Protocol (RDP) to move laterally through compromised networks. It highlights the ability to analyze RDP's bitmap caching mechanism to reveal forensic evidence of an attacker's activities, including their screen activity and copied passwords and sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148898</guid>
+      <pubDate>Mon, 14 Jul 2025 10:58:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weaponized Games: Threat Actors Target Gen Z Gamers Through Popular Titles</title>
+      <link>https://gbhackers.com/weaponized-games-threat-actors-target-gen-z-gamers/</link>
+      <description>Sophisticated threat actor activities targeting the digitally native Gen Z population have been discovered by Kaspersky security researchers. Threat actors are exploiting popular games, streaming services, and anime to disseminate malware and harvest sensitive data through phishing schemes and social engineering tactics. Additionally, compromised accounts from these platforms are being repurposed for further phishing propagation or sold on underground markets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148879</guid>
+      <pubDate>Mon, 14 Jul 2025 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Weaponize Compiled HTML Help to Deliver Malicious Payload</title>
+      <link>https://gbhackers.com/hackers-weaponize-compiled-html-help/</link>
+      <description>Vulnerable Product: Microsoft Compiled HTML Help (CHM) files; CVE(s): None; Summary: Threat actors have exploited CHM files to distribute malware by disguising the file as a bank transfer receipt from Polish bank PKO. The file contains obfuscated JavaScript, an ActiveX control, and a C++ downloader that fetches a payload from a malicious domain.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148850</guid>
+      <pubDate>Mon, 14 Jul 2025 10:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind the Clouds: Attackers Targeting Governments in Southeast Asia Implement Novel Covert C2 Communication</title>
+      <link>https://unit42.paloaltonetworks.com/windows-backdoor-for-novel-c2-communication/</link>
+      <description>A novel cluster of suspicious activity, tracked as CL-STA-1020, has been targeting governmental entities in Southeast Asia. The threat actors behind this campaign have developed a previously undocumented Windows backdoor, HazyBeacon, which leverages AWS Lambda URLs as command and control (C2) infrastructure to hide in plain sight.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=146273</guid>
+      <pubDate>Mon, 14 Jul 2025 10:00:44 +0000</pubDate>
+    </item>
     <item>
       <title>Louis Vuitton Suffers Data Breach—Customer Information Stolen</title>
       <link>https://gbhackers.com/louis-vuitton-suffers-data-breach/</link>
@@ -1406,34 +1434,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7303; Summary: The vulnerability allows remote attackers to execute arbitrary code by parsing malicious DWG files. User interaction is required, and the issue results from lack of proper validation of user-supplied data, leading to memory corruption.</description>
       <guid isPermaLink="false">ZDI-CAN-26384</guid>
       <pubDate>Tue, 08 Jul 2025 20:02:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-551: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-551/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7304; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the target must visit a malicious page or open a malicious file. The issue results from lack of proper validation of user-supplied data, leading to memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26385</guid>
-      <pubDate>Tue, 08 Jul 2025 20:02:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-552: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-552/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7305; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting memory corruption in the parsing of DWG files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26386</guid>
-      <pubDate>Tue, 08 Jul 2025 20:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-553: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-553/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7306; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of DWG files due to lack of proper validation of user-supplied data, resulting in a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26387</guid>
-      <pubDate>Tue, 08 Jul 2025 20:01:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-554: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-554/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7307; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the flaw exists within the parsing of DWG files due to a lack of proper validation of user-supplied data, resulting in memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26388</guid>
-      <pubDate>Tue, 08 Jul 2025 20:01:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
