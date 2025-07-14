@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2025 20:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 21:00:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UK launches vulnerability research program for external experts</title>
+      <link>https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/</link>
+      <description>The UK's National Cyber Security Centre (NCSC) has launched a new Vulnerability Research Initiative (VRI) to strengthen relations with external cybersecurity experts, aiming to improve the discovery and sharing of critical insights with the community. This initiative will involve partnering with skilled external vulnerability researchers to identify flaws in specific products, assess mitigations, and disclose findings through the 'Equities Process' procedure.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/</guid>
+      <pubDate>Mon, 14 Jul 2025 20:21:22 +0000</pubDate>
+    </item>
     <item>
       <title>Interlock ransomware adopts FileFix method to deliver malware</title>
       <link>https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/</link>
@@ -1429,13 +1436,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7291; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing DXF files without proper validation of user-supplied data, leading to a read past the end of an allocated buffer. User interaction is required to exploit this vulnerability.</description>
       <guid isPermaLink="false">ZDI-CAN-26227</guid>
       <pubDate>Tue, 08 Jul 2025 20:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-540: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-540/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7292; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of DXF files due to a lack of proper validation of user-supplied data, which can result in a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26228</guid>
-      <pubDate>Tue, 08 Jul 2025 20:05:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
