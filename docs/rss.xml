@@ -6,8 +6,66 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jul 2025 22:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 10:06:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Louis Vuitton Suffers Data Breach—Customer Information Stolen</title>
+      <link>https://gbhackers.com/louis-vuitton-suffers-data-breach/</link>
+      <description>The article reports on a cyber-attack targeting Louis Vuitton's UK operations, resulting in unauthorized access to customer data. This incident is part of a broader trend of retail breaches affecting major brands, including Marks &amp; Spencer, the Co-op, and Harrods. Four arrests were made in connection with these attacks, highlighting the growing threat posed by cyber-criminals to retail operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148882</guid>
+      <pubDate>Mon, 14 Jul 2025 09:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>RenderShock 0-Click Exploit Executes Payloads Silently via Background Process</title>
+      <link>https://gbhackers.com/rendershock-0-click-exploit/</link>
+      <description>The article discusses a new class of cyberattack called RenderShock that can compromise enterprise systems without requiring user interaction. It exploits passive execution surfaces such as file preview panes, document indexing services, antivirus scanners, and cloud synchronization tools that automatically process files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148870</guid>
+      <pubDate>Mon, 14 Jul 2025 09:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threats Actors Use Sophisticated Hacking Tools to Destroy Organizations Critical Infrastructure</title>
+      <link>https://gbhackers.com/threats-actors-use-sophisticated-hacking-tools/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: This article discusses the use of sophisticated cyber weapons by threat actors to breach and destroy vital infrastructure. It highlights various attacks, including Stuxnet, NotPetya, and others, that demonstrate the evolving nature of cyber warfare, its potential for widespread harm, and the need for proactive measures to mitigate risks.
+
+(Note: There is no specific vulnerability mentioned in the article, only general descriptions of various cyber attacks and their characteristics.)</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148842</guid>
+      <pubDate>Mon, 14 Jul 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KongTuke Campaign Deploys Modified Interlock RAT Using FileFix Method Against Windows Environments</title>
+      <link>https://gbhackers.com/kongtuke-campaign-deploys-modified-interlock-rat/</link>
+      <description>This article discusses a PHP-based remote access trojan (RAT) variant of the Interlock ransomware group's remote access trojan (RAT), which exploits compromised websites to deliver malicious payloads. The RAT demonstrates advanced execution techniques, including automated discovery and reconnaissance capabilities, and supports versatile execution capabilities such as downloading and running EXE or DLL files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148834</guid>
+      <pubDate>Mon, 14 Jul 2025 08:31:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center</title>
+      <link>https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html</link>
+      <description>A transnational cybercrime syndicate, which targeted citizens of Australia and the United Kingdom with tech support scams, has been dismantled by the Central Bureau of Investigation (CBI) as part of Operation Chakra V. The syndicate, which masqueraded as technical support staff of reputed multinational companies like Microsoft, is estimated to have led to losses worth over £390,000 in the UK alone.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html</guid>
+      <pubDate>Mon, 14 Jul 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok-4 Jailbroken Using Echo Chamber and Crescendo Exploit Combo</title>
+      <link>https://gbhackers.com/grok-4-jailbroken/</link>
+      <description>Vulnerable Product: Grok-4 (AI language model); CVE(s): None; Summary: Researchers successfully demonstrated a jailbreak attack against Grok-4 by combining the Echo Chamber and Crescendo exploit techniques. The attack bypasses safety mechanisms by manipulating the AI model's conversational context, achieving a 67% success rate in extracting harmful content prompts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148826</guid>
+      <pubDate>Mon, 14 Jul 2025 05:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>eSIM Vulnerability in Kigen's eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks</title>
+      <link>https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html</link>
+      <description>Vulnerable Product: Kigen eUICC card; CVE(s): None; Summary: The Kigen eUICC card has a vulnerability that allows an attacker to install non-verified, potentially malicious applets. Successful exploitation requires physical access to the target chip and publicly known keys. This could enable the extraction of the identity certificate, download arbitrary profiles from MNOs in cleartext, access MNO secrets, and tamper with profiles without being flagged by MNO.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html</guid>
+      <pubDate>Mon, 14 Jul 2025 05:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WinRAR 0‑Day Exploit Listed for $80K on Dark Web Forum</title>
+      <link>https://gbhackers.com/winrar-0%e2%80%91day-exploit-listed/</link>
+      <description>Vulnerable Product: WinRAR; CVE(s): None; Summary: A zero-day exploit targeting WinRAR has been discovered, affecting both latest and earlier versions of the software. The remote code execution vulnerability enables attackers to execute arbitrary code on target systems through specially crafted archive files, making it a significant concern for millions of users worldwide.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148821</guid>
+      <pubDate>Mon, 14 Jul 2025 05:06:49 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 10 KB5062554 update breaks emoji panel search feature</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/</link>
@@ -21,6 +79,34 @@
       <description>Vulnerable Product: Google Gemini for Workspace; CVE(s): None; Summary: The vulnerability allows attackers to generate email summaries that appear legitimate but include malicious instructions or warnings directing users to phishing sites without using attachments or direct links. Attackers can hide the malicious instruction in the body text at the end of the message using HTML and CSS, which will not be rendered in Gmail.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/</guid>
       <pubDate>Sun, 13 Jul 2025 14:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortinet FortiWeb Fabric Connector Flaw Enables Remote Code Execution</title>
+      <link>https://gbhackers.com/fortinet-fortiweb-fabric-connector-flaw/</link>
+      <description>Vulnerable Product: Fortinet FortiWeb Fabric Connector; CVE(s): CVE-2025-25257; Summary: A severe pre-authentication SQL injection vulnerability in FortiWeb's Fabric Connector allows unauthenticated attackers to execute unauthorized SQL commands and potentially achieve remote code execution. The vulnerability affects multiple versions of FortiWeb, including 7.6.0 through 7.6.3, 7.4.0 through 7.4.7, 7.2.0 through 7.2.10, and 7.0.0 through 7.0.10, with patches available in newer versions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148812</guid>
+      <pubDate>Sun, 13 Jul 2025 10:04:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>DPC Investigates TikTok Over Transfer of EU User Data to China</title>
+      <link>https://gbhackers.com/dpc-investigates-tiktok/</link>
+      <description>The Data Protection Commission (DPC) has launched an inquiry into TikTok Technology Limited regarding the transfer and storage of European Economic Area (EEA) users' personal data to servers in China, citing discrepancies in previous submissions and concerns about accountability and transparency under the General Data Protection Regulation (GDPR).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148712</guid>
+      <pubDate>Sat, 12 Jul 2025 23:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COMmander: Network-Based Tool for COM and RPC Exploitation</title>
+      <link>https://gbhackers.com/network-based-tool-for-com-and-rpc-exploitation/</link>
+      <description>This article introduces COMmander, a lightweight, C#-based utility designed to monitor Remote Procedure Call (RPC) and Component Object Model (COM) activities at a granular level. It captures low-level events from the Microsoft-Windows-RPC ETW provider, empowering defenders to uncover potential malicious behaviors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148745</guid>
+      <pubDate>Sat, 12 Jul 2025 22:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Bypass Meta’s Llama Firewall Using Prompt Injection Vulnerabilities</title>
+      <link>https://gbhackers.com/researchers-bypass-metas-llama-firewall/</link>
+      <description>Vulnerable Product: Meta's Llama Firewall; CVE(s): None; Summary: The Llama Firewall contains multiple vulnerabilities that allow attackers to bypass security measures and inject malicious prompts into language models. These vulnerabilities include multilingual and obfuscated injections, as well as Unicode-based invisible prompt injections. Exploitation details indicate that the firewall struggled to detect these types of attacks, allowing them to succeed in bypassing system safeguards.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148705</guid>
+      <pubDate>Sat, 12 Jul 2025 22:25:00 +0000</pubDate>
     </item>
     <item>
       <title>GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs</title>
@@ -1348,98 +1434,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7307; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the flaw exists within the parsing of DWG files due to a lack of proper validation of user-supplied data, resulting in memory corruption.</description>
       <guid isPermaLink="false">ZDI-CAN-26388</guid>
       <pubDate>Tue, 08 Jul 2025 20:01:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android TapTrap attack fools users with invisible UI trick</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/</link>
-      <description>Vulnerable Product: Android; CVE(s): None; Summary: A novel tapjacking technique called TapTrap can exploit user interface animations to bypass Android's permission system and allow access to sensitive data or trick users into performing destructive actions, such as wiping the device. This vulnerability affects Android 15 and 16 and allows malicious apps to launch a harmless transparent activity on top of a malicious one, remaining unmitigated in these versions.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/</guid>
-      <pubDate>Tue, 08 Jul 2025 19:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 KB5062554 cumulative update released with 13 changes, fixes</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/</link>
-      <description>Vulnerable Product: Microsoft Windows 10; CVE(s): One zero-day vulnerability and 136 other flaws; Summary: The Windows 10 KB5062554 cumulative update contains fixes for one zero-day vulnerability and 136 other flaws. It is mandatory and will automatically start installing once checked for updates.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/</guid>
-      <pubDate>Tue, 08 Jul 2025 17:44:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware</title>
-      <link>https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html</link>
-      <description>Vulnerable Product: Shellter; CVE(s): None; Summary: Hackers are exploiting a popular red teaming tool called Shellter to distribute stealer malware. The tool allows offensive security teams to bypass antivirus and endpoint detection and response (EDR) software installed on endpoints, making it a powerful tool in the wrong hands.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html</guid>
-      <pubDate>Tue, 08 Jul 2025 17:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 KB5062553 &amp; KB5062552  cumulative updates released</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/</link>
-      <description>There are no specific cybersecurity-related vulnerabilities or threats mentioned in this article. The article is focused on describing the new features and updates included in the latest Windows 11 cumulative updates, such as changes to the taskbar, Narrator, and Voice Access. Additionally, the article includes a brief mention of cloud attacks growing more sophisticated but does not provide any specific details or recommendations for mitigating these threats.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/</guid>
-      <pubDate>Tue, 08 Jul 2025 17:32:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft July 2025 Patch Tuesday fixes one zero-day, 137 flaws</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2025-patch-tuesday-fixes-one-zero-day-137-flaws/</link>
-      <description>Vulnerable Product: Microsoft SQL Server; CVE(s): CVE-2025-49719; Summary: A publicly disclosed zero-day vulnerability in Microsoft SQL Server allows a remote, unauthenticated attacker to access data from uninitialized memory. The flaw can be fixed by installing the latest version of Microsoft SQL Server and by installing the Microsoft OLE DB Driver 18 or 19.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2025-patch-tuesday-fixes-one-zero-day-137-flaws/</guid>
-      <pubDate>Tue, 08 Jul 2025 17:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play</title>
-      <link>https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html</link>
-      <description>An Android banking malware campaign, known as Anatsa, has targeted users in North America by distributing a trojan disguised as a "PDF Update" to a document viewer app. The malware can steal credentials through overlay and keylogging attacks, conduct Device-Takeover Fraud (DTO), and receive a dynamic list of targeted financial institutions from an external server.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html</guid>
-      <pubDate>Tue, 08 Jul 2025 16:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android malware Anatsa infiltrates Google Play to target US banks</title>
-      <link>https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/</link>
-      <description>Vulnerable Product: Hybrid Cars Simulator, Drift &amp; Racing; CVE(s): None; Summary: The Anatsa banking trojan was found in Google Play as an app posing as a PDF viewer that had over 50,000 downloads. The malware becomes active immediately after installation and tracks users launching North American banking apps, serving overlays, keylogging, or automating transactions.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/</guid>
-      <pubDate>Tue, 08 Jul 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Overcoming Technical Barriers in Desktop and Application Virtualization</title>
-      <link>https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/</link>
-      <description>The article discusses the challenges and risks associated with desktop and application virtualization, including security risks from exposed firewall ports, lateral movement threats, and network performance issues. It highlights the importance of implementing a Zero Trust architecture and Multi-Factor Authentication (MFA) to mitigate these risks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/</guid>
-      <pubDate>Tue, 08 Jul 2025 14:09:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Chrome extensions with 1.7M installs found on Web Store</title>
-      <link>https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/</link>
-      <description>Vulnerable Product: Google Chrome Web Store; CVE(s): None; Summary: Malicious extensions with over 1.7 million downloads in the Google Chrome Web Store can track users, steal browser activity, and redirect to potentially unsafe web addresses. The extensions, posing as legitimate tools, were discovered by researchers at Koi Security and reported to Google.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/</guid>
-      <pubDate>Tue, 08 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP Servers: Everything You Need to Know</title>
-      <link>https://socradar.io/mcp-servers-everything-you-need-to-know/</link>
-      <description>The article discusses the concept of Malicious Command Pattern (MCP) servers and their potential to be used as attack vectors in cybersecurity attacks. It highlights several concerns, including command injection vulnerabilities, lack of authentication standards, and absence of integrity controls, which can lead to unauthorized actions or data leaks.
-
-The article also explores the possibility of malicious actors deploying MCP servers that masquerade as legitimate tools, performing actual network scans, exfiltrating scan results, using the MCP protocol to communicate with other compromised systems, and establishing persistent backdoors. It emphasizes the need for security teams to be aware of these potential attack patterns and take steps to prevent them.
-
-In addition, the article discusses common mistakes that security teams make when deploying MCP servers, including running them as root/administrator, not using network segmentation, and blindly trusting "verified" servers. It highlights the importance of implementing proper monitoring and security measures to prevent attacks.
-
-Overall, the article provides a comprehensive overview of the potential risks associated with Malicious Command Pattern (MCP) servers and emphasizes the need for security teams to be proactive in preventing these types of attacks.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061708</guid>
-      <pubDate>Tue, 08 Jul 2025 13:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension</title>
-      <link>https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html</link>
-      <description>Vulnerable Product: Microsoft Visual Studio Code (VS Code) extension Ethcode; CVE(s): None; Summary: A supply chain attack compromised the Ethcode VS Code extension, which has been installed over 6,000 times. The attacker added a malicious dependency called "keythereum-utils" that downloads an unknown second-stage payload, potentially capable of stealing cryptocurrency assets or poisoning smart contracts.
-
-FYSA: This is an example of a broader trend of software supply chain attacks, where attackers weaponize public repositories like GitHub and npm to deliver malware directly into developer environments. The attack highlights the importance of secure development practices and the need for continuous monitoring and auditing of open-source dependencies.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html</guid>
-      <pubDate>Tue, 08 Jul 2025 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerson ValveLink Products</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-189-01</link>
-      <description>Vulnerable Product: Emerson ValveLink Products; CVE(s): CVE-2025-52579, CVE-2025-50109, CVE-2025-46358, CVE-2025-48496, CVE-2025-53471; Summary: Successful exploitation of these vulnerabilities could allow an attacker with access to the system to read sensitive information stored in cleartext, tamper with parameters, and run un-authorized code. The affected products are ValveLink SOLO, ValveLink DTM, ValveLink PRM, and ValveLink SNAP-ON, all versions prior to ValveLink 14.0.</description>
-      <guid isPermaLink="false">/node/23602</guid>
-      <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
