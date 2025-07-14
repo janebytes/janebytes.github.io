@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2025 16:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 17:01:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Gigabyte motherboards vulnerable to UEFI malware bypassing Secure Boot</title>
+      <link>https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/</link>
+      <description>Vulnerable Product: Gigabyte motherboard models; CVE(s): CVE-2025-7029, CVE-2025-7028, CVE-2025-7027, CVE-2025-7026; Summary: Dozens of Gigabyte motherboard models run on UEFI firmware vulnerable to security issues that allow planting bootkit malware that is invisible to the operating system and can survive reinstalls. The vulnerabilities could allow attackers with local or remote admin permissions to execute arbitrary code in System Management Mode (SMM), an environment isolated from the operating system and with more privileges on the machine.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/</guid>
+      <pubDate>Mon, 14 Jul 2025 16:30:32 +0000</pubDate>
+    </item>
     <item>
       <title>Gigabyte UEFI Firmware Vulnerability Allows Code Execution in SMM Privileged Mode</title>
       <link>https://gbhackers.com/gigabyte-uefi-firmware-vulnerability/</link>
@@ -21,6 +28,13 @@
       <description>This article appears to be a comprehensive cybersecurity news roundup, covering various topics and threats in the industry. It does not seem to discuss specific vulnerabilities in software, hardware, or firmware products. Instead, it covers issues such as botnets, ransomware groups, API client security risks, and other cybersecurity-related matters.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html</guid>
       <pubDate>Mon, 14 Jul 2025 12:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious VSCode extension in Cursor IDE led to $500K crypto theft</title>
+      <link>https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/</link>
+      <description>Vulnerable Product: Open VSX, Visual Studio Code; CVE(s): None; Summary: A fake extension named "Solidity Language" was published on Open VSX, claiming to be a syntax highlighting tool for Ethereum smart contracts. In reality, it executed PowerShell scripts and installed remote access tools (Quasar RAT) and infostealers (PureLogs stealer). The extension was downloaded 54,000 times before being removed and inflated its install count by publishing an almost identical version under the name "solidity", which had nearly two million installs.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/</guid>
+      <pubDate>Mon, 14 Jul 2025 12:26:34 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Explains How to Find and Stop Processes Blocking Files in Windows</title>
@@ -1420,20 +1434,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7297; Summary: The IrfanView CADImage Plugin contains a remote code execution vulnerability due to the lack of proper validation of user-supplied data when parsing DWG files. An attacker can exploit this by visiting a malicious page or opening a malicious file, requiring user interaction, and execute arbitrary code in the context of the current process.</description>
       <guid isPermaLink="false">ZDI-CAN-26244</guid>
       <pubDate>Tue, 08 Jul 2025 20:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-546: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-546/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7296; Summary: The IrfanView CADImage Plugin has a remote code execution vulnerability due to memory corruption caused by the lack of proper validation of user-supplied data when parsing DXF files. An attacker can exploit this vulnerability by tricking a target into visiting a malicious page or opening a malicious file, allowing for arbitrary code execution in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26243</guid>
-      <pubDate>Tue, 08 Jul 2025 20:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-547: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-547/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7300; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing malicious DWG files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data, leading to memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26377</guid>
-      <pubDate>Tue, 08 Jul 2025 20:03:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
