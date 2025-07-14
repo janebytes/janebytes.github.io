@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2025 11:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 12:00:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Explains How to Find and Stop Processes Blocking Files in Windows</title>
+      <link>https://gbhackers.com/microsoft-explains-how-to-find-and-stop-processes-blocking-files/</link>
+      <description>This article provides guidance from Microsoft on resolving the "The process cannot access the file because it is being used by another process" error message in Windows. The solutions include using built-in tools like Resource Monitor, Process Explorer, as well as command-line utilities like openfiles and Handle. These options cater to users of all skill levels, providing both graphical and command-line interfaces for resolving common system issues independently.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148922</guid>
+      <pubDate>Mon, 14 Jul 2025 11:56:53 +0000</pubDate>
+    </item>
     <item>
       <title>New Forensic Method Reveals Hidden Traces of RDP Exploits by Hackers</title>
       <link>https://gbhackers.com/new-forensic-method-reveals-hidden-traces-of-rdp-exploits/</link>
@@ -1427,13 +1434,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7302; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
       <guid isPermaLink="false">ZDI-CAN-26381</guid>
       <pubDate>Tue, 08 Jul 2025 20:03:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-550: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-550/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7303; Summary: The vulnerability allows remote attackers to execute arbitrary code by parsing malicious DWG files. User interaction is required, and the issue results from lack of proper validation of user-supplied data, leading to memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26384</guid>
-      <pubDate>Tue, 08 Jul 2025 20:02:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
