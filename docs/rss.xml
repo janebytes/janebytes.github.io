@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 15:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 16:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ransomware Attack on Albemarle County Exposes Residents’ Personal Information</title>
+      <link>https://gbhackers.com/ransomware-attack-on-albemarle-county/</link>
+      <description>Albemarle County, Virginia, fell victim to a sophisticated ransomware attack despite having robust defenses in place, including endpoint detection and response systems, multi-factor authentication, and regular vulnerability patching. The attack exploited on-premises servers, potentially exposing sensitive personally identifiable information (PII) of local government and public school employees, as well as county residents.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149147</guid>
+      <pubDate>Tue, 15 Jul 2025 15:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools</title>
+      <link>https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html</link>
+      <description>This article discusses a new ransomware-as-a-service (RaaS) operation called GLOBAL GROUP that has targeted various sectors in Australia, Brazil, Europe, and the United States. The RaaS platform is designed to facilitate initial access brokers to deploy the ransomware by weaponizing access to vulnerable edge appliances from Cisco, Fortinet, and Palo Alto Networks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html</guid>
+      <pubDate>Tue, 15 Jul 2025 15:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Explains How Security Copilot in Intune and Entra Supports Security and IT Teams</title>
       <link>https://gbhackers.com/microsoft-explains-how-security-copilot/</link>
@@ -1422,20 +1436,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7254; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing DXF files without proper validation of user-supplied data, resulting in a memory corruption condition. User interaction is required for exploitation.</description>
       <guid isPermaLink="false">ZDI-CAN-26113</guid>
       <pubDate>Tue, 08 Jul 2025 20:17:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-497: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-497/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7244; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin, requiring user interaction. The flaw exists in the parsing of DWG files due to lack of proper validation of user-supplied data, resulting in a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26093</guid>
-      <pubDate>Tue, 08 Jul 2025 20:17:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-498: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-498/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7246; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing malicious DWG files. User interaction is required to exploit this vulnerability, and the issue results from a lack of proper validation of user-supplied data leading to memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26095</guid>
-      <pubDate>Tue, 08 Jul 2025 20:17:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
