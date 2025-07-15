@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 14:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 15:04:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Explains How Security Copilot in Intune and Entra Supports Security and IT Teams</title>
+      <link>https://gbhackers.com/microsoft-explains-how-security-copilot/</link>
+      <description>None (The article is not about a vulnerability or cybersecurity-relevant content, but rather discusses Microsoft's Security Copilot tool and its features for improving security and IT operations.)</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149123</guid>
+      <pubDate>Tue, 15 Jul 2025 14:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Federal IT Contractor to Pay $14.75M for False Cybersecurity Services Claims</title>
+      <link>https://gbhackers.com/federal-it-contractor-to-pay-14-75m/</link>
+      <description>The article discusses a settlement between Hill ASC Inc. and the U.S. Department of Justice regarding allegations of violating the False Claims Act through improper billing practices under a General Services Administration (GSA) Multiple Award Schedule (MAS) contract. The alleged violations include fraudulent claims for IT personnel, unauthorized billing for cybersecurity services, and unapproved fees on government invoices.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149095</guid>
+      <pubDate>Tue, 15 Jul 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DShield Honeypot Scanning Hits Record High with Over 1 Million Logs in a Single Day</title>
+      <link>https://gbhackers.com/dshield-honeypot-scanning-hits-record-high/</link>
+      <description>The article reports an unusual surge in cyber reconnaissance activity detected by DShield honeypots, with web logs exceeding 1 GB daily and peaking at nearly 58 GB. The increase is attributed to automated scanning from overlapping subnets targeting specific URL paths, potentially probing for vulnerabilities or gathering intelligence for future exploits.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149077</guid>
+      <pubDate>Tue, 15 Jul 2025 14:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Threat Actors Target U.S. Critical Infrastructure, Including Water Systems</title>
+      <link>https://gbhackers.com/iranian-threat-actors-target-u-s-critical-infrastructure/</link>
+      <description>Intelligence Group 13, an elite unit within the Islamic Revolutionary Guard Corps (IRGC), has been conducting asymmetric cyber operations in response to U.S. attacks on Iranian nuclear sites. The group uses advanced persistent threat (APT) techniques, including phishing-driven credential theft, open-source intelligence harvesting, and custom malware deployment for reconnaissance and sabotage. Its operations extend beyond technical compromise, incorporating psychological elements through propaganda fronts like CyberAveng3rs, which disseminates defacement screenshots, operational leaks, and taunting messages via Telegram and Instagram channels.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149058</guid>
+      <pubDate>Tue, 15 Jul 2025 13:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kafbat UI Vulnerabilities Allow Arbitrary Code Execution via JMX Services</title>
+      <link>https://gbhackers.com/kafbat-ui-vulnerabilities/</link>
+      <description>Vulnerable Product: Kafbat UI; CVE(s): CVE-2025-49127; Summary: The vulnerability allows unauthenticated attackers to execute arbitrary code by exploiting unsafe deserialization in Kafbat UI's metrics collection system. Attackers can specify malicious JMX servers that return crafted serialized objects, enabling Java deserialization gadget chains and complete system compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149227</guid>
+      <pubDate>Tue, 15 Jul 2025 13:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Octalyn Stealer Harvests VPN Configs, Passwords, and Cookies in Organized Folder Structure</title>
+      <link>https://gbhackers.com/octalyn-stealer-harvests-vpn-configs-passwords-and-cookies/</link>
+      <description>Vulnerable Product: Octalyn Forensic Toolkit; CVE(s): None; Summary: The Octalyn Forensic Toolkit is a credential stealer that poses as a research tool for red teaming and digital forensics. It can extract sensitive data including browser passwords, cookies, autofill information, Discord and Telegram tokens, VPN configurations, gaming account details, and cryptocurrency wallet artifacts. The toolkit's payload establishes persistence via Windows Startup folder entries and registry modifications, and can exfiltrate stolen data over TLS-secured connections to api.telegram.org.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149044</guid>
+      <pubDate>Tue, 15 Jul 2025 13:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>Android malware Konfety uses malformed APKs to evade detection</title>
       <link>https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/</link>
@@ -1394,48 +1436,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7246; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing malicious DWG files. User interaction is required to exploit this vulnerability, and the issue results from a lack of proper validation of user-supplied data leading to memory corruption.</description>
       <guid isPermaLink="false">ZDI-CAN-26095</guid>
       <pubDate>Tue, 08 Jul 2025 20:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-499: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-499/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7247; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting an out-of-bounds read in the parsing of DXF files. User interaction is required, and the attack vector involves visiting a malicious page or opening a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26096</guid>
-      <pubDate>Tue, 08 Jul 2025 20:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-500: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-500/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7255; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of DWG files.</description>
-      <guid isPermaLink="false">ZDI-CAN-26118</guid>
-      <pubDate>Tue, 08 Jul 2025 20:16:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-501: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-501/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7248; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin, requiring user interaction. The flaw exists in the parsing of DWG files due to lack of proper validation of user-supplied data, leading to a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26098</guid>
-      <pubDate>Tue, 08 Jul 2025 20:16:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-502: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-502/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7256; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DXF files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26119</guid>
-      <pubDate>Tue, 08 Jul 2025 20:16:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-503: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-503/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7257; Summary: The IrfanView CADImage Plugin DXF file parsing memory corruption remote code execution vulnerability allows attackers to execute arbitrary code on affected installations of the plugin. User interaction is required to exploit this vulnerability, and it can be leveraged to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26126</guid>
-      <pubDate>Tue, 08 Jul 2025 20:15:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-504: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-504/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7237; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting memory corruption in the parsing of DWG files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26083</guid>
-      <pubDate>Tue, 08 Jul 2025 20:15:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
