@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 13:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 14:02:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Android malware Konfety uses malformed APKs to evade detection</title>
+      <link>https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/</link>
+      <description>Vulnerable Product: Konfety; CVE(s): None; Summary: The latest variant of the Konfety Android malware uses a malformed ZIP structure, obfuscation methods, and dynamic code loading to evade analysis and detection. It poses as a legitimate app, redirects users to malicious sites, pushes unwanted app installs, and steals information such as installed apps, network configuration, and system details.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/</guid>
+      <pubDate>Tue, 15 Jul 2025 13:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>GLOBAL GROUP RaaS Adds AI-Powered Negotiation Feature for Ransom Demands</title>
+      <link>https://gbhackers.com/global-group-raas-adds-ai-powered-negotiation/</link>
+      <description>The article discusses a Ransomware-as-a-Service (RaaS) operation called GLOBAL GROUP that has deployed an AI-driven negotiation tool to pressure victims into paying ransoms. The operation uses Initial Access Brokers (IABs) to sell compromised VPN appliances and webshells, and its affiliates can deploy customized ransomware payloads that take advantage of chaos and speed to maximize damage before traditional endpoint defenses can react.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149208</guid>
+      <pubDate>Tue, 15 Jul 2025 13:03:35 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean Hackers Exploit 67 Malicious npm Packages to Spread XORIndex Malware</title>
       <link>https://gbhackers.com/north-korean-hackers-exploit-67-malicious-npm-packages/</link>
@@ -1422,20 +1436,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7237; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting memory corruption in the parsing of DWG files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26083</guid>
       <pubDate>Tue, 08 Jul 2025 20:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-505: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-505/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7238; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, and it occurs when the plugin parses DXF files without proper validation of user-supplied data, leading to a write past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26084</guid>
-      <pubDate>Tue, 08 Jul 2025 20:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-506: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-506/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7239; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26085</guid>
-      <pubDate>Tue, 08 Jul 2025 20:15:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
