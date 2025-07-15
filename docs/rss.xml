@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 20:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 21:00:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>OpenAI's image model gets built-in style feature on ChatGPT</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/</link>
+      <description>The article does not discuss a vulnerability. It appears to be focused on updates and features of OpenAI's image generation model, ChatGPT, including the introduction of a "Style" feature that allows users to create images in different styles.
+
+FYSA: The article mentions threat actors using simple techniques for cloud attacks and notes that attackers are leveraging ChatGPT to write malware.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/</guid>
+      <pubDate>Tue, 15 Jul 2025 20:12:59 +0000</pubDate>
+    </item>
     <item>
       <title>Abacus dark web drug market goes offline in suspected exit scam</title>
       <link>https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/</link>
@@ -1429,13 +1438,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7250; Summary: The IrfanView CADImage Plugin contains an out-of-bounds read remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file. The vulnerability exists in the parsing of DWG files due to lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26107</guid>
       <pubDate>Tue, 08 Jul 2025 20:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-487: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-487/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7236; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26080</guid>
-      <pubDate>Tue, 08 Jul 2025 20:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
