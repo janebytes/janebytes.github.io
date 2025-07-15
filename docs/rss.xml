@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 16:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 17:04:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Police disrupt “Diskstation” ransomware gang attacking NAS devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/</link>
+      <description>This article discusses a law enforcement operation codenamed 'Operation Elicius' that dismantled a Romanian ransomware gang known as 'Diskstation', which targeted Synology Network-Attached Storage (NAS) devices. The gang encrypted the systems of several companies, paralyzing their businesses, and demanded ransom payments ranging from $10,000 to hundreds of thousands of dollars.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/</guid>
+      <pubDate>Tue, 15 Jul 2025 16:53:08 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware Attack on Albemarle County Exposes Residents’ Personal Information</title>
       <link>https://gbhackers.com/ransomware-attack-on-albemarle-county/</link>
@@ -98,6 +105,34 @@
       <description>Vulnerable Product: AsyncRAT; CVE(s): None; Summary: The article describes two new variants of the AsyncRAT remote access trojan (RAT) that introduce a psychological warfare component and enhanced propagation mechanisms. The "Screamer" plugin manipulates Windows audio APIs to disorient victims, while the USB malware spreader component transforms AsyncRAT into a self-replicating worm capable of bridging air-gapped networks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149190</guid>
       <pubDate>Tue, 15 Jul 2025 12:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitachi Energy Asset Suite</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-196-01</link>
+      <description>Vulnerable Product: Hitachi Energy Equipment, including Asset Suite AnyWhere for Inventory (AWI) Android mobile app and Asset Suite 9 series; CVE(s): CVE-2019-9262, CVE-2019-9429, CVE-2019-9256, CVE-2019-9290, CVE-2025-1484, CVE-2025-2500; Summary: Multiple vulnerabilities in Hitachi Energy's Asset Suite product allow for unauthorized access, remote code execution, and privilege escalation.</description>
+      <guid isPermaLink="false">/node/23623</guid>
+      <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LITEON IC48A and IC80A EV Chargers</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-196-03</link>
+      <description>Vulnerable Product: LITEONE IC48A and IC80A; CVE(s): CVE-2025-7357; Summary: Successful exploitation of the plaintext storage of a password vulnerability in Liteon EV chargers could allow an attacker to access sensitive information, with potential impacts on commercial facilities, energy, and transportation systems worldwide.</description>
+      <guid isPermaLink="false">/node/23625</guid>
+      <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABB RMC-100</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-196-02</link>
+      <description>Vulnerable Product: ABB RMC-100; CVE(s): CVE-2025-6071, CVE-2025-6072, CVE-2025-6073, CVE-2025-6074; Summary: The ABB RMC-100 has several vulnerabilities that allow an attacker to gain unauthenticated access to MQTT configuration data, cause a denial-of-service condition on the MQTT configuration web server (REST interface), or decrypt encrypted MQTT broker credentials.</description>
+      <guid isPermaLink="false">/node/23624</guid>
+      <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/15/cisa-releases-six-industrial-control-systems-advisories</link>
+      <description>CISA released six Industrial Control Systems (ICS) advisories on July 15, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories cover various products from Hitachi Energy, ABB, LITEON, Schneider Electric, and others. Users and administrators are encouraged to review the advisories for technical details and mitigations.</description>
+      <guid isPermaLink="false">/node/23626</guid>
+      <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hacktivists Launch Attacks on ICS Systems to Exfiltrate Sensitive Information</title>
@@ -1401,41 +1436,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7243; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists in the parsing of DWG files due to lack of proper validation of user-supplied data, leading to memory corruption.</description>
       <guid isPermaLink="false">ZDI-CAN-26091</guid>
       <pubDate>Tue, 08 Jul 2025 20:19:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-492: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-492/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7249; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26100</guid>
-      <pubDate>Tue, 08 Jul 2025 20:18:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-493: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-493/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7253; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26112</guid>
-      <pubDate>Tue, 08 Jul 2025 20:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-494: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-494/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7233; Summary: The vulnerability allows remote attackers to disclose sensitive information by parsing out-of-bounds read information disclosure vulnerabilities in affected installations of IrfanView CADImage Plugin. User interaction is required, and the specific flaw exists within the parsing of DWG files due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26072</guid>
-      <pubDate>Tue, 08 Jul 2025 20:18:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-495: IrfanView CADImage Plugin CGM File Parsing Out-of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-495/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7234; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of CGM files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26074</guid>
-      <pubDate>Tue, 08 Jul 2025 20:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-496: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-496/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7254; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing DXF files without proper validation of user-supplied data, resulting in a memory corruption condition. User interaction is required for exploitation.</description>
-      <guid isPermaLink="false">ZDI-CAN-26113</guid>
-      <pubDate>Tue, 08 Jul 2025 20:17:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
