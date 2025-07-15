@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 12:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 13:02:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>North Korean Hackers Exploit 67 Malicious npm Packages to Spread XORIndex Malware</title>
+      <link>https://gbhackers.com/north-korean-hackers-exploit-67-malicious-npm-packages/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The Socket Threat Research Team discovered a software supply chain attack using the XORIndex malware loader, which has not been previously reported, attributed to North Korean state-backed actors. The attackers infiltrated the npm registry with 67 malicious packages, amassing over 17,000 downloads collectively, targeting developers, job seekers, and cryptocurrency holders by exfiltrating sensitive credentials and wallet data through a chain of malware stages.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149020</guid>
+      <pubDate>Tue, 15 Jul 2025 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BaitTrap Reveals Global Web of 17,000+ Fraud-Promoting Fake News Sites</title>
+      <link>https://gbhackers.com/baittrap-reveals-global-web/</link>
+      <description>A network of over 17,000 "Baiting News Sites" (BNS) has been discovered by cybersecurity firm CTM360, which are designed to disseminate investment fraud globally. These sites masquerade as authoritative news entities and use advanced social engineering tactics to target unsuspecting users with false information about lucrative investment opportunities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149065</guid>
+      <pubDate>Tue, 15 Jul 2025 12:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New AsyncRAT Forks Discovered Featuring Screamer Tool and USB Malware Spreader</title>
+      <link>https://gbhackers.com/new-asyncrat-forks-discovered/</link>
+      <description>Vulnerable Product: AsyncRAT; CVE(s): None; Summary: The article describes two new variants of the AsyncRAT remote access trojan (RAT) that introduce a psychological warfare component and enhanced propagation mechanisms. The "Screamer" plugin manipulates Windows audio APIs to disorient victims, while the USB malware spreader component transforms AsyncRAT into a self-replicating worm capable of bridging air-gapped networks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149190</guid>
+      <pubDate>Tue, 15 Jul 2025 12:08:57 +0000</pubDate>
+    </item>
     <item>
       <title>Hacktivists Launch Attacks on ICS Systems to Exfiltrate Sensitive Information</title>
       <link>https://gbhackers.com/hacktivists-launch-attacks-on-ics-systems/</link>
@@ -1415,27 +1436,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7239; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26085</guid>
       <pubDate>Tue, 08 Jul 2025 20:15:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-507: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-507/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7258; Summary: The IrfanView CADImage Plugin contains an out-of-bounds write remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue occurs due to the lack of proper validation of user-supplied data, resulting in a write past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26127</guid>
-      <pubDate>Tue, 08 Jul 2025 20:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-508: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-508/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7260; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, which exists within the parsing of DXF files due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26129</guid>
-      <pubDate>Tue, 08 Jul 2025 20:14:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-509: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-509/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7261; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the target must visit a malicious page or open a malicious file. The issue exists in the parsing of DWG files due to lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26130</guid>
-      <pubDate>Tue, 08 Jul 2025 20:14:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
