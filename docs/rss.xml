@@ -6,14 +6,70 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 11:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 12:04:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hacktivists Launch Attacks on ICS Systems to Exfiltrate Sensitive Information</title>
+      <link>https://gbhackers.com/hacktivists-launch-attacks-on-ics-systems/</link>
+      <description>The article highlights the increasing intensity of hacktivist attacks targeting Industrial Control Systems (ICS), with a focus on Operational Technology (OT) environments, Supervisory Control and Data Acquisition (SCADA) systems, and Human-Machine Interfaces (HMIs).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148989</guid>
+      <pubDate>Tue, 15 Jul 2025 11:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI's ChatGPT-powered browser is codenamed 'Aura'</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/</link>
+      <description>Vulnerable Product: None; FYSA: While cloud attacks may be growing more sophisticated, attackers still succeed with surprisingly simple techniques. This report reveals 8 key techniques used by cloud-fluent threat actors.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/</guid>
+      <pubDate>Tue, 15 Jul 2025 11:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Threat Grows as Attackers Move Into VMware and Linux</title>
+      <link>https://gbhackers.com/attackers-move-into-vmware-and-linux/</link>
+      <description>The article highlights the increasing trend of ransomware attacks targeting Linux environments, which were previously considered secure due to their reliability and inherent security. Threat actors are now engineering sophisticated Linux-specific ransomware variants, exploiting ubiquity in critical applications, APIs, DevOps pipelines, and virtualized infrastructures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=148962</guid>
+      <pubDate>Tue, 15 Jul 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 Hackers Arrested in Massive Tax Fraud Scheme, Authorities Confirm</title>
+      <link>https://gbhackers.com/14-hackers-arrested-in-massive-tax-fraud-scheme/</link>
+      <description>Authorities have arrested 14 individuals for a sophisticated tax fraud scheme that exploited stolen personal data to submit fraudulent claims worth over £1 million. The operation involved international cooperation between UK and Romanian law enforcement agencies, demonstrating the growing collaboration in combating cross-border cybercrime.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149174</guid>
+      <pubDate>Tue, 15 Jul 2025 11:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments</title>
+      <link>https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html</link>
+      <description>The article discusses a previously undocumented Windows backdoor called HazyBeacon, which targets government agencies in Southeast Asia. The malware uses DLL side-loading techniques to deploy it on compromised hosts and establishes communication with an attacker-controlled URL to execute arbitrary commands and download additional payloads.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html</guid>
+      <pubDate>Tue, 15 Jul 2025 11:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LaRecipe Tool with 2.3M Downloads Found Vulnerable to Full Server Takeover</title>
+      <link>https://gbhackers.com/larecipe-tool-with-2-3m-downloads-found-vulnerable-to-full-server-takeover/</link>
+      <description>Vulnerable Product: torch/larecipe; CVE(s): CVE-2025-53833; Summary: A critical Server-Side Template Injection (SSTI) vulnerability, identified as CVE-2025-53833, allows attackers to execute arbitrary code on vulnerable systems, leading to Remote Code Execution (RCE). The vulnerability affects all versions prior to 2.8.1 and requires no authentication or user interaction.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149163</guid>
+      <pubDate>Tue, 15 Jul 2025 11:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Agentic AI: How to Protect the Invisible Identity Access</title>
+      <link>https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html</link>
+      <description>This article is not about a vulnerability, but rather discusses the security implications of AI agents in cloud environments. It highlights the need for visibility into non-human identities (NHIs) and emphasizes the importance of applying least privilege and automation to ensure secure use of AI agents.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html</guid>
+      <pubDate>Tue, 15 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>North Korean Hackers Exploit Zoom Invites in Attacks on Crypto Companies</title>
       <link>https://gbhackers.com/north-korean-hackers-exploit-zoom-invites-in-attacks/</link>
       <description>The article describes an ongoing malware campaign orchestrated by North Korean threat actors targeting individuals and organizations within the Web3, cryptocurrency, and blockchain industries. The malware uses spear-phishing tactics, fake job opportunities, and social engineering to deploy a multi-stage attack chain that compromises macOS systems and exfiltrates sensitive data, including cryptocurrency wallet credentials and personal information.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=148970</guid>
       <pubDate>Tue, 15 Jul 2025 10:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AsyncRAT's Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe</title>
+      <link>https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html</link>
+      <description>Vulnerable Product: AsyncRAT; CVE(s): None; Summary: AsyncRAT is a widely used remote access trojan that has evolved over the years, with its open-source nature allowing it to be modified and distributed by threat actors. It can capture screenshots, log keystrokes, steal credentials, and allow attackers to commandeer infected systems stealthily. The malware has spawned various variants, including DCRat, Venom RAT, and others, which have added new features and evasion techniques.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html</guid>
+      <pubDate>Tue, 15 Jul 2025 10:53:00 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-592: Autodesk Revit RVT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
@@ -1380,62 +1436,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7261; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the target must visit a malicious page or open a malicious file. The issue exists in the parsing of DWG files due to lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26130</guid>
       <pubDate>Tue, 08 Jul 2025 20:14:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-510: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-510/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7262; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the target must visit a malicious page or open a malicious file. The issue results from lack of proper validation of user-supplied data, leading to a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26132</guid>
-      <pubDate>Tue, 08 Jul 2025 20:13:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-511: IrfanView CADImage Plugin CGM File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-511/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7263; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing CGM files. User interaction is required, and the specific flaw exists within the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26170</guid>
-      <pubDate>Tue, 08 Jul 2025 20:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-512: IrfanView CADImage Plugin CGM File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-512/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7264; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by reading past the end of an allocated buffer during CGM file parsing. User interaction is required, and the attack can occur when a user visits a malicious page or opens a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26171</guid>
-      <pubDate>Tue, 08 Jul 2025 20:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-513: IrfanView CADImage Plugin CGM File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-513/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7265; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the flaw exists within the parsing of CGM files due to a lack of proper validation of user-supplied data. An attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26173</guid>
-      <pubDate>Tue, 08 Jul 2025 20:13:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-514: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-514/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7266; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, which exists within the parsing of DXF files due to a lack of proper validation of user-supplied data leading to memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26174</guid>
-      <pubDate>Tue, 08 Jul 2025 20:12:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-515: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-515/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7267; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the flaw exists within the parsing of DXF files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26179</guid>
-      <pubDate>Tue, 08 Jul 2025 20:12:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-516: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-516/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7268; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, and the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26182</guid>
-      <pubDate>Tue, 08 Jul 2025 20:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-517: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-517/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7269; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue exists within the parsing of DXF files due to lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26188</guid>
-      <pubDate>Tue, 08 Jul 2025 20:11:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
