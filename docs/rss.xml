@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 17:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 18:01:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>North Korean XORIndex malware hidden in 67 malicious npm packages</title>
+      <link>https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/</link>
+      <description>Vulnerable Product: Node Package Manager (npm); CVE(s): None; Summary: North Korean threat actors uploaded 67 malicious packages to npm, which collectively received over 17,000 downloads. The packages were designed to deliver a new malware loader called XORIndex, which can collect host and network data, profile victims, and download additional payloads.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/</guid>
+      <pubDate>Tue, 15 Jul 2025 17:47:09 +0000</pubDate>
+    </item>
     <item>
       <title>Police disrupt “Diskstation” ransomware gang attacking NAS devices</title>
       <link>https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/</link>
       <description>This article discusses a law enforcement operation codenamed 'Operation Elicius' that dismantled a Romanian ransomware gang known as 'Diskstation', which targeted Synology Network-Attached Storage (NAS) devices. The gang encrypted the systems of several companies, paralyzing their businesses, and demanded ransom payments ranging from $10,000 to hundreds of thousands of dollars.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/</guid>
       <pubDate>Tue, 15 Jul 2025 16:53:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors</title>
+      <link>https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html</link>
+      <description>This article discusses a significant increase in distributed denial-of-service (DDoS) attacks mitigated by Cloudflare in the second quarter of 2025. The article highlights the rise of hyper-volumetric DDoS attacks, which peaked at 7.3 terabits per second and 4.8 billion packets per second within a span of 45 seconds. It also discusses the increasing use of targeted probes by attackers to find weak spots and slip past defenses.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html</guid>
+      <pubDate>Tue, 15 Jul 2025 16:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Attack on Albemarle County Exposes Residents’ Personal Information</title>
@@ -1422,20 +1436,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7241; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, which exists within the parsing of DWG files due to a lack of proper validation of user-supplied data, resulting in memory corruption.</description>
       <guid isPermaLink="false">ZDI-CAN-26087</guid>
       <pubDate>Tue, 08 Jul 2025 20:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-490: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-490/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7242; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, which occurs due to a lack of proper validation of user-supplied data that can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26088</guid>
-      <pubDate>Tue, 08 Jul 2025 20:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-491: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-491/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7243; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, as the target must visit a malicious page or open a malicious file. The flaw exists in the parsing of DWG files due to lack of proper validation of user-supplied data, leading to memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26091</guid>
-      <pubDate>Tue, 08 Jul 2025 20:19:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
