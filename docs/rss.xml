@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 19:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 20:02:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Leverage 607 Malicious Domains to Spread APK Malware with Remote Command Execution</title>
+      <link>https://gbhackers.com/hackers-leverage-607-malicious-domains/</link>
+      <description>Vulnerable Product: None; CVE(s): Janus vulnerability on Android versions 5.0 through 8.0 (None); Summary: Rogue domains were used in a large-scale phishing campaign to spread fake Telegram Messenger application files (APKs) over the course of a month, leveraging QR codes and centralized redirection for efficient malware delivery. The malicious APKs employ cleartext traffic protocols, grant broad permissions, and integrate MediaPlayer invocations and socket-based callbacks for remote command execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149532</guid>
+      <pubDate>Wed, 16 Jul 2025 19:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Louis Vuitton says regional data breaches tied to same cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/</link>
+      <description>The article reports a data breach at luxury fashion giant Louis Vuitton, which affected customers in the UK, South Korea, and Turkey. The breach is believed to be linked to the ShinyHunters extortion group.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/</guid>
+      <pubDate>Wed, 16 Jul 2025 19:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Weaponize WordPress Sites to Redirect Visitors to Malicious Domains</title>
+      <link>https://gbhackers.com/threat-actors-weaponize-wordpress-sites/</link>
+      <description>The article describes a sophisticated malware campaign targeting WordPress websites, where threat actors embedded malicious code within core files to facilitate unauthorized redirects and SEO poisoning. The malware uses obfuscation techniques and bot-evasion tactics to evade detection, and can manipulate search engine rankings by injecting fake sitemaps and verifying with Google Search Console.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149525</guid>
+      <pubDate>Wed, 16 Jul 2025 19:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>SquidLoader Deploys Stealthy Malware with Near-Zero Detection to Evade Security Measures</title>
       <link>https://gbhackers.com/squidloader-deploys-stealthy-malware/</link>
@@ -1432,27 +1453,6 @@ The report provides valuable insights into the current terrorist landscape and p
       <description>The U.S. Department of the Treasury has sanctioned Song Kum Hyok, a cyber actor associated with North Korea's Andariel hacking group, for facilitating IT worker schemes that generated revenue for the Pyongyang regime.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/</guid>
       <pubDate>Wed, 09 Jul 2025 14:43:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The MFA You Trust Is Lying to You – and Here's How Attackers Exploit It</title>
-      <link>https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article discusses the vulnerabilities of using one-time passwords (OTP) sent via SMS or authenticator apps for multi-factor authentication (MFA). It highlights how these methods can be easily phished, relayed, or intercepted by attackers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/</guid>
-      <pubDate>Wed, 09 Jul 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2025 Patch Tuesday Overview: 130 Vulnerabilities &amp; One Disclosed Zero-Day (CVE-2025-49719)</title>
-      <link>https://socradar.io/july-2025-patch-tuesday-130-flaws-cve-2025-49719/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-49719; Summary: An information disclosure vulnerability in Microsoft SQL Server allows an unauthenticated attacker to potentially access uninitialized memory, exposing sensitive information. The risk of exploitation is low, but users should update SQL Server to the latest version and applications built on SQL Server should update to Microsoft OLE DB Driver version 18 or 19.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061729</guid>
-      <pubDate>Wed, 09 Jul 2025 13:33:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware</title>
-      <link>https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html</link>
-      <description>This article reports on a targeted attack by an Advanced Persistent Threat (APT) group called DoNot Team against a European foreign affairs ministry. The attack uses custom-built Windows malware, including backdoors like YTY and GEdit, delivered through spear-phishing emails or malicious documents. The malware can harvest sensitive data from compromised hosts and establish persistence on the system.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html</guid>
-      <pubDate>Wed, 09 Jul 2025 13:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
