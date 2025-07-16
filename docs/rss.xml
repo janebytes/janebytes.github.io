@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 18:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 19:01:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SquidLoader Deploys Stealthy Malware with Near-Zero Detection to Evade Security Measures</title>
+      <link>https://gbhackers.com/squidloader-deploys-stealthy-malware/</link>
+      <description>Vulnerable Product: SquidLoader; CVE(s): None; Summary: A new variant of SquidLoader malware has been discovered, which achieves near-zero detection rates on platforms like VirusTotal by leveraging advanced anti-analysis, anti-sandbox, and anti-debugging mechanisms. The malware deploys Cobalt Strike Beacons for remote access and contains a multi-stage infection process with various evasion techniques, including anti-emulation tricks and API resolution via PEB walking.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149514</guid>
+      <pubDate>Wed, 16 Jul 2025 18:38:45 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms</title>
       <link>https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html</link>
@@ -1446,13 +1453,6 @@ The report provides valuable insights into the current terrorist landscape and p
       <description>This article reports on a targeted attack by an Advanced Persistent Threat (APT) group called DoNot Team against a European foreign affairs ministry. The attack uses custom-built Windows malware, including backdoors like YTY and GEdit, delivered through spear-phishing emails or malicious documents. The malware can harvest sensitive data from compromised hosts and establish persistence on the system.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html</guid>
       <pubDate>Wed, 09 Jul 2025 13:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ServiceNow flaw lets attackers enumerate restricted data</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/</link>
-      <description>Vulnerable Product: ServiceNow; CVE(s): CVE-2025-3648; Summary: A vulnerability in ServiceNow allows low-privileged users to extract sensitive data from tables to which they should not have access. The issue is due to permissive ACLs that grant access if a user satisfies just one ACL, even if other ACLs would block them.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/</guid>
-      <pubDate>Wed, 09 Jul 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
