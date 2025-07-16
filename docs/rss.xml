@@ -6,14 +6,49 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 13:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 14:02:58 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>MITRE Launches AADAPT Framework to Secure Digital Assets</title>
+      <link>https://socradar.io/mitre-launches-aadapt-framework-secure-digital-assets/</link>
+      <description>The MITRE organization has launched a new cybersecurity initiative called AADAPT (Adversarial Actions in Digital Asset Payment Technologies), which aims to help organizations detect and mitigate cyber threats in digital finance. The framework provides a structured approach to tackling risks in cryptocurrencies, smart contracts, decentralized applications, and blockchain systems, drawing on lessons from over 150 real-world incidents and expert sources across government, academia, and industry.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061842</guid>
+      <pubDate>Wed, 16 Jul 2025 13:29:54 +0000</pubDate>
+    </item>
     <item>
       <title>Lenovo Vantage Flaws Enable Attackers to Gain SYSTEM-Level Privileges</title>
       <link>https://gbhackers.com/lenovo-vantage-flaws-enable-attackers/</link>
       <description>Vulnerable Product: Lenovo Vantage; CVE(s): 2025-6230, 2025-6231, 2025-6232; Summary: Multiple privilege escalation vulnerabilities in Lenovo Vantage allow unprivileged users to bypass authentication mechanisms and execute code with SYSTEM-level privileges, potentially leading to full system compromise. The flaws stem from Lenovo Vantage's modular architecture and expose JSON-based requests routed to add-ins defined in XML files.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149490</guid>
       <pubDate>Wed, 16 Jul 2025 12:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung WLAN AP Flaws Let Remote Attackers Run Commands as Root</title>
+      <link>https://gbhackers.com/samsung-wlan-ap-flaws/</link>
+      <description>Vulnerable Product: Samsung WEA453e Wireless Access Point; CVE(s): None; Summary: The WEA453e wireless access point has a critical chain of vulnerabilities that allows unauthenticated remote attackers to execute commands with full administrative privileges. The vulnerability chain begins with a reflected cross-site scripting (XSS) flaw and ends with local file inclusion (LFI) and command injection, allowing attackers to read sensitive files and gain root-level access without authentication.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149460</guid>
+      <pubDate>Wed, 16 Jul 2025 12:40:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese ‘Salt Typhoon’ Hackers Infiltrated US National Guard Network for Almost a Year</title>
+      <link>https://gbhackers.com/chinese-salt-typhoon-hackers-infiltrated/</link>
+      <description>A sophisticated advanced persistent threat (APT) group, known as Salt Typhoon, has successfully penetrated a U.S. state's Army National Guard network, enabling potential exfiltration of sensitive military and law enforcement data. The intrusion leveraged lateral movement techniques across interconnected systems, highlighting vulnerabilities in hybrid federal-state infrastructures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149463</guid>
+      <pubDate>Wed, 16 Jul 2025 12:37:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Secure Boot Certificate Expired in June, Microsoft Issues Warning</title>
+      <link>https://gbhackers.com/windows-secure-boot-certificate-expired-in-june/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The Secure Boot certificates used by most Windows devices are scheduled to expire starting in June 2026, potentially affecting device functionality and security. If not properly updated, affected devices may encounter boot failures or security vulnerabilities, leaving systems exposed to malware attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149449</guid>
+      <pubDate>Wed, 16 Jul 2025 12:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s AI ‘Big Sleep’ Detects Critical SQLite 0-Day, Halts Ongoing Attacks</title>
+      <link>https://gbhackers.com/googles-ai-big-sleep-detects-critical-sqlite-0-day/</link>
+      <description>Vulnerable Product: SQLite; CVE(s): CVE-2025-6965; Summary: A zero-day vulnerability was found in SQLite by Google's AI agent "Big Sleep", which allowed it to stop exploitation attempts before widespread attacks could occur. The vulnerability was detected using threat intelligence and advanced code analysis, demonstrating a proactive approach to predictive threat prevention.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149441</guid>
+      <pubDate>Wed, 16 Jul 2025 12:11:38 +0000</pubDate>
     </item>
     <item>
       <title>Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access</title>
@@ -1420,41 +1455,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7308; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the target must visit a malicious page or open a malicious file. The issue results from lack of proper validation of user-supplied data, leading to memory corruption.</description>
       <guid isPermaLink="false">ZDI-CAN-26389</guid>
       <pubDate>Tue, 08 Jul 2025 21:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-556: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-556/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7310; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition caused by the lack of proper validation of user-supplied data during DWG file parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26393</guid>
-      <pubDate>Tue, 08 Jul 2025 21:10:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-557: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-557/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7309; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26391</guid>
-      <pubDate>Tue, 08 Jul 2025 21:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-558: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-558/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7311; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26395</guid>
-      <pubDate>Tue, 08 Jul 2025 21:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-559: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-559/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7312; Summary: The IrfanView CADImage Plugin contains an out-of-bounds read remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26398</guid>
-      <pubDate>Tue, 08 Jul 2025 21:09:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-560: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-560/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7313; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing DWG files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data, leading to memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26399</guid>
-      <pubDate>Tue, 08 Jul 2025 21:09:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
