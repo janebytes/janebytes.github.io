@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 15:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 16:01:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware</title>
+      <link>https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/</link>
+      <description>Vulnerable Product: SonicWall Secure Mobile Access appliances (SMA 100 Series); CVE(s): CVE-2021-20038, CVE-2024-38475, CVE-2021-20035, CVE-2021-20039, CVE-2025-32819; Summary: The article describes a previously unseen malware called OVERSTEP that modifies the boot process of fully-patched but no longer supported SonicWall SMA appliances. The backdoor allows hackers to hide malicious components, maintain persistent access on the device, and steal sensitive credentials.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/</guid>
+      <pubDate>Wed, 16 Jul 2025 15:33:15 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-603: Autodesk Revit RTE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-603/</link>
@@ -1446,13 +1453,6 @@ The report provides valuable insights into the current terrorist landscape and p
       <description>The article discusses the importance of providing detailed security advisories and indicators to help defenders detect and respond to critical vulnerabilities. It highlights how Citrix's decision to withhold technical details about a recent vulnerability has allowed attackers to gain an advantage, making it harder for customers to identify compromised devices.</description>
       <guid isPermaLink="true">https://arstechnica.com/security/2025/07/critical-citrixbleed-2-vulnerability-has-been-under-active-exploit-for-weeks/</guid>
       <pubDate>Wed, 09 Jul 2025 11:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>How To Automate Ticket Creation, Device Identification and Threat Triage With Tines</title>
-      <link>https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html</link>
-      <description>The article discusses a pre-built workflow in Tines, a workflow orchestration and AI platform, that automates the process of responding to malware security alerts from CrowdStrike. The workflow involves integrating with various platforms such as Oomnitza, GitHub, PagerDuty, and Slack to streamline the response to malware threats.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html</guid>
-      <pubDate>Wed, 09 Jul 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
