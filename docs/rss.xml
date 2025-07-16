@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 16:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 17:01:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cloudflare says 1.1.1.1 outage not caused by attack or BGP hijack</title>
+      <link>https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/</link>
+      <description>The article explains that the recent 1.1.1.1 Resolver service outage was caused by an internal misconfiguration at Cloudflare, not a cyberattack or BGP hijack incident. The misconfiguration occurred due to a configuration change for a future Data Localization Suite (DLS) performed on June 6, which mistakenly linked 1.1.1.1 Resolver IP prefixes to a non-production DLS service.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/</guid>
+      <pubDate>Wed, 16 Jul 2025 16:49:29 +0000</pubDate>
+    </item>
     <item>
       <title>SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware</title>
       <link>https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/</link>
@@ -1446,13 +1453,6 @@ The report provides valuable insights into the current terrorist landscape and p
       <description>The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned a member of a North Korean hacking group called Andariel for their role in an IT worker scheme. The scheme involved using foreign-hired IT workers to seek remote employment with US companies, and the sanctions are part of efforts to disrupt North Korea's ability to generate revenue through illicit means.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html</guid>
       <pubDate>Wed, 09 Jul 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical CitrixBleed 2 vulnerability has been under active exploit for weeks</title>
-      <link>https://arstechnica.com/security/2025/07/critical-citrixbleed-2-vulnerability-has-been-under-active-exploit-for-weeks/</link>
-      <description>The article discusses the importance of providing detailed security advisories and indicators to help defenders detect and respond to critical vulnerabilities. It highlights how Citrix's decision to withhold technical details about a recent vulnerability has allowed attackers to gain an advantage, making it harder for customers to identify compromised devices.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/critical-citrixbleed-2-vulnerability-has-been-under-active-exploit-for-weeks/</guid>
-      <pubDate>Wed, 09 Jul 2025 11:20:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
