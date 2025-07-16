@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 14:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 15:02:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-603: Autodesk Revit RTE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-603/</link>
+      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit, requiring user interaction. The flaw exists in the parsing of RTE files due to lack of proper validation of user-supplied data, leading to a read past the end of an allocated object.</description>
+      <guid isPermaLink="false">ZDI-CAN-27152</guid>
+      <pubDate>Wed, 16 Jul 2025 15:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Fortinet FortiWeb hacks likely linked to public RCE exploits</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/</link>
+      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A remote code execution (RCE) vulnerability tracked as CVE-2025-25257 affects FortiWeb 7.6.0 through 7.6.3, 7.4.0 through 7.4.7, and 7.0.0 through 7.0.10. The vulnerability allows an unauthenticated attacker to execute unauthorized SQL code or commands via crafted HTTP or HTTPS requests, which can lead to web shell infections.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/</guid>
+      <pubDate>Wed, 16 Jul 2025 14:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol disrupts pro-Russian NoName057(16) DDoS hacktivist group</title>
+      <link>https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/</link>
+      <description>Operation Eastwood, an international law enforcement operation led by Europol and Eurojust, targeted the pro-Russian hacktivist group NoName057(16) responsible for DDoS attacks across Europe, Israel, and Ukraine. The operation disrupted over 100 servers hosting the group's infrastructure, resulted in two arrests, and issued seven European arrest warrants.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/</guid>
+      <pubDate>Wed, 16 Jul 2025 14:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit</title>
+      <link>https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html</link>
+      <description>Vulnerable Product: SonicWall Secure Mobile Access (SMA) 100 series; CVE(s): CVE-2021-20035, CVE-2021-20038, CVE-2021-20039, CVE-2024-38475, CVE-2025-32819; Summary: A threat activity cluster has been observed targeting fully-patched end-of-life SonicWall SMA 100 series appliances to drop a backdoor called OVERSTEP. The attackers are believed to have initially gained access through the exploitation of known security flaws or obtained administrator credentials through information-stealing logs or credential marketplaces.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html</guid>
+      <pubDate>Wed, 16 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>MITRE Launches AADAPT Framework to Secure Digital Assets</title>
       <link>https://socradar.io/mitre-launches-aadapt-framework-secure-digital-assets/</link>
@@ -1425,36 +1453,6 @@ The report provides valuable insights into the current terrorist landscape and p
       <description>The article discusses a pre-built workflow in Tines, a workflow orchestration and AI platform, that automates the process of responding to malware security alerts from CrowdStrike. The workflow involves integrating with various platforms such as Oomnitza, GitHub, PagerDuty, and Slack to streamline the response to malware threats.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html</guid>
       <pubDate>Wed, 09 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks</title>
-      <link>https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html</link>
-      <description>This article reports on the alleged involvement of Chinese national Xu Zewei and state-sponsored hacking group Silk Typhoon (also known as UNC5221) in cyber attacks against American organizations and government agencies, including exploiting zero-day flaws in Microsoft Exchange Server.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html</guid>
-      <pubDate>Wed, 09 Jul 2025 08:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server</title>
-      <link>https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html</link>
-      <description>Vulnerable Product: Microsoft SQL Server; CVE(s): CVE-2025-49719; Summary: The vulnerability is an information disclosure flaw that could permit an unauthorized attacker to leak uninitialized memory. This could allow attackers to retrieve remnants of sensitive data, such as credentials or connection strings. The flaw likely results from improper input validation in SQL Server's memory management, allowing access to uninitialized memory.
-
-FYSA: An 11-month streak of patching at least one zero-day that was exploited in the wild ended this month.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html</guid>
-      <pubDate>Wed, 09 Jul 2025 07:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday, July 2025 Edition</title>
-      <link>https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/</link>
-      <description>Vulnerable Product: Microsoft SQL Server; CVE(s): CVE-2025-49719, None; Summary: A publicly disclosed information disclosure vulnerability (CVE-2025-49719) affects all versions of SQL Server as far back as 2016, allowing sensitive information to be exposed without authentication.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71624</guid>
-      <pubDate>Wed, 09 Jul 2025 00:53:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-555: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-555/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7308; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the target must visit a malicious page or open a malicious file. The issue results from lack of proper validation of user-supplied data, leading to memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26389</guid>
-      <pubDate>Tue, 08 Jul 2025 21:10:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
