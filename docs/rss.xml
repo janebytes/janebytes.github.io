@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 20:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 21:01:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>U.S. Army soldier pleads guilty to extorting 10 tech, telecom firms</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/</link>
+      <description>A 21-year-old former U.S. Army soldier pleaded guilty to charges of hacking and extorting at least ten telecommunications and technology companies in the country. The man, Cameron John Wagenius, used online accounts associated with the nickname “kiberphant0m” and conspired with others to defraud victim organizations by obtaining login credentials for their protected computer networks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/</guid>
+      <pubDate>Wed, 16 Jul 2025 21:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google finds custom backdoor being installed on SonicWall network devices</title>
+      <link>https://arstechnica.com/security/2025/07/google-finds-custom-backdoor-being-installed-on-sonicwall-network-devices/</link>
+      <description>Vulnerable Product: None; CVE(s): 2024-38475; Summary: UNC6148 exploited vulnerabilities in SMA appliances, gaining local administrator credentials and valid session tokens. They may have used infostealer logs or credential marketplaces to obtain credentials. A reverse shell was installed, providing a web interface for running commands and installing Overstep. The motivations of the group and what they do after Overstep is installed are unknown.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/google-finds-custom-backdoor-being-installed-on-sonicwall-network-devices/</guid>
+      <pubDate>Wed, 16 Jul 2025 20:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cracked Apps Delivering Infostealers Identified as Leading Attack Vector in June 2025</title>
+      <link>https://gbhackers.com/cracked-apps-delivering-infostealers-identified/</link>
+      <description>The article discusses infostealer malware masquerading as keygens and cracked software, which uses advanced SEO poisoning to elevate malicious distribution sites in search results. It highlights the diversity of infostealers, including variants like LummaC2, Rhadamanthys, ACRStealer, Vidar, and StealC, and notes their evolving sophistication through techniques like evasion, deception, and anti-analysis mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149538</guid>
+      <pubDate>Wed, 16 Jul 2025 20:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Leverage 607 Malicious Domains to Spread APK Malware with Remote Command Execution</title>
       <link>https://gbhackers.com/hackers-leverage-607-malicious-domains/</link>
@@ -1432,27 +1453,6 @@ The report provides valuable insights into the current terrorist landscape and p
       <description>The article reports on an Initial Access Broker (IAB) called Gold Melody, which exploits leaked ASP.NET machine keys to obtain unauthorized access to organizations. The IAB uses the exploited keys to sign malicious payloads that provide access to targeted servers through ASP.NET ViewState deserialization.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html</guid>
       <pubDate>Wed, 09 Jul 2025 16:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruckus Networks leaves severe flaws unpatched in management devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/</link>
-      <description>Vulnerable Product: Ruckus Wireless; CVE(s): CVE-2025-44957, CVE-2025-44962, CVE-2025-44954, CVE-2025-44960, CVE-2025-44961, CVE-2025-44963, CVE-2025-44955, CVE-2025-6243, CVE-2025-44958; Summary: Multiple unpatched vulnerabilities in Ruckus Wireless management products, including remote code execution, hardcoded passwords, and hardcoded SSH public and private keys, could allow an attacker to fully compromise the network environment they serve.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/</guid>
-      <pubDate>Wed, 09 Jul 2025 15:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ingram Micro starts restoring systems after ransomware attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/ingram-micro-starts-restoring-systems-after-ransomware-attack/</link>
-      <description>Ingram Micro suffered a SafePay ransomware attack, resulting in a global outage and forced employees to work from home. The company is currently restoring systems and business services, but it's unclear if data was stolen during the attack.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ingram-micro-starts-restoring-systems-after-ransomware-attack/</guid>
-      <pubDate>Wed, 09 Jul 2025 15:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Treasury sanctions North Korean over IT worker malware scheme</title>
-      <link>https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/</link>
-      <description>The U.S. Department of the Treasury has sanctioned Song Kum Hyok, a cyber actor associated with North Korea's Andariel hacking group, for facilitating IT worker schemes that generated revenue for the Pyongyang regime.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/</guid>
-      <pubDate>Wed, 09 Jul 2025 14:43:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
