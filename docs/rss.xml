@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 11:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 12:08:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Dark Partners Hacker Group Drains Crypto Wallets Using Fake AI Tools and VPN Services</title>
+      <link>https://gbhackers.com/dark-partners-hacker-group-drains-crypto-wallets/</link>
+      <description>Dark Partners, a financially driven cybercrime organization, has been planning massive cryptocurrency theft since May 2025 using over 250 malicious domains posing as AI tools, VPN services, and software brands. The group's infrastructure facilitates data harvesting from victims across multiple countries, with a focus on cryptocurrency, blockchain, technology, financial services, and VPN sectors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149392</guid>
+      <pubDate>Wed, 16 Jul 2025 11:52:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gmail Message Exploit Triggers Code Execution in Claude, Bypassing Protections</title>
+      <link>https://gbhackers.com/gmail-message-exploit-triggers-code-execution-in-claude/</link>
+      <description>Vulnerable Product: Claude Desktop; CVE(s): None; Summary: A cybersecurity researcher demonstrated a code execution attack on Claude Desktop, an AI assistant application, by leveraging the Model Context Protocol (MCP) and exploiting compositional risk. The attack did not rely on any vulnerabilities in individual MCP servers but rather the combination of untrusted input sources, excessive execution permissions, and lack of contextual guardrails between different tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149423</guid>
+      <pubDate>Wed, 16 Jul 2025 11:37:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle Issues Critical Update Fixing 309 Vulnerabilities Across Products</title>
+      <link>https://gbhackers.com/oracle-issues-critical-update/</link>
+      <description>Vulnerable Product: Oracle; CVE(s): 309 (None); Summary: The Oracle July 2025 Critical Patch Update addresses 309 security vulnerabilities across its product portfolio, including Oracle Database Server, MySQL Server, WebLogic Server, Java SE, and other products. The update affects multiple version ranges, with some affecting software dating back several years. The vulnerabilities can be exploited remotely without authentication, leading to unauthorized access, data breaches, and system compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149332</guid>
+      <pubDate>Wed, 16 Jul 2025 11:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers exploit a blind spot by hiding malware inside DNS records</title>
+      <link>https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/</link>
+      <description>The article discusses the use of Domain Name System (DNS) records to host malicious PowerShell scripts. Researchers have found that threat actors are using TXT records to embed attacker-devised text into documents or files being analyzed by AI chatbots, which can be exploited through prompt injections. This technique allows attackers to manipulate the chatbot's behavior and achieve malicious objectives.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/</guid>
+      <pubDate>Wed, 16 Jul 2025 11:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>NimDoor MacOS Malware Abuses Zoom SDK Updates to Steal Keychain Credentials</title>
+      <link>https://gbhackers.com/nimdoor-macos-malware-abuses-zoom-sdk-updates/</link>
+      <description>SentinelOne researchers discovered NimDoor, a sophisticated MacOS malware campaign attributed to North Korean-affiliated attackers (Stardust Chollima gang) targeting the bitcoin industry, exploiting social engineering tactics to steal sensitive data. The malware uses Nim-compiled binaries and process injection techniques for stealthy operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149355</guid>
+      <pubDate>Wed, 16 Jul 2025 11:06:29 +0000</pubDate>
+    </item>
     <item>
       <title>Grok 4 benchmark results: Tops math, ranks second in coding</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/</link>
@@ -56,6 +91,26 @@
       <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53027; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox by exploiting a lack of proper locking when performing operations on an object in the virtual OHCI USB controller. An attacker must first obtain the ability to execute high-privileged code on the target guest system to exploit this vulnerability, which can then be used to execute arbitrary code in the context of the hypervisor.</description>
       <guid isPermaLink="false">ZDI-CAN-27154</guid>
       <pubDate>Wed, 16 Jul 2025 10:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Talos IR ransomware engagements and the significance of timeliness in incident response</title>
+      <link>https://blog.talosintelligence.com/talos-ir-ransomware-engagements-and-the-significance-of-timeliness-in-incident-response/</link>
+      <description>FYSA:
+
+The article appears to be a case study on a cybersecurity incident involving a series of malicious activities by an attacker. The analyst's analysis reveals that the attack involved multiple tools and techniques, including social engineering, malware deployment, data exfiltration, and command and control (C2) communication.
+
+From a security perspective, several concerns are raised:
+
+1. **Lack of robust security controls**: The article highlights the importance of implementing strong security controls to prevent unauthorized access and data breaches.
+2. **Inadequate logging and monitoring**: The analyst notes that the attack was only detected due to the victim's logging and monitoring efforts. This emphasizes the need for organizations to maintain comprehensive logging and monitoring capabilities.
+3. **Malware deployment**: The article highlights the importance of maintaining up-to-date antivirus software and implementing sandboxing or virtualization technologies to contain malware outbreaks.
+4. **Command and control (C2) communication**: The analyst notes that the attacker used C2 servers to communicate with compromised hosts. This underscores the need for organizations to implement robust C2 detection and mitigation strategies.
+
+In terms of specific vulnerabilities, the article does not discuss any particular software, hardware, or firmware vulnerabilities. However, it highlights the importance of keeping systems and applications up-to-date with the latest security patches and updates.
+
+Overall, the article provides valuable insights into the tactics, techniques, and procedures (TTPs) used by attackers and emphasizes the need for organizations to prioritize robust security controls, logging, monitoring, and incident response capabilities.</description>
+      <guid isPermaLink="false">687548cf405515000149657a</guid>
+      <pubDate>Wed, 16 Jul 2025 10:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Email Filters Defeated by Polyglot File Trick Used in Malware Campaigns</title>
@@ -1398,48 +1453,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7316; Summary: The IrfanView CADImage Plugin suffers from a remote code execution vulnerability due to the lack of proper validation of user-supplied data during DWG file parsing, allowing attackers to execute arbitrary code with user interaction.</description>
       <guid isPermaLink="false">ZDI-CAN-26410</guid>
       <pubDate>Tue, 08 Jul 2025 21:08:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-564: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-564/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7317; Summary: The IrfanView CADImage Plugin is vulnerable to a remote code execution vulnerability due to the lack of proper validation of user-supplied data during DWG file parsing. An attacker can exploit this by requiring user interaction, such as visiting a malicious page or opening a malicious file, resulting in memory corruption and arbitrary code execution in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26411</guid>
-      <pubDate>Tue, 08 Jul 2025 21:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-565: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-565/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7318; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin, requiring user interaction. The flaw exists within the parsing of DWG files and results from a lack of proper validation of user-supplied data, leading to memory corruption. An attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26412</guid>
-      <pubDate>Tue, 08 Jul 2025 21:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-566: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-566/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7319; Summary: The IrfanView CADImage Plugin contains an out-of-bounds read remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, and the issue exists in the parsing of DWG files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26413</guid>
-      <pubDate>Tue, 08 Jul 2025 21:07:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-567: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-567/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7320; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DXF files, requiring user interaction. An attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26418</guid>
-      <pubDate>Tue, 08 Jul 2025 21:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-568: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-568/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7321; Summary: The IrfanView CADImage Plugin is vulnerable to a remote code execution vulnerability due to memory corruption in the parsing of DWG files. User interaction is required, and an attacker can execute arbitrary code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26421</guid>
-      <pubDate>Tue, 08 Jul 2025 21:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-569: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-569/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7322; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the specific flaw exists within the parsing of DWG files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26423</guid>
-      <pubDate>Tue, 08 Jul 2025 21:07:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
