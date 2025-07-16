@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 10:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 11:01:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Grok 4 benchmark results: Tops math, ranks second in coding</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/</link>
+      <description>The article discusses various AI-related topics, including the performance of Grok 4, a reasoning model, in different domains such as coding and math. It also mentions the threat actors' techniques used for cloud-fluent attacks, which are surprisingly simple despite growing sophistication. Additionally, it touches on upcoming developments in the AI space, including the potential launch of Grok 3.5 and GPT-5 models.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/</guid>
+      <pubDate>Wed, 16 Jul 2025 10:35:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Konfety Android Malware Exploits ZIP Tricks to Masquerade as Legit Apps on Google Play</title>
+      <link>https://gbhackers.com/konfety-android-malware-exploits-zip-tricks/</link>
+      <description>The Konfety Android malware uses complex ZIP-level changes to avoid detection and mimic genuine apps on the Google Play Store, employing an "evil-twin" strategy, runtime decryption, and deceptive manifest declarations. It can redirect users to fraudulent websites, initiate unwanted app sideloads, and severely impact user privacy and device integrity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149334</guid>
+      <pubDate>Wed, 16 Jul 2025 10:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-598: Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-598/</link>
@@ -1426,20 +1440,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7322; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, and the specific flaw exists within the parsing of DWG files due to a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26423</guid>
       <pubDate>Tue, 08 Jul 2025 21:07:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-570: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-570/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7323; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The flaw exists within the parsing of DWG files and can result in memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-26428</guid>
-      <pubDate>Tue, 08 Jul 2025 21:06:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-571: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-571/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7324; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue exists in the parsing of DXF files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26430</guid>
-      <pubDate>Tue, 08 Jul 2025 21:06:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
