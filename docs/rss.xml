@@ -6,8 +6,148 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 22:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 10:12:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-598: Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-598/</link>
+      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53025; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability, which results from the lack of proper initialization of memory prior to accessing it.</description>
+      <guid isPermaLink="false">ZDI-CAN-26654</guid>
+      <pubDate>Wed, 16 Jul 2025 10:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-599: Oracle VirtualBox LSILogic Uninitialized Memory Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-599/</link>
+      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53026; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability, and it can be leveraged with other vulnerabilities to execute code in the context of the hypervisor.</description>
+      <guid isPermaLink="false">ZDI-CAN-26653</guid>
+      <pubDate>Wed, 16 Jul 2025 10:09:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-600: (Pwn2Own) Oracle VirtualBox VMSVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-600/</link>
+      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53028; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox by exploiting an out-of-bounds write local privilege escalation flaw in the VMSVGA virtual device, which can be leveraged to execute arbitrary code in the context of the hypervisor.</description>
+      <guid isPermaLink="false">ZDI-CAN-27163</guid>
+      <pubDate>Wed, 16 Jul 2025 10:09:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-601: (Pwn2Own) Oracle VirtualBox VMSVGA Integer Overflow Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-601/</link>
+      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53024; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox by exploiting an integer overflow in the VMSVGA virtual device. An attacker must first obtain high-privileged code execution on the target guest system to exploit this flaw, which results from a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-27122</guid>
+      <pubDate>Wed, 16 Jul 2025 10:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-602: (Pwn2Own) Oracle VirtualBox OHCI USB Controller Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-602/</link>
+      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53027; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox by exploiting a lack of proper locking when performing operations on an object in the virtual OHCI USB controller. An attacker must first obtain the ability to execute high-privileged code on the target guest system to exploit this vulnerability, which can then be used to execute arbitrary code in the context of the hypervisor.</description>
+      <guid isPermaLink="false">ZDI-CAN-27154</guid>
+      <pubDate>Wed, 16 Jul 2025 10:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Email Filters Defeated by Polyglot File Trick Used in Malware Campaigns</title>
+      <link>https://gbhackers.com/email-filters-defeated-by-polyglot-file/</link>
+      <description>This article discusses advanced techniques used by attackers to evade email filters and successfully send phishing payloads. The techniques include the use of polyglot files, which can be interpreted as multiple file formats simultaneously, allowing malicious content to appear benign to security scanners.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149288</guid>
+      <pubDate>Wed, 16 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google fixes actively exploited sandbox escape zero day in Chrome</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6558; Summary: The vulnerability, identified as CVE-2025-6558, is a high-severity issue in ANGLE and GPU that affects Google Chrome versions before 138.0.7204.157. It allows an attacker to perform a sandbox escape by using a specially crafted HTML page, potentially executing arbitrary code within the browser's GPU process.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/</guid>
+      <pubDate>Wed, 16 Jul 2025 09:47:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive DDoS Attack Slams Internet with 7.3 Tbps and 4.8 Billion Packets Per Second</title>
+      <link>https://gbhackers.com/massive-ddos-attack-slams-internet/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article reports on a massive DDoS attack mitigated by Cloudflare, peaking at 7.3 terabits per second (Tbps) and 4.8 billion packets per second (Bpps). The report highlights the increasing frequency and intensity of DDoS attacks, with a focus on HTTP and L3/4 attacks, as well as emerging threats like Teeworlds and RIPv1 floods.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149276</guid>
+      <pubDate>Wed, 16 Jul 2025 09:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code</title>
+      <link>https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html</link>
+      <description>The article discusses a sophisticated variant of an Android malware called Konfety that uses the evil twin technique for ad fraud. The malware employs dynamic code loading, obfuscation, and deception to evade detection. It can redirect users to malicious websites, prompt unwanted app installs, and trigger spam-like notifications.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html</guid>
+      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild</title>
+      <link>https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6558; Summary: The high-severity vulnerability (CVSS score: 8.8) allows a remote attacker to potentially perform a sandbox escape via a crafted HTML page, exploiting an incorrect validation of untrusted input in the browser's ANGLE and GPU components, allowing attackers to break out of the browser's security bubble and interact with the underlying system.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html</guid>
+      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time</title>
+      <link>https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html</link>
+      <description>Social engineering attacks are evolving with the use of generative AI, stolen branding assets, and deepfake tools, allowing attackers to mimic executives, hijack social channels, and create convincing fakes. Modern attacks involve long-term, multi-channel campaigns across email, LinkedIn, SMS, and support portals, targeting employees, customers, and partners.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html</guid>
+      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Command-Line Editor Vim Hit by Vulnerability Allowing File Overwrites</title>
+      <link>https://gbhackers.com/command-line-editor-vim-hit-by-vulnerability/</link>
+      <description>Vulnerable Product: Vim; CVE(s): CVE-2025-53906; Summary: The vulnerability allows attackers to overwrite arbitrary files on users' systems by exploiting a path traversal issue in Vim's zip.vim plugin when opening specially crafted zip archives. Successful exploitation could lead to arbitrary code execution, compromising entire systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149326</guid>
+      <pubDate>Wed, 16 Jul 2025 09:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Ivanti and Fortinet VPN Vulnerabilities in Attacks on Japanese Companies</title>
+      <link>https://gbhackers.com/hackers-exploit-ivanti-and-fortinet-vpn-vulnerabilities/</link>
+      <description>The article reports on a surge in cyber espionage campaigns against Japanese companies, primarily targeting North Korean threat actors. These campaigns aim to exfiltrate sensitive data, including manufacturing blueprints and personal information, using various tactics such as spear phishing, malware, and social engineering.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149267</guid>
+      <pubDate>Wed, 16 Jul 2025 09:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Curl 8.15.0 Officially Released: 233 Bugs Fixed in Major Update</title>
+      <link>https://gbhackers.com/curl-8-15-0-officially-released/</link>
+      <description>The article discusses the release of Curl 8.15.0, which addresses over 230 bugs and streamlines its internal architecture. The update removes support for Apple's Secure Transport API and BearSSL library to reduce maintenance overhead and promote adoption of widely tested TLS providers like OpenSSL. The article highlights the community-driven nature of the project, with many newcomers contributing to the codebase.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149308</guid>
+      <pubDate>Wed, 16 Jul 2025 08:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Authorities Take Down ‘Diskstation’ Ransomware Gang Targeting Synology NAS Globally</title>
+      <link>https://gbhackers.com/authorities-take-down-diskstation-ransomware-gang/</link>
+      <description>Vulnerable Product: Synology NAS systems; CVE(s): None; Summary: The "Diskstation" ransomware operation targeted Synology Network Attached Storage (NAS) systems worldwide, exploiting vulnerabilities to encrypt entire organizational datasets. The attackers specifically targeted these systems for data storage and backup solutions, allowing them to maximize their leverage over victims.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149301</guid>
+      <pubDate>Wed, 16 Jul 2025 08:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abacus Dark Web Market Suspected of Exit Scam with Held Bitcoin Funds</title>
+      <link>https://gbhackers.com/abacus-dark-web-market-suspected-of-exit-scam/</link>
+      <description>The largest Bitcoin-enabled Western darknet marketplace, Abacus Market, has gone offline amid suspicions of an exit scam that may have cost users millions of dollars in held cryptocurrency funds. The market's administrators likely shut down operations and disappeared with users' deposits, leaving behind a trail of frozen funds and delayed transactions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149293</guid>
+      <pubDate>Wed, 16 Jul 2025 08:26:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google AI "Big Sleep" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act</title>
+      <link>https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html</link>
+      <description>Vulnerable Product: SQLite; CVE(s): CVE-2025-6965; Summary: The vulnerability is a memory corruption flaw affecting all versions prior to 3.50.2, which could allow an attacker to cause an integer overflow resulting in read off the end of an array.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html</guid>
+      <pubDate>Wed, 16 Jul 2025 07:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former U.S. Army Member Pleads Guilty in Telecom Hacking Case</title>
+      <link>https://gbhackers.com/former-u-s-army-member-pleads-guilty/</link>
+      <description>A 21-year-old former U.S. Army soldier has pleaded guilty to participating in a sophisticated cybercrime operation that targeted telecommunications companies through hacking, data theft, and extortion schemes. The conspiracy involved at least 10 victim organizations, using specialized hacking tools and Telegram group chats to coordinate activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149262</guid>
+      <pubDate>Wed, 16 Jul 2025 06:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Node.js Vulnerabilities Leave Windows Apps Vulnerable to Path Traversal and HashDoS</title>
+      <link>https://gbhackers.com/node-js-vulnerabilities-leave-windows-apps-vulnerable/</link>
+      <description>Vulnerable Product: Node.js; CVE(s): CVE-2025-27210, CVE-2025-27209; Summary: Two high-severity vulnerabilities affecting Windows applications, including denial-of-service attacks. The first vulnerability allows attackers to bypass path traversal protection mechanisms, while the second introduces a HashDoS vulnerability through changes in the V8 JavaScript engine's string hashing implementation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149257</guid>
+      <pubDate>Wed, 16 Jul 2025 05:33:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>VMware ESXi and Workstation Vulnerabilities Allow Host-Level Code Execution</title>
+      <link>https://gbhackers.com/vmware-esxi-and-workstation-vulnerabilities/</link>
+      <description>Vulnerable Product: VMware; CVE(s): CVE-2025-41236, CVE-2025-41237, CVE-2025-41238, CVE-2025-41239; Summary: Four critical vulnerabilities in VMware's virtualization suite allow attackers to escape virtual machines and execute code directly on host systems. The flaws affect ESXi, Workstation, Fusion, and VMware Tools across enterprise and desktop environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149253</guid>
+      <pubDate>Wed, 16 Jul 2025 05:18:57 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI's image model gets built-in style feature on ChatGPT</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/</link>
@@ -405,6 +545,13 @@ FYSA: The threat landscape surrounding Git repositories is expanding rapidly due
       <pubDate>Mon, 14 Jul 2025 16:30:32 +0000</pubDate>
     </item>
     <item>
+      <title>Dark Web Profile: APT36</title>
+      <link>https://socradar.io/dark-web-profile-apt36/</link>
+      <description>APT36 is a Pakistan-linked state-sponsored cyber-espionage group active since at least 2013. The group targets Indian government bodies, defense contractors, armed forces, diplomatic missions, and research institutions, using phishing, remote-access trojans, and deceptive infrastructure to conduct long-term intelligence-gathering operations. Despite lacking sophistication, APT36 is highly persistent and adaptive, leveraging new platforms and cloud services, and malvertising campaigns to remain effective across South Asia's geopolitical threat landscape.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061822</guid>
+      <pubDate>Mon, 14 Jul 2025 14:05:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Gigabyte UEFI Firmware Vulnerability Allows Code Execution in SMM Privileged Mode</title>
       <link>https://gbhackers.com/gigabyte-uefi-firmware-vulnerability/</link>
       <description>Vulnerable Product: Gigabyte motherboard; CVE(s): CVE-2023-XXXX (none listed); Summary: The firmware of multiple Gigabyte motherboard models contains vulnerabilities that allow attackers to execute arbitrary code in System Management Mode (SMM), enabling persistent malware installation, bootkit persistence, and system control even after OS reinstallation.</description>
@@ -438,6 +585,15 @@ FYSA: The threat landscape surrounding Git repositories is expanding rapidly due
       <description>This article provides guidance from Microsoft on resolving the "The process cannot access the file because it is being used by another process" error message in Windows. The solutions include using built-in tools like Resource Monitor, Process Explorer, as well as command-line utilities like openfiles and Handle. These options cater to users of all skill levels, providing both graphical and command-line interfaces for resolving common system issues independently.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=148922</guid>
       <pubDate>Mon, 14 Jul 2025 11:56:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>BitMart Breach, Naver Leak, qTox Exploit, and Credit Card Sales Detected on Dark Web</title>
+      <link>https://socradar.io/bitmart-breach-naver-leak-qtox-exploit/</link>
+      <description>Vulnerable Product: qTox; CVE(s): None; Summary: A 0-day exploit targeting qTox's secure messaging platform has been advertised for sale on a dark web forum, allowing Remote Code Execution (RCE), privilege escalation, API key theft, and manipulation of wallet addresses. The exploit is being sold for 10 BTC with video proof of functionality.
+
+FYSA: Threat actors remain highly active across dark web forums, with multiple alarming developments this week including the alleged breach of BitMart's backend infrastructure, a claimed database leak affecting Naver Corporation, and the sale of Canadian credit card data and a dataset containing over 54,000 card records from the U.S. and U.K.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061809</guid>
+      <pubDate>Mon, 14 Jul 2025 11:31:40 +0000</pubDate>
     </item>
     <item>
       <title>New Forensic Method Reveals Hidden Traces of RDP Exploits by Hackers</title>
@@ -1284,160 +1440,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7324; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue exists in the parsing of DXF files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26430</guid>
       <pubDate>Tue, 08 Jul 2025 21:06:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-572: IrfanView CADImage Plugin DXF File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-572/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7325; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin, requiring user interaction to exploit. The issue exists in the parsing of DXF files due to lack of proper validation of user-supplied data, resulting in a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26434</guid>
-      <pubDate>Tue, 08 Jul 2025 21:06:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-573: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-573/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7299; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files, requiring user interaction. The issue stems from the lack of proper validation of user-supplied data, which can result in a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26376</guid>
-      <pubDate>Tue, 08 Jul 2025 21:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-574: Siemens SINEC NMS reqToChangePassword Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-574/</link>
-      <description>Vulnerable Product: Siemens SINEC NMS; CVE(s): CVE-2025-40736; Summary: The vulnerability allows remote attackers to bypass authentication on affected installations of Siemens SINEC NMS, with no prior authentication required. The flaw exists within the implementation of the reqToChangePassword method and results in access to password change functionality.</description>
-      <guid isPermaLink="false">ZDI-CAN-26569</guid>
-      <pubDate>Tue, 08 Jul 2025 21:05:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-575: Siemens SINEC NMS unZipJarFilestoLocation Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-575/</link>
-      <description>Vulnerable Product: Siemens SINEC NMS; CVE(s): CVE-2025-40737; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Siemens SINEC NMS. Authentication is required, but the existing mechanism can be bypassed due to a lack of proper validation of user-supplied paths in file operations.</description>
-      <guid isPermaLink="false">ZDI-CAN-26571</guid>
-      <pubDate>Tue, 08 Jul 2025 21:05:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-576: Siemens SINEC NMS uploadFWBinary Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-576/</link>
-      <description>Vulnerable Product: Siemens SINEC NMS; CVE(s): CVE-2025-40738; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Siemens SINEC NMS, bypassing existing authentication mechanisms. The flaw exists in the implementation of the uploadFWBinary method due to improper validation of a user-supplied path prior to file operations.</description>
-      <guid isPermaLink="false">ZDI-CAN-26572</guid>
-      <pubDate>Tue, 08 Jul 2025 21:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-577: Microsoft Windows AppX Deployment Service Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-577/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-48820; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which can be used to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26358</guid>
-      <pubDate>Tue, 08 Jul 2025 21:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-578: Microsoft Windows win32kfull Integer Overflow Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-578/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-49742; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which results from an integer overflow before writing to memory.</description>
-      <guid isPermaLink="false">ZDI-CAN-26768</guid>
-      <pubDate>Tue, 08 Jul 2025 21:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-579: Microsoft PC Manager Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-579/</link>
-      <description>Vulnerable Product: Microsoft PC Manager; CVE(s): CVE-2025-47993; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft PC Manager. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which can be used to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26249</guid>
-      <pubDate>Tue, 08 Jul 2025 21:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-580: (Pwn2Own) Microsoft SharePoint ToolPane Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-580/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49706; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Microsoft SharePoint, with no required authentication needed for exploitation. The flaw exists in the handling of the Referer HTTP header provided to the ToolPane endpoint, allowing an attacker to access a protected API and bypass authentication.</description>
-      <guid isPermaLink="false">ZDI-CAN-27162</guid>
-      <pubDate>Tue, 08 Jul 2025 21:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-581: (Pwn2Own) Microsoft SharePoint DataSetSurrogateSelector Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-581/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49704; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft SharePoint Server by deserializing untrusted data, bypassing existing authentication mechanisms. The flaw exists within the DataSetSurrogateSelector class due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-27247</guid>
-      <pubDate>Tue, 08 Jul 2025 21:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-582: Microsoft Windows Startup Folder SmartScreen Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-582/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-49740; Summary: This vulnerability allows remote attackers to bypass the SmartScreen security feature on affected installations of Microsoft Windows by exploiting the handling of executables in the user's Startup folder. User interaction is required, and an attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current user.</description>
-      <guid isPermaLink="false">ZDI-CAN-27246</guid>
-      <pubDate>Tue, 08 Jul 2025 21:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-583: Microsoft Windows win32kfull Out-Of-Bounds Write Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-583/</link>
-      <description>Vulnerable Product: Microsoft Windows win32kfull; CVE(s): CVE-2025-49732; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by writing before the start of an allocated array. An attacker must first obtain the ability to execute low-privileged code on the target system to exploit this vulnerability, which can result in executing arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26791</guid>
-      <pubDate>Tue, 08 Jul 2025 21:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-584: Microsoft Windows win32kfull Out-Of-Bounds Write Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-584/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-49727; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which results from a lack of proper validation of user-supplied data and can be used to write past the end of an allocated buffer, allowing for privilege escalation and arbitrary code execution in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-27167</guid>
-      <pubDate>Tue, 08 Jul 2025 21:03:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-585: Trend Micro Maximum Security Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-585/</link>
-      <description>Vulnerable Product: Trend Micro Maximum Security; CVE(s): CVE-2025-52521, ZDI-CAN-26887; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Maximum Security by creating a junction and abusing the Platinum Host Service to delete arbitrary files. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability, which can then be used to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26887</guid>
-      <pubDate>Tue, 08 Jul 2025 21:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-586: Trend Micro Password Manager Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-586/</link>
-      <description>Vulnerable Product: Trend Micro Password Manager; CVE(s): CVE-2025-52837; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Password Manager by exploiting a flaw within the Trend Micro Password Manager Service. The attacker must first obtain the ability to execute low-privileged code on the target system and can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25729</guid>
-      <pubDate>Tue, 08 Jul 2025 21:02:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung announces major security enhancements coming to One UI 8</title>
-      <link>https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/</link>
-      <description>Samsung has announced multiple data security and privacy enhancements for its upcoming Galaxy smartphones running One UI 8, including the introduction of Knox Enhanced Encrypted Protection (KEEP), upgrades to Knox Matrix, and the addition of quantum resistance to WiFi connectivity. The updates aim to protect user inputs, sensitive data, and cloud-connected services from unauthorized access and manipulation.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/</guid>
-      <pubDate>Tue, 08 Jul 2025 20:43:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>M&amp;S confirms social engineering led to massive ransomware attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/</link>
-      <description>M&amp;S experienced a sophisticated impersonation attack that led to a DragonForce ransomware attack, with the threat actors impersonating an employee's details to trick a third-party entity into resetting their password. The attackers used social engineering tactics and exploited a third-party help desk support system to breach the company's network.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/</guid>
-      <pubDate>Tue, 08 Jul 2025 20:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday for July 2025 — Snort rules and prominent vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2025/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-49735, CVE-2025-49704, CVE-2025-49695, CVE-2025-49696, CVE-2025-49697, CVE-2025-49698, CVE-2025-49702, CVE-2025-49703, CVE-2025-48822, CVE-2025-47981, CVE-2025-49717; Summary: Microsoft released 132 vulnerabilities in July 2025, including 14 critical ones. The vulnerable products include Windows services and applications, SharePoint server, Office, and SQL Server. The vulnerabilities are remote code execution (RCE) vulnerabilities, out-of-bounds read, use after free, heap-based buffer overflow, and information disclosure.</description>
-      <guid isPermaLink="false">686d5fdf5df3de0001555dcf</guid>
-      <pubDate>Tue, 08 Jul 2025 20:29:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-483: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-483/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7251; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin. User interaction is required to exploit this vulnerability, which exists within the parsing of DWG files due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26108</guid>
-      <pubDate>Tue, 08 Jul 2025 20:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-484: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-484/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7252; Summary: The IrfanView CADImage Plugin is vulnerable to an out-of-bounds read remote code execution vulnerability. An attacker can exploit this by persuading the target to visit a malicious page or open a malicious file, allowing them to execute arbitrary code on affected installations.</description>
-      <guid isPermaLink="false">ZDI-CAN-26109</guid>
-      <pubDate>Tue, 08 Jul 2025 20:21:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-485: IrfanView CADImage Plugin DXF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-485/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7235; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by writing past the end of an allocated buffer due to lack of proper validation of user-supplied data. User interaction is required, and the target must visit a malicious page or open a malicious file to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-26075</guid>
-      <pubDate>Tue, 08 Jul 2025 20:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-486: IrfanView CADImage Plugin DWG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-486/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7250; Summary: The IrfanView CADImage Plugin contains an out-of-bounds read remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file. The vulnerability exists in the parsing of DWG files due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26107</guid>
-      <pubDate>Tue, 08 Jul 2025 20:20:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
