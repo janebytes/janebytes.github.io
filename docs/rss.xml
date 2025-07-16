@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 12:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 13:03:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Lenovo Vantage Flaws Enable Attackers to Gain SYSTEM-Level Privileges</title>
+      <link>https://gbhackers.com/lenovo-vantage-flaws-enable-attackers/</link>
+      <description>Vulnerable Product: Lenovo Vantage; CVE(s): 2025-6230, 2025-6231, 2025-6232; Summary: Multiple privilege escalation vulnerabilities in Lenovo Vantage allow unprivileged users to bypass authentication mechanisms and execute code with SYSTEM-level privileges, potentially leading to full system compromise. The flaws stem from Lenovo Vantage's modular architecture and expose JSON-based requests routed to add-ins defined in XML files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149490</guid>
+      <pubDate>Wed, 16 Jul 2025 12:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access</title>
+      <link>https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html</link>
+      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: A critical design flaw in Delegated Managed Service Accounts (dMSAs) allows for high-impact attacks, enabling cross-domain lateral movement and persistent access to all managed service accounts and their resources across Active Directory. Exploitation requires possession of a Key Distribution Service (KDS) root key, which is typically only available to privileged accounts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html</guid>
+      <pubDate>Wed, 16 Jul 2025 11:58:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dark Partners Hacker Group Drains Crypto Wallets Using Fake AI Tools and VPN Services</title>
       <link>https://gbhackers.com/dark-partners-hacker-group-drains-crypto-wallets/</link>
@@ -21,6 +35,15 @@
       <description>Vulnerable Product: Claude Desktop; CVE(s): None; Summary: A cybersecurity researcher demonstrated a code execution attack on Claude Desktop, an AI assistant application, by leveraging the Model Context Protocol (MCP) and exploiting compositional risk. The attack did not rely on any vulnerabilities in individual MCP servers but rather the combination of untrusted input sources, excessive execution permissions, and lack of contextual guardrails between different tools.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149423</guid>
       <pubDate>Wed, 16 Jul 2025 11:37:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Act Like Employees With Root Access—Here's How to Regain Control</title>
+      <link>https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html</link>
+      <description>The article highlights the importance of identity-first security in securing generative AI systems. It warns that most organizations are not securing their AI deployments properly and that every LLM access point or website is a new identity edge that can be exploited. The article emphasizes the need for phishing-resistant MFA, granular RBAC, and continuous device trust enforcement to eliminate AI access risk without hindering innovation.
+
+FYSA: The threat surface of AI systems expands internal attack surfaces, especially if access control and identity segmentation aren't enforced at runtime. Third-party tools can be misused or accessed by unauthorized users, or corporate users on personal accounts, where governance gaps exist.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html</guid>
+      <pubDate>Wed, 16 Jul 2025 11:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Oracle Issues Critical Update Fixing 309 Vulnerabilities Across Products</title>
@@ -1432,27 +1455,6 @@ FYSA: An 11-month streak of patching at least one zero-day that was exploited in
       <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7313; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by parsing DWG files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data, leading to memory corruption.</description>
       <guid isPermaLink="false">ZDI-CAN-26399</guid>
       <pubDate>Tue, 08 Jul 2025 21:09:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-561: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-561/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7314; Summary: The IrfanView CADImage Plugin contains a memory corruption remote code execution vulnerability that allows attackers to execute arbitrary code on affected installations. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, leading to a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26400</guid>
-      <pubDate>Tue, 08 Jul 2025 21:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-562: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-562/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7315; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of IrfanView CADImage Plugin by exploiting a memory corruption condition in the parsing of DWG files. User interaction is required, and the attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26408</guid>
-      <pubDate>Tue, 08 Jul 2025 21:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-563: IrfanView CADImage Plugin DWG File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-563/</link>
-      <description>Vulnerable Product: IrfanView CADImage Plugin; CVE(s): CVE-2025-7316; Summary: The IrfanView CADImage Plugin suffers from a remote code execution vulnerability due to the lack of proper validation of user-supplied data during DWG file parsing, allowing attackers to execute arbitrary code with user interaction.</description>
-      <guid isPermaLink="false">ZDI-CAN-26410</guid>
-      <pubDate>Tue, 08 Jul 2025 21:08:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
