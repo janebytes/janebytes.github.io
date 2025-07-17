@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 21:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 22:01:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin</title>
+      <link>https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/</link>
+      <description>Vulnerable Product: VMware ESXi, Workstation, Fusion, and Tools; CVE(s): CVE-2025-41236, CVE-2025-41237, CVE-2025-41238, CVE-2025-41239; Summary: Three of the patched flaws allow programs running in a guest virtual machine to execute commands on the host, while the fourth is an information disclosure. The first three have a severity rating of 9.3 and were exploited as zero-days during Pwn2Own Berlin 2025.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/</guid>
+      <pubDate>Thu, 17 Jul 2025 21:36:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams voice calls abused to push Matanbuchus malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/</link>
+      <description>The Matanbuchus malware loader is being distributed through social engineering over Microsoft Teams calls impersonating IT helpdesk, allowing attackers to gain initial access and deliver malicious payloads. The latest version, Matanbuchus 3.0, includes enhanced evasion, obfuscation, and post-compromise capabilities, making it a sophisticated threat.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/</guid>
+      <pubDate>Thu, 17 Jul 2025 21:28:31 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-616: Dassault Systèmes eDrawings Viewer CATPRODUCT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-616/</link>
@@ -1442,20 +1456,6 @@ FYSA: Threat actors remain highly active across dark web forums, with multiple a
       <description>This article discusses upcoming changes to Windows Insider preview build 27898, including new Taskbar features and updates to speech-to-text voice access. The release of Windows 11 25H2 is anticipated to be a minor update with no major under-the-hood changes, instead focusing on enabling previously installed features.</description>
       <guid isPermaLink="true">https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/</guid>
       <pubDate>Fri, 11 Jul 2025 20:56:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>'123456' password exposed chats for 64 million McDonald’s job chatbot applications</title>
-      <link>https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/</link>
-      <description>Vulnerable Product: Paradox.ai McHire; CVE(s): None; Summary: The McHire job application platform, used by McDonald's franchisees, contains an Insecure Direct Object Reference (IDOR) vulnerability that allows attackers to expose chat transcripts, session tokens, and personal data of real job applicants. The flaw was discovered by security researchers Ian Carroll and Sam Curry, who found that the ChatBot's admin panel utilized weak credentials and could be exploited to access sensitive information.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/</guid>
-      <pubDate>Fri, 11 Jul 2025 20:26:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>'123456' password exposed chats for 64 million McDonald’s job applicants</title>
-      <link>https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/</link>
-      <description>Vulnerable Product: McHire (McDonald's chatbot job application platform); CVE(s): None; Summary: A vulnerability in McHire exposed the chats of over 64 million job applicants across the United States due to an IDOR (Insecure Direct Object Reference) flaw. By incrementing or decrementing a lead_id number, attackers could access sensitive data belonging to other applicants without verifying authorization.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/</guid>
-      <pubDate>Fri, 11 Jul 2025 20:26:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
