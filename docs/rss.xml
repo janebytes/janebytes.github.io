@@ -6,8 +6,101 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 22:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 10:08:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Use DNS Queries to Evade Defenses and Exfiltrate Data</title>
+      <link>https://gbhackers.com/hackers-use-dns-queries-to-evade-defenses-and-exfiltrate-data/</link>
+      <description>DNS tunneling is a technique used by cybercriminals to bypass corporate security measures and steal sensitive data by encoding data within DNS queries and responses. The attack process begins when threat actors gain control of a domain name's authoritative name server, allowing them to conduct command-and-control (C2) operations and data exfiltration while remaining largely undetected.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149688</guid>
+      <pubDate>Thu, 17 Jul 2025 09:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Deploy 28+ Malicious Packages to Spread Protestware Scripts</title>
+      <link>https://gbhackers.com/threat-actors-deploy-28-malicious-packages/</link>
+      <description>Vulnerable Product: Socket's Threat Research Team; CVE(s): None; Summary: A network of at least 28 malicious packages, including protestware scripts, was discovered in the npm supply chain. The protestware disrupts user interface interactions by disabling mouse events and initiating playback of the Ukrainian national anthem, affecting Russian-language users on specific domains. The vulnerability highlights the risks of code reuse in open-source repositories, where undisclosed payloads can cascade through dependencies, amplifying potential impacts on downstream applications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149690</guid>
+      <pubDate>Thu, 17 Jul 2025 09:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI Blocks Inbox.ru Domains After 1,500+ Fake Package Uploads</title>
+      <link>https://gbhackers.com/pypi-blocks-inbox-ru-domains/</link>
+      <description>PyPI blocked the inbox.ru email domain after a campaign created over 250 fraudulent accounts and uploaded more than 1,500 empty projects, causing confusion among end-users and straining resources. The incident highlights the delegated security model of PyPI's registration process and emphasizes the importance of user vigilance and advanced detection mechanisms to prevent future incursions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149680</guid>
+      <pubDate>Thu, 17 Jul 2025 09:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical SharePoint RCE Vulnerability Exploited via Malicious XML in Web Part</title>
+      <link>https://gbhackers.com/critical-sharepoint-rce-vulnerability-exploited/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): None; Summary: A severe remote code execution (RCE) vulnerability in Microsoft SharePoint allows attackers to execute arbitrary code through malicious XML content embedded within web parts. The vulnerability originates from the deserialization process of web part properties and can be exploited through multiple endpoints, including the _/vti_bin/webpartpages.asmx service using the ConvertWebPartFormat SOAP action.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149676</guid>
+      <pubDate>Thu, 17 Jul 2025 08:51:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Actively Exploited CitrixBleed 2 Flaw Ahead of PoC Disclosure</title>
+      <link>https://gbhackers.com/hackers-actively-exploited-citrixbleed-2-flaw/</link>
+      <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: The CitrixBleed 2 vulnerability was exploited by threat actors nearly two weeks before a public proof-of-concept was released, highlighting the sophistication of modern attack campaigns. Initial exploitation began on June 23, followed by the public release of a proof-of-concept on July 4, and GreyNoise's subsequent creation of a tracking tag on July 7. The vulnerability represents a significant security risk for organizations running Citrix NetScaler appliances.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149671</guid>
+      <pubDate>Thu, 17 Jul 2025 08:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Unified Intelligence Center Flaw Lets Remote Attackers Upload Arbitrary Files</title>
+      <link>https://gbhackers.com/cisco-unified-intelligence-center-flaw/</link>
+      <description>Vulnerable Product: Cisco Unified Intelligence Center; CVE(s): CVE-2025-20274; Summary: A critical vulnerability in Cisco's Unified Intelligence Center allows authenticated remote attackers to upload arbitrary files, potentially enabling complete system compromise through privilege escalation to root access. The flaw stems from improper file validation and can be exploited by users with Report Designer role privileges, allowing for the execution of arbitrary commands on the underlying operating system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149656</guid>
+      <pubDate>Thu, 17 Jul 2025 08:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weaponizing SVG: How Threat Actors Embed Malicious JavaScript in Vector Files</title>
+      <link>https://gbhackers.com/how-threat-actors-embed-malicious-javascript-in-vector-files/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: Researchers have identified an emerging attack campaign using Scalable Vector Graphics (SVG) files to deliver JavaScript-based redirect attacks. The technique exploits the inherent trust in image formats, allowing malicious actors to embed obfuscated JavaScript within SVG files that execute automatically when opened in web browsers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149610</guid>
+      <pubDate>Thu, 17 Jul 2025 07:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors</title>
+      <link>https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html</link>
+      <description>The article reports on spear-phishing campaigns conducted by three Chinese state-sponsored threat actors targeting the Taiwanese semiconductor industry. The campaigns involve phishing emails with malicious payloads, including Cobalt Strike or a custom backdoor, and DLL side-loading to spawn reverse shells and establish command-and-control connections.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html</guid>
+      <pubDate>Thu, 17 Jul 2025 07:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>0-Day RCE Flaw in SonicWall SMA Devices Exploited to Launch OVERSTEP Ransomware</title>
+      <link>https://gbhackers.com/0-day-rce-flaw-in-sonicwall-sma-devices-exploited/</link>
+      <description>Vulnerable Product: SonicWall; CVE(s): CVE-2024-38475, None; Summary: Threat actors are exploiting previously stolen credentials and a new rootkit called OVERSTEP to target end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliances. The campaign represents a significant escalation in attacks against network infrastructure devices, as the threat actors are successfully compromising appliances even after organizations have applied the latest security updates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149604</guid>
+      <pubDate>Thu, 17 Jul 2025 07:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Confirms BGP Hijack Behind 1.1.1.1 DNS Disruption</title>
+      <link>https://gbhackers.com/cloudflare-confirms-bgp-hijack-behind-1-1-1-1-dns-disruption/</link>
+      <description>A global outage of Cloudflare's 1.1.1.1 DNS resolver service was caused by an internal configuration error rather than an external attack. The incident affected millions of users worldwide and coincided with an unrelated BGP hijack, which complicated the situation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149591</guid>
+      <pubDate>Thu, 17 Jul 2025 06:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Takes Down NoName057(16)’s Global Network of Over 100 Servers</title>
+      <link>https://gbhackers.com/europol-takes-down-noname05716s-global-network/</link>
+      <description>Europol and Eurojust conducted Operation Eastwood to dismantle the NoName057(16) hacktivist collective's global infrastructure of over 100 servers worldwide. The operation resulted in two arrests, seven international arrest warrants, 24 house searches, and disruption of over 100 servers globally.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149587</guid>
+      <pubDate>Thu, 17 Jul 2025 06:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code</title>
+      <link>https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html</link>
+      <description>Vulnerable Product: Cisco ISE and Cisco ISE-PIC; CVE(s): CVE-2025-20337; Summary: The vulnerability allows an unauthenticated attacker to execute arbitrary code on the underlying operating system with elevated privileges. It affects ISE and ISE-PIC releases 3.3 and 3.4, regardless of device configuration.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html</guid>
+      <pubDate>Thu, 17 Jul 2025 05:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co-op confirms data of 6.5 million members stolen in cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/</link>
+      <description>A massive cyberattack on UK retailer Co-op resulted in the theft of personal data for 6.5 million members. The attackers accessed and stole Windows domain's Windows NTDS.dit file, which contains password hashes for Windows accounts.
+
+FYSA: Threat actors associated with Scattered Spider were behind the Co-op cyberattack, as well as other attacks on M&amp;S, Harrods, and MGM Resorts.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/</guid>
+      <pubDate>Wed, 16 Jul 2025 22:29:27 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. Army soldier pleads guilty to extorting 10 tech, telecom firms</title>
       <link>https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/</link>
@@ -49,6 +142,13 @@
       <description>The article describes a sophisticated malware campaign targeting WordPress websites, where threat actors embedded malicious code within core files to facilitate unauthorized redirects and SEO poisoning. The malware uses obfuscation techniques and bot-evasion tactics to evade detection, and can manipulate search engine rankings by injecting fake sitemaps and verifying with Google Search Console.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149525</guid>
       <pubDate>Wed, 16 Jul 2025 19:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Eastwood Targets NoName057(16) in Global Crackdown</title>
+      <link>https://socradar.io/operation-eastwood-targets-noname05716/</link>
+      <description>This article is not about a vulnerability but rather discusses an international law enforcement operation called Operation Eastwood, which targeted a pro-Russian hacktivist group known as NoName057(16). The group was responsible for carrying out widespread DDoS attacks against Ukraine and other perceived enemies of Russia.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061854</guid>
+      <pubDate>Wed, 16 Jul 2025 18:52:25 +0000</pubDate>
     </item>
     <item>
       <title>SquidLoader Deploys Stealthy Malware with Near-Zero Detection to Evade Security Measures</title>
@@ -1338,121 +1438,6 @@ Vulnerable Product: Adobe Acrobat Reader; CVE(s): TALOS-2025-2159 (CVE-2025-4357
       <description>The Cybersecurity and Infrastructure Security Agency (CISA) released 13 Industrial Control Systems (ICS) advisories on July 10, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. CISA encourages users to review the advisories for technical details and mitigations.</description>
       <guid isPermaLink="false">/node/23614</guid>
       <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Does Dark Web Monitoring Work? A Step-by-Step Overview</title>
-      <link>https://socradar.io/how-does-dark-web-monitoring-work-overview/</link>
-      <description>This article discusses the process of dark web monitoring, which involves scanning hidden forums, leak sites, and underground marketplaces to detect stolen data, compromised credentials, and brand misuse. The article explains how this process works, from data collection to alert generation and integration with broader security systems. It also highlights the importance of accuracy, real-time delivery, and integration with existing security infrastructure.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061742</guid>
-      <pubDate>Thu, 10 Jul 2025 11:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Security Leaders Need to Know About AI Governance for SaaS</title>
-      <link>https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html</link>
-      <description>The article discusses the increasing adoption of generative AI in software-as-a-service (SaaS) applications and the need for AI governance to ensure responsible use and minimize risks. It highlights concerns around data exposure, compliance violations, and operational issues that can arise from uncontrolled AI usage. The article emphasizes the importance of visibility, centralized strategy, and regular monitoring to prevent shadow AI instances and potential security breaches.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html</guid>
-      <pubDate>Thu, 10 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App</title>
-      <link>https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): None; Summary: The ZuRu malware has been observed propagating via trojanized versions of legitimate software, including Termius, a cross-platform SSH client and server-management tool. The malware uses Khepri, an open-source post-exploitation toolkit, to gain remote control of infected hosts, and employs a modified loader and C2 techniques to backdoor its targets.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html</guid>
-      <pubDate>Thu, 10 Jul 2025 10:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs</title>
-      <link>https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html</link>
-      <description>Vulnerable Product: AMD; CVE(s): CVE-2024-36350, CVE-2024-36357, CVE-2024-36348, CVE-2024-36349; Summary: A set of vulnerabilities, collectively called Transient Scheduler Attacks (TSA), affects a broad range of AMD chipsets, allowing an attacker to infer data from previous stores and potentially leading to information leakage. The flaws manifest as speculative side channels in CPUs that leverage execution timing of instructions under specific microarchitectural conditions.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html</guid>
-      <pubDate>Thu, 10 Jul 2025 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix the Click: Preventing the ClickFix Attack Vector</title>
-      <link>https://unit42.paloaltonetworks.com/preventing-clickfix-attack-vector/</link>
-      <description>FYSA:
-
-This article appears to be an analysis of various cyber threats and tactics used by malicious actors. The article discusses different types of malware, including AutoIT, Lumma Stealer, and NetSupport RAT, as well as other techniques such as social engineering, typosquatting, and malvertising.
-
-The article also highlights the use of legitimate software and tools, such as PowerShell, FileZilla, and Microsoft Windows, in malicious campaigns. Additionally, it discusses the role of cloud-based services and Linux systems in these attacks.
-
-Overall, this article provides an overview of various cyber threats and tactics used by malicious actors, highlighting the importance of staying vigilant and proactive in protecting against these types of attacks.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=145728</guid>
-      <pubDate>Thu, 10 Jul 2025 10:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs</title>
-      <link>https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html</link>
-      <description>Vulnerable Product: ServiceNow; CVE(s): CVE-2025-3648; Summary: A high-severity vulnerability in ServiceNow's Now Platform allows unauthenticated users to infer and expose confidential data from various tables. The flaw is due to conditional access control list (ACL) rules, which can be exploited by malicious actors to obtain unauthorized access to sensitive information, including personally identifiable information (PII) and credentials.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html</guid>
-      <pubDate>Thu, 10 Jul 2025 07:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Violent Extremists Likely Shifting Focus to Targeted Physical Threats in 2025</title>
-      <link>https://www.recordedfuture.com/research/us-violent-extremists-shifting-focus-targeted-physical-threats-2025</link>
-      <description>FYSA:
-
-As a cybersecurity analyst, I analyzed the provided article and found it to be a strategic threat assessment report from a credible source. The report provides an in-depth analysis of various terrorist organizations, their capabilities, and potential threats to the United States and its interests.
-
-The report covers several key topics, including:
-
-1. IS and Al-Qaeda: The report highlights the ongoing threat posed by these two terrorist organizations, which continue to inspire attacks and recruit supporters worldwide.
-2. Hamas: The report notes that while mass-casualty attacks are unlikely, small-scale violence and sporadic incidents cannot be ruled out.
-3. Iran and its proxies: The report suggests that Iran's military and intelligence agencies may attempt to recruit or incite threat actors to conduct targeted attacks against US politicians and Iranian dissidents on US soil.
-4. Hezbollah and the Houthis: The report notes that these groups have not demonstrated an interest in conducting attacks in the United States, with Hezbollah being particularly weakened by leadership losses.
-
-The report provides valuable insights into the current terrorist landscape and potential threats to national security. It is essential for policymakers, law enforcement agencies, and intelligence communities to stay informed about these developments to ensure effective counterterrorism strategies.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/us-violent-extremists-shifting-focus-targeted-physical-threats-2025</guid>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Authenticator on iOS moves backups fully to iCloud</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/</link>
-      <description>Microsoft is rolling out a new backup system for its Authenticator app on iOS, removing the requirement to use a Microsoft personal account. The new system will store backups in iCloud and restore them automatically on new devices using the same Apple account.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/</guid>
-      <pubDate>Wed, 09 Jul 2025 22:37:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft confirms Windows Server Update Services (WSUS) sync is broken</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/</link>
-      <description>Vulnerable Product: Microsoft WSUS; CVE(s): None; Summary: A widespread issue in Windows Server Update Services (WSUS) prevents organizations from syncing with Microsoft Update and deploying the latest Windows updates. The problem is caused by a "problematic update revision in the storage layer" that affects devices trying to synchronize updates from Microsoft Updates using WSUS or Configuration Manager.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/</guid>
-      <pubDate>Wed, 09 Jul 2025 20:58:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qantas confirms data breach impacts 5.7 million customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/</link>
-      <description>The article reports on a data breach at Qantas airline, where threat actors stole personal data from approximately 5.7 million customers. The stolen data includes names, email addresses, phone numbers, and other personal information. The attackers are believed to be Scattered Spider, a group known for targeting the aviation industry with social engineering attacks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/</guid>
-      <pubDate>Wed, 09 Jul 2025 20:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Browser extensions turn nearly 1 million browsers into website-scraping bots</title>
-      <link>https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/</link>
-      <description>The article discusses security concerns related to MellowTel and its ability to open unknown sites, which can compromise end users' trust in the vetting process. This raises risks for enterprise networks that restrict code and site access. Additionally, the article highlights a previous analysis of browser extensions that collected sensitive user data without consent, including proprietary information from various companies.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/</guid>
-      <pubDate>Wed, 09 Jul 2025 20:08:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google reveals details on Android’s Advanced Protection for Chrome</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/</link>
-      <description>The article discusses the security improvements brought by Google's Advanced Protection program for Android mobile users. With the release of Android 16, Advanced Protection can be activated from the settings, enhancing security measures across Google apps like Chrome, Messages, and Phone.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/</guid>
-      <pubDate>Wed, 09 Jul 2025 19:31:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin Depot breach exposes data of nearly 27,000 crypto users</title>
-      <link>https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/</link>
-      <description>Bitcoin Depot's data breach has exposed sensitive information of nearly 27,000 customers, including names, phone numbers, driver's license numbers, addresses, dates of birth, and email addresses. The incident occurred on June 23, 2024, but public disclosure was delayed due to an ongoing investigation by federal agencies.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/</guid>
-      <pubDate>Wed, 09 Jul 2025 17:33:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets</title>
-      <link>https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html</link>
-      <description>The article reports on an Initial Access Broker (IAB) called Gold Melody, which exploits leaked ASP.NET machine keys to obtain unauthorized access to organizations. The IAB uses the exploited keys to sign malicious payloads that provide access to targeted servers through ASP.NET ViewState deserialization.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html</guid>
-      <pubDate>Wed, 09 Jul 2025 16:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
