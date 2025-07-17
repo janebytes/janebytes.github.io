@@ -6,8 +6,31 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 15:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 16:02:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Max severity Cisco ISE bug allows pre-auth command execution, patch now</title>
+      <link>https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/</link>
+      <description>Vulnerable Product: Cisco's Identity Services Engine (ISE); CVE(s): CVE-2025-20337; Summary: A critical vulnerability in Cisco's ISE allows an unauthenticated attacker to store malicious files, execute arbitrary code, or gain root privileges on vulnerable devices. The issue is caused by insufficient user-supplied input validation checks and received the maximum severity rating of 10 out of 10.
+
+FYSA: Although no exploitation of the three maximum severity vulnerabilities has been observed in the wild as of yet, it is recommended that system administrators take immediate action to mitigate the risks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/</guid>
+      <pubDate>Thu, 17 Jul 2025 15:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams Exploited to Deliver Matanbuchus Ransomware Payload</title>
+      <link>https://gbhackers.com/microsoft-teams-exploited/</link>
+      <description>Vulnerable Product: Microsoft Teams; CVE(s): None; Summary: The article describes a sophisticated cyberattack campaign targeting organizations through Microsoft Teams impersonation. Attackers compromise systems by pretending to be IT helpdesk personnel during external Teams calls, leading to the execution of malicious scripts that deploy the Matanbuchus 3.0 malware loader.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149861</guid>
+      <pubDate>Thu, 17 Jul 2025 15:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian Hackers Claim Cyberattack on Major Russian Drone Supplier</title>
+      <link>https://gbhackers.com/ukrainian-hackers-claim-cyberattack/</link>
+      <description>The article describes the story of a Ukrainian woman, Nelya Leonidova, who survived a cluster munition attack in 2014 and has been dealing with the long-term consequences of her severe combat-related injuries. The story highlights the humanitarian impact of explosive ordnance use in populated areas and emphasizes individual resilience in the face of catastrophic trauma.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149843</guid>
+      <pubDate>Thu, 17 Jul 2025 15:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>H2Miner Targets Linux, Windows, and Containers to Illicitly Mine Monero</title>
       <link>https://gbhackers.com/h2miner-targets-linux-windows-and-containers/</link>
@@ -1431,29 +1454,6 @@ FYSA: The article highlights the importance of adopting advanced dynamic analysi
       <description>Vulnerable Product: JFrog mcp-remote; CVE(s): CVE-2025-6514; Summary: The mcp-remote project contains a critical vulnerability (CVE-2025-6514) that allows attackers to execute arbitrary operating system commands, posing a significant risk to users.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html</guid>
       <pubDate>Thu, 10 Jul 2025 17:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian pro basketball player arrested for alleged role in ransomware attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/</link>
-      <description>Russian professional basketball player Daniil Kasatkin was arrested in France at the request of the United States for allegedly acting as a negotiator for a ransomware gang. The arrest is part of an international effort to disrupt and prosecute cybercrime.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/</guid>
-      <pubDate>Thu, 10 Jul 2025 16:26:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>PerfektBlue Bluetooth flaws impact Mercedes, Volkswagen, Skoda cars</title>
-      <link>https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/</link>
-      <description>Vulnerable Product: OpenSynergy BlueSDK; CVE(s): CVE-2024-45434, CVE-2024-45431, CVE-2024-45433, CVE-2024-45432; Summary: Four vulnerabilities in the OpenSynergy BlueSDK Bluetooth stack allow remote code execution and potentially grant access to critical elements in vehicles from multiple vendors.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/</guid>
-      <pubDate>Thu, 10 Jul 2025 16:01:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asus and Adobe vulnerabilities</title>
-      <link>https://blog.talosintelligence.com/asus-and-adobe-vulnerabilities/</link>
-      <description>Vulnerable Product: Asus Armoury Crate; CVE(s): TALOS-2025-2144 (CVE-2025-1533), TALOS-2025-2150 (CVE-2022-3464); Summary: A stack-based buffer overflow vulnerability in the AsIO3.sys kernel driver of Asus Armoury Crate 5.9.13.0 allows an unprivileged attacker to run a program from user mode, while an authorization bypass vulnerability in the AsIO3.sys functionality can be triggered by creating a specially crafted hard link.
-
-Vulnerable Product: Adobe Acrobat Reader; CVE(s): TALOS-2025-2159 (CVE-2025-43578), TALOS-2025-2170 (CVE-2025-43576); Summary: An out-of-bounds read vulnerability in the Font functionality of Adobe Acrobat Reader 2025.001.20435 allows disclosure of sensitive information, while a use-after-free vulnerability in the annotation object processing functionality can lead to memory corruption and arbitrary code execution.</description>
-      <guid isPermaLink="false">686ec0185df3de0001555dfd</guid>
-      <pubDate>Thu, 10 Jul 2025 15:24:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
