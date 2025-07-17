@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 16:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 17:03:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hacker steals $27 million in BigONE exchange crypto breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/</link>
+      <description>This article does not discuss a vulnerability. Instead, it reports on a cryptocurrency exchange hack that resulted in the theft of digital assets valued at $27 million. The article also discusses broader trends and statistics related to cryptocurrency crime.
+
+FYSA: The article highlights a significant cryptocurrency heist, with hackers stealing $223 million worth of Cetus Protocol cryptocurrency. Additionally, it notes that there has been an increase in attacks on personal wallets, accounting for 23.35% of all stolen funds this year.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/</guid>
+      <pubDate>Thu, 17 Jul 2025 16:54:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese hackers breached National Guard to steal network configurations</title>
+      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/</link>
+      <description>Vulnerable Product: Various; CVE(s): CVE-2018-0171, CVE-2023-20198, CVE-2023-20273, CVE-2024-3400; Summary: Salt Typhoon, a Chinese state-sponsored hacking group, exploited vulnerabilities in Cisco routers and other devices to breach a US Army National Guard network for nine months, stealing configuration files and administrator credentials. The vulnerabilities included a critical flaw in Cisco IOS and IOS XE Smart Install (CVE-2018-0171), a zero-day affecting Cisco IOS XE web UI (CVE-2023-20198), a privilege escalation flaw targeting IOS XE (CVE-2023-20273), and a command injection vulnerability in Palo Alto Networks' PAN-OS GlobalProtect (CVE-2024-3400).</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/</guid>
+      <pubDate>Thu, 17 Jul 2025 16:02:57 +0000</pubDate>
+    </item>
     <item>
       <title>Max severity Cisco ISE bug allows pre-auth command execution, patch now</title>
       <link>https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/</link>
@@ -95,6 +111,27 @@ FYSA: Threat actors have been conducting a long-term campaign, exploiting known 
       <description>Cybersecurity researchers have released findings on the operational dynamics of hacktivist organizations, revealing sophisticated attention-seeking behaviors and strategic target selection methodologies. The study highlights hacktivists' calculated targeting strategies, self-promotion mechanisms, and use of psychological warfare approaches to amplify their perceived influence. It also notes the commercialization trend within the hacktivist community and the increasing focus on capability development, leading to a more complex threat landscape.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149772</guid>
       <pubDate>Thu, 17 Jul 2025 12:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/17/cisa-releases-three-industrial-control-systems-advisories</link>
+      <description>CISA issued three Industrial Control Systems (ICS) advisories on July 17, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories aim to inform users and administrators of technical details and mitigations for the affected products.</description>
+      <guid isPermaLink="false">/node/23635</guid>
+      <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panoramic Corporation Digital Imaging Software</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-198-01</link>
+      <description>Vulnerable Product: Panoramic Corporation Digital Imaging Software (Version 9.1.2.7600); CVE(s): CVE-2024-22774; Summary: The Digital Imaging Software is vulnerable to DLL hijacking, allowing an attacker with standard user privileges to obtain NT Authority/SYSTEM privileges. Successful exploitation could allow a standard user to gain elevated access.</description>
+      <guid isPermaLink="false">/node/23634</guid>
+      <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leviton AcquiSuite and Energy Monitoring Hub</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-198-01</link>
+      <description>Vulnerable Product: Leviton AcquiSuite and Leviton Energy Monitoring Hub; CVE(s): CVE-2025-6185; Summary: The vulnerability is a cross-site scripting (XSS) weakness that allows an attacker to craft malicious payloads in URL parameters, execute them in a client browser, steal session tokens, and control the service. Exploitation can occur remotely with low attack complexity.</description>
+      <guid isPermaLink="false">/node/23633</guid>
+      <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>UNG0002 Actors Weaponize LNK Files via ClickFix Fake CAPTCHA Pages</title>
@@ -1419,41 +1456,6 @@ FYSA: The article highlights the importance of adopting advanced dynamic analysi
       <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: An instance of insufficient input validation in Citrix NetScaler ADC and Gateway allows an attacker to bypass authentication when the appliance is configured as a Gateway or AAA virtual server, leading to memory overread. This vulnerability (CVE-2025-5777) has been weaponized in the wild and can be exploited by sending the same payload repeatedly, causing sensitive information to be leaked.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html</guid>
       <pubDate>Fri, 11 Jul 2025 04:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro basketball player and 4 youths arrested in connection to ransomware crimes</title>
-      <link>https://arstechnica.com/security/2025/07/pro-basketball-player-and-4-youths-arrested-in-connection-to-ransomware-crimes/</link>
-      <description>Authorities in the UK arrested four individuals, including three men and one woman, in connection with separate and unrelated ransomware operations. The attacks targeted M&amp;S, Co-op, and Harrods, and were attributed to Scattered Spider, a group that uses impersonation and phishing tactics to gain access to networks.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/pro-basketball-player-and-4-youths-arrested-in-connection-to-ransomware-crimes/</guid>
-      <pubDate>Thu, 10 Jul 2025 21:54:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 now uses JScript9Legacy engine for improved security</title>
-      <link>https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/</link>
-      <description>Vulnerable Product: Microsoft JScript; CVE(s): None; Summary: Microsoft replaced the default scripting engine JScript with JScript9Legacy on Windows 11 version 24H2 and later to improve security against web threats such as cross-site scripting (XSS). The outdated JScript engine was a frequent target of memory corruption, arbitrary code execution, and XSS vulnerabilities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/</guid>
-      <pubDate>Thu, 10 Jul 2025 20:46:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patch, track, repeat</title>
-      <link>https://blog.talosintelligence.com/patch-track-repeat/</link>
-      <description>The article discusses various cybersecurity-related topics, including the end of free support for Windows 10, concerns about the long-term stability of the CVE system, and an increase in Known Exploited Vulnerabilities. It also mentions several notable threats and attacks, such as a Chinese hacker tied to the Silk Typhoon group being arrested, malicious Chrome extensions with 1.7 million downloads, and a ransomware attack on Ingram Micro.</description>
-      <guid isPermaLink="false">686ebf745df3de0001555dea</guid>
-      <pubDate>Thu, 10 Jul 2025 18:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Charges Four in ‘Scattered Spider’ Ransom Group</title>
-      <link>https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/</link>
-      <description>Scattered Spider, a data theft and extortion group, has been targeted by law enforcement in the UK, with four alleged members arrested. The group is known for using social engineering tactics to gain access to companies' systems and steal data for ransom.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=70968</guid>
-      <pubDate>Thu, 10 Jul 2025 17:31:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads</title>
-      <link>https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html</link>
-      <description>Vulnerable Product: JFrog mcp-remote; CVE(s): CVE-2025-6514; Summary: The mcp-remote project contains a critical vulnerability (CVE-2025-6514) that allows attackers to execute arbitrary operating system commands, posing a significant risk to users.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html</guid>
-      <pubDate>Thu, 10 Jul 2025 17:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
