@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 20:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 21:02:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-616: Dassault Systèmes eDrawings Viewer CATPRODUCT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-616/</link>
+      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6971; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Dassault Systèmes eDrawings Viewer. User interaction is required, and the specific flaw exists within the parsing of CATPRODUCT files.</description>
+      <guid isPermaLink="false">ZDI-CAN-26975</guid>
+      <pubDate>Thu, 17 Jul 2025 21:02:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-617: Dassault Systèmes eDrawings Viewer CATPRODUCT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-617/</link>
+      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6972; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Dassault Systèmes eDrawings Viewer by parsing CATPRODUCT files without validating the existence of an object. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26971</guid>
+      <pubDate>Thu, 17 Jul 2025 21:01:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-618: Dassault Systèmes eDrawings Viewer JT File Parsing Uninitialized Variable Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-618/</link>
+      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6974; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations, requiring user interaction. It exists within the parsing of JT files due to uninitialized memory access. An attacker can leverage this to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26895</guid>
+      <pubDate>Thu, 17 Jul 2025 21:01:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-619: Dassault Systèmes eDrawings Viewer JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-619/</link>
+      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-0831; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations by parsing out-of-bounds read. User interaction is required, and the issue results from lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26813</guid>
+      <pubDate>Thu, 17 Jul 2025 21:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-620: Dassault Systèmes eDrawings Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-620/</link>
+      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6973; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Dassault Systèmes eDrawings Viewer by parsing JT files without validating the existence of an object. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26901</guid>
+      <pubDate>Thu, 17 Jul 2025 21:00:40 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-611: VMware ESXi VMCI Uninitialized Memory Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-611/</link>
@@ -1421,41 +1456,6 @@ FYSA: Threat actors remain highly active across dark web forums, with multiple a
       <description>Vulnerable Product: McHire (McDonald's chatbot job application platform); CVE(s): None; Summary: A vulnerability in McHire exposed the chats of over 64 million job applicants across the United States due to an IDOR (Insecure Direct Object Reference) flaw. By incrementing or decrementing a lead_id number, attackers could access sensitive data belonging to other applicants without verifying authorization.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/</guid>
       <pubDate>Fri, 11 Jul 2025 20:26:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>'123456' password exposed info for 64 million McDonald’s job applicants</title>
-      <link>https://www.bleepingcomputer.com/news/security/123456-password-exposed-info-for-64-million-mcdonalds-job-applicants/</link>
-      <description>Vulnerable Product: McHire; CVE(s): None; Summary: The McHire chatbot job application platform has an IDOR (Insecure Direct Object Reference) vulnerability that exposes the personal information of over 64 million job applicants across the United States. The flaw allows attackers to access and retrieve sensitive data belonging to other applicants by incrementing or decrementing a lead_id number in a request.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/123456-password-exposed-info-for-64-million-mcdonalds-job-applicants/</guid>
-      <pubDate>Fri, 11 Jul 2025 20:26:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now</title>
-      <link>https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A critical SQL injection vulnerability (CWE-89) exists in FortiWeb's Fabric Connector, allowing unauthenticated attackers to execute unauthorized SQL code or commands via crafted HTTP requests. The flaw can be exploited to achieve pre-authenticated remote code execution on vulnerable servers.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/</guid>
-      <pubDate>Fri, 11 Jul 2025 19:41:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Gravity Forms developer hacked to push backdoored plugins</title>
-      <link>https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/</link>
-      <description>Vulnerable Product: Gravity Forms (WordPress plugin); CVE(s): None; Summary: The Gravity Forms WordPress plugin was compromised in a supply-chain attack, allowing attackers to inject a backdoor and collect site metadata. The malware can be triggered by an unauthenticated user and enables remote code execution on the server.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/</guid>
-      <pubDate>Fri, 11 Jul 2025 19:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-587: Luxion KeyShot 3DM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-587/</link>
-      <description>Vulnerable Product: Luxion KeyShot; CVE(s): CVE-2025-7222; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Luxion KeyShot by writing past the end of an allocated buffer. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue exists within the parsing of 3DM files and can be exploited to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26473</guid>
-      <pubDate>Fri, 11 Jul 2025 18:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-588: Trend Micro Cleaner One Pro Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-588/</link>
-      <description>Vulnerable Product: Trend Micro Cleaner One Pro; CVE(s): CVE-2025-53503; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Cleaner One Pro. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Junk Files Cleanup functionality.</description>
-      <guid isPermaLink="false">ZDI-CAN-26484</guid>
-      <pubDate>Fri, 11 Jul 2025 18:01:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
