@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 12:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 13:07:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Reveal How Hacktivist Groups Gain Attention and Choose Their Targets</title>
+      <link>https://gbhackers.com/researchers-reveal-how-hacktivist-groups/</link>
+      <description>Cybersecurity researchers have released findings on the operational dynamics of hacktivist organizations, revealing sophisticated attention-seeking behaviors and strategic target selection methodologies. The study highlights hacktivists' calculated targeting strategies, self-promotion mechanisms, and use of psychological warfare approaches to amplify their perceived influence. It also notes the commercialization trend within the hacktivist community and the increasing focus on capability development, leading to a more complex threat landscape.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149772</guid>
+      <pubDate>Thu, 17 Jul 2025 12:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>UNG0002 Actors Weaponize LNK Files via ClickFix Fake CAPTCHA Pages</title>
       <link>https://gbhackers.com/ung0002-actors-weaponize-lnk-files/</link>
@@ -28,6 +35,13 @@
       <description>The article discusses an international operation led by Europol to disrupt the infrastructure of a pro-Russian hacktivist group called NoName057(16) that has been linked to DDoS attacks against Ukraine and its allies. The joint effort resulted in the dismantling of the group's central server infrastructure, arrests, searches, and issuance of arrest warrants.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html</guid>
       <pubDate>Thu, 17 Jul 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Container Toolkit Vulnerability Allows Privileged Code Execution by Attackers</title>
+      <link>https://gbhackers.com/nvidia-container-toolkit-vulnerability/</link>
+      <description>Vulnerable Product: NVIDIA Container Toolkit and GPU Operator; CVE(s): CVE-2025-23266, CVE-2025-23267; Summary: The NVIDIA Container Toolkit and GPU Operator contain two critical vulnerabilities that allow attackers to execute arbitrary code with elevated privileges. The first vulnerability (CVE-2025-23266) has a CVSS score of 9.0, while the second (CVE-2025-23267) has a score of 8.5. These flaws enable privilege escalation, data tampering, information disclosure, and denial-of-service attacks in containerized environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149760</guid>
+      <pubDate>Thu, 17 Jul 2025 11:20:21 +0000</pubDate>
     </item>
     <item>
       <title>1-Click Oracle Cloud Code Editor RCE Flaw Allows Malicious File Upload to Shell</title>
@@ -140,6 +154,21 @@
       <description>Vulnerable Product: Cisco ISE and Cisco ISE-PIC; CVE(s): CVE-2025-20337; Summary: The vulnerability allows an unauthenticated attacker to execute arbitrary code on the underlying operating system with elevated privileges. It affects ISE and ISE-PIC releases 3.3 and 3.4, regardless of device configuration.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html</guid>
       <pubDate>Thu, 17 Jul 2025 05:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Submarine Cables Face Increasing Threats Amid Geopolitical Tensions and Limited Repair Capacity</title>
+      <link>https://www.recordedfuture.com/research/submarine-cables-face-increasing-threats</link>
+      <description>FYSA:
+
+This analysis highlights various vulnerabilities in the submarine cable ecosystem, including:
+
+1. **Concentration of cables at landing stations**: The clustering of multiple submarine cables at single landing sites increases the likelihood that damage to or near a landing site will impact multiple cables.
+2. **Limited repair capacity**: Repair vessels are focused on laying new cable systems, constraining their ability to respond immediately to cable faults, leading to extended repair times.
+3. **Regulatory hurdles**: Complex and lengthy permitting processes for repair ships vary by national territory, prolonging repair timelines and exacerbating the impact of limited repair capacity.
+
+These vulnerabilities can have significant consequences for global internet connectivity, highlighting the need for investments in streamlining repair processes and expanding cable ship repair capacity to mitigate potential disruptions.</description>
+      <guid isPermaLink="true">https://www.recordedfuture.com/research/submarine-cables-face-increasing-threats</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Co-op confirms data of 6.5 million members stolen in cyberattack</title>
@@ -1416,27 +1445,6 @@ Vulnerable Product: Adobe Acrobat Reader; CVE(s): TALOS-2025-2159 (CVE-2025-4357
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-02</link>
       <description>Vulnerable Product: Siemens Solid Edge SE2025; CVE(s): CVE-2025-40739, CVE-2025-40740, CVE-2025-40741; Summary: Successful exploitation of these vulnerabilities could allow an attacker to crash the application or execute arbitrary code. The affected applications contain out-of-bounds read past the end of an allocated structure while parsing specially crafted PAR files, which could allow an attacker to execute code in the context of the current process.</description>
       <guid isPermaLink="false">/node/23605</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KUNBUS RevPi Webstatus</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-09</link>
-      <description>Vulnerable Product: KUNBUS Revolution Pi Webstatus, Kunbus Revolution Pi OS Bullseye; CVE(s): CVE-2025-41646; Summary: The Revolution Pi Webstatus application is vulnerable to an authentication bypass due to an incorrect implementation of the authentication algorithm. Successful exploitation could allow attackers to gain unauthorized access to the application.</description>
-      <guid isPermaLink="false">/node/23612</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delta Electronics DTM Soft</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-07</link>
-      <description>Vulnerable Product: Delta Electronics DTM Soft; CVE(s): CVE-2025-53415; Summary: The DTM Soft software is vulnerable to a deserialization of untrusted data vulnerability, which could allow an attacker to extract information. Successful exploitation could also encrypt files referencing the application.</description>
-      <guid isPermaLink="false">/node/23610</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIPROTEC 5</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-06</link>
-      <description>Vulnerable Product: Siemens SIPROTEC 5; CVE(s): CVE-2025-40742; Summary: The vulnerability allows an attacker to retrieve sensitive session data from browser history, logs, or other storage mechanisms, potentially leading to unauthorized access. Successful exploitation could allow an attacker to retrieve sensitive session data, which could lead to unauthorized access.</description>
-      <guid isPermaLink="false">/node/23609</guid>
       <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
