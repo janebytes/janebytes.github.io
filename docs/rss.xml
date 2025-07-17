@@ -6,8 +6,64 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 18:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 19:03:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-604: Cisco Identity Services Engine disableStrongSwanTunnel Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-604/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20283; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine, requiring authentication. The issue is due to the lack of proper validation of user-supplied data, resulting in deserialization of untrusted data. An attacker can leverage this vulnerability to execute code in the context of the iseadminportal user.</description>
+      <guid isPermaLink="false">ZDI-CAN-26479</guid>
+      <pubDate>Thu, 17 Jul 2025 19:03:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-605: Cisco Identity Services Engine IpAccessFilter Direct Request Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-605/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20285; Summary: This vulnerability allows remote attackers to bypass IP restrictions on affected installations of Cisco Identity Services Engine. Authentication is required to exploit this vulnerability, and the issue results from an incomplete Spring Boot filter mapping in the web.xml file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26480</guid>
+      <pubDate>Thu, 17 Jul 2025 19:03:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-606: Cisco Identity Services Engine handleStrongSwanTunnelStatus Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-606/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20284; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine. Authentication is required to exploit this vulnerability, and the flaw exists within the implementation of the handleStrongSwanTunnelStatus method due to a lack of proper validation of user-supplied data, resulting in deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26482</guid>
+      <pubDate>Thu, 17 Jul 2025 19:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-607: Cisco Identity Services Engine enableStrongSwanTunnel Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-607/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20337; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations without authentication, due to the lack of proper validation of user-supplied data in the enableStrongSwanTunnel method. An attacker can leverage this vulnerability to execute code in the context of the iseadminportal user.</description>
+      <guid isPermaLink="false">ZDI-CAN-26481</guid>
+      <pubDate>Thu, 17 Jul 2025 19:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-608: Cisco Identity Services Engine handleFilesUpload Unrestricted File Upload Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-608/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20282; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine without authentication. The issue occurs due to a lack of proper validation of user-supplied data, allowing the upload of arbitrary files. An attacker can leverage this vulnerability to execute code in the context of the iseadminportal user.</description>
+      <guid isPermaLink="false">ZDI-CAN-26483</guid>
+      <pubDate>Thu, 17 Jul 2025 19:02:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-609: Cisco Identity Services Engine invokeStrongSwanShellScript Command Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-609/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20281; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine without authentication. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call, allowing an attacker to execute code in the context of root.</description>
+      <guid isPermaLink="false">ZDI-CAN-27121</guid>
+      <pubDate>Thu, 17 Jul 2025 19:01:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-610: Linux Kernel ksmbd destroy_previous_session Null Pointer Dereference Denial-of-Service Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-610/</link>
+      <description>Vulnerable Product: Linux Kernel; CVE(s): CVE-2025-38191; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of the Linux Kernel without authentication. The issue is due to a lack of proper validation of a pointer prior to accessing it in the destroy_previous_session function, which can be exploited to cause a denial-of-service condition on the system.</description>
+      <guid isPermaLink="false">ZDI-CAN-27391</guid>
+      <pubDate>Thu, 17 Jul 2025 19:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>LameHug malware uses AI LLM to craft Windows data-theft commands in real-time</title>
+      <link>https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/</link>
+      <description>LameHug is a novel malware family that uses a large language model (LLM) to generate commands for execution on compromised Windows systems. It relies on the Hugging Face API and an open-source LLM designed specifically for generating code, reasoning, and follow coding-focused instructions. The malware is written in Python and has been attributed to Russian state-backed threat group APT28.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/</guid>
+      <pubDate>Thu, 17 Jul 2025 18:57:20 +0000</pubDate>
+    </item>
     <item>
       <title>Hacker steals $27 million in BigONE exchange crypto breach</title>
       <link>https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/</link>
@@ -1398,64 +1454,6 @@ Note: This is not a traditional vulnerability disclosure, as there are no CVEs a
       <description>This article provides an overview of Dark Web Monitoring tools, highlighting the importance of having a comprehensive solution that offers real-time alerts, broad darknet source coverage, credential leak detection, SIEM/SOAR integration, customizable monitoring rules, and visual threat dashboards. The article also emphasizes the need for AI-driven threat scoring, automated response support, and user-friendly interfaces to meet today's security demands.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061796</guid>
       <pubDate>Fri, 11 Jul 2025 14:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-47812: Wing FTP Server Exposed to Root-Level RCE Attacks</title>
-      <link>https://socradar.io/cve-2025-47812-wing-ftp-server-rce-vulnerability/</link>
-      <description>Vulnerable Product: Wing FTP Server; CVE(s): CVE-2025-47812; Summary: A Remote Code Execution (RCE) vulnerability exists in Wing FTP Server versions prior to 7.4.4, allowing attackers to inject arbitrary commands into session files managed by the server's Lua interpreter, leading to SYSTEM/root-level access without authentication.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061788</guid>
-      <pubDate>Fri, 11 Jul 2025 12:49:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution</title>
-      <link>https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html</link>
-      <description>Vulnerable Product: OpenSynergy BlueSDK; CVE(s): CVE-2024-45434, CVE-2024-45431, CVE-2024-45433, CVE-2024-45432; Summary: The vulnerabilities in OpenSynergy's BlueSDK Bluetooth stack can be exploited to achieve remote code execution on millions of transport vehicles from different vendors, potentially allowing attackers to track GPS coordinates, record audio, access contact lists, and take control of critical software functions.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html</guid>
-      <pubDate>Fri, 11 Jul 2025 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Are the Main Benefits of Dark Web Monitoring?</title>
-      <link>https://socradar.io/what-are-the-main-benefits-of-dark-web-monitoring/</link>
-      <description>This article highlights the importance of monitoring the Dark Web to detect early signs of danger, prevent data breaches, and protect brand reputation. It emphasizes the benefits of Dark Web monitoring, including detecting leaked credentials, compromised customer records, and internal documents, as well as providing real-time alerts to take action against threats.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061777</guid>
-      <pubDate>Fri, 11 Jul 2025 11:54:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing Data in the AI Era</title>
-      <link>https://thehackernews.com/2025/07/securing-data-in-ai-era.html</link>
-      <description>The 2025 Data Risk Report highlights the risks of data loss through AI-fueled tools, SaaS applications, email, file-sharing services, and other digital channels. The report reveals trends such as millions of data loss incidents through AI apps like ChatGPT and Microsoft Copilot, surging SaaS data loss, and significant email and file-sharing data loss.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/securing-data-in-ai-era.html</guid>
-      <pubDate>Fri, 11 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Wing FTP Server Vulnerability (CVE-2025-47812) Actively Being Exploited in the Wild</title>
-      <link>https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html</link>
-      <description>Vulnerable Product: Wing FTP Server; CVE(s): CVE-2025-47812; Summary: The Wing FTP Server has a maximum-severity security flaw, tracked as CVE-2025-47812, that allows remote code execution through improper handling of null ('\0') bytes in the server's web interface. This can be exploited via anonymous FTP accounts, enabling threat actors to download and execute malicious Lua files, conduct reconnaissance, and install remote monitoring and management software.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html</guid>
-      <pubDate>Fri, 11 Jul 2025 10:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals</title>
-      <link>https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html</link>
-      <description>An Iranian-backed ransomware-as-a-service (RaaS) named Pay2Key has resurfaced, offering bigger payouts to cybercriminals who launch attacks against Israel and the U.S. The RaaS platform, hosted on the Invisible Internet Project (I2P), is linked to a hacking group tracked as Fox Kitten (aka Lemon Sandstorm) and appears to partner with or incorporate Mimic ransomware's capabilities.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html</guid>
-      <pubDate>Fri, 11 Jul 2025 10:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evolving Tactics of SLOW#TEMPEST: A Deep Dive Into Advanced Malware Techniques</title>
-      <link>https://unit42.paloaltonetworks.com/slow-tempest-malware-obfuscation/</link>
-      <description>Vulnerable Product: SLOW#TEMPEST malware; CVE(s): None; Summary: The article analyzes a malware variant related to the SLOW#TEMPEST campaign, which employs obfuscation techniques such as control flow graph (CFG) obfuscation using dynamic jumps and obfuscated function calls. The malware's authors use these techniques to hinder static analysis and make detection more challenging.
-
-FYSA: The article highlights the importance of adopting advanced dynamic analysis techniques alongside static analysis to effectively dissect and understand modern malware.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=146001</guid>
-      <pubDate>Fri, 11 Jul 2025 10:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises</title>
-      <link>https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html</link>
-      <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: An instance of insufficient input validation in Citrix NetScaler ADC and Gateway allows an attacker to bypass authentication when the appliance is configured as a Gateway or AAA virtual server, leading to memory overread. This vulnerability (CVE-2025-5777) has been weaponized in the wild and can be exploited by sending the same payload repeatedly, causing sensitive information to be leaked.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html</guid>
-      <pubDate>Fri, 11 Jul 2025 04:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
