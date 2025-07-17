@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 19:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 20:05:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-611: VMware ESXi VMCI Uninitialized Memory Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-611/</link>
+      <description>Vulnerable Product: VMware ESXi; CVE(s): CVE-2025-41239; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of VMware ESXi. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the implementation of VMCI due to uninitialized memory prior to access.</description>
+      <guid isPermaLink="false">ZDI-CAN-27123</guid>
+      <pubDate>Thu, 17 Jul 2025 20:04:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-612: Hewlett Packard Enterprise AutoPass License Server Hard-coded Credentials Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-612/</link>
+      <description>Vulnerable Product: Hewlett Packard Enterprise AutoPass License Server; CVE(s): CVE-2025-37105; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Hewlett Packard Enterprise AutoPass License Server without authentication. The specific flaw exists within the hsqldb service, which listens on TCP port 9001 by default, due to hard-coded credentials.</description>
+      <guid isPermaLink="false">ZDI-CAN-25789</guid>
+      <pubDate>Thu, 17 Jul 2025 20:03:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-613: Hewlett Packard Enterprise AutoPass License Server Hard-coded Credentials Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-613/</link>
+      <description>Vulnerable Product: Hewlett Packard Enterprise AutoPass License Server; CVE(s): CVE-2025-37106; Summary: This vulnerability allows remote attackers to disclose sensitive information or edit configuration on affected installations of Hewlett Packard Enterprise AutoPass License Server without requiring authentication. The specific flaw exists within the web service, which listens on TCP port 5814 by default, due to hard-coded credentials.</description>
+      <guid isPermaLink="false">ZDI-CAN-25790</guid>
+      <pubDate>Thu, 17 Jul 2025 20:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-614: Hewlett Packard Enterprise AutoPass License Server Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-614/</link>
+      <description>Vulnerable Product: Hewlett Packard Enterprise AutoPass License Server; CVE(s): CVE-2025-37107; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of the Hewlett Packard Enterprise AutoPass License Server, making an authorization decision based on a non-canonical URL. Authentication is not required to exploit this vulnerability, and it exists within the web service that listens on TCP port 5814 by default.</description>
+      <guid isPermaLink="false">ZDI-CAN-25791</guid>
+      <pubDate>Thu, 17 Jul 2025 20:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-615: Dassault Systèmes eDrawings Viewer IPT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-615/</link>
+      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-7042; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations by parsing IPT files without validating the existence of an object. User interaction is required, and an attacker can leverage this to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-27117</guid>
+      <pubDate>Thu, 17 Jul 2025 20:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google sues to disrupt BadBox 2.0 botnet infecting 10 million devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/</link>
+      <description>The article discusses a lawsuit filed by Google against the operators of the Android BadBox 2.0 malware botnet, which has infected over 10 million devices and is conducting global ad fraud schemes against Google's advertising platforms. The botnet uses infected Android Open Source Project (AOSP) devices, including smart TVs, streaming boxes, and other connected devices that lack security protections.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/</guid>
+      <pubDate>Thu, 17 Jul 2025 19:59:26 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-604: Cisco Identity Services Engine disableStrongSwanTunnel Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-604/</link>
@@ -63,6 +105,24 @@
       <description>LameHug is a novel malware family that uses a large language model (LLM) to generate commands for execution on compromised Windows systems. It relies on the Hugging Face API and an open-source LLM designed specifically for generating code, reasoning, and follow coding-focused instructions. The malware is written in Python and has been attributed to Russian state-backed threat group APT28.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/</guid>
       <pubDate>Thu, 17 Jul 2025 18:57:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is your sign to step away from the keyboard</title>
+      <link>https://blog.talosintelligence.com/this-is-your-sign-to-step-away-from-the-keyboard/</link>
+      <description>Vulnerable Product: None; Summary: The article discusses the importance of self-care and stress management for cybersecurity professionals, highlighting the risks of burnout and the need to prioritize mental health.
+
+FYSA: A Malware-as-a-Service (MaaS) operation was identified by Cisco Talos that used Emmenhtal loader and Amadey malware to deliver malicious payloads targeting Ukrainian entities via public GitHub repositories. The operation shows how easily adversaries can use trusted platforms like GitHub to deliver malware, making it more difficult for organizations to detect and block threats.
+
+Vulnerable Product: Fortinet FortiWeb; CVE(s): 2025-25257; Summary: A proof-of-concept (PoC) exploit allows unauthenticated attackers to execute remote code by writing malicious files to the server's filesystem, potentially leading to full remote code execution.</description>
+      <guid isPermaLink="false">6877bdb118fde0000159044e</guid>
+      <pubDate>Thu, 17 Jul 2025 18:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters</title>
+      <link>https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html</link>
+      <description>Threat actors are using public GitHub repositories to host malicious payloads and distribute them via Amadey as part of a campaign observed in April 2025. The malware loader Emmenhtal delivers Amadey, which downloads various custom payloads from public GitHub repositories operated by the threat actors.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html</guid>
+      <pubDate>Thu, 17 Jul 2025 17:40:00 +0000</pubDate>
     </item>
     <item>
       <title>Hacker steals $27 million in BigONE exchange crypto breach</title>
@@ -1396,64 +1456,6 @@ FYSA: Threat actors remain highly active across dark web forums, with multiple a
       <description>Vulnerable Product: Trend Micro Cleaner One Pro; CVE(s): CVE-2025-53503; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Trend Micro Cleaner One Pro. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Junk Files Cleanup functionality.</description>
       <guid isPermaLink="false">ZDI-CAN-26484</guid>
       <pubDate>Fri, 11 Jul 2025 18:01:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-589: Trend Micro Worry-Free Business Security Missing Authentication Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-589/</link>
-      <description>Vulnerable Product: Trend Micro Worry-Free Business Security; CVE(s): ZDI-25-589, ZDI-CAN-25342, CVE-2025-53378; Summary: This vulnerability allows remote attackers to hijack security agents on affected installations of Trend Micro Worry-Free Business Security. It requires user interaction and exists within the agent activation API due to a lack of authentication prior to allowing access to functionality.</description>
-      <guid isPermaLink="false">ZDI-CAN-25342</guid>
-      <pubDate>Fri, 11 Jul 2025 18:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-590: G DATA Total Security GDTunerSvc Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-590/</link>
-      <description>Vulnerable Product: G DATA Total Security; CVE(s): CVE-2025-2790; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of G DATA Total Security. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, and can leverage it to delete arbitrary files and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26240</guid>
-      <pubDate>Fri, 11 Jul 2025 18:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/nvidia-shares-guidance-to-defend-gddr6-gpus-against-rowhammer-attacks/</link>
-      <description>Vulnerable Product: NVIDIA GDDR6 graphical processors; CVE(s): None; Summary: Rowhammer attacks can be triggered through software processes, causing memory cells to flip and potentially leading to denial-of-service conditions, data corruption, or privilege escalation. Enabling System Level Error-Correcting Codes (ECC) mitigates this risk.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/nvidia-shares-guidance-to-defend-gddr6-gpus-against-rowhammer-attacks/</guid>
-      <pubDate>Fri, 11 Jul 2025 15:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/</link>
-      <description>Vulnerable Product: NVIDIA; CVE(s): None; Summary: NVIDIA is warning users to enable System Level Error-Correcting Code (ECC) mitigation to protect against Rowhammer attacks on graphical processors with GDDR6 memory, as demonstrated by researchers at the University of Toronto. Enabling ECC can prevent data corruption, denial-of-service conditions, or privilege escalation.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/</guid>
-      <pubDate>Fri, 11 Jul 2025 15:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The zero-day that could've compromised every Cursor and Windsurf user</title>
-      <link>https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/</link>
-      <description>Vulnerable Product: OpenVSX; CVE(s): None; Summary: A critical zero-day vulnerability was discovered in OpenVSX, an open-source marketplace powering extensions for AI coding tools like VS Code and its forks. The flaw allowed an attacker to gain full control over the entire marketplace by stealing a powerful secret token that belongs to the trusted @open-vsx account. With this token, an attacker could publish updates, overwrite existing ones, and silently hijack the entire marketplace, leading to a supply chain nightmare.
-
-Note: This is not a traditional vulnerability disclosure, as there are no CVEs assigned. However, based on the article's content, I've summarized the vulnerability according to your guidelines.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/</guid>
-      <pubDate>Fri, 11 Jul 2025 15:03:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/</link>
-      <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-5777; Summary: A critical memory safety vulnerability (out-of-bounds memory read) allows unauthenticated attackers to access restricted parts of memory, impacting devices configured as a Gateway or AAA virtual server in versions prior to 14.1-43.56, 13.1-58.32, and others.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/</guid>
-      <pubDate>Fri, 11 Jul 2025 14:45:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)</title>
-      <link>https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A critical SQL injection vulnerability (CVE-2025-25257) in FortiWeb allows an unauthenticated attacker to run arbitrary database commands, impacting versions 7.6.0-7.6.3, 7.4.0-7.4.7, 7.2.0-7.2.10, and 7.0.0-7.0.10; exploitation details involve using a Bearer token in an HTTP request to execute unauthorized SQL code or commands.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html</guid>
-      <pubDate>Fri, 11 Jul 2025 14:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Makes a Dark Web Monitoring Tool Effective?</title>
-      <link>https://socradar.io/what-makes-a-dark-web-monitoring-tool-effective/</link>
-      <description>This article provides an overview of Dark Web Monitoring tools, highlighting the importance of having a comprehensive solution that offers real-time alerts, broad darknet source coverage, credential leak detection, SIEM/SOAR integration, customizable monitoring rules, and visual threat dashboards. The article also emphasizes the need for AI-driven threat scoring, automated response support, and user-friendly interfaces to meet today's security demands.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061796</guid>
-      <pubDate>Fri, 11 Jul 2025 14:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
