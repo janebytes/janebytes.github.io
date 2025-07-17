@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 11:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 12:03:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UNG0002 Actors Weaponize LNK Files via ClickFix Fake CAPTCHA Pages</title>
+      <link>https://gbhackers.com/ung0002-actors-weaponize-lnk-files/</link>
+      <description>The article reports on a sophisticated espionage group known as UNG0002 (Unknown Group 0002) that has been conducting persistent campaigns across multiple Asian jurisdictions since May 2024. The group uses social engineering techniques, advanced malware deployment methods, and custom-developed implants to target organizations in China, Hong Kong, and Pakistan.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149751</guid>
+      <pubDate>Thu, 17 Jul 2025 11:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK’s Co-op Retailer Hit by Cyberattack, 6.5 Million Members’ Data Exposed</title>
+      <link>https://gbhackers.com/uks-co-op-retailer-hit-by-cyberattack/</link>
+      <description>The UK's Co-op retailer suffered a significant cyberattack in April 2024, resulting in the theft of personal data from all 6.5 million members. While no financial information was compromised, hackers accessed names, addresses, and contact information. The breach highlights the ongoing cybersecurity challenges facing major retailers and the importance of robust preventive measures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149774</guid>
+      <pubDate>Thu, 17 Jul 2025 11:31:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Disrupts NoName057(16) Hacktivist Group Linked to DDoS Attacks Against Ukraine</title>
+      <link>https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html</link>
+      <description>The article discusses an international operation led by Europol to disrupt the infrastructure of a pro-Russian hacktivist group called NoName057(16) that has been linked to DDoS attacks against Ukraine and its allies. The joint effort resulted in the dismantling of the group's central server infrastructure, arrests, searches, and issuance of arrest warrants.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html</guid>
+      <pubDate>Thu, 17 Jul 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-Click Oracle Cloud Code Editor RCE Flaw Allows Malicious File Upload to Shell</title>
+      <link>https://gbhackers.com/1-click-oracle-cloud-code-editor-rce-flaw/</link>
+      <description>Vulnerable Product: Oracle Cloud Infrastructure Code Editor; CVE(s): None; Summary: A critical Remote Code Execution (RCE) vulnerability in Oracle Cloud Infrastructure's Code Editor enabled attackers to silently hijack victim Cloud Shell environments through a single malicious link, allowing for potential lateral movement across OCI services and compromise of integrated developer tools. The vulnerability stemmed from a Cross-Site Request Forgery (CSRF) weakness in the file upload mechanism, which was remediated by implementing additional CSRF protections requiring a custom HTTP header.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149729</guid>
+      <pubDate>Thu, 17 Jul 2025 11:09:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025</title>
+      <link>https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html</link>
+      <description>The article discusses the importance of implementing Continuous Threat Exposure Management (CTEM) programs, which complement Vulnerability Management (VM) and Attack Surface Management (ASM). CTEM provides a systematic approach to discover, prioritize, validate, and respond to security exposures. The article also highlights the benefits of integrating VM, ASM, and penetration testing solutions into a unified interface to support a holistic CTEM program.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html</guid>
+      <pubDate>Thu, 17 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iranian Threat Actors Use AI-Generated Emails to Target Cybersecurity Researchers and Academics</title>
       <link>https://gbhackers.com/iranian-threat-actors-use-ai-generated-emails/</link>
@@ -1402,41 +1437,6 @@ Vulnerable Product: Adobe Acrobat Reader; CVE(s): TALOS-2025-2159 (CVE-2025-4357
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-06</link>
       <description>Vulnerable Product: Siemens SIPROTEC 5; CVE(s): CVE-2025-40742; Summary: The vulnerability allows an attacker to retrieve sensitive session data from browser history, logs, or other storage mechanisms, potentially leading to unauthorized access. Successful exploitation could allow an attacker to retrieve sensitive session data, which could lead to unauthorized access.</description>
       <guid isPermaLink="false">/node/23609</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEC NMS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-01</link>
-      <description>Vulnerable Product: Siemens SINEC NMS; CVE(s): CVE-2025-40735, CVE-2025-40736, CVE-2025-40737, CVE-2025-40738; Summary: The affected devices are vulnerable to SQL injection, allowing an unauthenticated remote attacker to execute arbitrary SQL queries on the server database. Additionally, the application exposes an endpoint that allows an unauthorized modification of administrative credentials, and does not properly validate file paths when extracting uploaded ZIP files, potentially executing code with elevated privileges. Successful exploitation could allow an attacker to elevate privileges and execute arbitrary code.</description>
-      <guid isPermaLink="false">/node/23604</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/10/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Citrix NetScaler ADC and Gateway; CVE(s): CVE-2025-5777; Summary: This vulnerability is an out-of-bounds read vulnerability that poses significant risks to the federal enterprise. It has been added to CISA's Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation, and agencies are required to remediate it by a specified date to protect against active threats.</description>
-      <guid isPermaLink="false">/node/23615</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens TIA Project-Server and TIA Portal</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-05</link>
-      <description>Vulnerable Product: Siemens Project-Server and TIA Portal; CVE(s): CVE-2025-27127; Summary: Unrestricted upload of files with dangerous types allows an attacker to cause a denial-of-service condition by uploading a malicious project. The vulnerability affects several versions of TIA Project-Server, TIA Portal, and Totally Integrated Automation Portal (TIA Portal).</description>
-      <guid isPermaLink="false">/node/23608</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens TIA Administrator</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-03</link>
-      <description>Vulnerable Product: Siemens TIA Administrator; CVE(s): CVE-2025-23364, CVE-2025-23365; Summary: The Siemens TIA Administrator has two vulnerabilities that allow an attacker to escalate privilege or execute arbitrary code during installations. The first vulnerability is due to improper verification of cryptographic signatures, while the second allows low-privileged users to trigger installations by overwriting cache files and modifying downloads paths. Successful exploitation could result in arbitrary code execution.</description>
-      <guid isPermaLink="false">/node/23606</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advantech iView</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-08</link>
-      <description>Vulnerable Product: Advantech iView; CVE(s): CVE-2025-53397, CVE-2025-53519, CVE-2025-41442, CVE-2025-48891, CVE-2025-46704, CVE-2025-53475, CVE-2025-52577, CVE-2025-53515, CVE-2025-52459, CVE-2025-53509; Summary: Multiple vulnerabilities exist in Advantech iView versions prior to 5.7.05 build 7057, including cross-site scripting (XSS), SQL injection, path traversal, and argument injection. Successful exploitation could allow an attacker to disclose sensitive information, achieve remote code execution, or cause service disruptions.</description>
-      <guid isPermaLink="false">/node/23611</guid>
       <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
