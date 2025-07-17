@@ -6,8 +6,66 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 14:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 15:11:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>H2Miner Targets Linux, Windows, and Containers to Illicitly Mine Monero</title>
+      <link>https://gbhackers.com/h2miner-targets-linux-windows-and-containers/</link>
+      <description>This article reports on a sophisticated cryptomining campaign called H2Miner, which targets Linux, Windows, and containerized environments simultaneously. The campaign uses updated scripts and infrastructure to deploy Kinsing malware, disable security defenses, and download additional payloads, including miners and information stealers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149797</guid>
+      <pubDate>Thu, 17 Jul 2025 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massistant: Chinese Mobile Forensic Tool Accesses SMS, Images, Audio, and GPS Data</title>
+      <link>https://gbhackers.com/massistant-chinese-mobile-forensic-tool/</link>
+      <description>Vulnerable Product: Meiya Pico's Massistant; CVE(s): None; Summary: Massistant is a sophisticated mobile forensics application deployed by Chinese law enforcement to extract comprehensive data from confiscated mobile devices. It can bypass device security measures and collect sensitive information, raising critical security concerns for international business travelers and enterprise organizations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149825</guid>
+      <pubDate>Thu, 17 Jul 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-25257: Attackers Exploit FortiWeb SQL Injection Bug for Remote Code Execution</title>
+      <link>https://socradar.io/cve-2025-25257-fortiweb-sql-injection-bug-rce/</link>
+      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A critical SQL injection vulnerability (CVSS 9.6) in Fortinet's FortiWeb Fabric Connector allows unauthenticated attackers to execute arbitrary SQL commands and Remote Code Execution (RCE). The flaw impacts several FortiWeb versions, including 7.0.0 through 7.6.3, and has been actively exploited since July 11.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061902</guid>
+      <pubDate>Thu, 17 Jul 2025 14:18:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner</title>
+      <link>https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html</link>
+      <description>Vulnerable Product: Apache HTTP Server; CVE(s): CVE-2021-41773; Summary: The vulnerability in Apache HTTP Server version 2.4.49 is a high-severity path traversal vulnerability that could result in remote code execution, exploited by threat actors to deliver a cryptocurrency miner called Linuxsys.
+
+FYSA: Threat actors have been conducting a long-term campaign, exploiting known security flaws and employing consistent techniques such as n-day exploitation, staging content on compromised hosts, and coin mining on victim machines. The campaign has resulted in the delivery of malware, including the Linuxsys cryptocurrency miner.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html</guid>
+      <pubDate>Thu, 17 Jul 2025 14:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SquareX Collaborates With Top Fortune 500 CISOs To Launch The Browser Security Field Manual At Black Hat</title>
+      <link>https://gbhackers.com/squarex-collaborates-with-top-fortune-500-cisos-to-launch-the-browser-security-field-manual-at-black-hat/</link>
+      <description>The article announces the official launch of "The Browser Security Field Manual" by SquareX, a comprehensive guide to browser security threats and tactics. The manual features industry perspectives from leading CISOs and covers five major threat vectors, including phishing, malicious extensions, data loss, identity attacks, and browser-native ransomware.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149807</guid>
+      <pubDate>Thu, 17 Jul 2025 14:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese State-Sponsored Hackers Target Semiconductor Industry with Weaponized Cobalt Strike</title>
+      <link>https://gbhackers.com/chinese-state-sponsored-hackers-target-semiconductor-industry/</link>
+      <description>This article reports on a sophisticated cyberespionage campaign targeting Taiwan's semiconductor industry. Three Chinese state-sponsored threat actors (UNK_FistBump, UNK_DropPitch, and UNK_SparkyCarp) conducted coordinated phishing operations against organizations in the semiconductor sector, using various tactics, techniques, and procedures to deliver malware payloads and collect intelligence.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149808</guid>
+      <pubDate>Thu, 17 Jul 2025 14:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 4 Million Exposed Devices Used in Two New DoS Attack Campaigns</title>
+      <link>https://gbhackers.com/over-4-million-exposed-devices/</link>
+      <description>Vulnerable Product: Various tunneling protocols (IPIP, GRE, 4in6, 6in4); CVE(s): CVE-2024-7595, CVE-2024-7596, CVE-2025-23018, and CVE-2025-23019; Summary: The vulnerability affects millions of Internet hosts that accept unauthenticated tunneling traffic, allowing for devastating denial-of-service attacks, including TuTL and Ping-Pong amplification attacks. Additionally, the EDoS attack targets cloud-hosted services by forcing vulnerable hosts to generate massive amounts of outbound traffic, leading to increased costs or service disruptions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149794</guid>
+      <pubDate>Thu, 17 Jul 2025 13:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco ISE Hit by CVSS 10 RCE Vulnerabilities Allowing Full System Takeover – Patch Now</title>
+      <link>https://socradar.io/cisco-ise-cvss-10-rce-full-system-takeover/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE), Cisco Unified Intelligence Center, and Cisco Prime Infrastructure; CVE(s): CVE-2025-20281, CVE-2025-20282, CVE-2025-20337; Summary: Three critical vulnerabilities with a maximum CVSS score of 10.0 allow unauthenticated attackers to execute arbitrary code on affected systems with root privileges by sending specially crafted API requests. The flaws exist in specific APIs within Cisco ISE and its Passive Identity Connector (ISE-PIC).</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061891</guid>
+      <pubDate>Thu, 17 Jul 2025 13:00:24 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Reveal How Hacktivist Groups Gain Attention and Choose Their Targets</title>
       <link>https://gbhackers.com/researchers-reveal-how-hacktivist-groups/</link>
@@ -84,6 +142,19 @@
       <description>Vulnerable Product: Socket's Threat Research Team; CVE(s): None; Summary: A network of at least 28 malicious packages, including protestware scripts, was discovered in the npm supply chain. The protestware disrupts user interface interactions by disabling mouse events and initiating playback of the Ukrainian national anthem, affecting Russian-language users on specific domains. The vulnerability highlights the risks of code reuse in open-source repositories, where undisclosed payloads can cascade through dependencies, amplifying potential impacts on downstream applications.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149690</guid>
       <pubDate>Thu, 17 Jul 2025 09:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Stealer Logs</title>
+      <link>https://socradar.io/top-10-stealer-logs/</link>
+      <description>The provided article is an analysis of infostealer malware and their associated logs in 2025. It does not discuss a specific vulnerability in software, hardware, or firmware.
+
+The article provides an overview of various infostealer malware families, including Lumma, Vidar, RedLine, StealC, Raccoon Stealer, MetaStealer, Mystic Stealer, and Hawklog. Each section highlights the features, target range, and evasion techniques used by each malware family to steal sensitive data such as credentials, credit card numbers, and cryptocurrency wallet details.
+
+The article also discusses the role of stealer logs in enabling ransomware attacks, account takeovers, and financial fraud. It emphasizes the importance of threat hunting and stealer log analysis for detecting early signs of compromise and reducing the time gap between initial breach detection.
+
+No specific vulnerabilities are mentioned or analyzed in the article.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100047829</guid>
+      <pubDate>Thu, 17 Jul 2025 09:30:14 +0000</pubDate>
     </item>
     <item>
       <title>PyPI Blocks Inbox.ru Domains After 1,500+ Fake Package Uploads</title>
@@ -1383,69 +1454,6 @@ FYSA: The article highlights the importance of adopting advanced dynamic analysi
 Vulnerable Product: Adobe Acrobat Reader; CVE(s): TALOS-2025-2159 (CVE-2025-43578), TALOS-2025-2170 (CVE-2025-43576); Summary: An out-of-bounds read vulnerability in the Font functionality of Adobe Acrobat Reader 2025.001.20435 allows disclosure of sensitive information, while a use-after-free vulnerability in the annotation object processing functionality can lead to memory corruption and arbitrary code execution.</description>
       <guid isPermaLink="false">686ec0185df3de0001555dfd</guid>
       <pubDate>Thu, 10 Jul 2025 15:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord</title>
-      <link>https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html</link>
-      <description>Cryptocurrency users are being targeted by a social engineering campaign that uses fake startup companies to trick them into downloading malware. The campaign employs spoofed social media accounts and project documentation on legitimate platforms like Notion and GitHub, and has been ongoing since at least March 2024.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html</guid>
-      <pubDate>Thu, 10 Jul 2025 14:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI's CJIS demystified: Best practices for passwords, MFA &amp; access control</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/</link>
-      <description>The article discusses the Criminal Justice Information Services (CJIS) Security Policy, which governs how criminal histories, fingerprints, and investigation files must be protected. It explains the origins of CJIS, its purpose, and why it matters to organizations handling criminal-justice information. The article also covers the pillars of identity (passwords, multifactor authentication, and strict access controls), and provides guidance on how to embed these controls seamlessly into an environment.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/</guid>
-      <pubDate>Thu, 10 Jul 2025 14:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four arrested in UK over M&amp;S, Co-op, Harrods cyberattacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrods-cyberattacks/</link>
-      <description>Four individuals, including two 19-year-old males, one 17-year-old male, and a 20-year-old female, were arrested by the UK's National Crime Agency (NCA) for suspected involvement in cyberattacks on major retailers, including Marks &amp; Spencer, Co-op, and Harrods. The suspects are believed to be linked to Scattered Spider, a threat actor group known for numerous breaches over the past few years.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrods-cyberattacks/</guid>
-      <pubDate>Thu, 10 Jul 2025 13:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four arrested in UK over M&amp;S, Co-op, Harrod cyberattacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/</link>
-      <description>The UK's National Crime Agency (NCA) arrested four individuals suspected of involvement in cyberattacks on major retailers, including Marks &amp; Spencer, Co-op, and Harrods. The attacks were attributed to threat actors classified as Scattered Spider, with a history of breaches over the past few years.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/</guid>
-      <pubDate>Thu, 10 Jul 2025 13:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: Arkana Ransomware</title>
-      <link>https://socradar.io/dark-web-profile-arkana-ransomware/</link>
-      <description>Arkana Ransomware is a group that emerged in early 2025, claiming to have stolen customer databases and taken control of key backend systems. They are part of the Qilin Network, a Ransomware-as-a-Service (RaaS) platform.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061758</guid>
-      <pubDate>Thu, 10 Jul 2025 13:21:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is a Dark Web Monitoring API?</title>
-      <link>https://socradar.io/what-is-a-dark-web-monitoring-api/</link>
-      <description>This article discusses the importance of Dark Web Monitoring APIs in detecting cyber threats and preventing attacks. It highlights the benefits of using such tools, including real-time alerts, broad coverage, and seamless integration into existing security systems. The article also provides best practices for setting up and configuring dark web monitoring APIs, as well as legal considerations and regulatory requirements.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061750</guid>
-      <pubDate>Thu, 10 Jul 2025 12:41:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods</title>
-      <link>https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</link>
-      <description>The article reports on the arrest of four individuals suspected of being involved in cyber attacks targeting major retailers in the UK. The attacks are believed to be perpetrated by a decentralized cybercrime group called Scattered Spider, which is notorious for its advanced social engineering tactics and willingness to be persistent in gaining initial access to targets.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</guid>
-      <pubDate>Thu, 10 Jul 2025 12:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>End-of-Train and Head-of-Train Remote Linking Protocol</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-10</link>
-      <description>Vulnerable Product: End-of-Train and Head-of-Train remote linking protocol; CVE(s): CVE-2025-1727; Summary: The vulnerability allows an attacker to send their own brake control commands to the end-of-train device, potentially causing a sudden stoppage or inducing brake failure. Exploitation requires low attack complexity and can be achieved through software-defined radio and a malicious packet.</description>
-      <guid isPermaLink="false">/node/23613</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Solid Edge</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-02</link>
-      <description>Vulnerable Product: Siemens Solid Edge SE2025; CVE(s): CVE-2025-40739, CVE-2025-40740, CVE-2025-40741; Summary: Successful exploitation of these vulnerabilities could allow an attacker to crash the application or execute arbitrary code. The affected applications contain out-of-bounds read past the end of an allocated structure while parsing specially crafted PAR files, which could allow an attacker to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">/node/23605</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
