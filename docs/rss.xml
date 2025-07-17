@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 10:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 11:03:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Iranian Threat Actors Use AI-Generated Emails to Target Cybersecurity Researchers and Academics</title>
+      <link>https://gbhackers.com/iranian-threat-actors-use-ai-generated-emails/</link>
+      <description>This article discusses Iranian state-backed Advanced Persistent Threat (APT) groups and their hacktivist allies' increased cyber operations following Israeli and American strikes on Iranian nuclear and military facilities. The article highlights the groups' tactics, including espionage, disruption, and psychological warfare, as well as their use of AI-enhanced phishing operations and industrial control system scanning.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149704</guid>
+      <pubDate>Thu, 17 Jul 2025 10:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities</title>
+      <link>https://blog.talosintelligence.com/maas-operation-using-emmenhtal-and-amadey-linked-to-threats-against-ukrainian-entities/</link>
+      <description>A Malware-as-a-Service (MaaS) operation, dubbed "Amadey," has been identified by Cisco Talos. The operation uses fake GitHub accounts to host payloads and tools, allowing operators to deliver various malware families to infected hosts. This MaaS operation overlaps with a previous SmokeLoader phishing campaign targeting Ukrainian entities.</description>
+      <guid isPermaLink="false">6876776cec6298000147ad76</guid>
+      <pubDate>Thu, 17 Jul 2025 10:00:21 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Use DNS Queries to Evade Defenses and Exfiltrate Data</title>
       <link>https://gbhackers.com/hackers-use-dns-queries-to-evade-defenses-and-exfiltrate-data/</link>
@@ -1423,20 +1437,6 @@ Vulnerable Product: Adobe Acrobat Reader; CVE(s): TALOS-2025-2159 (CVE-2025-4357
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-08</link>
       <description>Vulnerable Product: Advantech iView; CVE(s): CVE-2025-53397, CVE-2025-53519, CVE-2025-41442, CVE-2025-48891, CVE-2025-46704, CVE-2025-53475, CVE-2025-52577, CVE-2025-53515, CVE-2025-52459, CVE-2025-53509; Summary: Multiple vulnerabilities exist in Advantech iView versions prior to 5.7.05 build 7057, including cross-site scripting (XSS), SQL injection, path traversal, and argument injection. Successful exploitation could allow an attacker to disclose sensitive information, achieve remote code execution, or cause service disruptions.</description>
       <guid isPermaLink="false">/node/23611</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC CN 4100</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-04</link>
-      <description>Vulnerable Product: Siemens SIMATIC CN 4100; CVE(s): CVE-2025-40593; Summary: The vulnerability allows an attacker to cause a denial-of-service condition by storing arbitrary files in the SFTP folder of the device. The vulnerable product is all versions prior to V4.0, and updating to V4.0 or later version mitigates the risk.</description>
-      <guid isPermaLink="false">/node/23607</guid>
-      <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Thirteen Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/10/cisa-releases-thirteen-industrial-control-systems-advisories</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released 13 Industrial Control Systems (ICS) advisories on July 10, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. CISA encourages users to review the advisories for technical details and mitigations.</description>
-      <guid isPermaLink="false">/node/23614</guid>
       <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
