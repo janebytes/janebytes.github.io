@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 12:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 13:03:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Sophos Intercept X for Windows Flaws Enable Arbitrary Code Execution</title>
+      <link>https://gbhackers.com/sophos-intercept-x-for-windows-flaws/</link>
+      <description>Vulnerable Product: Sophos; CVE(s): CVE-2024-13972, CVE-2025-7433, CVE-2025-7472; Summary: Three critical security vulnerabilities were discovered in Sophos Intercept X for Windows, allowing attackers to execute arbitrary code and gain system-level privileges. The vulnerabilities affect different components of the software, including the updater, Device Encryption module, and installer.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150111</guid>
+      <pubDate>Fri, 18 Jul 2025 12:47:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Sues BadBox 2.0 Botnet Operators Behind 10 Million+ Infected Devices</title>
+      <link>https://gbhackers.com/google-sues-badbox-2-0-botnet-operators/</link>
+      <description>The article discusses the BadBox 2.0 botnet, a network of over 10 million insecure devices running Android Open Source Project (AOSP) that were compromised by malware during manufacturing and used for ad fraud schemes and other illicit activities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150080</guid>
+      <pubDate>Fri, 18 Jul 2025 12:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grafana Flaws Allow User Redirection and Code Execution in Dashboards</title>
+      <link>https://gbhackers.com/grafana-flaws/</link>
+      <description>Vulnerable Product: Grafana; CVE(s): CVE-2025-6023, CVE-2025-6197; Summary: Two critical vulnerabilities were discovered in Grafana's scripted dashboards and organization switching functionality. The first vulnerability is a high-severity cross-site scripting (XSS) flaw that can redirect users to malicious websites and execute arbitrary code, while the second is a medium-severity open redirect flaw that requires specific conditions for exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150097</guid>
+      <pubDate>Fri, 18 Jul 2025 12:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ubiquiti UniFi Vulnerability Lets Hackers Inject Malicious Commands</title>
+      <link>https://gbhackers.com/ubiquiti-unifi-vulnerability-2/</link>
+      <description>Vulnerable Product: Ubiquiti UniFi Access devices; CVE(s): CVE-2025-27212; Summary: The vulnerability allows malicious actors to inject and execute arbitrary commands on affected systems due to improper input validation within certain UniFi Access devices, carrying a maximum CVSS score of 9.8. It can be exploited by attackers with access to the UniFi Access management network, enabling them to bypass normal security controls and potentially gain unauthorized access to sensitive areas or systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150090</guid>
+      <pubDate>Fri, 18 Jul 2025 12:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Defender for Office 365 Gets Enhanced Threat Dashboard</title>
+      <link>https://gbhackers.com/microsoft-defender-threat-dashboard/</link>
+      <description>Microsoft has introduced a new customer-facing dashboard for its email security platform, providing detailed visibility into threat protection effectiveness across organizations. The enhanced dashboard and two comparative benchmarking reports aim to empower organizations with actionable data about their security posture and foster trust through transparency in threat protection capabilities. The initiative recognizes the importance of continuous evaluation of security solutions in today's sophisticated threat landscape.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150085</guid>
+      <pubDate>Fri, 18 Jul 2025 12:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign</title>
+      <link>https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html</link>
+      <description>This article reports on a phishing campaign that delivered a malware codenamed LAMEHUG, attributed with medium confidence to the Russian state-sponsored hacking group tracked asAPT28. The malware uses a large language model (LLM) to generate commands based on textual representation, and supports commands to harvest basic information about the compromised host and search for specific files.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html</guid>
+      <pubDate>Fri, 18 Jul 2025 11:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices</title>
       <link>https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html</link>
@@ -1431,50 +1473,6 @@ FYSA: The threat landscape surrounding Git repositories is expanding rapidly due
       <description>Vulnerable Product: Wing FTP Server; CVE(s): CVE-2025-47812; Summary: A vulnerability in Wing FTP Server allows for improper neutralization of null bytes or NUL characters, making it a frequent attack vector for malicious cyber actors. This poses significant risks to the federal enterprise and requires timely remediation to protect against active threats.</description>
       <guid isPermaLink="false">/node/23621</guid>
       <pubDate>Mon, 14 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Explains How to Find and Stop Processes Blocking Files in Windows</title>
-      <link>https://gbhackers.com/microsoft-explains-how-to-find-and-stop-processes-blocking-files/</link>
-      <description>This article provides guidance from Microsoft on resolving the "The process cannot access the file because it is being used by another process" error message in Windows. The solutions include using built-in tools like Resource Monitor, Process Explorer, as well as command-line utilities like openfiles and Handle. These options cater to users of all skill levels, providing both graphical and command-line interfaces for resolving common system issues independently.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148922</guid>
-      <pubDate>Mon, 14 Jul 2025 11:56:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>BitMart Breach, Naver Leak, qTox Exploit, and Credit Card Sales Detected on Dark Web</title>
-      <link>https://socradar.io/bitmart-breach-naver-leak-qtox-exploit/</link>
-      <description>Vulnerable Product: qTox; CVE(s): None; Summary: A 0-day exploit targeting qTox's secure messaging platform has been advertised for sale on a dark web forum, allowing Remote Code Execution (RCE), privilege escalation, API key theft, and manipulation of wallet addresses. The exploit is being sold for 10 BTC with video proof of functionality.
-
-FYSA: Threat actors remain highly active across dark web forums, with multiple alarming developments this week including the alleged breach of BitMart's backend infrastructure, a claimed database leak affecting Naver Corporation, and the sale of Canadian credit card data and a dataset containing over 54,000 card records from the U.S. and U.K.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061809</guid>
-      <pubDate>Mon, 14 Jul 2025 11:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Forensic Method Reveals Hidden Traces of RDP Exploits by Hackers</title>
-      <link>https://gbhackers.com/new-forensic-method-reveals-hidden-traces-of-rdp-exploits/</link>
-      <description>The article discusses advanced techniques for tracking attackers who use Remote Desktop Protocol (RDP) to move laterally through compromised networks. It highlights the ability to analyze RDP's bitmap caching mechanism to reveal forensic evidence of an attacker's activities, including their screen activity and copied passwords and sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148898</guid>
-      <pubDate>Mon, 14 Jul 2025 10:58:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weaponized Games: Threat Actors Target Gen Z Gamers Through Popular Titles</title>
-      <link>https://gbhackers.com/weaponized-games-threat-actors-target-gen-z-gamers/</link>
-      <description>Sophisticated threat actor activities targeting the digitally native Gen Z population have been discovered by Kaspersky security researchers. Threat actors are exploiting popular games, streaming services, and anime to disseminate malware and harvest sensitive data through phishing schemes and social engineering tactics. Additionally, compromised accounts from these platforms are being repurposed for further phishing propagation or sold on underground markets.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148879</guid>
-      <pubDate>Mon, 14 Jul 2025 10:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Weaponize Compiled HTML Help to Deliver Malicious Payload</title>
-      <link>https://gbhackers.com/hackers-weaponize-compiled-html-help/</link>
-      <description>Vulnerable Product: Microsoft Compiled HTML Help (CHM) files; CVE(s): None; Summary: Threat actors have exploited CHM files to distribute malware by disguising the file as a bank transfer receipt from Polish bank PKO. The file contains obfuscated JavaScript, an ActiveX control, and a C++ downloader that fetches a payload from a malicious domain.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148850</guid>
-      <pubDate>Mon, 14 Jul 2025 10:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behind the Clouds: Attackers Targeting Governments in Southeast Asia Implement Novel Covert C2 Communication</title>
-      <link>https://unit42.paloaltonetworks.com/windows-backdoor-for-novel-c2-communication/</link>
-      <description>A novel cluster of suspicious activity, tracked as CL-STA-1020, has been targeting governmental entities in Southeast Asia. The threat actors behind this campaign have developed a previously undocumented Windows backdoor, HazyBeacon, which leverages AWS Lambda URLs as command and control (C2) infrastructure to hide in plain sight.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=146273</guid>
-      <pubDate>Mon, 14 Jul 2025 10:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
