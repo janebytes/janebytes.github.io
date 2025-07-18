@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 17:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 18:01:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Snake Keylogger Bypasses Windows Defender and Uses Scheduled Tasks to Steal Credentials</title>
+      <link>https://gbhackers.com/snake-keylogger-bypasses-windows-defender/</link>
+      <description>A sophisticated phishing operation impersonates Turkish Aerospace Industries (TUSAŞ) to attack Turkish businesses in the defense and aerospace sectors. The campaign distributes malicious emails containing a PE32 executable that delivers a variant of the Snake Keylogger, an information-stealing malware designed to harvest sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150163</guid>
+      <pubDate>Fri, 18 Jul 2025 17:58:55 +0000</pubDate>
+    </item>
     <item>
       <title>New Phobos ransomware decryptor lets victims recover files for free</title>
       <link>https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/</link>
@@ -1466,13 +1473,6 @@ FYSA: The threat landscape surrounding Git repositories is expanding rapidly due
       <description>APT36 is a Pakistan-linked state-sponsored cyber-espionage group active since at least 2013. The group targets Indian government bodies, defense contractors, armed forces, diplomatic missions, and research institutions, using phishing, remote-access trojans, and deceptive infrastructure to conduct long-term intelligence-gathering operations. Despite lacking sophistication, APT36 is highly persistent and adaptive, leveraging new platforms and cloud services, and malvertising campaigns to remain effective across South Asia's geopolitical threat landscape.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061822</guid>
       <pubDate>Mon, 14 Jul 2025 14:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gigabyte UEFI Firmware Vulnerability Allows Code Execution in SMM Privileged Mode</title>
-      <link>https://gbhackers.com/gigabyte-uefi-firmware-vulnerability/</link>
-      <description>Vulnerable Product: Gigabyte motherboard; CVE(s): CVE-2023-XXXX (none listed); Summary: The firmware of multiple Gigabyte motherboard models contains vulnerabilities that allow attackers to execute arbitrary code in System Management Mode (SMM), enabling persistent malware installation, bootkit persistence, and system control even after OS reinstallation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148929</guid>
-      <pubDate>Mon, 14 Jul 2025 13:19:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
