@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 21:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 22:01:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Arch Linux pulls AUR packages that installed Chaos RAT malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/</link>
+      <description>Vulnerable Product: Arch User Repository (AUR); CVE(s): None; Summary: The AUR was compromised when a malicious user uploaded three packages containing the CHAOS remote access trojan (RAT). The packages were designed to install the malware on Linux devices, which can be used for cryptocurrency mining, credential harvesting, or cyber espionage.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/</guid>
+      <pubDate>Fri, 18 Jul 2025 21:12:39 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese Threat Actors Operate 2,800 Malicious Domains to Distribute Windows Malware</title>
       <link>https://gbhackers.com/chinese-threat-actors-operate-2800-malicious-domains/</link>
@@ -1466,13 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>The National Cyber Security Centre (NCSC) has released recommended configuration packs for Microsoft Windows operating systems to improve security settings, warning that the end-of-life (EOL) of Windows 10 is imminent on October 14, 2025. The article highlights the risks of unpatched vulnerabilities and emphasizes the importance of transitioning to Windows 11, which offers enhanced security features such as Trusted Platform Module (TPM) 2.0, Unified Extensible Firmware Interface (UEFI), and Secure Boot capabilities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=148948</guid>
       <pubDate>Tue, 15 Jul 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminals Clone CNN, BBC, and CNBC Sites to Lure Victims into Investment Fraud</title>
-      <link>https://gbhackers.com/cybercriminals-clone-cnn-bbc-and-cnbc-sites/</link>
-      <description>A sprawling cybercrime syndicate has been uncovered, orchestrating a large-scale phishing and investment fraud campaign by cloning legitimate news outlets. The operation uses domain spoofing, typosquatting, and social engineering tactics to target users in the United States and other countries, with over 17,000 baiting websites created across 50 countries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148933</guid>
-      <pubDate>Tue, 15 Jul 2025 08:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
