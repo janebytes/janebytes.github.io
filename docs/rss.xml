@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 20:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 21:01:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Chinese Threat Actors Operate 2,800 Malicious Domains to Distribute Windows Malware</title>
+      <link>https://gbhackers.com/chinese-threat-actors-operate-2800-malicious-domains/</link>
+      <description>A sophisticated threat actor, known as "SilverFox," has been conducting a large-scale malware distribution campaign since at least June 2023, targeting Chinese-speaking individuals and entities. The campaign employs various tactics such as fake application download sites, spurious update prompts, and phishing emails to deliver Windows-specific malware designed for credential theft, financial exploitation, and potential access brokering.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150153</guid>
+      <pubDate>Fri, 18 Jul 2025 20:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Veeam-Themed Phishing Attack Uses Weaponized WAV File to Target Users</title>
       <link>https://gbhackers.com/new-veeam-themed-phishing-attack/</link>
@@ -1466,13 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>A sprawling cybercrime syndicate has been uncovered, orchestrating a large-scale phishing and investment fraud campaign by cloning legitimate news outlets. The operation uses domain spoofing, typosquatting, and social engineering tactics to target users in the United States and other countries, with over 17,000 baiting websites created across 50 countries.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=148933</guid>
       <pubDate>Tue, 15 Jul 2025 08:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Government Organizations Targeted via AWS Lambda URL Endpoint Exploits</title>
-      <link>https://gbhackers.com/government-organizations-targeted/</link>
-      <description>The CL-STA-1020 threat cluster targets government agencies in Southeast Asia with a previously undocumented Windows backdoor, HazyBeacon, which exploits AWS Lambda URLs to establish a stealthy command-and-control (C2) infrastructure.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148939</guid>
-      <pubDate>Tue, 15 Jul 2025 07:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
