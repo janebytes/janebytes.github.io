@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 13:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 14:01:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New QR Code Attacks Through PDFs Bypass Detection and Steal Credentials</title>
+      <link>https://gbhackers.com/new-qr-code-attacks-through-pdfs/</link>
+      <description>The article discusses an ongoing phishing campaign called "Scanception" that uses QR code-based delivery mechanisms to distribute credential-harvesting URLs. The campaign involves targeted emails with PDF lures, social engineering tactics, and abuse of trusted services to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150095</guid>
+      <pubDate>Fri, 18 Jul 2025 13:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sophos Intercept X for Windows Flaws Enable Arbitrary Code Execution</title>
       <link>https://gbhackers.com/sophos-intercept-x-for-windows-flaws/</link>
@@ -1466,13 +1473,6 @@ FYSA: The threat landscape surrounding Git repositories is expanding rapidly due
       <description>Vulnerable Product: Open VSX, Visual Studio Code; CVE(s): None; Summary: A fake extension named "Solidity Language" was published on Open VSX, claiming to be a syntax highlighting tool for Ethereum smart contracts. In reality, it executed PowerShell scripts and installed remote access tools (Quasar RAT) and infostealers (PureLogs stealer). The extension was downloaded 54,000 times before being removed and inflated its install count by publishing an almost identical version under the name "solidity", which had nearly two million installs.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/</guid>
       <pubDate>Mon, 14 Jul 2025 12:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/14/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Wing FTP Server; CVE(s): CVE-2025-47812; Summary: A vulnerability in Wing FTP Server allows for improper neutralization of null bytes or NUL characters, making it a frequent attack vector for malicious cyber actors. This poses significant risks to the federal enterprise and requires timely remediation to protect against active threats.</description>
-      <guid isPermaLink="false">/node/23621</guid>
-      <pubDate>Mon, 14 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
