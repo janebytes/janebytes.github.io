@@ -6,8 +6,127 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 22:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 10:14:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Lenovo Protection Driver Flaw Enables Privilege Escalation and Code Execution</title>
+      <link>https://gbhackers.com/lenovo-protection-driver-flaw/</link>
+      <description>Vulnerable Product: Lenovo; CVE(s): CVE-2025-4657; Summary: Lenovo's protection driver software contains a buffer overflow vulnerability that allows local attackers to execute arbitrary code with elevated privileges, posing significant security risks. The flaw affects Lenovo PC Manager, Lenovo Browser, and Lenovo App Store versions prior to 5.1.110.4231, impacting millions of users worldwide.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150016</guid>
+      <pubDate>Fri, 18 Jul 2025 09:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI: GPT-5 is coming, "we'll see" if it creates a shockwave</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/</link>
+      <description>OpenAI's next AI model, GPT-5, is still in development and no release date has been announced. Additionally, the company is planning to upgrade its Operator tool and adding new features to its Image Gen model, including a built-in style feature on ChatGPT. There are also hints about an Operator-like tool being tested on ChatGPT ahead of GPT-5's launch.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/</guid>
+      <pubDate>Fri, 18 Jul 2025 09:47:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Uncovers Scattered Spider Tactics, Techniques, and Procedures in Recent Attacks</title>
+      <link>https://gbhackers.com/microsoft-uncovers-scattered-spider-tactics/</link>
+      <description>This article discusses the tactics and techniques used by a financially motivated cybercriminal group called Octo Tempest (Scattered Spider, Muddled Libra, UNC3944, or 0ktapus). The group uses advanced social engineering campaigns, phishing attacks, and exploitation of Azure Active Directory environments to gain initial access and pivot to cloud resources.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149967</guid>
+      <pubDate>Fri, 18 Jul 2025 09:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WAFFLED: New Technique Targets Web Application Firewall Weaknesses</title>
+      <link>https://gbhackers.com/waffled-new-technique-targets-web-application/</link>
+      <description>Vulnerable Product: Various WAF platforms (AWS WAF, Azure WAF, Google Cloud Armor, Cloudflare, and ModSecurity); CVE(s): None; Summary: The WAFFLED attack technique exploits parsing discrepancies in Web Application Firewalls (WAFs) to bypass security measures and compromise the security of millions of websites worldwide. The technique targets three content types (multipart/form-data, application/json, and application/xml) and affects five major WAF platforms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149970</guid>
+      <pubDate>Fri, 18 Jul 2025 09:37:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit GitHub Accounts to Host Payloads, Tools, and Amadey Malware Plugins</title>
+      <link>https://gbhackers.com/threat-actors-exploit-github-accounts/</link>
+      <description>This article discusses a Malware-as-a-Service (MaaS) operation that employed the Amadey botnet to distribute various payloads. The operation exploited fake GitHub accounts as open directories, bypassing web filtering mechanisms and simplifying distribution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149921</guid>
+      <pubDate>Fri, 18 Jul 2025 09:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Vodka Maker Beluga Struck by Ransomware Attack</title>
+      <link>https://gbhackers.com/beluga-ransomware-attack/</link>
+      <description>Novabev Group, the parent company of Beluga vodka, was hit by a sophisticated ransomware attack on July 14, 2025, causing temporary disruptions to its IT infrastructure and services. The company refused to pay any ransom demands and is working to restore normal operations with the help of external cybersecurity experts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149962</guid>
+      <pubDate>Fri, 18 Jul 2025 08:07:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Daemon Ex Plist’ Vulnerability Grants Root Access on macOS</title>
+      <link>https://gbhackers.com/daemon-ex-plist-vulnerability/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-27981; Summary: A newly discovered vulnerability in macOS allows attackers to escalate privileges from standard user to root access by exploiting a timing flaw in how the operating system handles daemon configuration files. The vulnerability requires no initial elevated permissions and can be exploited through simple XML modifications, giving attackers complete system control, including disabling System Integrity Protection (SIP), manipulating privacy databases, and installing persistent backdoors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149950</guid>
+      <pubDate>Fri, 18 Jul 2025 07:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Publishes 13 ICS Security Advisories on Critical Flaws</title>
+      <link>https://gbhackers.com/cisa-publishes-13-ics-security-advisories/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released thirteen Industrial Control Systems (ICS) security advisories highlighting critical vulnerabilities in operational technology networks across multiple sectors. The advisories warn of potential disruptions to essential infrastructure services, emphasizing the importance of immediate action to prevent exploitation by threat actors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149942</guid>
+      <pubDate>Fri, 18 Jul 2025 07:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Best XDR (Extended Detection And Response) Solutions 2025</title>
+      <link>https://gbhackers.com/best-xdr-solutions/</link>
+      <description>FYSA:
+
+The article presents an analysis of top 10 Extended Detection and Response (XDR) solutions in the market. The review highlights the strengths and approaches of each solution, including their ability to integrate with existing security stacks, detect advanced threats, and streamline incident response.
+
+The XDR solutions reviewed are:
+
+1. Google Chronicle Security Operations
+2. Exabeam Fusion XDR
+3. Fortinet FortiXDR
+4. Sophos XDR
+5. Mandiant Security Operations (part of Google Chronicle)
+6. Microsoft Azure Sentinel
+7. Palo Alto Networks XDR
+8. FireEye Helix XDR
+9. RSA NetWitness XDR
+10. CrowdStrike Falcon XDR
+
+The analysis notes that each solution has its unique strengths and weaknesses, making it essential for organizations to carefully evaluate their specific needs and requirements before selecting an XDR solution.
+
+Overall, the article provides valuable insights into the current state of XDR solutions in the market and highlights the importance of choosing a suitable solution to effectively detect and respond to advanced threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=126278</guid>
+      <pubDate>Fri, 18 Jul 2025 07:32:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signal App Clone Telemessage App Vulnerability Actively Exploited for Password Theft</title>
+      <link>https://gbhackers.com/signal-app-clone-vulnerability/</link>
+      <description>Vulnerable Product: TeleMessageTM SGNL; CVE(s): CVE-2025-48927; Summary: A critical vulnerability in TeleMessageTM SGNL's legacy configuration of Spring Boot Actuator allows threat actors to steal passwords and sensitive data by exploiting a publicly accessible diagnostic endpoint. The vulnerability affects certain deployments of the secure communications archiving system and has been actively exploited since at least May 5, 2025.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149907</guid>
+      <pubDate>Fri, 18 Jul 2025 06:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>BIND 9 Vulnerabilities Enable Cache Poisoning and Service Disruption</title>
+      <link>https://gbhackers.com/bind-9-vulnerabilities/</link>
+      <description>Vulnerable Product: Internet Systems Consortium (ISC) BIND 9; CVE(s): CVE-2025-40776, CVE-2025-40777; Summary: Two critical security vulnerabilities in BIND 9, one allowing cache poisoning attacks and the other causing assertion failures leading to service disruption. These flaws primarily impact DNS resolvers rather than authoritative servers, with potential for redirecting users to malicious websites or intercepting communications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149900</guid>
+      <pubDate>Fri, 18 Jul 2025 05:50:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai</title>
+      <link>https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/</link>
+      <description>Vulnerable Product: Paradox.ai; CVE(s): None; Summary: The personal information of millions of people who applied for jobs at McDonald's was exposed after researchers guessed the password ("123456") for Paradox.ai's account. The weak password allowed access to 64 million records, including applicants' names, email addresses, and phone numbers.
+
+FYSA: Threat actors exploited a Paradox.ai administrator in Vietnam's malware-infected device, stealing usernames and passwords for various internal and third-party services.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71668</guid>
+      <pubDate>Fri, 18 Jul 2025 01:23:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix Bleed 2 exploited weeks before PoCs as Citrix denied attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/</link>
+      <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-5777; Summary: A critical memory overread vulnerability, dubbed "CitrixBleed 2," allows attackers to send malformed POST requests and leak 127 bytes of memory. The flaw can be exploited to expose sensitive data, hijack sessions, and gain unauthorized access to internal resources.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/</guid>
+      <pubDate>Thu, 17 Jul 2025 23:37:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub abused to distribute payloads on behalf of malware-as-a-service</title>
+      <link>https://arstechnica.com/security/2025/07/malware-as-a-service-caught-using-github-to-distribute-its-payloads/</link>
+      <description>The article discusses a malicious activity campaign called Amadey, which is likely part of a larger Malware-as-a-Service (MaaS) operation. Threat actors behind Amadey are distributing various malware families from fake GitHub repositories onto infected hosts, suggesting they may be serving payloads for other individuals or groups.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/malware-as-a-service-caught-using-github-to-distribute-its-payloads/</guid>
+      <pubDate>Thu, 17 Jul 2025 22:16:09 +0000</pubDate>
+    </item>
     <item>
       <title>VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin</title>
       <link>https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/</link>
@@ -1358,104 +1477,6 @@ FYSA: Threat actors remain highly active across dark web forums, with multiple a
       <description>A transnational cybercrime syndicate, which targeted citizens of Australia and the United Kingdom with tech support scams, has been dismantled by the Central Bureau of Investigation (CBI) as part of Operation Chakra V. The syndicate, which masqueraded as technical support staff of reputed multinational companies like Microsoft, is estimated to have led to losses worth over £390,000 in the UK alone.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html</guid>
       <pubDate>Mon, 14 Jul 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok-4 Jailbroken Using Echo Chamber and Crescendo Exploit Combo</title>
-      <link>https://gbhackers.com/grok-4-jailbroken/</link>
-      <description>Vulnerable Product: Grok-4 (AI language model); CVE(s): None; Summary: Researchers successfully demonstrated a jailbreak attack against Grok-4 by combining the Echo Chamber and Crescendo exploit techniques. The attack bypasses safety mechanisms by manipulating the AI model's conversational context, achieving a 67% success rate in extracting harmful content prompts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148826</guid>
-      <pubDate>Mon, 14 Jul 2025 05:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>eSIM Vulnerability in Kigen's eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks</title>
-      <link>https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html</link>
-      <description>Vulnerable Product: Kigen eUICC card; CVE(s): None; Summary: The Kigen eUICC card has a vulnerability that allows an attacker to install non-verified, potentially malicious applets. Successful exploitation requires physical access to the target chip and publicly known keys. This could enable the extraction of the identity certificate, download arbitrary profiles from MNOs in cleartext, access MNO secrets, and tamper with profiles without being flagged by MNO.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html</guid>
-      <pubDate>Mon, 14 Jul 2025 05:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WinRAR 0‑Day Exploit Listed for $80K on Dark Web Forum</title>
-      <link>https://gbhackers.com/winrar-0%e2%80%91day-exploit-listed/</link>
-      <description>Vulnerable Product: WinRAR; CVE(s): None; Summary: A zero-day exploit targeting WinRAR has been discovered, affecting both latest and earlier versions of the software. The remote code execution vulnerability enables attackers to execute arbitrary code on target systems through specially crafted archive files, making it a significant concern for millions of users worldwide.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148821</guid>
-      <pubDate>Mon, 14 Jul 2025 05:06:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 KB5062554 update breaks emoji panel search feature</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/</link>
-      <description>Vulnerable Product: Windows 10; CVE(s): None; Summary: The search feature for the Windows 10 emoji panel is broken after installing the KB5062554 cumulative update, making it impossible to look up emojis by name or keyword.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/</guid>
-      <pubDate>Sun, 13 Jul 2025 18:15:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Gemini flaw hijacks email summaries for phishing</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/</link>
-      <description>Vulnerable Product: Google Gemini for Workspace; CVE(s): None; Summary: The vulnerability allows attackers to generate email summaries that appear legitimate but include malicious instructions or warnings directing users to phishing sites without using attachments or direct links. Attackers can hide the malicious instruction in the body text at the end of the message using HTML and CSS, which will not be rendered in Gmail.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/</guid>
-      <pubDate>Sun, 13 Jul 2025 14:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet FortiWeb Fabric Connector Flaw Enables Remote Code Execution</title>
-      <link>https://gbhackers.com/fortinet-fortiweb-fabric-connector-flaw/</link>
-      <description>Vulnerable Product: Fortinet FortiWeb Fabric Connector; CVE(s): CVE-2025-25257; Summary: A severe pre-authentication SQL injection vulnerability in FortiWeb's Fabric Connector allows unauthenticated attackers to execute unauthorized SQL commands and potentially achieve remote code execution. The vulnerability affects multiple versions of FortiWeb, including 7.6.0 through 7.6.3, 7.4.0 through 7.4.7, 7.2.0 through 7.2.10, and 7.0.0 through 7.0.10, with patches available in newer versions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148812</guid>
-      <pubDate>Sun, 13 Jul 2025 10:04:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>DPC Investigates TikTok Over Transfer of EU User Data to China</title>
-      <link>https://gbhackers.com/dpc-investigates-tiktok/</link>
-      <description>The Data Protection Commission (DPC) has launched an inquiry into TikTok Technology Limited regarding the transfer and storage of European Economic Area (EEA) users' personal data to servers in China, citing discrepancies in previous submissions and concerns about accountability and transparency under the General Data Protection Regulation (GDPR).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148712</guid>
-      <pubDate>Sat, 12 Jul 2025 23:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COMmander: Network-Based Tool for COM and RPC Exploitation</title>
-      <link>https://gbhackers.com/network-based-tool-for-com-and-rpc-exploitation/</link>
-      <description>This article introduces COMmander, a lightweight, C#-based utility designed to monitor Remote Procedure Call (RPC) and Component Object Model (COM) activities at a granular level. It captures low-level events from the Microsoft-Windows-RPC ETW provider, empowering defenders to uncover potential malicious behaviors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148745</guid>
-      <pubDate>Sat, 12 Jul 2025 22:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Bypass Meta’s Llama Firewall Using Prompt Injection Vulnerabilities</title>
-      <link>https://gbhackers.com/researchers-bypass-metas-llama-firewall/</link>
-      <description>Vulnerable Product: Meta's Llama Firewall; CVE(s): None; Summary: The Llama Firewall contains multiple vulnerabilities that allow attackers to bypass security measures and inject malicious prompts into language models. These vulnerabilities include multilingual and obfuscated injections, as well as Unicode-based invisible prompt injections. Exploitation details indicate that the firewall struggled to detect these types of attacks, allowing them to succeed in bypassing system safeguards.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148705</guid>
-      <pubDate>Sat, 12 Jul 2025 22:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs</title>
-      <link>https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html</link>
-      <description>Vulnerable Product: NVIDIA GPUs; CVE(s): None; Summary: A variant of RowHammer attacks, dubbed GPUHammer, has been demonstrated against NVIDIA's graphics processing units (GPUs), causing malicious users to tamper with other users' data by triggering bit flips in GPU memory. Enabling System-level Error Correction Codes (ECC) is advised as a defense against this type of attack.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html</guid>
-      <pubDate>Sat, 12 Jul 2025 17:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers are exploiting critical RCE flaw in Wing FTP Server</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/</link>
-      <description>Vulnerable Product: Wing FTP Server; CVE(s): CVE-2025-47812, CVE-2025-27889, CVE-2025-47811, CVE-2025-47813; Summary: The Wing FTP Server has a critical remote code execution vulnerability (CVE-2025-47812) that allows an unauthenticated attacker to execute code with the highest privileges on the system. Exploitation details include running multiple enumeration and reconnaissance commands followed by establishing persistence by creating new users, with the goal of achieving arbitrary code execution as root/SYSTEM.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/</guid>
-      <pubDate>Sat, 12 Jul 2025 14:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub</title>
-      <link>https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html</link>
-      <description>Vulnerable Product: Laravel; CVE(s): CVE-2018-15133, CVE-2024-55556; Summary: The vulnerability allows attackers to gain remote code execution capabilities by exploiting a deserialization flaw in Laravel's APP_KEY, which is often leaked publicly. This can be achieved by invoking the decrypt() function with a maliciously crafted payload.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html</guid>
-      <pubDate>Sat, 12 Jul 2025 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-591: Delta Electronics DTM Soft BIN File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-591/</link>
-      <description>Vulnerable Product: Delta Electronics DTM Soft; CVE(s): CVE-2025-53415; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics DTM Soft. User interaction is required, and the specific flaw exists within the parsing of BIN files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26161</guid>
-      <pubDate>Fri, 11 Jul 2025 21:01:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Windows 11 build adds self-healing “quick machine recovery” feature</title>
-      <link>https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/</link>
-      <description>This article discusses upcoming changes to Windows Insider preview build 27898, including new Taskbar features and updates to speech-to-text voice access. The release of Windows 11 25H2 is anticipated to be a minor update with no major under-the-hood changes, instead focusing on enabling previously installed features.</description>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/</guid>
-      <pubDate>Fri, 11 Jul 2025 20:56:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
