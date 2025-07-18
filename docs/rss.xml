@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 10:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 11:01:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Exploit Ivanti Connect Secure Flaws to Deploy Cobalt Strike Beacon</title>
+      <link>https://gbhackers.com/threat-actors-exploit-ivanti-connect-secure-flaws/</link>
+      <description>Vulnerable Product: Ivanti Connect Secure; CVE(s): CVE-2025-0282, CVE-2025-22457; Summary: Threat actors are exploiting vulnerabilities in Ivanti Connect Secure to deploy advanced malware, including MDifyLoader and Cobalt Strike Beacon. The attacks use DLL hijacking and side-loading to inject malware into memory, and employ obfuscation and encryption to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150041</guid>
+      <pubDate>Fri, 18 Jul 2025 11:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit ClickFix Tactics to Spread NetSupport RAT, Latrodectus, and Lumma Stealer</title>
+      <link>https://gbhackers.com/hackers-exploit-clickfix-tactics/</link>
+      <description>Attackers are using the ClickFix social engineering technique to distribute malware families like NetSupport RAT, Latrodectus, and Lumma Stealer. This technique tricks users into executing malicious commands by hijacking their clipboard and injecting obfuscated PowerShell scripts or commands that victims unwittingly paste into system interfaces.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149986</guid>
+      <pubDate>Fri, 18 Jul 2025 10:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lenovo Protection Driver Flaw Enables Privilege Escalation and Code Execution</title>
       <link>https://gbhackers.com/lenovo-protection-driver-flaw/</link>
@@ -1463,20 +1477,6 @@ FYSA: Threat actors remain highly active across dark web forums, with multiple a
 (Note: There is no specific vulnerability mentioned in the article, only general descriptions of various cyber attacks and their characteristics.)</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=148842</guid>
       <pubDate>Mon, 14 Jul 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KongTuke Campaign Deploys Modified Interlock RAT Using FileFix Method Against Windows Environments</title>
-      <link>https://gbhackers.com/kongtuke-campaign-deploys-modified-interlock-rat/</link>
-      <description>This article discusses a PHP-based remote access trojan (RAT) variant of the Interlock ransomware group's remote access trojan (RAT), which exploits compromised websites to deliver malicious payloads. The RAT demonstrates advanced execution techniques, including automated discovery and reconnaissance capabilities, and supports versatile execution capabilities such as downloading and running EXE or DLL files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148834</guid>
-      <pubDate>Mon, 14 Jul 2025 08:31:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center</title>
-      <link>https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html</link>
-      <description>A transnational cybercrime syndicate, which targeted citizens of Australia and the United Kingdom with tech support scams, has been dismantled by the Central Bureau of Investigation (CBI) as part of Operation Chakra V. The syndicate, which masqueraded as technical support staff of reputed multinational companies like Microsoft, is estimated to have led to losses worth over £390,000 in the UK alone.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html</guid>
-      <pubDate>Mon, 14 Jul 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
