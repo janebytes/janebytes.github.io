@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 18:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 19:02:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New ChatGPT o3-alpha model hints at coding upgrade</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/</link>
+      <description>Vulnerable Product: None; FYSA: The article mentions OpenAI's o3-alpha model, which features significant coding-related improvements and is capable of designing web pages and creating simple web games. It also hints at the upcoming GPT-5 model, which is expected to unify breakthroughs from different models.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/</guid>
+      <pubDate>Fri, 18 Jul 2025 19:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Surge of Crypto-Jacking Hits Over 3,500 Websites</title>
+      <link>https://gbhackers.com/new-surge-of-crypto-jacking/</link>
+      <description>The article describes a campaign that infected over 3,500 websites with JavaScript miners, using advanced obfuscation and low-profile execution to evade detection. The miners employ Web Workers to execute mining logic off the main thread, minimizing performance impacts and avoiding traditional red flags like excessive CPU usage or overt network activity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150120</guid>
+      <pubDate>Fri, 18 Jul 2025 18:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fancy Bear Hackers Target Governments and Military Entities with Advanced Tools</title>
+      <link>https://gbhackers.com/fancy-bear-hackers-target-governments-and-military-entities/</link>
+      <description>The article discusses Fancy Bear, a sophisticated Russian cyberespionage collective that has been operational since 2007. They exploit vulnerabilities in office suites, operating systems, and web applications to gain access to targeted organizations. Their tactics include phishing, spearphishing, exploitation of public-facing applications, and command execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150128</guid>
+      <pubDate>Fri, 18 Jul 2025 18:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian alcohol retailer WineLab closes stores after ransomware attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/</link>
+      <description>WineLab, a retail store of the largest alcohol company in Russia, has closed its stores following a cyberattack that is impacting its operations and causing purchase problems to its customers. The attackers requested a ransom payment, but the company declined to engage and won't comply with their demands.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/</guid>
+      <pubDate>Fri, 18 Jul 2025 18:20:10 +0000</pubDate>
+    </item>
     <item>
       <title>Snake Keylogger Bypasses Windows Defender and Uses Scheduled Tasks to Steal Credentials</title>
       <link>https://gbhackers.com/snake-keylogger-bypasses-windows-defender/</link>
@@ -70,6 +98,13 @@
       <description>Microsoft has introduced a new customer-facing dashboard for its email security platform, providing detailed visibility into threat protection effectiveness across organizations. The enhanced dashboard and two comparative benchmarking reports aim to empower organizations with actionable data about their security posture and foster trust through transparency in threat protection capabilities. The initiative recognizes the importance of continuous evaluation of security solutions in today's sophisticated threat landscape.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150085</guid>
       <pubDate>Fri, 18 Jul 2025 12:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/18/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: The vulnerability, an SQL injection flaw, has been added to the Known Exploited Vulnerabilities (KEV) Catalog due to active exploitation. It poses significant risks to the federal enterprise and requires timely remediation to protect against cyber threats.</description>
+      <guid isPermaLink="false">/node/23639</guid>
+      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign</title>
@@ -1436,43 +1471,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>The Interlock ransomware gang has adopted a new technique called "FileFix" to drop a remote access trojan (RAT) on targeted systems. FileFix is a social engineering attack that weaponizes trusted Windows UI elements to trick users into executing malicious PowerShell or JavaScript code without displaying any security warnings.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/</guid>
       <pubDate>Mon, 14 Jul 2025 18:36:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks</title>
-      <link>https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/</link>
-      <description>Vulnerable Product: NVIDIA GPUs (A6000 and other GDDR6-based GPUs in Nvidia’s Ampere generation); CVE(s): None; Summary: The article discusses a vulnerability known as GPUhammer, which exploits Rowhammer bit flips to flip bits inside discrete GPUs and target GDDR6 GPU memory modules. The vulnerability is mitigated by ECC, but using ECC can also cause miscorrections and silent data corruption if three or more bit flips occur in a code word.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/</guid>
-      <pubDate>Mon, 14 Jul 2025 18:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Unusual Suspect: Git Repos</title>
-      <link>https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html</link>
-      <description>Vulnerable Product: Multiple; CVE(s): None; Summary: Exposed Git repositories are a critical risk for most enterprises, allowing attackers to silently create shadow access into core systems. This is not just about poor hygiene, but a systemic and growing supply chain risk. Attackers can weaponize exposed code repositories by harvesting secrets, pivoting to compromised infrastructure, and exploiting internal systems.
-
-FYSA: The threat landscape surrounding Git repositories is expanding rapidly due to the growing complexity of DevOps practices, widespread reliance on public version control platforms like GitHub, and human error. Attackers can use exposed credentials and secrets to gain initial access into cloud environments, databases, SaaS platforms, and more.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html</guid>
-      <pubDate>Mon, 14 Jul 2025 17:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries</title>
-      <link>https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html</link>
-      <description>The article discusses a new PHP variant of the Interlock remote access trojan (RAT) used by the Interlock ransomware group. The campaign involves compromised websites injecting JavaScript code that redirects users to fake CAPTCHA verification pages, leading to the deployment of NodeSnake or PHP variants of the RAT.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html</guid>
-      <pubDate>Mon, 14 Jul 2025 16:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gigabyte motherboards vulnerable to UEFI malware bypassing Secure Boot</title>
-      <link>https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/</link>
-      <description>Vulnerable Product: Gigabyte motherboard models; CVE(s): CVE-2025-7029, CVE-2025-7028, CVE-2025-7027, CVE-2025-7026; Summary: Dozens of Gigabyte motherboard models run on UEFI firmware vulnerable to security issues that allow planting bootkit malware that is invisible to the operating system and can survive reinstalls. The vulnerabilities could allow attackers with local or remote admin permissions to execute arbitrary code in System Management Mode (SMM), an environment isolated from the operating system and with more privileges on the machine.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/</guid>
-      <pubDate>Mon, 14 Jul 2025 16:30:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: APT36</title>
-      <link>https://socradar.io/dark-web-profile-apt36/</link>
-      <description>APT36 is a Pakistan-linked state-sponsored cyber-espionage group active since at least 2013. The group targets Indian government bodies, defense contractors, armed forces, diplomatic missions, and research institutions, using phishing, remote-access trojans, and deceptive infrastructure to conduct long-term intelligence-gathering operations. Despite lacking sophistication, APT36 is highly persistent and adaptive, leveraging new platforms and cloud services, and malvertising campaigns to remain effective across South Asia's geopolitical threat landscape.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061822</guid>
-      <pubDate>Mon, 14 Jul 2025 14:05:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
