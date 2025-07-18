@@ -6,8 +6,45 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 19:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 20:05:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Veeam-Themed Phishing Attack Uses Weaponized WAV File to Target Users</title>
+      <link>https://gbhackers.com/new-veeam-themed-phishing-attack/</link>
+      <description>Cybercriminals are using voicemail notifications to distribute malware by impersonating Veeam Software. The attack begins with an email containing a WAV file that, upon playback, reveals a scripted call attempting to create urgency around license expiration. The real danger lies in the weaponized nature of the WAV file itself, which can be embedded with malicious code exploiting vulnerabilities in media players or audio processing libraries.
+
+(Note: Since there is no specific vulnerability mentioned, I've summarized the article as a non-vulnerability related cybersecurity content)</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150136</guid>
+      <pubDate>Fri, 18 Jul 2025 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK ties GRU to stealthy Microsoft 365 credential-stealing malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/</link>
+      <description>The Authentic Antics espionage malware attacks are attributed to APT28 (Fancy Bear), a threat actor linked to Russia's military intelligence service (GRU). The malware steals credentials and OAuth 2.0 tokens, allowing access to victim email accounts, and sends stolen data to an attacker-controlled email address using the victim's own Outlook account.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/</guid>
+      <pubDate>Fri, 18 Jul 2025 19:39:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft mistakenly tags Windows Firewall error log bug as fixed</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: A bug in the Windows Firewall With Advanced Security logs an error message as event ID 2042 every time the device is restarted, but Microsoft states it's not an issue with the Windows Firewall and can be disregarded. The bug was mistakenly marked as fixed in recent updates, and a fix will be released in an upcoming update.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/</guid>
+      <pubDate>Fri, 18 Jul 2025 19:34:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumma Infostealer Steals Browser Data and Sells It as Logs on Underground Markets</title>
+      <link>https://gbhackers.com/lumma-infostealer-steals-browser-data/</link>
+      <description>This article discusses infostealers, specifically the Lumma malware variant, which steals sensitive data from compromised systems. It spreads through phishing operations, social engineering tactics, and malvertising, and is attributed to the Russian-based threat actor Shamel. The malware's ecosystem has been disrupted by a coordinated international effort, but new C2 servers have reemerged, indicating ongoing threat persistence.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150143</guid>
+      <pubDate>Fri, 18 Jul 2025 19:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishers have found a way to downgrade—not bypass—FIDO MFA</title>
+      <link>https://arstechnica.com/security/2025/07/no-phishers-are-not-bypassing-fido-mfa-at-least-not-yet-heres-why/</link>
+      <description>An attacker downgraded FIDO MFA to a weaker form of authentication. The attack is classified as a FIDO downgrade attack, not a bypass, and requires intentional configuration by an admin to fall back to the weaker method.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/no-phishers-are-not-bypassing-fido-mfa-at-least-not-yet-heres-why/</guid>
+      <pubDate>Fri, 18 Jul 2025 19:07:21 +0000</pubDate>
+    </item>
     <item>
       <title>New ChatGPT o3-alpha model hints at coding upgrade</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/</link>
@@ -23,6 +60,13 @@
       <pubDate>Fri, 18 Jul 2025 18:52:00 +0000</pubDate>
     </item>
     <item>
+      <title>China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones</title>
+      <link>https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html</link>
+      <description>Massistant is a mobile forensics tool used by law enforcement authorities in China to gather information from seized mobile devices. It requires physical access to the device and can collect data such as GPS location, SMS messages, images, audio, contacts, and phone services.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html</guid>
+      <pubDate>Fri, 18 Jul 2025 18:42:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Fancy Bear Hackers Target Governments and Military Entities with Advanced Tools</title>
       <link>https://gbhackers.com/fancy-bear-hackers-target-governments-and-military-entities/</link>
       <description>The article discusses Fancy Bear, a sophisticated Russian cyberespionage collective that has been operational since 2007. They exploit vulnerabilities in office suites, operating systems, and web applications to gain access to targeted organizations. Their tactics include phishing, spearphishing, exploitation of public-facing applications, and command execution.</description>
@@ -30,11 +74,25 @@
       <pubDate>Fri, 18 Jul 2025 18:25:00 +0000</pubDate>
     </item>
     <item>
+      <title>UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns</title>
+      <link>https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html</link>
+      <description>The article describes a threat activity cluster tracked as UNG0002 (Unknown Group 0002), which has been targeting multiple sectors in China, Hong Kong, and Pakistan. The group uses shortcut files, VBScript, and post-exploitation tools like Cobalt Strike and Metasploit to launch cyber espionage campaigns.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html</guid>
+      <pubDate>Fri, 18 Jul 2025 18:23:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Russian alcohol retailer WineLab closes stores after ransomware attack</title>
       <link>https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/</link>
       <description>WineLab, a retail store of the largest alcohol company in Russia, has closed its stores following a cyberattack that is impacting its operations and causing purchase problems to its customers. The attackers requested a ransom payment, but the company declined to engage and won't comply with their demands.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/</guid>
       <pubDate>Fri, 18 Jul 2025 18:20:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks</title>
+      <link>https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html</link>
+      <description>Vulnerable Product: Ivanti Connect Secure (ICS) appliances; CVE(s): CVE-2025-0282, CVE-2025-22457; Summary: The vulnerabilities in ICS appliances have been weaponized to drop MDifyLoader, which is used to launch Cobalt Strike in memory. The attacks exploit a critical security flaw (CVE-2025-0282) and a stack-based buffer overflow (CVE-2025-22457) that were previously patched by Ivanti in January 2025 and April 2025, respectively.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html</guid>
+      <pubDate>Fri, 18 Jul 2025 18:13:00 +0000</pubDate>
     </item>
     <item>
       <title>Snake Keylogger Bypasses Windows Defender and Uses Scheduled Tasks to Steal Credentials</title>
@@ -1415,62 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>The CL-STA-1020 threat cluster targets government agencies in Southeast Asia with a previously undocumented Windows backdoor, HazyBeacon, which exploits AWS Lambda URLs to establish a stealthy command-and-control (C2) infrastructure.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=148939</guid>
       <pubDate>Tue, 15 Jul 2025 07:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoC Released for High-Severity Git CLI Vulnerability Allowing Arbitrary File Writes</title>
-      <link>https://gbhackers.com/poc-released-for-high-severity-git-cli-vulnerability/</link>
-      <description>Vulnerable Product: Git; CVE(s): CVE-2025-48384; Summary: A critical vulnerability in Git's command-line interface allows arbitrary file writes and remote code execution on Linux and macOS systems. The vulnerability stems from a mismatch in Git's configuration parser behavior when processing control characters, enabling attackers to write malicious Git Hook scripts and achieve remote code execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149043</guid>
-      <pubDate>Tue, 15 Jul 2025 07:39:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>CBI Uncovers Noida Tech Support Scam Targeting Victims in UK and Australia</title>
-      <link>https://gbhackers.com/cbi-uncovers-noida-tech-support-scam/</link>
-      <description>The Central Bureau of Investigation (CBI) has taken down a sophisticated global cybercrime network that targeted people in Australia and the United Kingdom with tech support frauds. The syndicate used social engineering tactics, VoIP systems, proxy servers, and anonymized networks to evade detection. The CBI's operation, called Chakra-V, highlights the evolving landscape of cyber-enabled fraud and emphasizes the importance of international cooperation in combating cyber threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148902</guid>
-      <pubDate>Tue, 15 Jul 2025 07:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ImageMagick Vulnerability Enables RCE via Malicious File Name Patterns</title>
-      <link>https://gbhackers.com/imagemagick-vulnerability/</link>
-      <description>Vulnerable Product: ImageMagick; CVE(s): CVE-2025-53101; Summary: A critical remote code execution (RCE) vulnerability in ImageMagick's image processing library allows attackers to bypass stack buffer underwrite through carefully crafted filename templates. The flaw affects versions before 7.1.1-47 and 6.9.13-25, and has been addressed in versions 7.1.2-0 and 6.9.13-26.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149039</guid>
-      <pubDate>Tue, 15 Jul 2025 07:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign</title>
-      <link>https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html</link>
-      <description>The North Korean threat actors linked to the Contagious Interview campaign have been publishing malicious packages on the npm registry, using software supply chain attacks to target developers. The packages, which include a previously undocumented malware loader codenamed XORIndex, have attracted over 17,000 downloads and incorporate known JavaScript loaders and stealers called BeaverTail, which is used to extract data from web browsers and cryptocurrency wallets, as well as deploy a Python backdoor referred to as InvisibleFerret.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html</guid>
-      <pubDate>Tue, 15 Jul 2025 07:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red Bull-Themed Phishing Attacks Target Job Seekers’ Credentials</title>
-      <link>https://gbhackers.com/red-bull-themed-phishing-attacks/</link>
-      <description>This article discusses a phishing campaign targeting job seekers with spoofed Red Bull recruitment emails. The attackers leverage legitimate email services, transient VPS infrastructure, and brand impersonation to deliver malicious payloads that slip past SPF, DKIM, and DMARC checks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148911</guid>
-      <pubDate>Tue, 15 Jul 2025 06:58:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOGE Denizen Marko Elez Leaked API Key for xAI</title>
-      <link>https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/</link>
-      <description>A DOGE employee, Marko Elez, inadvertently published a private API key for xAI's large language models on GitHub, allowing access to at least 52 LLMs. The exposed key has not been revoked and is still functional, raising concerns about operational security and the handling of sensitive government information.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71676</guid>
-      <pubDate>Tue, 15 Jul 2025 01:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK launches vulnerability research program for external experts</title>
-      <link>https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/</link>
-      <description>The UK's National Cyber Security Centre (NCSC) has launched a new Vulnerability Research Initiative (VRI) to strengthen relations with external cybersecurity experts, aiming to improve the discovery and sharing of critical insights with the community. This initiative will involve partnering with skilled external vulnerability researchers to identify flaws in specific products, assess mitigations, and disclose findings through the 'Equities Process' procedure.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/</guid>
-      <pubDate>Mon, 14 Jul 2025 20:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interlock ransomware adopts FileFix method to deliver malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/</link>
-      <description>The Interlock ransomware gang has adopted a new technique called "FileFix" to drop a remote access trojan (RAT) on targeted systems. FileFix is a social engineering attack that weaponizes trusted Windows UI elements to trick users into executing malicious PowerShell or JavaScript code without displaying any security warnings.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/</guid>
-      <pubDate>Mon, 14 Jul 2025 18:36:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
