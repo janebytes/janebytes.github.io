@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 11:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 12:03:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices</title>
+      <link>https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html</link>
+      <description>This article does not discuss a vulnerability. Instead, it reports on Google's legal action against 25 unnamed individuals or entities in China for allegedly operating the BADBOX 2.0 botnet and residential proxy infrastructure, which compromises over 10 million Android devices running open-source software. The botnet is used to conduct large-scale ad fraud and other digital crimes.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html</guid>
+      <pubDate>Fri, 18 Jul 2025 11:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Exploit Ivanti Connect Secure Flaws to Deploy Cobalt Strike Beacon</title>
       <link>https://gbhackers.com/threat-actors-exploit-ivanti-connect-secure-flaws/</link>
       <description>Vulnerable Product: Ivanti Connect Secure; CVE(s): CVE-2025-0282, CVE-2025-22457; Summary: Threat actors are exploiting vulnerabilities in Ivanti Connect Secure to deploy advanced malware, including MDifyLoader and Cobalt Strike Beacon. The attacks use DLL hijacking and side-loading to inject malware into memory, and employ obfuscation and encryption to evade detection.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150041</guid>
       <pubDate>Fri, 18 Jul 2025 11:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services</title>
+      <link>https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html</link>
+      <description>Vulnerable Product: NVIDIA Container Toolkit; CVE(s): CVE-2025-23266; Summary: The NVIDIA Container Toolkit contains a critical container escape vulnerability tracked as CVE-2025-23266, which carries a CVSS score of 9.0 out of 10.0. An attacker could execute arbitrary code with elevated permissions, potentially leading to escalation of privileges, data tampering, information disclosure, and denial-of-service. The vulnerability affects all versions up to and including 1.17.7 and has been addressed in versions 1.17.8 and later.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html</guid>
+      <pubDate>Fri, 18 Jul 2025 10:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware</title>
+      <link>https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html</link>
+      <description>The article discusses the importance of maintaining operations during an incident, especially in light of escalating IT outages and ransomware attacks. It highlights the limitations of traditional backup strategies, which often rely on manual testing and may not account for targeted cyberattacks that aim to destroy recovery infrastructure. The article emphasizes the need for a "resilience-first" approach, which integrates immutable backups, automated testing, and orchestrated recovery playbooks to ensure business continuity even during an attack.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html</guid>
+      <pubDate>Fri, 18 Jul 2025 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Exploit ClickFix Tactics to Spread NetSupport RAT, Latrodectus, and Lumma Stealer</title>
@@ -1454,29 +1475,6 @@ FYSA: Threat actors remain highly active across dark web forums, with multiple a
       <description>A novel cluster of suspicious activity, tracked as CL-STA-1020, has been targeting governmental entities in Southeast Asia. The threat actors behind this campaign have developed a previously undocumented Windows backdoor, HazyBeacon, which leverages AWS Lambda URLs as command and control (C2) infrastructure to hide in plain sight.</description>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=146273</guid>
       <pubDate>Mon, 14 Jul 2025 10:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Louis Vuitton Suffers Data Breach—Customer Information Stolen</title>
-      <link>https://gbhackers.com/louis-vuitton-suffers-data-breach/</link>
-      <description>The article reports on a cyber-attack targeting Louis Vuitton's UK operations, resulting in unauthorized access to customer data. This incident is part of a broader trend of retail breaches affecting major brands, including Marks &amp; Spencer, the Co-op, and Harrods. Four arrests were made in connection with these attacks, highlighting the growing threat posed by cyber-criminals to retail operations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148882</guid>
-      <pubDate>Mon, 14 Jul 2025 09:53:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>RenderShock 0-Click Exploit Executes Payloads Silently via Background Process</title>
-      <link>https://gbhackers.com/rendershock-0-click-exploit/</link>
-      <description>The article discusses a new class of cyberattack called RenderShock that can compromise enterprise systems without requiring user interaction. It exploits passive execution surfaces such as file preview panes, document indexing services, antivirus scanners, and cloud synchronization tools that automatically process files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148870</guid>
-      <pubDate>Mon, 14 Jul 2025 09:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threats Actors Use Sophisticated Hacking Tools to Destroy Organizations Critical Infrastructure</title>
-      <link>https://gbhackers.com/threats-actors-use-sophisticated-hacking-tools/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: This article discusses the use of sophisticated cyber weapons by threat actors to breach and destroy vital infrastructure. It highlights various attacks, including Stuxnet, NotPetya, and others, that demonstrate the evolving nature of cyber warfare, its potential for widespread harm, and the need for proactive measures to mitigate risks.
-
-(Note: There is no specific vulnerability mentioned in the article, only general descriptions of various cyber attacks and their characteristics.)</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148842</guid>
-      <pubDate>Mon, 14 Jul 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
