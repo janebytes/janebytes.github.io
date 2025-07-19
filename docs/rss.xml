@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jul 2025 12:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 13:02:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Popular npm linter packages hijacked via phishing to drop malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/</link>
+      <description>Vulnerable Product: npm package eslint-config-prettier; CVE(s): None; Summary: The npm package eslint-config-prettier was compromised after its maintainer fell victim to a phishing attack, allowing the attacker to publish malicious versions of the package that can infect Windows machines. The affected versions are 8.10.1, 9.1.1, 10.1.6, and 10.1.7.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/</guid>
+      <pubDate>Sat, 19 Jul 2025 12:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/</link>
+      <description>The article discusses the upcoming release of OpenAI's GPT-5 model, which may unify breakthroughs from previous models. Additionally, leaks suggest that a new "o3-alpha" model may be released, featuring improved coding and frontend design capabilities. There is no mention of vulnerabilities or cybersecurity threats in this article.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/</guid>
+      <pubDate>Sat, 19 Jul 2025 12:07:22 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI, Anthropic, Google may disrupt education market with new AI tools</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/</link>
@@ -1459,20 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by exploiting memory corruption in the parsing of RFA files. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
       <guid isPermaLink="false">ZDI-CAN-26922</guid>
       <pubDate>Tue, 15 Jul 2025 10:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>British Citizen Sentenced for Islamophobic WiFi Hack at UK Train Stations</title>
-      <link>https://gbhackers.com/british-citizen-sentenced-for-islamophobic-wifi-hack/</link>
-      <description>The article reports on a 37-year-old individual, John Andreas Wik, who was sentenced to 24 months in prison, suspended for two years, for orchestrating an Islamophobic hack of free WiFi landing pages at multiple train stations across Britain. The hack caused distress and fear among commuters, highlighting the misuse of digital infrastructure to spread hateful content.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149085</guid>
-      <pubDate>Tue, 15 Jul 2025 09:54:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>MITRE Launches AADAPT Framework to Counter Real-World Attacks on Digital Asset Systems</title>
-      <link>https://gbhackers.com/mitre-launches-aadapt-framework/</link>
-      <description>The MITRE Corporation has released its AADAPT framework, a comprehensive knowledge base for understanding and countering sophisticated attacks targeting digital asset management systems, cryptocurrency exchanges, and blockchain infrastructure. The framework organizes threat intelligence into a twelve-tactic matrix covering the attack lifecycle, including techniques such as Channel Wormholing, Quantum Efficient Factorization, Chain Reorganization attacks, and Partial Payments Attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149075</guid>
-      <pubDate>Tue, 15 Jul 2025 09:46:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
