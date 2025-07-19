@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jul 2025 17:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 18:01:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/</link>
+      <description>The PoisonSeed threat actors are bypassing FIDO2 security key protections by abusing the cross-device sign-in feature in WebAuthn to trick users into approving login authentication requests from fake company portals. This attack does not exploit a flaw in FIDO2's implementation but rather uses a legitimate feature that downgrades the FIDO key authentication process. The threat actors can initiate a login flow that relies on cross-device authentication instead of the user's physical FIDO2 key, effectively bypassing security key protections.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/</guid>
+      <pubDate>Sat, 19 Jul 2025 17:41:49 +0000</pubDate>
+    </item>
     <item>
       <title>Popular npm linter packages hijacked via phishing to drop malware</title>
       <link>https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/</link>
@@ -1466,13 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5040; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit, requiring user interaction to exploit. The flaw exists in the parsing of RTE files due to lack of proper validation of user-supplied data prior to copying it to a fixed-length heap-based buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26917</guid>
       <pubDate>Tue, 15 Jul 2025 10:09:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-597: Autodesk Revit RFA File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-597/</link>
-      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by exploiting memory corruption in the parsing of RFA files. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26922</guid>
-      <pubDate>Tue, 15 Jul 2025 10:09:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
