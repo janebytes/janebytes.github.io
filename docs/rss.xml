@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 22:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 10:01:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>OpenAI, Anthropic, Google may disrupt education market with new AI tools</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/</link>
+      <description>AI companies like OpenAI and Anthropic are developing new AI-based learning tools for students, such as Study Together features that guide the learning process. Google is also testing a similar feature called Guided Learning for Gemini. These tools aim to aid in student learning and potentially disrupt the online education market.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/</guid>
+      <pubDate>Sat, 19 Jul 2025 06:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>New CrushFTP zero-day exploited in attacks to hijack servers</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/</link>
+      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: A zero-day vulnerability tracked as CVE-2025-54309 allows attackers to gain administrative access via the web interface on vulnerable servers. The vulnerability affects versions prior to CrushFTP v10.8.5 and v11.3.4_23, which were released around July 1st.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/</guid>
+      <pubDate>Fri, 18 Jul 2025 22:24:29 +0000</pubDate>
+    </item>
     <item>
       <title>Arch Linux pulls AUR packages that installed Chaos RAT malware</title>
       <link>https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/</link>
@@ -1459,20 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>The MITRE Corporation has released its AADAPT framework, a comprehensive knowledge base for understanding and countering sophisticated attacks targeting digital asset management systems, cryptocurrency exchanges, and blockchain infrastructure. The framework organizes threat intelligence into a twelve-tactic matrix covering the attack lifecycle, including techniques such as Channel Wormholing, Quantum Efficient Factorization, Chain Reorganization attacks, and Partial Payments Attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149075</guid>
       <pubDate>Tue, 15 Jul 2025 09:46:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apache Tomcat Coyote Flaw Allows Attackers to Launch DoS Attacks</title>
-      <link>https://gbhackers.com/apache-tomcat-coyote-flaw/</link>
-      <description>Vulnerable Product: Apache Tomcat; CVE(s): None; Summary: The Tomcat Coyote module contains a vulnerability that allows malicious actors to orchestrate denial-of-service (DoS) attacks by manipulating stream concurrency limits in HTTP/2 protocol handling. This uncontrolled resource consumption issue can exhaust server threads, memory, or CPU resources, rendering the server unresponsive to legitimate requests.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148956</guid>
-      <pubDate>Tue, 15 Jul 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCC Advises Immediate Windows 11 Upgrade to Strengthen Cyberattack Defenses</title>
-      <link>https://gbhackers.com/ncc-advises-immediate-windows-11-upgrade/</link>
-      <description>The National Cyber Security Centre (NCSC) has released recommended configuration packs for Microsoft Windows operating systems to improve security settings, warning that the end-of-life (EOL) of Windows 10 is imminent on October 14, 2025. The article highlights the risks of unpatched vulnerabilities and emphasizes the importance of transitioning to Windows 11, which offers enhanced security features such as Trusted Platform Module (TPM) 2.0, Unified Extensible Firmware Interface (UEFI), and Secure Boot capabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148948</guid>
-      <pubDate>Tue, 15 Jul 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
