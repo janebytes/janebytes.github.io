@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jul 2025 21:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 22:02:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack</title>
@@ -165,6 +165,13 @@
       <pubDate>Fri, 18 Jul 2025 15:06:05 +0000</pubDate>
     </item>
     <item>
+      <title>Deep Web vs Dark Web: What’s the Real Difference?</title>
+      <link>https://socradar.io/deep-web-vs-dark-web-difference/</link>
+      <description>The article explains the difference between the deep web and the dark web. While both are non-indexed by search engines, the deep web is a larger part of the internet that includes private content accessible through standard browsers, whereas the dark web is a smaller subset that uses encryption to maintain anonymity and often hosts illegal or malicious activities.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061932</guid>
+      <pubDate>Fri, 18 Jul 2025 13:41:46 +0000</pubDate>
+    </item>
+    <item>
       <title>New QR Code Attacks Through PDFs Bypass Detection and Steal Credentials</title>
       <link>https://gbhackers.com/new-qr-code-attacks-through-pdfs/</link>
       <description>The article discusses an ongoing phishing campaign called "Scanception" that uses QR code-based delivery mechanisms to distribute credential-harvesting URLs. The campaign involves targeted emails with PDF lures, social engineering tactics, and abuse of trusted services to evade detection.</description>
@@ -212,6 +219,13 @@
       <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: The vulnerability, an SQL injection flaw, has been added to the Known Exploited Vulnerabilities (KEV) Catalog due to active exploitation. It poses significant risks to the federal enterprise and requires timely remediation to protect against cyber threats.</description>
       <guid isPermaLink="false">/node/23639</guid>
       <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Profile: CrazyHunter Ransomware</title>
+      <link>https://socradar.io/dark-web-profile-crazyhunter-ransomware/</link>
+      <description>The article discusses the "CrazyHunter" ransomware group, which has been targeting Taiwanese organizations, particularly in the healthcare and technology sectors. The group uses advanced tactics, techniques, and tools (TTPs) such as BYOVD, SharpGPOAbuse, and Prince Ransomware builder to carry out sophisticated attacks.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061922</guid>
+      <pubDate>Fri, 18 Jul 2025 11:55:59 +0000</pubDate>
     </item>
     <item>
       <title>CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign</title>
@@ -1459,20 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by parsing out-of-bounds read RFA files. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26963</guid>
       <pubDate>Tue, 15 Jul 2025 10:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-595: Autodesk Revit RFA File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-595/</link>
-      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by exploiting an out-of-bounds read in the parsing of RFA files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-27098</guid>
-      <pubDate>Tue, 15 Jul 2025 10:09:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-596: Autodesk Revit RTE File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-596/</link>
-      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5040; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit, requiring user interaction to exploit. The flaw exists in the parsing of RTE files due to lack of proper validation of user-supplied data prior to copying it to a fixed-length heap-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26917</guid>
-      <pubDate>Tue, 15 Jul 2025 10:09:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
