@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 16:02:19 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft SharePoint zero-day exploited in RCE attacks, no patch available</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49706, CVE-2025-49704; Summary: A critical zero-day vulnerability in Microsoft SharePoint (CVE-2025-53770) is being actively exploited since July 18th, allowing attackers to steal the MachineKey configuration and inject malicious code. The vulnerability has been chained with two other flaws (CVE-2025-49706 and CVE-2025-49704) to achieve remote code execution. A security update will be released as soon as possible.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/</guid>
+      <pubDate>Sun, 20 Jul 2025 15:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>HPE warns of hardcoded passwords in Aruba access points</title>
+      <link>https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/</link>
+      <description>Vulnerable Product: HPE Aruba Instant On Access Points; CVE(s): CVE-2025-37103, None; Summary: Hardcoded login credentials in Aruba Instant On Access Points allow attackers to bypass normal device authentication and access the web interface, enabling administrative access. This vulnerability can be exploited by remote attackers to change settings, install backdoors, capture traffic, or perform lateral movement.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/</guid>
+      <pubDate>Sun, 20 Jul 2025 14:09:19 +0000</pubDate>
+    </item>
     <item>
       <title>Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations</title>
       <link>https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html</link>
@@ -1459,20 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>This article is not about a vulnerability, but rather discusses the security implications of AI agents in cloud environments. It highlights the need for visibility into non-human identities (NHIs) and emphasizes the importance of applying least privilege and automation to ensure secure use of AI agents.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html</guid>
       <pubDate>Tue, 15 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Exploit Zoom Invites in Attacks on Crypto Companies</title>
-      <link>https://gbhackers.com/north-korean-hackers-exploit-zoom-invites-in-attacks/</link>
-      <description>The article describes an ongoing malware campaign orchestrated by North Korean threat actors targeting individuals and organizations within the Web3, cryptocurrency, and blockchain industries. The malware uses spear-phishing tactics, fake job opportunities, and social engineering to deploy a multi-stage attack chain that compromises macOS systems and exfiltrates sensitive data, including cryptocurrency wallet credentials and personal information.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148970</guid>
-      <pubDate>Tue, 15 Jul 2025 10:57:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>AsyncRAT's Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe</title>
-      <link>https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html</link>
-      <description>Vulnerable Product: AsyncRAT; CVE(s): None; Summary: AsyncRAT is a widely used remote access trojan that has evolved over the years, with its open-source nature allowing it to be modified and distributed by threat actors. It can capture screenshots, log keystrokes, steal credentials, and allow attackers to commandeer infected systems stealthily. The malware has spawned various variants, including DCRat, Venom RAT, and others, which have added new features and evasion techniques.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html</guid>
-      <pubDate>Tue, 15 Jul 2025 10:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
