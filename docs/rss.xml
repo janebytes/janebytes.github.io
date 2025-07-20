@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jul 2025 22:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 10:01:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers</title>
+      <link>https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html</link>
+      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: The vulnerability allows remote attackers to obtain admin access via HTTPS due to mishandled AS2 validation in CrushFTP 10 before 10.8.5 and 11 before 11.3.4_23, when the DMZ proxy feature is not used. This critical flaw has been actively exploited in the wild since July 18, 2025.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html</guid>
+      <pubDate>Sun, 20 Jul 2025 07:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack</title>
       <link>https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/</link>
@@ -1466,13 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by parsing out-of-bounds read remote code execution. User interaction is required, and the issue results from lack of proper validation of user-supplied data, which can result in a read past the end of an allocated object.</description>
       <guid isPermaLink="false">ZDI-CAN-26925</guid>
       <pubDate>Tue, 15 Jul 2025 10:10:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-594: Autodesk Revit RFA File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-594/</link>
-      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by parsing out-of-bounds read RFA files. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26963</guid>
-      <pubDate>Tue, 15 Jul 2025 10:10:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
