@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 16:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 17:01:47 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware</title>
+      <link>https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html</link>
+      <description>EncryptHub (aka LARVA-208 and Water Gamayun), a financially motivated threat actor, has been attributed to a new campaign targeting Web3 developers with information stealer malware. The attackers use fake AI platforms and trick victims into clicking on meeting links, which ultimately lead to the download of malicious software disguised as a genuine Realtek HD Audio Driver.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html</guid>
+      <pubDate>Sun, 20 Jul 2025 16:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft SharePoint zero-day exploited in RCE attacks, no patch available</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/</link>
@@ -21,6 +28,13 @@
       <description>Vulnerable Product: HPE Aruba Instant On Access Points; CVE(s): CVE-2025-37103, None; Summary: Hardcoded login credentials in Aruba Instant On Access Points allow attackers to bypass normal device authentication and access the web interface, enabling administrative access. This vulnerability can be exploited by remote attackers to change settings, install backdoors, capture traffic, or perform lateral movement.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/</guid>
       <pubDate>Sun, 20 Jul 2025 14:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases Guidance on Exploitation of SharePoint Vulnerability (CVE-2025-53770)</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/20/microsoft-releases-guidance-exploitation-sharepoint-vulnerability-cve-2025-53770</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49706; Summary: A remote code execution (RCE) vulnerability in on-premise SharePoint servers enables unauthorized access and allows malicious actors to execute code over the network. The vulnerability is actively being exploited and poses a risk to organizations.</description>
+      <guid isPermaLink="false">/node/23640</guid>
+      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations</title>
@@ -1459,20 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>The article discusses a previously undocumented Windows backdoor called HazyBeacon, which targets government agencies in Southeast Asia. The malware uses DLL side-loading techniques to deploy it on compromised hosts and establishes communication with an attacker-controlled URL to execute arbitrary commands and download additional payloads.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html</guid>
       <pubDate>Tue, 15 Jul 2025 11:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LaRecipe Tool with 2.3M Downloads Found Vulnerable to Full Server Takeover</title>
-      <link>https://gbhackers.com/larecipe-tool-with-2-3m-downloads-found-vulnerable-to-full-server-takeover/</link>
-      <description>Vulnerable Product: torch/larecipe; CVE(s): CVE-2025-53833; Summary: A critical Server-Side Template Injection (SSTI) vulnerability, identified as CVE-2025-53833, allows attackers to execute arbitrary code on vulnerable systems, leading to Remote Code Execution (RCE). The vulnerability affects all versions prior to 2.8.1 and requires no authentication or user interaction.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149163</guid>
-      <pubDate>Tue, 15 Jul 2025 11:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing Agentic AI: How to Protect the Invisible Identity Access</title>
-      <link>https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html</link>
-      <description>This article is not about a vulnerability, but rather discusses the security implications of AI agents in cloud environments. It highlights the need for visibility into non-human identities (NHIs) and emphasizes the importance of applying least privilege and automation to ensure secure use of AI agents.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html</guid>
-      <pubDate>Tue, 15 Jul 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
