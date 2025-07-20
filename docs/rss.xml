@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 10:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 11:01:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations</title>
+      <link>https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770, None; Summary: A zero-day flaw in Microsoft SharePoint Server tracked as CVE-2025-53770 (CVSS score: 9.8) allows an unauthorized attacker to execute code over a network through deserialization of untrusted data. The vulnerability is being exploited in a large-scale campaign and has been linked to the previously disclosed CVE-2025-49706.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html</guid>
+      <pubDate>Sun, 20 Jul 2025 09:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack</title>
+      <link>https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html</link>
+      <description>Vulnerable Product: npm packages; CVE(s): None; Summary: A supply chain attack targeted popular npm packages via a phishing campaign designed to steal project maintainers' npm tokens. The captured tokens were used to publish malicious versions of the packages, attempting to execute a DLL on Windows machines and potentially allowing remote code execution.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html</guid>
+      <pubDate>Sun, 20 Jul 2025 09:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers</title>
       <link>https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html</link>
@@ -1459,20 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Vulnerable Product: AsyncRAT; CVE(s): None; Summary: AsyncRAT is a widely used remote access trojan that has evolved over the years, with its open-source nature allowing it to be modified and distributed by threat actors. It can capture screenshots, log keystrokes, steal credentials, and allow attackers to commandeer infected systems stealthily. The malware has spawned various variants, including DCRat, Venom RAT, and others, which have added new features and evasion techniques.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html</guid>
       <pubDate>Tue, 15 Jul 2025 10:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-592: Autodesk Revit RVT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-592/</link>
-      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by parsing out-of-bounds write RVT files, requiring user interaction. The specific flaw exists within the lack of proper validation of user-supplied data, resulting in a write past the end of an allocated object.</description>
-      <guid isPermaLink="false">ZDI-CAN-26923</guid>
-      <pubDate>Tue, 15 Jul 2025 10:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-593: Autodesk Revit RVT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-593/</link>
-      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by parsing out-of-bounds read remote code execution. User interaction is required, and the issue results from lack of proper validation of user-supplied data, which can result in a read past the end of an allocated object.</description>
-      <guid isPermaLink="false">ZDI-CAN-26925</guid>
-      <pubDate>Tue, 15 Jul 2025 10:10:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
