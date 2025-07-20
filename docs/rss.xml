@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 19:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 20:00:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware</title>
@@ -28,6 +28,13 @@
       <description>Vulnerable Product: HPE Aruba Instant On Access Points; CVE(s): CVE-2025-37103, None; Summary: Hardcoded login credentials in Aruba Instant On Access Points allow attackers to bypass normal device authentication and access the web interface, enabling administrative access. This vulnerability can be exploited by remote attackers to change settings, install backdoors, capture traffic, or perform lateral movement.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/</guid>
       <pubDate>Sun, 20 Jul 2025 14:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability, CVE-2025-53770 “ToolShell,” to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/20/cisa-adds-one-known-exploited-vulnerability-cve-2025-53770-toolshell-catalog</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770; Summary: The vulnerability, a remote code execution issue, has been added to the Known Exploited Vulnerabilities Catalog due to active exploitation. It poses significant risks to the federal enterprise and should be remediated by affected organizations as soon as possible.</description>
+      <guid isPermaLink="false">/node/23642</guid>
+      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Releases Guidance on Exploitation of SharePoint Vulnerability (CVE-2025-53770)</title>
@@ -1466,13 +1473,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Authorities have arrested 14 individuals for a sophisticated tax fraud scheme that exploited stolen personal data to submit fraudulent claims worth over £1 million. The operation involved international cooperation between UK and Romanian law enforcement agencies, demonstrating the growing collaboration in combating cross-border cybercrime.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149174</guid>
       <pubDate>Tue, 15 Jul 2025 11:14:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments</title>
-      <link>https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html</link>
-      <description>The article discusses a previously undocumented Windows backdoor called HazyBeacon, which targets government agencies in Southeast Asia. The malware uses DLL side-loading techniques to deploy it on compromised hosts and establishes communication with an attacker-controlled URL to execute arbitrary commands and download additional payloads.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html</guid>
-      <pubDate>Tue, 15 Jul 2025 11:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
