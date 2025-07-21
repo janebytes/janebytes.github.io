@@ -6,14 +6,42 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 21:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 22:02:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-626: (Pwn2Own) NVIDIA Container Toolkit Environment Variable Handling Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-626/</link>
+      <description>Vulnerable Product: NVIDIA Container Toolkit; CVE(s): CVE-2025-23266; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of NVIDIA Container Toolkit by exploiting the handling of environment variables and lack of restrictions on spawning a hook process. An attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be used to execute arbitrary code in the context of the host system.</description>
+      <guid isPermaLink="false">ZDI-CAN-27193</guid>
+      <pubDate>Mon, 21 Jul 2025 22:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-627: rocket.chat Incorrect Authorization Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-627/</link>
+      <description>Vulnerable Product: rocket.chat; CVE(s): CVE-2025-7974; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of rocket.chat, without requiring authentication. The issue is due to incorrect authorization within the web service listening on TCP port 3000 by default.</description>
+      <guid isPermaLink="false">ZDI-CAN-26517</guid>
+      <pubDate>Mon, 21 Jul 2025 22:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel announces end of Clear Linux OS project, archives GitHub repos</title>
+      <link>https://www.bleepingcomputer.com/news/security/intel-announces-end-of-clear-linux-os-project-archives-github-repos/</link>
+      <description>Clear Linux OS has shut down after 10 years, and its user base is recommended to migrate to another distribution for security reasons, as it will no longer receive security patches or updates. The shutdown may be due to low user adoption and high maintenance burden, allowing Intel to focus on other projects.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/intel-announces-end-of-clear-linux-os-project-archives-github-repos/</guid>
+      <pubDate>Mon, 21 Jul 2025 21:25:07 +0000</pubDate>
+    </item>
     <item>
       <title>UNG0002 Deploys Weaponized LNK Files with Cobalt Strike and Metasploit to Target Organizations</title>
       <link>https://gbhackers.com/ung0002-deploys-weaponized-lnk-files/</link>
       <description>A persistent threat entity, UNG0002 (Unknown Group 0002), has been uncovered by Seqrite Labs, targeting critical sectors in Asia with sophisticated multi-stage attacks and evasive intrusion techniques. The group demonstrates adaptability, technical prowess, and a focus on intelligence gathering through espionage-driven operations.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150443</guid>
       <pubDate>Mon, 21 Jul 2025 20:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ToolShell: Details of CVEs Affecting SharePoint Servers</title>
+      <link>https://blog.talosintelligence.com/toolshell-affecting-sharepoint-servers/</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770, CVE-2025-53771; Summary: Two path traversal vulnerabilities affecting SharePoint Server Subscription Edition, SharePoint Server 2016, and SharePoint Server 2019 allow for unauthenticated remote code execution. Patches have been provided for most versions, but SharePoint Server 2016 remains unpatched, and users are recommended to rotate their machine keys and enable Antimalware Scan Interface (AMSI) as an alternative mitigation measure.</description>
+      <guid isPermaLink="false">687e91ad2e0cc100010c33cb</guid>
+      <pubDate>Mon, 21 Jul 2025 20:33:02 +0000</pubDate>
     </item>
     <item>
       <title>DeerStealer Malware Spread Through Weaponized .LNK and LOLBin Tools</title>
@@ -1436,34 +1464,6 @@ FYSA: The threat surface of AI systems expands internal attack surfaces, especia
       <description>Vulnerable Product: Oracle; CVE(s): 309 (None); Summary: The Oracle July 2025 Critical Patch Update addresses 309 security vulnerabilities across its product portfolio, including Oracle Database Server, MySQL Server, WebLogic Server, Java SE, and other products. The update affects multiple version ranges, with some affecting software dating back several years. The vulnerabilities can be exploited remotely without authentication, leading to unauthorized access, data breaches, and system compromise.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149332</guid>
       <pubDate>Wed, 16 Jul 2025 11:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers exploit a blind spot by hiding malware inside DNS records</title>
-      <link>https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/</link>
-      <description>The article discusses the use of Domain Name System (DNS) records to host malicious PowerShell scripts. Researchers have found that threat actors are using TXT records to embed attacker-devised text into documents or files being analyzed by AI chatbots, which can be exploited through prompt injections. This technique allows attackers to manipulate the chatbot's behavior and achieve malicious objectives.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/</guid>
-      <pubDate>Wed, 16 Jul 2025 11:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>NimDoor MacOS Malware Abuses Zoom SDK Updates to Steal Keychain Credentials</title>
-      <link>https://gbhackers.com/nimdoor-macos-malware-abuses-zoom-sdk-updates/</link>
-      <description>SentinelOne researchers discovered NimDoor, a sophisticated MacOS malware campaign attributed to North Korean-affiliated attackers (Stardust Chollima gang) targeting the bitcoin industry, exploiting social engineering tactics to steal sensitive data. The malware uses Nim-compiled binaries and process injection techniques for stealthy operations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149355</guid>
-      <pubDate>Wed, 16 Jul 2025 11:06:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok 4 benchmark results: Tops math, ranks second in coding</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/</link>
-      <description>The article discusses various AI-related topics, including the performance of Grok 4, a reasoning model, in different domains such as coding and math. It also mentions the threat actors' techniques used for cloud-fluent attacks, which are surprisingly simple despite growing sophistication. Additionally, it touches on upcoming developments in the AI space, including the potential launch of Grok 3.5 and GPT-5 models.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/</guid>
-      <pubDate>Wed, 16 Jul 2025 10:35:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Konfety Android Malware Exploits ZIP Tricks to Masquerade as Legit Apps on Google Play</title>
-      <link>https://gbhackers.com/konfety-android-malware-exploits-zip-tricks/</link>
-      <description>The Konfety Android malware uses complex ZIP-level changes to avoid detection and mimic genuine apps on the Google Play Store, employing an "evil-twin" strategy, runtime decryption, and deceptive manifest declarations. It can redirect users to fraudulent websites, initiate unwanted app sideloads, and severely impact user privacy and device integrity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149334</guid>
-      <pubDate>Wed, 16 Jul 2025 10:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
