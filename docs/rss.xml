@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 10:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 11:00:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CoinDCX Hack Leads to $44.2 Million Loss</title>
+      <link>https://gbhackers.com/coindcx-hack-leads-to-44-2-million-loss/</link>
+      <description>CoinDCX, an Indian cryptocurrency exchange, suffered a significant security breach that resulted in approximately $44 million in losses. Despite the incident, customer funds remain secure and unaffected, thanks to the company's segregated account architecture. The investigation is ongoing to identify vulnerabilities, implement additional safety measures, and trace the movement of compromised funds.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150352</guid>
+      <pubDate>Mon, 21 Jul 2025 10:50:13 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft AppLocker Flaw Lets Malicious Apps Bypass Security Restrictions</title>
       <link>https://gbhackers.com/microsoft-applocker-flaw/</link>
@@ -1468,13 +1475,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Vulnerable Product: Octalyn Forensic Toolkit; CVE(s): None; Summary: The Octalyn Forensic Toolkit is a credential stealer that poses as a research tool for red teaming and digital forensics. It can extract sensitive data including browser passwords, cookies, autofill information, Discord and Telegram tokens, VPN configurations, gaming account details, and cryptocurrency wallet artifacts. The toolkit's payload establishes persistence via Windows Startup folder entries and registry modifications, and can exfiltrate stolen data over TLS-secured connections to api.telegram.org.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149044</guid>
       <pubDate>Tue, 15 Jul 2025 13:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android malware Konfety uses malformed APKs to evade detection</title>
-      <link>https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/</link>
-      <description>Vulnerable Product: Konfety; CVE(s): None; Summary: The latest variant of the Konfety Android malware uses a malformed ZIP structure, obfuscation methods, and dynamic code loading to evade analysis and detection. It poses as a legitimate app, redirects users to malicious sites, pushes unwanted app installs, and steals information such as installed apps, network configuration, and system details.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/</guid>
-      <pubDate>Tue, 15 Jul 2025 13:10:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
