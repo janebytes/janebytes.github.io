@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 20:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 21:01:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UNG0002 Deploys Weaponized LNK Files with Cobalt Strike and Metasploit to Target Organizations</title>
+      <link>https://gbhackers.com/ung0002-deploys-weaponized-lnk-files/</link>
+      <description>A persistent threat entity, UNG0002 (Unknown Group 0002), has been uncovered by Seqrite Labs, targeting critical sectors in Asia with sophisticated multi-stage attacks and evasive intrusion techniques. The group demonstrates adaptability, technical prowess, and a focus on intelligence gathering through espionage-driven operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150443</guid>
+      <pubDate>Mon, 21 Jul 2025 20:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeerStealer Malware Spread Through Weaponized .LNK and LOLBin Tools</title>
+      <link>https://gbhackers.com/deerstealer-malware-spread-through-weaponized-lnk/</link>
+      <description>The article describes a new wave of cyber-attacks that exploit Windows shortcut files (.LNK) and legitimate system utilities (LOLBin/S) to deliver the DeerStealer infostealer. The attacks use highly obfuscated multi-stage chains, leveraging MITRE ATT&amp;CK technique T1218.005, and employ anti-sandbox and anti-VM checks to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150434</guid>
+      <pubDate>Mon, 21 Jul 2025 20:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Compromise Popular npm Packages to Steal Maintainers’ Tokens</title>
+      <link>https://gbhackers.com/threat-actors-compromise-popular-npm-packages/</link>
+      <description>Vulnerable Product: npm; CVE(s): None; Summary: Phishing campaign targeting npm package maintainers resulted in the compromise of widely used JavaScript tooling libraries. Attackers utilized a typosquatted domain to trick developers into surrendering their authentication tokens, which were then used to publish malicious package versions directly to the npm registry.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150429</guid>
+      <pubDate>Mon, 21 Jul 2025 20:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Beware of npm Phishing Emails Targeting Developer Credentials</title>
       <link>https://gbhackers.com/beware-of-npm-phishing-emails/</link>
@@ -1443,27 +1464,6 @@ FYSA: The threat surface of AI systems expands internal attack surfaces, especia
       <description>The Konfety Android malware uses complex ZIP-level changes to avoid detection and mimic genuine apps on the Google Play Store, employing an "evil-twin" strategy, runtime decryption, and deceptive manifest declarations. It can redirect users to fraudulent websites, initiate unwanted app sideloads, and severely impact user privacy and device integrity.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149334</guid>
       <pubDate>Wed, 16 Jul 2025 10:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-598: Oracle VirtualBox BusLogic Uninitialized Memory Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-598/</link>
-      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53025; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability, which results from the lack of proper initialization of memory prior to accessing it.</description>
-      <guid isPermaLink="false">ZDI-CAN-26654</guid>
-      <pubDate>Wed, 16 Jul 2025 10:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-599: Oracle VirtualBox LSILogic Uninitialized Memory Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-599/</link>
-      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53026; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability, and it can be leveraged with other vulnerabilities to execute code in the context of the hypervisor.</description>
-      <guid isPermaLink="false">ZDI-CAN-26653</guid>
-      <pubDate>Wed, 16 Jul 2025 10:09:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-600: (Pwn2Own) Oracle VirtualBox VMSVGA Out-Of-Bounds Write Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-600/</link>
-      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53028; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox by exploiting an out-of-bounds write local privilege escalation flaw in the VMSVGA virtual device, which can be leveraged to execute arbitrary code in the context of the hypervisor.</description>
-      <guid isPermaLink="false">ZDI-CAN-27163</guid>
-      <pubDate>Wed, 16 Jul 2025 10:09:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
