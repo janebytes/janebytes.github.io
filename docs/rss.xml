@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 15:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 16:00:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Veeam Recovery Orchestrator users locked out after MFA rollout</title>
+      <link>https://www.bleepingcomputer.com/news/technology/veeam-recovery-orchestrator-users-locked-out-after-mfa-rollout/</link>
+      <description>Vulnerable Product: Veeam Recovery Orchestrator; CVE(s): None; Summary: The recently released version of Recovery Orchestrator (build 7.2.1.286) blocks Web UI logins after enabling multi-factor authentication (MFA). This issue has been fixed with the release of version 7.2.1.290, and customers who installed the buggy version are advised to contact technical support for assistance.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/veeam-recovery-orchestrator-users-locked-out-after-mfa-rollout/</guid>
+      <pubDate>Mon, 21 Jul 2025 15:26:13 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Fix Targets Attacks on SharePoint Zero-Day</title>
       <link>https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/</link>
@@ -1470,13 +1477,6 @@ Overall, the article provides valuable insights into the tactics, techniques, an
       <description>A 21-year-old former U.S. Army soldier has pleaded guilty to participating in a sophisticated cybercrime operation that targeted telecommunications companies through hacking, data theft, and extortion schemes. The conspiracy involved at least 10 victim organizations, using specialized hacking tools and Telegram group chats to coordinate activities.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149262</guid>
       <pubDate>Wed, 16 Jul 2025 06:39:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Node.js Vulnerabilities Leave Windows Apps Vulnerable to Path Traversal and HashDoS</title>
-      <link>https://gbhackers.com/node-js-vulnerabilities-leave-windows-apps-vulnerable/</link>
-      <description>Vulnerable Product: Node.js; CVE(s): CVE-2025-27210, CVE-2025-27209; Summary: Two high-severity vulnerabilities affecting Windows applications, including denial-of-service attacks. The first vulnerability allows attackers to bypass path traversal protection mechanisms, while the second introduces a HashDoS vulnerability through changes in the V8 JavaScript engine's string hashing implementation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149257</guid>
-      <pubDate>Wed, 16 Jul 2025 05:33:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
