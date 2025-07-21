@@ -6,8 +6,61 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 11:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 12:09:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>PHP PDO Flaw Allows Attackers to Inject Malicious SQL Commands</title>
+      <link>https://gbhackers.com/php-pdo-flaw/</link>
+      <description>Vulnerable Product: PHP PDO; CVE(s): None; Summary: The vulnerability allows attackers to inject malicious SQL commands by exploiting weaknesses in PDO's SQL parser. This affects millions of web applications worldwide, even when developers implement prepared statements correctly. Attackers can manipulate PDO's parsing logic through carefully constructed payloads, leading to SQL injection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150385</guid>
+      <pubDate>Mon, 21 Jul 2025 11:59:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More</title>
+      <link>https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html</link>
+      <description>FYSA:
+
+The provided article appears to be a summary of various cyber-related incidents, attacks, and trends from around the world. The article discusses malware families like Rainbow Hyena, DiskStation Security, and Katz Stealer; phishing campaigns targeting specific industries or organizations; and large-scale cyber thefts affecting financial institutions and other entities.
+
+There are no explicit discussions about vulnerabilities in software, hardware, or firmware within this article. However, the article does touch upon various cybersecurity concerns and threats that could potentially impact different systems and organizations.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html</guid>
+      <pubDate>Mon, 21 Jul 2025 11:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 1,000 CrushFTP servers exposed to ongoing hijack attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/</link>
+      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: All CrushFTP versions below 10.8.5 and 11.3.4_23 are vulnerable to hijack attacks that exploit a critical security bug due to mishandled AS2 validation, allowing admin access to the web interface.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/</guid>
+      <pubDate>Mon, 21 Jul 2025 11:34:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessing the Role of AI in Zero Trust</title>
+      <link>https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html</link>
+      <description>The article discusses the role of artificial intelligence (AI) in Zero Trust architecture, highlighting its capabilities in adaptive trust, continuous risk evaluation, and automation. It also emphasizes the importance of human-machine teaming, where AI amplifies human decision-making rather than replacing it.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html</guid>
+      <pubDate>Mon, 21 Jul 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Surveillance Firm Exploits SS7 Flaw to Track User Locations</title>
+      <link>https://gbhackers.com/surveillance-firm-exploits-ss7-flaw/</link>
+      <description>Vulnerable Product: SS7 (Signaling System No. 7) protocol; CVE(s): None; Summary: A sophisticated surveillance operation has been discovered exploiting critical vulnerabilities in the global telecommunications infrastructure to track mobile phone users' locations without authorization. The attack leverages weaknesses in the decades-old SS7 protocol that underpins international cellular networks, manipulating the TCAP layer and using an obscure encoding technique called "extended tag encoding" to disguise malicious location tracking requests.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150373</guid>
+      <pubDate>Mon, 21 Jul 2025 11:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn 14 Languages from Babbel with this exclusive StackSocial deal</title>
+      <link>https://www.bleepingcomputer.com/news/security/learn-14-languages-from-babbel-with-this-exclusive-stacksocial-deal/</link>
+      <description>The article is promoting language learning platforms Babbel, uTalk, and Rosetta Stone, offering lifetime subscriptions and discounts. It highlights the features of each platform, such as AI conversation partners and personalized review sessions. The article also includes a free board report deck for CISOs to present cloud security risks and priorities in business terms.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/learn-14-languages-from-babbel-with-this-exclusive-stacksocial-deal/</guid>
+      <pubDate>Mon, 21 Jul 2025 11:07:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dell confirms breach of test lab platform by World Leaks extortion group</title>
+      <link>https://www.bleepingcomputer.com/news/security/dell-confirms-breach-of-test-lab-platform-by-world-leaks-extortion-group/</link>
+      <description>World Leaks, a rebranded extortion gang, has breached Dell's product demonstration platform and is trying to extort the company into paying a ransom. The stolen data is believed to be synthetic test data used in product demonstrations and trials, with only a very outdated contact list being legitimate.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dell-confirms-breach-of-test-lab-platform-by-world-leaks-extortion-group/</guid>
+      <pubDate>Mon, 21 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CoinDCX Hack Leads to $44.2 Million Loss</title>
       <link>https://gbhackers.com/coindcx-hack-leads-to-44-2-million-loss/</link>
@@ -1426,55 +1479,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Albemarle County, Virginia, fell victim to a sophisticated ransomware attack despite having robust defenses in place, including endpoint detection and response systems, multi-factor authentication, and regular vulnerability patching. The attack exploited on-premises servers, potentially exposing sensitive personally identifiable information (PII) of local government and public school employees, as well as county residents.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149147</guid>
       <pubDate>Tue, 15 Jul 2025 15:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools</title>
-      <link>https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html</link>
-      <description>This article discusses a new ransomware-as-a-service (RaaS) operation called GLOBAL GROUP that has targeted various sectors in Australia, Brazil, Europe, and the United States. The RaaS platform is designed to facilitate initial access brokers to deploy the ransomware by weaponizing access to vulnerable edge appliances from Cisco, Fortinet, and Palo Alto Networks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html</guid>
-      <pubDate>Tue, 15 Jul 2025 15:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Explains How Security Copilot in Intune and Entra Supports Security and IT Teams</title>
-      <link>https://gbhackers.com/microsoft-explains-how-security-copilot/</link>
-      <description>None (The article is not about a vulnerability or cybersecurity-relevant content, but rather discusses Microsoft's Security Copilot tool and its features for improving security and IT operations.)</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149123</guid>
-      <pubDate>Tue, 15 Jul 2025 14:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal IT Contractor to Pay $14.75M for False Cybersecurity Services Claims</title>
-      <link>https://gbhackers.com/federal-it-contractor-to-pay-14-75m/</link>
-      <description>The article discusses a settlement between Hill ASC Inc. and the U.S. Department of Justice regarding allegations of violating the False Claims Act through improper billing practices under a General Services Administration (GSA) Multiple Award Schedule (MAS) contract. The alleged violations include fraudulent claims for IT personnel, unauthorized billing for cybersecurity services, and unapproved fees on government invoices.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149095</guid>
-      <pubDate>Tue, 15 Jul 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DShield Honeypot Scanning Hits Record High with Over 1 Million Logs in a Single Day</title>
-      <link>https://gbhackers.com/dshield-honeypot-scanning-hits-record-high/</link>
-      <description>The article reports an unusual surge in cyber reconnaissance activity detected by DShield honeypots, with web logs exceeding 1 GB daily and peaking at nearly 58 GB. The increase is attributed to automated scanning from overlapping subnets targeting specific URL paths, potentially probing for vulnerabilities or gathering intelligence for future exploits.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149077</guid>
-      <pubDate>Tue, 15 Jul 2025 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Threat Actors Target U.S. Critical Infrastructure, Including Water Systems</title>
-      <link>https://gbhackers.com/iranian-threat-actors-target-u-s-critical-infrastructure/</link>
-      <description>Intelligence Group 13, an elite unit within the Islamic Revolutionary Guard Corps (IRGC), has been conducting asymmetric cyber operations in response to U.S. attacks on Iranian nuclear sites. The group uses advanced persistent threat (APT) techniques, including phishing-driven credential theft, open-source intelligence harvesting, and custom malware deployment for reconnaissance and sabotage. Its operations extend beyond technical compromise, incorporating psychological elements through propaganda fronts like CyberAveng3rs, which disseminates defacement screenshots, operational leaks, and taunting messages via Telegram and Instagram channels.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149058</guid>
-      <pubDate>Tue, 15 Jul 2025 13:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kafbat UI Vulnerabilities Allow Arbitrary Code Execution via JMX Services</title>
-      <link>https://gbhackers.com/kafbat-ui-vulnerabilities/</link>
-      <description>Vulnerable Product: Kafbat UI; CVE(s): CVE-2025-49127; Summary: The vulnerability allows unauthenticated attackers to execute arbitrary code by exploiting unsafe deserialization in Kafbat UI's metrics collection system. Attackers can specify malicious JMX servers that return crafted serialized objects, enabling Java deserialization gadget chains and complete system compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149227</guid>
-      <pubDate>Tue, 15 Jul 2025 13:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Octalyn Stealer Harvests VPN Configs, Passwords, and Cookies in Organized Folder Structure</title>
-      <link>https://gbhackers.com/octalyn-stealer-harvests-vpn-configs-passwords-and-cookies/</link>
-      <description>Vulnerable Product: Octalyn Forensic Toolkit; CVE(s): None; Summary: The Octalyn Forensic Toolkit is a credential stealer that poses as a research tool for red teaming and digital forensics. It can extract sensitive data including browser passwords, cookies, autofill information, Discord and Telegram tokens, VPN configurations, gaming account details, and cryptocurrency wallet artifacts. The toolkit's payload establishes persistence via Windows Startup folder entries and registry modifications, and can exfiltrate stolen data over TLS-secured connections to api.telegram.org.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149044</guid>
-      <pubDate>Tue, 15 Jul 2025 13:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
