@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 17:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 18:03:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-625: Veeam Backup Enterprise Manager JobManagmentService Improper Access Control Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-625/</link>
+      <description>Vulnerable Product: Veeam Backup Enterprise Manager; CVE(s): CVE-2025-24286; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Veeam Backup Enterprise Manager, requiring authentication. The issue results from improper access control in the JobManagmentService component, allowing an attacker to execute code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26062</guid>
+      <pubDate>Mon, 21 Jul 2025 18:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attackers Can Exploit Lighthouse Studio RCE Bug to Gain Server Access</title>
+      <link>https://gbhackers.com/attackers-can-exploit-lighthouse-studio-rce-bug/</link>
+      <description>Vulnerable Product: Sawtooth Software Lighthouse Studio; CVE(s): CVE-2025-34300; Summary: The Lighthouse Studio survey software contains a critical remote code execution (RCE) vulnerability in its Perl CGI scripts, allowing unauthenticated attackers to execute arbitrary code on hosting servers. This flaw enables attackers to inject Perl code via specially crafted URL parameters, leveraging an eval sink that interprets content enclosed in [% … %] as executable code.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150260</guid>
+      <pubDate>Mon, 21 Jul 2025 17:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents</title>
+      <link>https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html</link>
+      <description>Android spyware known as DCHSpy has been discovered by cybersecurity researchers at Lookout, which collects sensitive data such as WhatsApp information, accounts, contacts, SMS messages, call logs, files, location, and audio recordings. The malware is believed to be affiliated with the Iranian Ministry of Intelligence and Security (MOIS) and has been distributed via masquerading VPN apps and Starlink-related lures.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html</guid>
+      <pubDate>Mon, 21 Jul 2025 17:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KAWA4096 Ransomware Employs WMI Techniques to Delete Backup Snapshots</title>
+      <link>https://gbhackers.com/kawa4096-ransomware-employs-wmi-techniques/</link>
+      <description>The article discusses the KAWA4096 ransomware, a new strain detected in June 2025. It targets entities in the United States and Japan, using multithreaded encryption, network share targeting, and evasion tactics to amplify disruption. The ransomware embeds its configuration within the binary, terminates antivirus processes, and erases Volume Shadow Copies to hinder data recovery efforts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150351</guid>
+      <pubDate>Mon, 21 Jul 2025 17:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-621: (Pwn2Own) Phoenix Contact CHARX SEC-3150 DHCP Configuration Command Injection Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-621/</link>
@@ -42,6 +70,13 @@
       <description>Threat actors are increasingly using AI-powered cloaking services to evade automated security scanners and prolong the operational lifespan of their infrastructure. These services analyze visitor attributes such as IP geolocation, user-agent strings, and browser entropy to classify and reroute requests, ensuring only targeted human users encounter the payload.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150320</guid>
       <pubDate>Mon, 21 Jul 2025 16:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Linked Hackers Launch Targeted Espionage Campaign on African IT Infrastructure</title>
+      <link>https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html</link>
+      <description>The article reports on a Chinese nation-state hacking group, tracked as APT41, which has launched a new campaign targeting government IT services in the African region. The attackers used hardcoded names of internal services, IP addresses, and proxy servers embedded within their malware to communicate with command-and-control (C2) servers, including a hacked SharePoint server.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html</guid>
+      <pubDate>Mon, 21 Jul 2025 16:27:00 +0000</pubDate>
     </item>
     <item>
       <title>ExpressVPN bug leaked user IPs in Remote Desktop sessions</title>
@@ -1442,41 +1477,6 @@ Overall, the article provides valuable insights into the tactics, techniques, an
       <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6558; Summary: The vulnerability, identified as CVE-2025-6558, is a high-severity issue in ANGLE and GPU that affects Google Chrome versions before 138.0.7204.157. It allows an attacker to perform a sandbox escape by using a specially crafted HTML page, potentially executing arbitrary code within the browser's GPU process.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/</guid>
       <pubDate>Wed, 16 Jul 2025 09:47:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive DDoS Attack Slams Internet with 7.3 Tbps and 4.8 Billion Packets Per Second</title>
-      <link>https://gbhackers.com/massive-ddos-attack-slams-internet/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The article reports on a massive DDoS attack mitigated by Cloudflare, peaking at 7.3 terabits per second (Tbps) and 4.8 billion packets per second (Bpps). The report highlights the increasing frequency and intensity of DDoS attacks, with a focus on HTTP and L3/4 attacks, as well as emerging threats like Teeworlds and RIPv1 floods.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149276</guid>
-      <pubDate>Wed, 16 Jul 2025 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code</title>
-      <link>https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html</link>
-      <description>The article discusses a sophisticated variant of an Android malware called Konfety that uses the evil twin technique for ad fraud. The malware employs dynamic code loading, obfuscation, and deception to evade detection. It can redirect users to malicious websites, prompt unwanted app installs, and trigger spam-like notifications.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html</guid>
-      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild</title>
-      <link>https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6558; Summary: The high-severity vulnerability (CVSS score: 8.8) allows a remote attacker to potentially perform a sandbox escape via a crafted HTML page, exploiting an incorrect validation of untrusted input in the browser's ANGLE and GPU components, allowing attackers to break out of the browser's security bubble and interact with the underlying system.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html</guid>
-      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time</title>
-      <link>https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html</link>
-      <description>Social engineering attacks are evolving with the use of generative AI, stolen branding assets, and deepfake tools, allowing attackers to mimic executives, hijack social channels, and create convincing fakes. Modern attacks involve long-term, multi-channel campaigns across email, LinkedIn, SMS, and support portals, targeting employees, customers, and partners.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html</guid>
-      <pubDate>Wed, 16 Jul 2025 09:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Command-Line Editor Vim Hit by Vulnerability Allowing File Overwrites</title>
-      <link>https://gbhackers.com/command-line-editor-vim-hit-by-vulnerability/</link>
-      <description>Vulnerable Product: Vim; CVE(s): CVE-2025-53906; Summary: The vulnerability allows attackers to overwrite arbitrary files on users' systems by exploiting a path traversal issue in Vim's zip.vim plugin when opening specially crafted zip archives. Successful exploitation could lead to arbitrary code execution, compromising entire systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149326</guid>
-      <pubDate>Wed, 16 Jul 2025 09:11:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
