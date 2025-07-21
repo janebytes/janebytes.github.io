@@ -6,8 +6,94 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 22:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 10:06:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft AppLocker Flaw Lets Malicious Apps Bypass Security Restrictions</title>
+      <link>https://gbhackers.com/microsoft-applocker-flaw/</link>
+      <description>Vulnerable Product: Microsoft AppLocker; CVE(s): None; Summary: The vulnerability in Microsoft's AppLocker security feature allows malicious applications to bypass established security restrictions by exploiting a seemingly minor error in the MaximumFileVersion field. Attackers could potentially modify a blocked executable's version number to exceed the configured maximum version, but this would simultaneously break the file's digital signature, making it detectable by systems configured with "signed executables only" policies.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150306</guid>
+      <pubDate>Mon, 21 Jul 2025 08:45:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Livewire Flaw Puts Millions of Laravel Apps at Risk of RCE Attacks</title>
+      <link>https://gbhackers.com/livewire-flaw-of-rce-attacks/</link>
+      <description>Vulnerable Product: Livewire; CVE(s): CVE-2025-54068; Summary: A critical remote command execution vulnerability exists in Livewire versions from 3.0.0-beta.1 to 3.6.3, allowing unauthenticated attackers to execute arbitrary commands on the server by injecting malicious code through property updates. Exploitation requires only a vulnerable component with default configuration, and no user authentication or interaction is necessary.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150293</guid>
+      <pubDate>Mon, 21 Jul 2025 08:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues Alert on Microsoft SharePoint 0-Day RCE Exploited in Attacks</title>
+      <link>https://gbhackers.com/cisa-issues-alert-on-microsoft-sharepoint-0-day-rce/</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770; Summary: A critical zero-day vulnerability in Microsoft SharePoint Server allows unauthorized attackers to execute arbitrary code remotely over a network, potentially giving cybercriminals complete control over affected systems. The flaw stems from deserialization of untrusted data and is actively being exploited in cyberattacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150250</guid>
+      <pubDate>Mon, 21 Jul 2025 07:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-Zip Vulnerability Lets Malicious RAR5 Files Crash Systems</title>
+      <link>https://gbhackers.com/7-zip-vulnerability-2/</link>
+      <description>Vulnerable Product: 7-Zip; CVE(s): CVE-2025-53816; Summary: A critical denial-of-service vulnerability in 7-Zip's RAR5 decoder allows attackers to crash systems by processing specially crafted RAR5 archive files, leading to memory corruption and system crashes. The vulnerability occurs due to a heap buffer overflow when the decoder attempts to repair corrupted archive items, resulting in writing data beyond allocated buffer boundaries.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150238</guid>
+      <pubDate>Mon, 21 Jul 2025 06:59:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse</title>
+      <link>https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html</link>
+      <description>A novel attack technique has been disclosed, allowing threat actors to downgrade Fast IDentity Online (FIDO) key protections by deceiving users into approving authentication requests from spoofed company login portals. The attack exploits a legitimate FIDO feature called cross-device sign-in and does not exploit any flaw in the FIDO implementation.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html</guid>
+      <pubDate>Mon, 21 Jul 2025 06:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PoisonSeed Attack Tricks Users into Scanning Malicious MFA QR Codes</title>
+      <link>https://gbhackers.com/poisonseed-attack-scanning-malicious-mfa-qr-codes/</link>
+      <description>The PoisonSeed threat group has developed an attack technique that exploits FIDO key cross-device sign-in features, bypassing multifactor authentication (MFA) and allowing attackers to gain unauthorized access to protected accounts through social engineering tactics.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150201</guid>
+      <pubDate>Mon, 21 Jul 2025 05:31:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>SharePoint 0-Day RCE Flaw Actively Exploited for Full Server Takeover</title>
+      <link>https://gbhackers.com/sharepoint-0-day-rce-flaw/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49706, CVE-2025-49704; Summary: A new SharePoint vulnerability (CVE-2025-53770) is being actively exploited in large-scale attacks worldwide, enabling attackers to gain complete control of on-premise servers without authentication. The exploit chain, dubbed "ToolShell," leverages previously demonstrated Pwn2Own vulnerabilities to achieve remote code execution and steals cryptographic secrets from SharePoint servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150197</guid>
+      <pubDate>Mon, 21 Jul 2025 05:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrushFTP 0-Day Vulnerability Actively Exploited to Breach Servers</title>
+      <link>https://gbhackers.com/crushftp-0-day-vulnerability/</link>
+      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: A zero-day vulnerability in CrushFTP servers is being actively exploited by threat actors to compromise systems worldwide. The vulnerability allows attackers to exploit a previously patched issue that remained present in outdated installations, making it critical for organizations to maintain current software versions and implement recommended security measures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150193</guid>
+      <pubDate>Mon, 21 Jul 2025 04:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft releases emergency patches for SharePoint RCE flaws exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-53771; Summary: Two zero-day vulnerabilities (CVE-2025-53770 and CVE-2025-53771) were exploited in "ToolShell" attacks to achieve remote code execution on Microsoft SharePoint servers worldwide. The flaws bypassed previous patches and impacted over 54 organizations. Emergency updates have been released for Microsoft SharePoint Subscription Edition, SharePoint 2019, and are still being worked on for SharePoint 2016.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/</guid>
+      <pubDate>Mon, 21 Jul 2025 04:41:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks</title>
+      <link>https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-53771; Summary: The exploited vulnerability (CVE-2025-53770) is a remote code execution flaw that arises from the deserialization of untrusted data in on-premise versions of Microsoft SharePoint Server. The newly disclosed spoofing flaw (CVE-2025-53771) allows an authorized attacker to perform spoofing over a network. These flaws are related to two other SharePoint vulnerabilities, and the exploit chain has been patched as part of Microsoft's July 2025 Patch Tuesday update.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html</guid>
+      <pubDate>Mon, 21 Jul 2025 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access</title>
+      <link>https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html</link>
+      <description>Vulnerable Product: Hewlett-Packard Enterprise (HPE) Instant On Access Points; CVE(s): CVE-2025-37103, CVE-2025-37102; Summary: The HPE Instant On Access Points have a critical security flaw that allows an attacker to bypass authentication and gain administrative access. Additionally, there is an authenticated command injection flaw in the command-line interface that could be exploited with elevated permissions to run arbitrary commands.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html</guid>
+      <pubDate>Mon, 21 Jul 2025 03:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics</title>
+      <link>https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</link>
+      <description>A new attack campaign has compromised over 3,500 websites worldwide with JavaScript cryptocurrency miners, using obfuscated JavaScript, WebSockets, and infrastructure reuse to stay hidden. The malware assesses device capabilities, spawns background Web Workers for mining tasks, and dynamically adjusts mining intensity based on device power without raising alarms.
+
+FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiting JavaScript embeds, Google OAuth endpoints, WordPress databases, and plugins to compromise websites and inject malicious code. They use stealthy miners, obfuscation, and infrastructure reuse to stay hidden, prioritizing persistence over resource theft.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</guid>
+      <pubDate>Mon, 21 Jul 2025 03:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware</title>
       <link>https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html</link>
@@ -1389,90 +1475,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Vulnerable Product: Konfety; CVE(s): None; Summary: The latest variant of the Konfety Android malware uses a malformed ZIP structure, obfuscation methods, and dynamic code loading to evade analysis and detection. It poses as a legitimate app, redirects users to malicious sites, pushes unwanted app installs, and steals information such as installed apps, network configuration, and system details.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/</guid>
       <pubDate>Tue, 15 Jul 2025 13:10:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>GLOBAL GROUP RaaS Adds AI-Powered Negotiation Feature for Ransom Demands</title>
-      <link>https://gbhackers.com/global-group-raas-adds-ai-powered-negotiation/</link>
-      <description>The article discusses a Ransomware-as-a-Service (RaaS) operation called GLOBAL GROUP that has deployed an AI-driven negotiation tool to pressure victims into paying ransoms. The operation uses Initial Access Brokers (IABs) to sell compromised VPN appliances and webshells, and its affiliates can deploy customized ransomware payloads that take advantage of chaos and speed to maximize damage before traditional endpoint defenses can react.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149208</guid>
-      <pubDate>Tue, 15 Jul 2025 13:03:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers Exploit 67 Malicious npm Packages to Spread XORIndex Malware</title>
-      <link>https://gbhackers.com/north-korean-hackers-exploit-67-malicious-npm-packages/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: The Socket Threat Research Team discovered a software supply chain attack using the XORIndex malware loader, which has not been previously reported, attributed to North Korean state-backed actors. The attackers infiltrated the npm registry with 67 malicious packages, amassing over 17,000 downloads collectively, targeting developers, job seekers, and cryptocurrency holders by exfiltrating sensitive credentials and wallet data through a chain of malware stages.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149020</guid>
-      <pubDate>Tue, 15 Jul 2025 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BaitTrap Reveals Global Web of 17,000+ Fraud-Promoting Fake News Sites</title>
-      <link>https://gbhackers.com/baittrap-reveals-global-web/</link>
-      <description>A network of over 17,000 "Baiting News Sites" (BNS) has been discovered by cybersecurity firm CTM360, which are designed to disseminate investment fraud globally. These sites masquerade as authoritative news entities and use advanced social engineering tactics to target unsuspecting users with false information about lucrative investment opportunities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149065</guid>
-      <pubDate>Tue, 15 Jul 2025 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New AsyncRAT Forks Discovered Featuring Screamer Tool and USB Malware Spreader</title>
-      <link>https://gbhackers.com/new-asyncrat-forks-discovered/</link>
-      <description>Vulnerable Product: AsyncRAT; CVE(s): None; Summary: The article describes two new variants of the AsyncRAT remote access trojan (RAT) that introduce a psychological warfare component and enhanced propagation mechanisms. The "Screamer" plugin manipulates Windows audio APIs to disorient victims, while the USB malware spreader component transforms AsyncRAT into a self-replicating worm capable of bridging air-gapped networks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149190</guid>
-      <pubDate>Tue, 15 Jul 2025 12:08:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hitachi Energy Asset Suite</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-196-01</link>
-      <description>Vulnerable Product: Hitachi Energy Equipment, including Asset Suite AnyWhere for Inventory (AWI) Android mobile app and Asset Suite 9 series; CVE(s): CVE-2019-9262, CVE-2019-9429, CVE-2019-9256, CVE-2019-9290, CVE-2025-1484, CVE-2025-2500; Summary: Multiple vulnerabilities in Hitachi Energy's Asset Suite product allow for unauthorized access, remote code execution, and privilege escalation.</description>
-      <guid isPermaLink="false">/node/23623</guid>
-      <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LITEON IC48A and IC80A EV Chargers</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-196-03</link>
-      <description>Vulnerable Product: LITEONE IC48A and IC80A; CVE(s): CVE-2025-7357; Summary: Successful exploitation of the plaintext storage of a password vulnerability in Liteon EV chargers could allow an attacker to access sensitive information, with potential impacts on commercial facilities, energy, and transportation systems worldwide.</description>
-      <guid isPermaLink="false">/node/23625</guid>
-      <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ABB RMC-100</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-196-02</link>
-      <description>Vulnerable Product: ABB RMC-100; CVE(s): CVE-2025-6071, CVE-2025-6072, CVE-2025-6073, CVE-2025-6074; Summary: The ABB RMC-100 has several vulnerabilities that allow an attacker to gain unauthenticated access to MQTT configuration data, cause a denial-of-service condition on the MQTT configuration web server (REST interface), or decrypt encrypted MQTT broker credentials.</description>
-      <guid isPermaLink="false">/node/23624</guid>
-      <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Six Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/15/cisa-releases-six-industrial-control-systems-advisories</link>
-      <description>CISA released six Industrial Control Systems (ICS) advisories on July 15, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories cover various products from Hitachi Energy, ABB, LITEON, Schneider Electric, and others. Users and administrators are encouraged to review the advisories for technical details and mitigations.</description>
-      <guid isPermaLink="false">/node/23626</guid>
-      <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacktivists Launch Attacks on ICS Systems to Exfiltrate Sensitive Information</title>
-      <link>https://gbhackers.com/hacktivists-launch-attacks-on-ics-systems/</link>
-      <description>The article highlights the increasing intensity of hacktivist attacks targeting Industrial Control Systems (ICS), with a focus on Operational Technology (OT) environments, Supervisory Control and Data Acquisition (SCADA) systems, and Human-Machine Interfaces (HMIs).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148989</guid>
-      <pubDate>Tue, 15 Jul 2025 11:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI's ChatGPT-powered browser is codenamed 'Aura'</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/</link>
-      <description>Vulnerable Product: None; FYSA: While cloud attacks may be growing more sophisticated, attackers still succeed with surprisingly simple techniques. This report reveals 8 key techniques used by cloud-fluent threat actors.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/</guid>
-      <pubDate>Tue, 15 Jul 2025 11:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Threat Grows as Attackers Move Into VMware and Linux</title>
-      <link>https://gbhackers.com/attackers-move-into-vmware-and-linux/</link>
-      <description>The article highlights the increasing trend of ransomware attacks targeting Linux environments, which were previously considered secure due to their reliability and inherent security. Threat actors are now engineering sophisticated Linux-specific ransomware variants, exploiting ubiquity in critical applications, APIs, DevOps pipelines, and virtualized infrastructures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=148962</guid>
-      <pubDate>Tue, 15 Jul 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>14 Hackers Arrested in Massive Tax Fraud Scheme, Authorities Confirm</title>
-      <link>https://gbhackers.com/14-hackers-arrested-in-massive-tax-fraud-scheme/</link>
-      <description>Authorities have arrested 14 individuals for a sophisticated tax fraud scheme that exploited stolen personal data to submit fraudulent claims worth over £1 million. The operation involved international cooperation between UK and Romanian law enforcement agencies, demonstrating the growing collaboration in combating cross-border cybercrime.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149174</guid>
-      <pubDate>Tue, 15 Jul 2025 11:14:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
