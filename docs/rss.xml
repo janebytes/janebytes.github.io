@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 19:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 20:03:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Beware of npm Phishing Emails Targeting Developer Credentials</title>
+      <link>https://gbhackers.com/beware-of-npm-phishing-emails/</link>
+      <description>A highly advanced phishing email targeted npm package maintainers by spoofing the support@npmjs.org address and redirecting users to a malicious site that stole developer credentials. The campaign used unique tokens, semi-targeted approach, and infrastructure abuse to evade detection, highlighting the need for vigilance and proactive reporting to prevent supply chain attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150412</guid>
+      <pubDate>Mon, 21 Jul 2025 19:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ring denies breach after users report suspicious logins</title>
+      <link>https://www.bleepingcomputer.com/news/security/ring-denies-breach-after-users-report-suspicious-logins/</link>
+      <description>Vulnerable Product: Ring; CVE(s): None; Summary: A backend update bug is causing unauthorized devices to be displayed as logged into customers' accounts, leading to concerns of a security incident. Customers are reporting unknown devices and countries listed in their Authorized Client Devices list, which cannot be previous logins.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ring-denies-breach-after-users-report-suspicious-logins/</guid>
+      <pubDate>Mon, 21 Jul 2025 19:33:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>SharePoint vulnerability with 9.8 severity rating under exploit across globe</title>
+      <link>https://arstechnica.com/security/2025/07/sharepoint-vulnerability-with-9-8-severity-rating-is-under-exploit-across-the-globe/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49706, CVE-2025-49704; Summary: Attackers extract the ValidationKey directly from memory or configuration, allowing them to craft fully valid, signed __VIEWSTATE payloads and execute remote commands (RCE) without requiring credentials.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/sharepoint-vulnerability-with-9-8-severity-rating-is-under-exploit-across-the-globe/</guid>
+      <pubDate>Mon, 21 Jul 2025 19:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Use Zoho WorkDrive Folders to Spread Obfuscated PureRAT Malware</title>
+      <link>https://gbhackers.com/cybercriminals-use-zoho-workdrive-folders/</link>
+      <description>A targeted attack was discovered against a U.S.-based certified public accounting firm using a novel crypter named "Ghost Crypt" to deliver PureRAT, a Remote Access Trojan (RAT). The attackers employed social engineering tactics and leveraged Zoho WorkDrive, a cloud-based file-sharing platform, to distribute malicious payloads.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150406</guid>
+      <pubDate>Mon, 21 Jul 2025 19:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>APT41 Hackers Exploiting Atexec and WmiExec Windows Modules for Malware Deployment</title>
       <link>https://gbhackers.com/apt41-hackers-exploiting-atexec-and-wmiexec-windows-modules/</link>
@@ -1436,47 +1464,6 @@ FYSA: The threat surface of AI systems expands internal attack surfaces, especia
       <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53028; Summary: The vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox by exploiting an out-of-bounds write local privilege escalation flaw in the VMSVGA virtual device, which can be leveraged to execute arbitrary code in the context of the hypervisor.</description>
       <guid isPermaLink="false">ZDI-CAN-27163</guid>
       <pubDate>Wed, 16 Jul 2025 10:09:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-601: (Pwn2Own) Oracle VirtualBox VMSVGA Integer Overflow Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-601/</link>
-      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53024; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox by exploiting an integer overflow in the VMSVGA virtual device. An attacker must first obtain high-privileged code execution on the target guest system to exploit this flaw, which results from a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-27122</guid>
-      <pubDate>Wed, 16 Jul 2025 10:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-602: (Pwn2Own) Oracle VirtualBox OHCI USB Controller Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-602/</link>
-      <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2025-53027; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox by exploiting a lack of proper locking when performing operations on an object in the virtual OHCI USB controller. An attacker must first obtain the ability to execute high-privileged code on the target guest system to exploit this vulnerability, which can then be used to execute arbitrary code in the context of the hypervisor.</description>
-      <guid isPermaLink="false">ZDI-CAN-27154</guid>
-      <pubDate>Wed, 16 Jul 2025 10:08:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Talos IR ransomware engagements and the significance of timeliness in incident response</title>
-      <link>https://blog.talosintelligence.com/talos-ir-ransomware-engagements-and-the-significance-of-timeliness-in-incident-response/</link>
-      <description>FYSA:
-
-The article appears to be a case study on a cybersecurity incident involving a series of malicious activities by an attacker. The analyst's analysis reveals that the attack involved multiple tools and techniques, including social engineering, malware deployment, data exfiltration, and command and control (C2) communication.
-
-From a security perspective, several concerns are raised:
-
-1. **Lack of robust security controls**: The article highlights the importance of implementing strong security controls to prevent unauthorized access and data breaches.
-2. **Inadequate logging and monitoring**: The analyst notes that the attack was only detected due to the victim's logging and monitoring efforts. This emphasizes the need for organizations to maintain comprehensive logging and monitoring capabilities.
-3. **Malware deployment**: The article highlights the importance of maintaining up-to-date antivirus software and implementing sandboxing or virtualization technologies to contain malware outbreaks.
-4. **Command and control (C2) communication**: The analyst notes that the attacker used C2 servers to communicate with compromised hosts. This underscores the need for organizations to implement robust C2 detection and mitigation strategies.
-
-In terms of specific vulnerabilities, the article does not discuss any particular software, hardware, or firmware vulnerabilities. However, it highlights the importance of keeping systems and applications up-to-date with the latest security patches and updates.
-
-Overall, the article provides valuable insights into the tactics, techniques, and procedures (TTPs) used by attackers and emphasizes the need for organizations to prioritize robust security controls, logging, monitoring, and incident response capabilities.</description>
-      <guid isPermaLink="false">687548cf405515000149657a</guid>
-      <pubDate>Wed, 16 Jul 2025 10:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Email Filters Defeated by Polyglot File Trick Used in Malware Campaigns</title>
-      <link>https://gbhackers.com/email-filters-defeated-by-polyglot-file/</link>
-      <description>This article discusses advanced techniques used by attackers to evade email filters and successfully send phishing payloads. The techniques include the use of polyglot files, which can be interpreted as multiple file formats simultaneously, allowing malicious content to appear benign to security scanners.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149288</guid>
-      <pubDate>Wed, 16 Jul 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
