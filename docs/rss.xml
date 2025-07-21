@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 16:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 17:02:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-621: (Pwn2Own) Phoenix Contact CHARX SEC-3150 DHCP Configuration Command Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-621/</link>
+      <description>Vulnerable Product: Phoenix Contact CHARX SEC-3150; CVE(s): CVE-2025-25269, ZDI-CAN-26350, ZDI-25-621; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Phoenix Contact CHARX SEC-3150 devices without authentication. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call, which can be leveraged to execute code in the context of the device.</description>
+      <guid isPermaLink="false">ZDI-CAN-26350</guid>
+      <pubDate>Mon, 21 Jul 2025 17:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-622: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Configuration Service Missing Authentication Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-622/</link>
+      <description>Vulnerable Product: Phoenix Contact CHARX SEC-3150; CVE(s): CVE-2025-25268; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of Phoenix Contact CHARX SEC-3150 devices. Authentication is not required to exploit this vulnerability, which exists within the configuration service that listens on TCP port 5001 by default.</description>
+      <guid isPermaLink="false">ZDI-CAN-26331</guid>
+      <pubDate>Mon, 21 Jul 2025 17:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-623: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Origin Validation Error Firewall Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-623/</link>
+      <description>Vulnerable Product: Phoenix Contact CHARX SEC-3150; CVE(s): CVE-2025-25270; Summary: The Phoenix Contact CHARX SEC-3150 device has an origin validation error that allows network-adjacent attackers to bypass firewall rules and access another interface without authentication. The vulnerability exists in the configuration of firewall rules and can be exploited by leveraging other vulnerabilities to execute code with root privileges.</description>
+      <guid isPermaLink="false">ZDI-CAN-26332</guid>
+      <pubDate>Mon, 21 Jul 2025 17:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-624: (Pwn2Own) Phoenix Contact CHARX SEC-3100 Command Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-624/</link>
+      <description>Vulnerable Product: Phoenix Contact CHARX SEC-3100; CVE(s): CVE-2024-25995; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Phoenix Contact CHARX SEC-3100 devices without authentication. The specific flaw exists within the handling of the default routemetric parameter to the config service, resulting from the lack of proper validation of a user-supplied string before using it to execute a system call.</description>
+      <guid isPermaLink="false">ZDI-CAN-23328</guid>
+      <pubDate>Mon, 21 Jul 2025 17:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Powered Cloaking Tools Help Threat Actors Hide Malicious Domains from Security Scans</title>
+      <link>https://gbhackers.com/ai-powered-cloaking-tools-help-threat-actors/</link>
+      <description>Threat actors are increasingly using AI-powered cloaking services to evade automated security scanners and prolong the operational lifespan of their infrastructure. These services analyze visitor attributes such as IP geolocation, user-agent strings, and browser entropy to classify and reroute requests, ensuring only targeted human users encounter the payload.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150320</guid>
+      <pubDate>Mon, 21 Jul 2025 16:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ExpressVPN bug leaked user IPs in Remote Desktop sessions</title>
+      <link>https://www.bleepingcomputer.com/news/security/expressvpn-bug-leaked-user-ips-in-remote-desktop-sessions/</link>
+      <description>Vulnerable Product: ExpressVPN; CVE(s): None; Summary: The Windows client of ExpressVPN had a flaw that caused Remote Desktop Protocol (RDP) traffic to bypass the virtual private network (VPN) tunnel, exposing users' real IP addresses. The issue was caused by remnants of debug code used for internal testing being mistakenly included in production builds.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/expressvpn-bug-leaked-user-ips-in-remote-desktop-sessions/</guid>
+      <pubDate>Mon, 21 Jul 2025 16:06:08 +0000</pubDate>
+    </item>
     <item>
       <title>Veeam Recovery Orchestrator users locked out after MFA rollout</title>
       <link>https://www.bleepingcomputer.com/news/technology/veeam-recovery-orchestrator-users-locked-out-after-mfa-rollout/</link>
@@ -1435,48 +1477,6 @@ Overall, the article provides valuable insights into the tactics, techniques, an
       <description>Vulnerable Product: Vim; CVE(s): CVE-2025-53906; Summary: The vulnerability allows attackers to overwrite arbitrary files on users' systems by exploiting a path traversal issue in Vim's zip.vim plugin when opening specially crafted zip archives. Successful exploitation could lead to arbitrary code execution, compromising entire systems.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149326</guid>
       <pubDate>Wed, 16 Jul 2025 09:11:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Ivanti and Fortinet VPN Vulnerabilities in Attacks on Japanese Companies</title>
-      <link>https://gbhackers.com/hackers-exploit-ivanti-and-fortinet-vpn-vulnerabilities/</link>
-      <description>The article reports on a surge in cyber espionage campaigns against Japanese companies, primarily targeting North Korean threat actors. These campaigns aim to exfiltrate sensitive data, including manufacturing blueprints and personal information, using various tactics such as spear phishing, malware, and social engineering.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149267</guid>
-      <pubDate>Wed, 16 Jul 2025 09:05:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Curl 8.15.0 Officially Released: 233 Bugs Fixed in Major Update</title>
-      <link>https://gbhackers.com/curl-8-15-0-officially-released/</link>
-      <description>The article discusses the release of Curl 8.15.0, which addresses over 230 bugs and streamlines its internal architecture. The update removes support for Apple's Secure Transport API and BearSSL library to reduce maintenance overhead and promote adoption of widely tested TLS providers like OpenSSL. The article highlights the community-driven nature of the project, with many newcomers contributing to the codebase.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149308</guid>
-      <pubDate>Wed, 16 Jul 2025 08:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Authorities Take Down ‘Diskstation’ Ransomware Gang Targeting Synology NAS Globally</title>
-      <link>https://gbhackers.com/authorities-take-down-diskstation-ransomware-gang/</link>
-      <description>Vulnerable Product: Synology NAS systems; CVE(s): None; Summary: The "Diskstation" ransomware operation targeted Synology Network Attached Storage (NAS) systems worldwide, exploiting vulnerabilities to encrypt entire organizational datasets. The attackers specifically targeted these systems for data storage and backup solutions, allowing them to maximize their leverage over victims.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149301</guid>
-      <pubDate>Wed, 16 Jul 2025 08:35:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abacus Dark Web Market Suspected of Exit Scam with Held Bitcoin Funds</title>
-      <link>https://gbhackers.com/abacus-dark-web-market-suspected-of-exit-scam/</link>
-      <description>The largest Bitcoin-enabled Western darknet marketplace, Abacus Market, has gone offline amid suspicions of an exit scam that may have cost users millions of dollars in held cryptocurrency funds. The market's administrators likely shut down operations and disappeared with users' deposits, leaving behind a trail of frozen funds and delayed transactions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149293</guid>
-      <pubDate>Wed, 16 Jul 2025 08:26:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google AI "Big Sleep" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act</title>
-      <link>https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html</link>
-      <description>Vulnerable Product: SQLite; CVE(s): CVE-2025-6965; Summary: The vulnerability is a memory corruption flaw affecting all versions prior to 3.50.2, which could allow an attacker to cause an integer overflow resulting in read off the end of an array.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html</guid>
-      <pubDate>Wed, 16 Jul 2025 07:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former U.S. Army Member Pleads Guilty in Telecom Hacking Case</title>
-      <link>https://gbhackers.com/former-u-s-army-member-pleads-guilty/</link>
-      <description>A 21-year-old former U.S. Army soldier has pleaded guilty to participating in a sophisticated cybercrime operation that targeted telecommunications companies through hacking, data theft, and extortion schemes. The conspiracy involved at least 10 victim organizations, using specialized hacking tools and Telegram group chats to coordinate activities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149262</guid>
-      <pubDate>Wed, 16 Jul 2025 06:39:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
