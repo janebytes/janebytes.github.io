@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 12:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 13:02:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cybercriminal Listings Target Fujitsu, Baxter Kelly, AGX Financeira, and a Belgian IT Platform</title>
+      <link>https://socradar.io/cybercriminal-listings-target-fujitsu-baxter-kelly-agx-financeira-and-a-belgian-it-platform/</link>
+      <description>This article reports on several new listings for unauthorized access sales and data breaches affecting companies across Japan, the U.K., Brazil, and Belgium. The listings include sensitive internal files, Citrix access, customer data, and administrative control over a monitoring system, with prices ranging from $1,500 to $20,000.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061978</guid>
+      <pubDate>Mon, 21 Jul 2025 12:46:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ToolShell Campaign: New SharePoint Zero-Day (CVE-2025-53770) Triggers Widespread Exploitation</title>
+      <link>https://socradar.io/toolshell-sharepoint-zero-day-cve-2025-53770/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, None; Summary: A critical zero-day vulnerability in Microsoft SharePoint, identified as CVE-2025-53770, is actively being exploited in targeted attacks. The vulnerability allows attackers to bypass authentication, gain remote code execution capabilities, and establish persistent access using stolen cryptographic keys.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061964</guid>
+      <pubDate>Mon, 21 Jul 2025 12:29:23 +0000</pubDate>
+    </item>
     <item>
       <title>PHP PDO Flaw Allows Attackers to Inject Malicious SQL Commands</title>
       <link>https://gbhackers.com/php-pdo-flaw/</link>
@@ -67,6 +81,20 @@ There are no explicit discussions about vulnerabilities in software, hardware, o
       <description>CoinDCX, an Indian cryptocurrency exchange, suffered a significant security breach that resulted in approximately $44 million in losses. Despite the incident, customer funds remain secure and unaffected, thanks to the company's segregated account architecture. The investigation is ongoing to identify vulnerabilities, implement additional safety measures, and trace the movement of compromised funds.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150352</guid>
       <pubDate>Mon, 21 Jul 2025 10:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE‑2025‑37103: Remote Access Risk in Aruba Instant On Access Points Due to Hardcoded Passwords</title>
+      <link>https://socradar.io/cve202537103-aruba-instant-on-hardcoded-passwords/</link>
+      <description>Vulnerable Product: HPE Aruba Instant On Access Points; CVE(s): CVE-2025-37103, CVE-2025-37102; Summary: The Aruba Instant On access points contain a critical vulnerability (CVE-2025-37103) that allows remote access to the device's web interface without authentication due to a hardcoded admin password. This flaw can be exploited to gain administrative access and launch lateral attacks across the internal network, and when combined with CVE-2025-37102, it enables command injection and remote command execution.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061953</guid>
+      <pubDate>Mon, 21 Jul 2025 10:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-54309: New CrushFTP Zero-Day Exploited in the Wild</title>
+      <link>https://socradar.io/cve-2025-54309-new-crushftp-zero-day-exploited/</link>
+      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: A zero-day vulnerability in CrushFTP allows attackers to gain administrator-level access through the HTTPS interface on unpatched servers, enabling file theft, privilege escalation, and deeper network compromise. The flaw affects versions prior to 10.8.5 and 11.3.4_23, and building released after July 1, 2025, contain the fix.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100061943</guid>
+      <pubDate>Mon, 21 Jul 2025 09:04:51 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft AppLocker Flaw Lets Malicious Apps Bypass Security Restrictions</title>
@@ -1451,34 +1479,6 @@ FYSA: The article mentions threat actors using simple techniques for cloud attac
       <description>Vulnerable Product: Microsoft Azure; CVE(s): None; Summary: The bug prevented Azure virtual machines from launching when Trusted Launch setting was disabled and Virtualization-Based Security (VBS) was enabled, affecting Windows Server 2025 and Windows 11 24H2. The issue was caused by a secure kernel initialization problem and has been fixed with the KB5064489 out-of-band update.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/</guid>
       <pubDate>Tue, 15 Jul 2025 18:47:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean XORIndex malware hidden in 67 malicious npm packages</title>
-      <link>https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/</link>
-      <description>Vulnerable Product: Node Package Manager (npm); CVE(s): None; Summary: North Korean threat actors uploaded 67 malicious packages to npm, which collectively received over 17,000 downloads. The packages were designed to deliver a new malware loader called XORIndex, which can collect host and network data, profile victims, and download additional payloads.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/</guid>
-      <pubDate>Tue, 15 Jul 2025 17:47:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police disrupt “Diskstation” ransomware gang attacking NAS devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/</link>
-      <description>This article discusses a law enforcement operation codenamed 'Operation Elicius' that dismantled a Romanian ransomware gang known as 'Diskstation', which targeted Synology Network-Attached Storage (NAS) devices. The gang encrypted the systems of several companies, paralyzing their businesses, and demanded ransom payments ranging from $10,000 to hundreds of thousands of dollars.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/</guid>
-      <pubDate>Tue, 15 Jul 2025 16:53:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors</title>
-      <link>https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html</link>
-      <description>This article discusses a significant increase in distributed denial-of-service (DDoS) attacks mitigated by Cloudflare in the second quarter of 2025. The article highlights the rise of hyper-volumetric DDoS attacks, which peaked at 7.3 terabits per second and 4.8 billion packets per second within a span of 45 seconds. It also discusses the increasing use of targeted probes by attackers to find weak spots and slip past defenses.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html</guid>
-      <pubDate>Tue, 15 Jul 2025 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Attack on Albemarle County Exposes Residents’ Personal Information</title>
-      <link>https://gbhackers.com/ransomware-attack-on-albemarle-county/</link>
-      <description>Albemarle County, Virginia, fell victim to a sophisticated ransomware attack despite having robust defenses in place, including endpoint detection and response systems, multi-factor authentication, and regular vulnerability patching. The attack exploited on-premises servers, potentially exposing sensitive personally identifiable information (PII) of local government and public school employees, as well as county residents.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149147</guid>
-      <pubDate>Tue, 15 Jul 2025 15:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
