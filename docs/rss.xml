@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 18:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 19:00:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>APT41 Hackers Exploiting Atexec and WmiExec Windows Modules for Malware Deployment</title>
+      <link>https://gbhackers.com/apt41-hackers-exploiting-atexec-and-wmiexec-windows-modules/</link>
+      <description>This article reports a sophisticated targeted attack by APT41 against government IT services in the African region. The attackers used various tools and techniques to gain access to systems, including Impacket/WMI usage, DLL sideloading, and C2 domains. The attack was detected through suspicious activity on multiple workstations, and retrospective analysis revealed an IIS web server as the initial entry point.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150375</guid>
+      <pubDate>Mon, 21 Jul 2025 18:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-625: Veeam Backup Enterprise Manager JobManagmentService Improper Access Control Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-625/</link>
@@ -1470,13 +1477,6 @@ Overall, the article provides valuable insights into the tactics, techniques, an
       <description>This article discusses advanced techniques used by attackers to evade email filters and successfully send phishing payloads. The techniques include the use of polyglot files, which can be interpreted as multiple file formats simultaneously, allowing malicious content to appear benign to security scanners.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149288</guid>
       <pubDate>Wed, 16 Jul 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google fixes actively exploited sandbox escape zero day in Chrome</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-6558; Summary: The vulnerability, identified as CVE-2025-6558, is a high-severity issue in ANGLE and GPU that affects Google Chrome versions before 138.0.7204.157. It allows an attacker to perform a sandbox escape by using a specially crafted HTML page, potentially executing arbitrary code within the browser's GPU process.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/</guid>
-      <pubDate>Wed, 16 Jul 2025 09:47:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
