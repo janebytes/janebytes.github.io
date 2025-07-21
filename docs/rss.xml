@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 14:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 15:03:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Fix Targets Attacks on SharePoint Zero-Day</title>
+      <link>https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770, None; Summary: A vulnerability in Microsoft SharePoint Server is actively being exploited to compromise vulnerable organizations, allowing attackers to execute code over the network and steal ASP.NET machine keys. The patch comes amid reports of breaches in U.S. federal and state agencies, universities, and energy companies.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71737</guid>
+      <pubDate>Mon, 21 Jul 2025 14:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dior begins sending data breach notifications to U.S. customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/dior-begins-sending-data-breach-notifications-to-us-customers/</link>
+      <description>The article reports on a data breach incident at House of Dior, a French luxury fashion house, which affected U.S. customers' personal information. The breach occurred on January 26, 2025, and was only discovered on May 7, 2025. The compromised database contained full names, contact details, physical addresses, date of birth, passport or government ID number (in some cases), and Social Security Number (in some cases).</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dior-begins-sending-data-breach-notifications-to-us-customers/</guid>
+      <pubDate>Mon, 21 Jul 2025 14:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snake Keylogger Uses Persistence via Scheduled Tasks to Steal Login Data Undetected</title>
+      <link>https://gbhackers.com/snake-keylogger-uses-persistence-via-scheduled-tasks/</link>
+      <description>Researchers have identified a sophisticated phishing campaign targeting Turkish enterprises, particularly defense and aerospace industries. The campaign involves emails masquerading as legitimate contractual documents from Turkish Aerospace Industries (TUSAŞ), which contain malware that steals sensitive data such as credentials, cookies, and financial details without detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150310</guid>
+      <pubDate>Mon, 21 Jul 2025 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Release PoC Exploit for High-Severity NVIDIA AI Toolkit Bug</title>
+      <link>https://gbhackers.com/researchers-release-poc-exploit/</link>
+      <description>Vulnerable Product: NVIDIA Container Toolkit (NCT); CVE(s): CVE-2025-23266; Summary: A severe vulnerability in NCT allows malicious containers to escape isolation and gain root access on host systems. The flaw stems from a misconfiguration in OCI hook handling, affecting NCT versions up to 1.17.7 and NVIDIA GPU Operator up to 25.3.1.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150208</guid>
+      <pubDate>Mon, 21 Jul 2025 14:01:37 +0000</pubDate>
+    </item>
     <item>
       <title>Cybercriminal Listings Target Fujitsu, Baxter Kelly, AGX Financeira, and a Belgian IT Platform</title>
       <link>https://socradar.io/cybercriminal-listings-target-fujitsu-baxter-kelly-agx-financeira-and-a-belgian-it-platform/</link>
@@ -1449,36 +1477,6 @@ Overall, the article provides valuable insights into the tactics, techniques, an
       <description>Vulnerable Product: Node.js; CVE(s): CVE-2025-27210, CVE-2025-27209; Summary: Two high-severity vulnerabilities affecting Windows applications, including denial-of-service attacks. The first vulnerability allows attackers to bypass path traversal protection mechanisms, while the second introduces a HashDoS vulnerability through changes in the V8 JavaScript engine's string hashing implementation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149257</guid>
       <pubDate>Wed, 16 Jul 2025 05:33:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware ESXi and Workstation Vulnerabilities Allow Host-Level Code Execution</title>
-      <link>https://gbhackers.com/vmware-esxi-and-workstation-vulnerabilities/</link>
-      <description>Vulnerable Product: VMware; CVE(s): CVE-2025-41236, CVE-2025-41237, CVE-2025-41238, CVE-2025-41239; Summary: Four critical vulnerabilities in VMware's virtualization suite allow attackers to escape virtual machines and execute code directly on host systems. The flaws affect ESXi, Workstation, Fusion, and VMware Tools across enterprise and desktop environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149253</guid>
-      <pubDate>Wed, 16 Jul 2025 05:18:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI's image model gets built-in style feature on ChatGPT</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/</link>
-      <description>The article does not discuss a vulnerability. It appears to be focused on updates and features of OpenAI's image generation model, ChatGPT, including the introduction of a "Style" feature that allows users to create images in different styles.
-
-FYSA: The article mentions threat actors using simple techniques for cloud attacks and notes that attackers are leveraging ChatGPT to write malware.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/</guid>
-      <pubDate>Tue, 15 Jul 2025 20:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abacus dark web drug market goes offline in suspected exit scam</title>
-      <link>https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/</link>
-      <description>Abacus Market, the largest Western darknet marketplace supporting Bitcoin payments, has shut down its public infrastructure, suspected to be an exit scam or covert law enforcement operation. The market reportedly enabled transactions of nearly $100 million worth of Bitcoin and possibly up to $300 million when including Monero transactions. User deposits dropped significantly after withdrawal delays, leading many to believe it was an exit scam rather than a law enforcement takedown.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/</guid>
-      <pubDate>Tue, 15 Jul 2025 19:58:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows KB5064489 emergency update fixes Azure VM launch issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/</link>
-      <description>Vulnerable Product: Microsoft Azure; CVE(s): None; Summary: The bug prevented Azure virtual machines from launching when Trusted Launch setting was disabled and Virtualization-Based Security (VBS) was enabled, affecting Windows Server 2025 and Windows 11 24H2. The issue was caused by a secure kernel initialization problem and has been fixed with the KB5064489 out-of-band update.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/</guid>
-      <pubDate>Tue, 15 Jul 2025 18:47:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
