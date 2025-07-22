@@ -6,8 +6,85 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 22:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 10:08:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cybercriminals Merge Android Malware with Click Fraud Apps to Harvest Credentials</title>
+      <link>https://gbhackers.com/cybercriminals-merge-android-malware/</link>
+      <description>Vulnerable Product: Android; CVE(s): None; Summary: This article describes a campaign of active Android malware that combines brand impersonation with traffic monetization tactics. The malware exploits social engineering and off-market distribution channels to evade traditional security measures, preying on user trust to exfiltrate sensitive data such as login credentials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150557</guid>
+      <pubDate>Tue, 22 Jul 2025 09:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>wolfSSL Security Update Addresses Apple Trust Store Bypass</title>
+      <link>https://gbhackers.com/wolfssl-security-update/</link>
+      <description>Vulnerable Product: wolfSSL; CVE(s): CVE-2025-7394, CVE-2025-7395, CVE-2025-7396; Summary: The vulnerabilities affect users of wolfSSL versions after 5.7.6 and before 5.8.2 who utilize WOLFSSL_SYS_CA_CERTS and WOLFSSL_APPLE_NATIVE_CERT_VALIDATION features on Apple platforms. The most serious vulnerability allows malicious actors to bypass certificate verification processes, while the other two vulnerabilities relate to predictable random number generation and side-channel attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150591</guid>
+      <pubDate>Tue, 22 Jul 2025 08:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals from GLOBAL GROUP Target All Platforms with Golang Ransomware</title>
+      <link>https://gbhackers.com/cybercriminals-from-global-group-target/</link>
+      <description>The article discusses a ransomware-as-a-service (RaaS) operation called GLOBAL GROUP, which is actually a rebranded version of the Mamona RIP and Black Lock ransomware families. The RaaS offers features such as automated negotiations, cross-platform payloads, and lucrative affiliate splits, but it leverages familiar foundations and shared code artifacts from previous ransomware operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150506</guid>
+      <pubDate>Tue, 22 Jul 2025 08:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Financial Institutions Under Siege by Greedy Sponge Hackers’ Modified AllaKore RAT</title>
+      <link>https://gbhackers.com/financial-institutions-under-siege-by-greedy-sponge-hackers/</link>
+      <description>This article is about a threat actor group called Greedy Sponge that has been targeting Mexican organizations with a customized version of the AllaKore Remote Access Trojan (RAT) to steal banking credentials and authentication data. The malware, which can perform keylogging, screenshots, file uploads/downloads, and remote control capabilities, is delivered through spear-phishing and drive-by downloads.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150537</guid>
+      <pubDate>Tue, 22 Jul 2025 08:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit SharePoint Zero-Day Since July 7 to Steal Keys, Maintain Persistent Access</title>
+      <link>https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49706; Summary: A critical zero-day vulnerability in Microsoft SharePoint is being actively exploited in the wild, putting thousands of global organizations at risk. The attack chain leverages a remote code execution flaw (CVE-2025-53770) and a spoofing vulnerability (CVE-2025-49706) to gain initial access and escalate privileges.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html</guid>
+      <pubDate>Tue, 22 Jul 2025 07:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kubernetes Image Builder Vulnerability Grants Root Access to Windows Nodes</title>
+      <link>https://gbhackers.com/kubernetes-image-builder-vulnerability/</link>
+      <description>Vulnerable Product: Kubernetes Image Builder; CVE(s): CVE-2025-7342; Summary: A critical vulnerability in the Kubernetes Image Builder allows attackers to gain root access on Windows nodes by exploiting default credentials embedded in virtual machine images. The flaw affects images built with the Nutanix or OVA providers and can be exploited by logging in as the Administrator account, escalating privileges, and potentially compromising the entire cluster.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150543</guid>
+      <pubDate>Tue, 22 Jul 2025 07:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Report Reveals Just 10% Of Employees Drive 73% Of Cyber Risk</title>
+      <link>https://gbhackers.com/new-report-reveals-just-10-of-employees-drive-73-of-cyber-risk/</link>
+      <description>The article discusses a report by Living Security and Cyentia Institute, titled "2025 State of Human Cyber Risk Report", which reveals that human risk in the workforce is concentrated among 10% of employees who account for 73% of risky behavior. The report highlights the importance of managing behavioral risk rather than just systems, and provides insights on how to reduce organizational risk exposure through strategic HRM programs.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150529</guid>
+      <pubDate>Tue, 22 Jul 2025 07:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weak Password Enables Ransomware Attack on 158-Year-Old Firm</title>
+      <link>https://gbhackers.com/weak-password-enables-ransomware-attack/</link>
+      <description>This article is not about a specific vulnerability but highlights the devastating impact of cybersecurity vulnerabilities on British businesses. The case study of KNP, a logistics firm, demonstrates how a single compromised password can lead to catastrophic consequences, including ransomware attacks and data breaches.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150501</guid>
+      <pubDate>Tue, 22 Jul 2025 05:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dell Data Breach – World Leaks Group Hacks Test Lab Platform</title>
+      <link>https://gbhackers.com/dell-data-breach/</link>
+      <description>The World Leaks extortion group successfully infiltrated Dell Technologies' Customer Solution Centers platform, compromising a demonstration environment used to showcase products to commercial clients. The stolen information consists mainly of synthetic test data, publicly available datasets, and system data, with only an outdated contact list containing minimal operational significance.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150496</guid>
+      <pubDate>Tue, 22 Jul 2025 05:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ExpressVPN Windows Client Flaw Could Expose User Information</title>
+      <link>https://gbhackers.com/expressvpn-windows-client-flaw/</link>
+      <description>Vulnerable Product: ExpressVPN Windows Desktop Client; CVE(s): None; Summary: The Windows desktop client (versions 12.97 to 12.101.0.2-beta) had a vulnerability that could leak user connection details, specifically revealing their true IP address and RDP connections to on-network observers or internet service providers, although encryption remained intact. The issue was caused by debug code intended for internal testing but mistakenly shipped in production builds.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150492</guid>
+      <pubDate>Tue, 22 Jul 2025 04:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Exploitation of Microsoft SharePoint Vulnerabilities: Threat Brief</title>
+      <link>https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49704, CVE-2025-49706, CVE-2025-53770, CVE-2025-53771; Summary: A set of high-impact vulnerabilities in on-premises Microsoft SharePoint servers allows unauthenticated threat actors to access restricted functionality and run arbitrary commands. The vulnerabilities have been actively exploited, and attackers are bypassing identity controls to gain privileged access and exfiltrate sensitive data.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=147463</guid>
+      <pubDate>Mon, 21 Jul 2025 22:48:19 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-626: (Pwn2Own) NVIDIA Container Toolkit Environment Variable Handling Local Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-626/</link>
@@ -1385,85 +1462,6 @@ FYSA: Threat actors associated with Scattered Spider were behind the Co-op cyber
       <description>Vulnerable Product: SonicWall Secure Mobile Access (SMA) 100 series; CVE(s): CVE-2021-20035, CVE-2021-20038, CVE-2021-20039, CVE-2024-38475, CVE-2025-32819; Summary: A threat activity cluster has been observed targeting fully-patched end-of-life SonicWall SMA 100 series appliances to drop a backdoor called OVERSTEP. The attackers are believed to have initially gained access through the exploitation of known security flaws or obtained administrator credentials through information-stealing logs or credential marketplaces.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html</guid>
       <pubDate>Wed, 16 Jul 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MITRE Launches AADAPT Framework to Secure Digital Assets</title>
-      <link>https://socradar.io/mitre-launches-aadapt-framework-secure-digital-assets/</link>
-      <description>The MITRE organization has launched a new cybersecurity initiative called AADAPT (Adversarial Actions in Digital Asset Payment Technologies), which aims to help organizations detect and mitigate cyber threats in digital finance. The framework provides a structured approach to tackling risks in cryptocurrencies, smart contracts, decentralized applications, and blockchain systems, drawing on lessons from over 150 real-world incidents and expert sources across government, academia, and industry.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061842</guid>
-      <pubDate>Wed, 16 Jul 2025 13:29:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Vantage Flaws Enable Attackers to Gain SYSTEM-Level Privileges</title>
-      <link>https://gbhackers.com/lenovo-vantage-flaws-enable-attackers/</link>
-      <description>Vulnerable Product: Lenovo Vantage; CVE(s): 2025-6230, 2025-6231, 2025-6232; Summary: Multiple privilege escalation vulnerabilities in Lenovo Vantage allow unprivileged users to bypass authentication mechanisms and execute code with SYSTEM-level privileges, potentially leading to full system compromise. The flaws stem from Lenovo Vantage's modular architecture and expose JSON-based requests routed to add-ins defined in XML files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149490</guid>
-      <pubDate>Wed, 16 Jul 2025 12:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung WLAN AP Flaws Let Remote Attackers Run Commands as Root</title>
-      <link>https://gbhackers.com/samsung-wlan-ap-flaws/</link>
-      <description>Vulnerable Product: Samsung WEA453e Wireless Access Point; CVE(s): None; Summary: The WEA453e wireless access point has a critical chain of vulnerabilities that allows unauthenticated remote attackers to execute commands with full administrative privileges. The vulnerability chain begins with a reflected cross-site scripting (XSS) flaw and ends with local file inclusion (LFI) and command injection, allowing attackers to read sensitive files and gain root-level access without authentication.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149460</guid>
-      <pubDate>Wed, 16 Jul 2025 12:40:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese ‘Salt Typhoon’ Hackers Infiltrated US National Guard Network for Almost a Year</title>
-      <link>https://gbhackers.com/chinese-salt-typhoon-hackers-infiltrated/</link>
-      <description>A sophisticated advanced persistent threat (APT) group, known as Salt Typhoon, has successfully penetrated a U.S. state's Army National Guard network, enabling potential exfiltration of sensitive military and law enforcement data. The intrusion leveraged lateral movement techniques across interconnected systems, highlighting vulnerabilities in hybrid federal-state infrastructures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149463</guid>
-      <pubDate>Wed, 16 Jul 2025 12:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Secure Boot Certificate Expired in June, Microsoft Issues Warning</title>
-      <link>https://gbhackers.com/windows-secure-boot-certificate-expired-in-june/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The Secure Boot certificates used by most Windows devices are scheduled to expire starting in June 2026, potentially affecting device functionality and security. If not properly updated, affected devices may encounter boot failures or security vulnerabilities, leaving systems exposed to malware attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149449</guid>
-      <pubDate>Wed, 16 Jul 2025 12:13:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s AI ‘Big Sleep’ Detects Critical SQLite 0-Day, Halts Ongoing Attacks</title>
-      <link>https://gbhackers.com/googles-ai-big-sleep-detects-critical-sqlite-0-day/</link>
-      <description>Vulnerable Product: SQLite; CVE(s): CVE-2025-6965; Summary: A zero-day vulnerability was found in SQLite by Google's AI agent "Big Sleep", which allowed it to stop exploitation attempts before widespread attacks could occur. The vulnerability was detected using threat intelligence and advanced code analysis, demonstrating a proactive approach to predictive threat prevention.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149441</guid>
-      <pubDate>Wed, 16 Jul 2025 12:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access</title>
-      <link>https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html</link>
-      <description>Vulnerable Product: Microsoft Windows Server 2025; CVE(s): None; Summary: A critical design flaw in Delegated Managed Service Accounts (dMSAs) allows for high-impact attacks, enabling cross-domain lateral movement and persistent access to all managed service accounts and their resources across Active Directory. Exploitation requires possession of a Key Distribution Service (KDS) root key, which is typically only available to privileged accounts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html</guid>
-      <pubDate>Wed, 16 Jul 2025 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Partners Hacker Group Drains Crypto Wallets Using Fake AI Tools and VPN Services</title>
-      <link>https://gbhackers.com/dark-partners-hacker-group-drains-crypto-wallets/</link>
-      <description>Dark Partners, a financially driven cybercrime organization, has been planning massive cryptocurrency theft since May 2025 using over 250 malicious domains posing as AI tools, VPN services, and software brands. The group's infrastructure facilitates data harvesting from victims across multiple countries, with a focus on cryptocurrency, blockchain, technology, financial services, and VPN sectors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149392</guid>
-      <pubDate>Wed, 16 Jul 2025 11:52:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gmail Message Exploit Triggers Code Execution in Claude, Bypassing Protections</title>
-      <link>https://gbhackers.com/gmail-message-exploit-triggers-code-execution-in-claude/</link>
-      <description>Vulnerable Product: Claude Desktop; CVE(s): None; Summary: A cybersecurity researcher demonstrated a code execution attack on Claude Desktop, an AI assistant application, by leveraging the Model Context Protocol (MCP) and exploiting compositional risk. The attack did not rely on any vulnerabilities in individual MCP servers but rather the combination of untrusted input sources, excessive execution permissions, and lack of contextual guardrails between different tools.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149423</guid>
-      <pubDate>Wed, 16 Jul 2025 11:37:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Agents Act Like Employees With Root Access—Here's How to Regain Control</title>
-      <link>https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html</link>
-      <description>The article highlights the importance of identity-first security in securing generative AI systems. It warns that most organizations are not securing their AI deployments properly and that every LLM access point or website is a new identity edge that can be exploited. The article emphasizes the need for phishing-resistant MFA, granular RBAC, and continuous device trust enforcement to eliminate AI access risk without hindering innovation.
-
-FYSA: The threat surface of AI systems expands internal attack surfaces, especially if access control and identity segmentation aren't enforced at runtime. Third-party tools can be misused or accessed by unauthorized users, or corporate users on personal accounts, where governance gaps exist.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html</guid>
-      <pubDate>Wed, 16 Jul 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle Issues Critical Update Fixing 309 Vulnerabilities Across Products</title>
-      <link>https://gbhackers.com/oracle-issues-critical-update/</link>
-      <description>Vulnerable Product: Oracle; CVE(s): 309 (None); Summary: The Oracle July 2025 Critical Patch Update addresses 309 security vulnerabilities across its product portfolio, including Oracle Database Server, MySQL Server, WebLogic Server, Java SE, and other products. The update affects multiple version ranges, with some affecting software dating back several years. The vulnerabilities can be exploited remotely without authentication, leading to unauthorized access, data breaches, and system compromise.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149332</guid>
-      <pubDate>Wed, 16 Jul 2025 11:20:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
