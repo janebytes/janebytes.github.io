@@ -6,8 +6,87 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 17:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 18:05:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-629: (0Day) Ashlar-Vellum Cobalt LI File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-629/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7977; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by exploiting an out-of-bounds read in the LI file parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-25354</guid>
+      <pubDate>Tue, 22 Jul 2025 18:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-630: (0Day) Ashlar-Vellum Cobalt LI File Parsing Integer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-630/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7982; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by exploiting an integer overflow before allocating a buffer during LI file parsing. User interaction is required, as the target must visit a malicious page or open a malicious file to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-25476</guid>
+      <pubDate>Tue, 22 Jul 2025 18:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-631: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-631/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Graphite; CVE(s): CVE-2025-7980; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Graphite by exploiting an out-of-bounds write in the VC6 file parsing. User interaction is required, and the flaw results from improper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25465</guid>
+      <pubDate>Tue, 22 Jul 2025 18:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-632: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Uninitialized Variable Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-632/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Graphite VC6 File Parsing; CVE(s): CVE-2025-7978; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Graphite. User interaction is required, and the specific flaw exists within the parsing of VC6 files due to an uninitialized variable.</description>
+      <guid isPermaLink="false">ZDI-CAN-25459</guid>
+      <pubDate>Tue, 22 Jul 2025 18:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-633: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-633/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Graphite; CVE(s): CVE-2025-7979; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Graphite. User interaction is required to exploit this vulnerability, which exists within the parsing of VC6 files due to a lack of proper validation of user-supplied data prior to copying it to a stack-based buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-25463</guid>
+      <pubDate>Tue, 22 Jul 2025 18:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-635: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-635/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Graphite; CVE(s): CVE-2025-7983; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Graphite. User interaction is required, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-25477</guid>
+      <pubDate>Tue, 22 Jul 2025 18:03:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-636: (0Day) Ashlar-Vellum Cobalt AR File Parsing Uninitialized Variable Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-636/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7984; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit this vulnerability, which occurs when parsing AR files due to uninitialized variables.</description>
+      <guid isPermaLink="false">ZDI-CAN-25700</guid>
+      <pubDate>Tue, 22 Jul 2025 18:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-637: (0Day) Ashlar-Vellum Cobalt VC6 File Parsing Integer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-637/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7985; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by exploiting an integer overflow in the parsing of VC6 files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-25704</guid>
+      <pubDate>Tue, 22 Jul 2025 18:02:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coyote malware abuses Windows accessibility framework for data theft</title>
+      <link>https://www.bleepingcomputer.com/news/security/coyote-malware-abuses-windows-accessibility-framework-for-data-theft/</link>
+      <description>The article discusses a new variant of the banking trojan "Coyote" that abuses Microsoft's UI Automation framework (UIA) to identify which banking and cryptocurrency exchange sites are accessed on a device for potential credential theft. The malware, which targets 75 apps primarily in Brazil, uses UIA to extract web addresses from browser tabs or address bars and cross-referenced with a hardcoded list of targeted services.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/coyote-malware-abuses-windows-accessibility-framework-for-data-theft/</guid>
+      <pubDate>Tue, 22 Jul 2025 17:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA and FBI warn of escalating Interlock ransomware attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-and-fbi-warn-of-escalating-interlock-ransomware-attacks/</link>
+      <description>CISA and the FBI have warned of increased Interlock ransomware activity targeting businesses and critical infrastructure organizations in double extortion attacks. The advisory provides indicators of compromise (IOCs) collected during investigations, as well as mitigation measures to protect networks against this ransomware gang's attacks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-and-fbi-warn-of-escalating-interlock-ransomware-attacks/</guid>
+      <pubDate>Tue, 22 Jul 2025 17:36:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major European healthcare network discloses security breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/major-european-healthcare-network-discloses-security-breach/</link>
+      <description>AMEOS Group suffered a security breach that may have exposed customer, employee, and partner information. External actors gained unauthorized access to its IT systems and accessed sensitive information.
+
+Note: There is no specific vulnerability mentioned in the article, but rather a security breach at AMEOS Group.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/major-european-healthcare-network-discloses-security-breach/</guid>
+      <pubDate>Tue, 22 Jul 2025 17:27:10 +0000</pubDate>
+    </item>
     <item>
       <title>Scavenger Malware Compromises Popular npm Packages to Target Developers</title>
       <link>https://gbhackers.com/scavenger-malware-compromises-popular-npm-packages/</link>
@@ -1373,83 +1452,6 @@ FYSA: Threat actors have been conducting a long-term campaign, exploiting known 
       <description>The article announces the official launch of "The Browser Security Field Manual" by SquareX, a comprehensive guide to browser security threats and tactics. The manual features industry perspectives from leading CISOs and covers five major threat vectors, including phishing, malicious extensions, data loss, identity attacks, and browser-native ransomware.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149807</guid>
       <pubDate>Thu, 17 Jul 2025 14:08:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese State-Sponsored Hackers Target Semiconductor Industry with Weaponized Cobalt Strike</title>
-      <link>https://gbhackers.com/chinese-state-sponsored-hackers-target-semiconductor-industry/</link>
-      <description>This article reports on a sophisticated cyberespionage campaign targeting Taiwan's semiconductor industry. Three Chinese state-sponsored threat actors (UNK_FistBump, UNK_DropPitch, and UNK_SparkyCarp) conducted coordinated phishing operations against organizations in the semiconductor sector, using various tactics, techniques, and procedures to deliver malware payloads and collect intelligence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149808</guid>
-      <pubDate>Thu, 17 Jul 2025 14:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 4 Million Exposed Devices Used in Two New DoS Attack Campaigns</title>
-      <link>https://gbhackers.com/over-4-million-exposed-devices/</link>
-      <description>Vulnerable Product: Various tunneling protocols (IPIP, GRE, 4in6, 6in4); CVE(s): CVE-2024-7595, CVE-2024-7596, CVE-2025-23018, and CVE-2025-23019; Summary: The vulnerability affects millions of Internet hosts that accept unauthenticated tunneling traffic, allowing for devastating denial-of-service attacks, including TuTL and Ping-Pong amplification attacks. Additionally, the EDoS attack targets cloud-hosted services by forcing vulnerable hosts to generate massive amounts of outbound traffic, leading to increased costs or service disruptions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149794</guid>
-      <pubDate>Thu, 17 Jul 2025 13:05:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco ISE Hit by CVSS 10 RCE Vulnerabilities Allowing Full System Takeover – Patch Now</title>
-      <link>https://socradar.io/cisco-ise-cvss-10-rce-full-system-takeover/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine (ISE), Cisco Unified Intelligence Center, and Cisco Prime Infrastructure; CVE(s): CVE-2025-20281, CVE-2025-20282, CVE-2025-20337; Summary: Three critical vulnerabilities with a maximum CVSS score of 10.0 allow unauthenticated attackers to execute arbitrary code on affected systems with root privileges by sending specially crafted API requests. The flaws exist in specific APIs within Cisco ISE and its Passive Identity Connector (ISE-PIC).</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061891</guid>
-      <pubDate>Thu, 17 Jul 2025 13:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Reveal How Hacktivist Groups Gain Attention and Choose Their Targets</title>
-      <link>https://gbhackers.com/researchers-reveal-how-hacktivist-groups/</link>
-      <description>Cybersecurity researchers have released findings on the operational dynamics of hacktivist organizations, revealing sophisticated attention-seeking behaviors and strategic target selection methodologies. The study highlights hacktivists' calculated targeting strategies, self-promotion mechanisms, and use of psychological warfare approaches to amplify their perceived influence. It also notes the commercialization trend within the hacktivist community and the increasing focus on capability development, leading to a more complex threat landscape.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149772</guid>
-      <pubDate>Thu, 17 Jul 2025 12:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Three Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/17/cisa-releases-three-industrial-control-systems-advisories</link>
-      <description>CISA issued three Industrial Control Systems (ICS) advisories on July 17, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories aim to inform users and administrators of technical details and mitigations for the affected products.</description>
-      <guid isPermaLink="false">/node/23635</guid>
-      <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Panoramic Corporation Digital Imaging Software</title>
-      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-198-01</link>
-      <description>Vulnerable Product: Panoramic Corporation Digital Imaging Software (Version 9.1.2.7600); CVE(s): CVE-2024-22774; Summary: The Digital Imaging Software is vulnerable to DLL hijacking, allowing an attacker with standard user privileges to obtain NT Authority/SYSTEM privileges. Successful exploitation could allow a standard user to gain elevated access.</description>
-      <guid isPermaLink="false">/node/23634</guid>
-      <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leviton AcquiSuite and Energy Monitoring Hub</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-198-01</link>
-      <description>Vulnerable Product: Leviton AcquiSuite and Leviton Energy Monitoring Hub; CVE(s): CVE-2025-6185; Summary: The vulnerability is a cross-site scripting (XSS) weakness that allows an attacker to craft malicious payloads in URL parameters, execute them in a client browser, steal session tokens, and control the service. Exploitation can occur remotely with low attack complexity.</description>
-      <guid isPermaLink="false">/node/23633</guid>
-      <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UNG0002 Actors Weaponize LNK Files via ClickFix Fake CAPTCHA Pages</title>
-      <link>https://gbhackers.com/ung0002-actors-weaponize-lnk-files/</link>
-      <description>The article reports on a sophisticated espionage group known as UNG0002 (Unknown Group 0002) that has been conducting persistent campaigns across multiple Asian jurisdictions since May 2024. The group uses social engineering techniques, advanced malware deployment methods, and custom-developed implants to target organizations in China, Hong Kong, and Pakistan.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149751</guid>
-      <pubDate>Thu, 17 Jul 2025 11:50:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK’s Co-op Retailer Hit by Cyberattack, 6.5 Million Members’ Data Exposed</title>
-      <link>https://gbhackers.com/uks-co-op-retailer-hit-by-cyberattack/</link>
-      <description>The UK's Co-op retailer suffered a significant cyberattack in April 2024, resulting in the theft of personal data from all 6.5 million members. While no financial information was compromised, hackers accessed names, addresses, and contact information. The breach highlights the ongoing cybersecurity challenges facing major retailers and the importance of robust preventive measures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149774</guid>
-      <pubDate>Thu, 17 Jul 2025 11:31:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Disrupts NoName057(16) Hacktivist Group Linked to DDoS Attacks Against Ukraine</title>
-      <link>https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html</link>
-      <description>The article discusses an international operation led by Europol to disrupt the infrastructure of a pro-Russian hacktivist group called NoName057(16) that has been linked to DDoS attacks against Ukraine and its allies. The joint effort resulted in the dismantling of the group's central server infrastructure, arrests, searches, and issuance of arrest warrants.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html</guid>
-      <pubDate>Thu, 17 Jul 2025 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Container Toolkit Vulnerability Allows Privileged Code Execution by Attackers</title>
-      <link>https://gbhackers.com/nvidia-container-toolkit-vulnerability/</link>
-      <description>Vulnerable Product: NVIDIA Container Toolkit and GPU Operator; CVE(s): CVE-2025-23266, CVE-2025-23267; Summary: The NVIDIA Container Toolkit and GPU Operator contain two critical vulnerabilities that allow attackers to execute arbitrary code with elevated privileges. The first vulnerability (CVE-2025-23266) has a CVSS score of 9.0, while the second (CVE-2025-23267) has a score of 8.5. These flaws enable privilege escalation, data tampering, information disclosure, and denial-of-service attacks in containerized environments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149760</guid>
-      <pubDate>Thu, 17 Jul 2025 11:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
