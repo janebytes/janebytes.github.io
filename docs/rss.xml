@@ -6,8 +6,71 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 18:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 19:03:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-634: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Uninitialized Variable Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-634/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Graphite VC6; CVE(s): CVE-2025-7981; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Graphite by exploiting an uninitialized variable in the parsing of VC6 files. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper initialization of memory prior to accessing it.</description>
+      <guid isPermaLink="false">ZDI-CAN-25475</guid>
+      <pubDate>Tue, 22 Jul 2025 19:03:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-638: (0Day) Ashlar-Vellum Cobalt VC6 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-638/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Cobalt VC6; CVE(s): CVE-2025-7990; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by exploiting an out-of-bounds write in the file parsing functionality. User interaction is required, and the flaw exists within the parsing of VC6 files due to lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25944</guid>
+      <pubDate>Tue, 22 Jul 2025 19:03:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-639: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-639/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Graphite; CVE(s): CVE-2025-7986; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Graphite by parsing VC6 files. User interaction is required, and the specific flaw exists due to lack of proper validation of user-supplied data, leading to a write past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-25755</guid>
+      <pubDate>Tue, 22 Jul 2025 19:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-640: (0Day) Ashlar-Vellum Cobalt AR File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-640/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Cobalt AR File Parsing; CVE(s): CVE-2025-7989; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by parsing out-of-bounds read remote code execution. User interaction is required, and the flaw exists within the parsing of AR files due to lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25943</guid>
+      <pubDate>Tue, 22 Jul 2025 19:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-641: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-641/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Graphite VC6; CVE(s): CVE-2025-7987; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Graphite by exploiting an out-of-bounds write in the parsing of VC6 files. User interaction is required, and the attack can be executed by visiting a malicious page or opening a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-25756</guid>
+      <pubDate>Tue, 22 Jul 2025 19:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-642: (0Day) Ashlar-Vellum Cobalt AR File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-642/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7992; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit this vulnerability, which exists within the parsing of AR files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-25972</guid>
+      <pubDate>Tue, 22 Jul 2025 19:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-643: (0Day) Ashlar-Vellum Cobalt VC6 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-643/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Cobalt VC6; CVE(s): CVE-2025-7991; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by reading past the end of an allocated data structure. User interaction is required, and the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-25945</guid>
+      <pubDate>Tue, 22 Jul 2025 19:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-644: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-644/</link>
+      <description>Vulnerable Product: Ashlar-Vellum Graphite VC6 File Parsing; CVE(s): CVE-2025-7988; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Graphite, requiring user interaction. The flaw exists in the parsing of VC6 files due to a lack of proper validation of user-supplied data, resulting in a write past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-25862</guid>
+      <pubDate>Tue, 22 Jul 2025 19:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-645: Autodesk Revit RFA File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-645/</link>
+      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit by parsing out-of-bounds RFA files. User interaction is required, and the specific flaw exists within the lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-27254</guid>
+      <pubDate>Tue, 22 Jul 2025 19:01:06 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-629: (0Day) Ashlar-Vellum Cobalt LI File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-629/</link>
@@ -184,6 +247,13 @@ Note: There is no specific vulnerability mentioned in the article, but rather a 
       <description>Vulnerable Product: Cisco ISE and ISE-PIC; CVE(s): CVE-2025-20281, CVE-2025-20282, CVE-2025-20337; Summary: A set of critical remote code execution (RCE) vulnerabilities affecting Cisco's Identity Services Engine (ISE) and Passive Identity Connector (ISE-PIC) products are being actively exploited in the wild. The flaws allow unauthenticated attackers to gain root-level access to vulnerable systems with a CVSS base score of 10.0, and no viable workarounds exist.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150681</guid>
       <pubDate>Tue, 22 Jul 2025 12:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Various (CrushFTP, Google Chromium ANGLE and GPU, SysAid On-Prem); CVE(s): CVE-2025-54309, CVE-2025-6558, CVE-2025-2776, CVE-2025-2775; Summary: Four new vulnerabilities have been added to the Known Exploited Vulnerabilities (KEV) Catalog due to active exploitation. These vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise and other organizations.</description>
+      <guid isPermaLink="false">/node/23659</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Schneider Electric EcoStruxure</title>
@@ -1376,82 +1446,6 @@ Vulnerable Product: Fortinet FortiWeb; CVE(s): 2025-25257; Summary: A proof-of-c
       <description>Threat actors are using public GitHub repositories to host malicious payloads and distribute them via Amadey as part of a campaign observed in April 2025. The malware loader Emmenhtal delivers Amadey, which downloads various custom payloads from public GitHub repositories operated by the threat actors.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html</guid>
       <pubDate>Thu, 17 Jul 2025 17:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacker steals $27 million in BigONE exchange crypto breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/</link>
-      <description>This article does not discuss a vulnerability. Instead, it reports on a cryptocurrency exchange hack that resulted in the theft of digital assets valued at $27 million. The article also discusses broader trends and statistics related to cryptocurrency crime.
-
-FYSA: The article highlights a significant cryptocurrency heist, with hackers stealing $223 million worth of Cetus Protocol cryptocurrency. Additionally, it notes that there has been an increase in attacks on personal wallets, accounting for 23.35% of all stolen funds this year.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/</guid>
-      <pubDate>Thu, 17 Jul 2025 16:54:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese hackers breached National Guard to steal network configurations</title>
-      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/</link>
-      <description>Vulnerable Product: Various; CVE(s): CVE-2018-0171, CVE-2023-20198, CVE-2023-20273, CVE-2024-3400; Summary: Salt Typhoon, a Chinese state-sponsored hacking group, exploited vulnerabilities in Cisco routers and other devices to breach a US Army National Guard network for nine months, stealing configuration files and administrator credentials. The vulnerabilities included a critical flaw in Cisco IOS and IOS XE Smart Install (CVE-2018-0171), a zero-day affecting Cisco IOS XE web UI (CVE-2023-20198), a privilege escalation flaw targeting IOS XE (CVE-2023-20273), and a command injection vulnerability in Palo Alto Networks' PAN-OS GlobalProtect (CVE-2024-3400).</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/</guid>
-      <pubDate>Thu, 17 Jul 2025 16:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Max severity Cisco ISE bug allows pre-auth command execution, patch now</title>
-      <link>https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/</link>
-      <description>Vulnerable Product: Cisco's Identity Services Engine (ISE); CVE(s): CVE-2025-20337; Summary: A critical vulnerability in Cisco's ISE allows an unauthenticated attacker to store malicious files, execute arbitrary code, or gain root privileges on vulnerable devices. The issue is caused by insufficient user-supplied input validation checks and received the maximum severity rating of 10 out of 10.
-
-FYSA: Although no exploitation of the three maximum severity vulnerabilities has been observed in the wild as of yet, it is recommended that system administrators take immediate action to mitigate the risks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/</guid>
-      <pubDate>Thu, 17 Jul 2025 15:53:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams Exploited to Deliver Matanbuchus Ransomware Payload</title>
-      <link>https://gbhackers.com/microsoft-teams-exploited/</link>
-      <description>Vulnerable Product: Microsoft Teams; CVE(s): None; Summary: The article describes a sophisticated cyberattack campaign targeting organizations through Microsoft Teams impersonation. Attackers compromise systems by pretending to be IT helpdesk personnel during external Teams calls, leading to the execution of malicious scripts that deploy the Matanbuchus 3.0 malware loader.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149861</guid>
-      <pubDate>Thu, 17 Jul 2025 15:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian Hackers Claim Cyberattack on Major Russian Drone Supplier</title>
-      <link>https://gbhackers.com/ukrainian-hackers-claim-cyberattack/</link>
-      <description>The article describes the story of a Ukrainian woman, Nelya Leonidova, who survived a cluster munition attack in 2014 and has been dealing with the long-term consequences of her severe combat-related injuries. The story highlights the humanitarian impact of explosive ordnance use in populated areas and emphasizes individual resilience in the face of catastrophic trauma.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149843</guid>
-      <pubDate>Thu, 17 Jul 2025 15:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>H2Miner Targets Linux, Windows, and Containers to Illicitly Mine Monero</title>
-      <link>https://gbhackers.com/h2miner-targets-linux-windows-and-containers/</link>
-      <description>This article reports on a sophisticated cryptomining campaign called H2Miner, which targets Linux, Windows, and containerized environments simultaneously. The campaign uses updated scripts and infrastructure to deploy Kinsing malware, disable security defenses, and download additional payloads, including miners and information stealers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149797</guid>
-      <pubDate>Thu, 17 Jul 2025 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massistant: Chinese Mobile Forensic Tool Accesses SMS, Images, Audio, and GPS Data</title>
-      <link>https://gbhackers.com/massistant-chinese-mobile-forensic-tool/</link>
-      <description>Vulnerable Product: Meiya Pico's Massistant; CVE(s): None; Summary: Massistant is a sophisticated mobile forensics application deployed by Chinese law enforcement to extract comprehensive data from confiscated mobile devices. It can bypass device security measures and collect sensitive information, raising critical security concerns for international business travelers and enterprise organizations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149825</guid>
-      <pubDate>Thu, 17 Jul 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-25257: Attackers Exploit FortiWeb SQL Injection Bug for Remote Code Execution</title>
-      <link>https://socradar.io/cve-2025-25257-fortiweb-sql-injection-bug-rce/</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A critical SQL injection vulnerability (CVSS 9.6) in Fortinet's FortiWeb Fabric Connector allows unauthenticated attackers to execute arbitrary SQL commands and Remote Code Execution (RCE). The flaw impacts several FortiWeb versions, including 7.0.0 through 7.6.3, and has been actively exploited since July 11.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061902</guid>
-      <pubDate>Thu, 17 Jul 2025 14:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner</title>
-      <link>https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html</link>
-      <description>Vulnerable Product: Apache HTTP Server; CVE(s): CVE-2021-41773; Summary: The vulnerability in Apache HTTP Server version 2.4.49 is a high-severity path traversal vulnerability that could result in remote code execution, exploited by threat actors to deliver a cryptocurrency miner called Linuxsys.
-
-FYSA: Threat actors have been conducting a long-term campaign, exploiting known security flaws and employing consistent techniques such as n-day exploitation, staging content on compromised hosts, and coin mining on victim machines. The campaign has resulted in the delivery of malware, including the Linuxsys cryptocurrency miner.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html</guid>
-      <pubDate>Thu, 17 Jul 2025 14:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SquareX Collaborates With Top Fortune 500 CISOs To Launch The Browser Security Field Manual At Black Hat</title>
-      <link>https://gbhackers.com/squarex-collaborates-with-top-fortune-500-cisos-to-launch-the-browser-security-field-manual-at-black-hat/</link>
-      <description>The article announces the official launch of "The Browser Security Field Manual" by SquareX, a comprehensive guide to browser security threats and tactics. The manual features industry perspectives from leading CISOs and covers five major threat vectors, including phishing, malicious extensions, data loss, identity attacks, and browser-native ransomware.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149807</guid>
-      <pubDate>Thu, 17 Jul 2025 14:08:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
