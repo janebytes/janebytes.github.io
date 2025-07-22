@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 15:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 16:02:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Iranian Hackers Target Global Airlines to Steal Sensitive Data</title>
+      <link>https://gbhackers.com/iranian-hackers-target-global-airlines/</link>
+      <description>APT39, a state-sponsored hacker collective connected to Iran's Ministry of Intelligence and Security (MOIS), was exposed as operating through the compromised internal systems of Amnban, a cybersecurity company. The breach reveals a sophisticated campaign involving cyber network exploitation (CNE) and preparation for cyber network attacks (CNA), with millions of airline passengers' sensitive personal identifiable information (PII) harvested worldwide.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150730</guid>
+      <pubDate>Tue, 22 Jul 2025 15:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ETQ Reliance RCE Flaw Grants Full SYSTEM Access with a Single Space</title>
+      <link>https://gbhackers.com/etq-reliance-rce-flaw-grants-full-system-access/</link>
+      <description>Vulnerable Product: Hexagon ETQ's ETQ Reliance; CVE(s): 2025-34140, 2025-34141, 2025-34142, 2025-34143; Summary: The Java-based quality management system, ETQ Reliance, has several serious flaws including reflected cross-site scripting (XSS), XML External Entity (XXE) injection, authentication bypass, and remote code execution (RCE). These vulnerabilities were responsibly disclosed, leading to patches in NXG Release 2025.1.2.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150713</guid>
+      <pubDate>Tue, 22 Jul 2025 15:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-628: (Pwn2Own) Phoenix Contact CHARX SEC-3150 OCPP Authentication Bypass Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-628/</link>
@@ -1442,20 +1456,6 @@ No specific vulnerabilities are mentioned or analyzed in the article.</descripti
       <description>Vulnerable Product: Cisco Unified Intelligence Center; CVE(s): CVE-2025-20274; Summary: A critical vulnerability in Cisco's Unified Intelligence Center allows authenticated remote attackers to upload arbitrary files, potentially enabling complete system compromise through privilege escalation to root access. The flaw stems from improper file validation and can be exploited by users with Report Designer role privileges, allowing for the execution of arbitrary commands on the underlying operating system.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149656</guid>
       <pubDate>Thu, 17 Jul 2025 08:29:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weaponizing SVG: How Threat Actors Embed Malicious JavaScript in Vector Files</title>
-      <link>https://gbhackers.com/how-threat-actors-embed-malicious-javascript-in-vector-files/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: Researchers have identified an emerging attack campaign using Scalable Vector Graphics (SVG) files to deliver JavaScript-based redirect attacks. The technique exploits the inherent trust in image formats, allowing malicious actors to embed obfuscated JavaScript within SVG files that execute automatically when opened in web browsers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149610</guid>
-      <pubDate>Thu, 17 Jul 2025 07:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors</title>
-      <link>https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html</link>
-      <description>The article reports on spear-phishing campaigns conducted by three Chinese state-sponsored threat actors targeting the Taiwanese semiconductor industry. The campaigns involve phishing emails with malicious payloads, including Cobalt Strike or a custom backdoor, and DLL side-loading to spawn reverse shells and establish command-and-control connections.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html</guid>
-      <pubDate>Thu, 17 Jul 2025 07:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
