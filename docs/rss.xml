@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 13:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 14:01:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UK Bans Public Sector from Paying Ransomware Gangs</title>
+      <link>https://gbhackers.com/uk-bans-public-sector-from-paying-ransomware-gangs/</link>
+      <description>The UK government has announced a comprehensive ban preventing public sector organizations from paying ransom demands to cybercriminals in an effort to disrupt the business model that makes ransomware attacks profitable. The ban aims to protect critical national infrastructure operators, including NHS trusts and schools, by prohibiting ransom payments to criminal groups.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150696</guid>
+      <pubDate>Tue, 22 Jul 2025 13:21:18 +0000</pubDate>
+    </item>
     <item>
       <title>UK to ban public sector orgs from paying ransomware gangs</title>
       <link>https://www.bleepingcomputer.com/news/security/uk-to-ban-public-sector-orgs-from-paying-ransomware-gangs/</link>
@@ -1455,13 +1462,6 @@ FYSA: Threat actors associated with Scattered Spider were behind the Co-op cyber
       <description>The article discusses infostealer malware masquerading as keygens and cracked software, which uses advanced SEO poisoning to elevate malicious distribution sites in search results. It highlights the diversity of infostealers, including variants like LummaC2, Rhadamanthys, ACRStealer, Vidar, and StealC, and notes their evolving sophistication through techniques like evasion, deception, and anti-analysis mechanisms.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149538</guid>
       <pubDate>Wed, 16 Jul 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Leverage 607 Malicious Domains to Spread APK Malware with Remote Command Execution</title>
-      <link>https://gbhackers.com/hackers-leverage-607-malicious-domains/</link>
-      <description>Vulnerable Product: None; CVE(s): Janus vulnerability on Android versions 5.0 through 8.0 (None); Summary: Rogue domains were used in a large-scale phishing campaign to spread fake Telegram Messenger application files (APKs) over the course of a month, leveraging QR codes and centralized redirection for efficient malware delivery. The malicious APKs employ cleartext traffic protocols, grant broad permissions, and integrate MediaPlayer invocations and socket-based callbacks for remote command execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149532</guid>
-      <pubDate>Wed, 16 Jul 2025 19:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
