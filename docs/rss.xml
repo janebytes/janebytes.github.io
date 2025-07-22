@@ -6,14 +6,56 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 14:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 15:08:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-628: (Pwn2Own) Phoenix Contact CHARX SEC-3150 OCPP Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-628/</link>
+      <description>Vulnerable Product: Phoenix Contact CHARX SEC-3150; CVE(s): CVE-2025-25271, ZDI-CAN-26346, ZDI-25-628; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of Phoenix Contact CHARX SEC-3150 devices. Authentication is not required to exploit this vulnerability, and an attacker can leverage it to bypass authentication on the system.</description>
+      <guid isPermaLink="false">ZDI-CAN-26346</guid>
+      <pubDate>Tue, 22 Jul 2025 15:07:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Target Linux SSH Servers to Deploy SVF Botnet</title>
+      <link>https://gbhackers.com/threat-actors-target-linux-ssh-servers/</link>
+      <description>Vulnerable Product: Linux servers; CVE(s): None; Summary: Weak SSH credentials on Linux servers are being exploited by threat actors to launch DDoS attacks and cryptocurrency mining. The SVF Botnet malware is used to achieve this, which also incorporates proxy servers for enhanced evasion and has a modular design with customizable attack parameters.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150698</guid>
+      <pubDate>Tue, 22 Jul 2025 14:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco: Maximum-severity ISE RCE flaws now exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisco-maximum-severity-ise-rce-flaws-now-exploited-in-attacks/</link>
+      <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20281, CVE-2025-20282, CVE-2025-20337; Summary: Three critical remote code execution vulnerabilities in Cisco ISE are being actively exploited. The flaws allow attackers to execute arbitrary commands as root without authentication and can lead to gaining a foothold on corporate networks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-maximum-severity-ise-rce-flaws-now-exploited-in-attacks/</guid>
+      <pubDate>Tue, 22 Jul 2025 14:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Web3 Phishing Scam Uses Fake AI Platforms to Steal Credentials</title>
+      <link>https://gbhackers.com/new-web3-phishing-scam-uses-fake-ai-platforms/</link>
+      <description>The article discusses a phishing campaign by the LARVA-208 threat actor group targeting Web3 developers. The attackers use spearphishing links to lure victims into downloading malware disguised as a Realtek HD Audio Driver, which executes PowerShell commands and exfiltrates sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150688</guid>
+      <pubDate>Tue, 22 Jul 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFake Interview Attack Leverages ClickFix Technique to Deploy GolangGhost Malware</title>
+      <link>https://gbhackers.com/clickfake-interview-attack-leverages-clickfix-technique/</link>
+      <description>The article discusses the "ClickFake Interview" campaign by Lazarus Group, a North Korean state-sponsored hacker outfit. This operation targets job seekers in the cryptocurrency and technology sectors with fake job interviews that lead to malware deployment. The campaign uses the "ClickFix" technique, which exploits human vulnerabilities and bypasses traditional security measures.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150659</guid>
+      <pubDate>Tue, 22 Jul 2025 14:04:12 +0000</pubDate>
+    </item>
     <item>
       <title>UK Bans Public Sector from Paying Ransomware Gangs</title>
       <link>https://gbhackers.com/uk-bans-public-sector-from-paying-ransomware-gangs/</link>
       <description>The UK government has announced a comprehensive ban preventing public sector organizations from paying ransom demands to cybercriminals in an effort to disrupt the business model that makes ransomware attacks profitable. The ban aims to protect critical national infrastructure operators, including NHS trusts and schools, by prohibiting ransom payments to criminal groups.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150696</guid>
       <pubDate>Tue, 22 Jul 2025 13:21:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access</title>
+      <link>https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html</link>
+      <description>Vulnerable Product: Cisco ISE and ISE-PIC; CVE(s): CVE-2025-20281, CVE-2025-20337, CVE-2025-20282; Summary: A set of critical-rated vulnerabilities (CVSS scores: 10.0) in Cisco's Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) allows an unauthenticated, remote attacker to issue commands, execute arbitrary code, or upload and execute files as the root user. The flaws stem from insufficient validation of user-supplied input and lack of file validation checks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html</guid>
+      <pubDate>Tue, 22 Jul 2025 13:08:00 +0000</pubDate>
     </item>
     <item>
       <title>UK to ban public sector orgs from paying ransomware gangs</title>
@@ -23,11 +65,36 @@
       <pubDate>Tue, 22 Jul 2025 13:01:02 +0000</pubDate>
     </item>
     <item>
+      <title>Credential Theft and Remote Access Surge as AllaKore, PureRAT, and Hijack Loader Proliferate</title>
+      <link>https://thehackernews.com/2025/07/credential-theft-and-remote-access.html</link>
+      <description>This article discusses a long-running campaign targeting Mexican organizations with modified versions of AllaKore RAT and SystemBC. The attacks use phishing or drive-by compromises to distribute booby-trapped ZIP archives, which facilitate the deployment of AllaKore RAT.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/credential-theft-and-remote-access.html</guid>
+      <pubDate>Tue, 22 Jul 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cisco Alerts on ISE RCE Vulnerability Actively Exploited</title>
       <link>https://gbhackers.com/cisco-alerts-on-ise-rce-vulnerability/</link>
       <description>Vulnerable Product: Cisco ISE and ISE-PIC; CVE(s): CVE-2025-20281, CVE-2025-20282, CVE-2025-20337; Summary: A set of critical remote code execution (RCE) vulnerabilities affecting Cisco's Identity Services Engine (ISE) and Passive Identity Connector (ISE-PIC) products are being actively exploited in the wild. The flaws allow unauthenticated attackers to gain root-level access to vulnerable systems with a CVSS base score of 10.0, and no viable workarounds exist.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150681</guid>
       <pubDate>Tue, 22 Jul 2025 12:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Joint Advisory Issued on Protecting Against Interlock Ransomware</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/22/joint-advisory-issued-protecting-against-interlock-ransomware</link>
+      <description>The US Cybersecurity and Infrastructure Agency (CISA) has issued a joint advisory with the FBI, Department of Health and Human Services, and Multi-State Information Sharing and Analysis Center to help protect businesses and critical infrastructure organizations against Interlock ransomware. The advisory provides indicators of compromise, tactics, techniques, and procedures identified through recent FBI investigations, along with recommended mitigations for reducing the risk of Interlock ransomware threat activity.</description>
+      <guid isPermaLink="false">/node/23656</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#StopRansomware: Interlock</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-203a</link>
+      <description>FYSA:
+
+The provided article appears to be an advisory on emerging ransomware threats, specifically the Interlock Ransomware gang. The report provides an in-depth analysis of the group's tactics, techniques, and procedures (TTPs), as well as recommended mitigations and best practices for organizations to prevent and respond to such attacks.
+
+As a cybersecurity analyst, I would categorize this article under "FYSA" since it is not discussing a specific vulnerability or product issue. Instead, it offers valuable insights into the tactics used by the Interlock Ransomware gang and provides guidance on how to improve defenses against these types of attacks.</description>
+      <guid isPermaLink="false">/node/23643</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers Selling macOS 0-Day LPE Exploit on Dark Forums</title>
@@ -1389,79 +1456,6 @@ No specific vulnerabilities are mentioned or analyzed in the article.</descripti
       <description>The article reports on spear-phishing campaigns conducted by three Chinese state-sponsored threat actors targeting the Taiwanese semiconductor industry. The campaigns involve phishing emails with malicious payloads, including Cobalt Strike or a custom backdoor, and DLL side-loading to spawn reverse shells and establish command-and-control connections.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html</guid>
       <pubDate>Thu, 17 Jul 2025 07:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>0-Day RCE Flaw in SonicWall SMA Devices Exploited to Launch OVERSTEP Ransomware</title>
-      <link>https://gbhackers.com/0-day-rce-flaw-in-sonicwall-sma-devices-exploited/</link>
-      <description>Vulnerable Product: SonicWall; CVE(s): CVE-2024-38475, None; Summary: Threat actors are exploiting previously stolen credentials and a new rootkit called OVERSTEP to target end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliances. The campaign represents a significant escalation in attacks against network infrastructure devices, as the threat actors are successfully compromising appliances even after organizations have applied the latest security updates.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149604</guid>
-      <pubDate>Thu, 17 Jul 2025 07:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare Confirms BGP Hijack Behind 1.1.1.1 DNS Disruption</title>
-      <link>https://gbhackers.com/cloudflare-confirms-bgp-hijack-behind-1-1-1-1-dns-disruption/</link>
-      <description>A global outage of Cloudflare's 1.1.1.1 DNS resolver service was caused by an internal configuration error rather than an external attack. The incident affected millions of users worldwide and coincided with an unrelated BGP hijack, which complicated the situation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149591</guid>
-      <pubDate>Thu, 17 Jul 2025 06:11:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol Takes Down NoName057(16)’s Global Network of Over 100 Servers</title>
-      <link>https://gbhackers.com/europol-takes-down-noname05716s-global-network/</link>
-      <description>Europol and Eurojust conducted Operation Eastwood to dismantle the NoName057(16) hacktivist collective's global infrastructure of over 100 servers worldwide. The operation resulted in two arrests, seven international arrest warrants, 24 house searches, and disruption of over 100 servers globally.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149587</guid>
-      <pubDate>Thu, 17 Jul 2025 06:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code</title>
-      <link>https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html</link>
-      <description>Vulnerable Product: Cisco ISE and Cisco ISE-PIC; CVE(s): CVE-2025-20337; Summary: The vulnerability allows an unauthenticated attacker to execute arbitrary code on the underlying operating system with elevated privileges. It affects ISE and ISE-PIC releases 3.3 and 3.4, regardless of device configuration.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html</guid>
-      <pubDate>Thu, 17 Jul 2025 05:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submarine Cables Face Increasing Threats Amid Geopolitical Tensions and Limited Repair Capacity</title>
-      <link>https://www.recordedfuture.com/research/submarine-cables-face-increasing-threats</link>
-      <description>FYSA:
-
-This analysis highlights various vulnerabilities in the submarine cable ecosystem, including:
-
-1. **Concentration of cables at landing stations**: The clustering of multiple submarine cables at single landing sites increases the likelihood that damage to or near a landing site will impact multiple cables.
-2. **Limited repair capacity**: Repair vessels are focused on laying new cable systems, constraining their ability to respond immediately to cable faults, leading to extended repair times.
-3. **Regulatory hurdles**: Complex and lengthy permitting processes for repair ships vary by national territory, prolonging repair timelines and exacerbating the impact of limited repair capacity.
-
-These vulnerabilities can have significant consequences for global internet connectivity, highlighting the need for investments in streamlining repair processes and expanding cable ship repair capacity to mitigate potential disruptions.</description>
-      <guid isPermaLink="true">https://www.recordedfuture.com/research/submarine-cables-face-increasing-threats</guid>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Co-op confirms data of 6.5 million members stolen in cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/</link>
-      <description>A massive cyberattack on UK retailer Co-op resulted in the theft of personal data for 6.5 million members. The attackers accessed and stole Windows domain's Windows NTDS.dit file, which contains password hashes for Windows accounts.
-
-FYSA: Threat actors associated with Scattered Spider were behind the Co-op cyberattack, as well as other attacks on M&amp;S, Harrods, and MGM Resorts.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/</guid>
-      <pubDate>Wed, 16 Jul 2025 22:29:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Army soldier pleads guilty to extorting 10 tech, telecom firms</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/</link>
-      <description>A 21-year-old former U.S. Army soldier pleaded guilty to charges of hacking and extorting at least ten telecommunications and technology companies in the country. The man, Cameron John Wagenius, used online accounts associated with the nickname “kiberphant0m” and conspired with others to defraud victim organizations by obtaining login credentials for their protected computer networks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/</guid>
-      <pubDate>Wed, 16 Jul 2025 21:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google finds custom backdoor being installed on SonicWall network devices</title>
-      <link>https://arstechnica.com/security/2025/07/google-finds-custom-backdoor-being-installed-on-sonicwall-network-devices/</link>
-      <description>Vulnerable Product: None; CVE(s): 2024-38475; Summary: UNC6148 exploited vulnerabilities in SMA appliances, gaining local administrator credentials and valid session tokens. They may have used infostealer logs or credential marketplaces to obtain credentials. A reverse shell was installed, providing a web interface for running commands and installing Overstep. The motivations of the group and what they do after Overstep is installed are unknown.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/google-finds-custom-backdoor-being-installed-on-sonicwall-network-devices/</guid>
-      <pubDate>Wed, 16 Jul 2025 20:29:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cracked Apps Delivering Infostealers Identified as Leading Attack Vector in June 2025</title>
-      <link>https://gbhackers.com/cracked-apps-delivering-infostealers-identified/</link>
-      <description>The article discusses infostealer malware masquerading as keygens and cracked software, which uses advanced SEO poisoning to elevate malicious distribution sites in search results. It highlights the diversity of infostealers, including variants like LummaC2, Rhadamanthys, ACRStealer, Vidar, and StealC, and notes their evolving sophistication through techniques like evasion, deception, and anti-analysis mechanisms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149538</guid>
-      <pubDate>Wed, 16 Jul 2025 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
