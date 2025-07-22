@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 16:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 17:07:33 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Scavenger Malware Compromises Popular npm Packages to Target Developers</title>
+      <link>https://gbhackers.com/scavenger-malware-compromises-popular-npm-packages/</link>
+      <description>Vulnerable Product: Npm package eslint-config-prettier; CVE(s): None; Summary: The npm package eslint-config-prettier was compromised through a phishing email and used to distribute a novel malware dubbed "Scavenger" that targets Windows systems. The malware uses various evasion techniques, including anti-VM checks, anti-antivirus measures, and dynamic resolution of functions using CRC32 hashing.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150756</guid>
+      <pubDate>Tue, 22 Jul 2025 16:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iranian Hackers Target Global Airlines to Steal Sensitive Data</title>
       <link>https://gbhackers.com/iranian-hackers-target-global-airlines/</link>
       <description>APT39, a state-sponsored hacker collective connected to Iran's Ministry of Intelligence and Security (MOIS), was exposed as operating through the compromised internal systems of Amnban, a cybersecurity company. The breach reveals a sophisticated campaign involving cyber network exploitation (CNE) and preparation for cyber network attacks (CNA), with millions of airline passengers' sensitive personal identifiable information (PII) harvested worldwide.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150730</guid>
       <pubDate>Tue, 22 Jul 2025 15:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups</title>
+      <link>https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53771, CVE-2025-53770; Summary: The exploitation of security flaws in internet-facing SharePoint Server instances has been linked to two Chinese hacking groups, Linen Typhoon and Violet Typhoon, as well as a third China-based threat actor, Storm-2603. The vulnerabilities allow for authentication bypass and remote code execution, leading to the deployment of a web shell and potential data theft.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html</guid>
+      <pubDate>Tue, 22 Jul 2025 15:45:00 +0000</pubDate>
     </item>
     <item>
       <title>ETQ Reliance RCE Flaw Grants Full SYSTEM Access with a Single Space</title>
@@ -91,6 +105,62 @@
       <description>Vulnerable Product: Cisco ISE and ISE-PIC; CVE(s): CVE-2025-20281, CVE-2025-20282, CVE-2025-20337; Summary: A set of critical remote code execution (RCE) vulnerabilities affecting Cisco's Identity Services Engine (ISE) and Passive Identity Connector (ISE-PIC) products are being actively exploited in the wild. The flaws allow unauthenticated attackers to gain root-level access to vulnerable systems with a CVSS base score of 10.0, and no viable workarounds exist.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150681</guid>
       <pubDate>Tue, 22 Jul 2025 12:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-03</link>
+      <description>Vulnerable Product: Schneider Electric EcoStruxure Power Monitoring Expert (PME) and EcoStruxure Power Operation (EPO); CVE(s): CVE-2025-6788; Summary: A resource exposure vulnerability exists that exposes TGML diagram resources to unauthorized control, allowing other authenticated users unauthorized access to TGML diagrams. Successful exploitation could provide potentially inappropriate access to TGML diagrams.</description>
+      <guid isPermaLink="false">/node/23666</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxture IT Data Center Expert</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-06</link>
+      <description>Vulnerable Product: Schneider Electric EcoStruxure IT Data Center Expert; CVE(s): CVE-2025-50121, CVE-2025-50122, CVE-2025-50123, CVE-2025-50124, CVE-2025-6438; Summary: Multiple vulnerabilities exist in Schneider Electric's EcoStruxure IT Data Center Expert, including OS command injection, insufficient entropy, code injection, server-side request forgery, improper privilege management, and XML external entity reference. Successful exploitation could allow an attacker to disrupt operations, access system data, or gain unauthorized file access.</description>
+      <guid isPermaLink="false">/node/23668</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure Power Operation</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-04</link>
+      <description>Vulnerable Product: Schneider Electric EcoStruxure Power Operation; CVE(s): CVE-2023-50447, CVE-2022-45198, CVE-2024-28219, CVE-2023-35945, CVE-2023-44487; Summary: The EcoStruxure Power Operation (EPO) has multiple vulnerabilities including improper neutralization of directives in dynamically evaluated code ('Eval Injection'), integer overflow to buffer overflow, improper handling of highly compressed data (data amplification), out-of-bounds write, and uncontrolled resource consumption. Successful exploitation could result in the loss of system functionality or unauthorized access to system functions.</description>
+      <guid isPermaLink="false">/node/23663</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49704, CVE-2025-49706; Summary: The two vulnerabilities in Microsoft SharePoint have been added to the Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.</description>
+      <guid isPermaLink="false">/node/23670</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schneider Electric System Monitor Application</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-05</link>
+      <description>Vulnerable Product: Schneider Electric System Monitor Application, Harmony Industrial PC series and Pro-face Industrial PC series; CVE(s): CVE-2020-11023; Summary: The vulnerability is a Cross-site Scripting (XSS) issue in the System Monitor Application. Successful exploitation could allow an attacker to execute untrusted code.</description>
+      <guid isPermaLink="false">/node/23667</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DuraComm DP-10iN-100-MU</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-01</link>
+      <description>Vulnerable Product: DuraComm Corporation SPM-500 DP-10iN-100-MU; CVE(s): CVE-2025-41425, CVE-2025-48733, CVE-2025-53703; Summary: The SPM-500 DP-10iN-100-MU power distribution panel contains vulnerabilities that could allow an attacker to disclose sensitive information or cause a denial-of-service condition. The vulnerabilities include cleartext transmission of sensitive information, missing authentication for a critical function, and improper neutralization of input during web page generation.</description>
+      <guid isPermaLink="false">/node/23664</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Nine Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-releases-nine-industrial-control-systems-advisories</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released nine Industrial Control Systems (ICS) advisories on July 22, 2025. These advisories provide information about current security issues, vulnerabilities, and exploits affecting ICS products from various vendors, including DuraComm, Lantronix, Schneider Electric, and others.</description>
+      <guid isPermaLink="false">/node/23669</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lantronix Provisioning Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-203-02</link>
+      <description>Vulnerable Product: Lantronix Provisioning Manager; CVE(s): CVE-2025-7766; Summary: The Lantronix Provisioning Manager contains an improper restriction of XML External Entity (XXE) Reference vulnerability, which can be exploited to perform cross-site scripting attacks and achieve remote code execution.</description>
+      <guid isPermaLink="false">/node/23665</guid>
+      <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Joint Advisory Issued on Protecting Against Interlock Ransomware</title>
@@ -640,6 +710,13 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: HPE Aruba Instant On Access Points; CVE(s): CVE-2025-37103, None; Summary: Hardcoded login credentials in Aruba Instant On Access Points allow attackers to bypass normal device authentication and access the web interface, enabling administrative access. This vulnerability can be exploited by remote attackers to change settings, install backdoors, capture traffic, or perform lateral movement.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/</guid>
       <pubDate>Sun, 20 Jul 2025 14:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>UPDATE: Microsoft Releases Guidance on Exploitation of SharePoint Vulnerabilities</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/20/update-microsoft-releases-guidance-exploitation-sharepoint-vulnerabilities</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-49706, CVE-2025-49704; Summary: A vulnerability chain allows unauthorized access to on-premise SharePoint servers through network spoofing and remote code execution (RCE), enabling malicious actors to fully access SharePoint content and execute code over the network.</description>
+      <guid isPermaLink="false">/node/23640</guid>
+      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability, CVE-2025-53770 “ToolShell,” to Catalog</title>
@@ -1373,89 +1450,6 @@ FYSA: Threat actors have been conducting a long-term campaign, exploiting known 
       <description>Vulnerable Product: NVIDIA Container Toolkit and GPU Operator; CVE(s): CVE-2025-23266, CVE-2025-23267; Summary: The NVIDIA Container Toolkit and GPU Operator contain two critical vulnerabilities that allow attackers to execute arbitrary code with elevated privileges. The first vulnerability (CVE-2025-23266) has a CVSS score of 9.0, while the second (CVE-2025-23267) has a score of 8.5. These flaws enable privilege escalation, data tampering, information disclosure, and denial-of-service attacks in containerized environments.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149760</guid>
       <pubDate>Thu, 17 Jul 2025 11:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>1-Click Oracle Cloud Code Editor RCE Flaw Allows Malicious File Upload to Shell</title>
-      <link>https://gbhackers.com/1-click-oracle-cloud-code-editor-rce-flaw/</link>
-      <description>Vulnerable Product: Oracle Cloud Infrastructure Code Editor; CVE(s): None; Summary: A critical Remote Code Execution (RCE) vulnerability in Oracle Cloud Infrastructure's Code Editor enabled attackers to silently hijack victim Cloud Shell environments through a single malicious link, allowing for potential lateral movement across OCI services and compromise of integrated developer tools. The vulnerability stemmed from a Cross-Site Request Forgery (CSRF) weakness in the file upload mechanism, which was remediated by implementing additional CSRF protections requiring a custom HTTP header.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149729</guid>
-      <pubDate>Thu, 17 Jul 2025 11:09:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025</title>
-      <link>https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html</link>
-      <description>The article discusses the importance of implementing Continuous Threat Exposure Management (CTEM) programs, which complement Vulnerability Management (VM) and Attack Surface Management (ASM). CTEM provides a systematic approach to discover, prioritize, validate, and respond to security exposures. The article also highlights the benefits of integrating VM, ASM, and penetration testing solutions into a unified interface to support a holistic CTEM program.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html</guid>
-      <pubDate>Thu, 17 Jul 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian Threat Actors Use AI-Generated Emails to Target Cybersecurity Researchers and Academics</title>
-      <link>https://gbhackers.com/iranian-threat-actors-use-ai-generated-emails/</link>
-      <description>This article discusses Iranian state-backed Advanced Persistent Threat (APT) groups and their hacktivist allies' increased cyber operations following Israeli and American strikes on Iranian nuclear and military facilities. The article highlights the groups' tactics, including espionage, disruption, and psychological warfare, as well as their use of AI-enhanced phishing operations and industrial control system scanning.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149704</guid>
-      <pubDate>Thu, 17 Jul 2025 10:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MaaS operation using Emmenhtal and Amadey linked to threats against Ukrainian entities</title>
-      <link>https://blog.talosintelligence.com/maas-operation-using-emmenhtal-and-amadey-linked-to-threats-against-ukrainian-entities/</link>
-      <description>A Malware-as-a-Service (MaaS) operation, dubbed "Amadey," has been identified by Cisco Talos. The operation uses fake GitHub accounts to host payloads and tools, allowing operators to deliver various malware families to infected hosts. This MaaS operation overlaps with a previous SmokeLoader phishing campaign targeting Ukrainian entities.</description>
-      <guid isPermaLink="false">6876776cec6298000147ad76</guid>
-      <pubDate>Thu, 17 Jul 2025 10:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use DNS Queries to Evade Defenses and Exfiltrate Data</title>
-      <link>https://gbhackers.com/hackers-use-dns-queries-to-evade-defenses-and-exfiltrate-data/</link>
-      <description>DNS tunneling is a technique used by cybercriminals to bypass corporate security measures and steal sensitive data by encoding data within DNS queries and responses. The attack process begins when threat actors gain control of a domain name's authoritative name server, allowing them to conduct command-and-control (C2) operations and data exfiltration while remaining largely undetected.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149688</guid>
-      <pubDate>Thu, 17 Jul 2025 09:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Deploy 28+ Malicious Packages to Spread Protestware Scripts</title>
-      <link>https://gbhackers.com/threat-actors-deploy-28-malicious-packages/</link>
-      <description>Vulnerable Product: Socket's Threat Research Team; CVE(s): None; Summary: A network of at least 28 malicious packages, including protestware scripts, was discovered in the npm supply chain. The protestware disrupts user interface interactions by disabling mouse events and initiating playback of the Ukrainian national anthem, affecting Russian-language users on specific domains. The vulnerability highlights the risks of code reuse in open-source repositories, where undisclosed payloads can cascade through dependencies, amplifying potential impacts on downstream applications.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149690</guid>
-      <pubDate>Thu, 17 Jul 2025 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Stealer Logs</title>
-      <link>https://socradar.io/top-10-stealer-logs/</link>
-      <description>The provided article is an analysis of infostealer malware and their associated logs in 2025. It does not discuss a specific vulnerability in software, hardware, or firmware.
-
-The article provides an overview of various infostealer malware families, including Lumma, Vidar, RedLine, StealC, Raccoon Stealer, MetaStealer, Mystic Stealer, and Hawklog. Each section highlights the features, target range, and evasion techniques used by each malware family to steal sensitive data such as credentials, credit card numbers, and cryptocurrency wallet details.
-
-The article also discusses the role of stealer logs in enabling ransomware attacks, account takeovers, and financial fraud. It emphasizes the importance of threat hunting and stealer log analysis for detecting early signs of compromise and reducing the time gap between initial breach detection.
-
-No specific vulnerabilities are mentioned or analyzed in the article.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100047829</guid>
-      <pubDate>Thu, 17 Jul 2025 09:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>PyPI Blocks Inbox.ru Domains After 1,500+ Fake Package Uploads</title>
-      <link>https://gbhackers.com/pypi-blocks-inbox-ru-domains/</link>
-      <description>PyPI blocked the inbox.ru email domain after a campaign created over 250 fraudulent accounts and uploaded more than 1,500 empty projects, causing confusion among end-users and straining resources. The incident highlights the delegated security model of PyPI's registration process and emphasizes the importance of user vigilance and advanced detection mechanisms to prevent future incursions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149680</guid>
-      <pubDate>Thu, 17 Jul 2025 09:05:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical SharePoint RCE Vulnerability Exploited via Malicious XML in Web Part</title>
-      <link>https://gbhackers.com/critical-sharepoint-rce-vulnerability-exploited/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): None; Summary: A severe remote code execution (RCE) vulnerability in Microsoft SharePoint allows attackers to execute arbitrary code through malicious XML content embedded within web parts. The vulnerability originates from the deserialization process of web part properties and can be exploited through multiple endpoints, including the _/vti_bin/webpartpages.asmx service using the ConvertWebPartFormat SOAP action.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149676</guid>
-      <pubDate>Thu, 17 Jul 2025 08:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Actively Exploited CitrixBleed 2 Flaw Ahead of PoC Disclosure</title>
-      <link>https://gbhackers.com/hackers-actively-exploited-citrixbleed-2-flaw/</link>
-      <description>Vulnerable Product: Citrix; CVE(s): CVE-2025-5777; Summary: The CitrixBleed 2 vulnerability was exploited by threat actors nearly two weeks before a public proof-of-concept was released, highlighting the sophistication of modern attack campaigns. Initial exploitation began on June 23, followed by the public release of a proof-of-concept on July 4, and GreyNoise's subsequent creation of a tracking tag on July 7. The vulnerability represents a significant security risk for organizations running Citrix NetScaler appliances.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149671</guid>
-      <pubDate>Thu, 17 Jul 2025 08:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Unified Intelligence Center Flaw Lets Remote Attackers Upload Arbitrary Files</title>
-      <link>https://gbhackers.com/cisco-unified-intelligence-center-flaw/</link>
-      <description>Vulnerable Product: Cisco Unified Intelligence Center; CVE(s): CVE-2025-20274; Summary: A critical vulnerability in Cisco's Unified Intelligence Center allows authenticated remote attackers to upload arbitrary files, potentially enabling complete system compromise through privilege escalation to root access. The flaw stems from improper file validation and can be exploited by users with Report Designer role privileges, allowing for the execution of arbitrary commands on the underlying operating system.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149656</guid>
-      <pubDate>Thu, 17 Jul 2025 08:29:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
