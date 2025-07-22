@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 12:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 13:04:20 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UK to ban public sector orgs from paying ransomware gangs</title>
+      <link>https://www.bleepingcomputer.com/news/security/uk-to-ban-public-sector-orgs-from-paying-ransomware-gangs/</link>
+      <description>The UK government is planning to ban public sector and critical infrastructure organizations from paying ransoms after ransomware attacks. The proposed legislation aims to target the business model that fuels cybercriminals' activities and makes vital services less attractive targets for ransomware groups.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-to-ban-public-sector-orgs-from-paying-ransomware-gangs/</guid>
+      <pubDate>Tue, 22 Jul 2025 13:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Alerts on ISE RCE Vulnerability Actively Exploited</title>
+      <link>https://gbhackers.com/cisco-alerts-on-ise-rce-vulnerability/</link>
+      <description>Vulnerable Product: Cisco ISE and ISE-PIC; CVE(s): CVE-2025-20281, CVE-2025-20282, CVE-2025-20337; Summary: A set of critical remote code execution (RCE) vulnerabilities affecting Cisco's Identity Services Engine (ISE) and Passive Identity Connector (ISE-PIC) products are being actively exploited in the wild. The flaws allow unauthenticated attackers to gain root-level access to vulnerable systems with a CVSS base score of 10.0, and no viable workarounds exist.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150681</guid>
+      <pubDate>Tue, 22 Jul 2025 12:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Selling macOS 0-Day LPE Exploit on Dark Forums</title>
+      <link>https://gbhackers.com/hackers-selling-macos-0-day-lpe-exploit/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): None; Summary: A threat actor claims to possess a zero-day Local Privilege Escalation (LPE) exploit targeting Apple's macOS operating system, offering the vulnerability for sale at $130,000. The alleged exploit could allow attackers to gain complete administrative control over compromised systems, bypassing Apple's built-in security mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150676</guid>
+      <pubDate>Tue, 22 Jul 2025 11:54:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apache Jena Vulnerability Allows Arbitrary File Access</title>
+      <link>https://gbhackers.com/apache-jena-vulnerability/</link>
+      <description>Vulnerable Product: Apache Jena; CVEs: CVE-2025-49656, CVE-2025-50151; Summary: Two vulnerabilities in Apache Jena enable administrators to access and create files outside designated server directories, potentially compromising system security. The first vulnerability allows administrative users to create database files outside the intended directory boundaries, while the second vulnerability enables improper file access path validation, allowing administrators to reference and potentially access files anywhere on the host system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150670</guid>
+      <pubDate>Tue, 22 Jul 2025 11:45:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>New DCHSpy Android Malware Targets WhatsApp, Call Logs, Audio, and Photos</title>
+      <link>https://gbhackers.com/new-dchspy-android-malware/</link>
+      <description>The article discusses the discovery of four novel samples of DCHSpy, an advanced Android surveillanceware attributed to the Iranian threat actor group MuddyWater. The malware harvests sensitive information from infected devices and enables attackers to intercept WhatsApp communications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150621</guid>
+      <pubDate>Tue, 22 Jul 2025 11:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Scanner Launched to Detect CVE-2025-53770 in SharePoint Servers</title>
+      <link>https://gbhackers.com/new-scanner-to-detect-cve-2025-53770-in-sharepoint-servers/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770; Summary: The vulnerability is an unauthenticated Remote Code Execution flaw affecting on-premise SharePoint deployments that have not been updated with Microsoft's security patches. The scanner, developed by Niels Hofmans, targets the vulnerability and allows administrators to detect exposure without causing damage to the target system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150655</guid>
+      <pubDate>Tue, 22 Jul 2025 11:36:09 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Sharepoint ToolShell attacks linked to Chinese hackers</title>
       <link>https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-toolshell-attacks-linked-to-chinese-hackers/</link>
@@ -21,6 +63,13 @@
       <description>Vulnerable Product: Sophos; CVE(s): CVE-2025-6704, CVE-2025-7624, CVE-2025-7382, CVE-2024-13974, CVE-2024-13973; Summary: Multiple critical vulnerabilities were discovered in Sophos Firewall products, including remote code execution flaws and SQL injection vulnerabilities. The most severe flaw allows pre-authentication remote code execution through the Secure PDF eXchange (SPX) feature, while another vulnerability enables remote code execution when a quarantining policy is active for email.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150645</guid>
       <pubDate>Tue, 22 Jul 2025 11:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Advance from SOC Manager to CISO?</title>
+      <link>https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html</link>
+      <description>This article provides guidance on the practical steps and skills needed to transition from managing a security operations center (SOC) to becoming a chief information security officer (CISO). It highlights the importance of developing strategic and leadership skills beyond technical expertise, as well as effective communication and risk management. The article also emphasizes the need for CISOs to understand the nuances of their role and adapt to different reporting structures and expectations.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html</guid>
+      <pubDate>Tue, 22 Jul 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft: Windows Server KB5062557 causes cluster, VM issues</title>
@@ -1413,55 +1462,6 @@ FYSA: Threat actors associated with Scattered Spider were behind the Co-op cyber
       <description>Vulnerable Product: None; CVE(s): Janus vulnerability on Android versions 5.0 through 8.0 (None); Summary: Rogue domains were used in a large-scale phishing campaign to spread fake Telegram Messenger application files (APKs) over the course of a month, leveraging QR codes and centralized redirection for efficient malware delivery. The malicious APKs employ cleartext traffic protocols, grant broad permissions, and integrate MediaPlayer invocations and socket-based callbacks for remote command execution.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149532</guid>
       <pubDate>Wed, 16 Jul 2025 19:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Louis Vuitton says regional data breaches tied to same cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/</link>
-      <description>The article reports a data breach at luxury fashion giant Louis Vuitton, which affected customers in the UK, South Korea, and Turkey. The breach is believed to be linked to the ShinyHunters extortion group.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/</guid>
-      <pubDate>Wed, 16 Jul 2025 19:26:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Weaponize WordPress Sites to Redirect Visitors to Malicious Domains</title>
-      <link>https://gbhackers.com/threat-actors-weaponize-wordpress-sites/</link>
-      <description>The article describes a sophisticated malware campaign targeting WordPress websites, where threat actors embedded malicious code within core files to facilitate unauthorized redirects and SEO poisoning. The malware uses obfuscation techniques and bot-evasion tactics to evade detection, and can manipulate search engine rankings by injecting fake sitemaps and verifying with Google Search Console.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149525</guid>
-      <pubDate>Wed, 16 Jul 2025 19:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operation Eastwood Targets NoName057(16) in Global Crackdown</title>
-      <link>https://socradar.io/operation-eastwood-targets-noname05716/</link>
-      <description>This article is not about a vulnerability but rather discusses an international law enforcement operation called Operation Eastwood, which targeted a pro-Russian hacktivist group known as NoName057(16). The group was responsible for carrying out widespread DDoS attacks against Ukraine and other perceived enemies of Russia.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061854</guid>
-      <pubDate>Wed, 16 Jul 2025 18:52:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>SquidLoader Deploys Stealthy Malware with Near-Zero Detection to Evade Security Measures</title>
-      <link>https://gbhackers.com/squidloader-deploys-stealthy-malware/</link>
-      <description>Vulnerable Product: SquidLoader; CVE(s): None; Summary: A new variant of SquidLoader malware has been discovered, which achieves near-zero detection rates on platforms like VirusTotal by leveraging advanced anti-analysis, anti-sandbox, and anti-debugging mechanisms. The malware deploys Cobalt Strike Beacons for remote access and contains a multi-stage infection process with various evasion techniques, including anti-emulation tricks and API resolution via PEB walking.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149514</guid>
-      <pubDate>Wed, 16 Jul 2025 18:38:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms</title>
-      <link>https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html</link>
-      <description>Matanbuchus 3.0 is a malware-as-a-service (MaaS) that packs significant features to enhance its stealth and evade detection. It can be used as a conduit for next-stage payloads, including Cobalt Strike beacons and ransomware. The loader is often deployed using hands-on social engineering tactics, making it more targeted and coordinated than typical commodity loaders.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html</guid>
-      <pubDate>Wed, 16 Jul 2025 17:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare says 1.1.1.1 outage not caused by attack or BGP hijack</title>
-      <link>https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/</link>
-      <description>The article explains that the recent 1.1.1.1 Resolver service outage was caused by an internal misconfiguration at Cloudflare, not a cyberattack or BGP hijack incident. The misconfiguration occurred due to a configuration change for a future Data Localization Suite (DLS) performed on June 6, which mistakenly linked 1.1.1.1 Resolver IP prefixes to a non-production DLS service.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/</guid>
-      <pubDate>Wed, 16 Jul 2025 16:49:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware</title>
-      <link>https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/</link>
-      <description>Vulnerable Product: SonicWall Secure Mobile Access appliances (SMA 100 Series); CVE(s): CVE-2021-20038, CVE-2024-38475, CVE-2021-20035, CVE-2021-20039, CVE-2025-32819; Summary: The article describes a previously unseen malware called OVERSTEP that modifies the boot process of fully-patched but no longer supported SonicWall SMA appliances. The backdoor allows hackers to hide malicious components, maintain persistent access on the device, and steal sensitive credentials.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/</guid>
-      <pubDate>Wed, 16 Jul 2025 15:33:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
