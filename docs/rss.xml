@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 10:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 11:01:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft: Windows Server KB5062557 causes cluster, VM issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-kb5062557-causes-cluster-vm-issues/</link>
+      <description>Vulnerable Product: Microsoft Windows Server 2019; CVE(s): None; Summary: The Cluster service on Windows Server 2019 may fail to function correctly after installing the July Windows security update, causing nodes to fail to rejoin the cluster or enter quarantine states, virtual machines to experience multiple restarts, and frequent Event ID 7031 errors.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-kb5062557-causes-cluster-vm-issues/</guid>
+      <pubDate>Tue, 22 Jul 2025 10:24:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Travel Agencies Exploit Cheap Deals to Steal Credit Card Data</title>
+      <link>https://gbhackers.com/dark-web-travel-agencies-exploit-cheap-deals/</link>
+      <description>Dark web travel agencies have developed into sophisticated organizations using hacked credit card information, compromised loyalty accounts, and fake identities to provide reduced travel services. They exploit popular booking aggregators, adapting quickly to blocked channels through advanced credential harvesting techniques. The article highlights the need for proactive, multi-layered defenses in the hospitality industry to combat these threats.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150595</guid>
+      <pubDate>Tue, 22 Jul 2025 10:07:30 +0000</pubDate>
+    </item>
     <item>
       <title>Cybercriminals Merge Android Malware with Click Fraud Apps to Harvest Credentials</title>
       <link>https://gbhackers.com/cybercriminals-merge-android-malware/</link>
@@ -1448,20 +1462,6 @@ FYSA: Threat actors associated with Scattered Spider were behind the Co-op cyber
       <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A remote code execution (RCE) vulnerability tracked as CVE-2025-25257 affects FortiWeb 7.6.0 through 7.6.3, 7.4.0 through 7.4.7, and 7.0.0 through 7.0.10. The vulnerability allows an unauthenticated attacker to execute unauthorized SQL code or commands via crafted HTTP or HTTPS requests, which can lead to web shell infections.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/</guid>
       <pubDate>Wed, 16 Jul 2025 14:58:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europol disrupts pro-Russian NoName057(16) DDoS hacktivist group</title>
-      <link>https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/</link>
-      <description>Operation Eastwood, an international law enforcement operation led by Europol and Eurojust, targeted the pro-Russian hacktivist group NoName057(16) responsible for DDoS attacks across Europe, Israel, and Ukraine. The operation disrupted over 100 servers hosting the group's infrastructure, resulted in two arrests, and issued seven European arrest warrants.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/</guid>
-      <pubDate>Wed, 16 Jul 2025 14:07:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit</title>
-      <link>https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html</link>
-      <description>Vulnerable Product: SonicWall Secure Mobile Access (SMA) 100 series; CVE(s): CVE-2021-20035, CVE-2021-20038, CVE-2021-20039, CVE-2024-38475, CVE-2025-32819; Summary: A threat activity cluster has been observed targeting fully-patched end-of-life SonicWall SMA 100 series appliances to drop a backdoor called OVERSTEP. The attackers are believed to have initially gained access through the exploitation of known security flaws or obtained administrator credentials through information-stealing logs or credential marketplaces.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html</guid>
-      <pubDate>Wed, 16 Jul 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
