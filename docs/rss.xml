@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 11:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:02:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft Sharepoint ToolShell attacks linked to Chinese hackers</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-toolshell-attacks-linked-to-chinese-hackers/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49706, CVE-2025-49704, CVE-2025-53770, CVE-2025-53771; Summary: Hackers with ties to the Chinese government exploited a zero-day vulnerability chain in Microsoft SharePoint, allowing them to breach dozens of organizations worldwide. The exploit chain, dubbed "ToolShell," provides unauthenticated access to systems and enables malicious actors to execute code over the network.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-toolshell-attacks-linked-to-chinese-hackers/</guid>
+      <pubDate>Tue, 22 Jul 2025 11:26:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Sophos Firewall Flaws Allow Pre-Auth RCE</title>
+      <link>https://gbhackers.com/critical-sophos-firewall-flaws-allow-pre-auth-rce/</link>
+      <description>Vulnerable Product: Sophos; CVE(s): CVE-2025-6704, CVE-2025-7624, CVE-2025-7382, CVE-2024-13974, CVE-2024-13973; Summary: Multiple critical vulnerabilities were discovered in Sophos Firewall products, including remote code execution flaws and SQL injection vulnerabilities. The most severe flaw allows pre-authentication remote code execution through the Secure PDF eXchange (SPX) feature, while another vulnerability enables remote code execution when a quarantining policy is active for email.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150645</guid>
+      <pubDate>Tue, 22 Jul 2025 11:12:50 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft: Windows Server KB5062557 causes cluster, VM issues</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-kb5062557-causes-cluster-vm-issues/</link>
@@ -1448,20 +1462,6 @@ FYSA: Threat actors associated with Scattered Spider were behind the Co-op cyber
       <description>Vulnerable Product: SonicWall Secure Mobile Access appliances (SMA 100 Series); CVE(s): CVE-2021-20038, CVE-2024-38475, CVE-2021-20035, CVE-2021-20039, CVE-2025-32819; Summary: The article describes a previously unseen malware called OVERSTEP that modifies the boot process of fully-patched but no longer supported SonicWall SMA appliances. The backdoor allows hackers to hide malicious components, maintain persistent access on the device, and steal sensitive credentials.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/</guid>
       <pubDate>Wed, 16 Jul 2025 15:33:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-603: Autodesk Revit RTE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-603/</link>
-      <description>Vulnerable Product: Autodesk Revit; CVE(s): CVE-2025-5037; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk Revit, requiring user interaction. The flaw exists in the parsing of RTE files due to lack of proper validation of user-supplied data, leading to a read past the end of an allocated object.</description>
-      <guid isPermaLink="false">ZDI-CAN-27152</guid>
-      <pubDate>Wed, 16 Jul 2025 15:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Fortinet FortiWeb hacks likely linked to public RCE exploits</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: A remote code execution (RCE) vulnerability tracked as CVE-2025-25257 affects FortiWeb 7.6.0 through 7.6.3, 7.4.0 through 7.4.7, and 7.0.0 through 7.0.10. The vulnerability allows an unauthenticated attacker to execute unauthorized SQL code or commands via crafted HTTP or HTTPS requests, which can lead to web shell infections.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/</guid>
-      <pubDate>Wed, 16 Jul 2025 14:58:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
