@@ -6,8 +6,32 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 20:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 21:06:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>EFF moves to stop power utility reporting suspected pot growers to cops</title>
+      <link>https://arstechnica.com/tech-policy/2025/07/eff-moves-to-stop-power-utility-reporting-suspected-pot-growers-to-cops/</link>
+      <description>The article discusses how SMUD's smart meter data analysis program has been used to monitor and potentially identify individuals growing cannabis in their homes. Law enforcement agencies, including the Sacramento Police Department, have requested lists of customers using above a certain threshold of electricity, with disproportionately high penalties levied against Asian property owners who were found to be growing cannabis.</description>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2025/07/eff-moves-to-stop-power-utility-reporting-suspected-pot-growers-to-cops/</guid>
+      <pubDate>Tue, 22 Jul 2025 21:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 KB5062660 update brings new 'Windows Resilience' features</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062660-update-brings-new-windows-resilience-features/</link>
+      <description>FYSA:
+
+This article discusses various updates and changes to Windows 11, including new features, fixes, and improvements. The main updates are:
+
+1. Quick machine recovery: This feature enables automatic detection and fixing of widespread issues on Windows 11 devices using the Windows Recovery Environment (WinRE).
+2. Streamlined interface during unexpected restarts: The updated design aligns with Windows 11's visual style and helps users return to work faster.
+3. Boolean option for configuring Start menu pins: Administrators can apply Start menu pins once, allowing users to make changes to their pinned layout and have those changes safeguarded.
+4. Improvements to Snap in Windows 11, including inline messages and keyboard shortcuts.
+5. Fixes for various issues, such as authentication problems, file explorer bugs, graphics recognition, input method editor issues, stability problems, and Windows Firewall errors.
+
+Overall, this article highlights the importance of keeping software up-to-date and secure, as well as the value of auto-recovery tools in mitigating downtime caused by widespread issues.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062660-update-brings-new-windows-resilience-features/</guid>
+      <pubDate>Tue, 22 Jul 2025 20:36:24 +0000</pubDate>
+    </item>
     <item>
       <title>Windows 11 gets new Black Screen of Death, auto recovery tool</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-black-screen-of-death-auto-recovery-tool/</link>
@@ -1428,24 +1452,6 @@ FYSA: Threat actors exploited a Paradox.ai administrator in Vietnam's malware-in
       <description>Vulnerable Product: Linux Kernel; CVE(s): CVE-2025-38191; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of the Linux Kernel without authentication. The issue is due to a lack of proper validation of a pointer prior to accessing it in the destroy_previous_session function, which can be exploited to cause a denial-of-service condition on the system.</description>
       <guid isPermaLink="false">ZDI-CAN-27391</guid>
       <pubDate>Thu, 17 Jul 2025 19:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>LameHug malware uses AI LLM to craft Windows data-theft commands in real-time</title>
-      <link>https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/</link>
-      <description>LameHug is a novel malware family that uses a large language model (LLM) to generate commands for execution on compromised Windows systems. It relies on the Hugging Face API and an open-source LLM designed specifically for generating code, reasoning, and follow coding-focused instructions. The malware is written in Python and has been attributed to Russian state-backed threat group APT28.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/</guid>
-      <pubDate>Thu, 17 Jul 2025 18:57:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is your sign to step away from the keyboard</title>
-      <link>https://blog.talosintelligence.com/this-is-your-sign-to-step-away-from-the-keyboard/</link>
-      <description>Vulnerable Product: None; Summary: The article discusses the importance of self-care and stress management for cybersecurity professionals, highlighting the risks of burnout and the need to prioritize mental health.
-
-FYSA: A Malware-as-a-Service (MaaS) operation was identified by Cisco Talos that used Emmenhtal loader and Amadey malware to deliver malicious payloads targeting Ukrainian entities via public GitHub repositories. The operation shows how easily adversaries can use trusted platforms like GitHub to deliver malware, making it more difficult for organizations to detect and block threats.
-
-Vulnerable Product: Fortinet FortiWeb; CVE(s): 2025-25257; Summary: A proof-of-concept (PoC) exploit allows unauthenticated attackers to execute remote code by writing malicious files to the server's filesystem, potentially leading to full remote code execution.</description>
-      <guid isPermaLink="false">6877bdb118fde0000159044e</guid>
-      <pubDate>Thu, 17 Jul 2025 18:00:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
