@@ -6,8 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 21:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 22:05:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Lumma infostealer malware returns after law enforcement disruption</title>
+      <link>https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-returns-after-law-enforcement-disruption/</link>
+      <description>The Lumma infostealer malware operation has resumed activities after a massive law enforcement operation in May, which resulted in the seizure of 2,300 domains and parts of its infrastructure. Despite significant disruption, the operators claimed their central server had not been seized and restoration efforts were underway, eventually regaining trust within the cybercrime community.
+
+(Note: Since there is no specific vulnerability mentioned in the article, I have formatted my response as a summary for a malware operation.)</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-returns-after-law-enforcement-disruption/</guid>
+      <pubDate>Tue, 22 Jul 2025 21:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Logging for Security and Beyond</title>
+      <link>https://unit42.paloaltonetworks.com/cloud-logging-for-security/</link>
+      <description>This article discusses the importance of cloud logging and monitoring in enterprise environments. It provides an overview of the different log categories for enterprise environments, including Audit, Compute, Network, Secrets, Cloud-Native Storage, and Kubernetes. The article also highlights the complexities of cloud logging across different cloud service providers (CSPs) such as AWS, Azure, and GCP.
+
+The article emphasizes the need for a holistic approach to cloud logging that balances security, regulatory, and business needs while optimizing costs. It provides best practices for organizations to effectively monitor, secure, and manage their cloud environments.
+
+Overall, this article aims to educate readers on the importance of cloud logging and monitoring in today's digital landscape.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=147360</guid>
+      <pubDate>Tue, 22 Jul 2025 21:00:47 +0000</pubDate>
+    </item>
     <item>
       <title>EFF moves to stop power utility reporting suspected pot growers to cops</title>
       <link>https://arstechnica.com/tech-policy/2025/07/eff-moves-to-stop-power-utility-reporting-suspected-pot-growers-to-cops/</link>
@@ -1438,20 +1458,6 @@ FYSA: Threat actors exploited a Paradox.ai administrator in Vietnam's malware-in
       <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20282; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine without authentication. The issue occurs due to a lack of proper validation of user-supplied data, allowing the upload of arbitrary files. An attacker can leverage this vulnerability to execute code in the context of the iseadminportal user.</description>
       <guid isPermaLink="false">ZDI-CAN-26483</guid>
       <pubDate>Thu, 17 Jul 2025 19:02:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-609: Cisco Identity Services Engine invokeStrongSwanShellScript Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-609/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20281; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine without authentication. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call, allowing an attacker to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-27121</guid>
-      <pubDate>Thu, 17 Jul 2025 19:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-610: Linux Kernel ksmbd destroy_previous_session Null Pointer Dereference Denial-of-Service Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-610/</link>
-      <description>Vulnerable Product: Linux Kernel; CVE(s): CVE-2025-38191; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of the Linux Kernel without authentication. The issue is due to a lack of proper validation of a pointer prior to accessing it in the destroy_previous_session function, which can be exploited to cause a denial-of-service condition on the system.</description>
-      <guid isPermaLink="false">ZDI-CAN-27391</guid>
-      <pubDate>Thu, 17 Jul 2025 19:01:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
