@@ -30,7 +30,7 @@ Summaries follow a structured format, especially for CVEs and vulnerabilities.
 
 This feed updates automatically throughout the day.  
 Each commit to this repo reflects the latest content as of:
-> **🕒 `2025-07-22 17:07:33 UTC`**
+> **🕒 `2025-07-22 18:05:16 UTC`**
 
 
 ---
