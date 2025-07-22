@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 19:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 20:01:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Windows 11 gets new Black Screen of Death, auto recovery tool</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-black-screen-of-death-auto-recovery-tool/</link>
+      <description>This article discusses Microsoft's Windows Resiliency Initiative, which aims to make Windows more stable and self-healing. The initiative includes the replacement of the Blue Screen of Death (BSOD) with a new Black Screen of Death, as well as the introduction of the Quick Machine Recovery feature, which can automatically resolve boot failures without requiring manual intervention.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-black-screen-of-death-auto-recovery-tool/</guid>
+      <pubDate>Tue, 22 Jul 2025 19:30:25 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-634: (0Day) Ashlar-Vellum Graphite VC6 File Parsing Uninitialized Variable Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-634/</link>
@@ -1439,13 +1446,6 @@ FYSA: A Malware-as-a-Service (MaaS) operation was identified by Cisco Talos that
 Vulnerable Product: Fortinet FortiWeb; CVE(s): 2025-25257; Summary: A proof-of-concept (PoC) exploit allows unauthenticated attackers to execute remote code by writing malicious files to the server's filesystem, potentially leading to full remote code execution.</description>
       <guid isPermaLink="false">6877bdb118fde0000159044e</guid>
       <pubDate>Thu, 17 Jul 2025 18:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters</title>
-      <link>https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html</link>
-      <description>Threat actors are using public GitHub repositories to host malicious payloads and distribute them via Amadey as part of a campaign observed in April 2025. The malware loader Emmenhtal delivers Amadey, which downloads various custom payloads from public GitHub repositories operated by the threat actors.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html</guid>
-      <pubDate>Thu, 17 Jul 2025 17:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
