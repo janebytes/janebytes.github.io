@@ -6,14 +6,70 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 12:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 13:05:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>US Nuclear Weapons Data Compromised via SharePoint Zero-Day Attack</title>
+      <link>https://gbhackers.com/us-nuclear-weapons-data-compromised/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): None; Summary: A zero-day exploit in Microsoft SharePoint was linked to Chinese government-affiliated hacking groups, compromising critical US government infrastructure, including the National Nuclear Security Administration. The vulnerability allowed hackers to remotely access SharePoint servers, enabling data theft and potential movement across connected services.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150946</guid>
+      <pubDate>Wed, 23 Jul 2025 12:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious LNK File Posing as Credit Card Security Email Steals User Data</title>
+      <link>https://gbhackers.com/malicious-lnk-file-posing-as-credit-card/</link>
+      <description>Threat actors have deployed a malicious LNK file masquerading as a credit card company's security email authentication pop-up to pilfer sensitive user information. The LNK file executes alongside a decoy file, fetching an additional HTA and bait HTML document from the attacker's server, storing and running them in the system's temporary folder. The malware exhibits specialized infostealer and backdoor capabilities, targeting browser data from multiple browsers and services, as well as executing remote shell commands and exfiltrating documents.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150905</guid>
+      <pubDate>Wed, 23 Jul 2025 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumma Stealer Masquerades as Pirated Apps to Steal Logins and Data</title>
+      <link>https://gbhackers.com/lumma-stealer-masquerades-as-pirated-apps/</link>
+      <description>This article is not about a vulnerability. It discusses the resurgence of Lumma Stealer, an information-stealing malware-as-a-service platform, after a global law enforcement operation in May 2025. The malware has evolved and adapted to evade detection, using various tactics such as domain obfuscation, cloud-based providers, and social engineering.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150863</guid>
+      <pubDate>Wed, 23 Jul 2025 12:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synology BeeDrive for Desktop on Windows Vulnerabilities Let Hackers Run Malicious Code</title>
+      <link>https://gbhackers.com/synology-beedrive-for-desktop-on-windows-vulnerabilities/</link>
+      <description>Vulnerable Product: Synology BeeDrive desktop application for Windows; CVE(s): CVE-2025-54158, CVE-2025-54159, CVE-2025-54160; Summary: The BeeDrive desktop application for Windows contains three critical vulnerabilities that allow attackers to execute malicious code, delete arbitrary files, and gain elevated privileges. The flaws can be exploited using local or remote attack vectors, making them a significant risk to system integrity and data security.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150911</guid>
+      <pubDate>Wed, 23 Jul 2025 11:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ZuRu Malware Variant Targets macOS via Termius SSH Exploit</title>
+      <link>https://gbhackers.com/new-zuru-malware-variant-targets-macos/</link>
+      <description>The article discusses a variant of the macOS.ZuRu malware that has resurfaced, employing advanced evasion techniques to deploy a modified Khepri command-and-control beacon. The malware uses trojanized versions of SSH client Termius and other backend tools like SecureCRT and Navicat to infiltrate professional workflows.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150846</guid>
+      <pubDate>Wed, 23 Jul 2025 11:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Introduces Powerful New AI Features – What’s New!</title>
+      <link>https://gbhackers.com/windows-11-introduces-powerful-new-ai-features/</link>
+      <description>This article is about the new AI-powered features and enhancements in Windows 11, including a conversational agent in the Settings app, improved search, productivity tools, and features like Relight and object select tool in Paint. The update aims to make PCs smarter, more responsive, and better tailored to individual needs.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150893</guid>
+      <pubDate>Wed, 23 Jul 2025 11:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brave Browser Block Microsoft Recall Over Privacy Issues</title>
+      <link>https://gbhackers.com/brave-browser-block-microsoft-recall/</link>
+      <description>Microsoft's Recall feature, which periodically captures full-screen snapshots of user activity, was criticized for its potential to expose sensitive browsing habits through an unencrypted, local database. Brave Software has proactively disabled Recall by default in its browser starting with version 1.81 for Windows 11 and newer.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150883</guid>
+      <pubDate>Wed, 23 Jul 2025 11:25:46 +0000</pubDate>
+    </item>
     <item>
       <title>Operator of Jetflix illegal streaming service gets 7 years in prison</title>
       <link>https://www.bleepingcomputer.com/news/technology/operator-of-jetflix-illegal-streaming-service-gets-7-years-in-prison/</link>
       <description>The article discusses the conviction of Kristopher Lee Dallmann, the ringleader of the illegal paid streaming operation Jetflicks, which operated for 12 years and had tens of thousands of subscribers. The scheme generated millions of dollars in criminal profits by pirating content from platforms like Netflix, Hulu, Vudu, and Amazon Prime.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/operator-of-jetflix-illegal-streaming-service-gets-7-years-in-prison/</guid>
       <pubDate>Wed, 23 Jul 2025 11:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical JavaScript Library Vulnerability Exposes Apps to Remote Attacks</title>
+      <link>https://gbhackers.com/critical-javascript-library-vulnerability/</link>
+      <description>Vulnerable Product: form-data JavaScript package; CVE(s): CVE-2025-7783; Summary: The form-data JavaScript package contains a critical vulnerability that allows attackers to predict and manipulate boundary values in multipart form-encoded data. This can lead to parameter injection attacks, compromising internal systems and exposing sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150873</guid>
+      <pubDate>Wed, 23 Jul 2025 11:12:22 +0000</pubDate>
     </item>
     <item>
       <title>Kerberoasting Detections: A New Approach to a Decade-Old Challenge</title>
@@ -1381,83 +1437,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-27981; Summary: A newly discovered vulnerability in macOS allows attackers to escalate privileges from standard user to root access by exploiting a timing flaw in how the operating system handles daemon configuration files. The vulnerability requires no initial elevated permissions and can be exploited through simple XML modifications, giving attackers complete system control, including disabling System Integrity Protection (SIP), manipulating privacy databases, and installing persistent backdoors.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=149950</guid>
       <pubDate>Fri, 18 Jul 2025 07:57:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Publishes 13 ICS Security Advisories on Critical Flaws</title>
-      <link>https://gbhackers.com/cisa-publishes-13-ics-security-advisories/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released thirteen Industrial Control Systems (ICS) security advisories highlighting critical vulnerabilities in operational technology networks across multiple sectors. The advisories warn of potential disruptions to essential infrastructure services, emphasizing the importance of immediate action to prevent exploitation by threat actors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149942</guid>
-      <pubDate>Fri, 18 Jul 2025 07:44:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Best XDR (Extended Detection And Response) Solutions 2025</title>
-      <link>https://gbhackers.com/best-xdr-solutions/</link>
-      <description>FYSA:
-
-The article presents an analysis of top 10 Extended Detection and Response (XDR) solutions in the market. The review highlights the strengths and approaches of each solution, including their ability to integrate with existing security stacks, detect advanced threats, and streamline incident response.
-
-The XDR solutions reviewed are:
-
-1. Google Chronicle Security Operations
-2. Exabeam Fusion XDR
-3. Fortinet FortiXDR
-4. Sophos XDR
-5. Mandiant Security Operations (part of Google Chronicle)
-6. Microsoft Azure Sentinel
-7. Palo Alto Networks XDR
-8. FireEye Helix XDR
-9. RSA NetWitness XDR
-10. CrowdStrike Falcon XDR
-
-The analysis notes that each solution has its unique strengths and weaknesses, making it essential for organizations to carefully evaluate their specific needs and requirements before selecting an XDR solution.
-
-Overall, the article provides valuable insights into the current state of XDR solutions in the market and highlights the importance of choosing a suitable solution to effectively detect and respond to advanced threats.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=126278</guid>
-      <pubDate>Fri, 18 Jul 2025 07:32:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal App Clone Telemessage App Vulnerability Actively Exploited for Password Theft</title>
-      <link>https://gbhackers.com/signal-app-clone-vulnerability/</link>
-      <description>Vulnerable Product: TeleMessageTM SGNL; CVE(s): CVE-2025-48927; Summary: A critical vulnerability in TeleMessageTM SGNL's legacy configuration of Spring Boot Actuator allows threat actors to steal passwords and sensitive data by exploiting a publicly accessible diagnostic endpoint. The vulnerability affects certain deployments of the secure communications archiving system and has been actively exploited since at least May 5, 2025.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149907</guid>
-      <pubDate>Fri, 18 Jul 2025 06:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>BIND 9 Vulnerabilities Enable Cache Poisoning and Service Disruption</title>
-      <link>https://gbhackers.com/bind-9-vulnerabilities/</link>
-      <description>Vulnerable Product: Internet Systems Consortium (ISC) BIND 9; CVE(s): CVE-2025-40776, CVE-2025-40777; Summary: Two critical security vulnerabilities in BIND 9, one allowing cache poisoning attacks and the other causing assertion failures leading to service disruption. These flaws primarily impact DNS resolvers rather than authoritative servers, with potential for redirecting users to malicious websites or intercepting communications.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149900</guid>
-      <pubDate>Fri, 18 Jul 2025 05:50:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai</title>
-      <link>https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/</link>
-      <description>Vulnerable Product: Paradox.ai; CVE(s): None; Summary: The personal information of millions of people who applied for jobs at McDonald's was exposed after researchers guessed the password ("123456") for Paradox.ai's account. The weak password allowed access to 64 million records, including applicants' names, email addresses, and phone numbers.
-
-FYSA: Threat actors exploited a Paradox.ai administrator in Vietnam's malware-infected device, stealing usernames and passwords for various internal and third-party services.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71668</guid>
-      <pubDate>Fri, 18 Jul 2025 01:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citrix Bleed 2 exploited weeks before PoCs as Citrix denied attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/</link>
-      <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-5777; Summary: A critical memory overread vulnerability, dubbed "CitrixBleed 2," allows attackers to send malformed POST requests and leak 127 bytes of memory. The flaw can be exploited to expose sensitive data, hijack sessions, and gain unauthorized access to internal resources.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/</guid>
-      <pubDate>Thu, 17 Jul 2025 23:37:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub abused to distribute payloads on behalf of malware-as-a-service</title>
-      <link>https://arstechnica.com/security/2025/07/malware-as-a-service-caught-using-github-to-distribute-its-payloads/</link>
-      <description>The article discusses a malicious activity campaign called Amadey, which is likely part of a larger Malware-as-a-Service (MaaS) operation. Threat actors behind Amadey are distributing various malware families from fake GitHub repositories onto infected hosts, suggesting they may be serving payloads for other individuals or groups.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/malware-as-a-service-caught-using-github-to-distribute-its-payloads/</guid>
-      <pubDate>Thu, 17 Jul 2025 22:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin</title>
-      <link>https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/</link>
-      <description>Vulnerable Product: VMware ESXi, Workstation, Fusion, and Tools; CVE(s): CVE-2025-41236, CVE-2025-41237, CVE-2025-41238, CVE-2025-41239; Summary: Three of the patched flaws allow programs running in a guest virtual machine to execute commands on the host, while the fourth is an information disclosure. The first three have a severity rating of 9.3 and were exploited as zero-days during Pwn2Own Berlin 2025.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/</guid>
-      <pubDate>Thu, 17 Jul 2025 21:36:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
