@@ -6,8 +6,92 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 22:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 10:06:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Coyote Malware Targets WILS, Abusing Microsoft UI Automation to Exfiltrate Logins</title>
+      <link>https://gbhackers.com/coyote-malware-targets-wils/</link>
+      <description>Vulnerable Product: Microsoft UI Automation (UIA) framework; CVE(s): None; Summary: A novel variant of the Coyote banking trojan exploits Microsoft's UI Automation (UIA) framework to manipulate user interface elements and steal login credentials. The malware uses UIA's Component Object Model (COM) interfaces to evade traditional endpoint detection and response (EDR) tools, allowing it to extract sensitive data without direct process injection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150817</guid>
+      <pubDate>Wed, 23 Jul 2025 09:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Groups Weaponize RMM Tools to Infiltrate Networks and Exfiltrate Data</title>
+      <link>https://gbhackers.com/ransomware-groups-weaponize-rmm-tools/</link>
+      <description>Ransomware gangs have co-opted Remote Monitoring and Management (RMM) tools to orchestrate sophisticated network intrusions, persistence, lateral movement, and data exfiltration. The tools were exploited by groups such as Hunters International and Medusa to evade traditional security controls due to their legitimate status.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150808</guid>
+      <pubDate>Wed, 23 Jul 2025 08:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Alerts on Chinese Hackers Actively Exploiting SharePoint 0-Day</title>
+      <link>https://gbhackers.com/cisa-alerts-on-chinese-hackers-actively-exploiting-sharepoint-0-day/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49706, CVE-2025-49704; Summary: A vulnerability chain dubbed "ToolShell" is actively exploited by Chinese hackers to gain unauthorized access to on-premises SharePoint servers. The vulnerabilities allow for network spoofing and remote code execution, enabling attackers to achieve unauthenticated system access, authenticated access, and execute arbitrary code across networks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150832</guid>
+      <pubDate>Wed, 23 Jul 2025 08:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Introduces Black Screen of Death and Auto Recovery</title>
+      <link>https://gbhackers.com/windows-11-introduces-black-screen-of-death-and-auto-recovery/</link>
+      <description>Microsoft has introduced significant updates to Windows 11's system recovery capabilities, including a redesigned "Black Screen of Death" interface and automated recovery features like Quick Machine Recovery (QMR) aimed at minimizing downtime and improving user experience during system failures. The new features promise to reduce system downtime and automate recovery processes, addressing critical pain points in enterprise environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150803</guid>
+      <pubDate>Wed, 23 Jul 2025 08:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Expose Russia’s Most Secretive FSB Spy Network</title>
+      <link>https://gbhackers.com/researchers-expose-russias-most-secretive-fsb/</link>
+      <description>Researchers analyzed open-source intelligence (OSINT) and phaleristics to reveal the structure and operations of the Russian Federal Security Service's (FSB) 16th Center, a unit responsible for signals intelligence (SIGINT), cryptanalysis, and computer network operations (CNO). The study mapped the center's internal architecture, including at least ten departments, and geolocated ten SIGINT facilities across Russia.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150792</guid>
+      <pubDate>Wed, 23 Jul 2025 08:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kali Linux Introduces Two New Tools for Raspberry Pi to Boost Wi-Fi Performance</title>
+      <link>https://gbhackers.com/kali-linux-introduces-tools-raspberry-pi-wi-fi-performance/</link>
+      <description>The article is about the integration of Nexmon firmware-patching framework into Kali Linux, enabling native monitor-mode and packet-injection capabilities on Raspberry Pi boards. This update streamlines wireless security assessments on popular ARM-based Pi boards.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150802</guid>
+      <pubDate>Wed, 23 Jul 2025 06:53:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome High-Severity Vulnerabilities Allow Hackers to Gain Full Control</title>
+      <link>https://gbhackers.com/chrome-high-severity-vulnerabilities/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): None; Summary: The latest Chrome update addresses three significant security vulnerabilities, including two high-severity issues involving type confusion errors in V8, Chrome's JavaScript engine. These flaws can allow attackers to manipulate data types, leading to memory corruption and arbitrary code execution, enabling cybercriminals to bypass security measures, steal sensitive information, or install malicious software.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150790</guid>
+      <pubDate>Wed, 23 Jul 2025 06:42:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks</title>
+      <link>https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49704, CVE-2025-49706; Summary: Two Microsoft SharePoint flaws, CVE-2025-49704 and CVE-2025-49706, have been added to the Known Exploited Vulnerabilities (KEV) catalog by CISA due to active exploitation. The vulnerabilities, tracked as ToolShell, enable unauthorized access to on-premise SharePoint servers and are being exploited by Chinese hacking groups like Linen Typhoon and Violet Typhoon since July 7, 2025.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html</guid>
+      <pubDate>Wed, 23 Jul 2025 06:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF</title>
+      <link>https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html</link>
+      <description>Vulnerable Product: SysAid IT support software; CVE(s): CVE-2025-2775, CVE-2025-2776; Summary: Two XXE vulnerabilities, CVE-2025-2775 and CVE-2025-2776, allow for administrator account takeover, file read primitives, and potential remote code execution when chained with other flaws. The vulnerabilities were disclosed by watchTowr Labs researchers in May and addressed in SysAid's on-premise version 24.4.60 build 16 released in early March 2025.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html</guid>
+      <pubDate>Wed, 23 Jul 2025 06:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla Launches Firefox 141 With Critical Security Fixes – Update Immediately</title>
+      <link>https://gbhackers.com/mozilla-launches-firefox-141/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-8027, CVE-2025-8028, CVE-2025-8034, CVE-2025-8035, CVE-2025-8040; Summary: The vulnerability summary states that Firefox 141 addresses 18 distinct CVEs, including high-impact memory safety bugs and moderate issues in URL handling and sandboxing. The most critical defects fixed include two high-severity flaws in the JavaScript engine, which could lead to arbitrary code execution, cross-origin data leaks, and privilege escalation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150786</guid>
+      <pubDate>Wed, 23 Jul 2025 06:22:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Injected Malicious Firefox Packages in Arch Linux Repo</title>
+      <link>https://gbhackers.com/hackers-injected-malicious-firefox-packages/</link>
+      <description>Vulnerable Product: Arch Linux; CVE(s): None; Summary: Three compromised packages containing Remote Access Trojan (RAT) malware were uploaded to the Arch User Repository (AUR), targeting users seeking alternative Firefox configurations and browsers. The malware was designed to establish persistent remote access capabilities on infected systems, potentially granting attackers comprehensive system access without user knowledge.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150781</guid>
+      <pubDate>Wed, 23 Jul 2025 05:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Alerts on Active Exploitation of Microsoft SharePoint Code Injection and Authentication Vulnerabilities</title>
+      <link>https://gbhackers.com/cisa-alerts-of-microsoft-sharepoint-vulnerabilities/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49706, CVE-2025-49704; Summary: Two critical vulnerabilities in Microsoft SharePoint allow attackers to gain unauthorized access and execute code, posing significant risks to enterprise deployments. The vulnerabilities can be chained together to create devastating attack scenarios, enabling malicious actors to view sensitive information and make unauthorized modifications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150776</guid>
+      <pubDate>Wed, 23 Jul 2025 05:12:36 +0000</pubDate>
+    </item>
     <item>
       <title>Lumma infostealer malware returns after law enforcement disruption</title>
       <link>https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-returns-after-law-enforcement-disruption/</link>
@@ -1374,90 +1458,6 @@ FYSA: Threat actors exploited a Paradox.ai administrator in Vietnam's malware-in
       <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-0831; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations by parsing out-of-bounds read. User interaction is required, and the issue results from lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26813</guid>
       <pubDate>Thu, 17 Jul 2025 21:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-620: Dassault Systèmes eDrawings Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-620/</link>
-      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6973; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Dassault Systèmes eDrawings Viewer by parsing JT files without validating the existence of an object. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26901</guid>
-      <pubDate>Thu, 17 Jul 2025 21:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-611: VMware ESXi VMCI Uninitialized Memory Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-611/</link>
-      <description>Vulnerable Product: VMware ESXi; CVE(s): CVE-2025-41239; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of VMware ESXi. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the implementation of VMCI due to uninitialized memory prior to access.</description>
-      <guid isPermaLink="false">ZDI-CAN-27123</guid>
-      <pubDate>Thu, 17 Jul 2025 20:04:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-612: Hewlett Packard Enterprise AutoPass License Server Hard-coded Credentials Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-612/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise AutoPass License Server; CVE(s): CVE-2025-37105; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Hewlett Packard Enterprise AutoPass License Server without authentication. The specific flaw exists within the hsqldb service, which listens on TCP port 9001 by default, due to hard-coded credentials.</description>
-      <guid isPermaLink="false">ZDI-CAN-25789</guid>
-      <pubDate>Thu, 17 Jul 2025 20:03:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-613: Hewlett Packard Enterprise AutoPass License Server Hard-coded Credentials Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-613/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise AutoPass License Server; CVE(s): CVE-2025-37106; Summary: This vulnerability allows remote attackers to disclose sensitive information or edit configuration on affected installations of Hewlett Packard Enterprise AutoPass License Server without requiring authentication. The specific flaw exists within the web service, which listens on TCP port 5814 by default, due to hard-coded credentials.</description>
-      <guid isPermaLink="false">ZDI-CAN-25790</guid>
-      <pubDate>Thu, 17 Jul 2025 20:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-614: Hewlett Packard Enterprise AutoPass License Server Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-614/</link>
-      <description>Vulnerable Product: Hewlett Packard Enterprise AutoPass License Server; CVE(s): CVE-2025-37107; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of the Hewlett Packard Enterprise AutoPass License Server, making an authorization decision based on a non-canonical URL. Authentication is not required to exploit this vulnerability, and it exists within the web service that listens on TCP port 5814 by default.</description>
-      <guid isPermaLink="false">ZDI-CAN-25791</guid>
-      <pubDate>Thu, 17 Jul 2025 20:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-615: Dassault Systèmes eDrawings Viewer IPT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-615/</link>
-      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-7042; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations by parsing IPT files without validating the existence of an object. User interaction is required, and an attacker can leverage this to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-27117</guid>
-      <pubDate>Thu, 17 Jul 2025 20:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google sues to disrupt BadBox 2.0 botnet infecting 10 million devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/</link>
-      <description>The article discusses a lawsuit filed by Google against the operators of the Android BadBox 2.0 malware botnet, which has infected over 10 million devices and is conducting global ad fraud schemes against Google's advertising platforms. The botnet uses infected Android Open Source Project (AOSP) devices, including smart TVs, streaming boxes, and other connected devices that lack security protections.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/</guid>
-      <pubDate>Thu, 17 Jul 2025 19:59:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-604: Cisco Identity Services Engine disableStrongSwanTunnel Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-604/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20283; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine, requiring authentication. The issue is due to the lack of proper validation of user-supplied data, resulting in deserialization of untrusted data. An attacker can leverage this vulnerability to execute code in the context of the iseadminportal user.</description>
-      <guid isPermaLink="false">ZDI-CAN-26479</guid>
-      <pubDate>Thu, 17 Jul 2025 19:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-605: Cisco Identity Services Engine IpAccessFilter Direct Request Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-605/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20285; Summary: This vulnerability allows remote attackers to bypass IP restrictions on affected installations of Cisco Identity Services Engine. Authentication is required to exploit this vulnerability, and the issue results from an incomplete Spring Boot filter mapping in the web.xml file.</description>
-      <guid isPermaLink="false">ZDI-CAN-26480</guid>
-      <pubDate>Thu, 17 Jul 2025 19:03:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-606: Cisco Identity Services Engine handleStrongSwanTunnelStatus Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-606/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20284; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine. Authentication is required to exploit this vulnerability, and the flaw exists within the implementation of the handleStrongSwanTunnelStatus method due to a lack of proper validation of user-supplied data, resulting in deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26482</guid>
-      <pubDate>Thu, 17 Jul 2025 19:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-607: Cisco Identity Services Engine enableStrongSwanTunnel Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-607/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20337; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations without authentication, due to the lack of proper validation of user-supplied data in the enableStrongSwanTunnel method. An attacker can leverage this vulnerability to execute code in the context of the iseadminportal user.</description>
-      <guid isPermaLink="false">ZDI-CAN-26481</guid>
-      <pubDate>Thu, 17 Jul 2025 19:02:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-608: Cisco Identity Services Engine handleFilesUpload Unrestricted File Upload Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-608/</link>
-      <description>Vulnerable Product: Cisco Identity Services Engine; CVE(s): CVE-2025-20282; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Cisco Identity Services Engine without authentication. The issue occurs due to a lack of proper validation of user-supplied data, allowing the upload of arbitrary files. An attacker can leverage this vulnerability to execute code in the context of the iseadminportal user.</description>
-      <guid isPermaLink="false">ZDI-CAN-26483</guid>
-      <pubDate>Thu, 17 Jul 2025 19:02:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
