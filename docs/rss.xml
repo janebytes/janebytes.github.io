@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 20:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 21:01:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>What to know about ToolShell, the SharePoint threat under mass exploitation</title>
+      <link>https://arstechnica.com/security/2025/07/what-to-know-about-toolshell-the-sharepoint-threat-under-mass-exploitation/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49706, CVE-2025-49704; Summary: The vulnerability allows attackers to infect systems with a webshell-based backdoor that gains access to sensitive parts of the SharePoint Server. Attackers can then extract tokens and credentials, gain administrative privileges, and exfiltrate sensitive data and deploy additional backdoors for future use.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/what-to-know-about-toolshell-the-sharepoint-threat-under-mass-exploitation/</guid>
+      <pubDate>Wed, 23 Jul 2025 20:14:40 +0000</pubDate>
+    </item>
     <item>
       <title>After $380M hack, Clorox sues its “service desk” vendor for simply giving out passwords</title>
       <link>https://arstechnica.com/security/2025/07/how-do-hackers-get-passwords-sometimes-they-just-ask/</link>
@@ -1432,13 +1439,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>A sophisticated phishing operation impersonates Turkish Aerospace Industries (TUSAŞ) to attack Turkish businesses in the defense and aerospace sectors. The campaign distributes malicious emails containing a PE32 executable that delivers a variant of the Snake Keylogger, an information-stealing malware designed to harvest sensitive data.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150163</guid>
       <pubDate>Fri, 18 Jul 2025 17:58:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Phobos ransomware decryptor lets victims recover files for free</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/</link>
-      <description>Vulnerable Product: Phobos and 8Base Ransomware; CVE(s): None; Summary: The article discusses the release of a free decryptor by the Japanese police for victims of the Phobos and 8Base ransomware operations. The decryptor can recover files encrypted by these operations, including those with extensions such as ".phobos", ".8base", ".elbie", ".faust", and ".LIZARD".</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/</guid>
-      <pubDate>Fri, 18 Jul 2025 15:56:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
