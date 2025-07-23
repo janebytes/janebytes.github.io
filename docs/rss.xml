@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 17:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 18:02:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Proton launches privacy-respecting encrypted AI assistant Lumo</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/proton-launches-privacy-respecting-encrypted-ai-assistant-lumo/</link>
+      <description>Proton has launched Lumo, a privacy-first AI assistant that does not log user conversations and doesn't use their prompts for training. The tool uses open-source large language models and encryption scheme, with complete source code available. It supports file uploads with full encryption support and is available on Android and iOS devices.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/proton-launches-privacy-respecting-encrypted-ai-assistant-lumo/</guid>
+      <pubDate>Wed, 23 Jul 2025 17:41:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers fooled Cognizant help desk, says Clorox in $380M cyberattack lawsuit</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-fooled-cognizant-help-desk-says-clorox-in-380m-cyberattack-lawsuit/</link>
+      <description>Clorox is suing Cognizant for gross negligence after a massive August 2023 cyberattack, allegedly enabled by Cognizant's failure to verify the identity of an employee whose password was reset by hackers without proper authentication. The incident gave attackers privileged access to Clorox's IT network, resulting in business disruption and losses.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-fooled-cognizant-help-desk-says-clorox-in-380m-cyberattack-lawsuit/</guid>
+      <pubDate>Wed, 23 Jul 2025 17:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT is rolling out 'personality' toggles to become your assistant</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-rolling-out-personality-toggles-to-become-your-assistant/</link>
+      <description>The article discusses the rollout of a new "personality" feature on OpenAI's ChatGPT web app, allowing users to personalize how ChatGPT interacts with them. The feature includes multiple personalities such as "Robot," "Cynic," "Listener," and "Sage."</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-rolling-out-personality-toggles-to-become-your-assistant/</guid>
+      <pubDate>Wed, 23 Jul 2025 17:07:48 +0000</pubDate>
+    </item>
     <item>
       <title>Hidden Backdoor in WordPress Plugins Grants Attackers Ongoing Access to Websites</title>
       <link>https://gbhackers.com/hidden-backdoor-in-wordpress-plugins/</link>
@@ -543,6 +564,13 @@ Note: There is no specific vulnerability mentioned in the article, but rather a 
       <description>Vulnerable Product: Cisco Identity Services Engine (ISE); CVE(s): CVE-2025-20281, CVE-2025-20282, CVE-2025-20337; Summary: Three critical remote code execution vulnerabilities in Cisco ISE are being actively exploited. The flaws allow attackers to execute arbitrary commands as root without authentication and can lead to gaining a foothold on corporate networks.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-maximum-severity-ise-rce-flaws-now-exploited-in-attacks/</guid>
       <pubDate>Tue, 22 Jul 2025 14:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is the Deep Web?</title>
+      <link>https://socradar.io/what-is-the-deep-web/</link>
+      <description>The article explains the concept of the "deep web", which refers to parts of the internet that search engines cannot index. It includes private databases, login-restricted content, and subscription-based pages. The deep web is legal, secure, and essential for daily online activity, supporting research, and powering secure access to sensitive systems.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062009</guid>
+      <pubDate>Tue, 22 Jul 2025 14:31:07 +0000</pubDate>
     </item>
     <item>
       <title>New Web3 Phishing Scam Uses Fake AI Platforms to Steal Credentials</title>
@@ -1409,34 +1437,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>The article explains the difference between the deep web and the dark web. While both are non-indexed by search engines, the deep web is a larger part of the internet that includes private content accessible through standard browsers, whereas the dark web is a smaller subset that uses encryption to maintain anonymity and often hosts illegal or malicious activities.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061932</guid>
       <pubDate>Fri, 18 Jul 2025 13:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New QR Code Attacks Through PDFs Bypass Detection and Steal Credentials</title>
-      <link>https://gbhackers.com/new-qr-code-attacks-through-pdfs/</link>
-      <description>The article discusses an ongoing phishing campaign called "Scanception" that uses QR code-based delivery mechanisms to distribute credential-harvesting URLs. The campaign involves targeted emails with PDF lures, social engineering tactics, and abuse of trusted services to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150095</guid>
-      <pubDate>Fri, 18 Jul 2025 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Intercept X for Windows Flaws Enable Arbitrary Code Execution</title>
-      <link>https://gbhackers.com/sophos-intercept-x-for-windows-flaws/</link>
-      <description>Vulnerable Product: Sophos; CVE(s): CVE-2024-13972, CVE-2025-7433, CVE-2025-7472; Summary: Three critical security vulnerabilities were discovered in Sophos Intercept X for Windows, allowing attackers to execute arbitrary code and gain system-level privileges. The vulnerabilities affect different components of the software, including the updater, Device Encryption module, and installer.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150111</guid>
-      <pubDate>Fri, 18 Jul 2025 12:47:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Sues BadBox 2.0 Botnet Operators Behind 10 Million+ Infected Devices</title>
-      <link>https://gbhackers.com/google-sues-badbox-2-0-botnet-operators/</link>
-      <description>The article discusses the BadBox 2.0 botnet, a network of over 10 million insecure devices running Android Open Source Project (AOSP) that were compromised by malware during manufacturing and used for ad fraud schemes and other illicit activities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150080</guid>
-      <pubDate>Fri, 18 Jul 2025 12:38:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grafana Flaws Allow User Redirection and Code Execution in Dashboards</title>
-      <link>https://gbhackers.com/grafana-flaws/</link>
-      <description>Vulnerable Product: Grafana; CVE(s): CVE-2025-6023, CVE-2025-6197; Summary: Two critical vulnerabilities were discovered in Grafana's scripted dashboards and organization switching functionality. The first vulnerability is a high-severity cross-site scripting (XSS) flaw that can redirect users to malicious websites and execute arbitrary code, while the second is a medium-severity open redirect flaw that requires specific conditions for exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150097</guid>
-      <pubDate>Fri, 18 Jul 2025 12:30:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
