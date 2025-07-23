@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 10:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 11:02:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft fixes bug behind incorrect Windows Firewall errors</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-incorrect-windows-firewall-errors/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: A known issue in Windows 11 24H2 systems with the June 2025 preview update installed triggers invalid Windows Firewall errors after rebooting. The bug has been fixed in the KB5062660preview cumulative update for Windows 11 24H2, released on Tuesday, and will be generally available to all users who install the August Patch Tuesday updates.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-incorrect-windows-firewall-errors/</guid>
+      <pubDate>Wed, 23 Jul 2025 10:24:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet Hazel Burton</title>
+      <link>https://blog.talosintelligence.com/humans-of-talos-meet-hazel-burton/</link>
+      <description>This article is not about a vulnerability or cybersecurity-relevant content. It appears to be an employee spotlight or "Humans of Talos" series featuring Hazel Burton, a team member at Talos. The conversation touches on her career journey and what drew her to join the organization, as well as her advice for someone looking to join Talos.</description>
+      <guid isPermaLink="false">687e75c82e0cc100010c33bb</guid>
+      <pubDate>Wed, 23 Jul 2025 10:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages</title>
+      <link>https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html</link>
+      <description>Google's OSS Rebuild initiative aims to bolster the security of open-source package ecosystems by providing build provenance for packages across various registries. It leverages automation, heuristics, and network monitoring capabilities to produce trustworthy security metadata, enabling users to verify a package's origin and detect supply chain compromises.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html</guid>
+      <pubDate>Wed, 23 Jul 2025 09:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>Coyote Malware Targets WILS, Abusing Microsoft UI Automation to Exfiltrate Logins</title>
       <link>https://gbhackers.com/coyote-malware-targets-wils/</link>
@@ -1437,27 +1458,6 @@ FYSA: Threat actors exploited a Paradox.ai administrator in Vietnam's malware-in
       <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6971; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Dassault Systèmes eDrawings Viewer. User interaction is required, and the specific flaw exists within the parsing of CATPRODUCT files.</description>
       <guid isPermaLink="false">ZDI-CAN-26975</guid>
       <pubDate>Thu, 17 Jul 2025 21:02:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-617: Dassault Systèmes eDrawings Viewer CATPRODUCT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-617/</link>
-      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6972; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Dassault Systèmes eDrawings Viewer by parsing CATPRODUCT files without validating the existence of an object. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26971</guid>
-      <pubDate>Thu, 17 Jul 2025 21:01:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-618: Dassault Systèmes eDrawings Viewer JT File Parsing Uninitialized Variable Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-618/</link>
-      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6974; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations, requiring user interaction. It exists within the parsing of JT files due to uninitialized memory access. An attacker can leverage this to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26895</guid>
-      <pubDate>Thu, 17 Jul 2025 21:01:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-619: Dassault Systèmes eDrawings Viewer JT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-619/</link>
-      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-0831; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations by parsing out-of-bounds read. User interaction is required, and the issue results from lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26813</guid>
-      <pubDate>Thu, 17 Jul 2025 21:00:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
