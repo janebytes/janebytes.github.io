@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 11:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 12:02:47 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Operator of Jetflix illegal streaming service gets 7 years in prison</title>
+      <link>https://www.bleepingcomputer.com/news/technology/operator-of-jetflix-illegal-streaming-service-gets-7-years-in-prison/</link>
+      <description>The article discusses the conviction of Kristopher Lee Dallmann, the ringleader of the illegal paid streaming operation Jetflicks, which operated for 12 years and had tens of thousands of subscribers. The scheme generated millions of dollars in criminal profits by pirating content from platforms like Netflix, Hulu, Vudu, and Amazon Prime.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/technology/operator-of-jetflix-illegal-streaming-service-gets-7-years-in-prison/</guid>
+      <pubDate>Wed, 23 Jul 2025 11:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kerberoasting Detections: A New Approach to a Decade-Old Challenge</title>
+      <link>https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html</link>
+      <description>This article discusses the challenges of detecting Kerberoasting attacks, which exploit weaknesses in Kerberos authentication protocol. It highlights the limitations of traditional heuristic-based detection methods and proposes a statistical framework for improving anomaly detection accuracy and reducing false positives. The article presents a model that groups similar ticket-request patterns into distinct clusters and uses histogram bins to track frequency over time, allowing for more accurate identification of anomalies.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html</guid>
+      <pubDate>Wed, 23 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft fixes bug behind incorrect Windows Firewall errors</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-incorrect-windows-firewall-errors/</link>
@@ -1444,20 +1458,6 @@ FYSA: Threat actors exploited a Paradox.ai administrator in Vietnam's malware-in
       <description>Vulnerable Product: VMware ESXi, Workstation, Fusion, and Tools; CVE(s): CVE-2025-41236, CVE-2025-41237, CVE-2025-41238, CVE-2025-41239; Summary: Three of the patched flaws allow programs running in a guest virtual machine to execute commands on the host, while the fourth is an information disclosure. The first three have a severity rating of 9.3 and were exploited as zero-days during Pwn2Own Berlin 2025.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/</guid>
       <pubDate>Thu, 17 Jul 2025 21:36:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams voice calls abused to push Matanbuchus malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/</link>
-      <description>The Matanbuchus malware loader is being distributed through social engineering over Microsoft Teams calls impersonating IT helpdesk, allowing attackers to gain initial access and deliver malicious payloads. The latest version, Matanbuchus 3.0, includes enhanced evasion, obfuscation, and post-compromise capabilities, making it a sophisticated threat.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/</guid>
-      <pubDate>Thu, 17 Jul 2025 21:28:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-616: Dassault Systèmes eDrawings Viewer CATPRODUCT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-616/</link>
-      <description>Vulnerable Product: Dassault Systèmes eDrawings Viewer; CVE(s): CVE-2025-6971; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Dassault Systèmes eDrawings Viewer. User interaction is required, and the specific flaw exists within the parsing of CATPRODUCT files.</description>
-      <guid isPermaLink="false">ZDI-CAN-26975</guid>
-      <pubDate>Thu, 17 Jul 2025 21:02:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
