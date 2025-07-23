@@ -6,8 +6,64 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 13:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 14:04:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Mimo Targets Magento CMS to Steal Card Details and Monetize Bandwidth</title>
+      <link>https://gbhackers.com/mimo-targets-magento-cms-to-steal-card-details/</link>
+      <description>The Mimo threat actor has been observed expanding its operations from Craft CMS to Magento CMS, exploiting undetermined PHP-FPM flaws to gain initial access. This evolution includes sophisticated persistence and evasion mechanisms, suggesting preparation for more advanced financial crimes beyond mere resource exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150949</guid>
+      <pubDate>Wed, 23 Jul 2025 13:45:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI prepares Sora 2 to take on Google's Veo 3</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-sora-2-to-take-on-googles-veo-3/</link>
+      <description>OpenAI is working on Sora 2, a successor to their generative video model Sora, while Google has announced Veo 3 is free for college students with the Gemini AI Pro plan. The article also mentions ChatGPT's GPT-5-reasoning-alpha and o3-alpha models, which may have implications for education and coding.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-sora-2-to-take-on-googles-veo-3/</guid>
+      <pubDate>Wed, 23 Jul 2025 13:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine arrests suspected admin of XSS Russian hacking forum</title>
+      <link>https://www.bleepingcomputer.com/news/security/ukraine-arrests-suspected-admin-of-xss-russian-hacking-forum/</link>
+      <description>The suspected administrator of a Russian-speaking hacking forum XSS.is was arrested by Ukrainian authorities at the request of the Paris public prosecutor's office, amid an investigation into ransomware and cybercrimes. This development is likely to have a chilling effect on the activity at XSS, as users fearing exposure to law enforcement may turn to other sites. The arrest comes shortly after French police arrested five operators of another major cybercrime platform, BreachForum.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ukraine-arrests-suspected-admin-of-xss-russian-hacking-forum/</guid>
+      <pubDate>Wed, 23 Jul 2025 13:41:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA warns of hackers exploiting SysAid vulnerabilities in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-sysaid-vulnerabilities-in-attacks/</link>
+      <description>Vulnerable Product: SysAid IT service management (ITSM) software; CVE(s): CVE-2025-2775, CVE-2025-2776; Summary: Two unauthenticated XML External Entity (XXE) flaws allow attackers to hijack administrator accounts and retrieve local files containing sensitive information. The vulnerabilities were patched in March 2024 with the release of SysAid On-Prem version 24.4.60, but attacks are still ongoing.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-sysaid-vulnerabilities-in-attacks/</guid>
+      <pubDate>Wed, 23 Jul 2025 13:30:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silicon Valley Engineer Pleads Guilty in U.S. Missile Detection Data Theft Case</title>
+      <link>https://gbhackers.com/silicon-valley-engineer-pleads-guilty/</link>
+      <description>This article is not about a vulnerability, but rather an instance of economic espionage and technology theft. A Silicon Valley engineer, Chenguang Gong, pleaded guilty to stealing critical defense technologies worth hundreds of millions of dollars from a Los Angeles-area research and development company. The stolen data included blueprints for sophisticated sensors and countermeasure technologies designed for military applications.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150951</guid>
+      <pubDate>Wed, 23 Jul 2025 13:23:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>npm 'accidentally' removes Stylus package, breaks builds and pipelines</title>
+      <link>https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/</link>
+      <description>The article reports that npm mistakenly took down the Stylus library, a legitimate package receiving 3 million weekly downloads, and replaced it with a security holding page. This was due to an administrative error involving one of the maintainers, who had published malicious packages in the past.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/</guid>
+      <pubDate>Wed, 23 Jul 2025 13:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberattack on Germany’s AMEOS Hospital Network Exposes Patient Data</title>
+      <link>https://gbhackers.com/cyberattack-on-germanys-ameos-hospital-network/</link>
+      <description>The article reports a cyberattack on Germany's AMEOS Hospital Network, which resulted in unauthorized access and potential exposure of sensitive data. Despite robust defenses, attackers managed to infiltrate the network using advanced persistent threat (APT) tactics, potentially exfiltrating personal health information, employee records, and partner data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150928</guid>
+      <pubDate>Wed, 23 Jul 2025 13:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials</title>
+      <link>https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html</link>
+      <description>The Windows banking trojan Coyote exploits the Windows accessibility framework UI Automation (UIA) to harvest sensitive information, targeting Brazilian users by extracting credentials linked to 75 banking institutes' web addresses and cryptocurrency exchanges. The malware uses UIA to parse through UI child elements of windows in an attempt to identify browser tabs or address bars and cross-reference with a list of targeted addresses.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html</guid>
+      <pubDate>Wed, 23 Jul 2025 12:58:00 +0000</pubDate>
+    </item>
     <item>
       <title>US Nuclear Weapons Data Compromised via SharePoint Zero-Day Attack</title>
       <link>https://gbhackers.com/us-nuclear-weapons-data-compromised/</link>
@@ -1381,62 +1437,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>The article discusses the importance of maintaining operations during an incident, especially in light of escalating IT outages and ransomware attacks. It highlights the limitations of traditional backup strategies, which often rely on manual testing and may not account for targeted cyberattacks that aim to destroy recovery infrastructure. The article emphasizes the need for a "resilience-first" approach, which integrates immutable backups, automated testing, and orchestrated recovery playbooks to ensure business continuity even during an attack.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html</guid>
       <pubDate>Fri, 18 Jul 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit ClickFix Tactics to Spread NetSupport RAT, Latrodectus, and Lumma Stealer</title>
-      <link>https://gbhackers.com/hackers-exploit-clickfix-tactics/</link>
-      <description>Attackers are using the ClickFix social engineering technique to distribute malware families like NetSupport RAT, Latrodectus, and Lumma Stealer. This technique tricks users into executing malicious commands by hijacking their clipboard and injecting obfuscated PowerShell scripts or commands that victims unwittingly paste into system interfaces.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149986</guid>
-      <pubDate>Fri, 18 Jul 2025 10:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Protection Driver Flaw Enables Privilege Escalation and Code Execution</title>
-      <link>https://gbhackers.com/lenovo-protection-driver-flaw/</link>
-      <description>Vulnerable Product: Lenovo; CVE(s): CVE-2025-4657; Summary: Lenovo's protection driver software contains a buffer overflow vulnerability that allows local attackers to execute arbitrary code with elevated privileges, posing significant security risks. The flaw affects Lenovo PC Manager, Lenovo Browser, and Lenovo App Store versions prior to 5.1.110.4231, impacting millions of users worldwide.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150016</guid>
-      <pubDate>Fri, 18 Jul 2025 09:56:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI: GPT-5 is coming, "we'll see" if it creates a shockwave</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/</link>
-      <description>OpenAI's next AI model, GPT-5, is still in development and no release date has been announced. Additionally, the company is planning to upgrade its Operator tool and adding new features to its Image Gen model, including a built-in style feature on ChatGPT. There are also hints about an Operator-like tool being tested on ChatGPT ahead of GPT-5's launch.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/</guid>
-      <pubDate>Fri, 18 Jul 2025 09:47:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Uncovers Scattered Spider Tactics, Techniques, and Procedures in Recent Attacks</title>
-      <link>https://gbhackers.com/microsoft-uncovers-scattered-spider-tactics/</link>
-      <description>This article discusses the tactics and techniques used by a financially motivated cybercriminal group called Octo Tempest (Scattered Spider, Muddled Libra, UNC3944, or 0ktapus). The group uses advanced social engineering campaigns, phishing attacks, and exploitation of Azure Active Directory environments to gain initial access and pivot to cloud resources.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149967</guid>
-      <pubDate>Fri, 18 Jul 2025 09:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WAFFLED: New Technique Targets Web Application Firewall Weaknesses</title>
-      <link>https://gbhackers.com/waffled-new-technique-targets-web-application/</link>
-      <description>Vulnerable Product: Various WAF platforms (AWS WAF, Azure WAF, Google Cloud Armor, Cloudflare, and ModSecurity); CVE(s): None; Summary: The WAFFLED attack technique exploits parsing discrepancies in Web Application Firewalls (WAFs) to bypass security measures and compromise the security of millions of websites worldwide. The technique targets three content types (multipart/form-data, application/json, and application/xml) and affects five major WAF platforms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149970</guid>
-      <pubDate>Fri, 18 Jul 2025 09:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit GitHub Accounts to Host Payloads, Tools, and Amadey Malware Plugins</title>
-      <link>https://gbhackers.com/threat-actors-exploit-github-accounts/</link>
-      <description>This article discusses a Malware-as-a-Service (MaaS) operation that employed the Amadey botnet to distribute various payloads. The operation exploited fake GitHub accounts as open directories, bypassing web filtering mechanisms and simplifying distribution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149921</guid>
-      <pubDate>Fri, 18 Jul 2025 09:12:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Vodka Maker Beluga Struck by Ransomware Attack</title>
-      <link>https://gbhackers.com/beluga-ransomware-attack/</link>
-      <description>Novabev Group, the parent company of Beluga vodka, was hit by a sophisticated ransomware attack on July 14, 2025, causing temporary disruptions to its IT infrastructure and services. The company refused to pay any ransom demands and is working to restore normal operations with the help of external cybersecurity experts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149962</guid>
-      <pubDate>Fri, 18 Jul 2025 08:07:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Daemon Ex Plist’ Vulnerability Grants Root Access on macOS</title>
-      <link>https://gbhackers.com/daemon-ex-plist-vulnerability/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-27981; Summary: A newly discovered vulnerability in macOS allows attackers to escalate privileges from standard user to root access by exploiting a timing flaw in how the operating system handles daemon configuration files. The vulnerability requires no initial elevated permissions and can be exploited through simple XML modifications, giving attackers complete system control, including disabling System Integrity Protection (SIP), manipulating privacy databases, and installing persistent backdoors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149950</guid>
-      <pubDate>Fri, 18 Jul 2025 07:57:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
