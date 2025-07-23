@@ -6,14 +6,35 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 16:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 17:02:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hidden Backdoor in WordPress Plugins Grants Attackers Ongoing Access to Websites</title>
+      <link>https://gbhackers.com/hidden-backdoor-in-wordpress-plugins/</link>
+      <description>Vulnerable Product: WordPress; CVE(s): None; Summary: A highly skilled malware campaign targets WordPress websites by inserting a covert backdoor in the mu-plugins directory, allowing for persistent threats and unrestricted administrator privileges. The malware loads remote payloads, executes arbitrary PHP code, and creates hidden administrator accounts, making it resilient to standard remediation efforts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150988</guid>
+      <pubDate>Wed, 23 Jul 2025 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation CargoTalon Targets Russian Aerospace &amp; Defense to Deploy EAGLET Implant</title>
+      <link>https://gbhackers.com/operation-cargotalon-targets-russian-aerospace-defense/</link>
+      <description>This article discusses Operation CargoTalon, a sophisticated spear-phishing campaign targeting employees at Russia's Voronezh Aircraft Production Association (VASO). The campaign uses malicious attachments and DLL files to deliver an EAGLET payload with espionage-focused features.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150997</guid>
+      <pubDate>Wed, 23 Jul 2025 16:02:30 +0000</pubDate>
+    </item>
     <item>
       <title>NPM package ‘is’ with 2.8M weekly downloads infected devs with malware</title>
       <link>https://www.bleepingcomputer.com/news/security/npm-package-is-with-28m-weekly-downloads-infected-devs-with-malware/</link>
       <description>Vulnerable Product: John Harband 'is'; CVE(s): None; Summary: The 'is' NPM package was compromised in a supply chain attack that injected backdoor malware, allowing attackers to gain full access to compromised devices. Maintainer accounts were hijacked via phishing, and unauthorized owner changes went unnoticed for several hours, potentially compromising many developers who downloaded the new releases.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/npm-package-is-with-28m-weekly-downloads-infected-devs-with-malware/</guid>
       <pubDate>Wed, 23 Jul 2025 15:57:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>US nuclear weapons agency hacked in Microsoft SharePoint attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-nuclear-weapons-agency-hacked-in-microsoft-sharepoint-attacks/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): None (zero-day vulnerability); Summary: Unknown threat actors exploited a recently patched Microsoft SharePoint zero-day vulnerability chain, breaching the National Nuclear Security Administration's network and potentially compromising 148 organizations worldwide.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-nuclear-weapons-agency-hacked-in-microsoft-sharepoint-attacks/</guid>
+      <pubDate>Wed, 23 Jul 2025 15:14:25 +0000</pubDate>
     </item>
     <item>
       <title>US nuclear weapons agency reportedly hacked in SharePoint attacks</title>
@@ -1416,27 +1437,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: Grafana; CVE(s): CVE-2025-6023, CVE-2025-6197; Summary: Two critical vulnerabilities were discovered in Grafana's scripted dashboards and organization switching functionality. The first vulnerability is a high-severity cross-site scripting (XSS) flaw that can redirect users to malicious websites and execute arbitrary code, while the second is a medium-severity open redirect flaw that requires specific conditions for exploitation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150097</guid>
       <pubDate>Fri, 18 Jul 2025 12:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ubiquiti UniFi Vulnerability Lets Hackers Inject Malicious Commands</title>
-      <link>https://gbhackers.com/ubiquiti-unifi-vulnerability-2/</link>
-      <description>Vulnerable Product: Ubiquiti UniFi Access devices; CVE(s): CVE-2025-27212; Summary: The vulnerability allows malicious actors to inject and execute arbitrary commands on affected systems due to improper input validation within certain UniFi Access devices, carrying a maximum CVSS score of 9.8. It can be exploited by attackers with access to the UniFi Access management network, enabling them to bypass normal security controls and potentially gain unauthorized access to sensitive areas or systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150090</guid>
-      <pubDate>Fri, 18 Jul 2025 12:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender for Office 365 Gets Enhanced Threat Dashboard</title>
-      <link>https://gbhackers.com/microsoft-defender-threat-dashboard/</link>
-      <description>Microsoft has introduced a new customer-facing dashboard for its email security platform, providing detailed visibility into threat protection effectiveness across organizations. The enhanced dashboard and two comparative benchmarking reports aim to empower organizations with actionable data about their security posture and foster trust through transparency in threat protection capabilities. The initiative recognizes the importance of continuous evaluation of security solutions in today's sophisticated threat landscape.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150085</guid>
-      <pubDate>Fri, 18 Jul 2025 12:08:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/18/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: The vulnerability, an SQL injection flaw, has been added to the Known Exploited Vulnerabilities (KEV) Catalog due to active exploitation. It poses significant risks to the federal enterprise and requires timely remediation to protect against cyber threats.</description>
-      <guid isPermaLink="false">/node/23639</guid>
-      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
