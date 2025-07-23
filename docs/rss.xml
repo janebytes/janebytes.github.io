@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 19:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 20:01:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>After $380M hack, Clorox sues its “service desk” vendor for simply giving out passwords</title>
+      <link>https://arstechnica.com/security/2025/07/how-do-hackers-get-passwords-sometimes-they-just-ask/</link>
+      <description>Clorox's internal password reset tool, MyID, and Okta passwords were compromised by a cybercriminal posing as an employee. The attacker successfully reset passwords and obtained MFA resets from Cognizant agents without proper verification procedures being followed.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/how-do-hackers-get-passwords-sometimes-they-just-ask/</guid>
+      <pubDate>Wed, 23 Jul 2025 19:46:30 +0000</pubDate>
+    </item>
     <item>
       <title>Proton launches privacy-respecting encrypted AI assistant Lumo</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/proton-launches-privacy-respecting-encrypted-ai-assistant-lumo/</link>
@@ -1432,13 +1439,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: Phobos and 8Base Ransomware; CVE(s): None; Summary: The article discusses the release of a free decryptor by the Japanese police for victims of the Phobos and 8Base ransomware operations. The decryptor can recover files encrypted by these operations, including those with extensions such as ".phobos", ".8base", ".elbie", ".faust", and ".LIZARD".</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/</guid>
       <pubDate>Fri, 18 Jul 2025 15:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers scanning for TeleMessage Signal clone flaw exposing passwords</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-scanning-for-telemessage-signal-clone-flaw-exposing-passwords/</link>
-      <description>Vulnerable Product: TeleMessage SGNL; CVE(s): CVE-2025-48927, CVE-2025-48928; Summary: The TeleMessage SGNL app allows retrieving usernames, passwords, and other sensitive data due to the exposure of the '/heapdump' endpoint from Spring Boot Actuator without authentication. This vulnerability (CVE-2025-48927) lets an attacker download a full Java heap memory dump, which may contain plaintext usernames, passwords, tokens, and other sensitive data.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-scanning-for-telemessage-signal-clone-flaw-exposing-passwords/</guid>
-      <pubDate>Fri, 18 Jul 2025 15:06:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
