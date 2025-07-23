@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 14:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 15:02:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Clorox Files Lawsuit Against Cognizant Over Employee Password Leak to Hackers</title>
+      <link>https://gbhackers.com/clorox-files-lawsuit-against-cognizant/</link>
+      <description>Clorox is suing Cognizant for $380 million over a cyberattack that allegedly occurred when Cognizant employees handed over network credentials to a criminal pretending to be a Clorox employee. The lawsuit claims Cognizant's security failures enabled the attack, which resulted in significant damages and disruptions to Clorox's operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150964</guid>
+      <pubDate>Wed, 23 Jul 2025 14:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ACRStealer Exploits Google Docs and Steam for C2 Server Using DDR Technique</title>
+      <link>https://gbhackers.com/new-acrstealer-exploits-google-docs-and-steam/</link>
+      <description>ACRStealer is an infostealer malware that continues to evolve and evade detection by introducing new features such as bypassing traditional monitoring tools, maintaining core information theft capabilities, and facilitating the installation of supplementary malware strains. The threat actors behind ACRStealer have incorporated techniques like Heaven's Gate and manual HTTP structure assembly to disrupt dynamic analysis and signature-based detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=150961</guid>
+      <pubDate>Wed, 23 Jul 2025 14:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI confirms ChatGPT's new study feature, helps with exams</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpts-new-study-feature-helps-with-exams/</link>
+      <description>OpenAI is testing a new feature, "Study Together", within the ChatGPT web app, allowing users to get homework help or break down complex problems with step-by-step guides. The feature will roll out to everyone in the coming hours or days. Additionally, OpenAI's Codex and Sora 2 projects are also mentioned, along with plans for a ChatGPT product by 2026 and a price drop for the ChatGPT o3 API.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpts-new-study-feature-helps-with-exams/</guid>
+      <pubDate>Wed, 23 Jul 2025 14:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to harden your Active Directory against Kerberoasting</title>
+      <link>https://www.bleepingcomputer.com/news/security/how-to-harden-your-active-directory-against-kerberoasting/</link>
+      <description>Vulnerable Product: Microsoft Active Directory; CVE(s): None; Summary: Kerberoasting is a privilege escalation attack that targets service accounts with Service Principle Names (SPNs) in Active Directory, allowing attackers to compromise service accounts with low risk of detection. The attack involves exploiting an existing Windows user account, requesting a service ticket from the Ticket Granting Service, and then cracking the SPN password hash using brute force techniques.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/how-to-harden-your-active-directory-against-kerberoasting/</guid>
+      <pubDate>Wed, 23 Jul 2025 14:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>Mimo Targets Magento CMS to Steal Card Details and Monetize Bandwidth</title>
       <link>https://gbhackers.com/mimo-targets-magento-cms-to-steal-card-details/</link>
@@ -1409,34 +1437,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>This article reports on a phishing campaign that delivered a malware codenamed LAMEHUG, attributed with medium confidence to the Russian state-sponsored hacking group tracked asAPT28. The malware uses a large language model (LLM) to generate commands based on textual representation, and supports commands to harvest basic information about the compromised host and search for specific files.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html</guid>
       <pubDate>Fri, 18 Jul 2025 11:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices</title>
-      <link>https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html</link>
-      <description>This article does not discuss a vulnerability. Instead, it reports on Google's legal action against 25 unnamed individuals or entities in China for allegedly operating the BADBOX 2.0 botnet and residential proxy infrastructure, which compromises over 10 million Android devices running open-source software. The botnet is used to conduct large-scale ad fraud and other digital crimes.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html</guid>
-      <pubDate>Fri, 18 Jul 2025 11:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Ivanti Connect Secure Flaws to Deploy Cobalt Strike Beacon</title>
-      <link>https://gbhackers.com/threat-actors-exploit-ivanti-connect-secure-flaws/</link>
-      <description>Vulnerable Product: Ivanti Connect Secure; CVE(s): CVE-2025-0282, CVE-2025-22457; Summary: Threat actors are exploiting vulnerabilities in Ivanti Connect Secure to deploy advanced malware, including MDifyLoader and Cobalt Strike Beacon. The attacks use DLL hijacking and side-loading to inject malware into memory, and employ obfuscation and encryption to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150041</guid>
-      <pubDate>Fri, 18 Jul 2025 11:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services</title>
-      <link>https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html</link>
-      <description>Vulnerable Product: NVIDIA Container Toolkit; CVE(s): CVE-2025-23266; Summary: The NVIDIA Container Toolkit contains a critical container escape vulnerability tracked as CVE-2025-23266, which carries a CVSS score of 9.0 out of 10.0. An attacker could execute arbitrary code with elevated permissions, potentially leading to escalation of privileges, data tampering, information disclosure, and denial-of-service. The vulnerability affects all versions up to and including 1.17.7 and has been addressed in versions 1.17.8 and later.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html</guid>
-      <pubDate>Fri, 18 Jul 2025 10:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware</title>
-      <link>https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html</link>
-      <description>The article discusses the importance of maintaining operations during an incident, especially in light of escalating IT outages and ransomware attacks. It highlights the limitations of traditional backup strategies, which often rely on manual testing and may not account for targeted cyberattacks that aim to destroy recovery infrastructure. The article emphasizes the need for a "resilience-first" approach, which integrates immutable backups, automated testing, and orchestrated recovery playbooks to ensure business continuity even during an attack.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html</guid>
-      <pubDate>Fri, 18 Jul 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
