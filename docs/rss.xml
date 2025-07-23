@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 15:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 16:02:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>NPM package ‘is’ with 2.8M weekly downloads infected devs with malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/npm-package-is-with-28m-weekly-downloads-infected-devs-with-malware/</link>
+      <description>Vulnerable Product: John Harband 'is'; CVE(s): None; Summary: The 'is' NPM package was compromised in a supply chain attack that injected backdoor malware, allowing attackers to gain full access to compromised devices. Maintainer accounts were hijacked via phishing, and unauthorized owner changes went unnoticed for several hours, potentially compromising many developers who downloaded the new releases.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/npm-package-is-with-28m-weekly-downloads-infected-devs-with-malware/</guid>
+      <pubDate>Wed, 23 Jul 2025 15:57:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>US nuclear weapons agency reportedly hacked in SharePoint attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-nuclear-weapons-agency-reportedly-hacked-in-sharepoint-attacks/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, "None"; Summary: A zero-day vulnerability chain (ToolShell) in Microsoft SharePoint was exploited to breach the National Nuclear Security Administration's network and compromise at least 148 organizations worldwide. The vulnerability is being used by Chinese state-sponsored hacking groups.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-nuclear-weapons-agency-reportedly-hacked-in-sharepoint-attacks/</guid>
+      <pubDate>Wed, 23 Jul 2025 15:14:25 +0000</pubDate>
+    </item>
     <item>
       <title>Clorox Files Lawsuit Against Cognizant Over Employee Password Leak to Hackers</title>
       <link>https://gbhackers.com/clorox-files-lawsuit-against-cognizant/</link>
@@ -1423,20 +1437,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-25257; Summary: The vulnerability, an SQL injection flaw, has been added to the Known Exploited Vulnerabilities (KEV) Catalog due to active exploitation. It poses significant risks to the federal enterprise and requires timely remediation to protect against cyber threats.</description>
       <guid isPermaLink="false">/node/23639</guid>
       <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: CrazyHunter Ransomware</title>
-      <link>https://socradar.io/dark-web-profile-crazyhunter-ransomware/</link>
-      <description>The article discusses the "CrazyHunter" ransomware group, which has been targeting Taiwanese organizations, particularly in the healthcare and technology sectors. The group uses advanced tactics, techniques, and tools (TTPs) such as BYOVD, SharpGPOAbuse, and Prince Ransomware builder to carry out sophisticated attacks.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061922</guid>
-      <pubDate>Fri, 18 Jul 2025 11:55:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign</title>
-      <link>https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html</link>
-      <description>This article reports on a phishing campaign that delivered a malware codenamed LAMEHUG, attributed with medium confidence to the Russian state-sponsored hacking group tracked asAPT28. The malware uses a large language model (LLM) to generate commands based on textual representation, and supports commands to harvest basic information about the compromised host and search for specific files.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html</guid>
-      <pubDate>Fri, 18 Jul 2025 11:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
