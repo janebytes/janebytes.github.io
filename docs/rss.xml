@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 21:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 22:02:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-649: Veeam Agent for Microsoft Windows Incorrect Default Permissions Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-649/</link>
+      <description>Vulnerable Product: Veeam; Veeam Agent for Microsoft Windows; CVE(s): CVE-2025-24287; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Veeam Agent for Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the product installer due to incorrect permissions on a file used by the product.</description>
+      <guid isPermaLink="false">ZDI-CAN-25685</guid>
+      <pubDate>Thu, 24 Jul 2025 22:02:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-650: ATEN eco DC Missing Authorization Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-650/</link>
+      <description>Vulnerable Product: ATEN eco DC; CVE(s): CVE-2025-6685; Summary: This vulnerability allows remote attackers to escalate privileges on affected installations of ATEN eco DC, requiring authentication to exploit. The specific flaw exists within the web-based interface due to a lack of validating the assigned user role when handling requests, enabling privilege escalation to resources normally protected from the user.</description>
+      <guid isPermaLink="false">ZDI-CAN-26647</guid>
+      <pubDate>Thu, 24 Jul 2025 22:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-651: (Pwn2Own) Red Hat Enterprise Linux CBS Packet Scheduling Use-After-Free Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-651/</link>
+      <description>Vulnerable Product: Red Hat Enterprise Linux; CVE(s): CVE-2025-38350, ZDI-CAN-27159, ZDI-25-651; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Red Hat Enterprise Linux by exploiting a use-after-free flaw in the handling of hfsc_class objects. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability and execute arbitrary code in kernel context.</description>
+      <guid isPermaLink="false">ZDI-CAN-27159</guid>
+      <pubDate>Thu, 24 Jul 2025 22:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackSuit ransomware leak sites seized in Operation Checkmate</title>
+      <link>https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/</link>
+      <description>Law enforcement has seized the dark web leak sites of the BlackSuit ransomware operation, which has targeted hundreds of organizations worldwide. The operation involved multiple international agencies, including Europol and Romanian cybersecurity company Bitdefender.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/</guid>
+      <pubDate>Thu, 24 Jul 2025 21:34:13 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI confirms ChatGPT Agent is now rolling out for $20 Plus users</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/</link>
@@ -1416,34 +1444,6 @@ As a cybersecurity analyst, I would categorize this article under "FYSA" since i
       <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770, None; Summary: A vulnerability in Microsoft SharePoint Server is actively being exploited to compromise vulnerable organizations, allowing attackers to execute code over the network and steal ASP.NET machine keys. The patch comes amid reports of breaches in U.S. federal and state agencies, universities, and energy companies.</description>
       <guid isPermaLink="false">https://krebsonsecurity.com/?p=71737</guid>
       <pubDate>Mon, 21 Jul 2025 14:45:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dior begins sending data breach notifications to U.S. customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/dior-begins-sending-data-breach-notifications-to-us-customers/</link>
-      <description>The article reports on a data breach incident at House of Dior, a French luxury fashion house, which affected U.S. customers' personal information. The breach occurred on January 26, 2025, and was only discovered on May 7, 2025. The compromised database contained full names, contact details, physical addresses, date of birth, passport or government ID number (in some cases), and Social Security Number (in some cases).</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dior-begins-sending-data-breach-notifications-to-us-customers/</guid>
-      <pubDate>Mon, 21 Jul 2025 14:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snake Keylogger Uses Persistence via Scheduled Tasks to Steal Login Data Undetected</title>
-      <link>https://gbhackers.com/snake-keylogger-uses-persistence-via-scheduled-tasks/</link>
-      <description>Researchers have identified a sophisticated phishing campaign targeting Turkish enterprises, particularly defense and aerospace industries. The campaign involves emails masquerading as legitimate contractual documents from Turkish Aerospace Industries (TUSAŞ), which contain malware that steals sensitive data such as credentials, cookies, and financial details without detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150310</guid>
-      <pubDate>Mon, 21 Jul 2025 14:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Release PoC Exploit for High-Severity NVIDIA AI Toolkit Bug</title>
-      <link>https://gbhackers.com/researchers-release-poc-exploit/</link>
-      <description>Vulnerable Product: NVIDIA Container Toolkit (NCT); CVE(s): CVE-2025-23266; Summary: A severe vulnerability in NCT allows malicious containers to escape isolation and gain root access on host systems. The flaw stems from a misconfiguration in OCI hook handling, affecting NCT versions up to 1.17.7 and NVIDIA GPU Operator up to 25.3.1.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150208</guid>
-      <pubDate>Mon, 21 Jul 2025 14:01:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercriminal Listings Target Fujitsu, Baxter Kelly, AGX Financeira, and a Belgian IT Platform</title>
-      <link>https://socradar.io/cybercriminal-listings-target-fujitsu-baxter-kelly-agx-financeira-and-a-belgian-it-platform/</link>
-      <description>This article reports on several new listings for unauthorized access sales and data breaches affecting companies across Japan, the U.K., Brazil, and Belgium. The listings include sensitive internal files, Citrix access, customer data, and administrative control over a monitoring system, with prices ranging from $1,500 to $20,000.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061978</guid>
-      <pubDate>Mon, 21 Jul 2025 12:46:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
