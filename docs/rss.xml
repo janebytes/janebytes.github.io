@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 12:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 13:01:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Splunk Guide to Detect, Mitigate, and Respond to the CitrixBleed 2 Vulnerability</title>
+      <link>https://gbhackers.com/splunk-guide-to-detect-mitigate-and-respond/</link>
+      <description>Vulnerable Product: Citrix NetScaler ADC and Gateway devices; CVE(s): CVE-2025-5777; Summary: An out-of-bounds memory read vulnerability (CVE-2025-5777) affects Citrix NetScaler ADC and Gateway devices, enabling unauthenticated attackers to leak sensitive memory contents via malformed HTTP POST requests. The vulnerability has a CVSS score of 9.3 and is exploited through simple payloads like an incomplete "login" parameter.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151095</guid>
+      <pubDate>Thu, 24 Jul 2025 12:49:23 +0000</pubDate>
+    </item>
     <item>
       <title>Watch This Webinar to Uncover Hidden Flaws in Login, AI, and Digital Trust — and Fix Them</title>
       <link>https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html</link>
@@ -1441,13 +1448,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770, None; Summary: A zero-day flaw in Microsoft SharePoint Server tracked as CVE-2025-53770 (CVSS score: 9.8) allows an unauthorized attacker to execute code over a network through deserialization of untrusted data. The vulnerability is being exploited in a large-scale campaign and has been linked to the previously disclosed CVE-2025-49706.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html</guid>
       <pubDate>Sun, 20 Jul 2025 09:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack</title>
-      <link>https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html</link>
-      <description>Vulnerable Product: npm packages; CVE(s): None; Summary: A supply chain attack targeted popular npm packages via a phishing campaign designed to steal project maintainers' npm tokens. The captured tokens were used to publish malicious versions of the packages, attempting to execute a DLL on Windows machines and potentially allowing remote code execution.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html</guid>
-      <pubDate>Sun, 20 Jul 2025 09:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
