@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 17:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 18:01:46 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Phishers Target Aviation Execs to Scam Customers</title>
+      <link>https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/</link>
+      <description>The article reports on a long-running Nigerian cybercrime ring that is actively targeting established companies in the transportation and aviation industries. The group, known as "SilverTerrier," excels at business email compromise (BEC) scams, which target legitimate business email accounts through social engineering or computer intrusion activities.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71635</guid>
+      <pubDate>Thu, 24 Jul 2025 17:57:06 +0000</pubDate>
+    </item>
     <item>
       <title>Hacker sneaks infostealer malware into early access Steam game</title>
       <link>https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/</link>
@@ -1439,13 +1446,6 @@ There are no explicit discussions about vulnerabilities in software, hardware, o
       <description>Vulnerable Product: Microsoft AppLocker; CVE(s): None; Summary: The vulnerability in Microsoft's AppLocker security feature allows malicious applications to bypass established security restrictions by exploiting a seemingly minor error in the MaximumFileVersion field. Attackers could potentially modify a blocked executable's version number to exceed the configured maximum version, but this would simultaneously break the file's digital signature, making it detectable by systems configured with "signed executables only" policies.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150306</guid>
       <pubDate>Mon, 21 Jul 2025 08:45:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Livewire Flaw Puts Millions of Laravel Apps at Risk of RCE Attacks</title>
-      <link>https://gbhackers.com/livewire-flaw-of-rce-attacks/</link>
-      <description>Vulnerable Product: Livewire; CVE(s): CVE-2025-54068; Summary: A critical remote command execution vulnerability exists in Livewire versions from 3.0.0-beta.1 to 3.6.3, allowing unauthenticated attackers to execute arbitrary commands on the server by injecting malicious code through property updates. Exploitation requires only a vulnerable component with default configuration, and no user authentication or interaction is necessary.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150293</guid>
-      <pubDate>Mon, 21 Jul 2025 08:30:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
