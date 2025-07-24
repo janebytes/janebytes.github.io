@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 14:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 15:02:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Elephant APT Group Exploits VLC Player and Encrypted Shellcode in Attacks on Defense Sector</title>
+      <link>https://gbhackers.com/elephant-apt-group-exploits-vlc-player/</link>
+      <description>The article reports a sophisticated cyber-espionage operation attributed to the Dropping Elephant APT group, targeting Turkish defense contractors specializing in precision-guided missile systems. The campaign involves spear-phishing emails with malicious LNK files, DLL side-loading techniques, and shellcode injection using QueueUserAPC.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151150</guid>
+      <pubDate>Thu, 24 Jul 2025 14:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Using .hwp Files to Distribute RokRAT Malware and Evade Detection Mechanisms</title>
+      <link>https://gbhackers.com/threat-actors-using-hwp-files/</link>
+      <description>The AhnLab Security Intelligence Center (ASEC) discovered a sophisticated campaign using Hangul Word Processor (.hwp) documents to spread the RokRAT remote access trojan (RAT). The malware uses Object Linking and Embedding (OLE) objects, DLL side-loading, and steganographic analysis to evade security detections and execute arbitrary code.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151140</guid>
+      <pubDate>Thu, 24 Jul 2025 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bloomberg Comdb2 null pointer dereference and denial-of-service vulnerabilities</title>
+      <link>https://blog.talosintelligence.com/bloomberg-comdb2-null-pointer-dereference-and-denial-of-service-vulnerabilities/</link>
+      <description>Vulnerable Product: Bloomberg Comdb2; CVE(s): TALOS-2025-2197 (CVE-2025-36520), TALOS-2025-2201 (CVE-2025-35966), TALOS-2025-2199 (CVE-2025-48498), TALOS-2025-2198 (CVE-2025-46354), TALOS-2025-2200 (CVE-2025-36512); Summary: Three null pointer dereference vulnerabilities exist in Bloomberg Comdb2 8.1, which can lead to denial of service by sending crafted messages over TCP. Additionally, there are two denial-of-service vulnerabilities in the Distributed Transaction Commit/Abort Operation and database handling a distributed transaction heartbeat.</description>
+      <guid isPermaLink="false">687ff9ac2e0cc100010c346e</guid>
+      <pubDate>Thu, 24 Jul 2025 14:03:31 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-646: Amazon AWS Client VPN Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-646/</link>
@@ -1427,27 +1448,6 @@ There are no explicit discussions about vulnerabilities in software, hardware, o
 FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiting JavaScript embeds, Google OAuth endpoints, WordPress databases, and plugins to compromise websites and inject malicious code. They use stealthy miners, obfuscation, and infrastructure reuse to stay hidden, prioritizing persistence over resource theft.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</guid>
       <pubDate>Mon, 21 Jul 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware</title>
-      <link>https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html</link>
-      <description>EncryptHub (aka LARVA-208 and Water Gamayun), a financially motivated threat actor, has been attributed to a new campaign targeting Web3 developers with information stealer malware. The attackers use fake AI platforms and trick victims into clicking on meeting links, which ultimately lead to the download of malicious software disguised as a genuine Realtek HD Audio Driver.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html</guid>
-      <pubDate>Sun, 20 Jul 2025 16:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft SharePoint zero-day exploited in RCE attacks, no patch available</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49706, CVE-2025-49704; Summary: A critical zero-day vulnerability in Microsoft SharePoint (CVE-2025-53770) is being actively exploited since July 18th, allowing attackers to steal the MachineKey configuration and inject malicious code. The vulnerability has been chained with two other flaws (CVE-2025-49706 and CVE-2025-49704) to achieve remote code execution. A security update will be released as soon as possible.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/</guid>
-      <pubDate>Sun, 20 Jul 2025 15:40:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>HPE warns of hardcoded passwords in Aruba access points</title>
-      <link>https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/</link>
-      <description>Vulnerable Product: HPE Aruba Instant On Access Points; CVE(s): CVE-2025-37103, None; Summary: Hardcoded login credentials in Aruba Instant On Access Points allow attackers to bypass normal device authentication and access the web interface, enabling administrative access. This vulnerability can be exploited by remote attackers to change settings, install backdoors, capture traffic, or perform lateral movement.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/</guid>
-      <pubDate>Sun, 20 Jul 2025 14:09:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
