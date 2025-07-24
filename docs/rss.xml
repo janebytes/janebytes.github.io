@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 16:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 17:02:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hacker sneaks infostealer malware into early access Steam game</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/</link>
+      <description>Vulnerable Product: Aether Forge Studios, Chemia; CVE(s): None; Summary: EncryptHub compromised the Chemia game files on Steam to distribute info-stealing malware, specifically HijackLoader and Fickle Stealer. The malware was distributed through a DLL file and PowerShell script, which harvested data stored in web browsers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/</guid>
+      <pubDate>Thu, 24 Jul 2025 16:49:47 +0000</pubDate>
+    </item>
     <item>
       <title>Mitel warns of critical MiVoice MX-ONE authentication bypass flaw</title>
       <link>https://www.bleepingcomputer.com/news/security/mitel-warns-of-critical-mivoice-mx-one-authentication-bypass-flaw/</link>
       <description>Vulnerable Product: Mitel Networks MiVoice MX-ONE; CVE(s): None; Summary: The MiVoice MX-ONE Provisioning Manager component contains an improper access control weakness that allows unauthenticated attackers to gain unauthorized access to administrator accounts on unpatched systems, which can be exploited in low-complexity attacks without user interaction.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mitel-warns-of-critical-mivoice-mx-one-authentication-bypass-flaw/</guid>
       <pubDate>Thu, 24 Jul 2025 15:17:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>CastleLoader Malware Infects 469 Devices Using Fake GitHub Repos and ClickFix Phishing</title>
+      <link>https://thehackernews.com/2025/07/castleloader-malware-infects-469.html</link>
+      <description>CastleLoader is a versatile malware loader used to distribute various information stealers and remote access trojans (RATs). It employs dead code injection, packing techniques, and anti-analysis measures to hinder analysis. The loader connects to a C2 server, downloads target modules, and executes them, making it a primary distribution mechanism in the current threat landscape.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/castleloader-malware-infects-469.html</guid>
+      <pubDate>Thu, 24 Jul 2025 15:13:00 +0000</pubDate>
     </item>
     <item>
       <title>Elephant APT Group Exploits VLC Player and Encrypted Shellcode in Attacks on Defense Sector</title>
@@ -77,6 +91,20 @@
       <description>Vulnerable Product: Citrix NetScaler ADC and Gateway devices; CVE(s): CVE-2025-5777; Summary: An out-of-bounds memory read vulnerability (CVE-2025-5777) affects Citrix NetScaler ADC and Gateway devices, enabling unauthenticated attackers to leak sensitive memory contents via malformed HTTP POST requests. The vulnerability has a CVSS score of 9.3 and is exploited through simple payloads like an incomplete "login" parameter.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=151095</guid>
       <pubDate>Thu, 24 Jul 2025 12:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medtronic MyCareLink Patient Monitor</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-205-01</link>
+      <description>Vulnerable Product: Medtronic MyCareLink Patient Monitor 24950 and 24952; CVE(s): CVE-2025-4393, CVE-2025-4394, CVE-2025-4395; Summary: Successful exploitation of these vulnerabilities could lead to system compromise, unauthorized access to sensitive data, and manipulation of the monitor's functionality. The vulnerabilities are due to cleartext storage of sensitive information, an empty password in a configuration file, and deserialization of untrusted data.</description>
+      <guid isPermaLink="false">/node/23675</guid>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Six Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/07/24/cisa-releases-six-industrial-control-systems-advisories</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released six Industrial Control Systems (ICS) advisories on July 24, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. These advisories are intended for users and administrators to review technical details and mitigations.</description>
+      <guid isPermaLink="false">/node/23679</guid>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mitsubishi Electric CNC Series</title>
@@ -1418,34 +1446,6 @@ There are no explicit discussions about vulnerabilities in software, hardware, o
       <description>Vulnerable Product: Livewire; CVE(s): CVE-2025-54068; Summary: A critical remote command execution vulnerability exists in Livewire versions from 3.0.0-beta.1 to 3.6.3, allowing unauthenticated attackers to execute arbitrary commands on the server by injecting malicious code through property updates. Exploitation requires only a vulnerable component with default configuration, and no user authentication or interaction is necessary.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150293</guid>
       <pubDate>Mon, 21 Jul 2025 08:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Issues Alert on Microsoft SharePoint 0-Day RCE Exploited in Attacks</title>
-      <link>https://gbhackers.com/cisa-issues-alert-on-microsoft-sharepoint-0-day-rce/</link>
-      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770; Summary: A critical zero-day vulnerability in Microsoft SharePoint Server allows unauthorized attackers to execute arbitrary code remotely over a network, potentially giving cybercriminals complete control over affected systems. The flaw stems from deserialization of untrusted data and is actively being exploited in cyberattacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150250</guid>
-      <pubDate>Mon, 21 Jul 2025 07:06:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>7-Zip Vulnerability Lets Malicious RAR5 Files Crash Systems</title>
-      <link>https://gbhackers.com/7-zip-vulnerability-2/</link>
-      <description>Vulnerable Product: 7-Zip; CVE(s): CVE-2025-53816; Summary: A critical denial-of-service vulnerability in 7-Zip's RAR5 decoder allows attackers to crash systems by processing specially crafted RAR5 archive files, leading to memory corruption and system crashes. The vulnerability occurs due to a heap buffer overflow when the decoder attempts to repair corrupted archive items, resulting in writing data beyond allocated buffer boundaries.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150238</guid>
-      <pubDate>Mon, 21 Jul 2025 06:59:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse</title>
-      <link>https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html</link>
-      <description>A novel attack technique has been disclosed, allowing threat actors to downgrade Fast IDentity Online (FIDO) key protections by deceiving users into approving authentication requests from spoofed company login portals. The attack exploits a legitimate FIDO feature called cross-device sign-in and does not exploit any flaw in the FIDO implementation.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html</guid>
-      <pubDate>Mon, 21 Jul 2025 06:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoisonSeed Attack Tricks Users into Scanning Malicious MFA QR Codes</title>
-      <link>https://gbhackers.com/poisonseed-attack-scanning-malicious-mfa-qr-codes/</link>
-      <description>The PoisonSeed threat group has developed an attack technique that exploits FIDO key cross-device sign-in features, bypassing multifactor authentication (MFA) and allowing attackers to gain unauthorized access to protected accounts through social engineering tactics.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150201</guid>
-      <pubDate>Mon, 21 Jul 2025 05:31:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
