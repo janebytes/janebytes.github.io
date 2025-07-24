@@ -6,8 +6,40 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 10:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 11:07:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Researchers Exploit Cursor Background Agents to Take Over Amazon EC2 Instance</title>
+      <link>https://gbhackers.com/researchers-exploit-cursor-background-agents/</link>
+      <description>Vulnerable Product: Cursor's Background Agents; CVE(s): None; Summary: The article discusses a vulnerability in Cursor's Background Agents that allows unauthorized access to an Amazon EC2 instance. The vulnerability is exploited through the "Show Terminal" button, which provides direct command-line access to the remote infrastructure. The researchers gain root access and can execute commands on the compromised machine, highlighting potential risks for privilege escalation and malicious activities such as cryptocurrency mining or data exfiltration.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151112</guid>
+      <pubDate>Thu, 24 Jul 2025 10:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Storm-2603 Exploits SharePoint Flaws to Deploy Warlock Ransomware on Unpatched Systems</title>
+      <link>https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-49706, CVE-2025-49704; Summary: The article discusses a vulnerability in on-premises Microsoft SharePoint Server that allows attackers to deploy Warlock ransomware. The attack chain involves exploiting two vulnerabilities (CVE-2025-49706 and CVE-2025-49704) to gain initial access, conduct lateral movement, and ultimately deploy the ransomware.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html</guid>
+      <pubDate>Thu, 24 Jul 2025 10:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unmasking the new Chaos RaaS group attacks</title>
+      <link>https://blog.talosintelligence.com/new-chaos-ransomware/</link>
+      <description>FYSA:
+
+The provided article appears to be an analysis of the Chaos ransomware group's tactics, techniques, and procedures (TTPs). The article highlights the similarities between the Chaos ransomware and other notable groups such as BlackSuit (Royal) ransomware. It also provides details on how the malware works, including its encryption methods and cleanup procedures.
+
+Some key points from the article include:
+
+1. The Chaos ransomware uses hybrid cryptographic techniques, combining Elliptic Curve Diffie-Hellman (ECDH) with Curve25519 for asymmetric operations and AES-256 for symmetric file encryption.
+2. The ransomware performs selective encryption based on command-line configuration parameters, allowing operators to customize the attack.
+3. The malware targets local and network resources, using SMB connections to encrypt shared drives and distributed file systems.
+4. The article provides details on how the Chaos ransomware can be detected and blocked by various Cisco products, including Secure Endpoint, Secure Email, Secure Firewall, and others.
+
+Overall, this article appears to be a comprehensive analysis of the Chaos ransomware group's TTPs, highlighting their similarities with other notable groups and providing insights into how they operate.</description>
+      <guid isPermaLink="false">68812cd32e0cc100010c34d6</guid>
+      <pubDate>Thu, 24 Jul 2025 10:00:54 +0000</pubDate>
+    </item>
     <item>
       <title>AI-Driven Wi-Fi Biometrics WhoFi Tracks Humans Behind Walls with 95.5% Accuracy</title>
       <link>https://gbhackers.com/ai-driven-wi-fi-biometrics-whofi-tracks-humans-behind-walls/</link>
@@ -1416,27 +1448,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>The article discusses the upcoming release of OpenAI's GPT-5 model, which may unify breakthroughs from previous models. Additionally, leaks suggest that a new "o3-alpha" model may be released, featuring improved coding and frontend design capabilities. There is no mention of vulnerabilities or cybersecurity threats in this article.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/</guid>
       <pubDate>Sat, 19 Jul 2025 12:07:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI, Anthropic, Google may disrupt education market with new AI tools</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/</link>
-      <description>AI companies like OpenAI and Anthropic are developing new AI-based learning tools for students, such as Study Together features that guide the learning process. Google is also testing a similar feature called Guided Learning for Gemini. These tools aim to aid in student learning and potentially disrupt the online education market.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/</guid>
-      <pubDate>Sat, 19 Jul 2025 06:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New CrushFTP zero-day exploited in attacks to hijack servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/</link>
-      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: A zero-day vulnerability tracked as CVE-2025-54309 allows attackers to gain administrative access via the web interface on vulnerable servers. The vulnerability affects versions prior to CrushFTP v10.8.5 and v11.3.4_23, which were released around July 1st.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/</guid>
-      <pubDate>Fri, 18 Jul 2025 22:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arch Linux pulls AUR packages that installed Chaos RAT malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/</link>
-      <description>Vulnerable Product: Arch User Repository (AUR); CVE(s): None; Summary: The AUR was compromised when a malicious user uploaded three packages containing the CHAOS remote access trojan (RAT). The packages were designed to install the malware on Linux devices, which can be used for cryptocurrency mining, credential harvesting, or cyber espionage.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/</guid>
-      <pubDate>Fri, 18 Jul 2025 21:12:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
