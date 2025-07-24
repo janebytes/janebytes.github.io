@@ -6,8 +6,106 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 22:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 10:07:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>AI-Driven Wi-Fi Biometrics WhoFi Tracks Humans Behind Walls with 95.5% Accuracy</title>
+      <link>https://gbhackers.com/ai-driven-wi-fi-biometrics-whofi-tracks-humans-behind-walls/</link>
+      <description>This article introduces WhoFi, an AI-powered deep learning pipeline that uses Wi-Fi Channel State Information (CSI) for person re-identification (Re-ID), achieving high accuracy on the NTU-Fi dataset. The system's robustness and privacy features make it suitable for applications in smart environments, such as security systems and healthcare monitoring.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151079</guid>
+      <pubDate>Thu, 24 Jul 2025 09:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: SharePoint servers also targeted in ransomware attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-servers-also-targeted-in-ransomware-attacks/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-49706, CVE-2025-49704, CVE-2025-53770; Summary: A China-based hacking group is exploiting a zero-day exploit chain on Microsoft SharePoint servers, leading to widespread attacks. The attackers use Mimikatz to extract plaintext credentials, move laterally with PsExec and Impacket, and deliver Warlock ransomware across compromised systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-servers-also-targeted-in-ransomware-attacks/</guid>
+      <pubDate>Thu, 24 Jul 2025 09:53:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Launch Targeted Campaign to Infect Windows Systems with Ghost RAT and PhantomNet Malware</title>
+      <link>https://gbhackers.com/chinese-hackers-launch-targeted-campaign/</link>
+      <description>A China-nexus advanced persistent threat (APT) group attributed to Operation GhostChat and Operation PhantomPrayers targeted the Tibetan community by compromising legitimate websites and distributing trojanized software. The attacks employed advanced evasion techniques, including DLL sideloading, shellcode injection, and encrypted payloads to bypass endpoint detection and response solutions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151056</guid>
+      <pubDate>Thu, 24 Jul 2025 09:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Introduces OSS Rebuild to Boost Security in Open-Source Package Ecosystems</title>
+      <link>https://gbhackers.com/google-introduces-oss-rebuild-to-boost-security/</link>
+      <description>Vulnerable Product: None; Summary: This article is about Google's OSS Rebuild project, which aims to enhance trust in package registries by independently reproducing upstream artifacts and generating SLSA Provenance attestations that meet Build Level 3 requirements. The project targets supply chain attacks on widely-used dependencies across Python's PyPI, JavaScript/TypeScript's npm, and Rust's Crates.io.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151041</guid>
+      <pubDate>Thu, 24 Jul 2025 08:59:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metasploit Module Released to Exploit SharePoint 0-Day Vulnerabilities</title>
+      <link>https://gbhackers.com/metasploit-module-exploit-sharepoint-vulnerabilities/</link>
+      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770, CVE-2025-53771; Summary: The Metasploit module exploits a chain of unauthenticated remote code execution flaws in Microsoft SharePoint Server, allowing attackers to achieve complete system compromise without requiring authentication. The vulnerabilities represent sophisticated patch bypasses and can be exploited through the _/layouts/15/ToolPane.aspx endpoint, potentially leading to data theft, ransomware deployment, and lateral movement within corporate networks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151069</guid>
+      <pubDate>Thu, 24 Jul 2025 07:58:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>TP-Link Network Video Recorder Vulnerability Enables Arbitrary Command Execution</title>
+      <link>https://gbhackers.com/tp-link-network-video-recorder-vulnerability/</link>
+      <description>Vulnerable Product: TP-Link VIGI Network Video Recorder models (VIGI NVR1104H-4P V1 and VIGI NVR2016H-16MP V2); CVE(s): CVE-2025-7723, CVE-2025-7724; Summary: The two TP-Link VIGI network video recorder models have critical security vulnerabilities that allow attackers to execute arbitrary commands on the underlying operating system. The flaws are characterized as authenticated and unauthenticated OS command injection vulnerabilities with high CVSS scores of 8.5 and 8.7, respectively.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151068</guid>
+      <pubDate>Thu, 24 Jul 2025 07:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace</title>
+      <link>https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html</link>
+      <description>Europol has arrested the suspected administrator of XSS.is, a Russian-speaking cybercrime platform, in collaboration with Ukrainian authorities and French Police. The platform, which had over 50,000 registered users, served as a marketplace for stolen data, hacking tools, and illicit services. The suspect is estimated to have made €7 million in profits from advertising and facilitation fees.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html</guid>
+      <pubDate>Thu, 24 Jul 2025 06:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weidmueller Industrial Routers Exposed to Remote Code Execution Flaws</title>
+      <link>https://gbhackers.com/weidmueller-industrial-routers-exposed/</link>
+      <description>Vulnerable Product: Weidmueller Industrial Routers (IE-SR-2TX); CVE(s): VDE-2025-052, None; Summary: Five high-severity security vulnerabilities in Weidmueller's IE-SR-2TX router series allow attackers to execute arbitrary code with root privileges, potentially compromising industrial networks and critical infrastructure. The flaws impact several models of wireless security routers commonly deployed in these environments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151035</guid>
+      <pubDate>Thu, 24 Jul 2025 06:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Client VPN for Windows Vulnerability Could Allow Privilege Escalation</title>
+      <link>https://gbhackers.com/aws-client-vpn-for-windows-vulnerability/</link>
+      <description>Vulnerable Product: Amazon Web Services (AWS) Client VPN; CVE(s): CVE-2025-8069; Summary: The AWS Client VPN software for Windows contains a critical vulnerability that allows non-administrative users to escalate their privileges to root-level access during the installation process. The flaw is due to a design error in the installation process, which can be exploited by placing arbitrary code within the OpenSSL configuration file. An attacker with elevated privileges could then use this code to gain unauthorized access to the system.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151031</guid>
+      <pubDate>Thu, 24 Jul 2025 06:14:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab Publishes Security Update Addressing Several Vulnerabilities in Community and Enterprise Edition</title>
+      <link>https://gbhackers.com/gitlab-publishes-security-update/</link>
+      <description>Vulnerable Product: GitLab; CVE(s): CVE-2025-4700, CVE-2025-4439, CVE-2025-7001, CVE-2025-4976; Summary: GitLab has released critical security patches addressing six vulnerabilities across its Community Edition (CE) and Enterprise Edition (EE) platforms. The most severe issues are two high-severity cross-site scripting (XSS) flaws that could allow unauthorized access to sensitive information and enable malicious script execution in specific deployment scenarios.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151025</guid>
+      <pubDate>Thu, 24 Jul 2025 06:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall SMA 100 Vulnerabilities Allow Remote Execution of Arbitrary JavaScript</title>
+      <link>https://gbhackers.com/sonicwall-sma-100-vulnerabilities/</link>
+      <description>Vulnerable Product: SonicWall SMA 100 series appliances; CVE(s): CVE-2025-40596, CVE-2025-40597, and CVE-2025-40598; Summary: The vulnerabilities allow unauthenticated remote attackers to trigger denial-of-service conditions or execute arbitrary code and JavaScript. Two buffer overflow issues can crash the appliance or execute arbitrary code, while a reflected cross-site scripting vulnerability allows an attacker to inject malicious JavaScript into unsuspecting user sessions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151021</guid>
+      <pubDate>Thu, 24 Jul 2025 05:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Alerts on Google Chromium Input Validation Flaw Actively Exploited</title>
+      <link>https://gbhackers.com/cisa-alerts-on-google-chromium-input-validation-flaw/</link>
+      <description>Vulnerable Product: Google Chromium; CVE(s): CVE-2025-6558; Summary: A severe input validation vulnerability in Google Chromium's ANGLE and GPU components allows remote attackers to execute sandbox escape attacks through specially crafted HTML pages, affecting millions of users across multiple web browsers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151016</guid>
+      <pubDate>Thu, 24 Jul 2025 05:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access</title>
+      <link>https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html</link>
+      <description>Vulnerable Product: WordPress; CVE(s): None; Summary: A stealthy backdoor has been discovered in WordPress's "mu-plugins" directory, allowing threat actors to gain persistent access and perform arbitrary actions. The backdoor injects a file manager into the theme directory, creates an administrator user, downloads a malicious plugin, and changes passwords to lock out other administrators.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html</guid>
+      <pubDate>Thu, 24 Jul 2025 05:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brave blocks Windows Recall from screenshotting your browsing activity</title>
+      <link>https://www.bleepingcomputer.com/news/security/brave-blocks-windows-recall-from-screenshotting-your-browsing-activity/</link>
+      <description>Brave Browser has blocked Microsoft's Windows Recall feature from capturing screenshots of its windows by default, to protect users' privacy. This was done by utilizing Microsoft's SetInputScope API and setting the input scope to IS_PRIVATE for all browser windows.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/brave-blocks-windows-recall-from-screenshotting-your-browsing-activity/</guid>
+      <pubDate>Wed, 23 Jul 2025 22:42:05 +0000</pubDate>
+    </item>
     <item>
       <title>What to know about ToolShell, the SharePoint threat under mass exploitation</title>
       <link>https://arstechnica.com/security/2025/07/what-to-know-about-toolshell-the-sharepoint-threat-under-mass-exploitation/</link>
@@ -1339,106 +1437,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: Arch User Repository (AUR); CVE(s): None; Summary: The AUR was compromised when a malicious user uploaded three packages containing the CHAOS remote access trojan (RAT). The packages were designed to install the malware on Linux devices, which can be used for cryptocurrency mining, credential harvesting, or cyber espionage.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/</guid>
       <pubDate>Fri, 18 Jul 2025 21:12:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Threat Actors Operate 2,800 Malicious Domains to Distribute Windows Malware</title>
-      <link>https://gbhackers.com/chinese-threat-actors-operate-2800-malicious-domains/</link>
-      <description>A sophisticated threat actor, known as "SilverFox," has been conducting a large-scale malware distribution campaign since at least June 2023, targeting Chinese-speaking individuals and entities. The campaign employs various tactics such as fake application download sites, spurious update prompts, and phishing emails to deliver Windows-specific malware designed for credential theft, financial exploitation, and potential access brokering.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150153</guid>
-      <pubDate>Fri, 18 Jul 2025 20:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Veeam-Themed Phishing Attack Uses Weaponized WAV File to Target Users</title>
-      <link>https://gbhackers.com/new-veeam-themed-phishing-attack/</link>
-      <description>Cybercriminals are using voicemail notifications to distribute malware by impersonating Veeam Software. The attack begins with an email containing a WAV file that, upon playback, reveals a scripted call attempting to create urgency around license expiration. The real danger lies in the weaponized nature of the WAV file itself, which can be embedded with malicious code exploiting vulnerabilities in media players or audio processing libraries.
-
-(Note: Since there is no specific vulnerability mentioned, I've summarized the article as a non-vulnerability related cybersecurity content)</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150136</guid>
-      <pubDate>Fri, 18 Jul 2025 19:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK ties GRU to stealthy Microsoft 365 credential-stealing malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/</link>
-      <description>The Authentic Antics espionage malware attacks are attributed to APT28 (Fancy Bear), a threat actor linked to Russia's military intelligence service (GRU). The malware steals credentials and OAuth 2.0 tokens, allowing access to victim email accounts, and sends stolen data to an attacker-controlled email address using the victim's own Outlook account.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/</guid>
-      <pubDate>Fri, 18 Jul 2025 19:39:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft mistakenly tags Windows Firewall error log bug as fixed</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: A bug in the Windows Firewall With Advanced Security logs an error message as event ID 2042 every time the device is restarted, but Microsoft states it's not an issue with the Windows Firewall and can be disregarded. The bug was mistakenly marked as fixed in recent updates, and a fix will be released in an upcoming update.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/</guid>
-      <pubDate>Fri, 18 Jul 2025 19:34:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lumma Infostealer Steals Browser Data and Sells It as Logs on Underground Markets</title>
-      <link>https://gbhackers.com/lumma-infostealer-steals-browser-data/</link>
-      <description>This article discusses infostealers, specifically the Lumma malware variant, which steals sensitive data from compromised systems. It spreads through phishing operations, social engineering tactics, and malvertising, and is attributed to the Russian-based threat actor Shamel. The malware's ecosystem has been disrupted by a coordinated international effort, but new C2 servers have reemerged, indicating ongoing threat persistence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150143</guid>
-      <pubDate>Fri, 18 Jul 2025 19:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishers have found a way to downgrade—not bypass—FIDO MFA</title>
-      <link>https://arstechnica.com/security/2025/07/no-phishers-are-not-bypassing-fido-mfa-at-least-not-yet-heres-why/</link>
-      <description>An attacker downgraded FIDO MFA to a weaker form of authentication. The attack is classified as a FIDO downgrade attack, not a bypass, and requires intentional configuration by an admin to fall back to the weaker method.</description>
-      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/no-phishers-are-not-bypassing-fido-mfa-at-least-not-yet-heres-why/</guid>
-      <pubDate>Fri, 18 Jul 2025 19:07:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ChatGPT o3-alpha model hints at coding upgrade</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/</link>
-      <description>Vulnerable Product: None; FYSA: The article mentions OpenAI's o3-alpha model, which features significant coding-related improvements and is capable of designing web pages and creating simple web games. It also hints at the upcoming GPT-5 model, which is expected to unify breakthroughs from different models.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/</guid>
-      <pubDate>Fri, 18 Jul 2025 19:01:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Surge of Crypto-Jacking Hits Over 3,500 Websites</title>
-      <link>https://gbhackers.com/new-surge-of-crypto-jacking/</link>
-      <description>The article describes a campaign that infected over 3,500 websites with JavaScript miners, using advanced obfuscation and low-profile execution to evade detection. The miners employ Web Workers to execute mining logic off the main thread, minimizing performance impacts and avoiding traditional red flags like excessive CPU usage or overt network activity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150120</guid>
-      <pubDate>Fri, 18 Jul 2025 18:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones</title>
-      <link>https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html</link>
-      <description>Massistant is a mobile forensics tool used by law enforcement authorities in China to gather information from seized mobile devices. It requires physical access to the device and can collect data such as GPS location, SMS messages, images, audio, contacts, and phone services.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html</guid>
-      <pubDate>Fri, 18 Jul 2025 18:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fancy Bear Hackers Target Governments and Military Entities with Advanced Tools</title>
-      <link>https://gbhackers.com/fancy-bear-hackers-target-governments-and-military-entities/</link>
-      <description>The article discusses Fancy Bear, a sophisticated Russian cyberespionage collective that has been operational since 2007. They exploit vulnerabilities in office suites, operating systems, and web applications to gain access to targeted organizations. Their tactics include phishing, spearphishing, exploitation of public-facing applications, and command execution.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150128</guid>
-      <pubDate>Fri, 18 Jul 2025 18:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns</title>
-      <link>https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html</link>
-      <description>The article describes a threat activity cluster tracked as UNG0002 (Unknown Group 0002), which has been targeting multiple sectors in China, Hong Kong, and Pakistan. The group uses shortcut files, VBScript, and post-exploitation tools like Cobalt Strike and Metasploit to launch cyber espionage campaigns.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html</guid>
-      <pubDate>Fri, 18 Jul 2025 18:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian alcohol retailer WineLab closes stores after ransomware attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/</link>
-      <description>WineLab, a retail store of the largest alcohol company in Russia, has closed its stores following a cyberattack that is impacting its operations and causing purchase problems to its customers. The attackers requested a ransom payment, but the company declined to engage and won't comply with their demands.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/</guid>
-      <pubDate>Fri, 18 Jul 2025 18:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks</title>
-      <link>https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html</link>
-      <description>Vulnerable Product: Ivanti Connect Secure (ICS) appliances; CVE(s): CVE-2025-0282, CVE-2025-22457; Summary: The vulnerabilities in ICS appliances have been weaponized to drop MDifyLoader, which is used to launch Cobalt Strike in memory. The attacks exploit a critical security flaw (CVE-2025-0282) and a stack-based buffer overflow (CVE-2025-22457) that were previously patched by Ivanti in January 2025 and April 2025, respectively.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html</guid>
-      <pubDate>Fri, 18 Jul 2025 18:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snake Keylogger Bypasses Windows Defender and Uses Scheduled Tasks to Steal Credentials</title>
-      <link>https://gbhackers.com/snake-keylogger-bypasses-windows-defender/</link>
-      <description>A sophisticated phishing operation impersonates Turkish Aerospace Industries (TUSAŞ) to attack Turkish businesses in the defense and aerospace sectors. The campaign distributes malicious emails containing a PE32 executable that delivers a variant of the Snake Keylogger, an information-stealing malware designed to harvest sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150163</guid>
-      <pubDate>Fri, 18 Jul 2025 17:58:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
