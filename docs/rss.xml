@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 20:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 21:01:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>OpenAI confirms ChatGPT Agent is now rolling out for $20 Plus users</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/</link>
+      <description>OpenAI's ChatGPT Agent mode is now rolling out to users with $20 Plus or $200 Pro subscriptions. This feature allows ChatGPT to perform complex tasks independently, such as handling calendar requests and creating PowerPoint decks, by using its own computer and browser. It will likely improve in the coming months.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/</guid>
+      <pubDate>Thu, 24 Jul 2025 20:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Koske Linux malware hides in cute panda images</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/</link>
+      <description>Koske is a sophisticated Linux malware that uses artificial intelligence and seemingly benign JPEG images of panda bears to deploy CPU and GPU-optimized cryptocurrency miners directly into system memory. The malware achieves initial access by leveraging misconfigurations of JupyterLab instances, downloads malicious payloads from legitimate services, and establishes persistence via cron jobs and custom systemd services.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/</guid>
+      <pubDate>Thu, 24 Jul 2025 20:54:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers—hope to defect to Russia? Don’t Google “defecting to Russia.”</title>
+      <link>https://arstechnica.com/security/2025/07/hackers-hope-to-defect-to-russia-dont-google-defecting-to-russia/</link>
+      <description>The article discusses the case of a military individual, Wagenius, who attempted to sell stolen information to Country-1's military intelligence service. He was caught due to his poor operational security (opsec) and lack of forethought, with incriminating evidence found on his devices and in online searches.</description>
+      <guid isPermaLink="true">https://arstechnica.com/security/2025/07/hackers-hope-to-defect-to-russia-dont-google-defecting-to-russia/</guid>
+      <pubDate>Thu, 24 Jul 2025 20:25:56 +0000</pubDate>
+    </item>
     <item>
       <title>AI-Powered Cyber Attacks Utilize ML Algorithms to Deploy Malware and Circumvent Traditional Security</title>
       <link>https://gbhackers.com/ai-powered-cyber-attacks-utilize-ml-algorithms/</link>
@@ -1423,31 +1444,6 @@ As a cybersecurity analyst, I would categorize this article under "FYSA" since i
       <description>This article reports on several new listings for unauthorized access sales and data breaches affecting companies across Japan, the U.K., Brazil, and Belgium. The listings include sensitive internal files, Citrix access, customer data, and administrative control over a monitoring system, with prices ranging from $1,500 to $20,000.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100061978</guid>
       <pubDate>Mon, 21 Jul 2025 12:46:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToolShell Campaign: New SharePoint Zero-Day (CVE-2025-53770) Triggers Widespread Exploitation</title>
-      <link>https://socradar.io/toolshell-sharepoint-zero-day-cve-2025-53770/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, None; Summary: A critical zero-day vulnerability in Microsoft SharePoint, identified as CVE-2025-53770, is actively being exploited in targeted attacks. The vulnerability allows attackers to bypass authentication, gain remote code execution capabilities, and establish persistent access using stolen cryptographic keys.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100061964</guid>
-      <pubDate>Mon, 21 Jul 2025 12:29:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>PHP PDO Flaw Allows Attackers to Inject Malicious SQL Commands</title>
-      <link>https://gbhackers.com/php-pdo-flaw/</link>
-      <description>Vulnerable Product: PHP PDO; CVE(s): None; Summary: The vulnerability allows attackers to inject malicious SQL commands by exploiting weaknesses in PDO's SQL parser. This affects millions of web applications worldwide, even when developers implement prepared statements correctly. Attackers can manipulate PDO's parsing logic through carefully constructed payloads, leading to SQL injection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150385</guid>
-      <pubDate>Mon, 21 Jul 2025 11:59:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More</title>
-      <link>https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html</link>
-      <description>FYSA:
-
-The provided article appears to be a summary of various cyber-related incidents, attacks, and trends from around the world. The article discusses malware families like Rainbow Hyena, DiskStation Security, and Katz Stealer; phishing campaigns targeting specific industries or organizations; and large-scale cyber thefts affecting financial institutions and other entities.
-
-There are no explicit discussions about vulnerabilities in software, hardware, or firmware within this article. However, the article does touch upon various cybersecurity concerns and threats that could potentially impact different systems and organizations.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html</guid>
-      <pubDate>Mon, 21 Jul 2025 11:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
