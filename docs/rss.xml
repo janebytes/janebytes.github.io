@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 13:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 14:02:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-646: Amazon AWS Client VPN Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-646/</link>
+      <description>Vulnerable Product: Amazon AWS Client VPN; CVE(s): CVE-2025-8069; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Amazon AWS Client VPN by exploiting an uncontrolled search path element in the OpenSSL configuration. The attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be used to execute arbitrary code in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-26780</guid>
+      <pubDate>Thu, 24 Jul 2025 14:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>NoName057(16) Hackers Target 3,700 Unique Devices Over the Last 13 Months</title>
+      <link>https://gbhackers.com/noname05716-hackers-target-3700-unique-devices/</link>
+      <description>This article is about the NoName057(16) hacktivist collective, which has been executing distributed denial-of-service (DDoS) attacks against government and public-sector entities in European nations. The group uses a volunteer-driven platform called DDoSia to orchestrate large-scale application-layer DDoS campaigns.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151131</guid>
+      <pubDate>Thu, 24 Jul 2025 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers breach Toptal GitHub account, publish malicious npm packages</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-breach-toptal-github-account-publish-malicious-npm-packages/</link>
+      <description>Vulnerable Product: Toptal's GitHub organization account; CVE(s): None; Summary: Hackers compromised Toptal's GitHub organization account and used their access to publish ten malicious packages on the Node Package Manager (NPM) index. The packages included data-stealing code that collected GitHub authentication tokens and then wiped the victims' systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-breach-toptal-github-account-publish-malicious-npm-packages/</guid>
+      <pubDate>Thu, 24 Jul 2025 13:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNC3944 Exploits VMware vSphere to Deploy Ransomware and Steal Data from Organizations</title>
+      <link>https://gbhackers.com/unc3944-exploits-vmware-vsphere-to-deploy-ransomware/</link>
+      <description>This article discusses a highly advanced cyber operation orchestrated by the threat actor UNC3944, which uses social engineering tactics to infiltrate organizations and conduct reconnaissance on internal resources. The group exploits VMware vSphere environments, using a "living-off-the-land" methodology to minimize detectable indicators of compromise.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151122</guid>
+      <pubDate>Thu, 24 Jul 2025 13:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>Splunk Guide to Detect, Mitigate, and Respond to the CitrixBleed 2 Vulnerability</title>
       <link>https://gbhackers.com/splunk-guide-to-detect-mitigate-and-respond/</link>
@@ -1420,34 +1448,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: HPE Aruba Instant On Access Points; CVE(s): CVE-2025-37103, None; Summary: Hardcoded login credentials in Aruba Instant On Access Points allow attackers to bypass normal device authentication and access the web interface, enabling administrative access. This vulnerability can be exploited by remote attackers to change settings, install backdoors, capture traffic, or perform lateral movement.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/</guid>
       <pubDate>Sun, 20 Jul 2025 14:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>UPDATE: Microsoft Releases Guidance on Exploitation of SharePoint Vulnerabilities</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/20/update-microsoft-releases-guidance-exploitation-sharepoint-vulnerabilities</link>
-      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-49706, CVE-2025-49704; Summary: A vulnerability chain allows unauthorized access to on-premise SharePoint servers through network spoofing and remote code execution (RCE), enabling malicious actors to fully access SharePoint content and execute code over the network.</description>
-      <guid isPermaLink="false">/node/23640</guid>
-      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability, CVE-2025-53770 “ToolShell,” to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/20/cisa-adds-one-known-exploited-vulnerability-cve-2025-53770-toolshell-catalog</link>
-      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770; Summary: The vulnerability, a remote code execution issue, has been added to the Known Exploited Vulnerabilities Catalog due to active exploitation. It poses significant risks to the federal enterprise and should be remediated by affected organizations as soon as possible.</description>
-      <guid isPermaLink="false">/node/23642</guid>
-      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases Guidance on Exploitation of SharePoint Vulnerability (CVE-2025-53770)</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/07/20/microsoft-releases-guidance-exploitation-sharepoint-vulnerability-cve-2025-53770</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49706; Summary: A remote code execution (RCE) vulnerability in on-premise SharePoint servers enables unauthorized access and allows malicious actors to execute code over the network. The vulnerability is actively being exploited and poses a risk to organizations.</description>
-      <guid isPermaLink="false">/node/23640</guid>
-      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations</title>
-      <link>https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html</link>
-      <description>Vulnerable Product: Microsoft SharePoint Server; CVE(s): CVE-2025-53770, None; Summary: A zero-day flaw in Microsoft SharePoint Server tracked as CVE-2025-53770 (CVSS score: 9.8) allows an unauthorized attacker to execute code over a network through deserialization of untrusted data. The vulnerability is being exploited in a large-scale campaign and has been linked to the previously disclosed CVE-2025-49706.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html</guid>
-      <pubDate>Sun, 20 Jul 2025 09:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
