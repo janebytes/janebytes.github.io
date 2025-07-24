@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 15:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 16:04:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Mitel warns of critical MiVoice MX-ONE authentication bypass flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/mitel-warns-of-critical-mivoice-mx-one-authentication-bypass-flaw/</link>
+      <description>Vulnerable Product: Mitel Networks MiVoice MX-ONE; CVE(s): None; Summary: The MiVoice MX-ONE Provisioning Manager component contains an improper access control weakness that allows unauthenticated attackers to gain unauthorized access to administrator accounts on unpatched systems, which can be exploited in low-complexity attacks without user interaction.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/mitel-warns-of-critical-mivoice-mx-one-authentication-bypass-flaw/</guid>
+      <pubDate>Thu, 24 Jul 2025 15:17:40 +0000</pubDate>
+    </item>
     <item>
       <title>Elephant APT Group Exploits VLC Player and Encrypted Shellcode in Attacks on Defense Sector</title>
       <link>https://gbhackers.com/elephant-apt-group-exploits-vlc-player/</link>
@@ -21,6 +28,13 @@
       <description>The AhnLab Security Intelligence Center (ASEC) discovered a sophisticated campaign using Hangul Word Processor (.hwp) documents to spread the RokRAT remote access trojan (RAT). The malware uses Object Linking and Embedding (OLE) objects, DLL side-loading, and steganographic analysis to evade security detections and execute arbitrary code.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=151140</guid>
       <pubDate>Thu, 24 Jul 2025 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos and SonicWall Patch Critical RCE Flaws Affecting Firewalls and SMA 100 Devices</title>
+      <link>https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html</link>
+      <description>Vulnerable Product: Sophos Firewall; CVE(s): CVE-2025-6704 (CVSS score: 9.8), CVE-2025-7624 (CVSS score: 9.8), CVE-2025-7382 (CVSS score: 8.8); Summary: Two vulnerabilities in Sophos Firewall, including arbitrary file writing and SQL injection flaws, can lead to remote code execution. Additionally, a high-severity command injection vulnerability in the WebAdmin component can result in pre-auth code execution on High Availability auxiliary devices.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html</guid>
+      <pubDate>Thu, 24 Jul 2025 14:14:00 +0000</pubDate>
     </item>
     <item>
       <title>Bloomberg Comdb2 null pointer dereference and denial-of-service vulnerabilities</title>
@@ -63,6 +77,34 @@
       <description>Vulnerable Product: Citrix NetScaler ADC and Gateway devices; CVE(s): CVE-2025-5777; Summary: An out-of-bounds memory read vulnerability (CVE-2025-5777) affects Citrix NetScaler ADC and Gateway devices, enabling unauthenticated attackers to leak sensitive memory contents via malformed HTTP POST requests. The vulnerability has a CVSS score of 9.3 and is exploited through simple payloads like an incomplete "login" parameter.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=151095</guid>
       <pubDate>Thu, 24 Jul 2025 12:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric CNC Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-205-01</link>
+      <description>Vulnerable Product: Mitsubishi Electric CNC Series; CVE(s): CVE-2016-2542; Summary: The vulnerability allows an attacker to execute malicious code by getting setup-launcher to load a malicious DLL due to Uncontrolled Search Path Element (CWE-427). Successful exploitation could lead to the execution of malicious code.</description>
+      <guid isPermaLink="false">/node/23674</guid>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Network Thermostat X-Series WiFi Thermostats</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-205-02</link>
+      <description>Vulnerable Product: Network Thermostat X-Series WiFi thermostats; CVE(s): CVE-2025-6260; Summary: The vulnerable embedded web server allows unauthenticated attackers to gain direct access, reset user credentials, and potentially gain full administrative access. This vulnerability can be exploited remotely with low attack complexity.</description>
+      <guid isPermaLink="false">/node/23676</guid>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LG Innotek Camera Model LNV5110R</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-205-04</link>
+      <description>Vulnerable Product: LG Innotek Camera Model LNV5110R; CVE(s): CVE-2025-7742; Summary: An authentication vulnerability exists in the camera model's firmware, allowing a malicious actor to upload an HTTP POST request to the device's non-volatile storage and potentially gain administrative access. Successful exploitation could lead to remote code execution at the administrator privilege level.</description>
+      <guid isPermaLink="false">/node/23678</guid>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honeywell Experion PKS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-205-03</link>
+      <description>Vulnerable Product: Honeywell Experion PKS; CVE(s): CVE-2025-2520, CVE-2025-2521, CVE-2025-2522, CVE-2025-3946, CVE-2025-3947; Summary: The Honeywell Experion PKS contains multiple vulnerabilities including uninitialized variables, memory buffer issues, sensitive information reuse, integer underflows, and wrong handler deployments. Successful exploitation could lead to information exposure, denial of service, or remote code execution.</description>
+      <guid isPermaLink="false">/node/23677</guid>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Watch This Webinar to Uncover Hidden Flaws in Login, AI, and Digital Trust — and Fix Them</title>
@@ -1404,50 +1446,6 @@ There are no explicit discussions about vulnerabilities in software, hardware, o
       <description>The PoisonSeed threat group has developed an attack technique that exploits FIDO key cross-device sign-in features, bypassing multifactor authentication (MFA) and allowing attackers to gain unauthorized access to protected accounts through social engineering tactics.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=150201</guid>
       <pubDate>Mon, 21 Jul 2025 05:31:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>SharePoint 0-Day RCE Flaw Actively Exploited for Full Server Takeover</title>
-      <link>https://gbhackers.com/sharepoint-0-day-rce-flaw/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49706, CVE-2025-49704; Summary: A new SharePoint vulnerability (CVE-2025-53770) is being actively exploited in large-scale attacks worldwide, enabling attackers to gain complete control of on-premise servers without authentication. The exploit chain, dubbed "ToolShell," leverages previously demonstrated Pwn2Own vulnerabilities to achieve remote code execution and steals cryptographic secrets from SharePoint servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150197</guid>
-      <pubDate>Mon, 21 Jul 2025 05:09:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrushFTP 0-Day Vulnerability Actively Exploited to Breach Servers</title>
-      <link>https://gbhackers.com/crushftp-0-day-vulnerability/</link>
-      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: A zero-day vulnerability in CrushFTP servers is being actively exploited by threat actors to compromise systems worldwide. The vulnerability allows attackers to exploit a previously patched issue that remained present in outdated installations, making it critical for organizations to maintain current software versions and implement recommended security measures.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150193</guid>
-      <pubDate>Mon, 21 Jul 2025 04:51:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft releases emergency patches for SharePoint RCE flaws exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-53771; Summary: Two zero-day vulnerabilities (CVE-2025-53770 and CVE-2025-53771) were exploited in "ToolShell" attacks to achieve remote code execution on Microsoft SharePoint servers worldwide. The flaws bypassed previous patches and impacted over 54 organizations. Emergency updates have been released for Microsoft SharePoint Subscription Edition, SharePoint 2019, and are still being worked on for SharePoint 2016.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/</guid>
-      <pubDate>Mon, 21 Jul 2025 04:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks</title>
-      <link>https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-53771; Summary: The exploited vulnerability (CVE-2025-53770) is a remote code execution flaw that arises from the deserialization of untrusted data in on-premise versions of Microsoft SharePoint Server. The newly disclosed spoofing flaw (CVE-2025-53771) allows an authorized attacker to perform spoofing over a network. These flaws are related to two other SharePoint vulnerabilities, and the exploit chain has been patched as part of Microsoft's July 2025 Patch Tuesday update.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html</guid>
-      <pubDate>Mon, 21 Jul 2025 03:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access</title>
-      <link>https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html</link>
-      <description>Vulnerable Product: Hewlett-Packard Enterprise (HPE) Instant On Access Points; CVE(s): CVE-2025-37103, CVE-2025-37102; Summary: The HPE Instant On Access Points have a critical security flaw that allows an attacker to bypass authentication and gain administrative access. Additionally, there is an authenticated command injection flaw in the command-line interface that could be exploited with elevated permissions to run arbitrary commands.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html</guid>
-      <pubDate>Mon, 21 Jul 2025 03:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics</title>
-      <link>https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</link>
-      <description>A new attack campaign has compromised over 3,500 websites worldwide with JavaScript cryptocurrency miners, using obfuscated JavaScript, WebSockets, and infrastructure reuse to stay hidden. The malware assesses device capabilities, spawns background Web Workers for mining tasks, and dynamically adjusts mining intensity based on device power without raising alarms.
-
-FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiting JavaScript embeds, Google OAuth endpoints, WordPress databases, and plugins to compromise websites and inject malicious code. They use stealthy miners, obfuscation, and infrastructure reuse to stay hidden, prioritizing persistence over resource theft.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</guid>
-      <pubDate>Mon, 21 Jul 2025 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
