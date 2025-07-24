@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 19:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 20:03:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>AI-Powered Cyber Attacks Utilize ML Algorithms to Deploy Malware and Circumvent Traditional Security</title>
+      <link>https://gbhackers.com/ai-powered-cyber-attacks-utilize-ml-algorithms/</link>
+      <description>AI-powered attacks are becoming increasingly complex and adaptive, leveraging unsupervised ML algorithms to process vast datasets, detect patterns, and adapt dynamically to security protocols. These attacks often initiate with automated data aggregation from sources like social media and dark web repositories, followed by algorithmic pattern recognition to pinpoint vulnerabilities, strategic attack planning, and real-time evolution to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151220</guid>
+      <pubDate>Thu, 24 Jul 2025 19:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-647: Anritsu ShockLine CHX File Parsing Directory Traversal Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-647/</link>
@@ -23,6 +30,13 @@
       <pubDate>Thu, 24 Jul 2025 19:02:24 +0000</pubDate>
     </item>
     <item>
+      <title>Hive0156 Hackers Targeting Government and Military Organizations to Deploy REMCOS RAT</title>
+      <link>https://gbhackers.com/hive0156-hackers-targeting-government-and-military-organizations/</link>
+      <description>The article discusses the activities of a Russian-aligned threat actor group called Hive0156, which has been targeting Ukrainian government and military personnel with sophisticated malware attacks. The group uses Remcos Remote Access Trojan (RAT) to maintain persistent access to critical infrastructure and sensitive military communications, and has recently expanded its targeting strategy to include broader civilian targets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=151210</guid>
+      <pubDate>Thu, 24 Jul 2025 19:02:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Surge in Phishing Attacks Exploiting Spoofed SharePoint Domains and Sneaky 2FA Tactics</title>
       <link>https://gbhackers.com/surge-in-phishing-attacks-exploiting-spoofed-sharepoint-domains/</link>
       <description>The article describes a surge in phishing campaigns that impersonate Microsoft SharePoint domains using structured naming conventions and a .org top-level domain. These malicious domains mimic legitimate U.S.-based organizations and are hosted on platforms like Alboompro.com, which allows user-defined subdomains for hosting phishing content.</description>
@@ -35,6 +49,15 @@
       <description>LAMEHUG is a malware campaign attributed to APT28 (Fancy Bear) that leverages large language model (LLM) capabilities in its attack chain. The malware targets Ukrainian government officials through phishing emails and executes commands via Hugging Face's API, enabling dynamic reconnaissance and data harvesting.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=151191</guid>
       <pubDate>Thu, 24 Jul 2025 18:07:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRB, pausing for a "Sanctuary Moon" marathon</title>
+      <link>https://blog.talosintelligence.com/brb-pausing-for-a-sanctuary-moon-marathon/</link>
+      <description>FYSA:
+
+No cybersecurity-relevant content in this article. It appears to be a newsletter-style update from Cisco Talos, featuring news and insights on various topics, including the "Humans of Talos" series, which highlights the people behind the research at Talos. There is no discussion of vulnerabilities, threats, or security incidents.</description>
+      <guid isPermaLink="false">687fcd682e0cc100010c3464</guid>
+      <pubDate>Thu, 24 Jul 2025 18:00:58 +0000</pubDate>
     </item>
     <item>
       <title>Phishers Target Aviation Execs to Scam Customers</title>
@@ -1425,27 +1448,6 @@ The provided article appears to be a summary of various cyber-related incidents,
 There are no explicit discussions about vulnerabilities in software, hardware, or firmware within this article. However, the article does touch upon various cybersecurity concerns and threats that could potentially impact different systems and organizations.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html</guid>
       <pubDate>Mon, 21 Jul 2025 11:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 1,000 CrushFTP servers exposed to ongoing hijack attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/</link>
-      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: All CrushFTP versions below 10.8.5 and 11.3.4_23 are vulnerable to hijack attacks that exploit a critical security bug due to mishandled AS2 validation, allowing admin access to the web interface.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/</guid>
-      <pubDate>Mon, 21 Jul 2025 11:34:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessing the Role of AI in Zero Trust</title>
-      <link>https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html</link>
-      <description>The article discusses the role of artificial intelligence (AI) in Zero Trust architecture, highlighting its capabilities in adaptive trust, continuous risk evaluation, and automation. It also emphasizes the importance of human-machine teaming, where AI amplifies human decision-making rather than replacing it.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html</guid>
-      <pubDate>Mon, 21 Jul 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surveillance Firm Exploits SS7 Flaw to Track User Locations</title>
-      <link>https://gbhackers.com/surveillance-firm-exploits-ss7-flaw/</link>
-      <description>Vulnerable Product: SS7 (Signaling System No. 7) protocol; CVE(s): None; Summary: A sophisticated surveillance operation has been discovered exploiting critical vulnerabilities in the global telecommunications infrastructure to track mobile phone users' locations without authorization. The attack leverages weaknesses in the decades-old SS7 protocol that underpins international cellular networks, manipulating the TCAP layer and using an obscure encoding technique called "extended tag encoding" to disguise malicious location tracking requests.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=150373</guid>
-      <pubDate>Mon, 21 Jul 2025 11:09:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
