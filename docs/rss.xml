@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 11:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 12:02:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Watch This Webinar to Uncover Hidden Flaws in Login, AI, and Digital Trust — and Fix Them</title>
+      <link>https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html</link>
+      <description>The article discusses the importance of managing customer logins and data privacy in the era of AI. It highlights the need for organizations to adapt their identity strategies to keep pace with changing user expectations and emerging threats. The webinar "Navigating Customer Identity in the AI Era" offers insights from Auth0's 2025 CIAM Trends Report, providing attendees with practical advice on navigating these challenges.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html</guid>
+      <pubDate>Thu, 24 Jul 2025 11:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall urges admins to patch critical RCE flaw in SMA 100 devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-rce-flaw-in-sma-100-VPN-appliances/</link>
+      <description>Vulnerable Product: SonicWall SMA 100 series appliances; CVE(s): CVE-2025-40599; Summary: The SMA 100 series appliances contain a critical authenticated arbitrary file upload vulnerability that can allow remote threat actors to gain code execution. Attackers need admin privileges to exploit this vulnerability, but SonicWall has not found evidence of active exploitation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-rce-flaw-in-sma-100-VPN-appliances/</guid>
+      <pubDate>Thu, 24 Jul 2025 11:17:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pentests once a year? Nope. It’s time to build an offensive SOC</title>
+      <link>https://thehackernews.com/2025/07/pentests-once-year-nope-its-time-to.html</link>
+      <description>The article discusses the importance of having an ongoing and dynamic approach to offensive security, rather than relying on periodic pentests or audits. It argues that traditional approaches are insufficient in today's rapidly changing threat landscape and introduces the concept of an "Offensive Security Operations Center" (OSOC) as a solution. The OSOC would continuously validate exposures across prevention, detection, and response layers, using tools such as Breach and Attack Simulation (BAS) and Automated Penetration Testing.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/pentests-once-year-nope-its-time-to.html</guid>
+      <pubDate>Thu, 24 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China-Based APTs Deploy Fake Dalai Lama Apps to Spy on Tibetan Community</title>
+      <link>https://thehackernews.com/2025/07/china-based-apts-deploy-fake-dalai-lama.html</link>
+      <description>A China-nexus cyber espionage group has been targeting the Tibetan community with two campaigns (Operation GhostChat and Operation PhantomPrayers) ahead of the Dalai Lama's 90th birthday. The attacks use watering hole techniques, compromising legitimate websites and installing backdoors on victim systems to gather sensitive information.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/07/china-based-apts-deploy-fake-dalai-lama.html</guid>
+      <pubDate>Thu, 24 Jul 2025 10:59:00 +0000</pubDate>
+    </item>
     <item>
       <title>Researchers Exploit Cursor Background Agents to Take Over Amazon EC2 Instance</title>
       <link>https://gbhackers.com/researchers-exploit-cursor-background-agents/</link>
@@ -1420,34 +1448,6 @@ FYSA: Threat actors are leveraging browser-based cryptojacking attacks, exploiti
       <description>Vulnerable Product: npm packages; CVE(s): None; Summary: A supply chain attack targeted popular npm packages via a phishing campaign designed to steal project maintainers' npm tokens. The captured tokens were used to publish malicious versions of the packages, attempting to execute a DLL on Windows machines and potentially allowing remote code execution.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html</guid>
       <pubDate>Sun, 20 Jul 2025 09:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers</title>
-      <link>https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html</link>
-      <description>Vulnerable Product: CrushFTP; CVE(s): CVE-2025-54309; Summary: The vulnerability allows remote attackers to obtain admin access via HTTPS due to mishandled AS2 validation in CrushFTP 10 before 10.8.5 and 11 before 11.3.4_23, when the DMZ proxy feature is not used. This critical flaw has been actively exploited in the wild since July 18, 2025.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html</guid>
-      <pubDate>Sun, 20 Jul 2025 07:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/</link>
-      <description>The PoisonSeed threat actors are bypassing FIDO2 security key protections by abusing the cross-device sign-in feature in WebAuthn to trick users into approving login authentication requests from fake company portals. This attack does not exploit a flaw in FIDO2's implementation but rather uses a legitimate feature that downgrades the FIDO key authentication process. The threat actors can initiate a login flow that relies on cross-device authentication instead of the user's physical FIDO2 key, effectively bypassing security key protections.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/</guid>
-      <pubDate>Sat, 19 Jul 2025 17:41:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popular npm linter packages hijacked via phishing to drop malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/</link>
-      <description>Vulnerable Product: npm package eslint-config-prettier; CVE(s): None; Summary: The npm package eslint-config-prettier was compromised after its maintainer fell victim to a phishing attack, allowing the attacker to publish malicious versions of the package that can infect Windows machines. The affected versions are 8.10.1, 9.1.1, 10.1.6, and 10.1.7.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/</guid>
-      <pubDate>Sat, 19 Jul 2025 12:51:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/</link>
-      <description>The article discusses the upcoming release of OpenAI's GPT-5 model, which may unify breakthroughs from previous models. Additionally, leaks suggest that a new "o3-alpha" model may be released, featuring improved coding and frontend design capabilities. There is no mention of vulnerabilities or cybersecurity threats in this article.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/</guid>
-      <pubDate>Sat, 19 Jul 2025 12:07:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
