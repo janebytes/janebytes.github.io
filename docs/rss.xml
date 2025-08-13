@@ -6,8 +6,33 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 16:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 17:06:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Spike in Fortinet VPN brute-force attacks raises zero-day concerns</title>
+      <link>https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/</link>
+      <description>Vulnerable Product: Fortinet; CVE(s): None; Summary: The article reports a massive spike in brute-force attacks targeting Fortinet SSL VPNs and FortiManager, which is often seen as a precursor to new vulnerability disclosures. The campaign started with FortiOS SSL VPN endpoints and later shifted to FortiManager's FGFM profile, suggesting the same attackers or toolset/infrastructure were used.
+
+FYSA:</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/</guid>
+      <pubDate>Wed, 13 Aug 2025 16:42:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pennsylvania attorney general's email, site down after cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/</link>
+      <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-5777; Summary: Multiple public-facing Citrix NetScaler appliances on the Pennsylvania Attorney General's network were found to be vulnerable to attacks exploiting a critical vulnerability tracked as CVE-2025-5777 (Citrix Bleed 2).</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/</guid>
+      <pubDate>Wed, 13 Aug 2025 16:25:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Best Purple Teaming Companies in 2025</title>
+      <link>https://gbhackers.com/purple-teaming-companies/</link>
+      <description>The provided article highlights eight companies that specialize in Purple Teaming, a collaborative approach to cybersecurity that simulates real-world cyber attacks on an organization's digital assets to identify and address vulnerabilities. These companies are Deloitte, QualySec, Redscan, SCYTHE, and others, offering comprehensive services including penetration testing, red teaming, and incident response.
+
+While the article does not specifically discuss a vulnerability (software, hardware, or firmware), it provides valuable insights into the importance of aligning defense and offense in cybersecurity. The highlighted companies demonstrate unique strengths in providing tailored Purple Teaming services that can help organizations achieve robust cybersecurity resilience.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149462</guid>
+      <pubDate>Wed, 13 Aug 2025 16:21:13 +0000</pubDate>
+    </item>
     <item>
       <title>SmartLoader Malware Masquerades as Legitimate GitHub Repository to Infect Users</title>
       <link>https://gbhackers.com/smartloader-malware-masquerades-as-legitimate-github-repository/</link>
@@ -1390,27 +1415,6 @@ FYSA: The article mentions that 46% of environments had passwords cracked, nearl
       <description>Vulnerable Product: GitHub Copilot; CVE(s): CVE-2025-53773; Summary: A critical security vulnerability in GitHub Copilot allows attackers to achieve remote code execution and complete system compromise through prompt injection techniques. The vulnerability exploits the AI assistant's ability to modify project files without user approval, enabling attackers to manipulate Copilot into adding malicious lines to configuration files, ultimately leading to unrestricted command execution with full system privileges.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156403</guid>
       <pubDate>Wed, 13 Aug 2025 10:29:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinar: What the Next Wave of AI Cyberattacks Will Look Like — And How to Survive</title>
-      <link>https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html</link>
-      <description>Attackers are evolving with AI, gaining new tools such as deepfake scams, bots that bypass human review, and synthetic identities. The fight is no longer just at the network's edge, but also at the login screen. Legacy security models can't keep up with AI-powered threats, making identity the last line of defense.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html</guid>
-      <pubDate>Wed, 13 Aug 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws</title>
-      <link>https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-53779 (CVSS score: 7.2), CVE-2025-53766 (CVSS score: 9.8), CVE-2025-50165 (CVSS score: 9.8), CVE-2025-53792 (CVSS score: 9.1), CVE-2025-53787 (CVSS score: 8.2), CVE-2025-50177 (CVSS score: 8.1), CVE-2025-50176 (CVSS score: 7.8); Summary: A publicly disclosed zero-day privilege escalation vulnerability in Windows Kerberos allows an attacker to compromise an Active Directory domain by misusing delegated Managed Service Account objects, requiring pre-existing control of two attributes of the dMSA; other vulnerabilities include remote code execution and information disclosure defects.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html</guid>
-      <pubDate>Wed, 13 Aug 2025 08:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Charon Ransomware Uses DLL Sideloading and Anti-EDR Tactics in Targeted Attacks</title>
-      <link>https://gbhackers.com/new-charon-ransomware-uses-dll-sideloading-and-anti-edr-tactics/</link>
-      <description>The article discusses a novel ransomware family called Charon, deployed in a sophisticated campaign targeting the public sector and aviation industry in the Middle East. The malware employs advanced persistent threat (APT)-style techniques, including DLL sideloading, process injection, and multilayered payloads to evade endpoint security and encrypt files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156260</guid>
-      <pubDate>Wed, 13 Aug 2025 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
