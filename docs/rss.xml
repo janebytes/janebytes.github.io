@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 14:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 15:03:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-744: (Pwn2Own) QNAP TS-464 reset_password.cgi Improper Certificate Validation Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-744/</link>
+      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-744, ZDI-CAN-25483; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of QNAP TS-464 devices without requiring authentication. The issue exists within the reset_password.cgi endpoint due to improper certificate validation, allowing attackers to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-25483</guid>
+      <pubDate>Wed, 13 Aug 2025 15:03:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Deploy Dedicated Phishlet for FIDO Authentication Downgrade Attacks</title>
+      <link>https://gbhackers.com/hackers-deploy-dedicated-phishlet/</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: A novel technique allows threat actors to bypass FIDO-based authentication through downgrade attacks, leveraging a custom phishlet within adversary-in-the-middle (AiTM) frameworks. The attack exploits gaps in browser compatibility and user agent handling, forcing victims to revert to less secure MFA mechanisms, enabling credential theft and session hijacking.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156376</guid>
+      <pubDate>Wed, 13 Aug 2025 14:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-652: (Pwn2Own) Microsoft SharePoint ToolPane Authentication Bypass Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-652/</link>
@@ -49,6 +63,13 @@
       <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54440; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server without authentication. The flaw exists within the MagicInfoWebAuthorClient app due to a lack of proper validation of user-supplied data, allowing the upload of arbitrary files and execution in the context of SYSTEM.</description>
       <guid isPermaLink="false">ZDI-CAN-26519</guid>
       <pubDate>Wed, 13 Aug 2025 13:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters May Have Teamed Up With Scattered Spider in Salesforce Attack Campaigns</title>
+      <link>https://gbhackers.com/shinyhunters-may-have-teamed-up-with-scattered-spider/</link>
+      <description>ShinyHunters, a financially motivated threat group, has launched sophisticated attacks targeting Salesforce instances across high-profile enterprises in various industries. The attacks involve ticket-themed phishing domains and credential-harvesting pages, as well as vishing campaigns and data exfiltration via Mullvad VPN obfuscation. Circumstantial evidence suggests a potential alliance between ShinyHunters and Scattered Spider.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156365</guid>
+      <pubDate>Wed, 13 Aug 2025 13:58:00 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-658: Samsung MagicINFO 9 Server getFontFileFromMagicInfoServer Unrestricted File Upload Remote Code Execution Vulnerability</title>
@@ -590,6 +611,13 @@
       <pubDate>Wed, 13 Aug 2025 13:35:36 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft removes PowerShell 2.0 from Windows 11, Windows Server</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/</link>
+      <description>Microsoft will permanently remove PowerShell 2.0 from Windows 11 version 24H2, starting in August, and from Windows Server 2025 in September. The move aims to reduce system complexity and improve security by removing legacy code.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/</guid>
+      <pubDate>Wed, 13 Aug 2025 13:35:22 +0000</pubDate>
+    </item>
+    <item>
       <title>ZDI-25-735: (Pwn2Own) QNAP QHora-322 local_pwd_reset HTTP Request Smuggling Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-735/</link>
       <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-735, ZDI-CAN-25631; Summary: This vulnerability allows local attackers to smuggle arbitrary HTTP requests on affected routers, bypassing authentication. The issue is due to inconsistent parsing of HTTP header terminators in the local_pwd_reset endpoint.</description>
@@ -961,6 +989,15 @@
       <pubDate>Wed, 13 Aug 2025 13:19:10 +0000</pubDate>
     </item>
     <item>
+      <title>Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws</title>
+      <link>https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html</link>
+      <description>Vulnerable Product: Zoom; CVE(s): CVE-2025-49457; Summary: The vulnerability in Zoom Clients for Windows allows an unauthenticated user to conduct privilege escalation via network access, with a CVSS score of 9.6. Affected products include Zoom Workplace, Zoom Workplace VDI, Zoom Rooms, and Zoom Meeting SDK, all before version 6.3.10.
+
+Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vulnerabilities in Xerox FreeFlow Core include an XML External Entity (XXE) injection vulnerability leading to server-side request forgery (SSRF), and a path traversal vulnerability leading to remote code execution. Both issues have been addressed in version 8.0.4, with CVSS scores of 7.5 and 9.8, respectively.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html</guid>
+      <pubDate>Wed, 13 Aug 2025 13:19:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ZDI-25-789: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-789/</link>
       <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8641; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices, with no authentication required. The flaw exists within the firmware update process due to lack of proper validation of a user-supplied string before using it to execute a system call.</description>
@@ -1269,6 +1306,13 @@
       <pubDate>Wed, 13 Aug 2025 12:24:08 +0000</pubDate>
     </item>
     <item>
+      <title>CISA and Partners Release Asset Inventory Guidance for Operational Technology Owners and Operators</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-and-partners-release-asset-inventory-guidance-operational-technology-owners-and-operators</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) and its partners released guidance on creating and maintaining operational technology (OT) asset inventories and taxonomies, aiming to help OT owners and operators identify and safeguard critical assets. This guidance can help organizations gain insights into their architecture, optimize defenses, and reduce cybersecurity risk.</description>
+      <guid isPermaLink="false">/node/23750</guid>
+      <pubDate>Wed, 13 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>VexTrio Hackers Use Fake CAPTCHAs and Malicious Apps on Google Play &amp; App Store to Target Users</title>
       <link>https://gbhackers.com/vextrio-hackers-use-fake-captchas-and-malicious-apps/</link>
       <description>This article reports on a highly skilled cybercriminal network, VexTrio Viper, which has been active since at least 2017. The group uses advanced tactics such as lookalike domains, registered domain generation algorithms (RDGAs), and traffic distribution systems (TDSs) to deliver malware, scams, and illicit content to users worldwide.</description>
@@ -1320,6 +1364,13 @@ FYSA: The article mentions that 46% of environments had passwords cracked, nearl
       <pubDate>Wed, 13 Aug 2025 10:57:29 +0000</pubDate>
     </item>
     <item>
+      <title>Windows Remote Desktop Services Flaw Allows Network-Based Denial-of-Service Attacks</title>
+      <link>https://gbhackers.com/windows-remote-desktop-services-flaw/</link>
+      <description>Vulnerable Product: Microsoft Windows Remote Desktop Services; CVE(s): CVE-2025-53722; Summary: The vulnerability allows attackers to launch denial-of-service attacks remotely without requiring authentication or user interaction, consuming system resources and rendering the service unavailable. Attack complexity is low, making it accessible to a broader range of threat actors, with potential impact on system availability.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156411</guid>
+      <pubDate>Wed, 13 Aug 2025 10:45:14 +0000</pubDate>
+    </item>
+    <item>
       <title>‘Curly COMrades’ APT Hackers Target Critical Organizations Across Multiple Countries</title>
       <link>https://gbhackers.com/curly-comrades-apt-hackers-target-critical-organizations/</link>
       <description>Bitdefender Labs has identified a sophisticated APT group dubbed “Curly COMrades,” targeting critical infrastructure in geopolitically sensitive regions, employing stealthy tactics to secure long-term network access and exfiltrate sensitive data. The group uses credential theft, custom malware, and blended tactics to evade detection, highlighting the evolving threat landscape where trust in legitimate infrastructure is exploited for sustained espionage.</description>
@@ -1360,55 +1411,6 @@ FYSA: The article mentions that 46% of environments had passwords cracked, nearl
       <description>Vulnerable Product: EvaCodes-Community/UltraX; CVE(s): None; Summary: The EvaCodes-Community/UltraX GitHub repository contains a malicious Trojanized npm package, rtk-logger@1.11.5, which steals sensitive data such as login credentials, encryption keys, and certificates from browsers like Chrome, Brave, Opera, and Firefox. The package also executes additional payloads, including remote command execution, environment detection, and logging.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156248</guid>
       <pubDate>Wed, 13 Aug 2025 07:24:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chrome Security Update Fixes High-Severity Flaws Allowing Arbitrary Code Execution</title>
-      <link>https://gbhackers.com/chrome-security-update-fixes-high-severity-flaws/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-8879, CVE-2025-8880, CVE-2025-8901; Summary: The update addresses six security vulnerabilities, including three high-severity flaws that could allow arbitrary code execution. The most critical vulnerability is a heap buffer overflow in the media codec library, while another vulnerability is a race condition in the V8 JavaScript engine.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156243</guid>
-      <pubDate>Wed, 13 Aug 2025 05:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics</title>
-      <link>https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html</link>
-      <description>This article reports on a new ransomware family called Charon that targets the Middle East's public sector and aviation industry. The threat actor uses DLL side-loading, process injection, and evasion techniques to avoid detection by endpoint detection and response (EDR) software.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html</guid>
-      <pubDate>Wed, 13 Aug 2025 05:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FortiWeb Authentication Bypass Vulnerability Allows Logins as Any Existing User</title>
-      <link>https://gbhackers.com/fortiweb-authentication-bypass-vulnerability/</link>
-      <description>Vulnerable Product: Fortinet FortiWeb; CVE(s): CVE-2025-52970; Summary: A critical vulnerability in FortiWeb's cookie parsing mechanism allows unauthenticated attackers to bypass authentication and impersonate any existing user, exploiting an out-of-bounds read access issue to force the server to use a predictable, all-zero secret key for session encryption and signing.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156239</guid>
-      <pubDate>Wed, 13 Aug 2025 05:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical FortiSIEM Vulnerability Allows Attackers to Execute Malicious Commands, PoC Found in the Wild</title>
-      <link>https://gbhackers.com/critical-fortisiem-vulnerability/</link>
-      <description>Vulnerable Product: Fortinet; CVE(s): CVE-2025-25256; Summary: A critical vulnerability in Fortinet's FortiSIEM platform allows remote attackers to execute unauthorized commands without authentication, with a maximum CVSS score of 9.8 and practical exploit code circulating in the wild. The flaw enables OS command injection, granting attackers control over the SIEM infrastructure, potentially allowing manipulation of security logs or disabling monitoring capabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156235</guid>
-      <pubDate>Wed, 13 Aug 2025 05:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Zero-Click NTLM Credential Leak Exploit Bypasses Microsoft Patch for CVE-2025-24054</title>
-      <link>https://gbhackers.com/new-zero-click-ntlm-credential-leak-exploit/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-50154; Summary: A zero-click NTLM credential leakage vulnerability allows attackers to extract NTLMv2-SSP hashes without user interaction on fully patched Windows systems. The exploit bypasses Microsoft's previous patch for CVE-2025-24054 by manipulating Windows shortcut files and exploiting how the explorer.exe process handles remote binary retrieval, posing risks for organizations relying solely on Microsoft's previous patch for protection against NTLM credential leakage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156229</guid>
-      <pubDate>Wed, 13 Aug 2025 05:23:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams RCE Flaw Allows Hackers to Read, Modify, and Delete Messages</title>
-      <link>https://gbhackers.com/microsoft-teams-rce-flaw/</link>
-      <description>Vulnerable Product: Microsoft Teams; CVE(s): CVE-2025-53783; Summary: A critical remote code execution vulnerability in Microsoft Teams allows attackers to execute malicious code and potentially access, modify, or delete user messages. The vulnerability requires no special privileges but necessitates user interaction, making exploitation less likely due to high attack complexity.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156225</guid>
-      <pubDate>Wed, 13 Aug 2025 04:51:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday, August 2025 Edition</title>
-      <link>https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-53786, CVE-2025-53779, CVE-2025-53766, CVE-2025-50165, CVE-2025-53733, CVE-2025-53778; Summary: Multiple critical vulnerabilities in Windows operating systems and software were fixed by Microsoft, including a vulnerability that allows an attacker to pivot from a compromised Exchange Server into an organization's cloud environment (CVE-2025-53786), a weakness in the Windows Kerberos authentication system that grants domain administrator privileges (CVE-2025-53779), and remote code execution bugs in the Windows GDI+ component and Microsoft Word.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71899</guid>
-      <pubDate>Tue, 12 Aug 2025 22:14:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
