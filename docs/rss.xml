@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 15:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 16:01:34 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>SmartLoader Malware Masquerades as Legitimate GitHub Repository to Infect Users</title>
+      <link>https://gbhackers.com/smartloader-malware-masquerades-as-legitimate-github-repository/</link>
+      <description>This article describes a sophisticated campaign involving the dissemination of SmartLoader malware through GitHub repositories designed to mimic legitimate software projects. The malware targets users searching for illicit content and exploits trust in GitHub's ecosystem, ultimately leading to the installation of payloads such as infostealers like Rhadamanthys, Redline, and Lumma Stealer.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156388</guid>
+      <pubDate>Wed, 13 Aug 2025 15:48:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-744: (Pwn2Own) QNAP TS-464 reset_password.cgi Improper Certificate Validation Authentication Bypass Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-744/</link>
@@ -1404,13 +1411,6 @@ FYSA: The article mentions that 46% of environments had passwords cracked, nearl
       <description>The article discusses a novel ransomware family called Charon, deployed in a sophisticated campaign targeting the public sector and aviation industry in the Middle East. The malware employs advanced persistent threat (APT)-style techniques, including DLL sideloading, process injection, and multilayered payloads to evade endpoint security and encrypt files.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156260</guid>
       <pubDate>Wed, 13 Aug 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Package Lures Job Seekers and Exfiltrates Sensitive Data</title>
-      <link>https://gbhackers.com/malicious-npm-package-lures-job-seekers/</link>
-      <description>Vulnerable Product: EvaCodes-Community/UltraX; CVE(s): None; Summary: The EvaCodes-Community/UltraX GitHub repository contains a malicious Trojanized npm package, rtk-logger@1.11.5, which steals sensitive data such as login credentials, encryption keys, and certificates from browsers like Chrome, Brave, Opera, and Firefox. The package also executes additional payloads, including remote command execution, environment detection, and logging.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156248</guid>
-      <pubDate>Wed, 13 Aug 2025 07:24:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
