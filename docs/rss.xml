@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 20:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 21:01:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fortinet warns of FortiSIEM pre-auth RCE flaw with exploit in the wild</title>
+      <link>https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/</link>
+      <description>Vulnerable Product: Fortinet FortiSIEM; CVE(s): CVE-2025-25256; Summary: A remote unauthenticated command injection flaw (CVE-2025-25256) exists in multiple branches of FortiSIEM, allowing an attacker to execute unauthorized code or commands via crafted CLI requests. The vulnerability is critical with a CVSS score of 9.8 and has functional exploit code available in the wild.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/</guid>
+      <pubDate>Wed, 13 Aug 2025 20:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infamous XZ Backdoor Found Hidden in Docker Images for Over a Year</title>
+      <link>https://gbhackers.com/infamous-xz-backdoor-found-hidden-in-docker-images/</link>
+      <description>Vulnerable Product: XZ Utils; CVE(s): None; Summary: The backdoor, attributed to a pseudonymous developer 'Jia Tan', was embedded in versions 5.6.0 and 5.6.1 of the lossless compression library. It targets liblzma.so, enabling unauthorized remote access through OpenSSH servers by tampering with control flow using GNU Indirect Function (IFUNC) resolvers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156273</guid>
+      <pubDate>Wed, 13 Aug 2025 20:06:58 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-831: Delta Electronics DIAView Directory Traversal Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-831/</link>
@@ -1399,20 +1413,6 @@ Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vu
       <description>Vulnerable Product: Schneider Electric EcoStruxure Power Monitoring Expert; CVE(s): CVE-2025-54927; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Schneider Electric EcoStruxure Power Monitoring Expert. Authentication is required to exploit this vulnerability, and the specific flaw exists within the HttpPostedFile module due to lack of proper validation of a user-supplied path prior to using it in file operations.</description>
       <guid isPermaLink="false">ZDI-CAN-26274</guid>
       <pubDate>Wed, 13 Aug 2025 13:06:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-829: (0Day) Schneider Electric EcoStruxure Power Monitoring Expert GetFilteredSinkProvider Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-829/</link>
-      <description>Vulnerable Product: Schneider Electric EcoStruxure Power Monitoring Expert; CVE(s): CVE-2025-54923; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Schneider Electric EcoStruxure Power Monitoring Expert. Authentication is required to exploit this vulnerability, which results from the lack of proper validation of user-supplied data leading to deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26275</guid>
-      <pubDate>Wed, 13 Aug 2025 13:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-830: (0Day) Schneider Electric EcoStruxure Power Monitoring Expert GetPagesAsImages Server-Side Request Forgery Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-830/</link>
-      <description>Vulnerable Product: Schneider Electric EcoStruxure Power Monitoring Expert; CVE(s): CVE-2025-54924; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Schneider Electric EcoStruxure Power Monitoring Expert without requiring authentication. The flaw exists in the GetPagesAsImages method due to a lack of proper URI validation, which can be exploited to obtain information in the context of LOCAL SERVICE.</description>
-      <guid isPermaLink="false">ZDI-CAN-26463</guid>
-      <pubDate>Wed, 13 Aug 2025 13:05:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
