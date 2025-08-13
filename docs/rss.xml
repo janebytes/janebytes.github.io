@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 17:06:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 18:02:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Adobe’s August 2025 Patch Tuesday Fixes 60 Vulnerabilities Across Multiple Products</title>
+      <link>https://gbhackers.com/adobes-august-2025-patch-tuesday-fixes-60-vulnerabilities/</link>
+      <description>Vulnerable Product: Adobe; CVE(s): None; Summary: Adobe has rolled out August 2025 Patch Tuesday updates, addressing a total of 60 vulnerabilities across various products, including creative tools and enterprise solutions. The patches primarily focus on out-of-bounds read and write issues, use-after-free errors, and arbitrary code execution risks, many of which carry high severity ratings due to their potential for remote exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156486</guid>
+      <pubDate>Wed, 13 Aug 2025 17:41:12 +0000</pubDate>
+    </item>
     <item>
       <title>Spike in Fortinet VPN brute-force attacks raises zero-day concerns</title>
       <link>https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/</link>
@@ -39,6 +46,13 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>This article describes a sophisticated campaign involving the dissemination of SmartLoader malware through GitHub repositories designed to mimic legitimate software projects. The malware targets users searching for illicit content and exploits trust in GitHub's ecosystem, ultimately leading to the installation of payloads such as infostealers like Rhadamanthys, Redline, and Lumma Stealer.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156388</guid>
       <pubDate>Wed, 13 Aug 2025 15:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks</title>
+      <link>https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html</link>
+      <description>No vulnerability is discussed in the article. Instead, it describes a new malvertising campaign that distributes a multi-stage malware framework called PS1Bot, which features modules for information theft, keylogging, reconnaissance, and persistent system access. The campaign uses malvertising as a propagation vector and has been active since early 2025.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html</guid>
+      <pubDate>Wed, 13 Aug 2025 15:46:00 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-744: (Pwn2Own) QNAP TS-464 reset_password.cgi Improper Certificate Validation Authentication Bypass Vulnerability</title>
@@ -1401,20 +1415,6 @@ FYSA: The article mentions that 46% of environments had passwords cracked, nearl
       <description>Vulnerable Product: Microsoft Windows Remote Desktop Services; CVE(s): CVE-2025-53722; Summary: The vulnerability allows attackers to launch denial-of-service attacks remotely without requiring authentication or user interaction, consuming system resources and rendering the service unavailable. Attack complexity is low, making it accessible to a broader range of threat actors, with potential impact on system availability.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156411</guid>
       <pubDate>Wed, 13 Aug 2025 10:45:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Curly COMrades’ APT Hackers Target Critical Organizations Across Multiple Countries</title>
-      <link>https://gbhackers.com/curly-comrades-apt-hackers-target-critical-organizations/</link>
-      <description>Bitdefender Labs has identified a sophisticated APT group dubbed “Curly COMrades,” targeting critical infrastructure in geopolitically sensitive regions, employing stealthy tactics to secure long-term network access and exfiltrate sensitive data. The group uses credential theft, custom malware, and blended tactics to evade detection, highlighting the evolving threat landscape where trust in legitimate infrastructure is exploited for sustained espionage.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156292</guid>
-      <pubDate>Wed, 13 Aug 2025 10:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot RCE Vulnerability via Prompt Injection Enables Full System Compromise</title>
-      <link>https://gbhackers.com/github-copilot-rce-vulnerability/</link>
-      <description>Vulnerable Product: GitHub Copilot; CVE(s): CVE-2025-53773; Summary: A critical security vulnerability in GitHub Copilot allows attackers to achieve remote code execution and complete system compromise through prompt injection techniques. The vulnerability exploits the AI assistant's ability to modify project files without user approval, enabling attackers to manipulate Copilot into adding malicious lines to configuration files, ultimately leading to unrestricted command execution with full system privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156403</guid>
-      <pubDate>Wed, 13 Aug 2025 10:29:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
