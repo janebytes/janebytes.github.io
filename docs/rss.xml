@@ -6,8 +6,78 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 19:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 20:04:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-831: Delta Electronics DIAView Directory Traversal Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-831/</link>
+      <description>Vulnerable Product: Delta Electronics DIAView; CVE(s): CVE-2025-53417; Summary: The vulnerability allows remote attackers to disclose sensitive information without authentication. It occurs due to a lack of proper validation of user-supplied paths in file operations, which can be exploited to reveal information in the context of the service account.</description>
+      <guid isPermaLink="false">ZDI-CAN-26477</guid>
+      <pubDate>Wed, 13 Aug 2025 20:04:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-832: Delta Electronics DIAView Directory Traversal Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-832/</link>
+      <description>Vulnerable Product: Delta Electronics DIAView; CVE(s): CVE-2025-53417; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics DIAView without authentication. The issue exists within the web service, which listens on TCP port 80 by default, due to a lack of proper validation of user-supplied paths in file operations.</description>
+      <guid isPermaLink="false">ZDI-CAN-26478</guid>
+      <pubDate>Wed, 13 Aug 2025 20:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-833: NVIDIA Transformers4Rec load_model_trainer_states_from_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-833/</link>
+      <description>Vulnerable Product: NVIDIA Transformers4Rec; CVE(s): CVE-2025-23266; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Transformers4Rec. User interaction is required to exploit this vulnerability, and the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data.</description>
+      <guid isPermaLink="false">ZDI-CAN-27199</guid>
+      <pubDate>Wed, 13 Aug 2025 20:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-834: Academy Software Foundation OpenEXR EXR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-834/</link>
+      <description>Vulnerable Product: Academy Software Foundation OpenEXR; CVE(s): CVE-2025-48071; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Academy Software Foundation OpenEXR. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26141</guid>
+      <pubDate>Wed, 13 Aug 2025 20:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-835: NoMachine Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-835/</link>
+      <description>Vulnerable Product: NoMachine; CVE(s): CVE-2025-8614; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of NoMachine, requiring an attacker to execute low-privileged code first. The specific flaw exists within the configuration of OpenSSL, which loads a configuration file from an unsecured location, allowing privilege escalation and arbitrary code execution in the context of the service account.</description>
+      <guid isPermaLink="false">ZDI-CAN-26766</guid>
+      <pubDate>Wed, 13 Aug 2025 20:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-836: Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-836/</link>
+      <description>Vulnerable Product: Rockwell Automation Arena Simulation; CVE(s): CVE-2025-6376; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Rockwell Automation Arena Simulation. User interaction is required to exploit this vulnerability, and the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated object.</description>
+      <guid isPermaLink="false">ZDI-CAN-26556</guid>
+      <pubDate>Wed, 13 Aug 2025 20:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-837: Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-837/</link>
+      <description>Vulnerable Product: Rockwell Automation Arena Simulation; CVE(s): CVE-2025-6377; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Rockwell Automation Arena Simulation. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of DOE files.</description>
+      <guid isPermaLink="false">ZDI-CAN-26559</guid>
+      <pubDate>Wed, 13 Aug 2025 20:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emerging AI-Driven Phishing Trends Reshape Cybercrime Tactics</title>
+      <link>https://gbhackers.com/emerging-ai-driven-phishing-trends/</link>
+      <description>Artificial intelligence (AI) is revolutionizing phishing and scams, enabling the generation of hyper-realistic deceptive content that exploits current events and personal data. Cybercriminals are using neural networks, large language models, and deepfakes to craft flawless communications that mimic legitimate sources, targeting individuals and organizations with personalized attacks. This shift in tactics includes automated data harvesting, voice cloning, and synthetic audio and visual content, making it increasingly difficult for users to detect malicious links or attachments.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156471</guid>
+      <pubDate>Wed, 13 Aug 2025 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 24H2 updates failing again with 0x80240069 errors</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The KB5063878 Windows 11 24H2 cumulative update fails to install on some systems, resulting in error code 0x80240069 and messages indicating the Windows Update service has terminated unexpectedly. This issue affects only systems receiving updates through WSUS, primarily impacting enterprise environments.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/</guid>
+      <pubDate>Wed, 13 Aug 2025 19:41:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>New downgrade attack can bypass FIDO auth in Microsoft Entra ID</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/</link>
+      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: A new FIDO downgrade attack tricks users into authenticating with weaker login methods, making them susceptible to phishing and session hijacking. The attack employs a custom phishlet within the Evilginx adversary-in-the-middle framework to spoof an unsupported browser user agent, forcing users to choose alternate verification fallback methods that can be intercepted by attackers, resulting in stolen account credentials and MFA tokens or session cookies.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/</guid>
+      <pubDate>Wed, 13 Aug 2025 19:14:23 +0000</pubDate>
+    </item>
     <item>
       <title>Google’s Android pKVM Framework Achieves SESIP Level 5 Certification</title>
       <link>https://gbhackers.com/googles-android-pkvm-framework/</link>
@@ -1343,78 +1413,6 @@ Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vu
       <description>Vulnerable Product: Schneider Electric EcoStruxure Power Monitoring Expert; CVE(s): CVE-2025-54924; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Schneider Electric EcoStruxure Power Monitoring Expert without requiring authentication. The flaw exists in the GetPagesAsImages method due to a lack of proper URI validation, which can be exploited to obtain information in the context of LOCAL SERVICE.</description>
       <guid isPermaLink="false">ZDI-CAN-26463</guid>
       <pubDate>Wed, 13 Aug 2025 13:05:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web DDoS and App Exploitation Attacks Surge in First Half of 2025</title>
-      <link>https://gbhackers.com/web-ddos-and-app-exploitation-attacks/</link>
-      <description>The article reports a significant increase in Web DDoS attacks, with a 39% rise compared to the second half of 2024. Threat actors are using automated tools and generative AI to launch sustained attacks below 100,000 requests per second (RPS).</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156355</guid>
-      <pubDate>Wed, 13 Aug 2025 12:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft asks users to ignore certificate enrollment errors</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/</link>
-      <description>Microsoft has asked customers to disregard CertificateServicesClient (CertEnroll) errors that appear after installing the July 2025 preview update and subsequent Windows 11 24H2 updates. The error is caused by a feature still under development and does not impact Windows processes.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/</guid>
-      <pubDate>Wed, 13 Aug 2025 12:24:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA and Partners Release Asset Inventory Guidance for Operational Technology Owners and Operators</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-and-partners-release-asset-inventory-guidance-operational-technology-owners-and-operators</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) and its partners released guidance on creating and maintaining operational technology (OT) asset inventories and taxonomies, aiming to help OT owners and operators identify and safeguard critical assets. This guidance can help organizations gain insights into their architecture, optimize defenses, and reduce cybersecurity risk.</description>
-      <guid isPermaLink="false">/node/23750</guid>
-      <pubDate>Wed, 13 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VexTrio Hackers Use Fake CAPTCHAs and Malicious Apps on Google Play &amp; App Store to Target Users</title>
-      <link>https://gbhackers.com/vextrio-hackers-use-fake-captchas-and-malicious-apps/</link>
-      <description>This article reports on a highly skilled cybercriminal network, VexTrio Viper, which has been active since at least 2017. The group uses advanced tactics such as lookalike domains, registered domain generation algorithms (RDGAs), and traffic distribution systems (TDSs) to deliver malware, scams, and illicit content to users worldwide.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156315</guid>
-      <pubDate>Wed, 13 Aug 2025 11:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple GitLab Vulnerabilities Allow Account Takeover and Stored XSS Attacks</title>
-      <link>https://gbhackers.com/multiple-gitlab-vulnerabilities-2/</link>
-      <description>Vulnerable Product: GitLab (Community Edition and Enterprise Edition); CVE(s): CVE-2025-6186, CVE-2025-7734, CVE-2025-7739, CVE-2025-8094; Summary: GitLab has released critical security patches addressing multiple high-severity vulnerabilities that could enable account takeovers, stored cross-site scripting attacks, and privilege escalation. The most concerning vulnerabilities involve multiple cross-site scripting flaws that allow authenticated attackers to execute malicious actions on behalf of other users.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156445</guid>
-      <pubDate>Wed, 13 Aug 2025 11:41:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet Warns About FortiSIEM Vulnerability (CVE-2025-25256) With In-the-Wild Exploit Code</title>
-      <link>https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html</link>
-      <description>Vulnerable Product: Fortinet FortiSIEM; CVE(s): CVE-2025-25256; Summary: An OS Command Injection vulnerability in FortiSIEM allows an unauthenticated attacker to execute unauthorized code or commands via crafted CLI requests, with a CVSS score of 9.8 out of 10.0. The vulnerability exists in multiple versions and has been exploited in the wild.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html</guid>
-      <pubDate>Wed, 13 Aug 2025 11:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Office Vulnerabilities Allow Attackers to Execute Remote Code</title>
-      <link>https://gbhackers.com/microsoft-office-vulnerabilities-3/</link>
-      <description>Vulnerable Product: Microsoft Office; CVE(s): CVE-2025-53731, CVE-2025-53740, CVE-2025-53730; Summary: Three critical security vulnerabilities in Microsoft Office allow attackers to execute malicious code remotely on affected systems. The vulnerabilities, caused by use-after-free memory corruption issues, can be exploited to manipulate system memory and execute arbitrary code, with high levels of confidentiality, integrity, and availability impact.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156436</guid>
-      <pubDate>Wed, 13 Aug 2025 11:25:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI SOC 101: Key Capabilities Security Leaders Need to Know</title>
-      <link>https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html</link>
-      <description>The article discusses the benefits of incorporating AI-powered Security Operations Center (SOC) capabilities to improve efficiency, reduce risk, and enhance security outcomes. It highlights the challenges faced by traditional SOCs, such as repetitive and time-consuming investigations, and how AI-driven triage, investigation, and detection coverage analysis can address these issues.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html</guid>
-      <pubDate>Wed, 13 Aug 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI adds new GPT-5 models, restores o3, o4-mini and it's a mess all over again</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/</link>
-      <description>This article does not discuss a vulnerability in software, hardware, or firmware. It appears to be an update announcement for ChatGPT with new model options and legacy models available.
-
-FYSA: The article mentions that 46% of environments had passwords cracked, nearly doubling from 25% last year.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/</guid>
-      <pubDate>Wed, 13 Aug 2025 11:24:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Exchange Server Flaws Allow Network-Based Spoofing and Data Tampering</title>
-      <link>https://gbhackers.com/microsoft-exchange-server-flaws/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-25007, CVE-2025-25005, CVE-2025-49743; Summary: Microsoft Exchange Server has been affected by critical security vulnerabilities that could enable attackers to conduct network-based spoofing attacks and tamper with sensitive data. The flaws, identified as CVE-2025-25007 and CVE-2025-25005, pose significant risks to organizations running Microsoft's email and collaboration platform, allowing malicious actors to impersonate legitimate users or systems, potentially leading to sophisticated social engineering attacks or unauthorized access attempts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156425</guid>
-      <pubDate>Wed, 13 Aug 2025 10:57:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
