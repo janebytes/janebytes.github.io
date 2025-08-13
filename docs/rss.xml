@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 18:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 19:01:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google’s Android pKVM Framework Achieves SESIP Level 5 Certification</title>
+      <link>https://gbhackers.com/googles-android-pkvm-framework/</link>
+      <description>The article discusses the achievement of Google's protected KVM (pKVM) in achieving SESIP Level 5 certification, a major breakthrough for open-source security and consumer electronics. This milestone positions pKVM as the inaugural software security system tailored for widespread deployment in consumer devices to reach this elite assurance threshold.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156465</guid>
+      <pubDate>Wed, 13 Aug 2025 18:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>Adobe’s August 2025 Patch Tuesday Fixes 60 Vulnerabilities Across Multiple Products</title>
       <link>https://gbhackers.com/adobes-august-2025-patch-tuesday-fixes-60-vulnerabilities/</link>
@@ -1408,13 +1415,6 @@ FYSA: The article mentions that 46% of environments had passwords cracked, nearl
       <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-25007, CVE-2025-25005, CVE-2025-49743; Summary: Microsoft Exchange Server has been affected by critical security vulnerabilities that could enable attackers to conduct network-based spoofing attacks and tamper with sensitive data. The flaws, identified as CVE-2025-25007 and CVE-2025-25005, pose significant risks to organizations running Microsoft's email and collaboration platform, allowing malicious actors to impersonate legitimate users or systems, potentially leading to sophisticated social engineering attacks or unauthorized access attempts.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156425</guid>
       <pubDate>Wed, 13 Aug 2025 10:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Remote Desktop Services Flaw Allows Network-Based Denial-of-Service Attacks</title>
-      <link>https://gbhackers.com/windows-remote-desktop-services-flaw/</link>
-      <description>Vulnerable Product: Microsoft Windows Remote Desktop Services; CVE(s): CVE-2025-53722; Summary: The vulnerability allows attackers to launch denial-of-service attacks remotely without requiring authentication or user interaction, consuming system resources and rendering the service unavailable. Attack complexity is low, making it accessible to a broader range of threat actors, with potential impact on system availability.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156411</guid>
-      <pubDate>Wed, 13 Aug 2025 10:45:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
