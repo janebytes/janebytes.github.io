@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 18:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 19:02:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>PS1Bot: Multi-Stage Malware Framework Targeting Windows Systems</title>
+      <link>https://gbhackers.com/ps1bot-multi-stage-malware-framework/</link>
+      <description>The article discusses a malware campaign, dubbed PS1Bot, which has been active since early 2025. The malware uses malvertising and SEO poisoning to distribute compressed archives with file names mimicking legitimate search queries. Upon extraction, the archives contain a JavaScript file that downloads PowerShell scripts from an attacker-controlled server, which poll a command-and-control (C2) server and execute in-memory to minimize disk artifacts and enhance stealth.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156797</guid>
+      <pubDate>Thu, 14 Aug 2025 18:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What happened in Vegas (that you actually want to know about)</title>
+      <link>https://blog.talosintelligence.com/what-happened-in-vegas-that-you-actually-want-to-know-about/</link>
+      <description>The article discusses various cybersecurity-related topics, including threat actors, tactics, infrastructure, and impacts. It mentions Russian government hackers allegedly being behind a data breach affecting the US federal court filing system, as well as North Korean state-sponsored hacking group Kimsuky suffering a data breach. Additionally, it warns about a widespread malvertising campaign distributing malware that steals sensitive information and maintains persistent access on infected systems.</description>
+      <guid isPermaLink="false">689cebb2e2d85f00011b7fd6</guid>
+      <pubDate>Thu, 14 Aug 2025 18:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Crypto24 ransomware hits large orgs with custom EDR evasion tool</title>
       <link>https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/</link>
@@ -1411,20 +1425,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-746, ZDI-CAN-25645; Summary: This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of QNAP TS-464 devices without requiring authentication. The issue occurs due to improper certificate validation in the reset_password.cgi endpoint. An attacker can exploit this vulnerability to obtain sensitive information related to the device.</description>
       <guid isPermaLink="false">ZDI-CAN-25645</guid>
       <pubDate>Wed, 13 Aug 2025 13:32:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-747: (Pwn2Own) QNAP TS-464 reset_password.cgi Hard-coded Cryptographic Key Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-747/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-747, ZDI-CAN-25646; Summary: The vulnerability allows network-adjacent attackers to bypass authentication on affected installations of the QNAP TS-464. Authentication is not required to exploit this vulnerability, which exists within the reset_password.cgi endpoint due to a hard-coded cryptographic key.</description>
-      <guid isPermaLink="false">ZDI-CAN-25646</guid>
-      <pubDate>Wed, 13 Aug 2025 13:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-748: (Pwn2Own) QNAP QHora-322 system.db Use of Hard-coded Cryptographic Key Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-748/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-748, ZDI-CAN-25657; Summary: The vulnerability allows remote attackers to bypass authentication on affected installations of QNAP QHora-322 routers without requiring authentication. The issue results from the use of a hard-coded cryptographic key, which can be exploited in conjunction with other vulnerabilities to bypass system authentication.</description>
-      <guid isPermaLink="false">ZDI-CAN-25657</guid>
-      <pubDate>Wed, 13 Aug 2025 13:31:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
