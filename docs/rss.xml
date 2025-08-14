@@ -6,8 +6,45 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 16:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 17:16:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Use Advanced Tactics to Personalize Phishing for Malware Delivery</title>
+      <link>https://gbhackers.com/threat-actors-use-advanced-tactics/</link>
+      <description>Threat actors are using topic customization as a more advanced strategy in targeted malware-delivery phishing campaigns. The approach involves crafting personalized subject lines, attachment names, and embedded links to mimic authentic communications, evading detection and facilitating successful compromises. Key insights reveal that when combined with Remote Access Trojans (RATs) or Information Stealers, these campaigns can grant attackers remote access or harvest credentials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156775</guid>
+      <pubDate>Thu, 14 Aug 2025 16:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Mandates License or Certification for Crypto App Developers</title>
+      <link>https://gbhackers.com/google-mandates-license-or-certification/</link>
+      <description>FYSA:
+
+The article highlights the cryptocurrency ecosystem's ongoing challenges in balancing accessibility with security, as regulatory frameworks evolve. The Google Play requires developers to meet stringent publishing requirements, and the FBI warns of sophisticated recovery scams targeting previous fraud victims. The article emphasizes the importance of vigilance against compliance failures and criminal exploitation, as the industry seeks legitimacy and sustainable growth.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156877</guid>
+      <pubDate>Thu, 14 Aug 2025 16:17:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Microsoft Flaw to Breach Canadian House of Commons to Gain Unauthorized Access</title>
+      <link>https://gbhackers.com/hackers-exploit-microsoft-flaw/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49704, and CVE-2025-49706; Summary: A vulnerability in Microsoft SharePoint was exploited by an unidentified threat actor to access sensitive government employee data at the Canadian House of Commons. The attack allowed unauthorized remote code execution through advanced deserialization techniques and ViewState abuse, bypassing authentication controls including multi-factor authentication and single sign-on systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156876</guid>
+      <pubDate>Thu, 14 Aug 2025 16:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro-Russian hackers blamed for water dam sabotage in Norway</title>
+      <link>https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/</link>
+      <description>Pro-Russian hackers took control of critical operation systems at a dam in Norway, opening outflow valves and demonstrating their ability to remotely hack critical infrastructure. The attack was seen as a display of capabilities rather than an attempt to cause damage, with the goal of exerting influence and creating fear or unrest in the population. This is the second time Russia has been associated with attacks against Norwegian entities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/</guid>
+      <pubDate>Thu, 14 Aug 2025 16:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin Ransomware Dominates July with Over 70 Claimed Victims</title>
+      <link>https://gbhackers.com/qilin-ransomware-dominates-july/</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2023-48788, CVE-2019-18935, CVE-2025-5777, CVE-2025-53770, CVE-2025-53771, CVE-2025-49704, and CVE-2025-49706; Summary: A variety of vulnerabilities were weaponized in ransomware campaigns, including SQL injection flaws in Fortinet FortiClientEMS (CVE-2023-48788) and deserialization vulnerability in Progress Telerik UI for ASP.NET AJAX (CVE-2019-18935), as well as out-of-bounds read issue in Citrix NetScaler ADC and Gateway (CVE-2025-5777) and Microsoft SharePoint flaws (CVE-2025-53770, CVE-2025-53771, CVE-2025-49704, and CVE-2025-49706). These exploits facilitated initial access and lateral movement, enabling attackers to deploy payloads efficiently.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156612</guid>
+      <pubDate>Thu, 14 Aug 2025 15:23:25 +0000</pubDate>
+    </item>
     <item>
       <title>New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks</title>
       <link>https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</link>
@@ -21,6 +58,13 @@
       <description>Vulnerable Product: Microsoft Windows 11; CVE(s): CVE-2025-50167; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Virtual Hard Disk Miniport driver due to lack of validating the existence of an object prior to performing operations on it.</description>
       <guid isPermaLink="false">ZDI-CAN-27158</guid>
       <pubDate>Thu, 14 Aug 2025 15:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft fixes Windows Server bug causing cluster, VM issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/</link>
+      <description>Vulnerable Product: Microsoft Windows Server 2019; CVE(s): None; Summary: The Cluster service on Windows Server 2019 may fail to function correctly after installing the July Windows security update, causing nodes to fail to rejoin the cluster or enter quarantine states, virtual machines to experience multiple restarts, and frequent errors.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/</guid>
+      <pubDate>Thu, 14 Aug 2025 15:05:10 +0000</pubDate>
     </item>
     <item>
       <title>ZDI-25-839: Microsoft Teams Real Time Media Manager Integer Underflow Remote Code Execution Vulnerability</title>
@@ -121,6 +165,118 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <description>Vulnerable Product: Microsoft IIS Web Deploy; CVE(s): CVE-2025-53772; Summary: The vulnerability allows authenticated attackers with low-level privileges to potentially gain complete control over vulnerable systems by exploiting the deserialization process, allowing remote code execution. This flaw stems from improper deserialization of untrusted data within the Web Deploy framework and affects the core functionality of Web Deploy, making it a significant security concern for organizations using IIS Web Deploy.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156761</guid>
       <pubDate>Thu, 14 Aug 2025 12:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM APE1808</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-09</link>
+      <description>Vulnerable Product: Siemens RUGGEDCOM APE1808; CVE(s): CVE-2024-13089, CVE-2024-13090; Summary: An authenticated administrator can execute unauthorized arbitrary OS commands due to an OS command injection vulnerability and a privilege escalation vulnerability. Successful exploitation could impact confidentiality, integrity, and availability.</description>
+      <guid isPermaLink="false">/node/23777</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Opcenter Quality</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-06</link>
+      <description>Vulnerable Product: Siemens Opcenter Quality; CVE(s): CVE-2024-41979, CVE-2024-41980, CVE-2024-41982, CVE-2024-41983, CVE-2024-41984, CVE-2024-41985, CVE-2024-41986; Summary: The vulnerabilities in Siemens Opcenter Quality allow an attacker to gain complete access of the application, access sensitive information, execute a Machine-In-The-Middle attack, and compromise confidentiality and integrity of data. Successful exploitation could also lead to unauthorized access if sessions are left idle.</description>
+      <guid isPermaLink="false">/node/23774</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk Viewpoint</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-23</link>
+      <description>Vulnerable Product: Rockwell Automation FactoryTalk Viewpoint; CVE(s): CVE-2025-7973; Summary: The vulnerability in FactoryTalk Viewpoint version 14.00 and prior allows attackers to hijack the cscript.exe console window, which runs with SYSTEM privileges, enabling full privilege escalation. Successful exploitation could result in full privilege escalation.</description>
+      <guid isPermaLink="false">/node/23791</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Simcenter Femap</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-04</link>
+      <description>Vulnerable Product: Siemens Simcenter Femap V2406 and V2412; CVE(s): CVE-2025-40762, CVE-2025-40764; Summary: The vulnerabilities in Siemens Simcenter Femap allow an attacker to execute code in the context of the current process by exploiting out-of-bounds write and read vulnerabilities while parsing specially crafted STP and BMP files.</description>
+      <guid isPermaLink="false">/node/23772</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC S7-PLCSIM</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-11</link>
+      <description>Vulnerable Product: Siemens SIMATIC S7-PLCSIM, SIMOCODE ES, SIMOTION SCOUT TIA, SINAMICS Startdrive, SIMATIC STEP 7, SIMATIC WinCC, SIRIUS Safety ES, SIRIUS Soft Starter ES, and TIA Portal Cloud; CVE(s): CVE-2025-40759; Summary: A deserialization of untrusted data vulnerability exists in the affected Siemens products, which could allow an attacker to cause a type confusion and execute arbitrary code. Successful exploitation requires low attack complexity.</description>
+      <guid isPermaLink="false">/node/23779</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Engineering Platforms</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-03</link>
+      <description>Vulnerable Product: Siemens; CVE(s): CVE-2024-54678; Summary: A deserialization of untrusted data vulnerability in Siemens' products allows a local authenticated attacker to cause a type confusion and execute arbitrary code within the affected application. The vulnerability affects various products including SIMATIC PCS neo, SIMATIC WinCC, SIMOCODE ES, SIMOTION SCOUT TIA, SINAMICS Startdrive, SIRIUS Safety ES, SIRIUS Soft Starter ES, TIA Portal Cloud, and TIA Portal Test Suite.</description>
+      <guid isPermaLink="false">/node/23771</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Thirty-Two Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/14/cisa-releases-thirty-two-industrial-control-systems-advisories</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released 32 Industrial Control Systems (ICS) advisories on August 14, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. These advisories cover various products from Siemens and Rockwell Automation, including SIMATIC RTLS Locating Manager, COMOS, and others.</description>
+      <guid isPermaLink="false">/node/23800</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM ROX II</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-14</link>
+      <description>Vulnerable Product: Siemens RUGGEDCOM ROX II Family; CVE(s): CVE-2025-33023; Summary: The vulnerability allows an authenticated remote attacker with high privileges in the web interface to upload arbitrary files, which could lead to a higher level of attack complexity. Exploitation could allow an attacker to upload files onto the filesystem of devices.</description>
+      <guid isPermaLink="false">/node/23782</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIPROTEC 5</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-10</link>
+      <description>Vulnerable Product: Siemens SIPROTEC 5; CVE(s): CVE-2025-40570; Summary: Allocation of Resources Without Limits or Throttling vulnerability in Siemens SIPROTEC 5 devices allows an attacker with physical access to send specially crafted packets with high bandwidth, forcing the device to exhaust its memory and stop responding to any network traffic via the local USB port.</description>
+      <guid isPermaLink="false">/node/23778</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM CROSSBOW Station Access Controller</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-08</link>
+      <description>Vulnerable Product: Siemens RUGGEDCOM CROSSBOW Station Access Controller (SAC); CVE(s): CVE-2025-3277, CVE-2025-29087, CVE-2025-29088; Summary: Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code or create a denial-of-service condition. The vulnerabilities are due to a heap-based buffer overflow and integer overflow in SQLite's 'concat_ws()' function, which can result in wild Heap Buffer overflows of size 4GB.</description>
+      <guid isPermaLink="false">/node/23776</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Wibu CodeMeter Runtime</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-05</link>
+      <description>Vulnerable Product: Siemens SIMATIC Information Server, WinCC OA, and Process Historian; CVE(s): CVE-2025-47809; Summary: A least privilege violation vulnerability in Wibu CodeMeter allows a local user to navigate from Import License to a privileged instance of Windows Explorer. Successful exploitation could allow a local user to elevate privileges. The vulnerability affects various Siemens products and versions, including SIMATIC Information Server 2020, WinCC OA V3.18/V3.19, and Process Historian 2020/2022/2024.</description>
+      <guid isPermaLink="false">/node/23773</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell FactoryTalk Linx</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-24</link>
+      <description>Vulnerable Product: Rockwell Automation FactoryTalk Linx; CVE(s): CVE-2025-7972; Summary: A vulnerability exists in the FactoryTalk Linx Network Browser, allowing an attacker to disable FTSP token validation by modifying the process.env.NODE_ENV variable. This enables access to create, update, and delete FTLinx drivers, with a CVSS v4 score of 8.4.</description>
+      <guid isPermaLink="false">/node/23792</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC Traffic Analyzer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-17</link>
+      <description>Vulnerable Product: Siemens SINEC Traffic Analyzer (6GK8822-1BG01-0BA0); CVE(s): CVE-2024-24989, CVE-2024-24990, CVE-2025-40766, CVE-2025-40767, CVE-2025-40768, CVE-2025-40769, CVE-2025-40770; Summary: The Siemens SINEC Traffic Analyzer has multiple vulnerabilities that could allow an attacker to cause a denial-of-service condition or gain elevated access and access to sensitive resources. The vulnerabilities include NULL Pointer Dereference, Use After Free, Uncontrolled Resource Consumption, Execution with Unnecessary Privileges, Exposure of Sensitive Information to an Unauthorized Actor, Irrelevant Code, and Channel Accessible by Non-Endpoint.</description>
+      <guid isPermaLink="false">/node/23785</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC RTLS Locating Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-13</link>
+      <description>Vulnerable Product: Siemens SIMATIC RTLS Locating Manager; CVE(s): CVE-2025-40746; Summary: The vulnerability allows an authenticated remote attacker to execute arbitrary code with high privileges due to improper input validation. Exploitation could result in the execution of arbitrary code with 'NT Authority/SYSTEM' privileges, posing a significant risk to critical infrastructure sectors such as Critical Manufacturing worldwide.</description>
+      <guid isPermaLink="false">/node/23781</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIPROTEC 4 and SIPROTEC 4 Compact</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-12</link>
+      <description>Vulnerable Product: Siemens SIPROTEC 4 and SIPROTEC 4 Compact; CVE(s): CVE-2024-52504; Summary: Successful exploitation of this vulnerability could allow an unauthenticated remote attacker to cause a denial-of-service condition. The affected devices do not properly handle interrupted operations of file transfer, requiring the devices to be restarted to restore normal operations.</description>
+      <guid isPermaLink="false">/node/23780</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens COMOS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-02</link>
+      <description>Vulnerable Product: Siemens COMOS; CVE(s): CVE-2024-8894; Summary: The vulnerability, an out-of-bounds write, allows an attacker to cause a crash, potentially enabling a denial-of-service attack or code execution. The affected products are all versions of COMOS prior to V10.6, and exploitation requires reading crafted DWF files and missing proper checks on received SectionIterator data.</description>
+      <guid isPermaLink="false">/node/23770</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Siemens BFCClient</title>
@@ -1269,160 +1425,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-750, ZDI-CAN-25624; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of QNAP QHora-322 routers without authentication. The flaw exists within the parseMIME method due to improper validation of user-supplied data, which can result in a write past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-25624</guid>
       <pubDate>Wed, 13 Aug 2025 13:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-751: (Pwn2Own) QNAP QHora-322 IPv6 Incorrectly Specified Destination in a Communication Channel Network Spoofing Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-751/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-751, ZDI-CAN-25625; Summary: This vulnerability allows network-adjacent attackers to redirect localhost traffic on affected installations of QNAP QHora-322 routers without authentication. The issue exists within the /etc/hosts file and can be exploited in conjunction with other vulnerabilities to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-25625</guid>
-      <pubDate>Wed, 13 Aug 2025 13:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-752: (Pwn2Own) QNAP QHora-322 gRPC WAN_ADDR6 Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-752/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-752, ZDI-CAN-25667; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of QNAP QHora-322 routers without authentication. The issue exists within the handling of gRPC messages and can be exploited by leveraging a user-supplied string before using it to execute a system call, allowing for root-level code execution.</description>
-      <guid isPermaLink="false">ZDI-CAN-25667</guid>
-      <pubDate>Wed, 13 Aug 2025 13:30:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-753: (Pwn2Own) QNAP TS-464 Improper Handling of URL Encoding Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-753/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-753, ZDI-CAN-25482; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of QNAP TS-464 devices without requiring authentication. The issue is caused by an improper implementation of the URL decoding algorithm within the device's function responsible for handling URL encoding.</description>
-      <guid isPermaLink="false">ZDI-CAN-25482</guid>
-      <pubDate>Wed, 13 Aug 2025 13:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-754: (Pwn2Own) QNAP TS-464 privWizard.cgi Authentication CRLF Injection Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-754/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-754, ZDI-CAN-25653; Summary: This vulnerability allows network-adjacent attackers to escalate privileges on affected installations of QNAP TS-464 devices by injecting CRLF sequences into the privWizard.cgi endpoint, bypassing authentication and gaining access to protected resources.</description>
-      <guid isPermaLink="false">ZDI-CAN-25653</guid>
-      <pubDate>Wed, 13 Aug 2025 13:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-755: (Pwn2Own) QNAP QHora-322 qsyslog-cli username Format String Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-755/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-755, ZDI-CAN-25672; Summary: The qsyslog-cli executable on affected QNAP QHora-322 routers has a format string remote code execution vulnerability. Authentication is not required to exploit this vulnerability, and an attacker can execute arbitrary code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-25672</guid>
-      <pubDate>Wed, 13 Aug 2025 13:29:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-756: (Pwn2Own) QNAP QHora-322 Improper Restriction of Communication Channel to Intended Endpoints Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-756/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-756, ZDI-CAN-25488; Summary: This vulnerability allows network-adjacent attackers to access the management interface of affected QNAP QHora-322 router installations without authentication. The issue is due to exposing the management interface on the WAN side of the router over IPv6.</description>
-      <guid isPermaLink="false">ZDI-CAN-25488</guid>
-      <pubDate>Wed, 13 Aug 2025 13:29:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-757: (Pwn2Own) QNAP QHora-322 tar Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-757/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-757, ZDI-CAN-25673; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of QNAP QHora-322 routers without authentication. The flaw exists within the handling of parameters provided to the tar executable, resulting from the lack of proper validation of a user-supplied string before using it to execute a system call.</description>
-      <guid isPermaLink="false">ZDI-CAN-25673</guid>
-      <pubDate>Wed, 13 Aug 2025 13:29:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-758: (Pwn2Own) QNAP TS-464 Samba Command Argument Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-758/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-758, ZDI-CAN-25612; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of QNAP TS-464 devices without authentication. The specific flaw exists within the handling of the provided username during authentication, leading to a command injection issue.</description>
-      <guid isPermaLink="false">ZDI-CAN-25612</guid>
-      <pubDate>Wed, 13 Aug 2025 13:28:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-759: (Pwn2Own) QNAP TS-464 Log Tool SQL Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-759/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): CVE-2024-50387; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of QNAP TS-464 devices without authentication. The flaw exists within the handling of command line arguments and results from a lack of proper validation of user-supplied strings before constructing SQL queries.</description>
-      <guid isPermaLink="false">ZDI-CAN-25656</guid>
-      <pubDate>Wed, 13 Aug 2025 13:28:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-760: (Pwn2Own) QNAP TS-464 rsync Daemon Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-760/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): CVE-2024-50388; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of QNAP TS-464 devices without authentication. The flaw exists in the handling of provided usernames and passwords during authentication, allowing an attacker to execute code in the context of admin.</description>
-      <guid isPermaLink="false">ZDI-CAN-25536</guid>
-      <pubDate>Wed, 13 Aug 2025 13:28:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-761: (0Day) (Pwn2Own) Alpine iLX-507 vCard Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-761/</link>
-      <description>Vulnerable Product: Alpine iLX-507; CVE(s): CVE-2025-8472; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Alpine iLX-507 devices. User interaction is required to exploit this vulnerability, as the target must connect to a malicious Bluetooth device. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a stack-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26316</guid>
-      <pubDate>Wed, 13 Aug 2025 13:27:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-762: (0Day) (Pwn2Own) Alpine iLX-507 UPDM_wstpCBCUpdStart Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-762/</link>
-      <description>Vulnerable Product: Alpine iLX-507; CVE(s): CVE-2025-8473; Summary: The Alpine iLX-507 UPDM_wstpCBCUpdStart command injection vulnerability allows physically present attackers to execute arbitrary code on affected devices without authentication. The flaw occurs due to improper validation of user-supplied data before executing a system call, allowing an attacker to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26317</guid>
-      <pubDate>Wed, 13 Aug 2025 13:27:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-763: (0Day) (Pwn2Own) Alpine iLX-507 CarPlay Stack-based Buffer Overflow Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-763/</link>
-      <description>Vulnerable Product: Alpine iLX-507; CVE(s): CVE-2025-8474; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Alpine iLX-507 devices. Authentication is not required to exploit this vulnerability, which exists within the implementation of the Apple CarPlay protocol due to a lack of proper validation of user-supplied data length prior to copying it to a fixed-length stack-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26318</guid>
-      <pubDate>Wed, 13 Aug 2025 13:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-764: (0Day) (Pwn2Own) Alpine iLX-507 AVRCP Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-764/</link>
-      <description>Vulnerable Product: Alpine iLX-507; CVE(s): CVE-2025-8475; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Alpine iLX-507 devices. User interaction is required to exploit this vulnerability, which exists within the implementation of the AVRCP protocol due to a lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26321</guid>
-      <pubDate>Wed, 13 Aug 2025 13:26:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-765: (0Day) (Pwn2Own) Alpine iLX-507 TIDAL Improper Certificate Validation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-765/</link>
-      <description>Vulnerable Product: Alpine iLX-507; CVE(s): CVE-2025-8476, ZDI-CAN-26322, ZDI-25-765; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Alpine iLX-507 devices without authentication. The issue exists within the TIDAL music streaming application due to improper certificate validation, which can be leveraged with other vulnerabilities to execute arbitrary code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26322</guid>
-      <pubDate>Wed, 13 Aug 2025 13:26:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-766: (0Day) (Pwn2Own) Alpine iLX-507 Command Injection Remote Code Execution</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-766/</link>
-      <description>Vulnerable Product: Alpine iLX-507; CVE(s): CVE-2025-8480; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Alpine iLX-507 devices without authentication. The issue is due to the lack of proper validation of a user-supplied string before using it to execute a system call, which can be leveraged to execute code in the context of the device.</description>
-      <guid isPermaLink="false">ZDI-CAN-26357</guid>
-      <pubDate>Wed, 13 Aug 2025 13:26:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-767: (0Day) (Pwn2Own) Alpine iLX-507 vCard Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-767/</link>
-      <description>Vulnerable Product: Alpine iLX-507; CVE(s): CVE-2025-8477; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected Alpine iLX-507 devices, requiring user interaction to connect to a malicious Bluetooth device. The issue is due to improper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer, allowing an attacker to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26324</guid>
-      <pubDate>Wed, 13 Aug 2025 13:25:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-768: NI LabVIEW VI File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-768/</link>
-      <description>Vulnerable Product: NI LabVIEW; CVE(s): CVE-2025-7848; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of NI LabVIEW. User interaction is required, and the flaw exists in the parsing of VI files due to a lack of proper validation of user-supplied data, resulting in memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-27081</guid>
-      <pubDate>Wed, 13 Aug 2025 13:25:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-769: NI LabVIEW VI File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-769/</link>
-      <description>Vulnerable Product: NI LabVIEW; CVE(s): CVE-2025-7849; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of NI LabVIEW, requiring user interaction. The flaw exists in the parsing of VI files due to insufficient validation of user-supplied data, leading to a memory corruption condition that can be exploited to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-27088</guid>
-      <pubDate>Wed, 13 Aug 2025 13:25:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-770: Microsoft Skype Chromium Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-770/</link>
-      <description>Vulnerable Product: Microsoft Skype; CVE(s): ZDI-25-770, ZDI-CAN-25335; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Skype by exploiting a vulnerable version of Google Chromium. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-25335</guid>
-      <pubDate>Wed, 13 Aug 2025 13:24:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-771: Trend Micro Apex One Console Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-771/</link>
-      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-54948; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex One. Authentication is not required to exploit this vulnerability, and an attacker can leverage this to execute code in the context of IUSR.</description>
-      <guid isPermaLink="false">ZDI-CAN-27834</guid>
-      <pubDate>Wed, 13 Aug 2025 13:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-772: Trend Micro Apex One Console Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-772/</link>
-      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-54987; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex One without authentication. The issue occurs due to a lack of proper validation of user-supplied strings before executing system calls, enabling an attacker to execute code in the context of IUSR.</description>
-      <guid isPermaLink="false">ZDI-CAN-27855</guid>
-      <pubDate>Wed, 13 Aug 2025 13:24:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
