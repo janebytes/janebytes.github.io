@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 20:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 21:01:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Ransomware Actors Combine Legitimate Tools with Custom Malware to Evade Detection</title>
+      <link>https://gbhackers.com/ransomware-actors-combine-legitimate-tools/</link>
+      <description>The article discusses the Crypto24 strain's multi-stage attacks, which employ legitimate system tools and bespoke malware to infiltrate networks, maintain persistence, and evade EDR systems. The attacks target high-profile organizations across various sectors, using tools like PSExec, AnyDesk, and keyloggers to exfiltrate data via Google Drive.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156834</guid>
+      <pubDate>Thu, 14 Aug 2025 20:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over $300 million in cybercrime crypto seized in anti-fraud effort</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/</link>
+      <description>FYSA:
+
+The article discusses two initiatives involving law enforcement and private companies that have resulted in the freezing of over $300 million worth of cryptocurrency linked to cybercrime and fraud schemes. The initiatives, led by the T3 Financial Crime Unit and Chainalysis, involved coordinated investigations and global collaboration to detect and intervene at the blockchain level, significantly hindering cybercriminals from moving or spending scam proceeds.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/</guid>
+      <pubDate>Thu, 14 Aug 2025 20:15:34 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-846: Apple macOS USD importMeshJointWeights Out-Of-Bounds Read Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-846/</link>
@@ -1411,20 +1427,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: QNAP QHora-322; CVE(s): CVE-2024-50389; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of QNAP QHora-322 routers. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries, allowing an attacker to exploit this vulnerability and bypass authentication.</description>
       <guid isPermaLink="false">ZDI-CAN-25580</guid>
       <pubDate>Wed, 13 Aug 2025 13:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-742: (Pwn2Own) QNAP TS-464 Active Directory Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-742/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-742, ZDI-CAN-25587; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of QNAP TS-464 devices. Authentication is not required to exploit this vulnerability, and an attacker can leverage it to bypass authentication on the system by leveraging a flaw in the Active Directory integration's improper implementation of an authentication algorithm.</description>
-      <guid isPermaLink="false">ZDI-CAN-25587</guid>
-      <pubDate>Wed, 13 Aug 2025 13:33:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-743: (Pwn2Own) QNAP TS-464 qnap_exec Command Injection Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-743/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-743, ZDI-CAN-25585; Summary: The vulnerability allows remote attackers to escalate privileges on affected installations of QNAP TS-464 devices. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed due to a lack of proper validation of a user-supplied string before using it to execute a system call.</description>
-      <guid isPermaLink="false">ZDI-CAN-25585</guid>
-      <pubDate>Wed, 13 Aug 2025 13:33:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
