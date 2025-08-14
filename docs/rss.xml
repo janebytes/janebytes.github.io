@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 13:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 14:01:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Canada’s House of Commons investigating data breach after cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-53770, CVE-2025-53786; Summary: A threat actor exploited a recent Microsoft vulnerability to gain access to a database containing sensitive information used to manage House of Commons computers and mobile devices. The attack also resulted in the theft of some employee data, including names, job titles, office locations, and email addresses.
+
+FYSA: The article reports on a data breach affecting the House of Commons of Canada, where a threat actor exploited a Microsoft vulnerability to gain access to sensitive information. The stolen data could be used to target and impersonate parliamentarians or exploited in scams.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/</guid>
+      <pubDate>Thu, 14 Aug 2025 13:06:43 +0000</pubDate>
+    </item>
     <item>
       <title>CISA Publishes Operational Technology Guide for Critical Infrastructure Stakeholders</title>
       <link>https://gbhackers.com/cisa-publishes-operational-technology-guide/</link>
@@ -1408,13 +1417,6 @@ Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vu
       <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8655, ZDI-CAN-26314; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The issue exists within the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls.</description>
       <guid isPermaLink="false">ZDI-CAN-26314</guid>
       <pubDate>Wed, 13 Aug 2025 13:14:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-804: (0Day) (Pwn2Own) Kenwood DMX958XR Protection Mechanism Failure Software Downgrade Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-804/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8656; Summary: This vulnerability allows physically present attackers to downgrade software on affected installations of Kenwood DMX958XR devices, without requiring authentication. The issue results from the lack of proper validation of version information before performing an update, allowing an attacker to execute arbitrary code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26355</guid>
-      <pubDate>Wed, 13 Aug 2025 13:13:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
