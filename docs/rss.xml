@@ -6,8 +6,85 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 14:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 15:05:45 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-838: (Pwn2Own) Microsoft Windows 11 vhdmp Use-After-Free Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-838/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): CVE-2025-50167; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Virtual Hard Disk Miniport driver due to lack of validating the existence of an object prior to performing operations on it.</description>
+      <guid isPermaLink="false">ZDI-CAN-27158</guid>
+      <pubDate>Thu, 14 Aug 2025 15:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-839: Microsoft Teams Real Time Media Manager Integer Underflow Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-839/</link>
+      <description>Vulnerable Product: Microsoft Teams; CVE(s): CVE-2025-53783; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Teams without authentication. The issue results from an integer underflow before writing to memory, which can be leveraged by attackers to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-26363</guid>
+      <pubDate>Thu, 14 Aug 2025 15:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-840: (Pwn2Own) Microsoft Windows 11 vhdmp Improper Validation of Array Index Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-840/</link>
+      <description>Vulnerable Product: Microsoft Windows 11 vhdmp; CVE(s): CVE-2025-53155; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by exploiting an improper validation of array index in the Virtual Hard Disk Miniport driver, which can result in a write past the end of an array.</description>
+      <guid isPermaLink="false">ZDI-CAN-27256</guid>
+      <pubDate>Thu, 14 Aug 2025 15:04:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-841: (Pwn2Own) Microsoft Windows 11 vhdmp Integer Overflow Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-841/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): CVE-2025-53723; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by exploiting an integer overflow in the Virtual Hard Disk Miniport driver, resulting in an elevated SYSTEM context. An attacker must first obtain low-privileged code execution to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-27235</guid>
+      <pubDate>Thu, 14 Aug 2025 15:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-842: (Pwn2Own) Microsoft Windows Exposed Dangerous Function Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-842/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-53156; Summary: The vulnerability allows local attackers to disclose sensitive information on affected installations of Microsoft Windows. An attacker must execute low-privileged code to exploit this vulnerability, which exists within the Windows Storage Port Driver due to an exposed dangerous function.</description>
+      <guid isPermaLink="false">ZDI-CAN-27171</guid>
+      <pubDate>Thu, 14 Aug 2025 15:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-843: (Pwn2Own) Microsoft Windows win32kbase Type Confusion Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-843/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-50168; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by exploiting a type confusion condition in the win32kbase driver. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability, which can result in arbitrary code execution in the context of SYSTEM.</description>
+      <guid isPermaLink="false">ZDI-CAN-27188</guid>
+      <pubDate>Thu, 14 Aug 2025 15:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-844: Microsoft Windows Subsystem for Linux WslCoreVm::Initialize Incorrect Privilege Management Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-844/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-53788; Summary: This vulnerability allows local attackers to read arbitrary files on affected installations of Microsoft Windows, requiring low-privileged code execution. The issue exists within WslCoreVm::Initialize method due to incorrect privilege management.</description>
+      <guid isPermaLink="false">ZDI-CAN-27541</guid>
+      <pubDate>Thu, 14 Aug 2025 15:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-845: (Pwn2Own) Microsoft Windows win32kfull Race Condition Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-845/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-53132; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the win32kfull driver due to a lack of proper locking when performing operations on an object.</description>
+      <guid isPermaLink="false">ZDI-CAN-27174</guid>
+      <pubDate>Thu, 14 Aug 2025 15:03:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Booking.com phishing campaign uses sneaky 'ん' character to trick you</title>
+      <link>https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/</link>
+      <description>Threat actors are exploiting the Japanese hiragana character "ん" (Unicode U+3093) in a new phishing campaign, making URLs appear realistic to a casual glance. The attack creates fake Booking.com links that direct users to malicious sites, delivering malware and potentially leading to infostealers or remote access trojans.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/</guid>
+      <pubDate>Thu, 14 Aug 2025 14:23:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Theft Replaces Encryption: Blue Report 2025 on Ransomware &amp; Infostealers</title>
+      <link>https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/</link>
+      <description>The article discusses the evolving threat landscape, revealing that ransomware operators and infostealer campaigns focus on credential theft, data exfiltration, and lateral movement. It highlights the failure of organizations to detect these tactics, with a 3% prevention rate for data exfiltration, and a 46% success rate for password cracking.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/</guid>
+      <pubDate>Thu, 14 Aug 2025 14:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS</title>
+      <link>https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html</link>
+      <description>The article reports on a command-and-control (C2) framework called CrossC2 being used in attacks to extend Cobalt Strike's functionality to Linux and Apple macOS. The attacks targeted multiple countries, including Japan, and involved the use of custom malware as a loader for Cobalt Strike, as well as various tools such as PsExec, Plink, and Cobalt Strike itself.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html</guid>
+      <pubDate>Thu, 14 Aug 2025 13:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>Canada’s House of Commons investigating data breach after cyberattack</title>
       <link>https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/</link>
@@ -16,6 +93,13 @@
 FYSA: The article reports on a data breach affecting the House of Commons of Canada, where a threat actor exploited a Microsoft vulnerability to gain access to sensitive information. The stolen data could be used to target and impersonate parliamentarians or exploited in scams.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/</guid>
       <pubDate>Thu, 14 Aug 2025 13:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-25256: FortiSIEM Flaw Enables Unauthenticated RCE</title>
+      <link>https://socradar.io/cve-2025-25256-fortisiem-flaw-enables-rce/</link>
+      <description>Vulnerable Product: Fortinet FortiSIEM; CVE(s): CVE-2025-25256; Summary: The vulnerability is an OS command injection flaw (CWE-78) that allows unauthenticated remote attackers to execute arbitrary commands on affected systems. The exploit code has been identified in the wild, making it critical for organizations using vulnerable versions to act fast and upgrade or migrate to supported releases.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062655</guid>
+      <pubDate>Thu, 14 Aug 2025 12:53:32 +0000</pubDate>
     </item>
     <item>
       <title>CISA Publishes Operational Technology Guide for Critical Infrastructure Stakeholders</title>
@@ -1333,90 +1417,6 @@ Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vu
       <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8643; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices. Authentication is not required to exploit this vulnerability, and the issue results from a lack of proper validation of a user-supplied string before using it to execute a system call.</description>
       <guid isPermaLink="false">ZDI-CAN-26266</guid>
       <pubDate>Wed, 13 Aug 2025 13:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-792: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-792/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8644; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The flaw exists in the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls, allowing attackers to execute code with root privileges.</description>
-      <guid isPermaLink="false">ZDI-CAN-26267</guid>
-      <pubDate>Wed, 13 Aug 2025 13:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-793: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-793/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8645; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices. Authentication is not required to exploit this vulnerability, and it exists within the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls.</description>
-      <guid isPermaLink="false">ZDI-CAN-26268</guid>
-      <pubDate>Wed, 13 Aug 2025 13:17:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-794: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-794/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8646; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The flaw exists within the firmware update process due to improper validation of user-supplied strings before executing system calls.</description>
-      <guid isPermaLink="false">ZDI-CAN-26269</guid>
-      <pubDate>Wed, 13 Aug 2025 13:17:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-795: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-795/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8647; Summary: The Kenwood DMX958XR firmware update process contains a command injection vulnerability that allows physically present attackers to execute arbitrary code on affected devices without authentication. The vulnerability arises from the lack of proper validation of user-supplied strings before executing system calls, enabling attackers to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26270</guid>
-      <pubDate>Wed, 13 Aug 2025 13:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-796: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-796/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8648; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The issue exists within the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls, allowing attackers to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26271</guid>
-      <pubDate>Wed, 13 Aug 2025 13:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-797: (0Day) (Pwn2Own) Kenwood DMX958XR JKWifiService Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-797/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8649; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The issue exists within the JKWifiService due to a lack of proper validation of user-supplied strings before executing system calls, allowing attackers to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26305</guid>
-      <pubDate>Wed, 13 Aug 2025 13:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-798: (0Day) (Pwn2Own) Kenwood DMX958XR libSystemLib Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-798/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8650; Summary: The vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. It exists within the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls, allowing attackers to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26306</guid>
-      <pubDate>Wed, 13 Aug 2025 13:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-799: (0Day) (Pwn2Own) Kenwood DMX958XR JKWifiService Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-799/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8651; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The issue exists within the JKWifiService due to a lack of proper validation of user-supplied strings before executing system calls, enabling code execution in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26307</guid>
-      <pubDate>Wed, 13 Aug 2025 13:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-800: (0Day) (Pwn2Own) Kenwood DMX958XR JKWifiService Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-800/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8652; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices. Authentication is not required to exploit this vulnerability, and the issue results from a lack of proper validation of user-supplied strings before using them to execute system calls.</description>
-      <guid isPermaLink="false">ZDI-CAN-26311</guid>
-      <pubDate>Wed, 13 Aug 2025 13:15:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-801: (0Day) (Pwn2Own) Kenwood DMX958XR JKRadioService Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-801/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8653; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Kenwood DMX958XR, without requiring authentication. The issue is a stack-based buffer overflow in the JKRadioService, resulting from improper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26312</guid>
-      <pubDate>Wed, 13 Aug 2025 13:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-802: (0Day) (Pwn2Own) Kenwood DMX958XR ReadMVGImage Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-802/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8654; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. It occurs in the ReadMVGImage function due to a lack of proper validation of user-supplied strings before executing system calls, allowing an attacker to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26313</guid>
-      <pubDate>Wed, 13 Aug 2025 13:14:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-803: (0Day) (Pwn2Own) Kenwood DMX958XR libSystemLib Command injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-803/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8655, ZDI-CAN-26314; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The issue exists within the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls.</description>
-      <guid isPermaLink="false">ZDI-CAN-26314</guid>
-      <pubDate>Wed, 13 Aug 2025 13:14:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
