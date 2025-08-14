@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 17:16:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 18:18:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Crypto24 ransomware hits large orgs with custom EDR evasion tool</title>
+      <link>https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/</link>
+      <description>Crypto24 ransomware group uses custom utilities to evade security solutions, exfiltrate data, and encrypt files. The group has been identified using default administrative accounts on Windows systems, creating malicious services and tasks, and disabling security agents from multiple vendors.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/</guid>
+      <pubDate>Thu, 14 Aug 2025 17:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>New NFC-Based PhantomCard Malware Targets Android Banking Users</title>
+      <link>https://gbhackers.com/new-nfc-based-phantomcard-malware/</link>
+      <description>PhantomCard is a sophisticated NFC-based Trojan designed to relay sensitive card data from victims' devices to cybercriminals. It operates by masquerading as a legitimate "card protection" app and exploits the NFC reader in modern Android devices, focusing on the ISO-DEP protocol standard used in EMV contactless cards.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156786</guid>
+      <pubDate>Thu, 14 Aug 2025 17:14:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Use Advanced Tactics to Personalize Phishing for Malware Delivery</title>
       <link>https://gbhackers.com/threat-actors-use-advanced-tactics/</link>
@@ -1411,20 +1425,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-748, ZDI-CAN-25657; Summary: The vulnerability allows remote attackers to bypass authentication on affected installations of QNAP QHora-322 routers without requiring authentication. The issue results from the use of a hard-coded cryptographic key, which can be exploited in conjunction with other vulnerabilities to bypass system authentication.</description>
       <guid isPermaLink="false">ZDI-CAN-25657</guid>
       <pubDate>Wed, 13 Aug 2025 13:31:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-749: (Pwn2Own) QNAP QHora-322 qfirewall Improper Restriction of Communication Channel to Intended Endpoints Firewall Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-749/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-749, ZDI-CAN-25596; Summary: This vulnerability allows network-adjacent attackers to bypass firewall rules on affected installations of QNAP QHora-322 routers without authentication. The flaw exists within the implementation of firewall rules, resulting from failing to bind LAN IP ranges to the LAN interfaces.</description>
-      <guid isPermaLink="false">ZDI-CAN-25596</guid>
-      <pubDate>Wed, 13 Aug 2025 13:31:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-750: (Pwn2Own) QNAP QHora-322 lionic_dpi parseMIME Out-of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-750/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-750, ZDI-CAN-25624; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of QNAP QHora-322 routers without authentication. The flaw exists within the parseMIME method due to improper validation of user-supplied data, which can result in a write past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-25624</guid>
-      <pubDate>Wed, 13 Aug 2025 13:31:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
