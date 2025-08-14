@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 15:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 16:28:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks</title>
+      <link>https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</link>
+      <description>Vulnerable Product: Apache Tomcat; CVE(s): CVE-2025-48989, None (for other impacted products); Summary: MadeYouReset is an attack technique that bypasses server-imposed limits on HTTP/2 requests, allowing thousands of concurrent requests and inducing denial-of-service (DoS) attacks. The vulnerability takes advantage of stream errors and the use of RST_STREAM frames to trigger protocol violations in unexpected ways, prompting the server to reset streams and exhaust resources.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</guid>
+      <pubDate>Thu, 14 Aug 2025 15:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-838: (Pwn2Own) Microsoft Windows 11 vhdmp Use-After-Free Local Privilege Escalation Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-838/</link>
@@ -114,6 +121,147 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <description>Vulnerable Product: Microsoft IIS Web Deploy; CVE(s): CVE-2025-53772; Summary: The vulnerability allows authenticated attackers with low-level privileges to potentially gain complete control over vulnerable systems by exploiting the deserialization process, allowing remote code execution. This flaw stems from improper deserialization of untrusted data within the Web Deploy framework and affects the core functionality of Web Deploy, making it a significant security concern for organizations using IIS Web Deploy.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156761</guid>
       <pubDate>Thu, 14 Aug 2025 12:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens BFCClient</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-21</link>
+      <description>Siemens will no longer update ICS security advisories for vulnerabilities beyond the initial advisory as of January 10, 2023. The vulnerabilities affect BFCClient versions prior to 2.17 and are related to buffer copy without checking size of input, out-of-bounds read, loop with unreachable exit condition, access of resource using incompatible type, and improper certificate validation. Successful exploitation could allow an attacker to read memory contents, change application behavior, or create a denial-of-service condition.</description>
+      <guid isPermaLink="false">/node/23789</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMOTION SCOUT, SIMOTION SCOUT TIA, and SINAMICS STARTER</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-18</link>
+      <description>Vulnerable Product: Siemens SIMOTION SCOUT, SIMOTION SCOUT TIA, SINAMICS STARTER; CVE(s): CVE-2025-40584; Summary: The affected application contains a XML External Entity Injection (XXE) vulnerability while parsing specially crafted XML files. Successful exploitation could allow an attacker to read arbitrary files in the system.</description>
+      <guid isPermaLink="false">/node/23786</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Micro800</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-25</link>
+      <description>Vulnerable Product: Rockwell Automation Micro800; CVE(s): CVE-2023-48691, CVE-2023-48692, CVE-2023-48693, CVE-2025-7693; Summary: The Rockwell Automation Micro800 has several vulnerabilities that allow for remote code execution or privilege escalation due to improper input validation and dependency on vulnerable third-party components.</description>
+      <guid isPermaLink="false">/node/23793</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation Studio 5000 Logix Designer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-29</link>
+      <description>Vulnerable Product: Rockwell Automation Studio 5000 Logix Designer; CVE(s): CVE-2025-7971; Summary: Successful exploitation of this vulnerability could allow an attacker to crash the device or execute malicious code. The vulnerability exists due to improper input validation and affects versions 36.00.02 to 37.00.02.</description>
+      <guid isPermaLink="false">/node/23797</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SICAM Q100/Q200</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-16</link>
+      <description>Vulnerable Product: Siemens SICAM Q100 and Q200; CVE(s): CVE-2025-40752, CVE-2025-40753; Summary: Cleartext storage of sensitive information in Siemens POWER METER SICAM Q100 and Q200 allows an authenticated local attacker to extract the SMTP account password and use the configured SMTP service for arbitrary purposes.</description>
+      <guid isPermaLink="false">/node/23784</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation 1756-ENT2R, 1756-EN4TR, 1756-EN4TRXT</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-31</link>
+      <description>Vulnerable Product: Rockwell Automation; CVE(s): CVE-2025-8007, CVE-2025-8008; Summary: Improper input validation and improper handling of exceptional conditions vulnerabilities in 1756-ENT2R, 1756-EN4TR, and 1756-EN4TRXT communication modules can lead to denial-of-service condition.</description>
+      <guid isPermaLink="false">/node/23799</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk Viewpoint</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-266-23</link>
+      <description>Vulnerable Product: Rockwell Automation FactoryTalk Viewpoint; CVE(s): CVE-2025-7973; Summary: The vulnerability exists due to improper handling of MSI repair operations, allowing attackers to hijack the cscript.exe console window and spawn an elevated command prompt, enabling full privilege escalation.</description>
+      <guid isPermaLink="false">/node/23791</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINUMERIK</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-19</link>
+      <description>Vulnerable Product: Siemens SINUMERIK series; CVE(s): CVE-2025-40743; Summary: The SINUMERIK VNC access service has an authentication bypass vulnerability, allowing unauthorized remote access and potentially compromising system confidentiality, integrity, or availability.</description>
+      <guid isPermaLink="false">/node/23787</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FactoryTalk Action Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-30</link>
+      <description>Vulnerable Product: Rockwell Automation FactoryTalk Action Manager; CVE(s): CVE-2025-7532; Summary: Exposure of sensitive information to an unauthorized actor allows a local unauthenticated attacker to listen to communications and manipulate the device. Successful exploitation could allow manipulation of the device. The vulnerability is exploitable locally, but not remotely.</description>
+      <guid isPermaLink="false">/node/23798</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC OS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-15</link>
+      <description>The article appears to be a collection of CVEs (Common Vulnerabilities and Exposures) resolved in the Linux kernel. There are 37 CVEs listed, each with its own CVSS score (v3.1) and vector string indicating the severity and characteristics of the vulnerability.</description>
+      <guid isPermaLink="false">/node/23783</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation FLEX 5000 I/O</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-26</link>
+      <description>Vulnerable Product: Rockwell Automation FLEX 5000 I/O; CVE(s): CVE-2025-7861, CVE-2025-7862; Summary: Improper input validation vulnerabilities in the FLEX 5000 I/O equipment allow for denial-of-service attacks. Exploitation can cause a module to enter a fault state with the Module LED flashing red, and the module cannot recover without a power cycle.</description>
+      <guid isPermaLink="false">/node/23794</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Third-Party Components in SINEC OS</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-07</link>
+      <description>FYSA:
+
+The provided article appears to be a collection of Linux kernel vulnerabilities. The vulnerabilities listed are related to various components such as scsi, mptcp, iommu, and others.
+
+Each vulnerability is assigned a CVE (Common Vulnerabilities and Exposures) identifier, and the corresponding base CVSS (Common Vulnerability Scoring System) score is provided. The article does not specify which Linux kernel versions are affected by these vulnerabilities or provide detailed descriptions of each issue.
+
+Without further information, it is difficult to determine which specific products or systems may be vulnerable to these issues.</description>
+      <guid isPermaLink="false">/node/23775</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ControlLogix Ethernet Modules</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-28</link>
+      <description>Vulnerable Product: Rockwell Automation ControlLogix Ethernet Modules; CVE(s): CVE-2025-7353; Summary: The initialization of a resource with an insecure default in the web-based debugger agent of affected Rockwell Automation ControlLogix Ethernet Modules allows remote attackers to perform memory dumps, modify memory, and control execution flow. Exploitation could occur through a specific IP address connection to the WDB agent.</description>
+      <guid isPermaLink="false">/node/23796</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell Automation ArmorBlock 5000 I/O - Webserver</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-27</link>
+      <description>Vulnerable Product: Rockwell Automation ArmorBlock 5000 I/O; CVE(s): CVE-2025-7773, CVE-2025-7774; Summary: The ArmorBlock 5000 I/O's webserver has two vulnerabilities that allow an attacker to predict session numbers or perform privileged actions. Exploitation of these vulnerabilities could result in unauthorized access and performance of privileged actions.</description>
+      <guid isPermaLink="false">/node/23795</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Web Installer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-22</link>
+      <description>Vulnerable Product: 
+
+This is an advisory from CISA regarding a vulnerability in Siemens products. The vulnerability allows for local access exploitation, and no remote exploit is known at this time. The affected products include various software and system components, such as Automation License Manager, SIMATIC PCS 7, SIMATIC S7-PLCSIM, and others.</description>
+      <guid isPermaLink="false">/node/23790</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM ROX II</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-20</link>
+      <description>Vulnerable Product: Siemens RUGGEDCOM ROX II family; CVE(s): CVE-2025-40761; Summary: The vulnerability allows a local attacker to bypass authentication and access a root shell on the device by exploiting an alternate path or channel, affecting devices that do not properly limit access through their Built-In-Self-Test (BIST) mode. Successful exploitation could allow unauthorized access to the device.</description>
+      <guid isPermaLink="false">/node/23788</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SIMATIC RTLS Locating Manager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-01</link>
+      <description>Vulnerable Product: Siemens SIMATIC RTLS Locating Manager; CVE(s): CVE-2025-30034, CVE-2025-40751; Summary: The vulnerabilities in the SIMATIC RTLS Locating Manager allow an unauthenticated local attacker to cause a denial of service condition or escalate to higher access rights.</description>
+      <guid isPermaLink="false">/node/23769</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens SINEC Traffic Analyzer</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-266-17</link>
+      <description>Vulnerable Product: Siemens SINEC Traffic Analyzer (6GK8822-1BG01-0BA0); CVE(s): CVE-2024-24989, CVE-2024-24990, CVE-2025-40766, CVE-2025-40767, CVE-2025-40768, CVE-2025-40769; Summary: Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition or gain elevated access and access to sensitive resources. The vulnerabilities include NULL Pointer Dereference, Use After Free, Uncontrolled Resource Consumption, Execution with Unnecessary Privileges, Exposure of Sensitive Information to an Unauthorized Actor, Irrelevant Code, and Channel Accessible by Non-Endpoint.</description>
+      <guid isPermaLink="false">/node/23785</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell FactoryTalk Linx</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-266-24</link>
+      <description>Vulnerable Product: Rockwell Automation FactoryTalk Linx; CVE(s): CVE-2025-7972; Summary: Improper access control in the FactoryTalk Linx Network Browser allows an attacker to disable FTSP token validation, enabling creation, update, and deletion of FTLinx drivers.</description>
+      <guid isPermaLink="false">/node/23792</guid>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>FireWood Malware Targets Linux Systems for Command Execution and Data Theft</title>
@@ -1275,148 +1423,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-54987; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trend Micro Apex One without authentication. The issue occurs due to a lack of proper validation of user-supplied strings before executing system calls, enabling an attacker to execute code in the context of IUSR.</description>
       <guid isPermaLink="false">ZDI-CAN-27855</guid>
       <pubDate>Wed, 13 Aug 2025 13:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-773: (0Day) Google Drive File Sharing Mark-of-the-Web Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-773/</link>
-      <description>Vulnerable Product: Google Drive; CVE(s): ZDI-25-773, ZDI-CAN-24742; Summary: The vulnerability allows remote attackers to bypass the Mark-of-the-Web protection mechanism on affected installations of Google Drive. User interaction is required to exploit this vulnerability, and the specific flaw exists within the Google Drive desktop application for Windows.</description>
-      <guid isPermaLink="false">ZDI-CAN-24742</guid>
-      <pubDate>Wed, 13 Aug 2025 13:24:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-774: (0Day) Google Drive ZIP File Mark-of-the-Web Bypass Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-774/</link>
-      <description>Vulnerable Product: Google Drive; CVE(s): ZDI-CAN-24741, ZDI-25-774; Summary: This vulnerability allows remote attackers to bypass the Mark-of-the-Web protection mechanism on affected installations of Google Drive. User interaction is required to exploit this vulnerability, which exists within the handling of ZIP archives and can lead to arbitrary code execution in the context of the current user.</description>
-      <guid isPermaLink="false">ZDI-CAN-24741</guid>
-      <pubDate>Wed, 13 Aug 2025 13:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-775: (0Day) Google Chrome SwiftShader Out-Of-Bound Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-775/</link>
-      <description>Vulnerable Product: Google Chrome; CVE(s): ZDI-CAN-25494, None; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Google Chrome. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the implementation of the WebGPU API.</description>
-      <guid isPermaLink="false">ZDI-CAN-25494</guid>
-      <pubDate>Wed, 13 Aug 2025 13:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-776: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-776/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8628; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The flaw exists within the firmware update process due to a lack of proper validation of user-supplied strings, allowing attackers to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26064</guid>
-      <pubDate>Wed, 13 Aug 2025 13:23:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-777: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-777/</link>
-      <description>Vulnerable Product: Kenwood; DMX958XR; CVE(s): CVE-2025-8629; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The flaw exists in the firmware update process due to lack of proper validation of user-supplied strings before executing system calls, enabling root-level code execution.</description>
-      <guid isPermaLink="false">ZDI-CAN-26252</guid>
-      <pubDate>Wed, 13 Aug 2025 13:22:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-778: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-778/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8630; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication, exploiting the firmware update process by not properly validating a user-supplied string before executing a system call. An attacker can leverage this vulnerability to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26253</guid>
-      <pubDate>Wed, 13 Aug 2025 13:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-779: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-779/</link>
-      <description>Vulnerable Product: Kenwood; DMX958XR; CVE(s): CVE-2025-8631; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The issue exists in the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls, enabling attackers to execute code with root privileges.</description>
-      <guid isPermaLink="false">ZDI-CAN-26254</guid>
-      <pubDate>Wed, 13 Aug 2025 13:22:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-780: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-780/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8632; Summary: The vulnerability allows physically present attackers to execute arbitrary code on affected installations, with no authentication required. It exists within the firmware update process due to lack of proper validation of a user-supplied string before executing a system call. An attacker can leverage this to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26255</guid>
-      <pubDate>Wed, 13 Aug 2025 13:21:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-781: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-781/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8633; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The flaw exists in the firmware update process and results from a lack of proper validation of a user-supplied string before executing a system call. An attacker can leverage this vulnerability to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26256</guid>
-      <pubDate>Wed, 13 Aug 2025 13:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-782: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-782/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8634; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices. Authentication is not required to exploit this vulnerability, and the issue results from the lack of proper validation of a user-supplied string before using it to execute a system call.</description>
-      <guid isPermaLink="false">ZDI-CAN-26257</guid>
-      <pubDate>Wed, 13 Aug 2025 13:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-783: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-783/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8635; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The flaw exists within the firmware update process due to a lack of proper validation of a user-supplied string before executing a system call, enabling an attacker to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26258</guid>
-      <pubDate>Wed, 13 Aug 2025 13:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-784: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-784/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8636; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication, leveraging a command injection flaw in the firmware update process due to lack of proper validation of user-supplied strings.</description>
-      <guid isPermaLink="false">ZDI-CAN-26259</guid>
-      <pubDate>Wed, 13 Aug 2025 13:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-785: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-785/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8637; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The flaw exists within the firmware update process, allowing an attacker to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26260</guid>
-      <pubDate>Wed, 13 Aug 2025 13:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-786: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-786/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8638; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices. Authentication is not required to exploit this vulnerability, and the issue results from the lack of proper validation of a user-supplied string before using it to execute a system call.</description>
-      <guid isPermaLink="false">ZDI-CAN-26261</guid>
-      <pubDate>Wed, 13 Aug 2025 13:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-787: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-787/</link>
-      <description>Vulnerable Product: Kenwood; DMX958XR; CVE(s): CVE-2025-8639; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected Kenwood DMX958XR devices without authentication. The flaw exists within the firmware update process, resulting from a lack of proper validation of user-supplied strings before executing system calls. An attacker can leverage this vulnerability to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-26262</guid>
-      <pubDate>Wed, 13 Aug 2025 13:19:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-788: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-788/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE-2025-8640; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices without authentication. The flaw exists within the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls, allowing attackers to run code with root privileges.</description>
-      <guid isPermaLink="false">ZDI-CAN-26263</guid>
-      <pubDate>Wed, 13 Aug 2025 13:19:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws</title>
-      <link>https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html</link>
-      <description>Vulnerable Product: Zoom; CVE(s): CVE-2025-49457; Summary: The vulnerability in Zoom Clients for Windows allows an unauthenticated user to conduct privilege escalation via network access, with a CVSS score of 9.6. Affected products include Zoom Workplace, Zoom Workplace VDI, Zoom Rooms, and Zoom Meeting SDK, all before version 6.3.10.
-
-Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vulnerabilities in Xerox FreeFlow Core include an XML External Entity (XXE) injection vulnerability leading to server-side request forgery (SSRF), and a path traversal vulnerability leading to remote code execution. Both issues have been addressed in version 8.0.4, with CVSS scores of 7.5 and 9.8, respectively.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html</guid>
-      <pubDate>Wed, 13 Aug 2025 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-789: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-789/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8641; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices, with no authentication required. The flaw exists within the firmware update process due to lack of proper validation of a user-supplied string before using it to execute a system call.</description>
-      <guid isPermaLink="false">ZDI-CAN-26264</guid>
-      <pubDate>Wed, 13 Aug 2025 13:18:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-790: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-790/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8642; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices, without requiring authentication. The flaw exists within the firmware update process due to a lack of proper validation of user-supplied strings before executing system calls.</description>
-      <guid isPermaLink="false">ZDI-CAN-26265</guid>
-      <pubDate>Wed, 13 Aug 2025 13:18:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-791: (0Day) Kenwood DMX958XR Firmware Update Command Injection Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-791/</link>
-      <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8643; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DMX958XR devices. Authentication is not required to exploit this vulnerability, and the issue results from a lack of proper validation of a user-supplied string before using it to execute a system call.</description>
-      <guid isPermaLink="false">ZDI-CAN-26266</guid>
-      <pubDate>Wed, 13 Aug 2025 13:18:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
