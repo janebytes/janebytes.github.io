@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 11:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 12:03:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>FireWood Malware Targets Linux Systems for Command Execution and Data Theft</title>
+      <link>https://gbhackers.com/firewood-malware-targets-linux-systems/</link>
+      <description>Vulnerable Product: FireWood backdoor; CVE(s): None; Summary: The article describes a new variant of the FireWood Linux-based remote access trojan (RAT), which deploys kernel-level rootkit modules, enables attackers to execute arbitrary commands, exfiltrates sensitive data, and maintains long-term persistence. The new variant retains core functionalities but introduces refinements in implementation and configuration, enhancing its evasion and operational efficiency without altering the fundamental protocol.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156597</guid>
+      <pubDate>Thu, 14 Aug 2025 11:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have You Turned Off Your Virtual Oven?</title>
+      <link>https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html</link>
+      <description>The article discusses the importance of External Attack Surface Management (EASM) and Digital Risk Protection (DRP) in monitoring and securing an organization's internet-facing assets. It highlights the challenges of manually verifying asset exposure and the benefits of using automated tools to detect and prevent security incidents.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html</guid>
+      <pubDate>Thu, 14 Aug 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits</title>
+      <link>https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html</link>
+      <description>Vulnerable Product: Go1ano developer; CVE(s): None; Summary: The PhantomCard Android trojan abuses NFC to conduct relay attacks, facilitating fraudulent transactions targeting banking customers in Brazil. It requests victims to place their credit/debit card on the back of their phone and then relays the card data to an attacker-controlled NFC relay server, allowing the cybercriminal to use the victim's card as if it was in their hands.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html</guid>
+      <pubDate>Thu, 14 Aug 2025 11:06:00 +0000</pubDate>
+    </item>
     <item>
       <title>Leak: OpenAI's browser will use ChatGPT Agent to control the browser</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/</link>
@@ -1394,27 +1415,6 @@ Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vu
       <description>Vulnerable Product: AOMEI; Backupper Workstation; CVE(s): CVE-2025-8612; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of AOMEI Backupper Workstation by creating a junction and abusing the restore functionality. An attacker must obtain low-privileged code execution and user interaction from an administrator to exploit this vulnerability, which can be used to execute arbitrary code in the context of SYSTEM.</description>
       <guid isPermaLink="false">ZDI-CAN-27059</guid>
       <pubDate>Wed, 13 Aug 2025 13:13:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-807: (0Day) AOMEI Cyber Backup Missing Authentication for Critical Function Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-807/</link>
-      <description>Vulnerable Product: AOMEI Cyber Backup; CVE(s): CVE-2025-8611; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of AOMEI Cyber Backup without authentication. The issue exists within the DaoService service, which listens on TCP port 9074 by default, and can be exploited to execute code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26158</guid>
-      <pubDate>Wed, 13 Aug 2025 13:12:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-808: (0Day) AOMEI Cyber Backup Missing Authentication for Critical Function Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-808/</link>
-      <description>Vulnerable Product: AOMEI Cyber Backup; CVE(s): CVE-2025-8610; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of AOMEI Cyber Backup without authentication, allowing an attacker to execute code in the context of SYSTEM. The flaw exists within the StorageNode service, which listens on TCP port 9075 by default.</description>
-      <guid isPermaLink="false">ZDI-CAN-26156</guid>
-      <pubDate>Wed, 13 Aug 2025 13:12:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-809: (0Day) Microsoft Exchange PowerShell Exposed Dangerous Method NTLM Relay Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-809/</link>
-      <description>Vulnerable Product: Microsoft Exchange; CVE(s): ZDI-25-809, ZDI-CAN-23450; Summary: This vulnerability allows remote attackers to relay NTLM credentials on affected installations of Microsoft Exchange. Authentication is required to exploit this vulnerability, which exists within the PowerShell backend due to an exposed dangerous method.</description>
-      <guid isPermaLink="false">ZDI-CAN-23450</guid>
-      <pubDate>Wed, 13 Aug 2025 13:12:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
