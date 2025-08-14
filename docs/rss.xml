@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 12:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 13:01:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CISA Publishes Operational Technology Guide for Critical Infrastructure Stakeholders</title>
+      <link>https://gbhackers.com/cisa-publishes-operational-technology-guide/</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has released a comprehensive guide, "Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators," to help critical infrastructure stakeholders develop and maintain operational technology (OT) asset inventories and taxonomies. The guide provides best practices for creating an OT taxonomy and highlights the importance of integrating the inventory into broader cybersecurity and risk management efforts.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156799</guid>
+      <pubDate>Thu, 14 Aug 2025 12:26:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft IIS Web Deploy Vulnerability Allows Remote Code Execution</title>
+      <link>https://gbhackers.com/microsoft-iis-web-deploy-vulnerability/</link>
+      <description>Vulnerable Product: Microsoft IIS Web Deploy; CVE(s): CVE-2025-53772; Summary: The vulnerability allows authenticated attackers with low-level privileges to potentially gain complete control over vulnerable systems by exploiting the deserialization process, allowing remote code execution. This flaw stems from improper deserialization of untrusted data within the Web Deploy framework and affects the core functionality of Web Deploy, making it a significant security concern for organizations using IIS Web Deploy.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156761</guid>
+      <pubDate>Thu, 14 Aug 2025 12:09:14 +0000</pubDate>
+    </item>
     <item>
       <title>FireWood Malware Targets Linux Systems for Command Execution and Data Theft</title>
       <link>https://gbhackers.com/firewood-malware-targets-linux-systems/</link>
@@ -1401,20 +1415,6 @@ Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vu
       <description>Vulnerable Product: Kenwood DMX958XR; CVE(s): CVE-2025-8656; Summary: This vulnerability allows physically present attackers to downgrade software on affected installations of Kenwood DMX958XR devices, without requiring authentication. The issue results from the lack of proper validation of version information before performing an update, allowing an attacker to execute arbitrary code in the context of root.</description>
       <guid isPermaLink="false">ZDI-CAN-26355</guid>
       <pubDate>Wed, 13 Aug 2025 13:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-805: (0Day) Vacron Camera ping Command Injection Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-805/</link>
-      <description>Vulnerable Product: Vacron Camera; CVE(s): CVE-2025-8613; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Vacron Camera devices. Authentication is required to exploit this vulnerability, which exists within the webs.cgi endpoint due to a lack of proper validation of user-supplied strings before executing system calls. An attacker can leverage this vulnerability to execute code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-25892</guid>
-      <pubDate>Wed, 13 Aug 2025 13:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-806: (0Day) AOMEI Backupper Workstation Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-806/</link>
-      <description>Vulnerable Product: AOMEI; Backupper Workstation; CVE(s): CVE-2025-8612; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of AOMEI Backupper Workstation by creating a junction and abusing the restore functionality. An attacker must obtain low-privileged code execution and user interaction from an administrator to exploit this vulnerability, which can be used to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-27059</guid>
-      <pubDate>Wed, 13 Aug 2025 13:13:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
