@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 19:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 20:01:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-846: Apple macOS USD importMeshJointWeights Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-846/</link>
+      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31281; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. Interaction with the USD library is required to exploit this vulnerability, and it results from a lack of proper validation of user-supplied data, leading to a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-27058</guid>
+      <pubDate>Thu, 14 Aug 2025 20:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Leverage CrossC2 to Extend Cobalt Strike to Linux and macOS</title>
+      <link>https://gbhackers.com/threat-actors-leverage-crossc2/</link>
+      <description>Vulnerable Product: CrossC2; CVE(s): None; Summary: CrossC2 is an unofficial extension tool that creates Cobalt Strike Beacons that work with Linux and macOS. It was used by threat actors to target Active Directory infrastructures, exploiting Linux servers as potential entry points and capitalizing on the frequent absence of endpoint detection and response (EDR) systems in such environments. The tool integrates custom loaders, including ReadNimeLoader, and employs anti-analysis measures and sophisticated anti-debugging techniques.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156814</guid>
+      <pubDate>Thu, 14 Aug 2025 19:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>PS1Bot: Multi-Stage Malware Framework Targeting Windows Systems</title>
       <link>https://gbhackers.com/ps1bot-multi-stage-malware-framework/</link>
@@ -1411,20 +1425,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-743, ZDI-CAN-25585; Summary: The vulnerability allows remote attackers to escalate privileges on affected installations of QNAP TS-464 devices. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed due to a lack of proper validation of a user-supplied string before using it to execute a system call.</description>
       <guid isPermaLink="false">ZDI-CAN-25585</guid>
       <pubDate>Wed, 13 Aug 2025 13:33:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-745: (Pwn2Own) QNAP TS-464 reset_password.cgi Improper Certificate Validation Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-745/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-745, ZDI-CAN-25644; Summary: This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of QNAP TS-464 devices without authentication. The flaw exists within the reset_password.cgi endpoint due to improper certificate validation.</description>
-      <guid isPermaLink="false">ZDI-CAN-25644</guid>
-      <pubDate>Wed, 13 Aug 2025 13:32:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-746: (Pwn2Own) QNAP TS-464 reset_password.cgi Improper Certificate Validation Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-746/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-746, ZDI-CAN-25645; Summary: This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of QNAP TS-464 devices without requiring authentication. The issue occurs due to improper certificate validation in the reset_password.cgi endpoint. An attacker can exploit this vulnerability to obtain sensitive information related to the device.</description>
-      <guid isPermaLink="false">ZDI-CAN-25645</guid>
-      <pubDate>Wed, 13 Aug 2025 13:32:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
