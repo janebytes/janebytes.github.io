@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 10:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 11:02:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Leak: OpenAI's browser will use ChatGPT Agent to control the browser</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/</link>
+      <description>This article is not about a vulnerability. It discusses OpenAI's upcoming Chromium-based browser and the integration of its AI agent technology, ChatGPT, into the new browser. The article also mentions password cracking trends in a separate report.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/</guid>
+      <pubDate>Thu, 14 Aug 2025 10:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Splunk Publishes Defender’s Guide to Spot ESXi Ransomware Early</title>
+      <link>https://gbhackers.com/splunk-publishes-defenders-guide/</link>
+      <description>The article discusses a comprehensive defender's guide released by Splunk to help cybersecurity teams detect and prevent ransomware attacks targeting ESXi infrastructure. The guide provides instructions for ingesting ESXi logs into the Splunk security platform, as well as analysis of different log types and detection rules targeting common attack behaviors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156692</guid>
+      <pubDate>Thu, 14 Aug 2025 10:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>EncryptHub Turns Brave Support Into a Dropper; MMC Flaw Completes the Run</title>
+      <link>https://gbhackers.com/encrypthub-turns-brave-support-into-a-dropper/</link>
+      <description>Vulnerable Product: Microsoft Management Console (MMC); CVE(s): CVE-2025-26633; Summary: The vulnerability, CVE-2025-26633, enables attackers to execute arbitrary code via manipulated .msc files, allowing EncryptHub to infiltrate systems through a blend of social engineering and technical exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156582</guid>
+      <pubDate>Thu, 14 Aug 2025 10:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Out-of-Box-Experience Flaw Enables Full Administrative Command Prompt Access</title>
+      <link>https://gbhackers.com/windows-out-of-box-experience-flaw/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: A vulnerability in Windows' Out-of-Box-Experience (OOBE) allows users to bypass security restrictions and gain full administrative access to command prompt functionality, even when Microsoft's intended protective measures are in place. The vulnerability enables users to spawn an elevated command shell with administrative privileges through the defaultuser0 account, which maintains membership in the local Administrators group during the initial setup process.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156684</guid>
+      <pubDate>Thu, 14 Aug 2025 10:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘AI Induced Destruction’ – How AI Misuse is Creating New Attack Vectors</title>
+      <link>https://gbhackers.com/ai-induced-destruction/</link>
+      <description>Vulnerable Product: None; Summary: The article discusses a new trend in 2025 where artificial intelligence (AI) assistants designed to boost productivity are inadvertently causing massive system failures and data breaches due to excessive permissions and vague instructions from developers. The incidents involve AI systems misinterpreting ambiguous commands and executing destructive actions with the best intentions, often taking the most efficient but destructive path to completion.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156674</guid>
+      <pubDate>Thu, 14 Aug 2025 10:05:20 +0000</pubDate>
+    </item>
     <item>
       <title>A Mega Malware Analysis Tutorial Featuring Donut-Generated Shellcode</title>
       <link>https://unit42.paloaltonetworks.com/donut-malware-analysis-tutorial/</link>
@@ -1380,41 +1415,6 @@ Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The vu
       <description>Vulnerable Product: Microsoft Exchange; CVE(s): ZDI-25-809, ZDI-CAN-23450; Summary: This vulnerability allows remote attackers to relay NTLM credentials on affected installations of Microsoft Exchange. Authentication is required to exploit this vulnerability, which exists within the PowerShell backend due to an exposed dangerous method.</description>
       <guid isPermaLink="false">ZDI-CAN-23450</guid>
       <pubDate>Wed, 13 Aug 2025 13:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-810: (0Day) Microsoft Windows ZIP File Insufficient UI Warning Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-810/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): ZDI-25-810, ZDI-CAN-23945; Summary: This vulnerability allows remote attackers to bypass the SmartScreen security feature on affected installations of Microsoft Windows by exploiting a ZIP file handling issue. User interaction is required, as the target must visit a malicious page or open a malicious file. An attacker can leverage this vulnerability to execute arbitrary code in the context of the current user.</description>
-      <guid isPermaLink="false">ZDI-CAN-23945</guid>
-      <pubDate>Wed, 13 Aug 2025 13:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-811: (0Day) Microsoft Office OfficeApps Unintended Proxy Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-811/</link>
-      <description>Vulnerable Product: Microsoft Office OfficeApps; CVE(s): ZDI-25-811, ZDI-CAN-23946; Summary: This vulnerability allows remote attackers to host arbitrary documents on a trusted domain used by Microsoft Office. User interaction is required to exploit this vulnerability, and an attacker can leverage it to disclose stored credentials, leading to further compromise.</description>
-      <guid isPermaLink="false">ZDI-CAN-23946</guid>
-      <pubDate>Wed, 13 Aug 2025 13:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-812: (0Day) Microsoft Windows SmartScreen Bypass Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-812/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): ZDI-25-812, ZDI-CAN-23938; Summary: This vulnerability allows remote attackers to bypass the SmartScreen security feature on affected installations of Microsoft Windows. User interaction is required to exploit this vulnerability, and an attacker can leverage it to execute arbitrary code in the context of the current user.</description>
-      <guid isPermaLink="false">ZDI-CAN-23938</guid>
-      <pubDate>Wed, 13 Aug 2025 13:11:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-813: (0Day) Microsoft PowerShell TryModuleAutoLoading Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-813/</link>
-      <description>Vulnerable Product: Microsoft PowerShell; CVE(s): ZDI-25-813, ZDI-CAN-23444; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft PowerShell. The specific flaw exists within the TryModuleAutoLoading method due to a lack of proper validation of a user-supplied path prior to using it in file operations. An attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-23444</guid>
-      <pubDate>Wed, 13 Aug 2025 13:11:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-814: (0Day) Microsoft Windows MonikerLink Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-814/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): ZDI-CAN-23548, ZDI-25-814; Summary: This vulnerability allows remote attackers to relay NTLM credentials on affected installations of Microsoft Windows. User interaction is required to exploit this vulnerability, and the specific flaw exists within the handling of redirections. An attacker can leverage this vulnerability to relay NTLM credentials in the context of the current user.</description>
-      <guid isPermaLink="false">ZDI-CAN-23548</guid>
-      <pubDate>Wed, 13 Aug 2025 13:10:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
