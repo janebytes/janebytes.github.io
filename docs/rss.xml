@@ -6,8 +6,78 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 22:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 10:09:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>VirtualBox 7.2 Adds Windows 11/Arm VM Support and Key Bug Fixes</title>
+      <link>https://gbhackers.com/virtualbox-7-2-adds-windows-11-arm-vm-support/</link>
+      <description>The article discusses the release of VirtualBox 7.2.0, a major update that enhances ARM virtualization capabilities and introduces comprehensive Windows 11/ARM support. The update also includes performance enhancements, interface redesigns, and addresses critical issues.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156953</guid>
+      <pubDate>Fri, 15 Aug 2025 09:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>HexStrike AI Links ChatGPT, Claude, and Copilot to 150+ Security Tools</title>
+      <link>https://gbhackers.com/hexstrike-ai-links-security-tools/</link>
+      <description>This article is about the integration of ChatGPT, Claude, and GitHub Copilot with HexStrike AI's autonomous cybersecurity framework. It enables these AI agents to orchestrate over 150 professional security tools for comprehensive penetration testing and vulnerability intelligence.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156948</guid>
+      <pubDate>Fri, 15 Aug 2025 09:12:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto GlobalProtect Vulnerability Allows Privilege Escalation via Certificate Bypass</title>
+      <link>https://gbhackers.com/palo-alto-globalprotect-vulnerability/</link>
+      <description>Vulnerable Product: Palo Alto Networks GlobalProtect App; CVE(s): CVE-2025-2183; Summary: A vulnerability in the GlobalProtect app allows attackers to escalate privileges, install malicious software, and bypass security controls by exploiting improper certificate validation. The flaw affects multiple versions of the VPN client across Windows and Linux platforms, with Windows and Linux systems bearing the primary risk.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156944</guid>
+      <pubDate>Fri, 15 Aug 2025 08:58:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>US sanctions Grinex crypto-exchange, successor to Garantex</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/</link>
+      <description>The U.S. Department of the Treasury has announced sanctions against Grinex, a cryptocurrency exchange suspected to be a rebrand of previously sanctioned Garantex, which was linked to ransomware gangs and laundered money for cybercriminals. The sanctions also target three co-founders and six partner companies allegedly involved with Garantex.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/</guid>
+      <pubDate>Fri, 15 Aug 2025 08:46:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Source Code of ERMAC V3.0 Malware Exposed by ‘changemeplease’ Password</title>
+      <link>https://gbhackers.com/source-code-of-ermac-v3-0-malware-exposed/</link>
+      <description>Vulnerable Product: ERMAC V3.0; CVE(s): None; Summary: The complete source code of ERMAC V3.0, a sophisticated banking trojan, was exposed due to a weak default password "changemeplease". The leak reveals multiple critical security flaws, including hardcoded JWT secret token, static admin bearer token, and default root credentials, which can be exploited to disrupt ERMAC operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156918</guid>
+      <pubDate>Fri, 15 Aug 2025 08:46:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Best Managed Detection And Response (MDR) Companies in 2025</title>
+      <link>https://gbhackers.com/managed-detection-and-response-mdr-companies/</link>
+      <description>I have analyzed the article and it does not appear to be discussing a specific software, hardware, or firmware vulnerability. Instead, it appears to be an overview of different Managed Detection and Response (MDR) services offered by various cybersecurity companies. The article provides information about each company's MDR offerings, highlighting their unique features, strengths, and approaches.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149736</guid>
+      <pubDate>Fri, 15 Aug 2025 07:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Secure Firewall Snort 3 Vulnerability Enable DoS Attacks</title>
+      <link>https://gbhackers.com/cisco-secure-firewall-snort-3-vulnerability/</link>
+      <description>Vulnerable Product: Cisco Secure Firewall Threat Defense Software; CVE(s): CVE-2025-20217; Summary: The vulnerability in the Snort 3 Detection Engine allows unauthenticated remote attackers to launch denial of service (DoS) attacks, potentially disrupting critical network operations. Exploitation involves sending specially crafted traffic through the affected device, causing an infinite loop during packet inspection, and can be mitigated only by applying available security updates.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156910</guid>
+      <pubDate>Fri, 15 Aug 2025 07:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution</title>
+      <link>https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html</link>
+      <description>Vulnerable Product: Cisco Secure Firewall Management Center (FMC) Software; CVE(s): CVE-2025-20265; Summary: The vulnerability affects the RADIUS subsystem implementation and could permit an unauthenticated, remote attacker to inject arbitrary shell commands that are executed by the device. A successful exploit could allow the attacker to execute commands at a high privilege level, requiring Cisco Secure FMC Software to be configured for RADIUS authentication for the web-based management interface, SSH management, or both.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html</guid>
+      <pubDate>Fri, 15 Aug 2025 06:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HTTP/2 MadeYouReset Vulnerability Enables Massive DDoS Attacks</title>
+      <link>https://gbhackers.com/http-2-madeyoureset-vulnerability/</link>
+      <description>Vulnerable Product: HTTP/2 protocol; CVE(s): CVE-2025-8671; Summary: The "MadeYouReset" vulnerability allows attackers to bypass HTTP/2's concurrency limits, enabling unbounded concurrent work on target servers with minimal resources, potentially leading to massive DDoS attacks and overwhelming servers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156904</guid>
+      <pubDate>Fri, 15 Aug 2025 06:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Secure Firewall Vulnerability Lets Attackers Execute Remote Shell Commands</title>
+      <link>https://gbhackers.com/cisco-secure-firewall-vulnerability/</link>
+      <description>Vulnerable Product: Cisco Secure Firewall Management Center; CVE(s): CVE-2025-20265; Summary: The vulnerability in Cisco Secure Firewall Management Center's RADIUS subsystem allows unauthenticated attackers to remotely execute shell commands with elevated privileges, potentially gaining high-level system access without prior authentication. This can lead to complete control over the firewall management system and potential further network attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156899</guid>
+      <pubDate>Fri, 15 Aug 2025 05:13:02 +0000</pubDate>
+    </item>
     <item>
       <title>Ransomware Actors Combine Legitimate Tools with Custom Malware to Evade Detection</title>
       <link>https://gbhackers.com/ransomware-actors-combine-legitimate-tools/</link>
@@ -1357,76 +1427,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Lorex; 2K Indoor Wi-Fi Security Camera; CVE(s): CVE-2025-8389; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Lorex 2K Indoor Wi-Fi Security Cameras without authentication. The issue results from improper validation of user-supplied data, which can lead to a read past the end of an array, allowing for remote code execution.</description>
       <guid isPermaLink="false">ZDI-CAN-25639</guid>
       <pubDate>Wed, 13 Aug 2025 13:36:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-733: (0Day) Marvell QConvergeConsole compressConfigFiles Directory Traversal Information Disclosure and Denial-of-Service Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-733/</link>
-      <description>Vulnerable Product: Marvell QConvergeConsole; CVE(s): CVE-2025-8426; Summary: The vulnerability allows remote attackers to disclose sensitive information or create a denial-of-service condition. Authentication is not required, and the issue occurs due to improper validation of user-supplied paths prior to using them in file operations.</description>
-      <guid isPermaLink="false">ZDI-CAN-24915</guid>
-      <pubDate>Wed, 13 Aug 2025 13:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-734: (Pwn2Own) QNAP QHora-322 IPMI Use of Weak Credentials Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-734/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-734, ZDI-CAN-25633; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of QNAP QHora-322 routers by using the WAN MAC address as a default password. The issue exists within the IPMI interface and can be exploited without requiring authentication.</description>
-      <guid isPermaLink="false">ZDI-CAN-25633</guid>
-      <pubDate>Wed, 13 Aug 2025 13:35:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft removes PowerShell 2.0 from Windows 11, Windows Server</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/</link>
-      <description>Microsoft will permanently remove PowerShell 2.0 from Windows 11 version 24H2, starting in August, and from Windows Server 2025 in September. The move aims to reduce system complexity and improve security by removing legacy code.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/</guid>
-      <pubDate>Wed, 13 Aug 2025 13:35:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-735: (Pwn2Own) QNAP QHora-322 local_pwd_reset HTTP Request Smuggling Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-735/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-735, ZDI-CAN-25631; Summary: This vulnerability allows local attackers to smuggle arbitrary HTTP requests on affected routers, bypassing authentication. The issue is due to inconsistent parsing of HTTP header terminators in the local_pwd_reset endpoint.</description>
-      <guid isPermaLink="false">ZDI-CAN-25631</guid>
-      <pubDate>Wed, 13 Aug 2025 13:35:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-736: (Pwn2Own) QNAP QHora-322 access_setting HTTP Request Smuggling Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-736/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-CAN-25632, None; Summary: This vulnerability allows network-adjacent attackers to smuggle arbitrary HTTP requests on affected installations of QNAP QHora-322 routers. The flaw exists within the access_setting endpoint due to inconsistent parsing of terminators of HTTP headers, which can be bypassed and leveraged for code execution in the context of the device.</description>
-      <guid isPermaLink="false">ZDI-CAN-25632</guid>
-      <pubDate>Wed, 13 Aug 2025 13:35:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-737: (Pwn2Own) QNAP QHora-322 do_fetch Improper Certificate Validation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-737/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-737, ZDI-CAN-25530; Summary: This vulnerability allows network-adjacent attackers to compromise transport security on affected installations of QNAP QHora-322 routers without requiring authentication. The issue is due to improper validation of the certificate presented by the server in the do_fetch method.</description>
-      <guid isPermaLink="false">ZDI-CAN-25530</guid>
-      <pubDate>Wed, 13 Aug 2025 13:34:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-738: (Pwn2Own) QNAP QHora-322 SSH Use of Weak Credentials Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-738/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-738, ZDI-CAN-25635; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of QNAP QHora-322 routers by using the default SSH credentials, which use the WAN MAC address as a password. Authentication is not required to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-25635</guid>
-      <pubDate>Wed, 13 Aug 2025 13:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-739: (Pwn2Own) QNAP QHora-322 Improper Restriction of Communication Channel to Intended Endpoints Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-739/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-739, ZDI-CAN-25634; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of QNAP QHora-322 routers by exploiting an improper restriction of communication channel to intended endpoints in the SSH daemon. Authentication is required to exploit this vulnerability, but it can be bypassed.</description>
-      <guid isPermaLink="false">ZDI-CAN-25634</guid>
-      <pubDate>Wed, 13 Aug 2025 13:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-740: (Pwn2Own) QNAP QHora-322 backup Use of Hard-coded Cryptographic Key Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-740/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): ZDI-25-740, ZDI-CAN-25641; Summary: The vulnerability allows network-adjacent attackers to bypass authentication on affected installations of QNAP QHora-322 routers by exploiting a hardcoded cryptographic key in the Backup and Restore functionality. Authentication is required to exploit this vulnerability, which can be used to escalate privileges and execute arbitrary code in the context of root.</description>
-      <guid isPermaLink="false">ZDI-CAN-25641</guid>
-      <pubDate>Wed, 13 Aug 2025 13:33:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-741: (Pwn2Own) QNAP QHora-322 openvpn_cli user_name SQL Injection Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-741/</link>
-      <description>Vulnerable Product: QNAP QHora-322; CVE(s): CVE-2024-50389; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of QNAP QHora-322 routers. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries, allowing an attacker to exploit this vulnerability and bypass authentication.</description>
-      <guid isPermaLink="false">ZDI-CAN-25580</guid>
-      <pubDate>Wed, 13 Aug 2025 13:33:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
