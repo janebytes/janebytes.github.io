@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 10:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 11:02:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UAT-7237 targets Taiwanese web hosting infrastructure</title>
+      <link>https://blog.talosintelligence.com/uat-7237-targets-web-hosting-infra/</link>
+      <description>UAT-7237 is a Chinese-speaking advanced persistent threat (APT) group that has been active since at least 2022, targeting web infrastructure entities in Taiwan. They use open-sourced tooling, customized to evade detection, and employ tactics such as using Cobalt Strike, Mimikatz, and JuicyPotato for credential extraction and privilege escalation. The group also uses SoftEther VPN clients and exploits known vulnerabilities on unpatched servers.</description>
+      <guid isPermaLink="false">689caff6e2d85f00011b7f54</guid>
+      <pubDate>Fri, 15 Aug 2025 10:00:56 +0000</pubDate>
+    </item>
     <item>
       <title>VirtualBox 7.2 Adds Windows 11/Arm VM Support and Key Bug Fixes</title>
       <link>https://gbhackers.com/virtualbox-7-2-adds-windows-11-arm-vm-support/</link>
@@ -1420,13 +1427,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Lorex; 2K Indoor Wi-Fi Security Camera; CVE(s): CVE-2024-52544; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Lorex 2K Indoor Wi-Fi Security Cameras. Authentication is not required to exploit this vulnerability, and the specific flaw exists within the sonia module due to a lack of proper validation of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-25537</guid>
       <pubDate>Wed, 13 Aug 2025 13:36:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-732: (Pwn2Own) Lorex 2K Indoor Wi-Fi Security Camera Improper Validation of Array Index Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-732/</link>
-      <description>Vulnerable Product: Lorex; 2K Indoor Wi-Fi Security Camera; CVE(s): CVE-2025-8389; Summary: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Lorex 2K Indoor Wi-Fi Security Cameras without authentication. The issue results from improper validation of user-supplied data, which can lead to a read past the end of an array, allowing for remote code execution.</description>
-      <guid isPermaLink="false">ZDI-CAN-25639</guid>
-      <pubDate>Wed, 13 Aug 2025 13:36:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
