@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 15:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 16:00:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Colt Telecom attack claimed by WarLock ransomware, data up for sale</title>
+      <link>https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2025-53770; Summary: The article reports a cyberattack on UK-based telecommunications company Colt Technology Services, causing a multi-day outage of some operations. Initial access was likely gained by exploiting a remote code execution vulnerability in Microsoft SharePoint tracked as CVE-2025-53770.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/</guid>
+      <pubDate>Fri, 15 Aug 2025 15:25:34 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco IOS, IOS XE, and Secure Firewall Flaws Allow Remote DoS Attacks</title>
       <link>https://gbhackers.com/cisco-ios-ios-xe-and-secure-firewall-flaws/</link>
@@ -1422,13 +1429,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7997; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by parsing XE files without proper validation of user-supplied data, resulting in a read before the start of an allocated data structure. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file.</description>
       <guid isPermaLink="false">ZDI-CAN-26045</guid>
       <pubDate>Wed, 13 Aug 2025 13:40:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-720: (0Day) Ashlar-Vellum Cobalt CO File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-720/</link>
-      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-8003; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required, and the specific flaw exists within the parsing of CO files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated data structure.</description>
-      <guid isPermaLink="false">ZDI-CAN-26235</guid>
-      <pubDate>Wed, 13 Aug 2025 13:40:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
