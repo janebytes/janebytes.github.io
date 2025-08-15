@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 14:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 15:03:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Cisco IOS, IOS XE, and Secure Firewall Flaws Allow Remote DoS Attacks</title>
+      <link>https://gbhackers.com/cisco-ios-ios-xe-and-secure-firewall-flaws/</link>
+      <description>Vulnerable Product: Cisco Systems; CVE(s): CVE-2025-20224, CVE-2025-20225, CVE-2025-20239, CVE-2025-20252, CVE-2025-20253, and CVE-2025-20254; Summary: Six critical vulnerabilities in the Internet Key Exchange Version 2 (IKEv2) feature across Cisco's networking and security product portfolio allow unauthenticated remote attackers to launch denial-of-service attacks, potentially causing system crashes and service disruptions. The most severe vulnerability has a CVSS base score of 8.6, indicating high severity with potential for significant impact on affected systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156968</guid>
+      <pubDate>Fri, 15 Aug 2025 14:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cisco warns of max severity flaw in Firewall Management Center</title>
       <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/</link>
@@ -23,11 +30,27 @@
       <pubDate>Fri, 15 Aug 2025 13:09:18 +0000</pubDate>
     </item>
     <item>
+      <title>MadeYouReset: New HTTP/2 DoS Vulnerability Explained</title>
+      <link>https://socradar.io/madeyoureset-new-http-2-dos-vulnerability-explained/</link>
+      <description>Vulnerable Product: Various HTTP/2 servers; CVE(s): CVE-2025-8671, CVE-2025-48989, CVE-2025-55163, CVE-2025-54500, CVE-2025-36047; Summary: A newly discovered technique called "MadeYouReset" allows attackers to coax HTTP/2 servers into resetting their own streams, bypassing many Rapid Reset defenses. The attack works by sending normal-looking HTTP/2 frames that cause subtle protocol violations, forcing the server to issue its own resets and increasing resource pressure.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062675</guid>
+      <pubDate>Fri, 15 Aug 2025 13:04:31 +0000</pubDate>
+    </item>
+    <item>
       <title>F5 Fixes HTTP/2 Flaw Affecting Multiple Products in Massive DoS Attacks</title>
       <link>https://gbhackers.com/f5-fixes-http-2-flaw/</link>
       <description>Vulnerable Product: F5 Networks BIG-IP products; CVE(s): CVE-2025-54500; Summary: The vulnerability, known as the "HTTP/2 MadeYouReset Attack", exploits a flaw in HTTP/2 implementation that enables attackers to overwhelm systems using specially crafted control frames, potentially causing denial-of-service conditions. Malformed HTTP/2 control frames bypass the maximum concurrent streams limit, leading to CPU resource exhaustion and denial-of-service conditions.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156934</guid>
       <pubDate>Fri, 15 Aug 2025 13:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Profile: Void Blizzard</title>
+      <link>https://socradar.io/dark-web-profile-void-blizzard/</link>
+      <description>FYSA:
+
+Void Blizzard is a newly identified Russian state-sponsored cyber threat group that targets governments, defense sectors, critical infrastructure, and high-tech companies in NATO and EU countries. The group uses simple but effective techniques, including "living off the land" methods, stolen credentials, and phishing attacks. Void Blizzard has achieved high success rates by exploiting cloud APIs like Microsoft Graph and Exchange Online, as well as using automation and rapid access to compromised systems.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062664</guid>
+      <pubDate>Fri, 15 Aug 2025 12:44:25 +0000</pubDate>
     </item>
     <item>
       <title>ImageMagick Vulnerabilities Cause Memory Corruption and Integer Overflows</title>
@@ -1406,27 +1429,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-8003; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required, and the specific flaw exists within the parsing of CO files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated data structure.</description>
       <guid isPermaLink="false">ZDI-CAN-26235</guid>
       <pubDate>Wed, 13 Aug 2025 13:40:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-721: (0Day) Ashlar-Vellum Cobalt CO File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-721/</link>
-      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-8001; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of CO files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26053</guid>
-      <pubDate>Wed, 13 Aug 2025 13:39:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-722: (0Day) Ashlar-Vellum Cobalt XE File Parsing Type Confusion Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-722/</link>
-      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-8005; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a type confusion condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26237</guid>
-      <pubDate>Wed, 13 Aug 2025 13:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-723: (0Day) Ashlar-Vellum Cobalt XE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-723/</link>
-      <description>Vulnerable Product: Ashlar-Vellum Cobalt XE File Parsing; CVE(s): CVE-2025-8004; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required, and the specific flaw exists within the parsing of XE files due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated data structure.</description>
-      <guid isPermaLink="false">ZDI-CAN-26236</guid>
-      <pubDate>Wed, 13 Aug 2025 13:39:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
