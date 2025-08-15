@@ -6,8 +6,19 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 20:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 21:05:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Top 10 Best NDR Solutions (Network Detection and Response) in 2025</title>
+      <link>https://gbhackers.com/best-ndr-solutions/</link>
+      <description>The article provides an analysis of various Network Detection and Response (NDR) solutions from different vendors. It highlights the key features, strengths, and capabilities of each NDR solution, including their ability to detect advanced threats, provide comprehensive visibility into network traffic, and offer automated investigation and response capabilities.
+
+The analysis covers a range of NDR solutions from well-known vendors such as Fidelis, NetWitness, and Trend Micro. It provides insights into the unique strengths and specializations of each solution, helping readers understand which NDR might best suit their specific security needs.
+
+The article also emphasizes the importance of NDR in modern cybersecurity, highlighting its role in detecting and responding to threats that bypass traditional security controls.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=149512</guid>
+      <pubDate>Fri, 15 Aug 2025 20:31:05 +0000</pubDate>
+    </item>
     <item>
       <title>Mobile Phishers Target Brokerage Accounts in ‘Ramp and Dump’ Cashout Scheme</title>
       <link>https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/</link>
@@ -1430,13 +1441,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7998; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by exploiting an out-of-bounds write in the parsing of CO files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-26046</guid>
       <pubDate>Wed, 13 Aug 2025 13:41:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-716: (0Day) Ashlar-Vellum Cobalt AR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-716/</link>
-      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7996; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit this vulnerability, which exists within the parsing of AR files due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25982</guid>
-      <pubDate>Wed, 13 Aug 2025 13:41:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
