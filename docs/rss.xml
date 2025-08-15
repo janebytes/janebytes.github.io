@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 12:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 13:01:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ImageMagick Vulnerabilities Cause Memory Corruption and Integer Overflows</title>
+      <link>https://gbhackers.com/imagemagick-vulnerabilities-cause-memory-corruption/</link>
+      <description>Vulnerable Product: ImageMagick; CVE(s): CVE-2025-55154, CVE-2025-55004, CVE-2025-55005, and CVE-2025-55160; Summary: Four critical security vulnerabilities affecting millions of applications that rely on ImageMagick for image processing have been patched. The flaws include integer overflows in MNG magnification calculations, heap-buffer overflows during image magnification, and undefined behavior in CloneSplayTree operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156928</guid>
+      <pubDate>Fri, 15 Aug 2025 12:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing Campaign Exploits Japanese Character “ん” to Imitate Forward Slash</title>
+      <link>https://gbhackers.com/phishing-campaign-exploits-japanese-character/</link>
+      <description>The article discusses a sophisticated phishing campaign that exploits the Japanese hiragana character "ん" to create deceptively authentic-looking URLs. The campaign targets Booking.com customers, using URLs that appear legitimate but actually redirect victims to malicious domains. The attacks are challenging to identify due to their refinement and rely on social engineering techniques rather than technical vulnerabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156958</guid>
+      <pubDate>Fri, 15 Aug 2025 11:41:52 +0000</pubDate>
+    </item>
     <item>
       <title>Plex warns users to patch security vulnerability immediately</title>
       <link>https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/</link>
@@ -1413,20 +1427,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7993; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by exploiting a use-after-free remote code execution flaw in the parsing of LI files. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
       <guid isPermaLink="false">ZDI-CAN-25355</guid>
       <pubDate>Wed, 13 Aug 2025 13:38:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-727: Apple macOS libFontValidation kern Table Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-727/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): ZDI-25-727, ZDI-CAN-25365; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. It exists within the parsing of kern tables in the libFontValidation library and can be exploited by interaction with the library. The issue results from a lack of proper validation of user-supplied data length, allowing an attacker to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-25365</guid>
-      <pubDate>Wed, 13 Aug 2025 13:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-728: Apple macOS MediaToolbox Framework Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-728/</link>
-      <description>Vulnerable Product: Apple macOS MediaToolbox Framework; CVE(s): CVE-2025-31239; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. Interaction with the MediaToolbox framework is required to exploit this vulnerability, and the specific flaw exists within the implementation of audio decoding due to lack of proper validation of user-supplied data, resulting in a memory corruption condition.</description>
-      <guid isPermaLink="false">ZDI-CAN-26782</guid>
-      <pubDate>Wed, 13 Aug 2025 13:37:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
