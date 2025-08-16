@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2025 11:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 12:01:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure</title>
+      <link>https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html</link>
+      <description>The article discusses the inner workings of an Android banking trojan called ERMAC 3.0, revealing its infrastructure and capabilities, including form injection methods, data theft, and command-and-control (C2) panel.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html</guid>
+      <pubDate>Sat, 16 Aug 2025 10:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chinese Hackers Exploit Web Hosting Infrastructure for Cyberattacks</title>
       <link>https://gbhackers.com/chinese-hackers-exploit-web-hosting-infrastructure/</link>
@@ -1436,13 +1443,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Tesla Wall Connector; CVE(s): CVE-2025-8321; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Tesla Wall Connector devices. Authentication is not required to exploit this vulnerability, and the issue exists within the firmware upgrade feature due to a lack of an anti-downgrade mechanism.</description>
       <guid isPermaLink="false">ZDI-CAN-26299</guid>
       <pubDate>Wed, 13 Aug 2025 13:42:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-713: (0Day) Ashlar-Vellum Cobalt AR File Parsing Type Confusion Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-713/</link>
-      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7999; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit this vulnerability, which occurs when parsing AR files due to a lack of proper validation of user-supplied data. An attacker can leverage this type confusion condition to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26049</guid>
-      <pubDate>Wed, 13 Aug 2025 13:42:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
