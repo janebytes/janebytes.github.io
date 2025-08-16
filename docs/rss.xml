@@ -6,14 +6,42 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2025 20:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 21:01:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/</link>
+      <description>Vulnerable Product: None; FYSA: The article discusses OpenAI's upcoming plan called ChatGPT Go, which will be available globally and priced at $4. Additionally, the company has added a "Voice speed" feature to the ChatGPT web app settings for voice mode.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/</guid>
+      <pubDate>Sat, 16 Aug 2025 20:44:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI is improving ChatGPT voice mode</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/</link>
+      <description>Vulnerable Product: None; FYSA: OpenAI has added features such as "Voice speed" and "custom instructions prefix" to the ChatGPT web app settings. Additionally, they have rolled out an upgraded model selector with access to new GPT-5 models and restored GPT-4o for paid users.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/</guid>
+      <pubDate>Sat, 16 Aug 2025 20:15:42 +0000</pubDate>
+    </item>
     <item>
       <title>PoC Released for Fortinet FortiSIEM Command Injection Flaw</title>
       <link>https://gbhackers.com/fortinet-fortisiem-command-injection-flaw/</link>
       <description>Vulnerable Product: Fortinet FortiSIEM; CVE(s): CVE-2025-25256; Summary: A severe pre-authentication command injection vulnerability exists in Fortinet's FortiSIEM platform, allowing attackers to compromise enterprise security monitoring systems without credentials. The vulnerability affects all versions from 5.4 through 7.3.1 and requires complete migration to fixed releases for older versions.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156995</guid>
       <pubDate>Sat, 16 Aug 2025 16:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researcher to release exploit for full auth bypass on FortiWeb</title>
+      <link>https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/</link>
+      <description>Vulnerable Product: Fortinet, FortiWeb; CVE(s): CVE-2025-52970; Summary: A remote attacker can bypass FortiWeb's authentication by exploiting an out-of-bounds read in cookie parsing that sets the Era parameter to an unexpected value. This allows the server to use an all-zero secret key for session encryption and HMAC signing, making forged authentication cookies trivial to create.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/</guid>
+      <pubDate>Sat, 16 Aug 2025 14:24:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams to protect against malicious URLs, dangerous file types</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/</link>
+      <description>Vulnerable Product: None; Summary: This article is not about a vulnerability, but rather about various security enhancements and features being added to Microsoft Teams, including blocking malicious URLs and files, integrating with Microsoft Defender for Office 365, and preventing unauthorized screen captures. These features aim to improve protection against malware and phishing attacks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/</guid>
+      <pubDate>Sat, 16 Aug 2025 14:20:30 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actors Abuse npm Developer Accounts Hijacked to Spread Malicious Packages</title>
@@ -1415,34 +1443,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-7675; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, which exists within the parsing of 3DM files due to a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-27226</guid>
       <pubDate>Wed, 13 Aug 2025 13:44:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-707: AVG TuneUp for PC TuneUp Service Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-707/</link>
-      <description>Vulnerable Product: AVG TuneUp for PC; CVE(s): CVE-2024-13960; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of AVG TuneUp for PC. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which can be used to delete a file and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-23383</guid>
-      <pubDate>Wed, 13 Aug 2025 13:44:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-708: Mozilla Firefox Web Page Download Mark-Of-The-Web Protection Mechanism Failure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-708/</link>
-      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2024-3863; Summary: This vulnerability allows remote attackers to bypass the Mark-Of-The-Web protection mechanism on affected installations of Mozilla Firefox, requiring user interaction. The specific flaw exists within the web page download functionality, allowing an attacker to create files without the Mark-Of-The-Web and potentially execute arbitrary code in the context of the current user.</description>
-      <guid isPermaLink="false">ZDI-CAN-22536</guid>
-      <pubDate>Wed, 13 Aug 2025 13:43:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-709: Apple Safari JavascriptCore WasmToJSException Type Confusion Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-709/</link>
-      <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-43214; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari, requiring user interaction. The specific flaw exists within the handling of the WasmToJSException operation, allowing an attacker to trigger a type confusion condition and execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-27217</guid>
-      <pubDate>Wed, 13 Aug 2025 13:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-710: SolarWinds Platform SolarWindsAgent64 Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-710/</link>
-      <description>Vulnerable Product: SolarWinds Platform; CVE(s): CVE-2024-45710; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of SolarWinds Platform. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which can then be used to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-24672</guid>
-      <pubDate>Wed, 13 Aug 2025 13:43:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
