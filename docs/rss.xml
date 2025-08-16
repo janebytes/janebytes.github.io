@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2025 12:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 13:01:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Abuse npm Developer Accounts Hijacked to Spread Malicious Packages</title>
+      <link>https://gbhackers.com/threat-actors-abuse-npm-developer-accounts-hijacked/</link>
+      <description>Vulnerable Product: npm (multiple packages); CVE(s): None; Summary: A sophisticated phishing campaign targeting the maintainer of eslint-config-prettier led to malicious code being distributed to thousands of developer projects worldwide, highlighting critical vulnerabilities in modern software development practices and automated dependency updating tools. The attack began with a carefully crafted phishing email that impersonated npm's official support team, leading to the publication of compromised packages containing postinstall scripts that deployed a remote access trojan specifically targeting Windows machines.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156987</guid>
+      <pubDate>Sat, 16 Aug 2025 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure</title>
       <link>https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html</link>
@@ -1436,13 +1443,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Tesla Wall Connector; CVE(s): CVE-2025-8320; Summary: The vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Tesla Wall Connector devices without authentication. The issue is caused by improper input validation in the parsing of the HTTP Content-Length header, resulting in memory access past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26300</guid>
       <pubDate>Wed, 13 Aug 2025 13:42:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-712: (Pwn2Own) Tesla Wall Connector Firmware Downgrade Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-712/</link>
-      <description>Vulnerable Product: Tesla Wall Connector; CVE(s): CVE-2025-8321; Summary: This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Tesla Wall Connector devices. Authentication is not required to exploit this vulnerability, and the issue exists within the firmware upgrade feature due to a lack of an anti-downgrade mechanism.</description>
-      <guid isPermaLink="false">ZDI-CAN-26299</guid>
-      <pubDate>Wed, 13 Aug 2025 13:42:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
