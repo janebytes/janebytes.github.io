@@ -6,8 +6,24 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 22:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 10:01:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Chinese Hackers Exploit Web Hosting Infrastructure for Cyberattacks</title>
+      <link>https://gbhackers.com/chinese-hackers-exploit-web-hosting-infrastructure/</link>
+      <description>The article reveals a sophisticated Chinese-speaking advanced persistent threat (APT) group, designated UAT-7237, that has been actively targeting web hosting infrastructure in Taiwan since at least 2022. The group demonstrates a refined approach to maintaining persistent access and employs distinct tactics to establish long-term presence in high-value environments, including custom shellcode loading, VPN-based persistence, cloud infrastructure, and evasion techniques.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=156979</guid>
+      <pubDate>Sat, 16 Aug 2025 09:22:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware</title>
+      <link>https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-26633; Summary: The vulnerability in the Microsoft Management Console (MMC) framework was exploited by EncryptHub to deliver malicious payloads. The exploit uses social engineering techniques and a rogue MSC file to trigger the infection routine, ultimately leading to the execution of PowerShell commands that download and run additional malware.
+
+FYSA: EncryptHub is continuing to exploit vulnerabilities and use social engineering tactics to deliver malicious payloads. They are using fake job offers, portfolio reviews, and compromised Steam games to infect targets with stealer malware. The group is also abusing trusted platforms like Brave Support to host next-stage malware and setting up phony videoconferencing lures to deceive victims into downloading malicious software.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html</guid>
+      <pubDate>Sat, 16 Aug 2025 05:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>Top 10 Best NDR Solutions (Network Detection and Response) in 2025</title>
       <link>https://gbhackers.com/best-ndr-solutions/</link>
@@ -1427,20 +1443,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7999; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt. User interaction is required to exploit this vulnerability, which occurs when parsing AR files due to a lack of proper validation of user-supplied data. An attacker can leverage this type confusion condition to execute code in the context of the current process.</description>
       <guid isPermaLink="false">ZDI-CAN-26049</guid>
       <pubDate>Wed, 13 Aug 2025 13:42:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-714: (0Day) Ashlar-Vellum Cobalt AR File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-714/</link>
-      <description>Vulnerable Product: Ashlar-Vellum Cobalt AR File Parsing; CVE(s): CVE-2025-7994; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by reading past the end of an allocated data structure. User interaction is required, and the flaw exists within the parsing of AR files due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25976</guid>
-      <pubDate>Wed, 13 Aug 2025 13:42:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-715: (0Day) Ashlar-Vellum Cobalt CO File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-715/</link>
-      <description>Vulnerable Product: Ashlar-Vellum Cobalt; CVE(s): CVE-2025-7998; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ashlar-Vellum Cobalt by exploiting an out-of-bounds write in the parsing of CO files. User interaction is required, and the issue results from a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26046</guid>
-      <pubDate>Wed, 13 Aug 2025 13:41:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
