@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2025 21:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 22:01:27 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>OpenAI prepares Chromium-based AI browser to take on Google</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/</link>
+      <description>This article is not about a vulnerability. It discusses OpenAI's development of an AI-powered browser using Chromium as its underlying engine and its potential features.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/</guid>
+      <pubDate>Sat, 16 Aug 2025 21:23:03 +0000</pubDate>
+    </item>
     <item>
       <title>Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/</link>
@@ -1436,13 +1443,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-7497; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of PRT files due to a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-27225</guid>
       <pubDate>Wed, 13 Aug 2025 13:44:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-706: Autodesk AutoCAD 3DM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-706/</link>
-      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-7675; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, which exists within the parsing of 3DM files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-27226</guid>
-      <pubDate>Wed, 13 Aug 2025 13:44:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
