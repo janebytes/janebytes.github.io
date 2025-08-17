@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Aug 2025 14:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 15:01:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Google is adding "Projects" feature to Gemini to run research tasks</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/</link>
+      <description>This article is not about a vulnerability, but it contains cybersecurity-relevant content. The article discusses Google's Gemini feature called "Projects" and its upcoming API release. It also mentions previous Gemini-related vulnerabilities, such as hijacking email summaries for phishing, and a flaw in the CLI AI coding assistant that allowed stealthy code execution.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/</guid>
+      <pubDate>Sun, 17 Aug 2025 14:38:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/</link>
+      <description>The U.S. Department of Justice (DoJ) seized over $2.8 million in cryptocurrency from suspected ransomware operator Ianis Aleksandrovich Antropenko, linked to the Zeppelin ransomware operation. The seizure is part of efforts to disrupt and prevent ransomware operators from using funds to rebuild infrastructure or recruit new members.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/</guid>
+      <pubDate>Sun, 17 Aug 2025 14:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic: Claude can now end conversations to prevent harmful uses</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/</link>
+      <description>Vulnerable Product: None; FYSA: This article discusses updates to the AI model "Claude" by Anthropic, including a new feature that allows it to end conversations when it feels harm or abuse. The company also reports on other developments and comparisons with OpenAI's GPT-5 and ChatGPT models.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/</guid>
+      <pubDate>Sun, 17 Aug 2025 14:24:30 +0000</pubDate>
+    </item>
     <item>
       <title>Elastic EDR 0-Day Flaw Lets Hackers Evade Detection, Run Malware, and Trigger BSOD</title>
       <link>https://gbhackers.com/elastic-edr-0-day-flaw/</link>
@@ -1422,27 +1443,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-6631; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD, requiring user interaction. It occurs due to the lack of proper validation of user-supplied data in PRT file parsing, leading to a write past the end of an allocated object.</description>
       <guid isPermaLink="false">ZDI-CAN-27221</guid>
       <pubDate>Wed, 13 Aug 2025 13:45:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-702: Autodesk AutoCAD PRT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-702/</link>
-      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-6635; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-27253</guid>
-      <pubDate>Wed, 13 Aug 2025 13:45:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-703: Autodesk AutoCAD PRT File Parsing Use-After-Free Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-703/</link>
-      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-6636; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, and it exists within the parsing of PRT files due to a lack of validating the existence of an object prior to performing operations on the object.</description>
-      <guid isPermaLink="false">ZDI-CAN-27222</guid>
-      <pubDate>Wed, 13 Aug 2025 13:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-704: Autodesk AutoCAD PRT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-704/</link>
-      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-6637; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required, and the issue exists within the parsing of PRT files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-27223</guid>
-      <pubDate>Wed, 13 Aug 2025 13:44:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
