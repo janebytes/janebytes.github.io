@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Aug 2025 13:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 14:00:58 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Elastic EDR 0-Day Flaw Lets Hackers Evade Detection, Run Malware, and Trigger BSOD</title>
+      <link>https://gbhackers.com/elastic-edr-0-day-flaw/</link>
+      <description>Vulnerable Product: Elastic Endpoint Detection and Response (EDR) software; CVE(s): None; Summary: A zero-day vulnerability in the Microsoft-signed kernel driver "elastic-endpoint-driver.sys" allows attackers to bypass security measures, execute malicious code, and crash protected systems repeatedly. The flaw enables a four-step attack chain, including EDR Bypass, Remote Code Execution, Persistence, and Privileged Denial-of-Service.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157022</guid>
+      <pubDate>Sun, 17 Aug 2025 13:42:07 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI prepares Chromium-based AI browser to take on Google</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/</link>
@@ -1436,13 +1443,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-6637; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required, and the issue exists within the parsing of PRT files due to a lack of proper validation of user-supplied data.</description>
       <guid isPermaLink="false">ZDI-CAN-27223</guid>
       <pubDate>Wed, 13 Aug 2025 13:44:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-705: Autodesk AutoCAD PRT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-705/</link>
-      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-7497; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of PRT files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-27225</guid>
-      <pubDate>Wed, 13 Aug 2025 13:44:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
