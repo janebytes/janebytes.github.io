@@ -6,8 +6,57 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Aug 2025 22:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:04:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>The AI-Powered Trojan Horse Returns: How LLMs Revive Classic Cyber Threats</title>
+      <link>https://gbhackers.com/the-ai-powered-trojan-horse-returns/</link>
+      <description>The article discusses a new wave of trojan horses that masquerade as legitimate desktop applications. These trojans embed malicious capabilities and are undetected by VirusTotal scanners for weeks. They use Large Language Models (LLMs) to generate convincing websites, error-free content, and AI-curated databases, evading static scanners and highlighting the inadequacy of static signatures alone.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157078</guid>
+      <pubDate>Mon, 18 Aug 2025 09:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workday Data Breach Exposes HR Records via Third-Party CRM Hack</title>
+      <link>https://gbhackers.com/workday-data-breach-exposes/</link>
+      <description>Workday, an enterprise software giant, disclosed a security incident involving unauthorized access to employee information through a compromised third-party customer relationship management (CRM) platform. Threat actors successfully infiltrated the CRM system following a sophisticated social engineering campaign, gaining access to standard business contact information such as names, email addresses, and phone numbers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157184</guid>
+      <pubDate>Mon, 18 Aug 2025 08:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scammers Target Back-to-School Deals, Diverting Shoppers to Fraud Sites</title>
+      <link>https://gbhackers.com/scammers-target-back-to-school-deals/</link>
+      <description>Cybercriminals are exploiting back-to-school season by deploying sophisticated scams, targeting unsuspecting consumers with fake e-commerce sites, and phishing mechanisms. These scams aim to siphon funds and personal data, and can lead to identity theft and financial fraud. Threat actors are using AI-driven tools to create hyper-realistic advertisements, making it harder to detect anomalies in URLs or content.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157070</guid>
+      <pubDate>Mon, 18 Aug 2025 08:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>HR giant Workday discloses data breach after Salesforce attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/</link>
+      <description>Workday disclosed a data breach after attackers gained access to a third-party customer relationship management (CRM) platform through a social engineering attack. The incident exposed some business contact information, including names, email addresses, and phone numbers, which could be used in subsequent attacks.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/</guid>
+      <pubDate>Mon, 18 Aug 2025 07:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hundreds of TeslaMate Servers Expose Real-Time Vehicle Data</title>
+      <link>https://gbhackers.com/hundreds-of-teslamate-servers-expose/</link>
+      <description>Vulnerable Product: TeslaMate; CVE(s): None; Summary: TeslaMate servers are exposing sensitive Tesla vehicle data to the public internet without authentication, revealing real-time location tracking, charging patterns, and driving habits of unsuspecting owners. The vulnerability allows anyone with a web browser to access exact GPS coordinates of parked vehicles, track commute patterns, identify home addresses, and determine when cars aren’t present at their usual locations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157059</guid>
+      <pubDate>Mon, 18 Aug 2025 07:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical PostgreSQL Flaws Allow Code Injection During Restoration</title>
+      <link>https://gbhackers.com/critical-postgresql-flaws/</link>
+      <description>Vulnerable Product: PostgreSQL; CVE(s): CVE-2025-8714, CVE-2025-8715, CVE-2025-8713; Summary: The PostgreSQL Global Development Group released emergency security updates to address three critical vulnerabilities that enable code injection attacks during database restoration processes. The flaws affect all supported versions from PostgreSQL 13 through 17 and allow attackers to execute arbitrary code with elevated system privileges.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157054</guid>
+      <pubDate>Mon, 18 Aug 2025 05:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockwell ControlLogix Ethernet Vulnerability Exposes Systems to Remote Code Execution</title>
+      <link>https://gbhackers.com/rockwell-controllogix-ethernet-vulnerability/</link>
+      <description>Vulnerable Product: Rockwell Automation ControlLogix Ethernet modules; CVE(s): CVE-2025-7353; Summary: A critical vulnerability in the web-based debugger agent of ControlLogix communication modules allows remote attackers to execute malicious code, perform memory dumps, modify system memory, and control execution flow. The vulnerability has a CVSS score of 9.8 out of 10 and requires no authentication or user interaction for exploitation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157049</guid>
+      <pubDate>Mon, 18 Aug 2025 05:15:41 +0000</pubDate>
+    </item>
     <item>
       <title>Top 10 Best Patch Management Software For IT Security 2025</title>
       <link>https://gbhackers.com/best-patch-management-software/</link>
@@ -22,6 +71,13 @@ The article provides an overview of each vendor, highlighting their respective s
 In conclusion, this article presents a valuable resource for organizations seeking to evaluate patch management vendors and make informed decisions about their security posture.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=154625</guid>
       <pubDate>Sun, 17 Aug 2025 18:12:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI releases warmer GPT-5 personality, but only for non thinking model</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/</link>
+      <description>OpenAI has rolled out a new "warmer" personality for GPT-5 and restored older models like GPT-4o. Additionally, the company has relaxed rate limits for paid users after user outrage.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/</guid>
+      <pubDate>Sun, 17 Aug 2025 16:20:00 +0000</pubDate>
     </item>
     <item>
       <title>Google is adding "Projects" feature to Gemini to run research tasks</title>
@@ -1395,62 +1451,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Oracle VirtualBox; CVE(s): CVE-2024-21273; Summary: This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox by exploiting uninitialized memory in the VirtIO-SCSI module. An attacker must first obtain high-privileged code execution on the target guest system to exploit this issue, which can be leveraged with other vulnerabilities to execute code in the context of the hypervisor.</description>
       <guid isPermaLink="false">ZDI-CAN-25015</guid>
       <pubDate>Wed, 13 Aug 2025 13:48:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-693: Norton Utilities Ultimate NortonUtilitiesSvc Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-693/</link>
-      <description>Vulnerable Product: Norton Utilities Ultimate; CVE(s): CVE-2024-13944; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Norton Utilities Ultimate by creating a symbolic link and abusing the Norton Utilities Service. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability, which can be used to delete arbitrary files or execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25570</guid>
-      <pubDate>Wed, 13 Aug 2025 13:48:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-694: Delta Electronics DTN Soft Project File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-694/</link>
-      <description>Vulnerable Product: Delta Electronics DTN Soft; CVE(s): CVE-2025-53416; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics DTN Soft by deserializing untrusted data. User interaction is required, and the flaw exists in the processing of project files due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-25406</guid>
-      <pubDate>Wed, 13 Aug 2025 13:47:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-695: AVG TuneUp for PC TuneupSvc Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-695/</link>
-      <description>Vulnerable Product: AVG TuneUp for PC; CVE(s): CVE-2024-13944; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of AVG TuneUp for PC. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, and can leverage it to delete a directory and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25509</guid>
-      <pubDate>Wed, 13 Aug 2025 13:47:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-696: Avast Cleanup Premium TuneupSvc Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-696/</link>
-      <description>Vulnerable Product: Avast Cleanup Premium; CVE(s): CVE-2024-13961; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Avast Cleanup Premium by creating a symbolic link within the Avast Cleanup Service. An attacker must first obtain low-privileged code execution to exploit this vulnerability, which can be used to execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25549</guid>
-      <pubDate>Wed, 13 Aug 2025 13:47:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-697: AVG TuneUp for PC TuneupSvc Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-697/</link>
-      <description>Vulnerable Product: AVG TuneUp for PC; CVE(s): CVE-2024-13959; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of AVG TuneUp for PC by creating a symbolic link. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which can be used to delete directories and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25498</guid>
-      <pubDate>Wed, 13 Aug 2025 13:46:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-698: Avast Cleanup Premium TuneupSvc Link Following Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-698/</link>
-      <description>Vulnerable Product: Avast Cleanup Premium; CVE(s): CVE-2024-13962; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Avast Cleanup Premium by creating a symbolic link, which can be used to delete directories and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25548</guid>
-      <pubDate>Wed, 13 Aug 2025 13:46:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-699: Autodesk AutoCAD 3DM File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-699/</link>
-      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-5043; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required, and the specific flaw exists within the parsing of 3DM files due to a lack of proper validation of user-supplied data prior to copying it to a fixed-length heap-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26848</guid>
-      <pubDate>Wed, 13 Aug 2025 13:46:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-700: Autodesk AutoCAD X_T File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-700/</link>
-      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-5038; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD by exploiting a memory corruption condition in the parsing of X_T files. User interaction is required to exploit this vulnerability, and an attacker can leverage it to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26927</guid>
-      <pubDate>Wed, 13 Aug 2025 13:45:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
