@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 17:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 18:02:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Weaponized Python Package “termncolor” Uses Windows Run Key for Persistence</title>
+      <link>https://gbhackers.com/weaponized-python-package-termncolor/</link>
+      <description>A complex supply chain attack was discovered on the Python Package Index (PyPI), where a seemingly innocuous package "termncolor" imports a malicious dependency "colorinal" that triggers a multi-stage malware deployment. The attack uses DLL sideloading, AES-encrypted payloads, and disguised command-and-control communications to evade detection.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157315</guid>
+      <pubDate>Mon, 18 Aug 2025 17:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>UK sentences “serial hacker” of 3,000 sites to 20 months in prison</title>
       <link>https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/</link>
@@ -21,6 +28,13 @@
       <description>Vulnerable Product: N-able N-central; CVE(s): CVE-2025-8875, CVE-2025-8876; Summary: Over 800 N-central servers remain unpatched against two critical security vulnerabilities (CVE-2025-8875 and CVE-2025-8876) that can allow authenticated attackers to inject commands or execute commands on unpatched devices. The flaws are actively exploited, and N-able has patched them in N-central 2025.3.1, urging admins to secure their servers before further information is released.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/</guid>
       <pubDate>Mon, 18 Aug 2025 16:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware</title>
+      <link>https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29824; Summary: A privilege escalation vulnerability (CVE-2025-29824) in the Windows Common Log File System (CLFS) was exploited by threat actors to deploy the PipeMagic malware in RansomExx ransomware attacks. The vulnerability, patched by Microsoft in April 2025, allowed attackers to infiltrate victim infrastructure and deploy a full-fledged backdoor providing remote access and executing commands on compromised hosts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html</guid>
+      <pubDate>Mon, 18 Aug 2025 16:03:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actors Exploit Telegram as the Communication Channel to Exfiltrate Stolen Data</title>
@@ -1439,20 +1453,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Apple Safari; CVE(s): CVE-2025-43209; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple Safari. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26616</guid>
       <pubDate>Wed, 13 Aug 2025 13:53:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-674: Apple macOS AppleIntelKBLGraphics Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-674/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43255; Summary: The vulnerability allows local attackers to disclose sensitive information on affected installations of Apple macOS. An attacker must obtain the ability to execute low-privileged code to exploit this vulnerability, which exists within the AppleIntelKBLGraphics kext due to lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26636</guid>
-      <pubDate>Wed, 13 Aug 2025 13:53:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-675: Apple macOS USD readAccessorInts Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-675/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31280; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. The flaw exists within the USD library due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26847</guid>
-      <pubDate>Wed, 13 Aug 2025 13:53:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
