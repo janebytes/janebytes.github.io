@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 14:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 15:01:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Bragg Confirms Cyberattack, Internal IT Systems Breached</title>
@@ -23,6 +23,13 @@
       <pubDate>Mon, 18 Aug 2025 12:59:42 +0000</pubDate>
     </item>
     <item>
+      <title>CVE-2025-20265: RCE Flaw in Cisco Secure Firewall FMC RADIUS Authentication</title>
+      <link>https://socradar.io/cve-2025-20265-rce-cisco-secure-firewall-fmc-radius/</link>
+      <description>Vulnerable Product: Cisco Secure Firewall Management Center Software; CVE(s): CVE-2025-20265; Summary: The vulnerability allows an unauthenticated remote attacker to execute arbitrary commands on targeted systems by exploiting the RADIUS subsystem's insufficient input validation during authentication. An attacker can gain shell-level access, potentially with elevated privileges, if successful.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062693</guid>
+      <pubDate>Mon, 18 Aug 2025 12:56:43 +0000</pubDate>
+    </item>
+    <item>
       <title>⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors &amp; More</title>
       <link>https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html</link>
       <description>This article appears to be a comprehensive cybersecurity news report, covering various topics such as cryptocurrency-related fraud and money laundering, phishing attacks, malware distribution, and other cyber threats. The article does not specifically discuss a vulnerability in software, hardware, or firmware. Therefore, I will not identify any vulnerable products in my response.</description>
@@ -35,6 +42,15 @@
       <description>Vulnerable Product: Linux kernel's netfilter subsystem; CVE(s): CVE-2024-53141; Summary: A critical vulnerability in the Linux kernel's netfilter subsystem allows local attackers to escalate privileges through an out-of-bounds write condition. The flaw occurs in the bitmap:ip set type implementation and can be exploited by creating specially crafted ipset bitmap configurations with CIDR ranges that trigger integer underflow conditions, allowing modification of kernel memory structures and potential privilege escalation attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157268</guid>
       <pubDate>Mon, 18 Aug 2025 12:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Target Nike, PayPal, and CelcomDigi in New Access and Data Sales</title>
+      <link>https://socradar.io/nike-paypal-and-celcomdigi-data-sales/</link>
+      <description>This article highlights several significant listings on the dark web, including recruitment efforts targeting employees of top brokerage firms, a large credential dump marketed as PayPal-related, an alleged leak of over 20 million records from Malaysia's CelcomDigi, and unauthorized shell access to Nike USA. The listings demonstrate ongoing risks across sectors.
+
+(Note: Since there are no specific vulnerabilities mentioned in the article, it does not fit into the traditional vulnerability summary format. Instead, I have provided a FYSA-style summary.)</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062684</guid>
+      <pubDate>Mon, 18 Aug 2025 11:52:48 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft: Recent Windows updates may fail to install via WUSA</title>
@@ -1437,20 +1453,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Apple macOS MediaToolbox Framework; CVE(s): CVE-2025-43210; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. User interaction is required, and the specific flaw exists within the MediaToolbox framework due to a lack of proper validation of user-supplied data, leading to memory corruption.</description>
       <guid isPermaLink="false">ZDI-CAN-27287</guid>
       <pubDate>Wed, 13 Aug 2025 13:51:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-682: Apple macOS USD importMeshes Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-682/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43264; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. Interaction with the USD library is required to exploit this vulnerability, but attack vectors may vary depending on the implementation. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26829</guid>
-      <pubDate>Wed, 13 Aug 2025 13:51:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-683: Apple macOS USD importMeshJointWeights Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-683/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43264; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer, which can be exploited by interaction with the USD library.</description>
-      <guid isPermaLink="false">ZDI-CAN-27105</guid>
-      <pubDate>Wed, 13 Aug 2025 13:50:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
