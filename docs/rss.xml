@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 15:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 16:02:02 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Mozilla warns Germany could soon declare ad blockers illegal</title>
+      <link>https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/</link>
+      <description>The German Federal Supreme Court's ruling on browser-based ad blockers has revived a legal battle over whether ad blockers infringe copyright, potentially leading to a ban of the tools in Germany. This could impact other browser extensions and users' choices, as well as raise concerns about a chilling effect on freedom.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/</guid>
+      <pubDate>Mon, 18 Aug 2025 15:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Technical Details of SAP 0-Day Exploitation Script for RCE Revealed</title>
+      <link>https://gbhackers.com/sap-0-day-exploitation-script-for-rce-revealed/</link>
+      <description>Vulnerable Product: SAP NetWeaver's Visual Composer Metadata Uploader; CVE(s): CVE-2025–31324; Summary: A critical zero-day vulnerability in the metadata uploader enables unauthenticated file uploads leading to remote code execution under SAP service account privileges. The exploit script automates the process, allowing attackers to upload arbitrary files and gain persistent access to affected systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157182</guid>
+      <pubDate>Mon, 18 Aug 2025 15:02:01 +0000</pubDate>
+    </item>
     <item>
       <title>Bragg Confirms Cyberattack, Internal IT Systems Breached</title>
       <link>https://gbhackers.com/bragg-confirms-cyberattack/</link>
@@ -42,6 +56,13 @@
       <description>Vulnerable Product: Linux kernel's netfilter subsystem; CVE(s): CVE-2024-53141; Summary: A critical vulnerability in the Linux kernel's netfilter subsystem allows local attackers to escalate privileges through an out-of-bounds write condition. The flaw occurs in the bitmap:ip set type implementation and can be exploited by creating specially crafted ipset bitmap configurations with CIDR ranges that trigger integer underflow conditions, allowing modification of kernel memory structures and potential privilege escalation attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157268</guid>
       <pubDate>Mon, 18 Aug 2025 12:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/18/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-54948; Summary: The Trend Micro Apex One OS Command Injection Vulnerability (CVE-2025-54948) is a newly added vulnerability to CISA's Known Exploited Vulnerabilities (KEV) Catalog, indicating active exploitation. This type of vulnerability poses significant risks to the federal enterprise and requires timely remediation to protect against cyberattacks.</description>
+      <guid isPermaLink="false">/node/23802</guid>
+      <pubDate>Mon, 18 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actors Target Nike, PayPal, and CelcomDigi in New Access and Data Sales</title>
@@ -1432,27 +1453,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43239; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS by exploiting an out-of-bounds write flaw in ICC profile parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
       <guid isPermaLink="false">ZDI-CAN-27041</guid>
       <pubDate>Wed, 13 Aug 2025 13:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-679: Apple macOS USD readColor Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-679/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43215; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. Interaction with the USD library is required to exploit this vulnerability, which exists due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-27106</guid>
-      <pubDate>Wed, 13 Aug 2025 13:51:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-680: Apple macOS AudioToolbox MP4 File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-680/</link>
-      <description>Vulnerable Product: Apple macOS AudioToolbox MP4 File Parsing; CVE(s): CVE-2025-43186; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS by exploiting a memory corruption condition in the AudioToolbox framework due to improper validation of user-supplied data. User interaction is required, and an attacker can leverage this vulnerability to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-27274</guid>
-      <pubDate>Wed, 13 Aug 2025 13:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-681: Apple macOS MediaToolbox Framework Memory Corruption Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-681/</link>
-      <description>Vulnerable Product: Apple macOS MediaToolbox Framework; CVE(s): CVE-2025-43210; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. User interaction is required, and the specific flaw exists within the MediaToolbox framework due to a lack of proper validation of user-supplied data, leading to memory corruption.</description>
-      <guid isPermaLink="false">ZDI-CAN-27287</guid>
-      <pubDate>Wed, 13 Aug 2025 13:51:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
