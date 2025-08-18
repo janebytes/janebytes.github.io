@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 16:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 17:01:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>UK sentences “serial hacker” of 3,000 sites to 20 months in prison</title>
+      <link>https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/</link>
+      <description>A UK-based 26-year-old hacker, Al-Tahery Al-Mashriky, has been sentenced to 20 months in prison for hacking thousands of websites and stealing login details of millions of Facebook users. The investigation revealed that Al-Mashriky was linked to extremist groups and used stolen data to target and defraud individuals.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/</guid>
+      <pubDate>Mon, 18 Aug 2025 16:36:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Over 800 N-able servers left unpatched against critical flaws</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/</link>
+      <description>Vulnerable Product: N-able N-central; CVE(s): CVE-2025-8875, CVE-2025-8876; Summary: Over 800 N-central servers remain unpatched against two critical security vulnerabilities (CVE-2025-8875 and CVE-2025-8876) that can allow authenticated attackers to inject commands or execute commands on unpatched devices. The flaws are actively exploited, and N-able has patched them in N-central 2025.3.1, urging admins to secure their servers before further information is released.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/</guid>
+      <pubDate>Mon, 18 Aug 2025 16:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit Telegram as the Communication Channel to Exfiltrate Stolen Data</title>
+      <link>https://gbhackers.com/threat-actors-exploit-telegram-as-the-communication-channel/</link>
+      <description>The article describes a phishing campaign targeting public sector clients in Kazakhstan, using Telegram's Bot API as a covert exfiltration channel. The attack employed social engineering tactics and exploited user trust through fake login pages and pre-filled email fields.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157194</guid>
+      <pubDate>Mon, 18 Aug 2025 16:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mozilla warns Germany could soon declare ad blockers illegal</title>
       <link>https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/</link>
@@ -1432,27 +1453,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31280; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. The flaw exists within the USD library due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26847</guid>
       <pubDate>Wed, 13 Aug 2025 13:53:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-676: Apple macOS USD importSkeletons Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-676/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43219; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. Interaction with the USD library is required to exploit this vulnerability, and the issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26978</guid>
-      <pubDate>Wed, 13 Aug 2025 13:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-677: Apple macOS USD CustomLoadImageData Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-677/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43218; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. It is an out-of-bounds read information disclosure vulnerability in the USD CustomLoadImageData library, which can be exploited by reading past the end of an allocated buffer due to a lack of proper validation of user-supplied data.</description>
-      <guid isPermaLink="false">ZDI-CAN-27036</guid>
-      <pubDate>Wed, 13 Aug 2025 13:52:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-678: Apple macOS ICC Profile Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-678/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43239; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS by exploiting an out-of-bounds write flaw in ICC profile parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
-      <guid isPermaLink="false">ZDI-CAN-27041</guid>
-      <pubDate>Wed, 13 Aug 2025 13:52:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
