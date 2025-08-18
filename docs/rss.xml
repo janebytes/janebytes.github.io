@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 21:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 22:01:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Use Pirated Games to Bypass Microsoft Defender SmartScreen and Adblockers</title>
+      <link>https://gbhackers.com/threat-actors-use-pirated-games/</link>
+      <description>The article discusses a sophisticated malware campaign where threat actors distribute HijackLoader, a modular malware loader, by leveraging pirated game downloads. The malware bypasses common defenses like adblockers and Microsoft Defender SmartScreen, and its modular architecture allows it to evade detection and persistence mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157423</guid>
+      <pubDate>Mon, 18 Aug 2025 21:11:00 +0000</pubDate>
+    </item>
     <item>
       <title>Blue Locker Ransomware Launches Targeted Attacks on the Oil and Gas Sector in Pakistan</title>
       <link>https://gbhackers.com/blue-locker-ransomware-launches-targeted-attacks/</link>
@@ -1446,13 +1453,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54452; Summary: This vulnerability allows remote attackers to partially bypass authentication on affected installations of Samsung MagicINFO 9 Server, without requiring authentication. The issue exists within the ServletAuthenticationProcessingFilter class due to an improper implementation of the authentication algorithm.</description>
       <guid isPermaLink="false">ZDI-CAN-25800</guid>
       <pubDate>Wed, 13 Aug 2025 13:55:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-669: Samsung MagicINFO 9 Server FtpMetaUploadServlet Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-669/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54453; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server by bypassing authentication and exploiting a lack of proper validation of user-supplied paths in the FtpMetaUploadServlet class.</description>
-      <guid isPermaLink="false">ZDI-CAN-25802</guid>
-      <pubDate>Wed, 13 Aug 2025 13:54:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
