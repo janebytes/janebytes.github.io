@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 12:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 13:03:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft: Recent Windows updates may fail to install via WUSA</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The Windows Update Standalone Installer (WUSA) caused Windows update failures when installing updates from a network share on Windows 11 24H2 and Windows Server 2025 systems, resulting in error ERROR_BAD_PATHNAME.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/</guid>
+      <pubDate>Mon, 18 Aug 2025 11:07:07 +0000</pubDate>
+    </item>
     <item>
       <title>New Ghost-Tapping Attacks Target Apple Pay and Google Pay Users’ Linked Cards</title>
       <link>https://gbhackers.com/new-ghost-tapping-attacks-target-apple-pay-and-google-pay-users/</link>
       <description>Chinese-speaking cybercriminals are using ghost-tapping techniques to take advantage of Near Field Communication (NFC) relay tactics in a sophisticated evolution of payment card fraud, mainly targeting mobile payment services such as Apple Pay and Google Pay. The technique relies on open-source tools like NFCGate for capturing and modifying NFC traffic, allowing real-time emulation of tokenized card data at point-of-sale (POS) terminals or ATMs.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157109</guid>
       <pubDate>Mon, 18 Aug 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks</title>
+      <link>https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html</link>
+      <description>Vulnerable Product: PyPI (Python Package Index); CVE(s): None; Summary: A malicious package named termncolor was discovered on PyPI that establishes persistence and achieves code execution through a dependency called colorinal. The package uses DLL side-loading to facilitate decryption, establish persistence, and conduct C2 communication, ending in remote code execution.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html</guid>
+      <pubDate>Mon, 18 Aug 2025 10:56:00 +0000</pubDate>
     </item>
     <item>
       <title>Wazuh for Regulatory Compliance</title>
@@ -1437,20 +1451,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31281; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS by reading past the end of an allocated buffer due to a lack of proper validation of user-supplied data. Interaction with the USD library is required to exploit this vulnerability, and attack vectors may vary depending on the implementation.</description>
       <guid isPermaLink="false">ZDI-CAN-26846</guid>
       <pubDate>Wed, 13 Aug 2025 13:49:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-688: Apple macOS USD importNodeAnimations Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-688/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31281; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. It exists within the USD library due to a lack of proper validation of user-supplied data, resulting in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26966</guid>
-      <pubDate>Wed, 13 Aug 2025 13:49:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-689: Apple macOS USD importNodeAnimations Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-689/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31281; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. It is a heap-based buffer overflow in the USD library, caused by lack of proper validation of user-supplied data length before copying it to a buffer. An attacker can exploit this to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-27107</guid>
-      <pubDate>Wed, 13 Aug 2025 13:49:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
