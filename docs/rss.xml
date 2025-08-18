@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 13:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 14:07:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Bragg Confirms Cyberattack, Internal IT Systems Breached</title>
+      <link>https://gbhackers.com/bragg-confirms-cyberattack/</link>
+      <description>Vulnerable Product: None; CVEs: None; Summary: The Bragg Gaming Group has disclosed a cybersecurity incident that compromised its internal computer systems. The company's preliminary investigation suggests the breach is contained within their internal environment, with no indication of personal information being compromised.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157394</guid>
+      <pubDate>Mon, 18 Aug 2025 13:14:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>DoJ Seizes $2.8M in Crypto from Zeppelin Ransomware Group</title>
+      <link>https://gbhackers.com/doj-seizes-2-8m-in-crypto/</link>
+      <description>The article reports on a law enforcement action against a Zeppelin ransomware operation, resulting in the seizure of over $2.8 million in cryptocurrency and additional assets. The investigation uncovered extensive money laundering operations designed to obscure the criminal origins of ransomware proceeds, highlighting the evolving sophistication of modern ransomware operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157383</guid>
+      <pubDate>Mon, 18 Aug 2025 12:59:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors &amp; More</title>
+      <link>https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html</link>
+      <description>This article appears to be a comprehensive cybersecurity news report, covering various topics such as cryptocurrency-related fraud and money laundering, phishing attacks, malware distribution, and other cyber threats. The article does not specifically discuss a vulnerability in software, hardware, or firmware. Therefore, I will not identify any vulnerable products in my response.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html</guid>
+      <pubDate>Mon, 18 Aug 2025 12:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel Netfilter Flaw Enables Privilege Escalation</title>
+      <link>https://gbhackers.com/linux-kernel-netfilter-flaw/</link>
+      <description>Vulnerable Product: Linux kernel's netfilter subsystem; CVE(s): CVE-2024-53141; Summary: A critical vulnerability in the Linux kernel's netfilter subsystem allows local attackers to escalate privileges through an out-of-bounds write condition. The flaw occurs in the bitmap:ip set type implementation and can be exploited by creating specially crafted ipset bitmap configurations with CIDR ranges that trigger integer underflow conditions, allowing modification of kernel memory structures and potential privilege escalation attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157268</guid>
+      <pubDate>Mon, 18 Aug 2025 12:45:53 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft: Recent Windows updates may fail to install via WUSA</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/</link>
@@ -1423,34 +1451,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43264; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Apple macOS. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer, which can be exploited by interaction with the USD library.</description>
       <guid isPermaLink="false">ZDI-CAN-27105</guid>
       <pubDate>Wed, 13 Aug 2025 13:50:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-684: Apple macOS USD importNodeAnimations Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-684/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43224; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. Interaction with the USD library is required to exploit this vulnerability, and an attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26830</guid>
-      <pubDate>Wed, 13 Aug 2025 13:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-685: Apple macOS USD importNodeAnimations Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-685/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43224; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. It is caused by a lack of proper validation of user-supplied data, resulting in an out-of-bounds read information disclosure.</description>
-      <guid isPermaLink="false">ZDI-CAN-26853</guid>
-      <pubDate>Wed, 13 Aug 2025 13:50:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-686: Apple macOS USD importNodeAnimations Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-686/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-43224; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. The specific flaw exists within the USD library due to a lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26914</guid>
-      <pubDate>Wed, 13 Aug 2025 13:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-687: Apple macOS USD readAccessorDataToFloat Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-687/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31281; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS by reading past the end of an allocated buffer due to a lack of proper validation of user-supplied data. Interaction with the USD library is required to exploit this vulnerability, and attack vectors may vary depending on the implementation.</description>
-      <guid isPermaLink="false">ZDI-CAN-26846</guid>
-      <pubDate>Wed, 13 Aug 2025 13:49:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
