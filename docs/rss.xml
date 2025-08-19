@@ -6,14 +6,56 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 11:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 12:04:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Android Attack Targets Indian Users with Free Electricity Subsidy to Install Malware</title>
+      <link>https://gbhackers.com/new-android-attack-targets-indian-users/</link>
+      <description>A newly identified Android phishing campaign targets Indian users by masquerading as a government initiative offering subsidies for solar rooftop installations. The attackers leverage a fabricated mobile application to deceive victims into installing malware, promising free electricity units and stealing sensitive banking information, contacts, and SMS data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157518</guid>
+      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback</title>
+      <link>https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html</link>
+      <description>The UK government has dropped its plan to force Apple to create a backdoor for accessing encrypted user data, following criticism from privacy advocates and Apple's appeals against the legality of the order. This development highlights the ongoing debate between governments seeking access to encrypted data and companies prioritizing user privacy and security.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html</guid>
+      <pubDate>Tue, 19 Aug 2025 11:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Your Security Culture is Critical to Mitigating Cyber Risk</title>
+      <link>https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html</link>
+      <description>This article discusses the importance of human risk in cybersecurity and how it often goes unaddressed despite being a significant driver of breaches. The author argues that instead of focusing on technology alone, organizations should prioritize cultivating a strong security culture that simplifies and supports secure human behavior. The article provides guidance on evaluating and strengthening an organization's security culture by examining leadership signals, security team engagement, policy design, and security training.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html</guid>
+      <pubDate>Tue, 19 Aug 2025 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean Kimsuky Hackers Use GitHub to Target Foreign Embassies with XenoRAT Malware</title>
+      <link>https://gbhackers.com/north-korean-kimsuky-hackers-use-github/</link>
+      <description>The Kimsuky group (APT43) launched a DPRK-linked espionage operation targeting diplomatic missions in South Korea. The campaign involved spear-phishing emails with ZIP files hosting malware, which delivered payloads via Dropbox and Daum, allowing for data exfiltration and payload retrieval over HTTPS.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157503</guid>
+      <pubDate>Tue, 19 Aug 2025 11:09:03 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Defender AI Can Detect Plaintext Credentials in Active Directory</title>
       <link>https://gbhackers.com/microsoft-defender-ai-detect-plaintext-credentials/</link>
       <description>Vulnerable Product: Microsoft Active Directory systems; CVE(s): None; Summary: The vulnerability lies in the storage of plaintext credentials in free text fields within Active Directory and Microsoft Entra ID systems. This allows attackers to easily exploit the credentials, which are often stored for operational flexibility and simplicity. The AI-powered security capability from Microsoft detects exposed credentials with unprecedented precision, helping organizations eliminate this critical attack vector.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157533</guid>
       <pubDate>Tue, 19 Aug 2025 10:23:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware incidents in Japan during the first half of 2025</title>
+      <link>https://blog.talosintelligence.com/ransomware_incidents_in_japan_during_the_first_half_of_2025/</link>
+      <description>This article reports on the increase in ransomware attacks in Japan, with a focus on small and medium-sized enterprises. The most affected industry remains manufacturing, while the ransomware group "Qilin" has been causing the most damage. The article also discusses the emergence of new groups like Kawa4096 and provides details on the tactics, techniques, and procedures (TTPs) used by these groups, including the use of the Salsa20 stream cipher for encryption.</description>
+      <guid isPermaLink="false">689d7430e2d85f00011b7ffd</guid>
+      <pubDate>Tue, 19 Aug 2025 10:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>JJ Cummings: The art of controlling information</title>
+      <link>https://blog.talosintelligence.com/jj-cummings-the-art-of-controlling-information/</link>
+      <description>This article is not about a vulnerability or cybersecurity-relevant content. It appears to be an employee spotlight or career development story featuring JJ Cummings, leader of Cisco's Threat Intelligence and Interdiction team, discussing his role, challenges, and experiences at the company. The article does not contain any threat actor, tactics, infrastructure, scams, or impacts relevant to cybersecurity.</description>
+      <guid isPermaLink="false">689f4691e2d85f00011b8197</guid>
+      <pubDate>Tue, 19 Aug 2025 10:00:27 +0000</pubDate>
     </item>
     <item>
       <title>Fashionable Phishing Bait: GenAI on the Hook</title>
@@ -1411,48 +1453,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-744, ZDI-CAN-25483; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of QNAP TS-464 devices without requiring authentication. The issue exists within the reset_password.cgi endpoint due to improper certificate validation, allowing attackers to exploit this vulnerability.</description>
       <guid isPermaLink="false">ZDI-CAN-25483</guid>
       <pubDate>Wed, 13 Aug 2025 15:03:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Deploy Dedicated Phishlet for FIDO Authentication Downgrade Attacks</title>
-      <link>https://gbhackers.com/hackers-deploy-dedicated-phishlet/</link>
-      <description>Vulnerable Product: N/A; CVE(s): None; Summary: A novel technique allows threat actors to bypass FIDO-based authentication through downgrade attacks, leveraging a custom phishlet within adversary-in-the-middle (AiTM) frameworks. The attack exploits gaps in browser compatibility and user agent handling, forcing victims to revert to less secure MFA mechanisms, enabling credential theft and session hijacking.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156376</guid>
-      <pubDate>Wed, 13 Aug 2025 14:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOCRadar on 2025 Inc. 5000 List of America’s Fastest-Growing Companies</title>
-      <link>https://socradar.io/socradar-on-2025-inc-5000-list-of-americas-fastest-growing-companies/</link>
-      <description>SOCRadar, a cybersecurity company, has been ranked No. 169 on the 2025 Inc. 5000 list of America's fastest-growing private companies, with 2,301% three-year growth. This recognition highlights the company's rapid revenue growth, customer trust, and team dedication.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100062642</guid>
-      <pubDate>Wed, 13 Aug 2025 14:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-652: (Pwn2Own) Microsoft SharePoint ToolPane Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-652/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53771; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Microsoft SharePoint, allowing unauthorized access. Authentication is not required to exploit this vulnerability, which exists within the ToolPane endpoint due to inadequate restrictions on a protected API.</description>
-      <guid isPermaLink="false">ZDI-CAN-27790</guid>
-      <pubDate>Wed, 13 Aug 2025 13:59:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-653: (Pwn2Own) Microsoft SharePoint Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-653/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft SharePoint Server, bypassing existing authentication mechanisms. The issue stems from the lack of proper validation of user-supplied data, leading to deserialization of untrusted data and potential code execution in the context of the SharePoint web server process.</description>
-      <guid isPermaLink="false">ZDI-CAN-27791</guid>
-      <pubDate>Wed, 13 Aug 2025 13:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-654: SolarWinds TFTP Server Deserialization of Untrusted Data Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-654/</link>
-      <description>Vulnerable Product: SolarWinds TFTP Server; CVE(s): CVE-2025-26397; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of SolarWinds TFTP Server by deserializing untrusted data. An attacker must first obtain the ability to execute low-privileged code on the target system and can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26280</guid>
-      <pubDate>Wed, 13 Aug 2025 13:59:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-655: Samsung MagicINFO 9 Server downloadChangedFiles Directory Traversal Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-655/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54438; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of Samsung MagicINFO 9 Server, without requiring authentication. The flaw exists in the downloadChangedFiles function due to a lack of proper validation of user-supplied paths prior to file operations.</description>
-      <guid isPermaLink="false">ZDI-CAN-26520</guid>
-      <pubDate>Wed, 13 Aug 2025 13:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
