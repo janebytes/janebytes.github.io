@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 16:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 17:03:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Elastic rejects claims of a zero-day RCE flaw in Defend EDR</title>
+      <link>https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/</link>
+      <description>Vulnerable Product: Elastic Defend; CVE(s): None; Summary: AshES Cybersecurity claims to have discovered a remote code execution (RCE) flaw in Elastic Defend that would allow an attacker to bypass EDR protections, but Elastic's Security Engineering team was unable to reproduce the vulnerability and its effects.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/</guid>
+      <pubDate>Tue, 19 Aug 2025 16:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI releases $4 ChatGPT plan, but it's not available in the US for now</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-4-chatgpt-plan-but-its-not-available-in-the-us-for-now/</link>
+      <description>This article does not discuss a vulnerability. It appears to be an announcement from OpenAI about their new GPT Go subscription plan and its features.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-4-chatgpt-plan-but-its-not-available-in-the-us-for-now/</guid>
+      <pubDate>Tue, 19 Aug 2025 16:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ClickFix Attack Deploys Fake BBC News Page and Fake Cloudflare Verification to Deceive Users</title>
+      <link>https://gbhackers.com/new-clickfix-attack-deploys-fake-bbc-news-page/</link>
+      <description>Cybersecurity researchers have discovered a novel ClickFix attack variant that impersonates trusted BBC news content while leveraging counterfeit Cloudflare Turnstile verification interfaces to coerce users into executing malicious PowerShell commands. The attack exploits user familiarity with legitimate web security protocols, delivering malware payloads including infostealers, ransomware, and remote access trojans.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157601</guid>
+      <pubDate>Tue, 19 Aug 2025 16:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>Weaponized Copyright Documents Used by Threat Actors to Target Key Employees with Noodlophile Stealer</title>
       <link>https://gbhackers.com/weaponized-copyright-documents-used-by-threat-actors/</link>
@@ -63,6 +84,27 @@
       <description>The Business Council of New York State (BCNYS) has revealed a data breach that affected over 47,000 individuals, exposing personal, financial, and health information. The attackers stole files containing sensitive information, including names, Social Security numbers, dates of birth, and medical records.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/</guid>
       <pubDate>Tue, 19 Aug 2025 12:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Desigo CC Product Family and SENTRON Powermanager</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-231-01</link>
+      <description>Vulnerable Product: Siemens Desigo CC Product Family and SENTRON Powermanager; CVE(s): CVE-2025-47809; Summary: A privilege escalation vulnerability exists in Wibu CodeMeter before 8.30a, allowing a local user to gain elevated privileges after an unprivileged installation with UAC, without restarting the system. Successful exploitation could allow privilege escalation.</description>
+      <guid isPermaLink="false">/node/23807</guid>
+      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Four Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/19/cisa-releases-four-industrial-control-systems-advisories</link>
+      <description>CISA has released four Industrial Control Systems (ICS) advisories regarding vulnerabilities in Siemens' Desigo CC Product Family, Mendix SAML Module, Tigo Energy Cloud Connect Advanced, and EG4 Electronics EG4 Inverters. The advisories provide technical details and mitigations for the identified security issues.</description>
+      <guid isPermaLink="false">/node/23809</guid>
+      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siemens Mendix SAML Module</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-231-02</link>
+      <description>Vulnerable Product: Siemens Mendix SAML Module; CVE(s): CVE-2025-40758; Summary: Improper verification of cryptographic signature in affected versions of the module allows unauthenticated remote attackers to hijack an account in specific SSO configurations, with a CVSS v3.1 base score of 8.7.</description>
+      <guid isPermaLink="false">/node/23808</guid>
+      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New Android Attack Targets Indian Users with Free Electricity Subsidy to Install Malware</title>
@@ -1407,48 +1449,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <description>Vulnerable Product: Academy Software Foundation OpenEXR; CVE(s): CVE-2025-48071; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Academy Software Foundation OpenEXR. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer.</description>
       <guid isPermaLink="false">ZDI-CAN-26141</guid>
       <pubDate>Wed, 13 Aug 2025 20:03:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-835: NoMachine Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-835/</link>
-      <description>Vulnerable Product: NoMachine; CVE(s): CVE-2025-8614; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of NoMachine, requiring an attacker to execute low-privileged code first. The specific flaw exists within the configuration of OpenSSL, which loads a configuration file from an unsecured location, allowing privilege escalation and arbitrary code execution in the context of the service account.</description>
-      <guid isPermaLink="false">ZDI-CAN-26766</guid>
-      <pubDate>Wed, 13 Aug 2025 20:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-836: Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-836/</link>
-      <description>Vulnerable Product: Rockwell Automation Arena Simulation; CVE(s): CVE-2025-6376; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Rockwell Automation Arena Simulation. User interaction is required to exploit this vulnerability, and the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated object.</description>
-      <guid isPermaLink="false">ZDI-CAN-26556</guid>
-      <pubDate>Wed, 13 Aug 2025 20:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-837: Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-837/</link>
-      <description>Vulnerable Product: Rockwell Automation Arena Simulation; CVE(s): CVE-2025-6377; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Rockwell Automation Arena Simulation. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of DOE files.</description>
-      <guid isPermaLink="false">ZDI-CAN-26559</guid>
-      <pubDate>Wed, 13 Aug 2025 20:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerging AI-Driven Phishing Trends Reshape Cybercrime Tactics</title>
-      <link>https://gbhackers.com/emerging-ai-driven-phishing-trends/</link>
-      <description>Artificial intelligence (AI) is revolutionizing phishing and scams, enabling the generation of hyper-realistic deceptive content that exploits current events and personal data. Cybercriminals are using neural networks, large language models, and deepfakes to craft flawless communications that mimic legitimate sources, targeting individuals and organizations with personalized attacks. This shift in tactics includes automated data harvesting, voice cloning, and synthetic audio and visual content, making it increasingly difficult for users to detect malicious links or attachments.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156471</guid>
-      <pubDate>Wed, 13 Aug 2025 19:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 24H2 updates failing again with 0x80240069 errors</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The KB5063878 Windows 11 24H2 cumulative update fails to install on some systems, resulting in error code 0x80240069 and messages indicating the Windows Update service has terminated unexpectedly. This issue affects only systems receiving updates through WSUS, primarily impacting enterprise environments.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/</guid>
-      <pubDate>Wed, 13 Aug 2025 19:41:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>New downgrade attack can bypass FIDO auth in Microsoft Entra ID</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/</link>
-      <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: A new FIDO downgrade attack tricks users into authenticating with weaker login methods, making them susceptible to phishing and session hijacking. The attack employs a custom phishlet within the Evilginx adversary-in-the-middle framework to spoof an unsupported browser user agent, forcing users to choose alternate verification fallback methods that can be intercepted by attackers, resulting in stolen account credentials and MFA tokens or session cookies.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/</guid>
-      <pubDate>Wed, 13 Aug 2025 19:14:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
