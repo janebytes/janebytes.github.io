@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 12:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 13:01:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>NY Business Council discloses data breach affecting 47,000 people</title>
+      <link>https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/</link>
+      <description>The Business Council of New York State (BCNYS) has revealed a data breach that affected over 47,000 individuals, exposing personal, financial, and health information. The attackers stole files containing sensitive information, including names, Social Security numbers, dates of birth, and medical records.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/</guid>
+      <pubDate>Tue, 19 Aug 2025 12:04:08 +0000</pubDate>
+    </item>
     <item>
       <title>New Android Attack Targets Indian Users with Free Electricity Subsidy to Install Malware</title>
       <link>https://gbhackers.com/new-android-attack-targets-indian-users/</link>
@@ -1446,13 +1453,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>No vulnerability is discussed in the article. Instead, it describes a new malvertising campaign that distributes a multi-stage malware framework called PS1Bot, which features modules for information theft, keylogging, reconnaissance, and persistent system access. The campaign uses malvertising as a propagation vector and has been active since early 2025.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html</guid>
       <pubDate>Wed, 13 Aug 2025 15:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-744: (Pwn2Own) QNAP TS-464 reset_password.cgi Improper Certificate Validation Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-744/</link>
-      <description>Vulnerable Product: QNAP TS-464; CVE(s): ZDI-25-744, ZDI-CAN-25483; Summary: This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of QNAP TS-464 devices without requiring authentication. The issue exists within the reset_password.cgi endpoint due to improper certificate validation, allowing attackers to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-25483</guid>
-      <pubDate>Wed, 13 Aug 2025 15:03:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
