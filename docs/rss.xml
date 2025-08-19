@@ -6,8 +6,85 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 22:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 10:07:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fashionable Phishing Bait: GenAI on the Hook</title>
+      <link>https://unit42.paloaltonetworks.com/genai-phishing-bait/</link>
+      <description>The article discusses the growing adoption of generative AI (GenAI) and its potential to introduce new risks in cybersecurity. It highlights how GenAI can be misused by threat actors to create realistic phishing content, clone trusted brands, and automate large-scale deployment using services like low-code site builders. The article also provides indicators of these activities to support detection and response efforts.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=152030</guid>
+      <pubDate>Tue, 19 Aug 2025 10:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI Moves to Stop Domain Resurrection Attacks with Expired Domain Blocks</title>
+      <link>https://gbhackers.com/pypi-moves-to-stop-domain-resurrection-attacks/</link>
+      <description>The Python Package Index (PyPI) has implemented new security measures to prevent domain resurrection attacks, a type of supply-chain threat that exploits email-based account verification systems. PyPI's solution leverages Domainr's Status API to monitor and update the status of user email addresses associated with domains entering expiration phases, automatically unverifying previously validated email addresses when a domain enters the redemption period.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157527</guid>
+      <pubDate>Tue, 19 Aug 2025 09:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lockbit Linux ESXi Ransomware Variant Reveals Evasion Techniques and File Encryption Process</title>
+      <link>https://gbhackers.com/lockbit-linux-esxi-ransomware-variant/</link>
+      <description>The article analyzes a Lockbit ransomware variant targeting Linux-based ESXi servers. It highlights the malware's evasion techniques, operational details, and encryption methods, including its use of ptrace to detect debugging environments and libsodium for key generation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157493</guid>
+      <pubDate>Tue, 19 Aug 2025 08:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious npm Packages Target Crypto Developers to Steal Login Credentials</title>
+      <link>https://gbhackers.com/malicious-npm-packages-target-crypto-developers/</link>
+      <description>This article discusses a threat campaign dubbed "Solana-Scan" that deploys malicious npm packages to infiltrate the Solana cryptocurrency ecosystem. The packages, published by an actor operating under the handle "cryptohan", aim to lure developers in the crypto space and collect sensitive information such as cryptocurrency tokens, wallet credentials, and exchange login details.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157343</guid>
+      <pubDate>Tue, 19 Aug 2025 07:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive Allianz Life data breach impacts 1.1 million people</title>
+      <link>https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/</link>
+      <description>Hackers stole the personal information of 1.1 million individuals in a Salesforce data theft attack that impacted Allianz Life, a U.S. insurance giant, and other high-profile companies worldwide. The attackers tricked employees into linking malicious OAuth apps to their company's Salesforce instance, allowing them to download and steal databases.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/</guid>
+      <pubDate>Tue, 19 Aug 2025 07:17:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>PipeMagic Malware Imitates ChatGPT App to Exploit Windows Vulnerability and Deploy Ransomware</title>
+      <link>https://gbhackers.com/pipemagic-malware-imitates-chatgpt-app/</link>
+      <description>Vulnerable Product: None; CVE(s): CVE-2025-29824; Summary: PipeMagic malware is a modular backdoor that exploits the Windows Common Log File System (CLFS) elevation-of-privilege vulnerability. It poses as ChatGPT Desktop Application and enables privilege escalation, ransomware deployment, and command-and-control communication over TCP.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157478</guid>
+      <pubDate>Tue, 19 Aug 2025 07:17:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Sni5Gect Attack Targets 5G to Steal Messages and Inject Payloads</title>
+      <link>https://gbhackers.com/new-sni5gect-attack-targets-5g/</link>
+      <description>The SNI5GECT framework is a sophisticated attack framework that can intercept 5G communications, inject malicious payloads without requiring a rogue base station, and demonstrate multiple attack vectors that pose serious security risks to 5G users.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157476</guid>
+      <pubDate>Tue, 19 Aug 2025 07:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Alerts on Active Exploitation of Trend Micro Apex One Vulnerability</title>
+      <link>https://gbhackers.com/cisa-alerts-on-trend-micro-apex-one-vulnerability/</link>
+      <description>Vulnerable Product: Trend Micro; CVE(s): CVE-2025-54948; Summary: The vulnerability affects the Trend Micro Apex One Management Console's on-premise deployments, allowing pre-authenticated remote attackers to upload malicious code and execute arbitrary commands, posing significant risks to organizations worldwide.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157472</guid>
+      <pubDate>Tue, 19 Aug 2025 06:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI Blocks 1,800 Expired-Domain Emails to Prevent Account Takeovers and Supply Chain Attacks</title>
+      <link>https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html</link>
+      <description>The Python Package Index (PyPI) repository now checks for expired domains to prevent supply chain attacks. This change aims to tackle domain resurrection attacks that occur when attackers purchase an expired domain and use it to take control of PyPI accounts through password resets.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html</guid>
+      <pubDate>Tue, 19 Aug 2025 06:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Cisco Secure Links to Evade Scanners and Bypass Filters</title>
+      <link>https://gbhackers.com/hackers-exploit-cisco-secure-links/</link>
+      <description>Vulnerable Product: Cisco Safe Links; CVE(s): None; Summary: Cybercriminals exploit the trust in Cisco's security infrastructure by generating legitimate Cisco Safe Links for malicious purposes. They compromise accounts within Cisco-protected organizations, exploit SaaS services, or recycle active Safe Links to send phishing emails that bypass network filters and evade traditional email security scanners.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157465</guid>
+      <pubDate>Tue, 19 Aug 2025 05:52:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel Websites Compromised, Allowing Hackers Access to Employee and Confidential Data</title>
+      <link>https://gbhackers.com/intel-websites-compromised/</link>
+      <description>Vulnerable Product: Intel; CVE(s): None; Summary: Four internal Intel websites were found to have critical security flaws, exposing personal details of over 270,000 employees and potentially granting attackers access to sensitive corporate information. The vulnerabilities allowed for login bypasses, hardcoded credentials, exposed tokens, and GitHub access token manipulation, enabling unauthorized access and data exfiltration.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157458</guid>
+      <pubDate>Tue, 19 Aug 2025 04:57:07 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Use Pirated Games to Bypass Microsoft Defender SmartScreen and Adblockers</title>
       <link>https://gbhackers.com/threat-actors-use-pirated-games/</link>
@@ -23,11 +100,25 @@
       <pubDate>Mon, 18 Aug 2025 20:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>XenoRAT malware campaign hits multiple embassies in South Korea</title>
+      <link>https://www.bleepingcomputer.com/news/security/xenorat-malware-campaign-hits-multiple-embassies-in-south-korea/</link>
+      <description>The article discusses a state-sponsored espionage campaign targeting foreign embassies in South Korea, deploying XenoRAT malware from malicious GitHub repositories. The campaign has been ongoing since March and uses spearphishing attacks with contextual email lures and password-protected archives containing obfuscated PowerShell code that retrieves the XenoRAT payload.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/xenorat-malware-campaign-hits-multiple-embassies-in-south-korea/</guid>
+      <pubDate>Mon, 18 Aug 2025 19:38:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures</title>
       <link>https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html</link>
       <description>Threat actors behind the Noodlophile malware are using spear-phishing emails with updated delivery mechanisms to deploy the information stealer in attacks targeting enterprises in the U.S., Europe, Baltic countries, and the Asia-Pacific region. The campaign leverages advanced spear-phishing emails posing as copyright infringement notices, tailored with reconnaissance-derived details like specific Facebook Page IDs and company ownership information.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html</guid>
       <pubDate>Mon, 18 Aug 2025 19:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nebraska man gets 1 year in prison for $3.5M cryptojacking scheme</title>
+      <link>https://www.bleepingcomputer.com/news/security/nebraska-man-gets-1-year-in-prison-for-35m-cryptojacking-scheme/</link>
+      <description>A Nebraska man was sentenced to one year in prison for defrauding cloud computing providers of over $3.5 million to mine cryptocurrency worth nearly $1 million. The individual, Charles O. Parks III, used various aliases and corporate entities to create accounts with multiple cloud service providers and laundered the illegal cryptocurrency proceeds using multiple crypto exchanges, online payment services, a New York City non-fungible token (NFT) marketplace, as well as bank accounts.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/nebraska-man-gets-1-year-in-prison-for-35m-cryptojacking-scheme/</guid>
+      <pubDate>Mon, 18 Aug 2025 19:05:03 +0000</pubDate>
     </item>
     <item>
       <title>Threat Actors Exploit Microsoft Help Index File to Deploy PipeMagic Malware</title>
@@ -1362,97 +1453,6 @@ While the article does not specifically discuss a vulnerability (software, hardw
       <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54439; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server by uploading arbitrary files without proper validation. Although authentication is required, the existing mechanism can be bypassed.</description>
       <guid isPermaLink="false">ZDI-CAN-25809</guid>
       <pubDate>Wed, 13 Aug 2025 13:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-657: Samsung MagicINFO 9 Server MagicInfoWebAuthorClient Unrestricted File Upload Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-657/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54440; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server without authentication. The flaw exists within the MagicInfoWebAuthorClient app due to a lack of proper validation of user-supplied data, allowing the upload of arbitrary files and execution in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26519</guid>
-      <pubDate>Wed, 13 Aug 2025 13:58:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters May Have Teamed Up With Scattered Spider in Salesforce Attack Campaigns</title>
-      <link>https://gbhackers.com/shinyhunters-may-have-teamed-up-with-scattered-spider/</link>
-      <description>ShinyHunters, a financially motivated threat group, has launched sophisticated attacks targeting Salesforce instances across high-profile enterprises in various industries. The attacks involve ticket-themed phishing domains and credential-harvesting pages, as well as vishing campaigns and data exfiltration via Mullvad VPN obfuscation. Circumstantial evidence suggests a potential alliance between ShinyHunters and Scattered Spider.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156365</guid>
-      <pubDate>Wed, 13 Aug 2025 13:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-658: Samsung MagicINFO 9 Server getFontFileFromMagicInfoServer Unrestricted File Upload Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-658/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54441; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server, with authentication bypassable. The flaw exists within the getFontFileFromMagicInfoServer method due to lack of proper validation of user-supplied data, allowing upload of arbitrary files.</description>
-      <guid isPermaLink="false">ZDI-CAN-25807</guid>
-      <pubDate>Wed, 13 Aug 2025 13:57:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-659: Samsung MagicINFO 9 Server SWUpdateFileUploadServlet Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-659/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54443; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server without authentication. The flaw exists in the SWUpdateFileUploadServlet class due to lack of proper validation of a user-supplied path prior to using it in file operations.</description>
-      <guid isPermaLink="false">ZDI-CAN-25772</guid>
-      <pubDate>Wed, 13 Aug 2025 13:57:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-660: Samsung MagicINFO 9 Server filenameHasExecutableType Unrestricted File Upload Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-660/</link>
-      <description>Vulnerable Product: Samsung, MagicINFO 9 Server; CVE(s): CVE-2025-54444; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server without authentication. It exists in the implementation of the filenameHasExecutableType method due to a lack of proper validation of user-supplied data, which can allow the upload of arbitrary files.</description>
-      <guid isPermaLink="false">ZDI-CAN-25804</guid>
-      <pubDate>Wed, 13 Aug 2025 13:57:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-661: Samsung MagicINFO 9 Server parseXMLString XML External Entity Processing Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-661/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54445; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Samsung MagicINFO 9 Server without authentication. It exists in the implementation of the parseXMLString method due to improper XML External Entity (XXE) reference restrictions, allowing an attacker to embed contents back into the XML document for further processing and disclosing SYSTEM-level information.</description>
-      <guid isPermaLink="false">ZDI-CAN-25860</guid>
-      <pubDate>Wed, 13 Aug 2025 13:57:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-662: Samsung MagicINFO 9 Server ResponseUploadActivity Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-662/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54446; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of the Samsung MagicINFO 9 Server without authentication. The issue is caused by a lack of proper validation of user-supplied paths prior to using them in file operations, which can be exploited to execute code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25955</guid>
-      <pubDate>Wed, 13 Aug 2025 13:56:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-663: Samsung MagicINFO 9 Server OpenApiController Unrestricted File Upload Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-663/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54447; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server without authentication. The specific flaw exists within the OpenApiController class due to lack of proper validation of user-supplied data, allowing upload of arbitrary files and execution of code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-25885</guid>
-      <pubDate>Wed, 13 Aug 2025 13:56:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-664: Samsung MagicINFO 9 Server copyResourceToFile Unrestricted File Upload Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-664/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54448; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server without authentication. The flaw exists in the copyResourceToFile method due to lack of proper validation of user-supplied data, allowing uploads of arbitrary files.</description>
-      <guid isPermaLink="false">ZDI-CAN-25874</guid>
-      <pubDate>Wed, 13 Aug 2025 13:56:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-665: Samsung MagicINFO 9 Server fillLftOrLfdInfo Unrestricted File Upload Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-665/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54449, ZDI-CAN-25873, ZDI-25-665; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server without authentication. The issue is due to the lack of proper validation of user-supplied data, which can allow the upload of arbitrary files.</description>
-      <guid isPermaLink="false">ZDI-CAN-25873</guid>
-      <pubDate>Wed, 13 Aug 2025 13:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-666: Samsung MagicINFO 9 Server DeviceLogUploadServlet Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-666/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54450; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server. Authentication is required to exploit this vulnerability, and an attacker can leverage this vulnerability to execute code in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-26057</guid>
-      <pubDate>Wed, 13 Aug 2025 13:55:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-667: Samsung MagicINFO 9 Server MagicInfoCache Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-667/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54451; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Samsung MagicINFO 9 Server without authentication. The issue exists within the RMI service due to a lack of proper validation of user-supplied data, leading to deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-26058</guid>
-      <pubDate>Wed, 13 Aug 2025 13:55:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-668: Samsung MagicINFO 9 Server ServletAuthenticationProcessingFilter Authentication Bypass Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-668/</link>
-      <description>Vulnerable Product: Samsung MagicINFO 9 Server; CVE(s): CVE-2025-54452; Summary: This vulnerability allows remote attackers to partially bypass authentication on affected installations of Samsung MagicINFO 9 Server, without requiring authentication. The issue exists within the ServletAuthenticationProcessingFilter class due to an improper implementation of the authentication algorithm.</description>
-      <guid isPermaLink="false">ZDI-CAN-25800</guid>
-      <pubDate>Wed, 13 Aug 2025 13:55:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
