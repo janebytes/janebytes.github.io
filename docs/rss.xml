@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 13:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 14:02:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft: August security updates break Windows recovery, reset</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: The August 2025 Windows security updates are breaking reset and recovery operations on systems running Windows 10 and older versions of Windows 11, causing issues with reinstalling the system while keeping files or remotely resetting devices.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/</guid>
+      <pubDate>Tue, 19 Aug 2025 13:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution</title>
+      <link>https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html</link>
+      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: A new exploit combines two previously patched vulnerabilities (CVE-2025-31324 and CVE-2025-42999) to bypass authentication and achieve remote code execution. This allows attackers to upload arbitrary files, execute operating system commands with SAP administrator privileges, and conduct living-off-the-land attacks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html</guid>
+      <pubDate>Tue, 19 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Surge in Scans From Hacked Cisco, Linksys, and Araknis Routers</title>
+      <link>https://gbhackers.com/surge-in-scans-from-hacked/</link>
+      <description>Vulnerable Product: Cisco Small Business RV series routers, Linksys LRT series, Araknis Networks (AN-300-RT-4L2W); CVE(s): None; Summary: Researchers have identified a significant increase in malicious scanning activities originating from compromised consumer and enterprise networking equipment, with a focus on Cisco, Linksys, and Araknis router models. The compromised devices are being used to conduct reconnaissance scans against internet-connected systems, potentially serving as launching points for more sophisticated attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157572</guid>
+      <pubDate>Tue, 19 Aug 2025 12:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP 0-Day Exploit Reportedly Leaked by ShinyHunters Hackers</title>
+      <link>https://gbhackers.com/sap-0-day-exploit-reportedly-leaked/</link>
+      <description>Vulnerable Product: SAP; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: A sophisticated exploit targeting critical SAP vulnerabilities has been publicly released by ShinyHunters, which chains multiple zero-day vulnerabilities to execute arbitrary commands on target SAP systems. The exploit uses a deserialization vulnerability (CVE-2025-42999) to enable "live off the land" attacks and adjusts dynamically based on SAP NetWeaver versions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157568</guid>
+      <pubDate>Tue, 19 Aug 2025 12:18:40 +0000</pubDate>
+    </item>
     <item>
       <title>NY Business Council discloses data breach affecting 47,000 people</title>
       <link>https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/</link>
@@ -1423,36 +1451,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
 FYSA:</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/</guid>
       <pubDate>Wed, 13 Aug 2025 16:42:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pennsylvania attorney general's email, site down after cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/</link>
-      <description>Vulnerable Product: Citrix NetScaler; CVE(s): CVE-2025-5777; Summary: Multiple public-facing Citrix NetScaler appliances on the Pennsylvania Attorney General's network were found to be vulnerable to attacks exploiting a critical vulnerability tracked as CVE-2025-5777 (Citrix Bleed 2).</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/</guid>
-      <pubDate>Wed, 13 Aug 2025 16:25:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Best Purple Teaming Companies in 2025</title>
-      <link>https://gbhackers.com/purple-teaming-companies/</link>
-      <description>The provided article highlights eight companies that specialize in Purple Teaming, a collaborative approach to cybersecurity that simulates real-world cyber attacks on an organization's digital assets to identify and address vulnerabilities. These companies are Deloitte, QualySec, Redscan, SCYTHE, and others, offering comprehensive services including penetration testing, red teaming, and incident response.
-
-While the article does not specifically discuss a vulnerability (software, hardware, or firmware), it provides valuable insights into the importance of aligning defense and offense in cybersecurity. The highlighted companies demonstrate unique strengths in providing tailored Purple Teaming services that can help organizations achieve robust cybersecurity resilience.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149462</guid>
-      <pubDate>Wed, 13 Aug 2025 16:21:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>SmartLoader Malware Masquerades as Legitimate GitHub Repository to Infect Users</title>
-      <link>https://gbhackers.com/smartloader-malware-masquerades-as-legitimate-github-repository/</link>
-      <description>This article describes a sophisticated campaign involving the dissemination of SmartLoader malware through GitHub repositories designed to mimic legitimate software projects. The malware targets users searching for illicit content and exploits trust in GitHub's ecosystem, ultimately leading to the installation of payloads such as infostealers like Rhadamanthys, Redline, and Lumma Stealer.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156388</guid>
-      <pubDate>Wed, 13 Aug 2025 15:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks</title>
-      <link>https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html</link>
-      <description>No vulnerability is discussed in the article. Instead, it describes a new malvertising campaign that distributes a multi-stage malware framework called PS1Bot, which features modules for information theft, keylogging, reconnaissance, and persistent system access. The campaign uses malvertising as a propagation vector and has been active since early 2025.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html</guid>
-      <pubDate>Wed, 13 Aug 2025 15:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
