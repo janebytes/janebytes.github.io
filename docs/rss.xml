@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 14:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 15:01:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Pharma firm Inotiv says ransomware attack impacted operations</title>
+      <link>https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/</link>
+      <description>American pharmaceutical company Inotiv has been affected by a ransomware attack, which resulted in the encryption of some of its systems and data. The attack was claimed by the Qilin ransomware gang, who allegedly stole around 162,000 files amounting to 176GB and published data samples on their leak site. The incident has caused disruptions to certain business operations, with the company's IT team working to restore affected systems and migrate some operations offline to mitigate the impact.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/</guid>
+      <pubDate>Tue, 19 Aug 2025 14:25:14 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft: August security updates break Windows recovery, reset</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/</link>
@@ -1442,15 +1449,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <description>Vulnerable Product: Adobe; CVE(s): None; Summary: Adobe has rolled out August 2025 Patch Tuesday updates, addressing a total of 60 vulnerabilities across various products, including creative tools and enterprise solutions. The patches primarily focus on out-of-bounds read and write issues, use-after-free errors, and arbitrary code execution risks, many of which carry high severity ratings due to their potential for remote exploitation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156486</guid>
       <pubDate>Wed, 13 Aug 2025 17:41:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spike in Fortinet VPN brute-force attacks raises zero-day concerns</title>
-      <link>https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/</link>
-      <description>Vulnerable Product: Fortinet; CVE(s): None; Summary: The article reports a massive spike in brute-force attacks targeting Fortinet SSL VPNs and FortiManager, which is often seen as a precursor to new vulnerability disclosures. The campaign started with FortiOS SSL VPN endpoints and later shifted to FortiManager's FGFM profile, suggesting the same attackers or toolset/infrastructure were used.
-
-FYSA:</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/</guid>
-      <pubDate>Wed, 13 Aug 2025 16:42:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
