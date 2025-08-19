@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 20:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 21:02:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Oregon Man Charged in ‘Rapper Bot’ DDoS Service</title>
+      <link>https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/</link>
+      <description>A 22-year-old Oregon man has been arrested for operating a massive botnet called Rapper Bot, which was used to launch distributed denial-of-service (DDoS) attacks against targets. The botnet, which consisted of tens of thousands of hacked Internet of Things (IoT) devices, was rented out to online extortionists and caused significant disruptions to websites and networks.</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71944</guid>
+      <pubDate>Tue, 19 Aug 2025 20:51:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>47,000 Individuals Affected by Data Breach, Reveals NY Business Council</title>
+      <link>https://gbhackers.com/47000-individuals-affected-by-data-breach/</link>
+      <description>The Business Council of New York State has disclosed a data breach impacting approximately 47,329 individuals, likely caused by an external system intrusion exploiting weaknesses such as unpatched software vulnerabilities or phishing-enabled initial access vectors. The breach highlights the importance of real-time monitoring and vulnerability management to mitigate similar risks, as well as the need for proactive threat intelligence sharing among industry peers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157607</guid>
+      <pubDate>Tue, 19 Aug 2025 20:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI now blocks domain resurrection attacks used for hijacking accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/pypi-now-blocks-domain-resurrection-attacks-used-for-hijacking-accounts/</link>
+      <description>Vulnerable Product: PyPI (Python Package Index); CVE(s): None; Summary: The Python Package Index (PyPI) has introduced new protections against domain resurrection attacks that enable hijacking accounts through password resets. PyPI now checks whether the domains of verified email addresses on the platform have expired or are entering expiration phases, and marks those addresses as unverified. This closes the opportunity window for exploitation even if an attacker registers the domain.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pypi-now-blocks-domain-resurrection-attacks-used-for-hijacking-accounts/</guid>
+      <pubDate>Tue, 19 Aug 2025 20:08:23 +0000</pubDate>
+    </item>
     <item>
       <title>New Research Exposes DPRK IT Workers’ Email Addresses and Recruitment Trends</title>
       <link>https://gbhackers.com/new-research-exposes-dprk-it-workers/</link>
@@ -1428,27 +1449,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <description>Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The Xerox FreeFlow Core has two severe vulnerabilities that allow unauthenticated remote attackers to execute arbitrary code on vulnerable systems. The first is an XML External Entity (XXE) injection flaw and the second is a path traversal vulnerability that enables uploading webshells to publicly accessible directories, providing immediate remote access to compromised systems.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156519</guid>
       <pubDate>Thu, 14 Aug 2025 05:38:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical WordPress Plugin Vulnerability Puts 70,000+ Sites at Risk of Remote Code Execution</title>
-      <link>https://gbhackers.com/critical-wordpress-plugin-vulnerability/</link>
-      <description>Vulnerable Product: Plugin "Databasefor Contact Form 7, WPforms, Elementor forms"; CVE(s): CVE-2025-7384; Summary: A critical vulnerability in the plugin allows unauthenticated attackers to inject malicious PHP objects, leading to potential complete website compromise. The combination with a Property-Oriented Programming (POP) chain enables arbitrary file deletion capabilities, including the removal of WordPress's core configuration file.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156514</guid>
-      <pubDate>Thu, 14 Aug 2025 05:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Alerts on N-able N-Central Deserialization and Injection Flaw Under Active Exploitation</title>
-      <link>https://gbhackers.com/cisa-alerts-on-n-able-n-central-deserialization-and-injection-flaw/</link>
-      <description>Vulnerable Product: N-able N-Central; CVE(s): CVE-2025-8875, CVE-2025-8876; Summary: The vulnerabilities involve an insecure deserialization flaw (CVE-2025-8875) that allows command execution and a command injection flaw (CVE-2025-8876) stemming from improper sanitization of user input. These flaws enable attackers to execute commands, compromise network infrastructures, and potentially gain unauthorized access to system resources and sensitive data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156510</guid>
-      <pubDate>Thu, 14 Aug 2025 04:44:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds Two N-able N-central Flaws to Known Exploited Vulnerabilities Catalog</title>
-      <link>https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html</link>
-      <description>Vulnerable Product: N-able N-central; CVE(s): CVE-2025-8875, CVE-2025-8876; Summary: An insecure deserialization vulnerability (CVE-2025-8875) and a command injection vulnerability via improper sanitization of user input (CVE-2025-8876) in N-able N-central's Remote Monitoring and Management (RMM) platform have been added to the Known Exploited Vulnerabilities (KEV) catalog, with evidence of active exploitation. Both vulnerabilities require authentication to exploit, but patching is recommended to secure the environment.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html</guid>
-      <pubDate>Thu, 14 Aug 2025 04:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
