@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 18:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 19:02:16 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New Research Reveals Security Vulnerabilities Linked to Popular VPN Apps</title>
+      <link>https://gbhackers.com/new-research-reveals-security-vulnerabilities-linked/</link>
+      <description>Vulnerable Product: Multiple VPN providers; CVE(s): None; Summary: The article reveals that multiple major VPN providers have been found to be linked to three distinct "families" with shared code bases, servers, and cryptographic credentials. This lack of transparency correlates with widespread security vulnerabilities, including reused passwords, deprecated ciphers, and hard-coded symmetric keys, compromising user privacy and exposing sensitive data to interception.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157577</guid>
+      <pubDate>Tue, 19 Aug 2025 18:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Okta open-sources catalog of Auth0 rules for threat detection</title>
+      <link>https://www.bleepingcomputer.com/news/security/okta-open-sources-catalog-of-auth0-rules-for-threat-detection/</link>
+      <description>Okta has open-sourced Sigma-based queries for Auth0 customers to detect account takeovers, misconfigurations, and suspicious behavior in event logs. The company aims to help security teams analyze Auth0 logs for suspicious activity that could indicate intrusion attempts, account takeovers, or other malicious activities.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/okta-open-sources-catalog-of-auth0-rules-for-threat-detection/</guid>
+      <pubDate>Tue, 19 Aug 2025 18:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft shares workaround for Teams "couldn't connect" error</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-teams-couldnt-connect-error/</link>
+      <description>The article discusses a known issue with Microsoft Teams causing "couldn't connect" errors when launching the application. The company is working to resolve the issue and provides a temporary workaround until the fix rolls out to all impacted users. Additionally, the article highlights Microsoft's efforts to enhance security features in Teams, including protection against malicious URLs and dangerous file types, as well as an allow/block list for incoming communications from blocked domains.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-teams-couldnt-connect-error/</guid>
+      <pubDate>Tue, 19 Aug 2025 18:07:14 +0000</pubDate>
+    </item>
     <item>
       <title>Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems</title>
       <link>https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html</link>
@@ -1430,27 +1451,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
 (Note: The article is not about a specific vulnerability, but rather discusses the capabilities and potential uses of Google Gemini's Deep Research feature.)</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-geminis-deep-research-is-finally-coming-to-api/</guid>
       <pubDate>Thu, 14 Aug 2025 01:01:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI relaxes GPT-5 rate limit, promises to improve the personality</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-relaxes-gpt-5-rate-limit-promises-to-improve-the-personality/</link>
-      <description>Vulnerable Product: None; FYSA: The article discusses OpenAI's efforts to address concerns around its GPT-5 model, including restoring older models for paid customers and working on an update to GPT-5's personality. Additionally, the article mentions a statistic that 46% of environments had passwords cracked in 2025, nearly doubling from the previous year.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-relaxes-gpt-5-rate-limit-promises-to-improve-the-personality/</guid>
-      <pubDate>Wed, 13 Aug 2025 22:22:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortinet warns of FortiSIEM pre-auth RCE flaw with exploit in the wild</title>
-      <link>https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/</link>
-      <description>Vulnerable Product: Fortinet FortiSIEM; CVE(s): CVE-2025-25256; Summary: A remote unauthenticated command injection flaw (CVE-2025-25256) exists in multiple branches of FortiSIEM, allowing an attacker to execute unauthorized code or commands via crafted CLI requests. The vulnerability is critical with a CVSS score of 9.8 and has functional exploit code available in the wild.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/</guid>
-      <pubDate>Wed, 13 Aug 2025 20:23:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infamous XZ Backdoor Found Hidden in Docker Images for Over a Year</title>
-      <link>https://gbhackers.com/infamous-xz-backdoor-found-hidden-in-docker-images/</link>
-      <description>Vulnerable Product: XZ Utils; CVE(s): None; Summary: The backdoor, attributed to a pseudonymous developer 'Jia Tan', was embedded in versions 5.6.0 and 5.6.1 of the lossless compression library. It targets liblzma.so, enabling unauthorized remote access through OpenSSH servers by tampering with control flow using GNU Indirect Function (IFUNC) resolvers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156273</guid>
-      <pubDate>Wed, 13 Aug 2025 20:06:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
