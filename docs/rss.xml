@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 15:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 16:01:42 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Weaponized Copyright Documents Used by Threat Actors to Target Key Employees with Noodlophile Stealer</title>
+      <link>https://gbhackers.com/weaponized-copyright-documents-used-by-threat-actors/</link>
+      <description>The Noodlophile Stealer malware has evolved into a targeted spear-phishing operation that weaponizes copyright infringement notices to infiltrate enterprises with substantial Facebook presences. It employs multilingual content, exploits legitimate software vulnerabilities, and delivers malicious payloads disguised as evidence files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157548</guid>
+      <pubDate>Tue, 19 Aug 2025 15:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code</title>
+      <link>https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html</link>
+      <description>The article discusses a previously unreported remote access trojan called GodRAT, which delivers shellcode to download malware from a command-and-control server using steganography. The malware is based on Gh0st RAT and has been detected targeting countries in Asia, Europe, and the Middle East since September 2024.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html</guid>
+      <pubDate>Tue, 19 Aug 2025 14:33:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pharma firm Inotiv says ransomware attack impacted operations</title>
       <link>https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/</link>
@@ -1435,20 +1449,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <description>Vulnerable Product: Microsoft Entra ID; CVE(s): None; Summary: A new FIDO downgrade attack tricks users into authenticating with weaker login methods, making them susceptible to phishing and session hijacking. The attack employs a custom phishlet within the Evilginx adversary-in-the-middle framework to spoof an unsupported browser user agent, forcing users to choose alternate verification fallback methods that can be intercepted by attackers, resulting in stolen account credentials and MFA tokens or session cookies.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/</guid>
       <pubDate>Wed, 13 Aug 2025 19:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s Android pKVM Framework Achieves SESIP Level 5 Certification</title>
-      <link>https://gbhackers.com/googles-android-pkvm-framework/</link>
-      <description>The article discusses the achievement of Google's protected KVM (pKVM) in achieving SESIP Level 5 certification, a major breakthrough for open-source security and consumer electronics. This milestone positions pKVM as the inaugural software security system tailored for widespread deployment in consumer devices to reach this elite assurance threshold.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156465</guid>
-      <pubDate>Wed, 13 Aug 2025 18:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe’s August 2025 Patch Tuesday Fixes 60 Vulnerabilities Across Multiple Products</title>
-      <link>https://gbhackers.com/adobes-august-2025-patch-tuesday-fixes-60-vulnerabilities/</link>
-      <description>Vulnerable Product: Adobe; CVE(s): None; Summary: Adobe has rolled out August 2025 Patch Tuesday updates, addressing a total of 60 vulnerabilities across various products, including creative tools and enterprise solutions. The patches primarily focus on out-of-bounds read and write issues, use-after-free errors, and arbitrary code execution risks, many of which carry high severity ratings due to their potential for remote exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156486</guid>
-      <pubDate>Wed, 13 Aug 2025 17:41:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
