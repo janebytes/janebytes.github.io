@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 17:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 18:04:47 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems</title>
+      <link>https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html</link>
+      <description>Vulnerable Product: Apache ActiveMQ; CVE(s): CVE-2023-46604; Summary: A maximum-severity remote code execution vulnerability (CVE-2023-46604) in Apache ActiveMQ allows threat actors to gain persistent access to cloud Linux systems, deploy malware, and patch the vulnerability to prevent further exploitation.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html</guid>
+      <pubDate>Tue, 19 Aug 2025 17:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Phishers Target Brokerage Customers in ‘Ramp and Dump’ Cashout Scheme</title>
+      <link>https://gbhackers.com/mobile-phishers-target-brokerage-customers/</link>
+      <description>Cybercriminal groups have evolved their mobile phishing kits to exploit brokerage accounts in "ramp-and-dump" schemes, leveraging compromised user credentials to manipulate foreign stock prices and circumvent traditional security controls. The kits enable attackers to preposition themselves in low-liquidity stocks by liquidating victims' existing positions and reallocating funds, exploiting vulnerabilities in brokeragemulti-factor authentication (MFA) systems, particularly those relying on phishable one-time passcodes (OTPs).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157559</guid>
+      <pubDate>Tue, 19 Aug 2025 17:29:00 +0000</pubDate>
+    </item>
     <item>
       <title>Elastic rejects claims of a zero-day RCE flaw in Defend EDR</title>
       <link>https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/</link>
@@ -49,6 +63,13 @@
       <description>American pharmaceutical company Inotiv has been affected by a ransomware attack, which resulted in the encryption of some of its systems and data. The attack was claimed by the Qilin ransomware gang, who allegedly stole around 162,000 files amounting to 176GB and published data samples on their leak site. The incident has caused disruptions to certain business operations, with the company's IT team working to restore affected systems and migrate some operations offline to mitigate the impact.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/</guid>
       <pubDate>Tue, 19 Aug 2025 14:25:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Profile: Beast Ransomware</title>
+      <link>https://socradar.io/dark-web-profile-beast-ransomware/</link>
+      <description>The article discusses Beast Ransomware, a multi-platform Ransomware-as-a-Service operated by affiliates. It has evolved from its origins as Monster and now targets Windows, Linux, and VMware ESXi systems. The ransomware uses various entry points to deploy, including phishing emails and compromised RDP endpoints, and can spread laterally to other systems without manual intervention.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062749</guid>
+      <pubDate>Tue, 19 Aug 2025 14:21:45 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft: August security updates break Windows recovery, reset</title>
@@ -112,6 +133,15 @@
       <description>A newly identified Android phishing campaign targets Indian users by masquerading as a government initiative offering subsidies for solar rooftop installations. The attackers leverage a fabricated mobile application to deceive victims into installing malware, promising free electricity units and stealing sensitive banking information, contacts, and SMS data.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157518</guid>
       <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2025: Allianz, Qantas, M&amp;S, Co-op Breaches, $140M Bank Hack &amp; SharePoint 0-Day Exploits</title>
+      <link>https://socradar.io/major-cyber-attacks-july-2025/</link>
+      <description>FYSA:
+
+The article discusses a series of major cyberattacks that took place in July 2025. These attacks targeted various sectors, including airlines, insurers, banks, retailers, and government agencies. The breaches involved stolen credentials, zero-day exploits, and social engineering tactics. Some notable cases include the Allianz Life breach, which exposed millions of customer records; the Qantas breach, which exposed customer data; and the Abacus Market shutdown, which was likely an exit scam. Additionally, the article mentions a critical SharePoint zero-day exploit (CVE-2025-53770) that was chained with other vulnerabilities to gain persistent access. The attacks demonstrate the evolving nature of cyber threats and the importance of having visibility into these attacks.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062735</guid>
+      <pubDate>Tue, 19 Aug 2025 11:39:10 +0000</pubDate>
     </item>
     <item>
       <title>U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback</title>
@@ -1421,34 +1451,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <description>Vulnerable Product: XZ Utils; CVE(s): None; Summary: The backdoor, attributed to a pseudonymous developer 'Jia Tan', was embedded in versions 5.6.0 and 5.6.1 of the lossless compression library. It targets liblzma.so, enabling unauthorized remote access through OpenSSH servers by tampering with control flow using GNU Indirect Function (IFUNC) resolvers.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156273</guid>
       <pubDate>Wed, 13 Aug 2025 20:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-831: Delta Electronics DIAView Directory Traversal Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-831/</link>
-      <description>Vulnerable Product: Delta Electronics DIAView; CVE(s): CVE-2025-53417; Summary: The vulnerability allows remote attackers to disclose sensitive information without authentication. It occurs due to a lack of proper validation of user-supplied paths in file operations, which can be exploited to reveal information in the context of the service account.</description>
-      <guid isPermaLink="false">ZDI-CAN-26477</guid>
-      <pubDate>Wed, 13 Aug 2025 20:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-832: Delta Electronics DIAView Directory Traversal Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-832/</link>
-      <description>Vulnerable Product: Delta Electronics DIAView; CVE(s): CVE-2025-53417; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Delta Electronics DIAView without authentication. The issue exists within the web service, which listens on TCP port 80 by default, due to a lack of proper validation of user-supplied paths in file operations.</description>
-      <guid isPermaLink="false">ZDI-CAN-26478</guid>
-      <pubDate>Wed, 13 Aug 2025 20:03:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-833: NVIDIA Transformers4Rec load_model_trainer_states_from_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-833/</link>
-      <description>Vulnerable Product: NVIDIA Transformers4Rec; CVE(s): CVE-2025-23266; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Transformers4Rec. User interaction is required to exploit this vulnerability, and the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data.</description>
-      <guid isPermaLink="false">ZDI-CAN-27199</guid>
-      <pubDate>Wed, 13 Aug 2025 20:03:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-834: Academy Software Foundation OpenEXR EXR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-834/</link>
-      <description>Vulnerable Product: Academy Software Foundation OpenEXR; CVE(s): CVE-2025-48071; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Academy Software Foundation OpenEXR. User interaction is required to exploit this vulnerability, as the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-26141</guid>
-      <pubDate>Wed, 13 Aug 2025 20:03:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
