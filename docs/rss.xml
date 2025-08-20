@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 17:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 18:02:40 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>QuirkyLoader: A New Malware Loader Spreading Infostealers and Remote Access Trojans (RATs)</title>
+      <link>https://gbhackers.com/quirkyloader-a-new-malware-loader-spreading-infostealers/</link>
+      <description>QuirkyLoader is a sophisticated loader malware that distributes various families of malware (Agent Tesla, AsyncRAT, FormBook, MassLogger, Remcos, Rhadamanthys, Snake Keylogger) through spam emails. The malware uses DLL side-loading and process hollowing to evade detection and inject payloads into processes like AddInProcess32.exe, InstallUtil.exe, or aspnet_wp.exe.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157847</guid>
+      <pubDate>Wed, 20 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Rapper Bot” malware seized, alleged developer identified and charged</title>
+      <link>https://www.bleepingcomputer.com/news/legal/rapper-bot-malware-seized-alleged-developer-identified-and-charged/</link>
+      <description>The U.S. Department of Justice (DoJ) has charged Ethan Foltz, the alleged developer and administrator of the "Rapper Bot" DDoS-for-hire botnet, with aiding and abetting computer intrusions. The botnet, which used Mirai-based malware, was seized as part of 'Operation PowerOff' on August 6 and had infected tens of thousands of devices globally, targeting over 18,000 entities across 80 countries.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/rapper-bot-malware-seized-alleged-developer-identified-and-charged/</guid>
+      <pubDate>Wed, 20 Aug 2025 17:40:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Attacks in Japan Surge by 1.4 Times, Signaling a Significant Increase in Cyber Threats</title>
+      <link>https://gbhackers.com/ransomware-attacks-in-japan-surge-by-1-4-times/</link>
+      <description>This article reports a significant increase in ransomware attacks targeting Japanese organizations, with 68 cases recorded from January to June 2025. The manufacturing sector was the most affected, and small and medium-sized enterprises (SMEs) were disproportionately targeted.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157804</guid>
+      <pubDate>Wed, 20 Aug 2025 17:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity’s Comet AI browser tricked into buying fake items online</title>
+      <link>https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/</link>
+      <description>Vulnerable Product: Perplexity's Comet; CVE(s): None; Summary: Agentic AI browser Comet is vulnerable to phishing, prompt injection, and purchasing from fake shops due to inadequate security safeguards. The browser can autonomously interact with malicious pages and prompts, potentially leading to the theft of sensitive information such as credit card data and login credentials.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/</guid>
+      <pubDate>Wed, 20 Aug 2025 16:31:13 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Exploit GenAI Platforms to Craft Sophisticated and Realistic Phishing Attacks</title>
       <link>https://gbhackers.com/threat-actors-exploit-genai-platforms/</link>
@@ -1418,34 +1446,6 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-18</link>
       <description>Vulnerable Product: Siemens SIMOTION SCOUT, SIMOTION SCOUT TIA, SINAMICS STARTER; CVE(s): CVE-2025-40584; Summary: The affected application contains a XML External Entity Injection (XXE) vulnerability while parsing specially crafted XML files. Successful exploitation could allow an attacker to read arbitrary files in the system.</description>
       <guid isPermaLink="false">/node/23786</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Micro800</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-25</link>
-      <description>Vulnerable Product: Rockwell Automation Micro800; CVE(s): CVE-2023-48691, CVE-2023-48692, CVE-2023-48693, CVE-2025-7693; Summary: The Rockwell Automation Micro800 has several vulnerabilities that allow for remote code execution or privilege escalation due to improper input validation and dependency on vulnerable third-party components.</description>
-      <guid isPermaLink="false">/node/23793</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation Studio 5000 Logix Designer</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-29</link>
-      <description>Vulnerable Product: Rockwell Automation Studio 5000 Logix Designer; CVE(s): CVE-2025-7971; Summary: Successful exploitation of this vulnerability could allow an attacker to crash the device or execute malicious code. The vulnerability exists due to improper input validation and affects versions 36.00.02 to 37.00.02.</description>
-      <guid isPermaLink="false">/node/23797</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SICAM Q100/Q200</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-16</link>
-      <description>Vulnerable Product: Siemens SICAM Q100 and Q200; CVE(s): CVE-2025-40752, CVE-2025-40753; Summary: Cleartext storage of sensitive information in Siemens POWER METER SICAM Q100 and Q200 allows an authenticated local attacker to extract the SMTP account password and use the configured SMTP service for arbitrary purposes.</description>
-      <guid isPermaLink="false">/node/23784</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation 1756-ENT2R, 1756-EN4TR, 1756-EN4TRXT</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-31</link>
-      <description>Vulnerable Product: Rockwell Automation; CVE(s): CVE-2025-8007, CVE-2025-8008; Summary: Improper input validation and improper handling of exceptional conditions vulnerabilities in 1756-ENT2R, 1756-EN4TR, and 1756-EN4TRXT communication modules can lead to denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23799</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
