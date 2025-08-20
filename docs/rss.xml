@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 21:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 22:01:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>RingReaper Malware Targets Linux Servers, Stealthily Evading EDR Solutions</title>
+      <link>https://gbhackers.com/ringreaper-malware-targets-linux-servers/</link>
+      <description>RingReaper malware targets Linux servers with advanced post-exploitation capabilities that exploit the kernel's io_uring asynchronous I/O interface to bypass Endpoint Detection and Response (EDR) systems. It minimizes reliance on traditional system calls, instead using io_uring primitives for stealthy operations, which reduces telemetry visibility and evades hook-based detection mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157875</guid>
+      <pubDate>Wed, 20 Aug 2025 21:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-847: NVIDIA Isaac-GR00T TorchSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-847/</link>
@@ -1439,13 +1446,6 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <link>https://www.cisa.gov/news-events/alerts/2025/08/14/cisa-releases-thirty-two-industrial-control-systems-advisories</link>
       <description>The Cybersecurity and Infrastructure Security Agency (CISA) released 32 Industrial Control Systems (ICS) advisories on August 14, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. These advisories cover various products from Siemens and Rockwell Automation, including SIMATIC RTLS Locating Manager, COMOS, and others.</description>
       <guid isPermaLink="false">/node/23800</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM ROX II</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-14</link>
-      <description>Vulnerable Product: Siemens RUGGEDCOM ROX II Family; CVE(s): CVE-2025-33023; Summary: The vulnerability allows an authenticated remote attacker with high privileges in the web interface to upload arbitrary files, which could lead to a higher level of attack complexity. Exploitation could allow an attacker to upload files onto the filesystem of devices.</description>
-      <guid isPermaLink="false">/node/23782</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
