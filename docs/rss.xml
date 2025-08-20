@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 15:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 16:01:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers steal Microsoft logins using legitimate ADFS redirects</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/</link>
+      <description>Hackers are using a novel technique that combines legitimate office.com links with Active Directory Federation Services (ADFS) to redirect users to a phishing page that steals Microsoft 365 logins. The method bypasses traditional URL-based detection and multi-factor authentication by leveraging a trusted domain on Microsoft's infrastructure for the initial redirect.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/</guid>
+      <pubDate>Wed, 20 Aug 2025 15:33:54 +0000</pubDate>
+    </item>
     <item>
       <title>Scaly Wolf Unleashing Attacks to Expose Organizations’ Hidden Secrets</title>
       <link>https://gbhackers.com/scaly-wolf-unleashing-attacks/</link>
@@ -1439,13 +1446,6 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-266-23</link>
       <description>Vulnerable Product: Rockwell Automation FactoryTalk Viewpoint; CVE(s): CVE-2025-7973; Summary: The vulnerability exists due to improper handling of MSI repair operations, allowing attackers to hijack the cscript.exe console window and spawn an elevated command prompt, enabling full privilege escalation.</description>
       <guid isPermaLink="false">/node/23791</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINUMERIK</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-19</link>
-      <description>Vulnerable Product: Siemens SINUMERIK series; CVE(s): CVE-2025-40743; Summary: The SINUMERIK VNC access service has an authentication bypass vulnerability, allowing unauthorized remote access and potentially compromising system confidentiality, integrity, or availability.</description>
-      <guid isPermaLink="false">/node/23787</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
