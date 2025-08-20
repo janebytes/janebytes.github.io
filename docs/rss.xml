@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 20:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 21:02:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-847: NVIDIA Isaac-GR00T TorchSerializer Deserialization of Untrusted Data Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-847/</link>
+      <description>Vulnerable Product: NVIDIA Isaac-GR00T TorchSerializer; CVE(s): CVE-2025-23296; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Isaac-GR00T by deserializing untrusted data. User interaction is required, and the target must visit a malicious page or open a malicious file to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-27210</guid>
+      <pubDate>Wed, 20 Aug 2025 21:02:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-848: NVIDIA Isaac-GR00T secure_server Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-848/</link>
+      <description>Vulnerable Product: NVIDIA Isaac-GR00T; CVE(s): CVE-2025-23296; Summary: This vulnerability allows remote attackers to bypass authentication on affected installations of NVIDIA Isaac-GR00T, without requiring authentication. The issue exists within the secure_server method and can be exploited to access functionality, allowing an attacker to bypass authentication on the system.</description>
+      <guid isPermaLink="false">ZDI-CAN-27209</guid>
+      <pubDate>Wed, 20 Aug 2025 21:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-849: (Pwn2Own) NVIDIA Triton Inference Server SharedMemoryManager Error Message Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-849/</link>
+      <description>Vulnerable Product: NVIDIA Triton Inference Server; CVE(s): CVE-2025-23320; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of NVIDIA Triton Inference Server without authentication. The specific flaw exists within the SharedMemoryManager class, which outputs an error message containing sensitive information that can be used to execute arbitrary code in the context of root.</description>
+      <guid isPermaLink="false">ZDI-CAN-27181</guid>
+      <pubDate>Wed, 20 Aug 2025 21:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-850: (Pwn2Own) NVIDIA Triton Inference Server LoadFromSharedMemory Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-850/</link>
+      <description>Vulnerable Product: NVIDIA Triton Inference Server; CVE(s): CVE-2025-23333; Summary: The vulnerability allows remote attackers to disclose sensitive information without authentication. It exists within the LoadFromSharedMemory function due to lack of proper validation of user-supplied data, leading to a read past the end of an allocated data structure.</description>
+      <guid isPermaLink="false">ZDI-CAN-27249</guid>
+      <pubDate>Wed, 20 Aug 2025 21:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-851: (Pwn2Own) NVIDIA Triton Inference Server IPC Push Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-851/</link>
+      <description>Vulnerable Product: NVIDIA Triton Inference Server; CVE(s): CVE-2025-23318, ZDI-CAN-27250, ZDI-25-851; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of NVIDIA Triton Inference Server without authentication. The specific flaw exists within the processing of IPC messages and can be exploited by crafting an IPC Push request that triggers a write past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-27250</guid>
+      <pubDate>Wed, 20 Aug 2025 21:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Unveils Enhanced Features to Empower Defenders and Strengthen AI Security</title>
+      <link>https://gbhackers.com/google-unveils-enhanced-features-to-empower-defenders/</link>
+      <description>This article discusses Google Cloud's advancements in AI-powered cybersecurity, including proactive vulnerability detection, automated threat intelligence processing, and workload optimization. The updates focus on securing AI ecosystems, leveraging artificial intelligence to elevate organizational defenses, and providing features such as Sensitive Data Protection, Model Armor, and Security Command Center's AI Protection solution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157866</guid>
+      <pubDate>Wed, 20 Aug 2025 20:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Impersonate as Google Support to Sniff Out Your Login Credentials</title>
       <link>https://gbhackers.com/threat-actors-impersonate-as-google-support/</link>
@@ -1404,48 +1446,6 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-14</link>
       <description>Vulnerable Product: Siemens RUGGEDCOM ROX II Family; CVE(s): CVE-2025-33023; Summary: The vulnerability allows an authenticated remote attacker with high privileges in the web interface to upload arbitrary files, which could lead to a higher level of attack complexity. Exploitation could allow an attacker to upload files onto the filesystem of devices.</description>
       <guid isPermaLink="false">/node/23782</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIPROTEC 5</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-10</link>
-      <description>Vulnerable Product: Siemens SIPROTEC 5; CVE(s): CVE-2025-40570; Summary: Allocation of Resources Without Limits or Throttling vulnerability in Siemens SIPROTEC 5 devices allows an attacker with physical access to send specially crafted packets with high bandwidth, forcing the device to exhaust its memory and stop responding to any network traffic via the local USB port.</description>
-      <guid isPermaLink="false">/node/23778</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM CROSSBOW Station Access Controller</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-08</link>
-      <description>Vulnerable Product: Siemens RUGGEDCOM CROSSBOW Station Access Controller (SAC); CVE(s): CVE-2025-3277, CVE-2025-29087, CVE-2025-29088; Summary: Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code or create a denial-of-service condition. The vulnerabilities are due to a heap-based buffer overflow and integer overflow in SQLite's 'concat_ws()' function, which can result in wild Heap Buffer overflows of size 4GB.</description>
-      <guid isPermaLink="false">/node/23776</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Wibu CodeMeter Runtime</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-05</link>
-      <description>Vulnerable Product: Siemens SIMATIC Information Server, WinCC OA, and Process Historian; CVE(s): CVE-2025-47809; Summary: A least privilege violation vulnerability in Wibu CodeMeter allows a local user to navigate from Import License to a privileged instance of Windows Explorer. Successful exploitation could allow a local user to elevate privileges. The vulnerability affects various Siemens products and versions, including SIMATIC Information Server 2020, WinCC OA V3.18/V3.19, and Process Historian 2020/2022/2024.</description>
-      <guid isPermaLink="false">/node/23773</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell FactoryTalk Linx</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-24</link>
-      <description>Vulnerable Product: Rockwell Automation FactoryTalk Linx; CVE(s): CVE-2025-7972; Summary: A vulnerability exists in the FactoryTalk Linx Network Browser, allowing an attacker to disable FTSP token validation by modifying the process.env.NODE_ENV variable. This enables access to create, update, and delete FTLinx drivers, with a CVSS v4 score of 8.4.</description>
-      <guid isPermaLink="false">/node/23792</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEC Traffic Analyzer</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-17</link>
-      <description>Vulnerable Product: Siemens SINEC Traffic Analyzer (6GK8822-1BG01-0BA0); CVE(s): CVE-2024-24989, CVE-2024-24990, CVE-2025-40766, CVE-2025-40767, CVE-2025-40768, CVE-2025-40769, CVE-2025-40770; Summary: The Siemens SINEC Traffic Analyzer has multiple vulnerabilities that could allow an attacker to cause a denial-of-service condition or gain elevated access and access to sensitive resources. The vulnerabilities include NULL Pointer Dereference, Use After Free, Uncontrolled Resource Consumption, Execution with Unnecessary Privileges, Exposure of Sensitive Information to an Unauthorized Actor, Irrelevant Code, and Channel Accessible by Non-Endpoint.</description>
-      <guid isPermaLink="false">/node/23785</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC RTLS Locating Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-13</link>
-      <description>Vulnerable Product: Siemens SIMATIC RTLS Locating Manager; CVE(s): CVE-2025-40746; Summary: The vulnerability allows an authenticated remote attacker to execute arbitrary code with high privileges due to improper input validation. Exploitation could result in the execution of arbitrary code with 'NT Authority/SYSTEM' privileges, posing a significant risk to critical infrastructure sectors such as Critical Manufacturing worldwide.</description>
-      <guid isPermaLink="false">/node/23781</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
