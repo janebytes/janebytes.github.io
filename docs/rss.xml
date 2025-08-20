@@ -6,8 +6,43 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 10:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 11:03:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Lenovo AI Chatbot Flaw Allows Remote Script Execution on Corporate Systems</title>
+      <link>https://gbhackers.com/lenovo-ai-chatbot-flaw/</link>
+      <description>Vulnerable Product: Lenovo; CVE(s): None; Summary: Lenovo's AI-powered customer support chatbot (Lena) contains multiple security flaws that enable Cross-Site Scripting (XSS) attacks, allowing attackers to execute malicious scripts, steal sensitive session data, and potentially gain unauthorized access to corporate systems.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157778</guid>
+      <pubDate>Wed, 20 Aug 2025 10:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Issues Emergency Patch for Windows Reset and Recovery Bug</title>
+      <link>https://gbhackers.com/microsoft-issues-emergency-patch-2/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: The article reports a critical issue affecting Windows reset and recovery operations across multiple versions of the operating system. A non-security out-of-band update has been released to resolve the problem, which causes some reset and recovery attempts to fail on client versions of Windows.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157763</guid>
+      <pubDate>Wed, 20 Aug 2025 10:38:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Impact to Action: Turning BIA Insights Into Resilient Recovery</title>
+      <link>https://thehackernews.com/2025/08/turning-bia-insights-into-resilient-recovery.html</link>
+      <description>This article discusses the importance of having a robust Business Continuity and Disaster Recovery (BCDR) strategy in modern businesses. It highlights the need to conduct a business impact analysis (BIA) to identify critical functions for a business's operations and survival. The article also emphasizes the role of IT leaders in making the BIA work, ensuring that the recovery plan is executable, integrated into everyday operations, tested, and ready to scale with the business. Additionally, it provides guidance on how to conduct a BIA, including prioritizing threats, identifying critical business functions, and establishing RTOs and RPOs.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/turning-bia-insights-into-resilient-recovery.html</guid>
+      <pubDate>Wed, 20 Aug 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kubernetes Capsule Vulnerability Enables Attackers to Inject Arbitrary Labels</title>
+      <link>https://gbhackers.com/kubernetes-capsule-vulnerability/</link>
+      <description>Vulnerable Product: Kubernetes Capsule; CVE(s): CVE-2025-55205; Summary: Authenticated tenant users can inject arbitrary labels into system namespaces, bypassing multi-tenant isolation and potentially leading to cluster-wide compromise. This vulnerability enables attackers to access cross-tenant resources, circumvent quota restrictions, and exploit sensitive configurations and secrets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157753</guid>
+      <pubDate>Wed, 20 Aug 2025 10:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit Apache ActiveMQ Flaw to Breach Cloud Linux Servers</title>
+      <link>https://gbhackers.com/hackers-exploit-apache-activemq-flaw/</link>
+      <description>Vulnerable Product: Apache ActiveMQ; CVE(s): CVE-2023-46604; Summary: Hackers are exploiting a critical remote code execution vulnerability in Apache ActiveMQ (CVE-2023-46604) to gain access to victim systems, and then patching the flaw after gaining control. This unusual behavior is used to prevent other threat actors from exploiting the same vulnerability and reduces detection by vulnerability scanners.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157748</guid>
+      <pubDate>Wed, 20 Aug 2025 10:09:43 +0000</pubDate>
+    </item>
     <item>
       <title>CodeRabbit RCE Flaw Gives Attackers Write Access to 1M Repositories</title>
       <link>https://gbhackers.com/coderabbit-rce-flaw/</link>
@@ -1420,41 +1455,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <description>Vulnerable Product: FireWood backdoor; CVE(s): None; Summary: The article describes a new variant of the FireWood Linux-based remote access trojan (RAT), which deploys kernel-level rootkit modules, enables attackers to execute arbitrary commands, exfiltrates sensitive data, and maintains long-term persistence. The new variant retains core functionalities but introduces refinements in implementation and configuration, enhancing its evasion and operational efficiency without altering the fundamental protocol.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156597</guid>
       <pubDate>Thu, 14 Aug 2025 11:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Have You Turned Off Your Virtual Oven?</title>
-      <link>https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html</link>
-      <description>The article discusses the importance of External Attack Surface Management (EASM) and Digital Risk Protection (DRP) in monitoring and securing an organization's internet-facing assets. It highlights the challenges of manually verifying asset exposure and the benefits of using automated tools to detect and prevent security incidents.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html</guid>
-      <pubDate>Thu, 14 Aug 2025 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits</title>
-      <link>https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html</link>
-      <description>Vulnerable Product: Go1ano developer; CVE(s): None; Summary: The PhantomCard Android trojan abuses NFC to conduct relay attacks, facilitating fraudulent transactions targeting banking customers in Brazil. It requests victims to place their credit/debit card on the back of their phone and then relays the card data to an attacker-controlled NFC relay server, allowing the cybercriminal to use the victim's card as if it was in their hands.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html</guid>
-      <pubDate>Thu, 14 Aug 2025 11:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leak: OpenAI's browser will use ChatGPT Agent to control the browser</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/</link>
-      <description>This article is not about a vulnerability. It discusses OpenAI's upcoming Chromium-based browser and the integration of its AI agent technology, ChatGPT, into the new browser. The article also mentions password cracking trends in a separate report.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/</guid>
-      <pubDate>Thu, 14 Aug 2025 10:45:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Splunk Publishes Defender’s Guide to Spot ESXi Ransomware Early</title>
-      <link>https://gbhackers.com/splunk-publishes-defenders-guide/</link>
-      <description>The article discusses a comprehensive defender's guide released by Splunk to help cybersecurity teams detect and prevent ransomware attacks targeting ESXi infrastructure. The guide provides instructions for ingesting ESXi logs into the Splunk security platform, as well as analysis of different log types and detection rules targeting common attack behaviors.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156692</guid>
-      <pubDate>Thu, 14 Aug 2025 10:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>EncryptHub Turns Brave Support Into a Dropper; MMC Flaw Completes the Run</title>
-      <link>https://gbhackers.com/encrypthub-turns-brave-support-into-a-dropper/</link>
-      <description>Vulnerable Product: Microsoft Management Console (MMC); CVE(s): CVE-2025-26633; Summary: The vulnerability, CVE-2025-26633, enables attackers to execute arbitrary code via manipulated .msc files, allowing EncryptHub to infiltrate systems through a blend of social engineering and technical exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156582</guid>
-      <pubDate>Thu, 14 Aug 2025 10:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
