@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 19:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 20:01:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Impersonate as Google Support to Sniff Out Your Login Credentials</title>
+      <link>https://gbhackers.com/threat-actors-impersonate-as-google-support/</link>
+      <description>Threat actors are using social engineering tactics to impersonate Google support agents, posing as regional accents to manipulate victims into approving fraudulent account recovery prompts. This tactic exploits Google's legitimatetwo-factor authentication(2FA) and recovery workflows, allowing attackers to bypass standard user-initiated processes and gain control of the account.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157859</guid>
+      <pubDate>Wed, 20 Aug 2025 19:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apple fixes new zero-day flaw exploited in targeted attacks</title>
       <link>https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-new-actively-exploited-zero-day/</link>
@@ -1439,13 +1446,6 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-13</link>
       <description>Vulnerable Product: Siemens SIMATIC RTLS Locating Manager; CVE(s): CVE-2025-40746; Summary: The vulnerability allows an authenticated remote attacker to execute arbitrary code with high privileges due to improper input validation. Exploitation could result in the execution of arbitrary code with 'NT Authority/SYSTEM' privileges, posing a significant risk to critical infrastructure sectors such as Critical Manufacturing worldwide.</description>
       <guid isPermaLink="false">/node/23781</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIPROTEC 4 and SIPROTEC 4 Compact</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-12</link>
-      <description>Vulnerable Product: Siemens SIPROTEC 4 and SIPROTEC 4 Compact; CVE(s): CVE-2024-52504; Summary: Successful exploitation of this vulnerability could allow an unauthenticated remote attacker to cause a denial-of-service condition. The affected devices do not properly handle interrupted operations of file transfer, requiring the devices to be restarted to restore normal operations.</description>
-      <guid isPermaLink="false">/node/23780</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
