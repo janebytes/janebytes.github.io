@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 14:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 15:03:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Scaly Wolf Unleashing Attacks to Expose Organizations’ Hidden Secrets</title>
+      <link>https://gbhackers.com/scaly-wolf-unleashing-attacks/</link>
+      <description>The article reports on a targeted attack by the Scaly Wolf APT group against a Russian engineering company. The attackers used phishing emails to deliver modular backdoors, including Trojan.Updatar.1, which deployed subsequent malware components and facilitated data exfiltration, system reconnaissance, and persistent access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157775</guid>
+      <pubDate>Wed, 20 Aug 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major password managers can leak logins in clickjacking attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/</link>
+      <description>Vulnerable Product: Six major password managers (1Password, Bitwarden, Enpass, iCloud Passwords, LastPass, and LogMeOnce); CVE(s): None; Summary: The password managers are vulnerable to unpatched clickjacking flaws that could allow attackers to steal account credentials, 2FA codes, and credit card details. Threat actors can exploit the security issues by overlaying invisible HTML elements over the password manager interface, tricking users into revealing sensitive information through autofill actions.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/</guid>
+      <pubDate>Wed, 20 Aug 2025 14:49:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft investigates outage impacting Copilot, Office.com</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-impacting-copilot-officecom/</link>
+      <description>This article reports on an ongoing issue preventing users in North America from accessing Office.com and the Copilot AI-powered assistant. The issue is causing server connection problems and login issues for some users, with the root cause still under investigation.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-impacting-copilot-officecom/</guid>
+      <pubDate>Wed, 20 Aug 2025 14:17:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why email security needs its EDR moment to move beyond prevention</title>
+      <link>https://www.bleepingcomputer.com/news/security/why-email-security-needs-its-edr-moment-to-move-beyond-prevention/</link>
+      <description>This article discusses the evolution of email security, comparing it to the growth of Endpoint Detection and Response (EDR). It highlights the limitations of traditional email security approaches and emphasizes the need for a layered defense that includes post-breach protections. The article does not specifically mention a vulnerability but rather explores the future of email security and its integration with other productivity tools.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/why-email-security-needs-its-edr-moment-to-move-beyond-prevention/</guid>
+      <pubDate>Wed, 20 Aug 2025 14:01:11 +0000</pubDate>
+    </item>
     <item>
       <title>CERT/CC Issues Alert on Critical Flaws in Workhorse Municipal Accounting Software</title>
       <link>https://gbhackers.com/cert-cc-issues-alert-on-critical-flaws-in-workhorse/</link>
@@ -21,6 +49,13 @@
       <description>Al-Tahery Al-Mashriky, a member of extremist hacking collectives, was sentenced to 20 months in prison for illegal computer access and data exfiltration. He exploited vulnerabilities in low-security web infrastructures to gain unauthorized access and deployed hidden webpages with propagandistic content.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157752</guid>
       <pubDate>Wed, 20 Aug 2025 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts</title>
+      <link>https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html</link>
+      <description>The article discusses a new prompt injection technique called PromptFix that can trick generative artificial intelligence (GenAI) models into carrying out intended actions by embedding malicious instructions inside a fake CAPTCHA check on a web page. This attack technique demonstrates how AI-driven browsers, such as Perplexity's Comet, can be deceived into interacting with phishing landing pages or fraudulent lookalike storefronts without human intervention.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html</guid>
+      <pubDate>Wed, 20 Aug 2025 13:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian state-sponsored espionage group Static Tundra compromises unpatched end-of-life network devices</title>
@@ -1411,47 +1446,6 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-19</link>
       <description>Vulnerable Product: Siemens SINUMERIK series; CVE(s): CVE-2025-40743; Summary: The SINUMERIK VNC access service has an authentication bypass vulnerability, allowing unauthorized remote access and potentially compromising system confidentiality, integrity, or availability.</description>
       <guid isPermaLink="false">/node/23787</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk Action Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-30</link>
-      <description>Vulnerable Product: Rockwell Automation FactoryTalk Action Manager; CVE(s): CVE-2025-7532; Summary: Exposure of sensitive information to an unauthorized actor allows a local unauthenticated attacker to listen to communications and manipulate the device. Successful exploitation could allow manipulation of the device. The vulnerability is exploitable locally, but not remotely.</description>
-      <guid isPermaLink="false">/node/23798</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEC OS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-15</link>
-      <description>The article appears to be a collection of CVEs (Common Vulnerabilities and Exposures) resolved in the Linux kernel. There are 37 CVEs listed, each with its own CVSS score (v3.1) and vector string indicating the severity and characteristics of the vulnerability.</description>
-      <guid isPermaLink="false">/node/23783</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FLEX 5000 I/O</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-26</link>
-      <description>Vulnerable Product: Rockwell Automation FLEX 5000 I/O; CVE(s): CVE-2025-7861, CVE-2025-7862; Summary: Improper input validation vulnerabilities in the FLEX 5000 I/O equipment allow for denial-of-service attacks. Exploitation can cause a module to enter a fault state with the Module LED flashing red, and the module cannot recover without a power cycle.</description>
-      <guid isPermaLink="false">/node/23794</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Third-Party Components in SINEC OS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-07</link>
-      <description>FYSA:
-
-The provided article appears to be a collection of Linux kernel vulnerabilities. The vulnerabilities listed are related to various components such as scsi, mptcp, iommu, and others.
-
-Each vulnerability is assigned a CVE (Common Vulnerabilities and Exposures) identifier, and the corresponding base CVSS (Common Vulnerability Scoring System) score is provided. The article does not specify which Linux kernel versions are affected by these vulnerabilities or provide detailed descriptions of each issue.
-
-Without further information, it is difficult to determine which specific products or systems may be vulnerable to these issues.</description>
-      <guid isPermaLink="false">/node/23775</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ControlLogix Ethernet Modules</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-28</link>
-      <description>Vulnerable Product: Rockwell Automation ControlLogix Ethernet Modules; CVE(s): CVE-2025-7353; Summary: The initialization of a resource with an insecure default in the web-based debugger agent of affected Rockwell Automation ControlLogix Ethernet Modules allows remote attackers to perform memory dumps, modify memory, and control execution flow. Exploitation could occur through a specific IP address connection to the WDB agent.</description>
-      <guid isPermaLink="false">/node/23796</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
