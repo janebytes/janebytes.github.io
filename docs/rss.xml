@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 11:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 12:01:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft reportedly fixing SSD failures caused by Windows updates</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/</link>
+      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The recent Windows 11 24H2 updates are causing data corruption and failure issues for some SSD and HDD models on up-to-date systems, affecting drives with Phison NAND controllers, SanDisk Extreme Pro, Corsair Force MP600, Maxio SSD, KIOXIA EXCERIA PLUS G4, KIOXIA M.2 SSD, and other drives with Phison PS5012-E12 and InnoGrit controllers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/</guid>
+      <pubDate>Wed, 20 Aug 2025 11:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do</title>
+      <link>https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html</link>
+      <description>Vulnerable Product: N/A; CVE(s): None; Summary: This article is not about a vulnerability, but rather highlights the growing concern of "shadow AI agents" that are being deployed without proper identification, ownership, or logging. These autonomous software agents can potentially be compromised and used to move through systems, grab sensitive data, or escalate privileges at machine speed. The article emphasizes the need for enterprises to bring these agents under control and implement strategies to assign accountability and enforce guardrails.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html</guid>
+      <pubDate>Wed, 20 Aug 2025 11:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lenovo AI Chatbot Flaw Allows Remote Script Execution on Corporate Systems</title>
       <link>https://gbhackers.com/lenovo-ai-chatbot-flaw/</link>
@@ -1441,20 +1455,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <description>Vulnerable Product: Siemens SINEC Traffic Analyzer (6GK8822-1BG01-0BA0); CVE(s): CVE-2024-24989, CVE-2024-24990, CVE-2025-40766, CVE-2025-40767, CVE-2025-40768, CVE-2025-40769; Summary: Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition or gain elevated access and access to sensitive resources. The vulnerabilities include NULL Pointer Dereference, Use After Free, Uncontrolled Resource Consumption, Execution with Unnecessary Privileges, Exposure of Sensitive Information to an Unauthorized Actor, Irrelevant Code, and Channel Accessible by Non-Endpoint.</description>
       <guid isPermaLink="false">/node/23785</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell FactoryTalk Linx</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-266-24</link>
-      <description>Vulnerable Product: Rockwell Automation FactoryTalk Linx; CVE(s): CVE-2025-7972; Summary: Improper access control in the FactoryTalk Linx Network Browser allows an attacker to disable FTSP token validation, enabling creation, update, and deletion of FTLinx drivers.</description>
-      <guid isPermaLink="false">/node/23792</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FireWood Malware Targets Linux Systems for Command Execution and Data Theft</title>
-      <link>https://gbhackers.com/firewood-malware-targets-linux-systems/</link>
-      <description>Vulnerable Product: FireWood backdoor; CVE(s): None; Summary: The article describes a new variant of the FireWood Linux-based remote access trojan (RAT), which deploys kernel-level rootkit modules, enables attackers to execute arbitrary commands, exfiltrates sensitive data, and maintains long-term persistence. The new variant retains core functionalities but introduces refinements in implementation and configuration, enhancing its evasion and operational efficiency without altering the fundamental protocol.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156597</guid>
-      <pubDate>Thu, 14 Aug 2025 11:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
