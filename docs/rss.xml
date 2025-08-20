@@ -6,14 +6,42 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 13:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 14:09:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CERT/CC Issues Alert on Critical Flaws in Workhorse Municipal Accounting Software</title>
+      <link>https://gbhackers.com/cert-cc-issues-alert-on-critical-flaws-in-workhorse/</link>
+      <description>Vulnerable Product: Workhorse Software Services' municipal accounting software; CVE(s): CVE-2025-9037, CVE-2025-9040; Summary: The software has two critical design flaws that allow unauthorized access to sensitive government financial data and personally identifiable information. The first vulnerability stores SQL Server connection strings in plaintext configuration files, while the second allows unauthenticated users to create complete database backups. Exploitation of these vulnerabilities could lead to data theft, tampering with financial records, and compromising audit trails.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157885</guid>
+      <pubDate>Wed, 20 Aug 2025 13:15:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Serial Hacker Sentenced for Defacing and Hacking Organizational Websites</title>
+      <link>https://gbhackers.com/serial-hacker-sentenced/</link>
+      <description>Al-Tahery Al-Mashriky, a member of extremist hacking collectives, was sentenced to 20 months in prison for illegal computer access and data exfiltration. He exploited vulnerabilities in low-security web infrastructures to gain unauthorized access and deployed hidden webpages with propagandistic content.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157752</guid>
+      <pubDate>Wed, 20 Aug 2025 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian state-sponsored espionage group Static Tundra compromises unpatched end-of-life network devices</title>
+      <link>https://blog.talosintelligence.com/static-tundra/</link>
+      <description>Vulnerable Product: Cisco IOS software and Cisco IOS XE software; CVE(s): CVE-2018-0171; Summary: Static Tundra, a Russian state-sponsored cyber espionage group, has been compromising unpatched and often end-of-life network devices by exploiting the seven-year-old vulnerability (CVE-2018-0171) in the Smart Install feature. The group targets organizations of strategic interest to Russia, primarily in telecommunications, higher education, and manufacturing sectors. Static Tundra uses bespoke tooling, including the historic SYNful Knock firmware implant, to maintain access for multiple years without being detected.</description>
+      <guid isPermaLink="false">68a479d3e2d85f00011b8231</guid>
+      <pubDate>Wed, 20 Aug 2025 13:00:39 +0000</pubDate>
+    </item>
     <item>
       <title>Copilot Vulnerability Lets Attackers Bypass Audit Logs and Gain Hidden Access</title>
       <link>https://gbhackers.com/copilot-vulnerability-lets-attackers-bypass-audit-logs/</link>
       <description>Vulnerable Product: Microsoft M365 Copilot; CVE(s): None; Summary: A critical vulnerability in Microsoft's M365 Copilot allowed users to access sensitive files without leaving any trace in audit logs, creating significant security and compliance risks for organizations worldwide. The flaw exploited a fundamental issue in how Copilot handles audit logging, making it possible for malicious insiders or accidental interactions to delete audit entries, potentially causing incomplete and inaccurate audit logs.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157871</guid>
       <pubDate>Wed, 20 Aug 2025 12:59:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Legitimate Chrome VPN with 100K+ Installs Secretly Captures Screenshots and Exfiltrates Sensitive Data</title>
+      <link>https://gbhackers.com/legitimate-chrome-vpn-with-100k-installs/</link>
+      <description>Vulnerable Product: FreeVPN.One; CVE(s): None; Summary: The FreeVPN.One Chrome extension, with over 100,000 installations, has been found to be spyware that captures screenshots of users' browsing activities and exfiltrates them to remote servers without user consent or notification. The extension's malicious behavior uses a two-stage architecture for screenshot capture and demands excessive permissions, enabling the exfiltration of highly sensitive data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157717</guid>
+      <pubDate>Wed, 20 Aug 2025 12:06:42 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft reportedly fixing SSD failures caused by Windows updates</title>
@@ -1424,36 +1452,6 @@ Without further information, it is difficult to determine which specific product
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-28</link>
       <description>Vulnerable Product: Rockwell Automation ControlLogix Ethernet Modules; CVE(s): CVE-2025-7353; Summary: The initialization of a resource with an insecure default in the web-based debugger agent of affected Rockwell Automation ControlLogix Ethernet Modules allows remote attackers to perform memory dumps, modify memory, and control execution flow. Exploitation could occur through a specific IP address connection to the WDB agent.</description>
       <guid isPermaLink="false">/node/23796</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation ArmorBlock 5000 I/O - Webserver</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-27</link>
-      <description>Vulnerable Product: Rockwell Automation ArmorBlock 5000 I/O; CVE(s): CVE-2025-7773, CVE-2025-7774; Summary: The ArmorBlock 5000 I/O's webserver has two vulnerabilities that allow an attacker to predict session numbers or perform privileged actions. Exploitation of these vulnerabilities could result in unauthorized access and performance of privileged actions.</description>
-      <guid isPermaLink="false">/node/23795</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Web Installer</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-22</link>
-      <description>Vulnerable Product: 
-
-This is an advisory from CISA regarding a vulnerability in Siemens products. The vulnerability allows for local access exploitation, and no remote exploit is known at this time. The affected products include various software and system components, such as Automation License Manager, SIMATIC PCS 7, SIMATIC S7-PLCSIM, and others.</description>
-      <guid isPermaLink="false">/node/23790</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM ROX II</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-20</link>
-      <description>Vulnerable Product: Siemens RUGGEDCOM ROX II family; CVE(s): CVE-2025-40761; Summary: The vulnerability allows a local attacker to bypass authentication and access a root shell on the device by exploiting an alternate path or channel, affecting devices that do not properly limit access through their Built-In-Self-Test (BIST) mode. Successful exploitation could allow unauthorized access to the device.</description>
-      <guid isPermaLink="false">/node/23788</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC RTLS Locating Manager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-01</link>
-      <description>Vulnerable Product: Siemens SIMATIC RTLS Locating Manager; CVE(s): CVE-2025-30034, CVE-2025-40751; Summary: The vulnerabilities in the SIMATIC RTLS Locating Manager allow an unauthenticated local attacker to cause a denial of service condition or escalate to higher access rights.</description>
-      <guid isPermaLink="false">/node/23769</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
