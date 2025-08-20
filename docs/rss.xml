@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 16:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 17:01:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Exploit GenAI Platforms to Craft Sophisticated and Realistic Phishing Attacks</title>
+      <link>https://gbhackers.com/threat-actors-exploit-genai-platforms/</link>
+      <description>Threat actors are exploiting generative AI (GenAI) platforms to orchestrate advanced phishing campaigns, generating hyper-realistic phishing content and impersonating legitimate brands. This misuse amplifies social engineering threats and complicates detection. AI-powered website builders are being actively abused to deploy phishing pages with unprecedented speed, often generating fully functional sites in seconds based on simple prompts without verification requirements.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157793</guid>
+      <pubDate>Wed, 20 Aug 2025 16:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers steal Microsoft logins using legitimate ADFS redirects</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/</link>
@@ -1439,13 +1446,6 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-31</link>
       <description>Vulnerable Product: Rockwell Automation; CVE(s): CVE-2025-8007, CVE-2025-8008; Summary: Improper input validation and improper handling of exceptional conditions vulnerabilities in 1756-ENT2R, 1756-EN4TR, and 1756-EN4TRXT communication modules can lead to denial-of-service condition.</description>
       <guid isPermaLink="false">/node/23799</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk Viewpoint</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-266-23</link>
-      <description>Vulnerable Product: Rockwell Automation FactoryTalk Viewpoint; CVE(s): CVE-2025-7973; Summary: The vulnerability exists due to improper handling of MSI repair operations, allowing attackers to hijack the cscript.exe console window and spawn an elevated command prompt, enabling full privilege escalation.</description>
-      <guid isPermaLink="false">/node/23791</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
