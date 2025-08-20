@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 18:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 19:02:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Apple fixes new zero-day flaw exploited in targeted attacks</title>
+      <link>https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-new-actively-exploited-zero-day/</link>
+      <description>Vulnerable Product: Apple; CVE(s): CVE-2025-43300; Summary: The Image I/O framework contains an out-of-bounds write weakness that allows attackers to cause memory corruption, potentially leading to remote code execution. This vulnerability was exploited in "extremely sophisticated attacks" against targeted individuals and has been patched with improved bounds checking in various Apple operating systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-new-actively-exploited-zero-day/</guid>
+      <pubDate>Wed, 20 Aug 2025 18:44:31 +0000</pubDate>
+    </item>
     <item>
       <title>QuirkyLoader: A New Malware Loader Spreading Infostealers and Remote Access Trojans (RATs)</title>
       <link>https://gbhackers.com/quirkyloader-a-new-malware-loader-spreading-infostealers/</link>
       <description>QuirkyLoader is a sophisticated loader malware that distributes various families of malware (Agent Tesla, AsyncRAT, FormBook, MassLogger, Remcos, Rhadamanthys, Snake Keylogger) through spam emails. The malware uses DLL side-loading and process hollowing to evade detection and inject payloads into processes like AddInProcess32.exe, InstallUtil.exe, or aspnet_wp.exe.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157847</guid>
       <pubDate>Wed, 20 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft</title>
+      <link>https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html</link>
+      <description>Vulnerable Product: Various password manager plugins for web browsers; CVE(s): None; Summary: The plugins are susceptible to DOM-based extension clickjacking, which could allow attackers to steal account credentials, 2FA codes, and credit card details. To exploit the vulnerability, an attacker would create a fake site with an intrusive pop-up and embed an invisible login form that fills in the credential information when clicked.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html</guid>
+      <pubDate>Wed, 20 Aug 2025 17:54:00 +0000</pubDate>
     </item>
     <item>
       <title>“Rapper Bot” malware seized, alleged developer identified and charged</title>
@@ -42,6 +56,13 @@
       <description>Threat actors are exploiting generative AI (GenAI) platforms to orchestrate advanced phishing campaigns, generating hyper-realistic phishing content and impersonating legitimate brands. This misuse amplifies social engineering threats and complicates detection. AI-powered website builders are being actively abused to deploy phishing pages with unprecedented speed, often generating fully functional sites in seconds based on simple prompts without verification requirements.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157793</guid>
       <pubDate>Wed, 20 Aug 2025 16:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage</title>
+      <link>https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2018-0171; Summary: A seven-year-old security flaw (CVSS score: 9.8) in the Smart Install feature of Cisco IOS Software and Cisco IOS XE software allows an unauthenticated, remote attacker to trigger a denial-of-service (DoS) condition or execute arbitrary code.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html</guid>
+      <pubDate>Wed, 20 Aug 2025 15:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Hackers steal Microsoft logins using legitimate ADFS redirects</title>
@@ -1425,27 +1446,6 @@ FYSA: The article reports on a data breach affecting the House of Commons of Can
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-12</link>
       <description>Vulnerable Product: Siemens SIPROTEC 4 and SIPROTEC 4 Compact; CVE(s): CVE-2024-52504; Summary: Successful exploitation of this vulnerability could allow an unauthenticated remote attacker to cause a denial-of-service condition. The affected devices do not properly handle interrupted operations of file transfer, requiring the devices to be restarted to restore normal operations.</description>
       <guid isPermaLink="false">/node/23780</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens COMOS</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-02</link>
-      <description>Vulnerable Product: Siemens COMOS; CVE(s): CVE-2024-8894; Summary: The vulnerability, an out-of-bounds write, allows an attacker to cause a crash, potentially enabling a denial-of-service attack or code execution. The affected products are all versions of COMOS prior to V10.6, and exploitation requires reading crafted DWF files and missing proper checks on received SectionIterator data.</description>
-      <guid isPermaLink="false">/node/23770</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens BFCClient</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-21</link>
-      <description>Siemens will no longer update ICS security advisories for vulnerabilities beyond the initial advisory as of January 10, 2023. The vulnerabilities affect BFCClient versions prior to 2.17 and are related to buffer copy without checking size of input, out-of-bounds read, loop with unreachable exit condition, access of resource using incompatible type, and improper certificate validation. Successful exploitation could allow an attacker to read memory contents, change application behavior, or create a denial-of-service condition.</description>
-      <guid isPermaLink="false">/node/23789</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMOTION SCOUT, SIMOTION SCOUT TIA, and SINAMICS STARTER</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-18</link>
-      <description>Vulnerable Product: Siemens SIMOTION SCOUT, SIMOTION SCOUT TIA, SINAMICS STARTER; CVE(s): CVE-2025-40584; Summary: The affected application contains a XML External Entity Injection (XXE) vulnerability while parsing specially crafted XML files. Successful exploitation could allow an attacker to read arbitrary files in the system.</description>
-      <guid isPermaLink="false">/node/23786</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
