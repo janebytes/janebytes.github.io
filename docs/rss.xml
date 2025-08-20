@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 12:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 13:02:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Copilot Vulnerability Lets Attackers Bypass Audit Logs and Gain Hidden Access</title>
+      <link>https://gbhackers.com/copilot-vulnerability-lets-attackers-bypass-audit-logs/</link>
+      <description>Vulnerable Product: Microsoft M365 Copilot; CVE(s): None; Summary: A critical vulnerability in Microsoft's M365 Copilot allowed users to access sensitive files without leaving any trace in audit logs, creating significant security and compliance risks for organizations worldwide. The flaw exploited a fundamental issue in how Copilot handles audit logging, making it possible for malicious insiders or accidental interactions to delete audit entries, potentially causing incomplete and inaccurate audit logs.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157871</guid>
+      <pubDate>Wed, 20 Aug 2025 12:59:17 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft reportedly fixing SSD failures caused by Windows updates</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/</link>
@@ -1447,13 +1454,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-01</link>
       <description>Vulnerable Product: Siemens SIMATIC RTLS Locating Manager; CVE(s): CVE-2025-30034, CVE-2025-40751; Summary: The vulnerabilities in the SIMATIC RTLS Locating Manager allow an unauthenticated local attacker to cause a denial of service condition or escalate to higher access rights.</description>
       <guid isPermaLink="false">/node/23769</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SINEC Traffic Analyzer</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-266-17</link>
-      <description>Vulnerable Product: Siemens SINEC Traffic Analyzer (6GK8822-1BG01-0BA0); CVE(s): CVE-2024-24989, CVE-2024-24990, CVE-2025-40766, CVE-2025-40767, CVE-2025-40768, CVE-2025-40769; Summary: Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition or gain elevated access and access to sensitive resources. The vulnerabilities include NULL Pointer Dereference, Use After Free, Uncontrolled Resource Consumption, Execution with Unnecessary Privileges, Exposure of Sensitive Information to an Unauthorized Actor, Irrelevant Code, and Channel Accessible by Non-Endpoint.</description>
-      <guid isPermaLink="false">/node/23785</guid>
       <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
