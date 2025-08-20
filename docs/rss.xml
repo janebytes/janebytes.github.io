@@ -6,8 +6,84 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 22:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 10:05:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>CodeRabbit RCE Flaw Gives Attackers Write Access to 1M Repositories</title>
+      <link>https://gbhackers.com/coderabbit-rce-flaw/</link>
+      <description>Vulnerable Product: CodeRabbit; CVE(s): None; Summary: A critical remote code execution vulnerability in CodeRabbit allowed attackers to gain read and write access to over one million code repositories, including private ones. The vulnerability exploited CodeRabbit's integration with external static analysis tools, specifically targeting Rubocop, a Ruby static analyzer.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157728</guid>
+      <pubDate>Wed, 20 Aug 2025 09:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms</title>
+      <link>https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html</link>
+      <description>This article reports on a coordinated cyber espionage campaign attributed to North Korean threat actors (Kimsuky) targeting diplomatic missions in South Korea. The campaign involved spear-phishing emails impersonating trusted contacts, which led to the delivery of Xeno RAT malware through cloud storage solutions like Dropbox and Daum Cloud.
+
+FYSA: The campaign's infrastructure and tactics suggest a potential collaborative effort between North Korean operatives and Chinese resources for intelligence gathering efforts. The use of Korean services and infrastructure was likely intentional to blend into the South Korean network, and the attackers leveraged GitHub as a covert command-and-control channel.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html</guid>
+      <pubDate>Wed, 20 Aug 2025 09:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Salty 2FA PhaaS Platform Targets Microsoft 365 Users to Steal Login Credentials</title>
+      <link>https://gbhackers.com/new-salty-2fa-phaas-platform-targets-microsoft-365-users/</link>
+      <description>Vulnerable Product: Salty 2FA; CVE(s): None; Summary: The Salty 2FA Phishing-as-a-Service (PhaaS) framework is a sophisticated phishing kit that targets Microsoft 365 credentials through a multi-stage execution chain. It uses evasion techniques, including rotating CAPTCHAs and fingerprinting, to bypass detection and analysis. The kit's unique characteristics include "salted" payloads, advanced obfuscation methods, and behavioral patterns such as the use of .com + .ru domain chains and specific Cloudflare resource requests.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157705</guid>
+      <pubDate>Wed, 20 Aug 2025 08:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft fixes Windows upgrades failing with 0x8007007F error</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-upgrades-failing-with-0x8007007f-error/</link>
+      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The article reports on a resolved issue that caused Windows upgrades to fail with 0x8007007F errors on some Windows 11 and Windows Server systems. The issue affected specific upgrade paths, including upgrades from Windows 10 to Windows 11, and from Windows Server 2016 to Windows Server 2022. Users experiencing the issue are advised to retry the upgrade process after the bug was fixed as of August 15, 2025.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-upgrades-failing-with-0x8007007f-error/</guid>
+      <pubDate>Wed, 20 Aug 2025 08:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>New GodRAT Malware Uses Screensaver and Program Files to Target Organizations</title>
+      <link>https://gbhackers.com/new-godrat-malware-uses-screensaver-and-program-files/</link>
+      <description>The article discusses the deployment of a novel Remote Access Trojan (RAT) called GodRAT, which is distributed via Skype as malicious .scr and .pif executables. GodRAT represents an evolution of the AwesomePuppet backdoor, sharing code similarities and distribution methods, and is likely linked to the Winnti APT group.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157671</guid>
+      <pubDate>Wed, 20 Aug 2025 07:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft releases emergency updates to fix Windows recovery</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/</link>
+      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: The August 2025 Windows security updates cause issues with reset and recovery operations, impacting systems running Windows 10 and older versions of Windows 11. Installing the emergency out-of-band updates is recommended instead. The issue also affects IT professionals who want to remotely reset devices via RemoteWipe CSP.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/</guid>
+      <pubDate>Wed, 20 Aug 2025 06:46:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome High-Severity Vulnerability Could Let Attackers Run Arbitrary Code</title>
+      <link>https://gbhackers.com/chrome-high-severity-vulnerability/</link>
+      <description>Vulnerable Product: Google Chrome; CVE(s): CVE-2025-9132; Summary: The vulnerability affects the V8 JavaScript engine in Chrome, allowing attackers to execute arbitrary code with the same privileges as the affected application. This out-of-bounds write issue can be exploited through specially crafted web pages or malicious JavaScript content, potentially enabling attackers to bypass sandbox security mechanisms and access sensitive user data.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157664</guid>
+      <pubDate>Wed, 20 Aug 2025 06:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams “Couldn’t Connect” Issue After Sidebar Update Gets a Fix</title>
+      <link>https://gbhackers.com/microsoft-teams-couldnt-connect-gets-a-fix/</link>
+      <description>Vulnerable Product: Microsoft Teams; CVE(s): CVE-2025-53783; Summary: A recent interface enhancement update caused a widespread service disruption in Microsoft Teams, resulting in an error message when launching the application. The issue is not related to security risks and user data remains protected. Affected users can bypass the error by clicking on specific icons in the left-hand navigation sidebar.
+
+FYSA: None.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157659</guid>
+      <pubDate>Wed, 20 Aug 2025 05:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>McDonald’s Free Nuggets Hack Exposes Sensitive Customer Data</title>
+      <link>https://gbhackers.com/mcdonalds-free-nuggets-hack-exposed/</link>
+      <description>Vulnerable Product: McDonald's; CVE(s): None; Summary: The article reports multiple critical vulnerabilities in McDonald's digital infrastructure, exposing sensitive customer data and allowing unauthorized access to internal corporate systems. The vulnerabilities include client-side password validation, plaintext passwords, API keys and secrets embedded in JavaScript code, and lack of authentication for administrative functions.
+
+Note: No specific CVEs are mentioned in the article, so I've listed "None" as there are no publicly assigned CVEs for these vulnerabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157654</guid>
+      <pubDate>Wed, 20 Aug 2025 04:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks</title>
+      <link>https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html</link>
+      <description>A 22-year-old man from Oregon has been charged with developing and overseeing a distributed denial-of-service (DDoS)-for-hire botnet called RapperBot. The botnet, which was used to carry out large-scale attacks targeting victims in over 80 countries since at least 2021, has been dismantled as part of an international effort.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html</guid>
+      <pubDate>Wed, 20 Aug 2025 04:19:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oregon Man Charged in ‘Rapper Bot’ DDoS Service</title>
       <link>https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/</link>
@@ -1379,76 +1455,6 @@ This is an advisory from CISA regarding a vulnerability in Siemens products. The
       <description>Vulnerable Product: Microsoft Management Console (MMC); CVE(s): CVE-2025-26633; Summary: The vulnerability, CVE-2025-26633, enables attackers to execute arbitrary code via manipulated .msc files, allowing EncryptHub to infiltrate systems through a blend of social engineering and technical exploitation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156582</guid>
       <pubDate>Thu, 14 Aug 2025 10:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Out-of-Box-Experience Flaw Enables Full Administrative Command Prompt Access</title>
-      <link>https://gbhackers.com/windows-out-of-box-experience-flaw/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: A vulnerability in Windows' Out-of-Box-Experience (OOBE) allows users to bypass security restrictions and gain full administrative access to command prompt functionality, even when Microsoft's intended protective measures are in place. The vulnerability enables users to spawn an elevated command shell with administrative privileges through the defaultuser0 account, which maintains membership in the local Administrators group during the initial setup process.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156684</guid>
-      <pubDate>Thu, 14 Aug 2025 10:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘AI Induced Destruction’ – How AI Misuse is Creating New Attack Vectors</title>
-      <link>https://gbhackers.com/ai-induced-destruction/</link>
-      <description>Vulnerable Product: None; Summary: The article discusses a new trend in 2025 where artificial intelligence (AI) assistants designed to boost productivity are inadvertently causing massive system failures and data breaches due to excessive permissions and vague instructions from developers. The incidents involve AI systems misinterpreting ambiguous commands and executing destructive actions with the best intentions, often taking the most efficient but destructive path to completion.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156674</guid>
-      <pubDate>Thu, 14 Aug 2025 10:05:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Mega Malware Analysis Tutorial Featuring Donut-Generated Shellcode</title>
-      <link>https://unit42.paloaltonetworks.com/donut-malware-analysis-tutorial/</link>
-      <description>The article is a step-by-step malware analysis tutorial featuring shellcode generated by Donut. The tutorial walks through a single infection chain, starting with a sample, and assuming no prior knowledge of the malware in question. It highlights various techniques used by malware, such as dynamic API resolution, process injection, and bypassing AMSI by using memory patching.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=151292</guid>
-      <pubDate>Thu, 14 Aug 2025 10:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Need Just One Vulnerability to Own Your Rooted Android</title>
-      <link>https://gbhackers.com/attackers-need-just-one-vulnerability/</link>
-      <description>Vulnerable Product: KernelSU; CVE(s): CVE-2023-0000; Summary: The vulnerability in KernelSU version 0.5.7 allows attackers to impersonate the legitimate manager app, enabling full device compromise. The flaw arises from a race condition in the kernel's verification of the signing certificate, which can be exploited by manipulating file descriptor ordering and pre-authenticating with the crafted APK.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156560</guid>
-      <pubDate>Thu, 14 Aug 2025 09:32:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simple Steps for Attack Surface Reduction</title>
-      <link>https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html</link>
-      <description>This article provides guidelines on setting default security policies to prevent attacks. It recommends configuring systems to block risks out of the gate, including enabling MFA, application whitelisting, disabling Office macros, and blocking SMBv1 and RDP ports. The article also suggests removing local admin rights, controlling application behaviors, securing VPNs, and limiting file access.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html</guid>
-      <pubDate>Thu, 14 Aug 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA warns of N-able N-central flaws exploited in zero-day attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/</link>
-      <description>Vulnerable Product: N-able N-central; CVE(s): CVE-2025-8875, CVE-2025-8876; Summary: The N-able N-central RMM platform has two security vulnerabilities that allow threat actors to gain command execution and inject commands via insecure deserialization and improper sanitization of user input. These flaws can be exploited to gain unauthorized access to networks and devices, and are actively being exploited in the wild.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/</guid>
-      <pubDate>Thu, 14 Aug 2025 09:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixes Windows 11 24H2 updates failing with 0x80240069 error</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-24h2-updates-failing-with-0x80240069-error/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): None; Summary: The August 2025 Windows 11 24H2 cumulative update fails to install via Windows Server Update Services (WSUS) due to a known issue, resulting in error code 0x80240069 and unexpected termination of the Windows Update service. A fix is being rolled out through Known Issue Rollback (KIR), requiring administrators to install a group policy setting on affected devices.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-24h2-updates-failing-with-0x80240069-error/</guid>
-      <pubDate>Thu, 14 Aug 2025 07:41:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proxyware Campaign Piggybacks on Popular YouTube Video Download Services</title>
-      <link>https://gbhackers.com/proxyware-campaign-piggybacks/</link>
-      <description>This article discusses a proxyware distribution campaign by threat actors, exploiting unwitting users in South Korea to install unauthorized bandwidth-sharing tools like DigitalPulse and Honeygain. The malware disguises itself as legitimate YouTube video downloaders and utilizes GitHub repositories as a distribution vector.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156525</guid>
-      <pubDate>Thu, 14 Aug 2025 07:15:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses</title>
-      <link>https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html</link>
-      <description>Google is implementing a new policy requiring developers of cryptocurrency exchanges and wallets to obtain government licenses before publishing apps in 15 jurisdictions, aiming to ensure a safe and compliant ecosystem for users. The policy applies to markets like Bahrain, Canada, Hong Kong, Indonesia, Israel, Japan, the Philippines, South Africa, South Korea, Switzerland, Thailand, the United Arab Emirates, the United Kingdom, the United States, and the European Union.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html</guid>
-      <pubDate>Thu, 14 Aug 2025 06:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xerox FreeFlow Core Vulnerability Allows Remote Code Execution — PoC Now Public</title>
-      <link>https://gbhackers.com/xerox-freeflow-core-vulnerability/</link>
-      <description>Vulnerable Product: Xerox; CVE(s): CVE-2025-8355, CVE-2025-8356; Summary: The Xerox FreeFlow Core has two severe vulnerabilities that allow unauthenticated remote attackers to execute arbitrary code on vulnerable systems. The first is an XML External Entity (XXE) injection flaw and the second is a path traversal vulnerability that enables uploading webshells to publicly accessible directories, providing immediate remote access to compromised systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156519</guid>
-      <pubDate>Thu, 14 Aug 2025 05:38:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
