@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 15:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 16:04:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>MuddyWater APT Targets CFOs via OpenSSH; Enables RDP and Scheduled Tasks</title>
+      <link>https://gbhackers.com/muddywater-apt-targets-cfos-via-openssh/</link>
+      <description>The article describes a sophisticated spear-phishing campaign attributed to the Iranian-linked APT group MuddyWater, which targets CFOs and finance executives globally. The attackers use custom math-based CAPTCHA challenges and Firebase-hosted phishing pages to evade detection and establish persistent control through remote-access tools like NetBird and OpenSSH.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158159</guid>
+      <pubDate>Thu, 21 Aug 2025 15:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paper Werewolf Exploits WinRAR Zero-Day Vulnerability to Deliver Malware</title>
+      <link>https://gbhackers.com/paper-werewolf-exploits-winrar-zero-day-vulnerability/</link>
+      <description>Vulnerable Product: WinRAR; CVE(s): CVE-2025-6218, None; Summary: A vulnerability in WinRAR allows directory traversal attacks by exploiting alternative data streams (ADS) in archive files. The vulnerability enables arbitrary payloads to be written to system directories during extraction or direct file opening, facilitating directory traversal attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157760</guid>
+      <pubDate>Thu, 21 Aug 2025 15:21:54 +0000</pubDate>
+    </item>
     <item>
       <title>Threat Actors Weaponize PDF Editor Trojan to Convert Devices into Proxies</title>
       <link>https://gbhackers.com/threat-actors-weaponize-pdf-editor-trojan/</link>
@@ -70,6 +84,27 @@
       <description>Vulnerable Product: Cisco; CVE(s): CVE-2018-0171; Summary: A 7-year-old vulnerability in Cisco's Smart Install feature of IOS and IOS XE software allows unauthenticated attackers to remotely trigger a reload or execute arbitrary code on devices, potentially leading to denial-of-service (DoS) conditions. The FBI warns that state-backed hackers linked to Russia's FSB are exploiting this flaw to target critical infrastructure organizations worldwide.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/</guid>
       <pubDate>Thu, 21 Aug 2025 12:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Electric Corporation MELSEC iQ-F Series CPU Module</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-233-01</link>
+      <description>Vulnerable Product: Mitsubishi Electric Corporation MELSEC iQ-F Series CPU module; CVE(s): CVE-2025-5514; Summary: A Denial-of-Service (DoS) vulnerability due to Improper Handling of Length Parameter Inconsistency exists in the Web server function of the MELSEC iQ-F Series CPU module. Successful exploitation could result in a remote attacker delaying the processing of the Web server function and preventing legitimate users from utilizing the Web server function by sending a specially crafted HTTP request.</description>
+      <guid isPermaLink="false">/node/23818</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Releases Three Industrial Control Systems Advisories</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-releases-three-industrial-control-systems-advisories</link>
+      <description>CISA issued three Industrial Control Systems (ICS) advisories on August 21, 2025, providing information about current security issues, vulnerabilities, and exploits surrounding ICS. The advisories are for Mitsubishi Electric Corporation's MELSEC iQ-F Series CPU Module, Mitsubishi Electric Air Conditioning Systems, and FUJIFILM Healthcare Americas Synapse Mobility.</description>
+      <guid isPermaLink="false">/node/23820</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FUJIFILM Healthcare Americas Synapse Mobility</title>
+      <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-233-01</link>
+      <description>Vulnerable Product: FUJIFILM Healthcare Americas Corporation Synapse Mobility; CVE(s): CVE-2025-54551; Summary: The vulnerability allows an attacker to access information beyond their assigned roles through external control of a Web parameter. Successful exploitation could allow an attacker to bypass authentication and access sensitive information, with CVSS v4 score 5.3.</description>
+      <guid isPermaLink="false">/node/23819</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New SHAMOS Malware Targets macOS Through Fake Help Sites to Steal Login Credentials</title>
@@ -1410,41 +1445,6 @@ Void Blizzard is a newly identified Russian state-sponsored cyber threat group t
       <description>Vulnerable Product: ERMAC V3.0; CVE(s): None; Summary: The complete source code of ERMAC V3.0, a sophisticated banking trojan, was exposed due to a weak default password "changemeplease". The leak reveals multiple critical security flaws, including hardcoded JWT secret token, static admin bearer token, and default root credentials, which can be exploited to disrupt ERMAC operations.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156918</guid>
       <pubDate>Fri, 15 Aug 2025 08:46:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Best Managed Detection And Response (MDR) Companies in 2025</title>
-      <link>https://gbhackers.com/managed-detection-and-response-mdr-companies/</link>
-      <description>I have analyzed the article and it does not appear to be discussing a specific software, hardware, or firmware vulnerability. Instead, it appears to be an overview of different Managed Detection and Response (MDR) services offered by various cybersecurity companies. The article provides information about each company's MDR offerings, highlighting their unique features, strengths, and approaches.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149736</guid>
-      <pubDate>Fri, 15 Aug 2025 07:58:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Secure Firewall Snort 3 Vulnerability Enable DoS Attacks</title>
-      <link>https://gbhackers.com/cisco-secure-firewall-snort-3-vulnerability/</link>
-      <description>Vulnerable Product: Cisco Secure Firewall Threat Defense Software; CVE(s): CVE-2025-20217; Summary: The vulnerability in the Snort 3 Detection Engine allows unauthenticated remote attackers to launch denial of service (DoS) attacks, potentially disrupting critical network operations. Exploitation involves sending specially crafted traffic through the affected device, causing an infinite loop during packet inspection, and can be mitigated only by applying available security updates.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156910</guid>
-      <pubDate>Fri, 15 Aug 2025 07:13:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution</title>
-      <link>https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html</link>
-      <description>Vulnerable Product: Cisco Secure Firewall Management Center (FMC) Software; CVE(s): CVE-2025-20265; Summary: The vulnerability affects the RADIUS subsystem implementation and could permit an unauthenticated, remote attacker to inject arbitrary shell commands that are executed by the device. A successful exploit could allow the attacker to execute commands at a high privilege level, requiring Cisco Secure FMC Software to be configured for RADIUS authentication for the web-based management interface, SSH management, or both.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html</guid>
-      <pubDate>Fri, 15 Aug 2025 06:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HTTP/2 MadeYouReset Vulnerability Enables Massive DDoS Attacks</title>
-      <link>https://gbhackers.com/http-2-madeyoureset-vulnerability/</link>
-      <description>Vulnerable Product: HTTP/2 protocol; CVE(s): CVE-2025-8671; Summary: The "MadeYouReset" vulnerability allows attackers to bypass HTTP/2's concurrency limits, enabling unbounded concurrent work on target servers with minimal resources, potentially leading to massive DDoS attacks and overwhelming servers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156904</guid>
-      <pubDate>Fri, 15 Aug 2025 06:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Secure Firewall Vulnerability Lets Attackers Execute Remote Shell Commands</title>
-      <link>https://gbhackers.com/cisco-secure-firewall-vulnerability/</link>
-      <description>Vulnerable Product: Cisco Secure Firewall Management Center; CVE(s): CVE-2025-20265; Summary: The vulnerability in Cisco Secure Firewall Management Center's RADIUS subsystem allows unauthenticated attackers to remotely execute shell commands with elevated privileges, potentially gaining high-level system access without prior authentication. This can lead to complete control over the firewall management system and potential further network attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156899</guid>
-      <pubDate>Fri, 15 Aug 2025 05:13:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
