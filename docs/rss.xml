@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 13:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 14:02:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Why Certified VMware Pros Are Driving the Future of IT</title>
+      <link>https://www.bleepingcomputer.com/news/security/why-certified-vmware-pros-are-driving-the-future-of-it/</link>
+      <description>This article is about the importance of VMware certifications for IT teams and how it can be a differentiator for both individuals and organizations. It highlights how team-wide certification can build empowered teams, make environments more resilient, and improve talent loyalty and preparedness to handle security threats.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/why-certified-vmware-pros-are-driving-the-future-of-it/</guid>
+      <pubDate>Thu, 21 Aug 2025 13:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Warns Russian State Hackers Targeting Critical Infrastructure Networking Devices</title>
+      <link>https://gbhackers.com/fbi-warns-russian-state-hackers/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2018-0171; Summary: The vulnerability affects Cisco Smart Install (SMI) functionality, enabling unauthorized access and manipulation of device configurations. It is exploited by actors affiliated with the Russian Federal Security Service's Center 16 to harvest configuration files from thousands of networking devices, potentially facilitating persistent unauthorized access and reconnaissance within victim networks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158015</guid>
+      <pubDate>Thu, 21 Aug 2025 13:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kali Vagrant Rebuilt Released with Pre-Configured Command-Line VMs</title>
+      <link>https://gbhackers.com/kali-vagrant-rebuilt-released/</link>
+      <description>Kali Linux has transitioned from HashiCorp's Packer to DebOS build system for creating pre-configured command-line accessible VMs. The change brings new compatibility requirements for Windows users running Hyper-V environments and affects Vagrant version 2.4.8 or higher, requiring updates for proper functionality.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158177</guid>
+      <pubDate>Thu, 21 Aug 2025 13:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>High-Severity Mozilla Flaws Allow Remote Code Execution</title>
+      <link>https://gbhackers.com/high-severity-mozilla-flaws-allow-remote-code-execution/</link>
+      <description>Vulnerable Product: Mozilla Firefox; CVE(s): CVE-2025-9187, CVE-2025-9184, CVE-2025-9185, CVE-2025-9179, CVE-2025-9180; Summary: Multiple critical security vulnerabilities in Firefox and Thunderbird allow remote attackers to execute arbitrary code or bypass same-origin policy. The most concerning vulnerabilities involve memory safety bugs that could be exploited by skilled attackers, including a sandbox escape vulnerability in the Audio/Video GMP component.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158166</guid>
+      <pubDate>Thu, 21 Aug 2025 13:04:22 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft 365 Adds New Feature for Admins to Manage Link Creation Policies</title>
       <link>https://gbhackers.com/microsoft-365-adds-new-feature-for-admins/</link>
@@ -1419,34 +1447,6 @@ Void Blizzard is a newly identified Russian state-sponsored cyber threat group t
 The article discusses two initiatives involving law enforcement and private companies that have resulted in the freezing of over $300 million worth of cryptocurrency linked to cybercrime and fraud schemes. The initiatives, led by the T3 Financial Crime Unit and Chainalysis, involved coordinated investigations and global collaboration to detect and intervene at the blockchain level, significantly hindering cybercriminals from moving or spending scam proceeds.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/</guid>
       <pubDate>Thu, 14 Aug 2025 20:15:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-846: Apple macOS USD importMeshJointWeights Out-Of-Bounds Read Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-846/</link>
-      <description>Vulnerable Product: Apple macOS; CVE(s): CVE-2025-31281; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Apple macOS. Interaction with the USD library is required to exploit this vulnerability, and it results from a lack of proper validation of user-supplied data, leading to a read past the end of an allocated buffer.</description>
-      <guid isPermaLink="false">ZDI-CAN-27058</guid>
-      <pubDate>Thu, 14 Aug 2025 20:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Leverage CrossC2 to Extend Cobalt Strike to Linux and macOS</title>
-      <link>https://gbhackers.com/threat-actors-leverage-crossc2/</link>
-      <description>Vulnerable Product: CrossC2; CVE(s): None; Summary: CrossC2 is an unofficial extension tool that creates Cobalt Strike Beacons that work with Linux and macOS. It was used by threat actors to target Active Directory infrastructures, exploiting Linux servers as potential entry points and capitalizing on the frequent absence of endpoint detection and response (EDR) systems in such environments. The tool integrates custom loaders, including ReadNimeLoader, and employs anti-analysis measures and sophisticated anti-debugging techniques.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156814</guid>
-      <pubDate>Thu, 14 Aug 2025 19:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PS1Bot: Multi-Stage Malware Framework Targeting Windows Systems</title>
-      <link>https://gbhackers.com/ps1bot-multi-stage-malware-framework/</link>
-      <description>The article discusses a malware campaign, dubbed PS1Bot, which has been active since early 2025. The malware uses malvertising and SEO poisoning to distribute compressed archives with file names mimicking legitimate search queries. Upon extraction, the archives contain a JavaScript file that downloads PowerShell scripts from an attacker-controlled server, which poll a command-and-control (C2) server and execute in-memory to minimize disk artifacts and enhance stealth.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156797</guid>
-      <pubDate>Thu, 14 Aug 2025 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What happened in Vegas (that you actually want to know about)</title>
-      <link>https://blog.talosintelligence.com/what-happened-in-vegas-that-you-actually-want-to-know-about/</link>
-      <description>The article discusses various cybersecurity-related topics, including threat actors, tactics, infrastructure, and impacts. It mentions Russian government hackers allegedly being behind a data breach affecting the US federal court filing system, as well as North Korean state-sponsored hacking group Kimsuky suffering a data breach. Additionally, it warns about a widespread malvertising campaign distributing malware that steals sensitive information and maintains persistent access on infected systems.</description>
-      <guid isPermaLink="false">689cebb2e2d85f00011b7fd6</guid>
-      <pubDate>Thu, 14 Aug 2025 18:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
