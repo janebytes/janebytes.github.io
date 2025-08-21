@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 16:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 17:02:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Europol confirms $50,000 Qilin ransomware reward is fake</title>
+      <link>https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/</link>
+      <description>Europol has confirmed that a Telegram channel impersonating the agency and offering a $50,000 reward for information on two Qilin ransomware administrators is fake. The impostor later admitted it was created to troll researchers and journalists, claiming it was "so easy to run and fool" them.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/</guid>
+      <pubDate>Thu, 21 Aug 2025 16:25:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages</title>
+      <link>https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html</link>
+      <description>Threat actors are using the social engineering tactic ClickFix to deploy a versatile backdoor codenamed CORNFLAKE.V3, which provides access to systems that is monetized by other threat groups. The attack chain begins with fake CAPTCHA pages and involves PowerShell scripts, while the backdoor supports the execution of payloads via HTTP and can collect system information.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html</guid>
+      <pubDate>Thu, 21 Aug 2025 16:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Abuse Internet Archive to Host Stealthy JScript Loader</title>
+      <link>https://gbhackers.com/threat-actors-abuse-internet-archive/</link>
+      <description>Malicious actors are using reliable internet resources, such as the Internet Archive, to disseminate clandestine malware components. The tactic exploits the inherent trustworthiness of these platforms, allowing attackers to deliver payloads under the guise of legitimate content.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158179</guid>
+      <pubDate>Thu, 21 Aug 2025 16:24:00 +0000</pubDate>
+    </item>
     <item>
       <title>MuddyWater APT Targets CFOs via OpenSSH; Enables RDP and Scheduled Tasks</title>
       <link>https://gbhackers.com/muddywater-apt-targets-cfos-via-openssh/</link>
@@ -1424,27 +1445,6 @@ Void Blizzard is a newly identified Russian state-sponsored cyber threat group t
       <description>This article is about the integration of ChatGPT, Claude, and GitHub Copilot with HexStrike AI's autonomous cybersecurity framework. It enables these AI agents to orchestrate over 150 professional security tools for comprehensive penetration testing and vulnerability intelligence.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156948</guid>
       <pubDate>Fri, 15 Aug 2025 09:12:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palo Alto GlobalProtect Vulnerability Allows Privilege Escalation via Certificate Bypass</title>
-      <link>https://gbhackers.com/palo-alto-globalprotect-vulnerability/</link>
-      <description>Vulnerable Product: Palo Alto Networks GlobalProtect App; CVE(s): CVE-2025-2183; Summary: A vulnerability in the GlobalProtect app allows attackers to escalate privileges, install malicious software, and bypass security controls by exploiting improper certificate validation. The flaw affects multiple versions of the VPN client across Windows and Linux platforms, with Windows and Linux systems bearing the primary risk.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156944</guid>
-      <pubDate>Fri, 15 Aug 2025 08:58:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>US sanctions Grinex crypto-exchange, successor to Garantex</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/</link>
-      <description>The U.S. Department of the Treasury has announced sanctions against Grinex, a cryptocurrency exchange suspected to be a rebrand of previously sanctioned Garantex, which was linked to ransomware gangs and laundered money for cybercriminals. The sanctions also target three co-founders and six partner companies allegedly involved with Garantex.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/</guid>
-      <pubDate>Fri, 15 Aug 2025 08:46:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Source Code of ERMAC V3.0 Malware Exposed by ‘changemeplease’ Password</title>
-      <link>https://gbhackers.com/source-code-of-ermac-v3-0-malware-exposed/</link>
-      <description>Vulnerable Product: ERMAC V3.0; CVE(s): None; Summary: The complete source code of ERMAC V3.0, a sophisticated banking trojan, was exposed due to a weak default password "changemeplease". The leak reveals multiple critical security flaws, including hardcoded JWT secret token, static admin bearer token, and default root credentials, which can be exploited to disrupt ERMAC operations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156918</guid>
-      <pubDate>Fri, 15 Aug 2025 08:46:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
