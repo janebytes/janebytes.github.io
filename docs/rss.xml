@@ -6,8 +6,78 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 20:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 21:03:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-863: Foxit PDF Reader PRC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-863/</link>
+      <description>Vulnerable Product: Foxit PDF Reader; CVE(s): CVE-2025-9329; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability, and it exists within the parsing of PRC files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26772</guid>
+      <pubDate>Thu, 21 Aug 2025 21:03:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-864: Foxit PDF Reader PRC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-864/</link>
+      <description>Vulnerable Product: Foxit PDF Reader; CVE(s): CVE-2025-9328; Summary: The vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader by exploiting an out-of-bounds read in the PRC file parsing. User interaction is required, as the target must visit a malicious page or open a malicious file.</description>
+      <guid isPermaLink="false">ZDI-CAN-26773</guid>
+      <pubDate>Thu, 21 Aug 2025 21:03:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-865: Foxit PDF Reader PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-865/</link>
+      <description>Vulnerable Product: Foxit, PDF Reader; CVE(s): CVE-2025-9327; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of PRC files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-26774</guid>
+      <pubDate>Thu, 21 Aug 2025 21:02:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-866: Foxit PDF Reader PRC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-866/</link>
+      <description>Vulnerable Product: Foxit; PDF Reader; CVE(s): CVE-2025-9326; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader, requiring user interaction. The flaw exists in the parsing of PRC files due to lack of proper validation of user-supplied data, leading to a read past the end of an allocated buffer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26784</guid>
+      <pubDate>Thu, 21 Aug 2025 21:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-867: Foxit PDF Reader PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-867/</link>
+      <description>Vulnerable Product: Foxit PDF Reader; CVEs: CVE-2025-9325; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader. It requires user interaction and exists within the parsing of PRC files due to lack of proper validation of user-supplied data, which can result in a read past the end of an allocated object.</description>
+      <guid isPermaLink="false">ZDI-CAN-26785</guid>
+      <pubDate>Thu, 21 Aug 2025 21:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-868: Foxit PDF Reader PRC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-868/</link>
+      <description>Vulnerable Product: Foxit, PDF Reader; CVE(s): CVE-2025-9324; Summary: The vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader by parsing PRC files without proper validation of user-supplied data. User interaction is required to exploit this vulnerability.</description>
+      <guid isPermaLink="false">ZDI-CAN-26802</guid>
+      <pubDate>Thu, 21 Aug 2025 21:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-869: Foxit PDF Reader JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-869/</link>
+      <description>Vulnerable Product: Foxit PDF Reader; CVE(s): CVE-2025-9323; Summary: This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability, which exists within the parsing of JP2 files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-27101</guid>
+      <pubDate>Thu, 21 Aug 2025 21:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-870: Foxit PDF Reader Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-870/</link>
+      <description>Vulnerable Product: Foxit; PDF Reader; CVE(s): CVE-2025-9330; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Foxit PDF Reader. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Foxit Reader Update Service that loads a library from an unsecured location.</description>
+      <guid isPermaLink="false">ZDI-CAN-25709</guid>
+      <pubDate>Thu, 21 Aug 2025 21:01:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colt confirms customer data stolen as Warlock ransomware auctions files</title>
+      <link>https://www.bleepingcomputer.com/news/security/colt-confirms-customer-data-stolen-as-warlock-ransomware-auctions-files/</link>
+      <description>Colt Technology Services has confirmed that customer documentation was stolen by the Warlock ransomware gang, which is auctioning off the files on the dark web. The stolen documents contain financial information, network architecture data, and customer information, and are being sold for $200,000.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/colt-confirms-customer-data-stolen-as-warlock-ransomware-auctions-files/</guid>
+      <pubDate>Thu, 21 Aug 2025 20:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploiting Victims’ Machines for Bandwidth Monetization</title>
+      <link>https://gbhackers.com/threat-actors-exploiting-victims-machines/</link>
+      <description>Vulnerable Product: GeoServer; CVE(s): CVE-2024-36401; Summary: The vulnerability, rated 9.8 CVSS score, allows attackers to remotely execute code and monetize victims' bandwidth by deploying SDKs or modified applications that generate passive income through network sharing or residential proxies.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158225</guid>
+      <pubDate>Thu, 21 Aug 2025 20:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-858: Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-858/</link>
@@ -1363,90 +1433,6 @@ In conclusion, this article presents a valuable resource for organizations seeki
       <description>The article discusses the inner workings of an Android banking trojan called ERMAC 3.0, revealing its infrastructure and capabilities, including form injection methods, data theft, and command-and-control (C2) panel.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html</guid>
       <pubDate>Sat, 16 Aug 2025 10:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Hackers Exploit Web Hosting Infrastructure for Cyberattacks</title>
-      <link>https://gbhackers.com/chinese-hackers-exploit-web-hosting-infrastructure/</link>
-      <description>The article reveals a sophisticated Chinese-speaking advanced persistent threat (APT) group, designated UAT-7237, that has been actively targeting web hosting infrastructure in Taiwan since at least 2022. The group demonstrates a refined approach to maintaining persistent access and employs distinct tactics to establish long-term presence in high-value environments, including custom shellcode loading, VPN-based persistence, cloud infrastructure, and evasion techniques.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156979</guid>
-      <pubDate>Sat, 16 Aug 2025 09:22:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware</title>
-      <link>https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-26633; Summary: The vulnerability in the Microsoft Management Console (MMC) framework was exploited by EncryptHub to deliver malicious payloads. The exploit uses social engineering techniques and a rogue MSC file to trigger the infection routine, ultimately leading to the execution of PowerShell commands that download and run additional malware.
-
-FYSA: EncryptHub is continuing to exploit vulnerabilities and use social engineering tactics to deliver malicious payloads. They are using fake job offers, portfolio reviews, and compromised Steam games to infect targets with stealer malware. The group is also abusing trusted platforms like Brave Support to host next-stage malware and setting up phony videoconferencing lures to deceive victims into downloading malicious software.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html</guid>
-      <pubDate>Sat, 16 Aug 2025 05:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Best NDR Solutions (Network Detection and Response) in 2025</title>
-      <link>https://gbhackers.com/best-ndr-solutions/</link>
-      <description>The article provides an analysis of various Network Detection and Response (NDR) solutions from different vendors. It highlights the key features, strengths, and capabilities of each NDR solution, including their ability to detect advanced threats, provide comprehensive visibility into network traffic, and offer automated investigation and response capabilities.
-
-The analysis covers a range of NDR solutions from well-known vendors such as Fidelis, NetWitness, and Trend Micro. It provides insights into the unique strengths and specializations of each solution, helping readers understand which NDR might best suit their specific security needs.
-
-The article also emphasizes the importance of NDR in modern cybersecurity, highlighting its role in detecting and responding to threats that bypass traditional security controls.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=149512</guid>
-      <pubDate>Fri, 15 Aug 2025 20:31:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile Phishers Target Brokerage Accounts in ‘Ramp and Dump’ Cashout Scheme</title>
-      <link>https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/</link>
-      <description>Cybercriminal groups are using sophisticated phishing kits to convert stolen card data into mobile wallets, and have recently shifted their focus to targeting customers of brokerage services. They use compromised accounts in unison to manipulate stock prices, exploiting weaknesses in multi-factor authentication methods used by some financial institutions.</description>
-      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71895</guid>
-      <pubDate>Fri, 15 Aug 2025 18:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Best Free Data Recovery Software 2025</title>
-      <link>https://gbhackers.com/free-data-recovery-software/</link>
-      <description>FYSA:
-
-As a cybersecurity analyst, I analyzed the article and found it to be an informative piece on free data recovery tools for Windows and Mac operating systems. The article highlights 10 different software tools that can help users recover lost files from various storage devices.
-
-The tools mentioned include Recuva, Stellar Data Recovery, Glary Undelete, MiniTool Power Data Recovery, ADRC Data Recovery Tools, PhotoRec, etc. Each tool has its unique features and capabilities, making it suitable for a wide range of users.
-
-While the article does not discuss any specific vulnerabilities or security threats related to these data recovery tools, I would like to highlight that the best practice is to only download software from trusted sources and be cautious when using third-party downloaders or deals.
-
-Additionally, it is essential to note that while these free data recovery tools can be helpful in recovering lost files, they may not always be effective, especially if the deleted data has been written over or if the recording medium has been physically damaged. Therefore, it's crucial for users to act quickly when realizing they have lost files and use the right tool for their specific situation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=40630</guid>
-      <pubDate>Fri, 15 Aug 2025 18:11:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools</title>
-      <link>https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html</link>
-      <description>A Chinese-speaking advanced persistent threat (APT) actor, tracked as UAT-7237, targets web infrastructure entities in Taiwan using customized open-sourced tools with the aim of establishing long-term access within high-value victim environments. The group relies on exploitation of known security flaws against unpatched servers and uses various tools such as Cobalt Strike, SoundBill, JuicyPotato, and Mimikatz to carry out malicious activities.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html</guid>
-      <pubDate>Fri, 15 Aug 2025 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colt Telecom attack claimed by WarLock ransomware, data up for sale</title>
-      <link>https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2025-53770; Summary: The article reports a cyberattack on UK-based telecommunications company Colt Technology Services, causing a multi-day outage of some operations. Initial access was likely gained by exploiting a remote code execution vulnerability in Microsoft SharePoint tracked as CVE-2025-53770.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/</guid>
-      <pubDate>Fri, 15 Aug 2025 15:25:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco IOS, IOS XE, and Secure Firewall Flaws Allow Remote DoS Attacks</title>
-      <link>https://gbhackers.com/cisco-ios-ios-xe-and-secure-firewall-flaws/</link>
-      <description>Vulnerable Product: Cisco Systems; CVE(s): CVE-2025-20224, CVE-2025-20225, CVE-2025-20239, CVE-2025-20252, CVE-2025-20253, and CVE-2025-20254; Summary: Six critical vulnerabilities in the Internet Key Exchange Version 2 (IKEv2) feature across Cisco's networking and security product portfolio allow unauthenticated remote attackers to launch denial-of-service attacks, potentially causing system crashes and service disruptions. The most severe vulnerability has a CVSS base score of 8.6, indicating high severity with potential for significant impact on affected systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156968</guid>
-      <pubDate>Fri, 15 Aug 2025 14:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco warns of max severity flaw in Firewall Management Center</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/</link>
-      <description>Vulnerable Product: Cisco Secure Firewall Management Center (FMC) software; CVE(s): CVE-2025-20265, None for other vulnerabilities; Summary: A critical remote code execution (RCE) vulnerability exists in the RADIUS subsystem of Cisco FMC software, allowing an unauthenticated attacker to inject arbitrary shell commands with elevated privileges. The vulnerability affects FMC versions 7.0.7 and 7.7.0 when RADIUS authentication is enabled.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/</guid>
-      <pubDate>Fri, 15 Aug 2025 13:57:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft reminds of Windows 10 support ending in two months</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/</link>
-      <description>None</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/</guid>
-      <pubDate>Fri, 15 Aug 2025 13:09:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
