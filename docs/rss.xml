@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 12:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 13:02:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Microsoft 365 Adds New Feature for Admins to Manage Link Creation Policies</title>
+      <link>https://gbhackers.com/microsoft-365-adds-new-feature-for-admins/</link>
+      <description>Microsoft is introducing new tenant-level controls for managing organization-wide sharing links for user-built Copilot agents in Microsoft 365, providing IT administrators with granular control over who can create these links. This feature aims to address growing concerns about AI governance and data sharing policies within organizations, particularly benefiting those with strict data sharing policies or regulated industries.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158157</guid>
+      <pubDate>Thu, 21 Aug 2025 12:52:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Hackers Exploit 7-Year-Old Cisco Flaw to Steal Industrial System Configs</title>
+      <link>https://gbhackers.com/russian-hackers-exploit-7-year-old-cisco-flaw/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2018-0171; Summary: Static Tundra exploits the seven-year-old remote code execution and denial-of-service vulnerability in Cisco's Smart Install feature (CVE-2018-0171) to compromise network devices, enabling configuration theft and persistent espionage. The campaign uses advanced tactics, including SNMP-based command issuance, local TFTP servers, and SYNful Knock firmware implant for reboot-resistant access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158007</guid>
+      <pubDate>Thu, 21 Aug 2025 12:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI warns of Russian hackers exploiting 7-year-old Cisco flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/</link>
+      <description>Vulnerable Product: Cisco; CVE(s): CVE-2018-0171; Summary: A 7-year-old vulnerability in Cisco's Smart Install feature of IOS and IOS XE software allows unauthenticated attackers to remotely trigger a reload or execute arbitrary code on devices, potentially leading to denial-of-service (DoS) conditions. The FBI warns that state-backed hackers linked to Russia's FSB are exploiting this flaw to target critical infrastructure organizations worldwide.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/</guid>
+      <pubDate>Thu, 21 Aug 2025 12:04:08 +0000</pubDate>
+    </item>
     <item>
       <title>New SHAMOS Malware Targets macOS Through Fake Help Sites to Steal Login Credentials</title>
       <link>https://gbhackers.com/new-shamos-malware-targets-macos/</link>
@@ -28,6 +49,13 @@
       <description>This article discusses a financially motivated threat group UNC5518 that infiltrates trustworthy websites to install ClickFix lures, which are misleading phony CAPTCHA pages. These malicious pages trick users into executing downloader scripts that initiate infection chains, often leading to malware deployment by affiliated actors.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157996</guid>
       <pubDate>Thu, 21 Aug 2025 10:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger</title>
+      <link>https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html</link>
+      <description>QuirkyLoader malware loader delivers next-stage payloads including information stealers and remote access trojans via email spam campaigns; it uses DLL side-loading, process hollowing, and AOT compilation to inject payloads into target processes.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html</guid>
+      <pubDate>Thu, 21 Aug 2025 10:41:00 +0000</pubDate>
     </item>
     <item>
       <title>Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025</title>
@@ -1419,36 +1447,6 @@ The article discusses two initiatives involving law enforcement and private comp
       <description>The article discusses various cybersecurity-related topics, including threat actors, tactics, infrastructure, and impacts. It mentions Russian government hackers allegedly being behind a data breach affecting the US federal court filing system, as well as North Korean state-sponsored hacking group Kimsuky suffering a data breach. Additionally, it warns about a widespread malvertising campaign distributing malware that steals sensitive information and maintains persistent access on infected systems.</description>
       <guid isPermaLink="false">689cebb2e2d85f00011b7fd6</guid>
       <pubDate>Thu, 14 Aug 2025 18:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypto24 ransomware hits large orgs with custom EDR evasion tool</title>
-      <link>https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/</link>
-      <description>Crypto24 ransomware group uses custom utilities to evade security solutions, exfiltrate data, and encrypt files. The group has been identified using default administrative accounts on Windows systems, creating malicious services and tasks, and disabling security agents from multiple vendors.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/</guid>
-      <pubDate>Thu, 14 Aug 2025 17:53:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>New NFC-Based PhantomCard Malware Targets Android Banking Users</title>
-      <link>https://gbhackers.com/new-nfc-based-phantomcard-malware/</link>
-      <description>PhantomCard is a sophisticated NFC-based Trojan designed to relay sensitive card data from victims' devices to cybercriminals. It operates by masquerading as a legitimate "card protection" app and exploits the NFC reader in modern Android devices, focusing on the ISO-DEP protocol standard used in EMV contactless cards.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156786</guid>
-      <pubDate>Thu, 14 Aug 2025 17:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Use Advanced Tactics to Personalize Phishing for Malware Delivery</title>
-      <link>https://gbhackers.com/threat-actors-use-advanced-tactics/</link>
-      <description>Threat actors are using topic customization as a more advanced strategy in targeted malware-delivery phishing campaigns. The approach involves crafting personalized subject lines, attachment names, and embedded links to mimic authentic communications, evading detection and facilitating successful compromises. Key insights reveal that when combined with Remote Access Trojans (RATs) or Information Stealers, these campaigns can grant attackers remote access or harvest credentials.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156775</guid>
-      <pubDate>Thu, 14 Aug 2025 16:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Mandates License or Certification for Crypto App Developers</title>
-      <link>https://gbhackers.com/google-mandates-license-or-certification/</link>
-      <description>FYSA:
-
-The article highlights the cryptocurrency ecosystem's ongoing challenges in balancing accessibility with security, as regulatory frameworks evolve. The Google Play requires developers to meet stringent publishing requirements, and the FBI warns of sophisticated recovery scams targeting previous fraud victims. The article emphasizes the importance of vigilance against compliance failures and criminal exploitation, as the industry seeks legitimacy and sustainable growth.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156877</guid>
-      <pubDate>Thu, 14 Aug 2025 16:17:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
