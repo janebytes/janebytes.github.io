@@ -6,8 +6,173 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 22:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 10:12:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-852: (0Day) CData API Server MySQL Misconfiguration Information Disclosure Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-852/</link>
+      <description>Vulnerable Product: CData API Server; CVE(s): CVE-2025-9273; Summary: The CData API Server has a MySQL misconfiguration information disclosure vulnerability that allows remote attackers to disclose sensitive information. Authentication is required to exploit this vulnerability, and the specific flaw exists within the usage of MySQL connections.</description>
+      <guid isPermaLink="false">ZDI-CAN-23950</guid>
+      <pubDate>Thu, 21 Aug 2025 10:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-853: (0Day) Oxford Instruments Imaris Viewer IMS File Parsing Uninitialized Pointer Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-853/</link>
+      <description>Vulnerable Product: Oxford Instruments Imaris Viewer; CVE(s): CVE-2025-9274; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Oxford Instruments Imaris Viewer. User interaction is required to exploit this vulnerability, which exists in the parsing of IMS files due to an uninitialized pointer.</description>
+      <guid isPermaLink="false">ZDI-CAN-21657</guid>
+      <pubDate>Thu, 21 Aug 2025 10:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-854: (0Day) Oxford Instruments Imaris Viewer IMS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-854/</link>
+      <description>Vulnerable Product: Oxford Instruments Imaris Viewer; CVE(s): CVE-2025-9275; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Oxford Instruments Imaris Viewer by parsing IMS files with an out-of-bounds write. User interaction is required, and the specific flaw exists within the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated data structure.</description>
+      <guid isPermaLink="false">ZDI-CAN-21655</guid>
+      <pubDate>Thu, 21 Aug 2025 10:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-855: (0Day) Cockroach Labs cockroach-k8s-request-cert Empty Root Password Authentication Bypass Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-855/</link>
+      <description>Vulnerable Product: Cockroach Labs cockroach-k8s-request-cert; CVE(s): CVE-2025-9276; Summary: This vulnerability allows remote attackers to bypass authentication on systems using the affected version of the Cockroach Labs cockroach-k8s-request-cert container image by exploiting a blank password setting for the root user in the system shadow file.</description>
+      <guid isPermaLink="false">ZDI-CAN-22195</guid>
+      <pubDate>Thu, 21 Aug 2025 10:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-856: Ivanti Avalanche getCountMuStatDevicePropResultsFromMuListAgentIds SQL Injection Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-856/</link>
+      <description>Vulnerable Product: Ivanti Avalanche; CVE(s): CVE-2025-8296; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ivanti Avalanche. Authentication is required to exploit this vulnerability, which results from the lack of proper validation of a user-supplied string before using it to construct SQL queries.</description>
+      <guid isPermaLink="false">ZDI-CAN-27134</guid>
+      <pubDate>Thu, 21 Aug 2025 10:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-857: Ivanti Avalanche FileStoreConfig Arbitrary File Upload Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-857/</link>
+      <description>Vulnerable Product: Ivanti Avalanche FileStoreConfig; CVE(s): CVE-2025-8297; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ivanti Avalanche, requiring authentication. The flaw exists in the FileStoreConfig app due to a lack of proper validation of user-supplied data, enabling the upload of arbitrary files.</description>
+      <guid isPermaLink="false">ZDI-CAN-27433</guid>
+      <pubDate>Thu, 21 Aug 2025 10:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Connection, Their Cash: Threat Actors Misuse SDKs to Sell Your Bandwidth</title>
+      <link>https://unit42.paloaltonetworks.com/attackers-sell-your-bandwidth-using-sdks/</link>
+      <description>Vulnerable Product: GeoServer; CVE(s): CVE-2024-36401; Summary: A critical remote code execution vulnerability (CVSS score 9.8) in the JXPath query statements of GeoServer allows attackers to inject arbitrary code, enabling them to execute system commands and deploy malware. The vulnerability has been exploited by a campaign targeting publicly exposed GeoServer instances, resulting in the deployment of malicious SDKs or apps that monetize victim's bandwidth.
+
+FYSA: A malicious campaign has been detected exploiting the CVE-2024-36401 vulnerability in GeoServer, leading to the deployment of legitimate software development kits (SDKs) or modified apps on victims' machines. The attackers use these SDKs and apps to generate passive income by sharing victim's internet bandwidth, making them difficult to detect due to their low-profile nature.
+
+Note: This response is based solely on the provided article and does not include any additional information or commentary.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=152574</guid>
+      <pubDate>Thu, 21 Aug 2025 10:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>MITM6 + NTLM Relay Attack Enables Full Domain Compromise</title>
+      <link>https://gbhackers.com/mitm6-ntlm-relay-attack/</link>
+      <description>The article describes a MITM6 + NTLM Relay attack that combines rogue IPv6 configuration with NTLM credential relay to achieve complete Active Directory domain compromise. The attack exploits default Windows configurations that prioritize DHCPv6 over DHCPv4, allow machine account creation without special privileges, and enable RBCD abuse.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158052</guid>
+      <pubDate>Thu, 21 Aug 2025 09:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Campaign Uses Active Directory Federation Services to Steal M365 Credentials</title>
+      <link>https://gbhackers.com/new-campaign-uses-active-directory-federation-services/</link>
+      <description>A new phishing campaign targets Microsoft 365 (M365) systems using Active Directory Federation Services (ADFS) to enable credential theft. The attack begins with malvertising lures distributed via Google search results, which redirect victims through a chain that ultimately lands on a reverse-proxyphishing site designed to intercept sessions and bypass multi-factor authentication (MFA).</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157980</guid>
+      <pubDate>Thu, 21 Aug 2025 09:43:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>QUIC-LEAK Vulnerability Allows Attackers to Drain Server Memory and Cause DoS</title>
+      <link>https://gbhackers.com/quic-leak-vulnerability/</link>
+      <description>Vulnerable Product: LiteSpeed QUIC; CVE(s): CVE-2025-54939; Summary: The LSQUIC QUIC implementation contains a critical pre-handshake memory exhaustion vulnerability that enables remote attackers to crash servers through denial-of-service attacks. The flaw bypasses standard QUIC connection-level protections by triggering before any handshake is established, leaving servers vulnerable to unbounded memory growth and eventual process termination.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157986</guid>
+      <pubDate>Thu, 21 Aug 2025 09:36:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider hacker gets sentenced to 10 years in prison</title>
+      <link>https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/</link>
+      <description>Scattered Spider, a financially motivated cybercrime group, has been involved in various sophisticated social engineering attacks targeting high-profile organizations worldwide. They use tactics such as phishing, SIM swapping, and multi-factor authentication (MFA) bombing to gain access to systems.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/</guid>
+      <pubDate>Thu, 21 Aug 2025 08:34:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>22-year-old Operator of ‘Rapper Bot’ Botnet Charged for Launching 3 Tbps DDoS Attack</title>
+      <link>https://gbhackers.com/operator-of-rapper-bot-ddos-botnet-faces-charges/</link>
+      <description>A 22-year-old Oregon man, Ethan Foltz, has been charged with operating a powerful DDoS botnet, "Rapper Bot," which has conducted large-scale cyberattacks since at least 2021. The botnet compromised internet-connected devices and forced them to participate in coordinated attacks against victims worldwide.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157963</guid>
+      <pubDate>Thu, 21 Aug 2025 07:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Issues Four ICS Advisories on Vulnerabilities and Exploits</title>
+      <link>https://gbhackers.com/cisa-issues-four-ics-advisories/</link>
+      <description>Vulnerable Product: Siemens Desigo CC Product Family and SENTRON Powermanager systems; Siemens Mendix SAML Module; Tigo Energy Cloud Connect Advanced systems; EG4 Electronics EG4 Inverters; CVE(s): None; Summary: The Cybersecurity and Infrastructure Security Agency (CISA) released four critical Industrial Control Systems (ICS) advisories, alerting organizations to current security vulnerabilities affecting critical infrastructure systems. These advisories target vulnerabilities across multiple industrial systems and vendors, highlighting ongoing security challenges facing critical infrastructure operations.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157957</guid>
+      <pubDate>Thu, 21 Aug 2025 07:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orange Belgium discloses data breach impacting 850,000 customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/orange-belgium-discloses-data-breach-impacting-850-000-customers/</link>
+      <description>Attackers breached Orange Belgium's systems in July, stealing the data of approximately 850,000 customers, including surname, first name, telephone number, SIM card number, PUK code, and tariff plan. The breach is not linked to the attacks targeting telecom companies worldwide that have been attributed to China's Salt Typhoon cyber-espionage group.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/orange-belgium-discloses-data-breach-impacting-850-000-customers/</guid>
+      <pubDate>Thu, 21 Aug 2025 07:07:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft</title>
+      <link>https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html</link>
+      <description>A member of the cybercrime gang Scattered Spider was sentenced to 10 years in prison for hacking and cryptocurrency thefts. The group is known for using social engineering tactics, SIM swapping attacks, and credential theft. They have formed an alliance with other threat groups ShinyHunters and LAPSUS$, which has increased their effectiveness.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html</guid>
+      <pubDate>Thu, 21 Aug 2025 06:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Confirms Critical 0-Day Under Active Attack – Immediate Update Urged</title>
+      <link>https://gbhackers.com/apple-confirms-critical-0-day-under-active-attack/</link>
+      <description>Vulnerable Product: Apple iOS 18.6.2 and iPadOS 18.6.2; CVE(s): CVE-2025-43300; Summary: A critical zero-day vulnerability in the ImageIO component allows attackers to execute malicious code through specially crafted image files, potentially leading to unauthorized access to devices. The vulnerability is being actively exploited in sophisticated attacks against targeted individuals.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157931</guid>
+      <pubDate>Thu, 21 Aug 2025 06:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Flaw in Apache Tika PDF Parser Exposes Sensitive Data to Attackers</title>
+      <link>https://gbhackers.com/critical-flaw-in-apache-tika-pdf-parser/</link>
+      <description>Vulnerable Product: Apache Tika; CVE(s): CVE-2025-54988; Summary: A critical XXE vulnerability affects Apache Tika's PDF parser module, allowing attackers to access sensitive data and compromise internal systems by crafting malicious XFA files embedded within PDF documents. The flaw can be exploited to read sensitive files, access internal network resources, or trigger requests to external servers under attacker control.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157924</guid>
+      <pubDate>Thu, 21 Aug 2025 05:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>PromptFix Exploit Forces AI Browsers to Execute Hidden Malicious Commands</title>
+      <link>https://gbhackers.com/promptfix-exploit/</link>
+      <description>Vulnerable Product: Perplexity's Comet AI browser; CVE(s): None; Summary: Critical vulnerabilities in AI-powered browsers allow attackers to manipulate artificial intelligence agents into executing malicious commands without user knowledge. The vulnerabilities, including "Scamlexity" threats, can compromise user data and finances through sophisticated manipulation techniques, such as fake storefronts, phishing emails, and CAPTCHA-based attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157917</guid>
+      <pubDate>Thu, 21 Aug 2025 05:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks</title>
+      <link>https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html</link>
+      <description>Vulnerable Product: Apple; CVE(s): CVE-2025-43300; Summary: The ImageIO framework has a zero-day out-of-bounds write vulnerability that could result in memory corruption when processing malicious images. This vulnerability has been actively exploited in the wild, and Apple has released security updates to address the issue, including improved bounds checking.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html</guid>
+      <pubDate>Thu, 21 Aug 2025 04:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SIM-Swapper, Scattered Spider Hacker Gets 10 Years</title>
+      <link>https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/</link>
+      <description>This article is not about a vulnerability, but rather discusses the sentencing of Noah Michael Urban, a 20-year-old Florida man who pleaded guilty to wire fraud and conspiracy for his involvement in a cybercrime group known as "Scattered Spider".</description>
+      <guid isPermaLink="false">https://krebsonsecurity.com/?p=71967</guid>
+      <pubDate>Thu, 21 Aug 2025 01:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI says GPT-6 is coming and it'll be better than GPT-5 (obviously)</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/</link>
+      <description>OpenAI's CEO Sam Altman has announced that GPT-6 is already in development and will not take as long as GPT-5. Additionally, OpenAI is working on improving voice mode and testing a new version of Codex that allows for Code Review for all PRs.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/</guid>
+      <pubDate>Wed, 20 Aug 2025 23:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety</title>
+      <link>https://unit42.paloaltonetworks.com/logit-gap-steering-impact/</link>
+      <description>Vulnerable Product: LLMs; CVE(s): None; Summary: The article discusses a vulnerability in Large Language Models (LLMs), specifically the "logit gap" issue, which allows determined attackers to bypass internal alignment and find ways to elicit harmful responses. The research paper presents methods for jailbreaking aligned LLMs, including logit-gap steering, which can be used to uncover hidden toxic or harmful content.</description>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=152387</guid>
+      <pubDate>Wed, 20 Aug 2025 23:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI website builder Lovable increasingly abused for malicious activity</title>
+      <link>https://www.bleepingcomputer.com/news/security/ai-website-builder-lovable-increasingly-abused-for-malicious-activity/</link>
+      <description>Vulnerable Product: Lovable; CVE(s): None; Summary: Cybercriminals are abusing the AI-powered Lovable website creation and hosting platform to generate phishing pages, malware-dropping portals, and fraudulent websites. The platform has been used in four malicious campaigns that impersonate large brands, feature CAPTCHA systems, and harvest user credentials, MFA tokens, and session cookies.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ai-website-builder-lovable-increasingly-abused-for-malicious-activity/</guid>
+      <pubDate>Wed, 20 Aug 2025 22:11:05 +0000</pubDate>
+    </item>
     <item>
       <title>RingReaper Malware Targets Linux Servers, Stealthily Evading EDR Solutions</title>
       <link>https://gbhackers.com/ringreaper-malware-targets-linux-servers/</link>
@@ -1284,169 +1449,6 @@ The article highlights the cryptocurrency ecosystem's ongoing challenges in bala
       <description>Vulnerable Product: Apache Tomcat; CVE(s): CVE-2025-48989, None (for other impacted products); Summary: MadeYouReset is an attack technique that bypasses server-imposed limits on HTTP/2 requests, allowing thousands of concurrent requests and inducing denial-of-service (DoS) attacks. The vulnerability takes advantage of stream errors and the use of RST_STREAM frames to trigger protocol violations in unexpected ways, prompting the server to reset streams and exhaust resources.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</guid>
       <pubDate>Thu, 14 Aug 2025 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-838: (Pwn2Own) Microsoft Windows 11 vhdmp Use-After-Free Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-838/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): CVE-2025-50167; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the Virtual Hard Disk Miniport driver due to lack of validating the existence of an object prior to performing operations on it.</description>
-      <guid isPermaLink="false">ZDI-CAN-27158</guid>
-      <pubDate>Thu, 14 Aug 2025 15:05:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft fixes Windows Server bug causing cluster, VM issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/</link>
-      <description>Vulnerable Product: Microsoft Windows Server 2019; CVE(s): None; Summary: The Cluster service on Windows Server 2019 may fail to function correctly after installing the July Windows security update, causing nodes to fail to rejoin the cluster or enter quarantine states, virtual machines to experience multiple restarts, and frequent errors.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/</guid>
-      <pubDate>Thu, 14 Aug 2025 15:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-839: Microsoft Teams Real Time Media Manager Integer Underflow Remote Code Execution Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-839/</link>
-      <description>Vulnerable Product: Microsoft Teams; CVE(s): CVE-2025-53783; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Microsoft Teams without authentication. The issue results from an integer underflow before writing to memory, which can be leveraged by attackers to execute code in the context of the current process.</description>
-      <guid isPermaLink="false">ZDI-CAN-26363</guid>
-      <pubDate>Thu, 14 Aug 2025 15:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-840: (Pwn2Own) Microsoft Windows 11 vhdmp Improper Validation of Array Index Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-840/</link>
-      <description>Vulnerable Product: Microsoft Windows 11 vhdmp; CVE(s): CVE-2025-53155; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by exploiting an improper validation of array index in the Virtual Hard Disk Miniport driver, which can result in a write past the end of an array.</description>
-      <guid isPermaLink="false">ZDI-CAN-27256</guid>
-      <pubDate>Thu, 14 Aug 2025 15:04:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-841: (Pwn2Own) Microsoft Windows 11 vhdmp Integer Overflow Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-841/</link>
-      <description>Vulnerable Product: Microsoft Windows 11; CVE(s): CVE-2025-53723; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by exploiting an integer overflow in the Virtual Hard Disk Miniport driver, resulting in an elevated SYSTEM context. An attacker must first obtain low-privileged code execution to exploit this vulnerability.</description>
-      <guid isPermaLink="false">ZDI-CAN-27235</guid>
-      <pubDate>Thu, 14 Aug 2025 15:04:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-842: (Pwn2Own) Microsoft Windows Exposed Dangerous Function Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-842/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-53156; Summary: The vulnerability allows local attackers to disclose sensitive information on affected installations of Microsoft Windows. An attacker must execute low-privileged code to exploit this vulnerability, which exists within the Windows Storage Port Driver due to an exposed dangerous function.</description>
-      <guid isPermaLink="false">ZDI-CAN-27171</guid>
-      <pubDate>Thu, 14 Aug 2025 15:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-843: (Pwn2Own) Microsoft Windows win32kbase Type Confusion Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-843/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-50168; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows by exploiting a type confusion condition in the win32kbase driver. An attacker must first obtain low-privileged code execution on the target system to exploit this vulnerability, which can result in arbitrary code execution in the context of SYSTEM.</description>
-      <guid isPermaLink="false">ZDI-CAN-27188</guid>
-      <pubDate>Thu, 14 Aug 2025 15:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-844: Microsoft Windows Subsystem for Linux WslCoreVm::Initialize Incorrect Privilege Management Information Disclosure Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-844/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-53788; Summary: This vulnerability allows local attackers to read arbitrary files on affected installations of Microsoft Windows, requiring low-privileged code execution. The issue exists within WslCoreVm::Initialize method due to incorrect privilege management.</description>
-      <guid isPermaLink="false">ZDI-CAN-27541</guid>
-      <pubDate>Thu, 14 Aug 2025 15:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZDI-25-845: (Pwn2Own) Microsoft Windows win32kfull Race Condition Local Privilege Escalation Vulnerability</title>
-      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-845/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-53132; Summary: This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability, which exists within the win32kfull driver due to a lack of proper locking when performing operations on an object.</description>
-      <guid isPermaLink="false">ZDI-CAN-27174</guid>
-      <pubDate>Thu, 14 Aug 2025 15:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Booking.com phishing campaign uses sneaky 'ん' character to trick you</title>
-      <link>https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/</link>
-      <description>Threat actors are exploiting the Japanese hiragana character "ん" (Unicode U+3093) in a new phishing campaign, making URLs appear realistic to a casual glance. The attack creates fake Booking.com links that direct users to malicious sites, delivering malware and potentially leading to infostealers or remote access trojans.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/</guid>
-      <pubDate>Thu, 14 Aug 2025 14:23:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Theft Replaces Encryption: Blue Report 2025 on Ransomware &amp; Infostealers</title>
-      <link>https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/</link>
-      <description>The article discusses the evolving threat landscape, revealing that ransomware operators and infostealer campaigns focus on credential theft, data exfiltration, and lateral movement. It highlights the failure of organizations to detect these tactics, with a 3% prevention rate for data exfiltration, and a 46% success rate for password cracking.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/</guid>
-      <pubDate>Thu, 14 Aug 2025 14:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS</title>
-      <link>https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html</link>
-      <description>The article reports on a command-and-control (C2) framework called CrossC2 being used in attacks to extend Cobalt Strike's functionality to Linux and Apple macOS. The attacks targeted multiple countries, including Japan, and involved the use of custom malware as a loader for Cobalt Strike, as well as various tools such as PsExec, Plink, and Cobalt Strike itself.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html</guid>
-      <pubDate>Thu, 14 Aug 2025 13:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s House of Commons investigating data breach after cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): CVE-2025-53770, CVE-2025-53786; Summary: A threat actor exploited a recent Microsoft vulnerability to gain access to a database containing sensitive information used to manage House of Commons computers and mobile devices. The attack also resulted in the theft of some employee data, including names, job titles, office locations, and email addresses.
-
-FYSA: The article reports on a data breach affecting the House of Commons of Canada, where a threat actor exploited a Microsoft vulnerability to gain access to sensitive information. The stolen data could be used to target and impersonate parliamentarians or exploited in scams.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/</guid>
-      <pubDate>Thu, 14 Aug 2025 13:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-25256: FortiSIEM Flaw Enables Unauthenticated RCE</title>
-      <link>https://socradar.io/cve-2025-25256-fortisiem-flaw-enables-rce/</link>
-      <description>Vulnerable Product: Fortinet FortiSIEM; CVE(s): CVE-2025-25256; Summary: The vulnerability is an OS command injection flaw (CWE-78) that allows unauthenticated remote attackers to execute arbitrary commands on affected systems. The exploit code has been identified in the wild, making it critical for organizations using vulnerable versions to act fast and upgrade or migrate to supported releases.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100062655</guid>
-      <pubDate>Thu, 14 Aug 2025 12:53:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Publishes Operational Technology Guide for Critical Infrastructure Stakeholders</title>
-      <link>https://gbhackers.com/cisa-publishes-operational-technology-guide/</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has released a comprehensive guide, "Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators," to help critical infrastructure stakeholders develop and maintain operational technology (OT) asset inventories and taxonomies. The guide provides best practices for creating an OT taxonomy and highlights the importance of integrating the inventory into broader cybersecurity and risk management efforts.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156799</guid>
-      <pubDate>Thu, 14 Aug 2025 12:26:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft IIS Web Deploy Vulnerability Allows Remote Code Execution</title>
-      <link>https://gbhackers.com/microsoft-iis-web-deploy-vulnerability/</link>
-      <description>Vulnerable Product: Microsoft IIS Web Deploy; CVE(s): CVE-2025-53772; Summary: The vulnerability allows authenticated attackers with low-level privileges to potentially gain complete control over vulnerable systems by exploiting the deserialization process, allowing remote code execution. This flaw stems from improper deserialization of untrusted data within the Web Deploy framework and affects the core functionality of Web Deploy, making it a significant security concern for organizations using IIS Web Deploy.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156761</guid>
-      <pubDate>Thu, 14 Aug 2025 12:09:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM APE1808</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-09</link>
-      <description>Vulnerable Product: Siemens RUGGEDCOM APE1808; CVE(s): CVE-2024-13089, CVE-2024-13090; Summary: An authenticated administrator can execute unauthorized arbitrary OS commands due to an OS command injection vulnerability and a privilege escalation vulnerability. Successful exploitation could impact confidentiality, integrity, and availability.</description>
-      <guid isPermaLink="false">/node/23777</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Opcenter Quality</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-06</link>
-      <description>Vulnerable Product: Siemens Opcenter Quality; CVE(s): CVE-2024-41979, CVE-2024-41980, CVE-2024-41982, CVE-2024-41983, CVE-2024-41984, CVE-2024-41985, CVE-2024-41986; Summary: The vulnerabilities in Siemens Opcenter Quality allow an attacker to gain complete access of the application, access sensitive information, execute a Machine-In-The-Middle attack, and compromise confidentiality and integrity of data. Successful exploitation could also lead to unauthorized access if sessions are left idle.</description>
-      <guid isPermaLink="false">/node/23774</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell Automation FactoryTalk Viewpoint</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-23</link>
-      <description>Vulnerable Product: Rockwell Automation FactoryTalk Viewpoint; CVE(s): CVE-2025-7973; Summary: The vulnerability in FactoryTalk Viewpoint version 14.00 and prior allows attackers to hijack the cscript.exe console window, which runs with SYSTEM privileges, enabling full privilege escalation. Successful exploitation could result in full privilege escalation.</description>
-      <guid isPermaLink="false">/node/23791</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Simcenter Femap</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-04</link>
-      <description>Vulnerable Product: Siemens Simcenter Femap V2406 and V2412; CVE(s): CVE-2025-40762, CVE-2025-40764; Summary: The vulnerabilities in Siemens Simcenter Femap allow an attacker to execute code in the context of the current process by exploiting out-of-bounds write and read vulnerabilities while parsing specially crafted STP and BMP files.</description>
-      <guid isPermaLink="false">/node/23772</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens SIMATIC S7-PLCSIM</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-11</link>
-      <description>Vulnerable Product: Siemens SIMATIC S7-PLCSIM, SIMOCODE ES, SIMOTION SCOUT TIA, SINAMICS Startdrive, SIMATIC STEP 7, SIMATIC WinCC, SIRIUS Safety ES, SIRIUS Soft Starter ES, and TIA Portal Cloud; CVE(s): CVE-2025-40759; Summary: A deserialization of untrusted data vulnerability exists in the affected Siemens products, which could allow an attacker to cause a type confusion and execute arbitrary code. Successful exploitation requires low attack complexity.</description>
-      <guid isPermaLink="false">/node/23779</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Engineering Platforms</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-226-03</link>
-      <description>Vulnerable Product: Siemens; CVE(s): CVE-2024-54678; Summary: A deserialization of untrusted data vulnerability in Siemens' products allows a local authenticated attacker to cause a type confusion and execute arbitrary code within the affected application. The vulnerability affects various products including SIMATIC PCS neo, SIMATIC WinCC, SIMOCODE ES, SIMOTION SCOUT TIA, SINAMICS Startdrive, SIRIUS Safety ES, SIRIUS Soft Starter ES, TIA Portal Cloud, and TIA Portal Test Suite.</description>
-      <guid isPermaLink="false">/node/23771</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Thirty-Two Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/08/14/cisa-releases-thirty-two-industrial-control-systems-advisories</link>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released 32 Industrial Control Systems (ICS) advisories on August 14, 2025, providing timely information about current security issues, vulnerabilities, and exploits surrounding ICS. These advisories cover various products from Siemens and Rockwell Automation, including SIMATIC RTLS Locating Manager, COMOS, and others.</description>
-      <guid isPermaLink="false">/node/23800</guid>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
