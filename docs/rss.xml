@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 17:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 18:01:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Warlock Ransomware Exploits SharePoint Flaws for Initial Access and Credential Theft</title>
+      <link>https://gbhackers.com/warlock-ransomware-exploits-sharepoint-flaws/</link>
+      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2023-27532; Summary: The Warlock ransomware group is targeting unpatched on-premises Microsoft SharePoint servers by exploiting critical vulnerabilities to achieve remote code execution and initial network access. The attackers use crafted HTTP POST requests to upload web shells, facilitating reconnaissance, privilege escalation, and credential theft.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158195</guid>
+      <pubDate>Thu, 21 Aug 2025 17:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks</title>
+      <link>https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html</link>
+      <description>Vulnerable Product: Commvault; CVE(s): CVE-2025-57788, CVE-2025-57789, CVE-2025-57790, CVE-2025-57791; Summary: Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances. The vulnerabilities allow unauthenticated attackers to execute API calls without requiring user credentials, exploit default credentials, perform unauthorized file system access, and inject or manipulate command-line arguments passed to internal components.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html</guid>
+      <pubDate>Thu, 21 Aug 2025 16:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>Europol confirms $50,000 Qilin ransomware reward is fake</title>
       <link>https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/</link>
@@ -1431,20 +1445,6 @@ Void Blizzard is a newly identified Russian state-sponsored cyber threat group t
       <description>UAT-7237 is a Chinese-speaking advanced persistent threat (APT) group that has been active since at least 2022, targeting web infrastructure entities in Taiwan. They use open-sourced tooling, customized to evade detection, and employ tactics such as using Cobalt Strike, Mimikatz, and JuicyPotato for credential extraction and privilege escalation. The group also uses SoftEther VPN clients and exploits known vulnerabilities on unpatched servers.</description>
       <guid isPermaLink="false">689caff6e2d85f00011b7f54</guid>
       <pubDate>Fri, 15 Aug 2025 10:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>VirtualBox 7.2 Adds Windows 11/Arm VM Support and Key Bug Fixes</title>
-      <link>https://gbhackers.com/virtualbox-7-2-adds-windows-11-arm-vm-support/</link>
-      <description>The article discusses the release of VirtualBox 7.2.0, a major update that enhances ARM virtualization capabilities and introduces comprehensive Windows 11/ARM support. The update also includes performance enhancements, interface redesigns, and addresses critical issues.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156953</guid>
-      <pubDate>Fri, 15 Aug 2025 09:27:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>HexStrike AI Links ChatGPT, Claude, and Copilot to 150+ Security Tools</title>
-      <link>https://gbhackers.com/hexstrike-ai-links-security-tools/</link>
-      <description>This article is about the integration of ChatGPT, Claude, and GitHub Copilot with HexStrike AI's autonomous cybersecurity framework. It enables these AI agents to orchestrate over 150 professional security tools for comprehensive penetration testing and vulnerability intelligence.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156948</guid>
-      <pubDate>Fri, 15 Aug 2025 09:12:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
