@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 10:12:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 11:01:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025</title>
+      <link>https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html</link>
+      <description>According to the Picus Security's Blue Report 2025, compromised valid accounts remain the most under-prevented attack vector, with a success rate of 46% in tested environments. The report highlights the urgent need for organizations to adopt proactive approaches focused on threats that are evading their defenses, including password cracking attacks and detecting malicious use of compromised accounts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html</guid>
+      <pubDate>Thu, 21 Aug 2025 10:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-852: (0Day) CData API Server MySQL Misconfiguration Information Disclosure Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-852/</link>
@@ -1442,13 +1449,6 @@ The article highlights the cryptocurrency ecosystem's ongoing challenges in bala
       <description>Vulnerable Product: None; CVE(s): CVE-2023-48788, CVE-2019-18935, CVE-2025-5777, CVE-2025-53770, CVE-2025-53771, CVE-2025-49704, and CVE-2025-49706; Summary: A variety of vulnerabilities were weaponized in ransomware campaigns, including SQL injection flaws in Fortinet FortiClientEMS (CVE-2023-48788) and deserialization vulnerability in Progress Telerik UI for ASP.NET AJAX (CVE-2019-18935), as well as out-of-bounds read issue in Citrix NetScaler ADC and Gateway (CVE-2025-5777) and Microsoft SharePoint flaws (CVE-2025-53770, CVE-2025-53771, CVE-2025-49704, and CVE-2025-49706). These exploits facilitated initial access and lateral movement, enabling attackers to deploy payloads efficiently.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156612</guid>
       <pubDate>Thu, 14 Aug 2025 15:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks</title>
-      <link>https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</link>
-      <description>Vulnerable Product: Apache Tomcat; CVE(s): CVE-2025-48989, None (for other impacted products); Summary: MadeYouReset is an attack technique that bypasses server-imposed limits on HTTP/2 requests, allowing thousands of concurrent requests and inducing denial-of-service (DoS) attacks. The vulnerability takes advantage of stream errors and the use of RST_STREAM frames to trigger protocol violations in unexpected ways, prompting the server to reset streams and exhaust resources.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</guid>
-      <pubDate>Thu, 14 Aug 2025 15:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
