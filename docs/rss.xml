@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 11:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 12:02:10 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>New SHAMOS Malware Targets macOS Through Fake Help Sites to Steal Login Credentials</title>
+      <link>https://gbhackers.com/new-shamos-malware-targets-macos/</link>
+      <description>The article discusses a sophisticated malware campaign deploying SHAMOS, an advanced variant of the Atomic macOS Stealer (AMOS) malware. The campaign, orchestrated by COOKIE SPIDER, targeted over 300 customer environments and was successfully blocked by CrowdStrike's Falcon platform.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157937</guid>
+      <pubDate>Thu, 21 Aug 2025 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commvault Backup Suite Flaws Allow Attackers to Breach On-Premises Systems</title>
+      <link>https://gbhackers.com/commvault-backup-suite-flaws/</link>
+      <description>Vulnerable Product: Commvault; CVE(s): CVE-2025-57788, CVE-2025-57789, CVE-2025-57790, CVE-2025-57791; Summary: A series of four vulnerabilities in Commvault's backup and data management software allows attackers to achieve remote code execution and compromise on-premises infrastructure. The vulnerabilities can be exploited in sequence to gain unauthorized access to Commvault systems, bypassing security controls and executing malicious code without valid credentials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158087</guid>
+      <pubDate>Thu, 21 Aug 2025 11:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNC5518 Group Hacks Legitimate Sites with Fake Captcha to Deliver Malware</title>
+      <link>https://gbhackers.com/unc5518-group-hacks-legitimate-sites/</link>
+      <description>This article discusses a financially motivated threat group UNC5518 that infiltrates trustworthy websites to install ClickFix lures, which are misleading phony CAPTCHA pages. These malicious pages trick users into executing downloader scripts that initiate infection chains, often leading to malware deployment by affiliated actors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=157996</guid>
+      <pubDate>Thu, 21 Aug 2025 10:43:00 +0000</pubDate>
+    </item>
     <item>
       <title>Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025</title>
       <link>https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html</link>
@@ -1428,27 +1449,6 @@ The article discusses two initiatives involving law enforcement and private comp
 The article highlights the cryptocurrency ecosystem's ongoing challenges in balancing accessibility with security, as regulatory frameworks evolve. The Google Play requires developers to meet stringent publishing requirements, and the FBI warns of sophisticated recovery scams targeting previous fraud victims. The article emphasizes the importance of vigilance against compliance failures and criminal exploitation, as the industry seeks legitimacy and sustainable growth.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156877</guid>
       <pubDate>Thu, 14 Aug 2025 16:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Microsoft Flaw to Breach Canadian House of Commons to Gain Unauthorized Access</title>
-      <link>https://gbhackers.com/hackers-exploit-microsoft-flaw/</link>
-      <description>Vulnerable Product: Microsoft SharePoint; CVE(s): CVE-2025-53770, CVE-2025-49704, and CVE-2025-49706; Summary: A vulnerability in Microsoft SharePoint was exploited by an unidentified threat actor to access sensitive government employee data at the Canadian House of Commons. The attack allowed unauthorized remote code execution through advanced deserialization techniques and ViewState abuse, bypassing authentication controls including multi-factor authentication and single sign-on systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156876</guid>
-      <pubDate>Thu, 14 Aug 2025 16:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro-Russian hackers blamed for water dam sabotage in Norway</title>
-      <link>https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/</link>
-      <description>Pro-Russian hackers took control of critical operation systems at a dam in Norway, opening outflow valves and demonstrating their ability to remotely hack critical infrastructure. The attack was seen as a display of capabilities rather than an attempt to cause damage, with the goal of exerting influence and creating fear or unrest in the population. This is the second time Russia has been associated with attacks against Norwegian entities.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/</guid>
-      <pubDate>Thu, 14 Aug 2025 16:01:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qilin Ransomware Dominates July with Over 70 Claimed Victims</title>
-      <link>https://gbhackers.com/qilin-ransomware-dominates-july/</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2023-48788, CVE-2019-18935, CVE-2025-5777, CVE-2025-53770, CVE-2025-53771, CVE-2025-49704, and CVE-2025-49706; Summary: A variety of vulnerabilities were weaponized in ransomware campaigns, including SQL injection flaws in Fortinet FortiClientEMS (CVE-2023-48788) and deserialization vulnerability in Progress Telerik UI for ASP.NET AJAX (CVE-2019-18935), as well as out-of-bounds read issue in Citrix NetScaler ADC and Gateway (CVE-2025-5777) and Microsoft SharePoint flaws (CVE-2025-53770, CVE-2025-53771, CVE-2025-49704, and CVE-2025-49706). These exploits facilitated initial access and lateral movement, enabling attackers to deploy payloads efficiently.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156612</guid>
-      <pubDate>Thu, 14 Aug 2025 15:23:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
