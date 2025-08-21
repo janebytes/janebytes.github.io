@@ -6,8 +6,50 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 19:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 20:03:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>ZDI-25-858: Axis Communications Autodesk Plugin AzureBlobRestAPI axiscontentfiles Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-858/</link>
+      <description>Vulnerable Product: Axis Communications Autodesk Plugin; CVE(s): ZDI-25-858, ZDI-CAN-25774; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of the Axis Communications Autodesk Plugin without authentication. The specific flaw exists within the configuration of a cloud resource, allowing unauthorized access to a storage account.</description>
+      <guid isPermaLink="false">ZDI-CAN-25774</guid>
+      <pubDate>Thu, 21 Aug 2025 20:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-859: Firebird SQL Database Server XDR Message Parsing NULL Pointer Dereference Denial-of-Service Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-859/</link>
+      <description>Vulnerable Product: Firebird SQL Database Server; CVE(s): CVE-2025-54989; Summary: This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Firebird SQL without authentication. The flaw exists in the parsing of XDR messages, resulting from dereferencing a null pointer.</description>
+      <guid isPermaLink="false">ZDI-CAN-26486</guid>
+      <pubDate>Thu, 21 Aug 2025 20:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-860: Autodesk AutoCAD DGN File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-860/</link>
+      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-5046; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, which exists within the parsing of DGN files due to a lack of proper validation of user-supplied data.</description>
+      <guid isPermaLink="false">ZDI-CAN-27083</guid>
+      <pubDate>Thu, 21 Aug 2025 20:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-861: Autodesk AutoCAD DGN File Parsing Uninitialized Variable Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-861/</link>
+      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-5047; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, and the specific flaw exists within the parsing of DGN files due to uninitialized memory prior to access. An attacker can leverage this vulnerability to execute code in the context of the current process.</description>
+      <guid isPermaLink="false">ZDI-CAN-27084</guid>
+      <pubDate>Thu, 21 Aug 2025 20:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZDI-25-862: Autodesk AutoCAD DGN File Parsing Memory Corruption Remote Code Execution Vulnerability</title>
+      <link>http://www.zerodayinitiative.com/advisories/ZDI-25-862/</link>
+      <description>Vulnerable Product: Autodesk AutoCAD; CVE(s): CVE-2025-5048; Summary: This vulnerability allows remote attackers to execute arbitrary code on affected installations of Autodesk AutoCAD. User interaction is required to exploit this vulnerability, and the target must visit a malicious page or open a malicious file. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition.</description>
+      <guid isPermaLink="false">ZDI-CAN-27085</guid>
+      <pubDate>Thu, 21 Aug 2025 20:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Weaponize QR Codes With Malicious Links to Steal Sensitive Data</title>
+      <link>https://gbhackers.com/hackers-weaponize-qr-codes-with-malicious-links/</link>
+      <description>Quishing is a type of phishing attack that uses malicious QR codes to expose user credentials and sensitive data. Unlike traditional phishing, quishing exploits the inherent opacity of QR codes, which can evade immediate suspicion and circumvent conventional security defenses. The article discusses two innovative evasion strategies used in recent quishing attacks: splitQR codes and nested QR codes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158216</guid>
+      <pubDate>Thu, 21 Aug 2025 19:06:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI Website Generators Repurposed by Adversaries for Malware Campaigns</title>
       <link>https://gbhackers.com/ai-website-generators-repurposed-by-adversaries/</link>
@@ -1405,50 +1447,6 @@ Additionally, it is essential to note that while these free data recovery tools 
       <description>None</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/</guid>
       <pubDate>Fri, 15 Aug 2025 13:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>MadeYouReset: New HTTP/2 DoS Vulnerability Explained</title>
-      <link>https://socradar.io/madeyoureset-new-http-2-dos-vulnerability-explained/</link>
-      <description>Vulnerable Product: Various HTTP/2 servers; CVE(s): CVE-2025-8671, CVE-2025-48989, CVE-2025-55163, CVE-2025-54500, CVE-2025-36047; Summary: A newly discovered technique called "MadeYouReset" allows attackers to coax HTTP/2 servers into resetting their own streams, bypassing many Rapid Reset defenses. The attack works by sending normal-looking HTTP/2 frames that cause subtle protocol violations, forcing the server to issue its own resets and increasing resource pressure.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100062675</guid>
-      <pubDate>Fri, 15 Aug 2025 13:04:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>F5 Fixes HTTP/2 Flaw Affecting Multiple Products in Massive DoS Attacks</title>
-      <link>https://gbhackers.com/f5-fixes-http-2-flaw/</link>
-      <description>Vulnerable Product: F5 Networks BIG-IP products; CVE(s): CVE-2025-54500; Summary: The vulnerability, known as the "HTTP/2 MadeYouReset Attack", exploits a flaw in HTTP/2 implementation that enables attackers to overwhelm systems using specially crafted control frames, potentially causing denial-of-service conditions. Malformed HTTP/2 control frames bypass the maximum concurrent streams limit, leading to CPU resource exhaustion and denial-of-service conditions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156934</guid>
-      <pubDate>Fri, 15 Aug 2025 13:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: Void Blizzard</title>
-      <link>https://socradar.io/dark-web-profile-void-blizzard/</link>
-      <description>FYSA:
-
-Void Blizzard is a newly identified Russian state-sponsored cyber threat group that targets governments, defense sectors, critical infrastructure, and high-tech companies in NATO and EU countries. The group uses simple but effective techniques, including "living off the land" methods, stolen credentials, and phishing attacks. Void Blizzard has achieved high success rates by exploiting cloud APIs like Microsoft Graph and Exchange Online, as well as using automation and rapid access to compromised systems.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100062664</guid>
-      <pubDate>Fri, 15 Aug 2025 12:44:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ImageMagick Vulnerabilities Cause Memory Corruption and Integer Overflows</title>
-      <link>https://gbhackers.com/imagemagick-vulnerabilities-cause-memory-corruption/</link>
-      <description>Vulnerable Product: ImageMagick; CVE(s): CVE-2025-55154, CVE-2025-55004, CVE-2025-55005, and CVE-2025-55160; Summary: Four critical security vulnerabilities affecting millions of applications that rely on ImageMagick for image processing have been patched. The flaws include integer overflows in MNG magnification calculations, heap-buffer overflows during image magnification, and undefined behavior in CloneSplayTree operations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156928</guid>
-      <pubDate>Fri, 15 Aug 2025 12:12:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phishing Campaign Exploits Japanese Character “ん” to Imitate Forward Slash</title>
-      <link>https://gbhackers.com/phishing-campaign-exploits-japanese-character/</link>
-      <description>The article discusses a sophisticated phishing campaign that exploits the Japanese hiragana character "ん" to create deceptively authentic-looking URLs. The campaign targets Booking.com customers, using URLs that appear legitimate but actually redirect victims to malicious domains. The attacks are challenging to identify due to their refinement and rely on social engineering techniques rather than technical vulnerabilities.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156958</guid>
-      <pubDate>Fri, 15 Aug 2025 11:41:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plex warns users to patch security vulnerability immediately</title>
-      <link>https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/</link>
-      <description>Vulnerable Product: Plex Media Server; CVE(s): None; Summary: The article reports a recently patched security vulnerability in Plex Media Server versions 1.41.7.x to 1.42.0.x, with no additional details provided about the patch or the vulnerability itself. Users are advised to update their software as soon as possible to prevent exploitation by threat actors.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/</guid>
-      <pubDate>Fri, 15 Aug 2025 11:41:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
