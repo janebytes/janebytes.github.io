@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 14:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 15:01:48 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Threat Actors Weaponize PDF Editor Trojan to Convert Devices into Proxies</title>
+      <link>https://gbhackers.com/threat-actors-weaponize-pdf-editor-trojan/</link>
+      <description>Vulnerable Product: GLINT SOFTWARE SDN. BHD. (code-signing certificates); CVE(s): None; Summary: A complex campaign uses trojanized software with authentic code-signing certificates to avoid detection and turn compromised machines into unintentional residential proxies, compromising devices and using them for malicious activities such as DDoS attacks, data exfiltration, or anonymized cyber espionage. The malware, dubbed "ManualFinder," is deployed through the OneStart Browser and can be detected by monitoring scheduled tasks and blocking known command-and-control domains.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158025</guid>
+      <pubDate>Thu, 21 Aug 2025 14:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft asks customers for feedback on SSD failure issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-customers-for-feedback-on-ssd-failure-issues/</link>
+      <description>Vulnerable Product: Microsoft, various SSD and HDD drives; CVE(s): None; Summary: The August 2025 security update is causing data corruption and failure issues on some solid-state drives (SSDs) and hard disk drives (HDDs), affecting users who installed the KB5063878 or KB5062660 updates. Affected devices include Corsair Force MP600, Maxio SSD, SanDisk Extreme Pro, Kioxia Exceria Plus G4, and others with Phison and InnoGrit controllers.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-customers-for-feedback-on-ssd-failure-issues/</guid>
+      <pubDate>Thu, 21 Aug 2025 14:48:35 +0000</pubDate>
+    </item>
     <item>
       <title>Why Certified VMware Pros Are Driving the Future of IT</title>
       <link>https://www.bleepingcomputer.com/news/security/why-certified-vmware-pros-are-driving-the-future-of-it/</link>
@@ -1431,22 +1445,6 @@ Void Blizzard is a newly identified Russian state-sponsored cyber threat group t
       <description>Vulnerable Product: Cisco Secure Firewall Management Center; CVE(s): CVE-2025-20265; Summary: The vulnerability in Cisco Secure Firewall Management Center's RADIUS subsystem allows unauthenticated attackers to remotely execute shell commands with elevated privileges, potentially gaining high-level system access without prior authentication. This can lead to complete control over the firewall management system and potential further network attacks.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=156899</guid>
       <pubDate>Fri, 15 Aug 2025 05:13:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Actors Combine Legitimate Tools with Custom Malware to Evade Detection</title>
-      <link>https://gbhackers.com/ransomware-actors-combine-legitimate-tools/</link>
-      <description>The article discusses the Crypto24 strain's multi-stage attacks, which employ legitimate system tools and bespoke malware to infiltrate networks, maintain persistence, and evade EDR systems. The attacks target high-profile organizations across various sectors, using tools like PSExec, AnyDesk, and keyloggers to exfiltrate data via Google Drive.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156834</guid>
-      <pubDate>Thu, 14 Aug 2025 20:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over $300 million in cybercrime crypto seized in anti-fraud effort</title>
-      <link>https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/</link>
-      <description>FYSA:
-
-The article discusses two initiatives involving law enforcement and private companies that have resulted in the freezing of over $300 million worth of cryptocurrency linked to cybercrime and fraud schemes. The initiatives, led by the T3 Financial Crime Unit and Chainalysis, involved coordinated investigations and global collaboration to detect and intervene at the blockchain level, significantly hindering cybercriminals from moving or spending scam proceeds.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/</guid>
-      <pubDate>Thu, 14 Aug 2025 20:15:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
