@@ -6,8 +6,26 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 18:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 19:02:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>AI Website Generators Repurposed by Adversaries for Malware Campaigns</title>
+      <link>https://gbhackers.com/ai-website-generators-repurposed-by-adversaries/</link>
+      <description>Vulnerable Product: Lovable; CVE(s): None; Summary: Adversaries are using Lovable's AI-powered website builder to expedite the development of harmful infrastructure for malware distribution, credential phishing, and fraud sites. The platform's ease of use and features like CAPTCHAs and backend logic facilitate rapid campaign scaling and embed deceptive elements, making it a popular choice for threat actors.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158207</guid>
+      <pubDate>Thu, 21 Aug 2025 18:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cherry pie, Douglas firs and the last trip of the summer</title>
+      <link>https://blog.talosintelligence.com/cherry-pie-douglas-firs-and-the-last-trip-of-the-summer/</link>
+      <description>Vulnerable Product: Cisco network devices; CVE(s): CVE-2018-0171; Summary: A seven-year-old patched vulnerability (CVE-2018-0171) is being exploited by Static Tundra, a Russian state-backed group, to steal data and maintain long-term hidden access in organizations worldwide. The group uses persistent implants and bespoke SNMP tools to exfiltrate data and maintain undetected access.
+
+FYSA: Threat actors are exploiting end-of-life and unpatched Cisco network devices using a seven-year-old patched vulnerability (CVE-2018-0171) to steal data and maintain long-term hidden access in organizations worldwide. Organizations of all sizes and industries are at risk, putting sensitive data and business operations in jeopardy.
+
+(Note: There is no other cybersecurity-relevant content in the article.)</description>
+      <guid isPermaLink="false">68a5ddeae2d85f00011b8353</guid>
+      <pubDate>Thu, 21 Aug 2025 18:00:29 +0000</pubDate>
+    </item>
     <item>
       <title>Warlock Ransomware Exploits SharePoint Flaws for Initial Access and Credential Theft</title>
       <link>https://gbhackers.com/warlock-ransomware-exploits-sharepoint-flaws/</link>
@@ -119,6 +137,13 @@
       <description>Vulnerable Product: Cisco; CVE(s): CVE-2018-0171; Summary: A 7-year-old vulnerability in Cisco's Smart Install feature of IOS and IOS XE software allows unauthenticated attackers to remotely trigger a reload or execute arbitrary code on devices, potentially leading to denial-of-service (DoS) conditions. The FBI warns that state-backed hackers linked to Russia's FSB are exploiting this flaw to target critical infrastructure organizations worldwide.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/</guid>
       <pubDate>Thu, 21 Aug 2025 12:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <description>Vulnerable Product: Apple, iOS, iPadOS, and macOS; CVE(s): CVE-2025-43300; Summary: This vulnerability is an out-of-bounds write vulnerability that can be exploited by malicious cyber actors, posing significant risks to the federal enterprise. The vulnerability has been added to CISA's Known Exploited Vulnerabilities (KEV) Catalog due to evidence of active exploitation.</description>
+      <guid isPermaLink="false">/node/23822</guid>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mitsubishi Electric Corporation MELSEC iQ-F Series CPU Module</title>
@@ -1424,27 +1449,6 @@ Void Blizzard is a newly identified Russian state-sponsored cyber threat group t
       <description>Vulnerable Product: Plex Media Server; CVE(s): None; Summary: The article reports a recently patched security vulnerability in Plex Media Server versions 1.41.7.x to 1.42.0.x, with no additional details provided about the patch or the vulnerability itself. Users are advised to update their software as soon as possible to prevent exploitation by threat actors.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/</guid>
       <pubDate>Fri, 15 Aug 2025 11:41:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions</title>
-      <link>https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html</link>
-      <description>The US Department of the Treasury's Office of Foreign Assets Control (OFAC) has renewed sanctions against Russian cryptocurrency exchange platform Garantex for facilitating ransomware actors and other cybercriminals. Garantex is accused of processing over $100 million in transactions linked to illicit activities since 2019, with its successor Grinex allegedly continuing these activities.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html</guid>
-      <pubDate>Fri, 15 Aug 2025 11:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero Trust + AI: Privacy in the Age of Agentic AI</title>
-      <link>https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html</link>
-      <description>The article discusses the concept of agentic AI, which is becoming increasingly autonomous in its decision-making processes. It highlights how this type of AI can infer and interpret data, making assumptions and acting on partial signals. The article emphasizes that privacy in a world of minds (both biological and synthetic) is no longer just about secrecy but rather reciprocity, alignment, and governance.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html</guid>
-      <pubDate>Fri, 15 Aug 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UAT-7237 targets Taiwanese web hosting infrastructure</title>
-      <link>https://blog.talosintelligence.com/uat-7237-targets-web-hosting-infra/</link>
-      <description>UAT-7237 is a Chinese-speaking advanced persistent threat (APT) group that has been active since at least 2022, targeting web infrastructure entities in Taiwan. They use open-sourced tooling, customized to evade detection, and employ tactics such as using Cobalt Strike, Mimikatz, and JuicyPotato for credential extraction and privilege escalation. The group also uses SoftEther VPN clients and exploits known vulnerabilities on unpatched servers.</description>
-      <guid isPermaLink="false">689caff6e2d85f00011b7f54</guid>
-      <pubDate>Fri, 15 Aug 2025 10:00:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
