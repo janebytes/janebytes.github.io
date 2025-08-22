@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 19:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 20:01:13 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Agentic AI vs SOAR: What’s the Real Difference?</title>
+      <link>https://gbhackers.com/agentic-ai-vs-soar/</link>
+      <description>The article discusses the differences between Security Orchestration, Automation, and Response (SOAR) and Agentic AI in security automation. SOAR focuses on structured workflow automation, while Agentic AI uses objectives to make decisions and adapt to complex situations. The key takeaway is that SOAR is suitable for repetitive, low-risk tasks, but Agentic AI is better suited for handling complexity and uncertainty.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158540</guid>
+      <pubDate>Fri, 22 Aug 2025 19:01:22 +0000</pubDate>
+    </item>
     <item>
       <title>APT36 hackers abuse Linux .desktop files to install malware in new attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/</link>
@@ -1422,13 +1429,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>Vulnerable Product: N-able N-central; CVE(s): CVE-2025-8875, CVE-2025-8876; Summary: Over 800 N-central servers remain unpatched against two critical security vulnerabilities (CVE-2025-8875 and CVE-2025-8876) that can allow authenticated attackers to inject commands or execute commands on unpatched devices. The flaws are actively exploited, and N-able has patched them in N-central 2025.3.1, urging admins to secure their servers before further information is released.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/</guid>
       <pubDate>Mon, 18 Aug 2025 16:06:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware</title>
-      <link>https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29824; Summary: A privilege escalation vulnerability (CVE-2025-29824) in the Windows Common Log File System (CLFS) was exploited by threat actors to deploy the PipeMagic malware in RansomExx ransomware attacks. The vulnerability, patched by Microsoft in April 2025, allowed attackers to infiltrate victim infrastructure and deploy a full-fledged backdoor providing remote access and executing commands on compromised hosts.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html</guid>
-      <pubDate>Mon, 18 Aug 2025 16:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
