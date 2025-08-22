@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 18:01:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 19:00:58 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>APT36 hackers abuse Linux .desktop files to install malware in new attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/</link>
+      <description>APT36, a Pakistani cyberespionage group, is using Linux .desktop files to load malware in attacks against government and defense entities in India. The attacks involve phishing emails with ZIP archives containing malicious .desktop files that disguise as PDF documents, leading to data exfiltration and persistent espionage access.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/</guid>
+      <pubDate>Fri, 22 Aug 2025 18:35:11 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Hijack VPS Servers to Breach Software-as-a-Service Accounts</title>
       <link>https://gbhackers.com/hackers-hijack-vps-servers-to-breach/</link>
@@ -1421,13 +1428,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <link>https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html</link>
       <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29824; Summary: A privilege escalation vulnerability (CVE-2025-29824) in the Windows Common Log File System (CLFS) was exploited by threat actors to deploy the PipeMagic malware in RansomExx ransomware attacks. The vulnerability, patched by Microsoft in April 2025, allowed attackers to infiltrate victim infrastructure and deploy a full-fledged backdoor providing remote access and executing commands on compromised hosts.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html</guid>
-      <pubDate>Mon, 18 Aug 2025 16:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Telegram as the Communication Channel to Exfiltrate Stolen Data</title>
-      <link>https://gbhackers.com/threat-actors-exploit-telegram-as-the-communication-channel/</link>
-      <description>The article describes a phishing campaign targeting public sector clients in Kazakhstan, using Telegram's Bot API as a covert exfiltration channel. The attack employed social engineering tactics and exploited user trust through fake login pages and pre-filled email fields.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157194</guid>
       <pubDate>Mon, 18 Aug 2025 16:03:00 +0000</pubDate>
     </item>
   </channel>
