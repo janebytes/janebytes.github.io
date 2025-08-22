@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 21:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 22:01:14 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Murky Panda hackers exploit cloud trust to hack downstream customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/</link>
+      <description>Murky Panda, a Chinese state-sponsored hacking group, exploits trusted relationships in cloud environments to gain initial access to networks and data of downstream customers. They compromise cloud service providers to abuse the trust these companies have with their customers, allowing them to pivot directly into downstream networks and data.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/</guid>
+      <pubDate>Fri, 22 Aug 2025 21:56:16 +0000</pubDate>
+    </item>
     <item>
       <title>Agentic AI vs SOAR: What’s the Real Difference?</title>
       <link>https://gbhackers.com/agentic-ai-vs-soar/</link>
@@ -1422,13 +1429,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>A UK-based 26-year-old hacker, Al-Tahery Al-Mashriky, has been sentenced to 20 months in prison for hacking thousands of websites and stealing login details of millions of Facebook users. The investigation revealed that Al-Mashriky was linked to extremist groups and used stolen data to target and defraud individuals.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/</guid>
       <pubDate>Mon, 18 Aug 2025 16:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Over 800 N-able servers left unpatched against critical flaws</title>
-      <link>https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/</link>
-      <description>Vulnerable Product: N-able N-central; CVE(s): CVE-2025-8875, CVE-2025-8876; Summary: Over 800 N-central servers remain unpatched against two critical security vulnerabilities (CVE-2025-8875 and CVE-2025-8876) that can allow authenticated attackers to inject commands or execute commands on unpatched devices. The flaws are actively exploited, and N-able has patched them in N-central 2025.3.1, urging admins to secure their servers before further information is released.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/</guid>
-      <pubDate>Mon, 18 Aug 2025 16:06:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
