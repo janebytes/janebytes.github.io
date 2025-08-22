@@ -6,8 +6,36 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 12:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 13:02:53 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Anatsa Malware Escalates: Android Under Siege as Hackers Harvest Credentials and Track Keystrokes</title>
+      <link>https://gbhackers.com/anatsa-malware-escalates-android-under-siege-as-hackers/</link>
+      <description>Anatsa malware (also known as TeaBot) is an Android banking trojan that has evolved to target over 831 financial institutions worldwide, including new regions like Germany and South Korea. It employs decoy applications, dynamic code loading, runtime decryption, and anti-analysis enhancements to evade detection and exfiltrate credentials.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158372</guid>
+      <pubDate>Fri, 22 Aug 2025 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warns of Actively Exploited 0-Day Vulnerability in Apple iOS, iPadOS, and macOS</title>
+      <link>https://gbhackers.com/cisa-warns-of-actively-exploited-0-day-vulnerability-in-apple/</link>
+      <description>Vulnerable Product: Apple; CVE(s): CVE-2025-43300; Summary: A critical zero-day vulnerability in Apple's Image I/O framework (CVE-2025-43300) is being actively exploited. The out-of-bounds write vulnerability allows attackers to execute arbitrary code, potentially leading to system compromise. It affects iOS, iPadOS, and macOS systems and poses a significant security risk to millions of users.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158410</guid>
+      <pubDate>Fri, 22 Aug 2025 12:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: August Windows updates cause severe streaming issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-cause-severe-ndi-streaming-issues/</link>
+      <description>The August 2025 security updates for Windows 10 and Windows 11 are causing severe lag and stuttering issues with NDI streaming software on some systems, affecting streaming apps like OBS.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-cause-severe-ndi-streaming-issues/</guid>
+      <pubDate>Fri, 22 Aug 2025 12:25:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft to Restrict Use of OnMicrosoft Domains for Email Sending</title>
+      <link>https://gbhackers.com/microsoft-to-restrict-use-of-onmicrosoft-domains/</link>
+      <description>Microsoft has implemented new throttling measures to combat spam and improve email deliverability across its Microsoft 365 platform by restricting the use of default onmicrosoft.com domains for email communication. The change aims to prevent spammers from exploiting newly created tenants to send large volumes of spam, which degrades the shared domain's reputation.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158393</guid>
+      <pubDate>Fri, 22 Aug 2025 12:12:20 +0000</pubDate>
+    </item>
     <item>
       <title>AI Systems Capable of Generating Working Exploits for CVEs in Just 10–15 Minutes</title>
       <link>https://gbhackers.com/ai-generating-cves-in-just-10-15-minutes/</link>
@@ -1399,34 +1427,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>The article discusses the importance of adherence to regulatory compliance standards and frameworks for organizations handling sensitive data or PII. It highlights various compliance standards and frameworks, including PCI DSS, GDPR, HIPAA, NIST SP 800-53, TSC, and CMMC. The article also introduces Wazuh, an open-source security platform that provides unified XDR and SIEM protection for endpoints and cloud workloads, and explains how it can help organizations track and implement regulatory compliance standards and frameworks.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html</guid>
       <pubDate>Mon, 18 Aug 2025 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Hackers’ Secret Linux Malware Surfaces Online</title>
-      <link>https://gbhackers.com/north-korean-hackers-secret-linux-malware/</link>
-      <description>The article discusses a North Korean hacking operation's data leak, which includes a sophisticated Linux rootkit. The rootkit is a Loadable Kernel Module (LKM) that enables kernel system call interception to evade detection and conceals itself from lsmod listings, hides processes, network activity, and persistence files.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157092</guid>
-      <pubDate>Mon, 18 Aug 2025 10:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI-Powered Trojan Horse Returns: How LLMs Revive Classic Cyber Threats</title>
-      <link>https://gbhackers.com/the-ai-powered-trojan-horse-returns/</link>
-      <description>The article discusses a new wave of trojan horses that masquerade as legitimate desktop applications. These trojans embed malicious capabilities and are undetected by VirusTotal scanners for weeks. They use Large Language Models (LLMs) to generate convincing websites, error-free content, and AI-curated databases, evading static scanners and highlighting the inadequacy of static signatures alone.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157078</guid>
-      <pubDate>Mon, 18 Aug 2025 09:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Workday Data Breach Exposes HR Records via Third-Party CRM Hack</title>
-      <link>https://gbhackers.com/workday-data-breach-exposes/</link>
-      <description>Workday, an enterprise software giant, disclosed a security incident involving unauthorized access to employee information through a compromised third-party customer relationship management (CRM) platform. Threat actors successfully infiltrated the CRM system following a sophisticated social engineering campaign, gaining access to standard business contact information such as names, email addresses, and phone numbers.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157184</guid>
-      <pubDate>Mon, 18 Aug 2025 08:53:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scammers Target Back-to-School Deals, Diverting Shoppers to Fraud Sites</title>
-      <link>https://gbhackers.com/scammers-target-back-to-school-deals/</link>
-      <description>Cybercriminals are exploiting back-to-school season by deploying sophisticated scams, targeting unsuspecting consumers with fake e-commerce sites, and phishing mechanisms. These scams aim to siphon funds and personal data, and can lead to identity theft and financial fraud. Threat actors are using AI-driven tools to create hyper-realistic advertisements, making it harder to detect anomalies in URLs or content.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157070</guid>
-      <pubDate>Mon, 18 Aug 2025 08:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
