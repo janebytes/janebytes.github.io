@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 15:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 16:09:41 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fake Mac fixes trick users into installing new Shamos infostealer</title>
+      <link>https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/</link>
+      <description>Vulnerable Product: COOKIE SPIDER; CVE(s): None; Summary: Shamos, a new variant of the Atomic macOS Stealer (AMOS), targets Mac devices through ClickFix attacks that impersonate troubleshooting guides and fixes. The malware steals data and credentials stored in web browsers, Keychain items, Apple Notes, and cryptocurrency wallets by executing shell commands in the macOS Terminal.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/</guid>
+      <pubDate>Fri, 22 Aug 2025 15:44:10 +0000</pubDate>
+    </item>
     <item>
       <title>Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection</title>
       <link>https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html</link>
@@ -21,6 +28,34 @@
       <description>BQTLock is a ransomware-as-a-service (RaaS) that employs double extortion tactics, encrypting files with a .bqtlock extension and threatening data leaks if ransoms are not paid. It integrates anti-analysis measures, escalates privileges, performs process hollowing, and disables Windows mechanisms to hinder recovery.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=158426</guid>
       <pubDate>Fri, 22 Aug 2025 14:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Are Deep Web Threat Intelligence Solutions?</title>
+      <link>https://socradar.io/what-are-deep-web-threat-intelligence-solutions/</link>
+      <description>The article discusses the concept of the deep web, which is not inherently malicious but rather refers to private, non-indexed resources on the internet. It highlights the importance of monitoring the deep web for early warning intelligence and preventing fraud, compliance violations, and credential abuse.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062849</guid>
+      <pubDate>Fri, 22 Aug 2025 14:25:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Surface Web Vs Deep Web Vs Dark Web</title>
+      <link>https://socradar.io/surface-web-vs-deep-web-vs-dark-web/</link>
+      <description>The article explains the differences between the Surface Web, Deep Web, and Dark Web, highlighting their unique features, content types, and risks. It emphasizes the importance of understanding these layers for safe browsing and smart online interactions. The article also provides tips on how to navigate each layer securely.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062842</guid>
+      <pubDate>Fri, 22 Aug 2025 13:39:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix Exploit Emerges: Microsoft Flags Cross-Platform Attacks Targeting Windows and macOS</title>
+      <link>https://gbhackers.com/clickfix-exploit-emerges-microsoft-flags-cross-platform-attacks/</link>
+      <description>The article highlights the rising threat of the ClickFix social engineering technique, which targets users with fake technical glitches and convinces them to execute malicious commands, bypassing traditional security defenses. Threat actors use various tactics such as phishing, malvertising, and drive-by compromises to deliver payloads like infostealers, remote access trojans, and rootkits.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158383</guid>
+      <pubDate>Fri, 22 Aug 2025 13:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Encryption: A Key Strategy in Protecting Sensitive Information</title>
+      <link>https://socradar.io/data-encryption-protecting-sensitive-information/</link>
+      <description>None. This article is not about a vulnerability but provides an overview of the importance of data encryption in today's cybersecurity landscape. It discusses various aspects of encryption, including its types, algorithms, tools, and best practices for implementing robust encryption. The article also touches on the role of decryption, key management, and the need for effective encryption to thwart unauthorized access and ensure data integrity across industries.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062832</guid>
+      <pubDate>Fri, 22 Aug 2025 13:00:54 +0000</pubDate>
     </item>
     <item>
       <title>Anatsa Malware Escalates: Android Under Siege as Hackers Harvest Credentials and Track Keystrokes</title>
@@ -49,6 +84,17 @@
       <description>Microsoft has implemented new throttling measures to combat spam and improve email deliverability across its Microsoft 365 platform by restricting the use of default onmicrosoft.com domains for email communication. The change aims to prevent spammers from exploiting newly created tenants to send large volumes of spam, which degrades the shared domain's reputation.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=158393</guid>
       <pubDate>Fri, 22 Aug 2025 12:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic AI: Everything You Need to Know</title>
+      <link>https://socradar.io/agentic-ai-everything-you-need-to-know/</link>
+      <description>The article discusses the concept of agentic AI for threat intelligence, highlighting its benefits and security considerations. It provides an overview of the technology, including its potential to automate routine tasks, improve alert processing, and enhance threat analysis. The article also touches on the importance of human oversight, explainable AI outputs, and proper governance frameworks.
+
+The text does not discuss a specific vulnerability in a product or system. Instead, it explores the concept of agentic AI for threat intelligence and provides guidance on its implementation and security considerations.
+
+In summary, the response begins with 'FYSA: ' because the article is not discussing a specific vulnerability in a product or system, but rather exploring the concept of agentic AI for threat intelligence.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062817</guid>
+      <pubDate>Fri, 22 Aug 2025 12:07:29 +0000</pubDate>
     </item>
     <item>
       <title>AI Systems Capable of Generating Working Exploits for CVEs in Just 10–15 Minutes</title>
@@ -1383,50 +1429,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>The article reports on a law enforcement action against a Zeppelin ransomware operation, resulting in the seizure of over $2.8 million in cryptocurrency and additional assets. The investigation uncovered extensive money laundering operations designed to obscure the criminal origins of ransomware proceeds, highlighting the evolving sophistication of modern ransomware operations.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157383</guid>
       <pubDate>Mon, 18 Aug 2025 12:59:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-20265: RCE Flaw in Cisco Secure Firewall FMC RADIUS Authentication</title>
-      <link>https://socradar.io/cve-2025-20265-rce-cisco-secure-firewall-fmc-radius/</link>
-      <description>Vulnerable Product: Cisco Secure Firewall Management Center Software; CVE(s): CVE-2025-20265; Summary: The vulnerability allows an unauthenticated remote attacker to execute arbitrary commands on targeted systems by exploiting the RADIUS subsystem's insufficient input validation during authentication. An attacker can gain shell-level access, potentially with elevated privileges, if successful.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100062693</guid>
-      <pubDate>Mon, 18 Aug 2025 12:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors &amp; More</title>
-      <link>https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html</link>
-      <description>This article appears to be a comprehensive cybersecurity news report, covering various topics such as cryptocurrency-related fraud and money laundering, phishing attacks, malware distribution, and other cyber threats. The article does not specifically discuss a vulnerability in software, hardware, or firmware. Therefore, I will not identify any vulnerable products in my response.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html</guid>
-      <pubDate>Mon, 18 Aug 2025 12:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel Netfilter Flaw Enables Privilege Escalation</title>
-      <link>https://gbhackers.com/linux-kernel-netfilter-flaw/</link>
-      <description>Vulnerable Product: Linux kernel's netfilter subsystem; CVE(s): CVE-2024-53141; Summary: A critical vulnerability in the Linux kernel's netfilter subsystem allows local attackers to escalate privileges through an out-of-bounds write condition. The flaw occurs in the bitmap:ip set type implementation and can be exploited by creating specially crafted ipset bitmap configurations with CIDR ranges that trigger integer underflow conditions, allowing modification of kernel memory structures and potential privilege escalation attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157268</guid>
-      <pubDate>Mon, 18 Aug 2025 12:45:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/08/18/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <description>Vulnerable Product: Trend Micro Apex One; CVE(s): CVE-2025-54948; Summary: The Trend Micro Apex One OS Command Injection Vulnerability (CVE-2025-54948) is a newly added vulnerability to CISA's Known Exploited Vulnerabilities (KEV) Catalog, indicating active exploitation. This type of vulnerability poses significant risks to the federal enterprise and requires timely remediation to protect against cyberattacks.</description>
-      <guid isPermaLink="false">/node/23802</guid>
-      <pubDate>Mon, 18 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Target Nike, PayPal, and CelcomDigi in New Access and Data Sales</title>
-      <link>https://socradar.io/nike-paypal-and-celcomdigi-data-sales/</link>
-      <description>This article highlights several significant listings on the dark web, including recruitment efforts targeting employees of top brokerage firms, a large credential dump marketed as PayPal-related, an alleged leak of over 20 million records from Malaysia's CelcomDigi, and unauthorized shell access to Nike USA. The listings demonstrate ongoing risks across sectors.
-
-(Note: Since there are no specific vulnerabilities mentioned in the article, it does not fit into the traditional vulnerability summary format. Instead, I have provided a FYSA-style summary.)</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100062684</guid>
-      <pubDate>Mon, 18 Aug 2025 11:52:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Recent Windows updates may fail to install via WUSA</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/</link>
-      <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The Windows Update Standalone Installer (WUSA) caused Windows update failures when installing updates from a network share on Windows 11 24H2 and Windows Server 2025 systems, resulting in error ERROR_BAD_PATHNAME.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/</guid>
-      <pubDate>Mon, 18 Aug 2025 11:07:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
