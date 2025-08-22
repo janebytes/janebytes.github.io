@@ -6,14 +6,28 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 16:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 17:02:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Help TDS Hacks Legitimate Websites, Using PHP Templates to Display Fake Microsoft Security Alerts</title>
+      <link>https://gbhackers.com/help-tds-hacks-legitimate-websites-using-php-templates/</link>
+      <description>This article discusses the Help TDS (Traffic Direction System), a sophisticated malware operation that exploits compromised websites to redirect visitors to fraudulent pages. The system uses advanced browser manipulation techniques, including full-screen takeovers and exit prevention scripts, to trap users into calling fake tech support lines and demanding payments for bogus cleanup services.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158485</guid>
+      <pubDate>Fri, 22 Aug 2025 16:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fake Mac fixes trick users into installing new Shamos infostealer</title>
       <link>https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/</link>
       <description>Vulnerable Product: COOKIE SPIDER; CVE(s): None; Summary: Shamos, a new variant of the Atomic macOS Stealer (AMOS), targets Mac devices through ClickFix attacks that impersonate troubleshooting guides and fixes. The malware steals data and credentials stored in web browsers, Keychain items, Apple Notes, and cryptocurrency wallets by executing shell commands in the macOS Terminal.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/</guid>
       <pubDate>Fri, 22 Aug 2025 15:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumma Operators Deploy Cutting-Edge Evasion Tools to Maintain Stealth and Persistence</title>
+      <link>https://gbhackers.com/lumma-operators-deploy-cutting-edge-evasion-tools/</link>
+      <description>The report by Insikt Group reveals the complex operating framework of Lumma infostealer affiliates, highlighting their use of cutting-edge evasion technologies to support cybercrime operations. The analysis identifies specific affiliates and tactics, including the reliance on residential proxy services, VPNs, anti-detection browsers, and outsourced evasion services. The report also warns about the need for continued law enforcement efforts and employee training to counter this resilient threat landscape.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158439</guid>
+      <pubDate>Fri, 22 Aug 2025 15:18:00 +0000</pubDate>
     </item>
     <item>
       <title>Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection</title>
@@ -95,6 +109,13 @@ The text does not discuss a specific vulnerability in a product or system. Inste
 In summary, the response begins with 'FYSA: ' because the article is not discussing a specific vulnerability in a product or system, but rather exploring the concept of agentic AI for threat intelligence.</description>
       <guid isPermaLink="false">https://socradar.io/?p=100062817</guid>
       <pubDate>Fri, 22 Aug 2025 12:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Requests Public Comment for Updated Guidance on Software Bill of Materials</title>
+      <link>https://www.cisa.gov/news-events/alerts/2025/08/22/cisa-requests-public-comment-updated-guidance-software-bill-materials</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) released updated guidance for the Minimum Elements for a Software Bill of Materials (SBOM) for public comment, aiming to improve SBOM practices by refining data fields, automation support, and operational practices. Stakeholders are encouraged to provide feedback via the Federal Register during the public comment period, which concludes on October 3, 2025.</description>
+      <guid isPermaLink="false">/node/23825</guid>
+      <pubDate>Fri, 22 Aug 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI Systems Capable of Generating Working Exploits for CVEs in Just 10–15 Minutes</title>
@@ -1408,27 +1429,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>The German Federal Supreme Court's ruling on browser-based ad blockers has revived a legal battle over whether ad blockers infringe copyright, potentially leading to a ban of the tools in Germany. This could impact other browser extensions and users' choices, as well as raise concerns about a chilling effect on freedom.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/</guid>
       <pubDate>Mon, 18 Aug 2025 15:39:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Technical Details of SAP 0-Day Exploitation Script for RCE Revealed</title>
-      <link>https://gbhackers.com/sap-0-day-exploitation-script-for-rce-revealed/</link>
-      <description>Vulnerable Product: SAP NetWeaver's Visual Composer Metadata Uploader; CVE(s): CVE-2025–31324; Summary: A critical zero-day vulnerability in the metadata uploader enables unauthenticated file uploads leading to remote code execution under SAP service account privileges. The exploit script automates the process, allowing attackers to upload arbitrary files and gain persistent access to affected systems.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157182</guid>
-      <pubDate>Mon, 18 Aug 2025 15:02:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bragg Confirms Cyberattack, Internal IT Systems Breached</title>
-      <link>https://gbhackers.com/bragg-confirms-cyberattack/</link>
-      <description>Vulnerable Product: None; CVEs: None; Summary: The Bragg Gaming Group has disclosed a cybersecurity incident that compromised its internal computer systems. The company's preliminary investigation suggests the breach is contained within their internal environment, with no indication of personal information being compromised.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157394</guid>
-      <pubDate>Mon, 18 Aug 2025 13:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>DoJ Seizes $2.8M in Crypto from Zeppelin Ransomware Group</title>
-      <link>https://gbhackers.com/doj-seizes-2-8m-in-crypto/</link>
-      <description>The article reports on a law enforcement action against a Zeppelin ransomware operation, resulting in the seizure of over $2.8 million in cryptocurrency and additional assets. The investigation uncovered extensive money laundering operations designed to obscure the criminal origins of ransomware proceeds, highlighting the evolving sophistication of modern ransomware operations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157383</guid>
-      <pubDate>Mon, 18 Aug 2025 12:59:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
