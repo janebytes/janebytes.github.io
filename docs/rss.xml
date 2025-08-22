@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 22:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 10:04:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>DaVita says ransomware gang stole data of nearly 2.7 million people</title>
+      <link>https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/</link>
+      <description>A ransomware gang, Interlock, breached DaVita's network, stealing the personal and health information of nearly 2.7 million individuals, including sensitive patient records, insurance details, user account information, and financial data. The attackers gained access to DaVita's systems on March 24 and were evicted after the company detected the incident on April 12.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/</guid>
+      <pubDate>Fri, 22 Aug 2025 09:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware</title>
+      <link>https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html</link>
+      <description>A 55-year-old Chinese national was sentenced to four years in prison and three years of supervised release for sabotaging his former employer's network with custom malware, deploying a kill switch that locked out employees when his account was disabled, and attempting to erase evidence.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html</guid>
+      <pubDate>Fri, 22 Aug 2025 06:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dev gets 4 years for creating kill switch on ex-employer's systems</title>
+      <link>https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/</link>
+      <description>A software developer, Davis Lu, was sentenced to four years in prison for sabotaging his ex-employer's Windows network with custom malware and a kill switch. The malicious code included an infinite Java thread loop designed to overwhelm servers and crash production systems, and the kill switch locked out employees when Lu's account was disabled.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/</guid>
+      <pubDate>Thu, 21 Aug 2025 23:46:26 +0000</pubDate>
+    </item>
     <item>
       <title>ZDI-25-863: Foxit PDF Reader PRC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability</title>
       <link>http://www.zerodayinitiative.com/advisories/ZDI-25-863/</link>
@@ -1412,27 +1433,6 @@ In conclusion, this article presents a valuable resource for organizations seeki
       <description>Vulnerable Product: Fortinet, FortiWeb; CVE(s): CVE-2025-52970; Summary: A remote attacker can bypass FortiWeb's authentication by exploiting an out-of-bounds read in cookie parsing that sets the Era parameter to an unexpected value. This allows the server to use an all-zero secret key for session encryption and HMAC signing, making forged authentication cookies trivial to create.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/</guid>
       <pubDate>Sat, 16 Aug 2025 14:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams to protect against malicious URLs, dangerous file types</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/</link>
-      <description>Vulnerable Product: None; Summary: This article is not about a vulnerability, but rather about various security enhancements and features being added to Microsoft Teams, including blocking malicious URLs and files, integrating with Microsoft Defender for Office 365, and preventing unauthorized screen captures. These features aim to improve protection against malware and phishing attacks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/</guid>
-      <pubDate>Sat, 16 Aug 2025 14:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Abuse npm Developer Accounts Hijacked to Spread Malicious Packages</title>
-      <link>https://gbhackers.com/threat-actors-abuse-npm-developer-accounts-hijacked/</link>
-      <description>Vulnerable Product: npm (multiple packages); CVE(s): None; Summary: A sophisticated phishing campaign targeting the maintainer of eslint-config-prettier led to malicious code being distributed to thousands of developer projects worldwide, highlighting critical vulnerabilities in modern software development practices and automated dependency updating tools. The attack began with a carefully crafted phishing email that impersonated npm's official support team, leading to the publication of compromised packages containing postinstall scripts that deployed a remote access trojan specifically targeting Windows machines.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156987</guid>
-      <pubDate>Sat, 16 Aug 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure</title>
-      <link>https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html</link>
-      <description>The article discusses the inner workings of an Android banking trojan called ERMAC 3.0, revealing its infrastructure and capabilities, including form injection methods, data theft, and command-and-control (C2) panel.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html</guid>
-      <pubDate>Sat, 16 Aug 2025 10:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
