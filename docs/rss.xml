@@ -6,8 +6,29 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 10:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 11:06:03 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Hackers Target Phones of Military-Linked Individuals in South Asia Using New Spy Tools</title>
+      <link>https://gbhackers.com/hackers-target-phones-of-military-linked-individuals/</link>
+      <description>Cyber threat actors have launched sophisticated phishing operations aimed at military and government personnel in South Asia, leveraging defense-related lures to distribute malicious archives and applications. The operation extends beyond phishing to mobile espionage, with actors deploying modified versions of the open-source Rafel RAT via APK files.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158338</guid>
+      <pubDate>Fri, 22 Aug 2025 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automation Is Redefining Pentest Delivery</title>
+      <link>https://thehackernews.com/2025/08/automation-is-redefining-pentest.html</link>
+      <description>This article discusses the importance of automating pentest (penetration test) delivery to improve efficiency, reduce delays, and enhance overall vulnerability management. It highlights the benefits of automation, including real-time actionability, faster response times, and improved focus for security teams. The article also provides guidance on how to begin automating pentest delivery, including mapping current workflows, identifying friction points, starting small, and choosing the right platform.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/automation-is-redefining-pentest.html</guid>
+      <pubDate>Fri, 22 Aug 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive anti-cybercrime operation leads to over 1,200 arrests in Africa</title>
+      <link>https://www.bleepingcomputer.com/news/security/massive-anti-cybercrime-operation-leads-to-over-1-200-arrests-in-africa/</link>
+      <description>Law enforcement authorities in Africa have conducted a coordinated operation to target cross-border cybercriminal gangs, resulting in the arrest of over 1,200 suspects and seizure of $97.4 million worth of assets. The operation, called "Operation Serengeti 2.0," was led by INTERPOL and involved investigators from 18 African countries and the United Kingdom.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/massive-anti-cybercrime-operation-leads-to-over-1-200-arrests-in-africa/</guid>
+      <pubDate>Fri, 22 Aug 2025 10:08:13 +0000</pubDate>
+    </item>
     <item>
       <title>DaVita says ransomware gang stole data of nearly 2.7 million people</title>
       <link>https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/</link>
@@ -16,11 +37,74 @@
       <pubDate>Fri, 22 Aug 2025 09:38:14 +0000</pubDate>
     </item>
     <item>
+      <title>Malicious PDFs in Play: UAC-0057 Leveraging Invitations to Trigger Shell Script Attacks</title>
+      <link>https://gbhackers.com/malicious-pdfs-in-play-uac-0057-leveraging-invitations/</link>
+      <description>UAC-0057 (Belarusian-affiliated threat actor) has been using weaponized archives containing phony PDFs to target organizations in Poland and Ukraine. The campaign exploits Microsoft Excel spreadsheets with embedded VBA macros, which drop and execute malicious DLL implants for system reconnaissance and further payload deployment.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158306</guid>
+      <pubDate>Fri, 22 Aug 2025 09:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stealth Threat Unpacked: Weaponized RAR Files Deliver VShell Backdoor on Linux Systems</title>
+      <link>https://gbhackers.com/stealth-threat-unpacked-weaponized-rar-files/</link>
+      <description>The article discusses an infection chain that weaponizes a filename to compromise Linux hosts. The attack involves a spam message with a RAR archive that drops a Bash program whose name exploits the "process expansion" syntax in Bash, allowing for arbitrary command execution. The malware persists by expanding PATH and probing writable directories, and eventually downloads and executes a VShell remote-access tool, providing interactive reverse shells and other capabilities.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158294</guid>
+      <pubDate>Fri, 22 Aug 2025 08:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Azure Default API Connection Flaw Enables Full Cross-Tenant Compromise</title>
+      <link>https://gbhackers.com/azure-default-api-connection-flaw/</link>
+      <description>Vulnerable Product: Microsoft Azure API Connection; CVE(s): None; Summary: A critical vulnerability in Microsoft Azure's API Connection architecture allows attackers to compromise resources across different tenant environments, exposing sensitive data stored in Key Vaults, Azure SQL databases, and third-party services. Attackers can hijack any API Connection worldwide with full backend privileges by exploiting an undocumented DynamicInvoke endpoint that accepts custom paths, methods, headers, and request bodies.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158322</guid>
+      <pubDate>Fri, 22 Aug 2025 08:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colt Confirms Ransomware Attack Resulted in Customer Data Theft</title>
+      <link>https://gbhackers.com/colt-confirms-ransomware-attack/</link>
+      <description>A recent ransomware attack on Colt's business support systems resulted in the theft of customer data, with threat actors accessing files containing customer-related information. The company implemented containment protocols, took affected systems offline, and engaged external cybersecurity specialists to conduct a comprehensive forensic analysis.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158317</guid>
+      <pubDate>Fri, 22 Aug 2025 07:43:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>NIST Releases New Control Overlays to Manage Cybersecurity Risks in AI Systems</title>
+      <link>https://gbhackers.com/nist-releases-new-control-overlays/</link>
+      <description>NIST has launched an initiative to address the growing cybersecurity challenges associated with artificial intelligence (AI) systems. The initiative includes a concept paper and proposed action plan for developing standardized security controls, specifically designed for securing AI systems. The goal is to provide actionable security controls that organizations can implement to protect their AI deployments, considering novel attack vectors such as prompt injection attacks, model poisoning, and data exfiltration through AI interfaces.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158281</guid>
+      <pubDate>Fri, 22 Aug 2025 06:54:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware</title>
       <link>https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html</link>
       <description>A 55-year-old Chinese national was sentenced to four years in prison and three years of supervised release for sabotaging his former employer's network with custom malware, deploying a kill switch that locked out employees when his account was disabled, and attempting to erase evidence.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html</guid>
       <pubDate>Fri, 22 Aug 2025 06:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Docker Desktop Vulnerability Allows Full Host Compromise</title>
+      <link>https://gbhackers.com/windows-docker-desktop-vulnerability/</link>
+      <description>Vulnerable Product: Docker; CVE(s): CVE-2025-9074; Summary: A critical vulnerability in Docker Desktop for Windows allows any container to achieve full host system compromise through a simple Server-Side Request Forgery (SSRF) attack. The flaw stems from Docker's internal HTTP API being exposed without authentication or access controls, which can be exploited using just two HTTP POST requests from within any container.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158277</guid>
+      <pubDate>Fri, 22 Aug 2025 05:48:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 Million-Download SHA JavaScript Library Exposes Users to Hash Manipulation Attacks</title>
+      <link>https://gbhackers.com/14-million-download-sha-javascript-library-exposes/</link>
+      <description>Vulnerable Product: sha.js npm package; CVE(s): CVE-2025-9288; Summary: The sha.js library's hash calculation mechanism lacks input type validation, allowing attackers to manipulate hash states through carefully crafted JSON-stringifiable input. This enables attacks such as rewinding hash states, generating hash collisions, and triggering denial-of-service attacks.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158271</guid>
+      <pubDate>Fri, 22 Aug 2025 05:37:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>New HTTP Smuggling Technique Allows Hackers to Inject Malicious Requests</title>
+      <link>https://gbhackers.com/new-http-smuggling-technique/</link>
+      <description>A sophisticated HTTP request smuggling attack exploits inconsistent parsing behaviors between front-end proxy servers and back-end application servers, allowing attackers to inject unauthorized requests into web applications. The attack leverages malformed chunk extensions in HTTP/1.1's chunked transfer encoding feature, bypassing security controls and accessing restricted endpoints or bypassing authentication mechanisms.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158266</guid>
+      <pubDate>Fri, 22 Aug 2025 05:25:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT-5 Downgrade Attack Allows Hackers to Evade AI Defenses With Minimal Prompts</title>
+      <link>https://gbhackers.com/chatgpt-5-downgrade-attack/</link>
+      <description>Vulnerable Product: Adversa AI (ChatGPT-5); CVE(s): None; Summary: The PROMISQROUTE vulnerability allows attackers to bypass safety measures by modifying prompts, forcing requests through weaker models that lack robust safety training. This vulnerability affects the routing infrastructure of modern AI deployments, putting business models and customer safety at risk, with estimates suggesting $1.86 billion in annual cost savings for OpenAI.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158259</guid>
+      <pubDate>Fri, 22 Aug 2025 04:54:30 +0000</pubDate>
     </item>
     <item>
       <title>Dev gets 4 years for creating kill switch on ex-employer's systems</title>
@@ -1341,98 +1425,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>Vulnerable Product: PostgreSQL; CVE(s): CVE-2025-8714, CVE-2025-8715, CVE-2025-8713; Summary: The PostgreSQL Global Development Group released emergency security updates to address three critical vulnerabilities that enable code injection attacks during database restoration processes. The flaws affect all supported versions from PostgreSQL 13 through 17 and allow attackers to execute arbitrary code with elevated system privileges.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157054</guid>
       <pubDate>Mon, 18 Aug 2025 05:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockwell ControlLogix Ethernet Vulnerability Exposes Systems to Remote Code Execution</title>
-      <link>https://gbhackers.com/rockwell-controllogix-ethernet-vulnerability/</link>
-      <description>Vulnerable Product: Rockwell Automation ControlLogix Ethernet modules; CVE(s): CVE-2025-7353; Summary: A critical vulnerability in the web-based debugger agent of ControlLogix communication modules allows remote attackers to execute malicious code, perform memory dumps, modify system memory, and control execution flow. The vulnerability has a CVSS score of 9.8 out of 10 and requires no authentication or user interaction for exploitation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157049</guid>
-      <pubDate>Mon, 18 Aug 2025 05:15:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top 10 Best Patch Management Software For IT Security 2025</title>
-      <link>https://gbhackers.com/best-patch-management-software/</link>
-      <description>FYSA:
-
-The provided article presents a comprehensive analysis of top 10 patch management vendors in 2025, highlighting their unique features, strengths, and potential limitations. The article aims to help organizations make informed decisions when selecting a patch management solution that best suits their specific needs.
-
-In this response, I will analyze the article's content, focusing on the various factors that influence an organization's choice of a patch management vendor. Key considerations include the size and complexity of the IT environment, operating systems and applications diversity, budget, and existing security infrastructure.
-
-The article provides an overview of each vendor, highlighting their respective strengths in areas such as automation, scalability, ease of use, and customization. It also mentions potential limitations or areas for improvement within each solution.
-
-In conclusion, this article presents a valuable resource for organizations seeking to evaluate patch management vendors and make informed decisions about their security posture.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=154625</guid>
-      <pubDate>Sun, 17 Aug 2025 18:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI releases warmer GPT-5 personality, but only for non thinking model</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/</link>
-      <description>OpenAI has rolled out a new "warmer" personality for GPT-5 and restored older models like GPT-4o. Additionally, the company has relaxed rate limits for paid users after user outrage.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/</guid>
-      <pubDate>Sun, 17 Aug 2025 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google is adding "Projects" feature to Gemini to run research tasks</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/</link>
-      <description>This article is not about a vulnerability, but it contains cybersecurity-relevant content. The article discusses Google's Gemini feature called "Projects" and its upcoming API release. It also mentions previous Gemini-related vulnerabilities, such as hijacking email summaries for phishing, and a flaw in the CLI AI coding assistant that allowed stealthy code execution.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/</guid>
-      <pubDate>Sun, 17 Aug 2025 14:38:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/</link>
-      <description>The U.S. Department of Justice (DoJ) seized over $2.8 million in cryptocurrency from suspected ransomware operator Ianis Aleksandrovich Antropenko, linked to the Zeppelin ransomware operation. The seizure is part of efforts to disrupt and prevent ransomware operators from using funds to rebuild infrastructure or recruit new members.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/</guid>
-      <pubDate>Sun, 17 Aug 2025 14:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic: Claude can now end conversations to prevent harmful uses</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/</link>
-      <description>Vulnerable Product: None; FYSA: This article discusses updates to the AI model "Claude" by Anthropic, including a new feature that allows it to end conversations when it feels harm or abuse. The company also reports on other developments and comparisons with OpenAI's GPT-5 and ChatGPT models.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/</guid>
-      <pubDate>Sun, 17 Aug 2025 14:24:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elastic EDR 0-Day Flaw Lets Hackers Evade Detection, Run Malware, and Trigger BSOD</title>
-      <link>https://gbhackers.com/elastic-edr-0-day-flaw/</link>
-      <description>Vulnerable Product: Elastic Endpoint Detection and Response (EDR) software; CVE(s): None; Summary: A zero-day vulnerability in the Microsoft-signed kernel driver "elastic-endpoint-driver.sys" allows attackers to bypass security measures, execute malicious code, and crash protected systems repeatedly. The flaw enables a four-step attack chain, including EDR Bypass, Remote Code Execution, Persistence, and Privileged Denial-of-Service.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157022</guid>
-      <pubDate>Sun, 17 Aug 2025 13:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI prepares Chromium-based AI browser to take on Google</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/</link>
-      <description>This article is not about a vulnerability. It discusses OpenAI's development of an AI-powered browser using Chromium as its underlying engine and its potential features.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/</guid>
-      <pubDate>Sat, 16 Aug 2025 21:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/</link>
-      <description>Vulnerable Product: None; FYSA: The article discusses OpenAI's upcoming plan called ChatGPT Go, which will be available globally and priced at $4. Additionally, the company has added a "Voice speed" feature to the ChatGPT web app settings for voice mode.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/</guid>
-      <pubDate>Sat, 16 Aug 2025 20:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI is improving ChatGPT voice mode</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/</link>
-      <description>Vulnerable Product: None; FYSA: OpenAI has added features such as "Voice speed" and "custom instructions prefix" to the ChatGPT web app settings. Additionally, they have rolled out an upgraded model selector with access to new GPT-5 models and restored GPT-4o for paid users.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/</guid>
-      <pubDate>Sat, 16 Aug 2025 20:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>PoC Released for Fortinet FortiSIEM Command Injection Flaw</title>
-      <link>https://gbhackers.com/fortinet-fortisiem-command-injection-flaw/</link>
-      <description>Vulnerable Product: Fortinet FortiSIEM; CVE(s): CVE-2025-25256; Summary: A severe pre-authentication command injection vulnerability exists in Fortinet's FortiSIEM platform, allowing attackers to compromise enterprise security monitoring systems without credentials. The vulnerability affects all versions from 5.4 through 7.3.1 and requires complete migration to fixed releases for older versions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=156995</guid>
-      <pubDate>Sat, 16 Aug 2025 16:10:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researcher to release exploit for full auth bypass on FortiWeb</title>
-      <link>https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/</link>
-      <description>Vulnerable Product: Fortinet, FortiWeb; CVE(s): CVE-2025-52970; Summary: A remote attacker can bypass FortiWeb's authentication by exploiting an out-of-bounds read in cookie parsing that sets the Era parameter to an unexpected value. This allows the server to use an all-zero secret key for session encryption and HMAC signing, making forged authentication cookies trivial to create.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/</guid>
-      <pubDate>Sat, 16 Aug 2025 14:24:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
