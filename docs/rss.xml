@@ -6,8 +6,31 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 11:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:02:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>AI Systems Capable of Generating Working Exploits for CVEs in Just 10–15 Minutes</title>
+      <link>https://gbhackers.com/ai-generating-cves-in-just-10-15-minutes/</link>
+      <description>A cybersecurity research team has developed an artificial intelligence system that can automatically generate working exploits for published Common Vulnerabilities and Exposures (CVEs) in just 10-15 minutes at approximately $1 per exploit. The system accelerates exploit development compared to manual human analysis, which typically provides defenders with hours, days, or even weeks of mitigation grace time.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158381</guid>
+      <pubDate>Fri, 22 Aug 2025 11:48:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage</title>
+      <link>https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html</link>
+      <description>Vulnerable Product: None; CVE(s): "None"; Summary: This article discusses malicious activity by the China-nexus cyber espionage group Murky Panda, which abuses trusted relationships in the cloud to breach enterprise networks. The group exploits internet-facing appliances, zero-day and known security flaws, and compromises small office/home office (SOHO) devices to obtain initial access and deploy web shells and malware.
+
+FYSA: This article highlights the tactics used by Chinese hacking groups, including Murky Panda, Genesis Panda, and Glacial Panda, in targeting cloud environments for intelligence collection and data harvesting. These groups exploit vulnerabilities, compromise cloud-hosted systems, and use credentials obtained from compromised virtual machines to burrow deeper into target networks.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html</guid>
+      <pubDate>Fri, 22 Aug 2025 11:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown</title>
+      <link>https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html</link>
+      <description>The INTERPOL-coordinated Operation Serengeti has resulted in the arrest of 1,209 cybercriminals across 18 countries in Africa, with a global impact including $97.4 million recovered and 11,432 malicious infrastructures dismantled. The operation targeted ransomware, online scams, and business email compromise (BEC).</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html</guid>
+      <pubDate>Fri, 22 Aug 2025 11:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hackers Target Phones of Military-Linked Individuals in South Asia Using New Spy Tools</title>
       <link>https://gbhackers.com/hackers-target-phones-of-military-linked-individuals/</link>
@@ -1404,27 +1427,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>Cybercriminals are exploiting back-to-school season by deploying sophisticated scams, targeting unsuspecting consumers with fake e-commerce sites, and phishing mechanisms. These scams aim to siphon funds and personal data, and can lead to identity theft and financial fraud. Threat actors are using AI-driven tools to create hyper-realistic advertisements, making it harder to detect anomalies in URLs or content.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157070</guid>
       <pubDate>Mon, 18 Aug 2025 08:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>HR giant Workday discloses data breach after Salesforce attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/</link>
-      <description>Workday disclosed a data breach after attackers gained access to a third-party customer relationship management (CRM) platform through a social engineering attack. The incident exposed some business contact information, including names, email addresses, and phone numbers, which could be used in subsequent attacks.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/</guid>
-      <pubDate>Mon, 18 Aug 2025 07:53:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hundreds of TeslaMate Servers Expose Real-Time Vehicle Data</title>
-      <link>https://gbhackers.com/hundreds-of-teslamate-servers-expose/</link>
-      <description>Vulnerable Product: TeslaMate; CVE(s): None; Summary: TeslaMate servers are exposing sensitive Tesla vehicle data to the public internet without authentication, revealing real-time location tracking, charging patterns, and driving habits of unsuspecting owners. The vulnerability allows anyone with a web browser to access exact GPS coordinates of parked vehicles, track commute patterns, identify home addresses, and determine when cars aren’t present at their usual locations.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157059</guid>
-      <pubDate>Mon, 18 Aug 2025 07:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical PostgreSQL Flaws Allow Code Injection During Restoration</title>
-      <link>https://gbhackers.com/critical-postgresql-flaws/</link>
-      <description>Vulnerable Product: PostgreSQL; CVE(s): CVE-2025-8714, CVE-2025-8715, CVE-2025-8713; Summary: The PostgreSQL Global Development Group released emergency security updates to address three critical vulnerabilities that enable code injection attacks during database restoration processes. The flaws affect all supported versions from PostgreSQL 13 through 17 and allow attackers to execute arbitrary code with elevated system privileges.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157054</guid>
-      <pubDate>Mon, 18 Aug 2025 05:31:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
