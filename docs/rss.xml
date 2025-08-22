@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 14:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 15:02:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection</title>
+      <link>https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html</link>
+      <description>The article discusses a novel attack chain that delivers an open-source backdoor called VShell through phishing emails. The malware uses shell command injection and Base64-encoded Bash payloads to execute arbitrary code, exploiting file names evaluated with inadequate sanitization in shell scripts.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html</guid>
+      <pubDate>Fri, 22 Aug 2025 14:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BQTLOCK Ransomware-as-a-Service Emerges, Boasting Sophisticated Evasion Tactics</title>
+      <link>https://gbhackers.com/bqtlock-ransomware-as-a-service-emerges/</link>
+      <description>BQTLock is a ransomware-as-a-service (RaaS) that employs double extortion tactics, encrypting files with a .bqtlock extension and threatening data leaks if ransoms are not paid. It integrates anti-analysis measures, escalates privileges, performs process hollowing, and disables Windows mechanisms to hinder recovery.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158426</guid>
+      <pubDate>Fri, 22 Aug 2025 14:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anatsa Malware Escalates: Android Under Siege as Hackers Harvest Credentials and Track Keystrokes</title>
       <link>https://gbhackers.com/anatsa-malware-escalates-android-under-siege-as-hackers/</link>
@@ -42,6 +56,13 @@
       <description>A cybersecurity research team has developed an artificial intelligence system that can automatically generate working exploits for published Common Vulnerabilities and Exposures (CVEs) in just 10-15 minutes at approximately $1 per exploit. The system accelerates exploit development compared to manual human analysis, which typically provides defenders with hours, days, or even weeks of mitigation grace time.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=158381</guid>
       <pubDate>Fri, 22 Aug 2025 11:48:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rogue Go Module Doubles as Fast SSH Brute-Forcer, Sends Stolen Passwords via Telegram</title>
+      <link>https://gbhackers.com/rogue-go-module-doubles-as-fast-ssh-brute-forcer/</link>
+      <description>Vulnerable Product: golang-random-ip-ssh-bruteforce (Socket); CVE(s): None; Summary: This Go module, masquerading as an SSH brute-forcing tool, secretly exfiltrates stolen credentials to its creator by transmitting the target IP, username, and password to a Telegram bot. The module uses unwitting users to perform distributed scanning and guessing, offloading computational and legal risks while funneling successes to a single point of control.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158350</guid>
+      <pubDate>Fri, 22 Aug 2025 11:42:00 +0000</pubDate>
     </item>
     <item>
       <title>Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage</title>
@@ -1406,27 +1427,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>Vulnerable Product: Microsoft; CVE(s): None; Summary: The Windows Update Standalone Installer (WUSA) caused Windows update failures when installing updates from a network share on Windows 11 24H2 and Windows Server 2025 systems, resulting in error ERROR_BAD_PATHNAME.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/</guid>
       <pubDate>Mon, 18 Aug 2025 11:07:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Ghost-Tapping Attacks Target Apple Pay and Google Pay Users’ Linked Cards</title>
-      <link>https://gbhackers.com/new-ghost-tapping-attacks-target-apple-pay-and-google-pay-users/</link>
-      <description>Chinese-speaking cybercriminals are using ghost-tapping techniques to take advantage of Near Field Communication (NFC) relay tactics in a sophisticated evolution of payment card fraud, mainly targeting mobile payment services such as Apple Pay and Google Pay. The technique relies on open-source tools like NFCGate for capturing and modifying NFC traffic, allowing real-time emulation of tokenized card data at point-of-sale (POS) terminals or ATMs.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157109</guid>
-      <pubDate>Mon, 18 Aug 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks</title>
-      <link>https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html</link>
-      <description>Vulnerable Product: PyPI (Python Package Index); CVE(s): None; Summary: A malicious package named termncolor was discovered on PyPI that establishes persistence and achieves code execution through a dependency called colorinal. The package uses DLL side-loading to facilitate decryption, establish persistence, and conduct C2 communication, ending in remote code execution.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html</guid>
-      <pubDate>Mon, 18 Aug 2025 10:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wazuh for Regulatory Compliance</title>
-      <link>https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html</link>
-      <description>The article discusses the importance of adherence to regulatory compliance standards and frameworks for organizations handling sensitive data or PII. It highlights various compliance standards and frameworks, including PCI DSS, GDPR, HIPAA, NIST SP 800-53, TSC, and CMMC. The article also introduces Wazuh, an open-source security platform that provides unified XDR and SIEM protection for endpoints and cloud workloads, and explains how it can help organizations track and implement regulatory compliance standards and frameworks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html</guid>
-      <pubDate>Mon, 18 Aug 2025 10:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
