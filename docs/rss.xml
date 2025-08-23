@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2025 16:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 17:02:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>10 Best Network Monitoring Tools in 2025</title>
+      <link>https://gbhackers.com/best-network-monitoring-tools/</link>
+      <description>This article provides an overview of the best network monitoring tools in 2025 for various business sizes and technical requirements. The tools reviewed include SolarWinds NPM, PRTG Network Monitor, ManageEngine OpManager, Nagios XI, Zabbix, Datadog, LogicMonitor, Site24x7, Auvik, and Netreo. Each tool is evaluated based on its core functionality, scalability and flexibility, alerting and automation, user experience (UX), community and support, and pricing and value.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158403</guid>
+      <pubDate>Sat, 23 Aug 2025 16:10:11 +0000</pubDate>
+    </item>
     <item>
       <title>GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets</title>
       <link>https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html</link>
@@ -1424,13 +1431,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>The source code for ERMAC Android banking trojan version 3.0 has been leaked online, exposing the malware's internals and infrastructure. The latest version targets over 700 banking, shopping, and cryptocurrency apps, with capabilities such as theft of sensitive user information, file access, and device control.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/</guid>
       <pubDate>Mon, 18 Aug 2025 18:12:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weaponized Python Package “termncolor” Uses Windows Run Key for Persistence</title>
-      <link>https://gbhackers.com/weaponized-python-package-termncolor/</link>
-      <description>A complex supply chain attack was discovered on the Python Package Index (PyPI), where a seemingly innocuous package "termncolor" imports a malicious dependency "colorinal" that triggers a multi-stage malware deployment. The attack uses DLL sideloading, AES-encrypted payloads, and disguised command-and-control communications to evade detection.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157315</guid>
-      <pubDate>Mon, 18 Aug 2025 17:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
