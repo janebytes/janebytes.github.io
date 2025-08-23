@@ -6,8 +6,17 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 22:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 10:01:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets</title>
+      <link>https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html</link>
+      <description>Vulnerable Product: OSGeo GeoServer; CVE(s): CVE-2024-36401; Summary: A critical remote code execution vulnerability (CVE-2024-36401, CVSS score 9.8) in OSGeo GeoServer's GeoTools has been weaponized to deploy legitimate software development kits (SDKs) or modified apps on Redis servers, allowing attackers to generate passive income via network sharing or residential proxies.
+
+FYSA: The article highlights multiple campaigns exploiting known security vulnerabilities and compromising Redis servers for various malicious activities, including IoT botnets, residential proxies, and cryptocurrency mining infrastructure.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html</guid>
+      <pubDate>Sat, 23 Aug 2025 07:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>Murky Panda hackers exploit cloud trust to hack downstream customers</title>
       <link>https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/</link>
@@ -1422,13 +1431,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>A complex supply chain attack was discovered on the Python Package Index (PyPI), where a seemingly innocuous package "termncolor" imports a malicious dependency "colorinal" that triggers a multi-stage malware deployment. The attack uses DLL sideloading, AES-encrypted payloads, and disguised command-and-control communications to evade detection.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157315</guid>
       <pubDate>Mon, 18 Aug 2025 17:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK sentences “serial hacker” of 3,000 sites to 20 months in prison</title>
-      <link>https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/</link>
-      <description>A UK-based 26-year-old hacker, Al-Tahery Al-Mashriky, has been sentenced to 20 months in prison for hacking thousands of websites and stealing login details of millions of Facebook users. The investigation revealed that Al-Mashriky was linked to extremist groups and used stolen data to target and defraud individuals.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/</guid>
-      <pubDate>Mon, 18 Aug 2025 16:36:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
