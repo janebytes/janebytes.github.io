@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Aug 2025 13:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 14:01:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot</title>
+      <link>https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html</link>
+      <description>Vulnerable Product: IllDieAnyway (G3TT) "golang-random-ip-ssh-bruteforce" Go module; CVE(s): None; Summary: A malicious Go module named "golang-random-ip-ssh-bruteforce" presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator. The package scans random IPv4 addresses, attempts to brute-force exposed SSH services, and sends successful credentials to a threat actor-controlled Telegram bot.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html</guid>
+      <pubDate>Sun, 24 Aug 2025 13:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>10 Best Network Monitoring Tools in 2025</title>
       <link>https://gbhackers.com/best-network-monitoring-tools/</link>
@@ -1424,13 +1431,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>Vulnerable Product: Microsoft Windows; CVE(s): CVE-2025-29824; Summary: The vulnerability allows attackers to escalate privileges from a standard user account, facilitating ransomware deployment by groups like Storm-2460. The exploitation involves the use of a Microsoft Help Index File (.mshi) to deploy the PipeMagic backdoor, marking a notable evolution in malware delivery methods.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157326</guid>
       <pubDate>Mon, 18 Aug 2025 18:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ERMAC Android malware source code leak exposes banking trojan infrastructure</title>
-      <link>https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/</link>
-      <description>The source code for ERMAC Android banking trojan version 3.0 has been leaked online, exposing the malware's internals and infrastructure. The latest version targets over 700 banking, shopping, and cryptocurrency apps, with capabilities such as theft of sensitive user information, file access, and device control.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/</guid>
-      <pubDate>Mon, 18 Aug 2025 18:12:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
