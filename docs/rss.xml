@@ -6,8 +6,61 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Aug 2025 13:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 14:08:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>0-Click Zendesk Flaw Lets Hackers Hijack Accounts and View All Tickets</title>
+      <link>https://gbhackers.com/0-click-zendesk-flaw/</link>
+      <description>Vulnerable Product: Zendesk Android SDK; CVE(s): None; Summary: A critical zero-click vulnerability in Zendesk's Android SDK allows attackers to hijack support accounts and harvest every ticket without any user interaction by generating authentication tokens using predictable elements, including a static hardcoded secret and sequential account IDs. Successful exploitation grants read and write access to all support tickets for any targeted user, enabling the exfiltration of sensitive customer inquiries or injection of fraudulent tickets.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158827</guid>
+      <pubDate>Mon, 25 Aug 2025 13:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attaxion Releases Agentless Traffic Monitoring for Immediate Risk Prioritization</title>
+      <link>https://gbhackers.com/attaxion-releases-agentless-traffic-monitoring-for-immediate-risk-prioritization/</link>
+      <description>Attaxion announces the addition of Agentless Traffic Monitoring capability to its exposure management platform, providing real-time visibility into network traffic and threat intelligence to support incident response, malware detection, and vulnerability management. The feature uses NetFlow data and threat intelligence feeds to identify malicious traffic and attack types, reducing alert fatigue and prioritizing high-risk areas within the attack surface.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158829</guid>
+      <pubDate>Mon, 25 Aug 2025 12:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Use AI-Generated Summaries to Deliver Ransomware Payloads</title>
+      <link>https://gbhackers.com/hackers-use-ai-generated-summaries-deliver-ransomware/</link>
+      <description>Cybercriminals have developed a novel social engineering technique that uses AI-powered summarization tools to distribute ransomware instructions. The technique involves embedding malicious prompts in HTML elements that are invisible to human readers but readable by large language models, allowing attackers to steer the generated summary towards their instructions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158809</guid>
+      <pubDate>Mon, 25 Aug 2025 12:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Android Spyware Masquerading as Antivirus Targets Business Executives</title>
+      <link>https://gbhackers.com/new-android-spyware-masquerading-as-antivirus/</link>
+      <description>Vulnerable Product: Android; CVE(s): None; Summary: Android.Backdoor.916.origin is a sophisticated Android backdoor malware that targets representatives of Russian businesses through targeted attacks. It disguises itself as a legitimate antivirus application and has multifunctional spyware capabilities, allowing it to simulate an antivirus scan, request extensive system permissions, and conduct surveillance activities such as data exfiltration and keylogging.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158766</guid>
+      <pubDate>Mon, 25 Aug 2025 12:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple vtenext Flaws Allow Attackers to Bypass Authentication and Run Remote Code</title>
+      <link>https://gbhackers.com/multiple-vtenext-flaws/</link>
+      <description>Vulnerable Product: vtenext CRM; CVE(s): None; Summary: A trio of severe vulnerabilities in vtenext CRM (versions 25.02 and earlier) enable unauthenticated attackers to bypass login controls, execute arbitrary code, and steal session cookies. The flaws include an authentication bypass chain that abuses reflected cross-site scripting and SQL injection, as well as an arbitrary password reset vulnerability that grants remote code execution.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158790</guid>
+      <pubDate>Mon, 25 Aug 2025 12:33:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits &amp; More</title>
+      <link>https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html</link>
+      <description>FYSA:
+
+The article discusses various cybersecurity-related topics, including phishing campaigns, fraud schemes, and hacking groups. It highlights the activities of different threat actors, such as MuddyWater, Lab Dookhtegan, and North Korea-linked hackers.
+
+Some notable points from the article include:
+
+1. Phishing campaigns using hidden AI prompts to manipulate email scanners.
+2. Mule operators in META adopting complex fraud schemes, including Starlink-based obfuscation tactics.
+3. Pro-Iranian hacktivist groups coordinating during a 12-day conflict with Israel.
+4. North Korea stealing over $1.75 billion in 2025 alone.
+
+Overall, the article provides an overview of various cybersecurity threats and trends, but does not discuss specific vulnerabilities (software, hardware, or firmware).</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html</guid>
+      <pubDate>Mon, 25 Aug 2025 12:17:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations</title>
       <link>https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html</link>
@@ -1393,50 +1446,6 @@ Note: No specific CVEs are mentioned in the article, so I've listed "None" as th
       <description>Vulnerable Product: Siemens Desigo CC Product Family and SENTRON Powermanager; CVE(s): CVE-2025-47809; Summary: A privilege escalation vulnerability exists in Wibu CodeMeter before 8.30a, allowing a local user to gain elevated privileges after an unprivileged installation with UAC, without restarting the system. Successful exploitation could allow privilege escalation.</description>
       <guid isPermaLink="false">/node/23807</guid>
       <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Releases Four Industrial Control Systems Advisories</title>
-      <link>https://www.cisa.gov/news-events/alerts/2025/08/19/cisa-releases-four-industrial-control-systems-advisories</link>
-      <description>CISA has released four Industrial Control Systems (ICS) advisories regarding vulnerabilities in Siemens' Desigo CC Product Family, Mendix SAML Module, Tigo Energy Cloud Connect Advanced, and EG4 Electronics EG4 Inverters. The advisories provide technical details and mitigations for the identified security issues.</description>
-      <guid isPermaLink="false">/node/23809</guid>
-      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Mendix SAML Module</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-231-02</link>
-      <description>Vulnerable Product: Siemens Mendix SAML Module; CVE(s): CVE-2025-40758; Summary: Improper verification of cryptographic signature in affected versions of the module allows unauthenticated remote attackers to hijack an account in specific SSO configurations, with a CVSS v3.1 base score of 8.7.</description>
-      <guid isPermaLink="false">/node/23808</guid>
-      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Android Attack Targets Indian Users with Free Electricity Subsidy to Install Malware</title>
-      <link>https://gbhackers.com/new-android-attack-targets-indian-users/</link>
-      <description>A newly identified Android phishing campaign targets Indian users by masquerading as a government initiative offering subsidies for solar rooftop installations. The attackers leverage a fabricated mobile application to deceive victims into installing malware, promising free electricity units and stealing sensitive banking information, contacts, and SMS data.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157518</guid>
-      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2025: Allianz, Qantas, M&amp;S, Co-op Breaches, $140M Bank Hack &amp; SharePoint 0-Day Exploits</title>
-      <link>https://socradar.io/major-cyber-attacks-july-2025/</link>
-      <description>FYSA:
-
-The article discusses a series of major cyberattacks that took place in July 2025. These attacks targeted various sectors, including airlines, insurers, banks, retailers, and government agencies. The breaches involved stolen credentials, zero-day exploits, and social engineering tactics. Some notable cases include the Allianz Life breach, which exposed millions of customer records; the Qantas breach, which exposed customer data; and the Abacus Market shutdown, which was likely an exit scam. Additionally, the article mentions a critical SharePoint zero-day exploit (CVE-2025-53770) that was chained with other vulnerabilities to gain persistent access. The attacks demonstrate the evolving nature of cyber threats and the importance of having visibility into these attacks.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100062735</guid>
-      <pubDate>Tue, 19 Aug 2025 11:39:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback</title>
-      <link>https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html</link>
-      <description>The UK government has dropped its plan to force Apple to create a backdoor for accessing encrypted user data, following criticism from privacy advocates and Apple's appeals against the legality of the order. This development highlights the ongoing debate between governments seeking access to encrypted data and companies prioritizing user privacy and security.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html</guid>
-      <pubDate>Tue, 19 Aug 2025 11:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Your Security Culture is Critical to Mitigating Cyber Risk</title>
-      <link>https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html</link>
-      <description>This article discusses the importance of human risk in cybersecurity and how it often goes unaddressed despite being a significant driver of breaches. The author argues that instead of focusing on technology alone, organizations should prioritize cultivating a strong security culture that simplifies and supports secure human behavior. The article provides guidance on evaluating and strengthening an organization's security culture by examining leadership signals, security team engagement, policy design, and security training.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html</guid>
-      <pubDate>Tue, 19 Aug 2025 11:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
