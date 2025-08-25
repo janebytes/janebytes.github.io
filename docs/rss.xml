@@ -6,7 +6,7 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Aug 2025 10:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 11:02:58 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <item>
       <title>Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing</title>
@@ -14,6 +14,13 @@
       <description>The article discusses a series of targeted attacks by the advanced persistent threat (APT) group Transparent Tribe against Indian Government entities. The attacks involve spear-phishing emails with malicious Desktop shortcut files that target both Windows and BOSS Linux systems, leading to execution of malicious payloads and establishment of persistence on compromised environments.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html</guid>
       <pubDate>Mon, 25 Aug 2025 08:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NIST Releases Lightweight Cryptography Standard for IoT Security</title>
+      <link>https://gbhackers.com/nist-releases-lightweight-cryptography-standard/</link>
+      <description>This article is about NIST's publication of Special Publication 800-232, which establishes a benchmark for efficient cryptographic algorithms tailored to resource-constrained environments such as the Internet of Things (IoT), embedded systems, and low-power sensors. The standard provides specifications and security assurances for four Ascon primitives, including authenticated encryption, hashing, and extendable-output functions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158618</guid>
+      <pubDate>Mon, 25 Aug 2025 06:34:33 +0000</pubDate>
     </item>
     <item>
       <title>Critical Tableau Server Flaws Allows Malicious File Uploads</title>
@@ -1426,13 +1433,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>Vulnerable Product: Cisco Safe Links; CVE(s): None; Summary: Cybercriminals exploit the trust in Cisco's security infrastructure by generating legitimate Cisco Safe Links for malicious purposes. They compromise accounts within Cisco-protected organizations, exploit SaaS services, or recycle active Safe Links to send phishing emails that bypass network filters and evade traditional email security scanners.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157465</guid>
       <pubDate>Tue, 19 Aug 2025 05:52:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel Websites Compromised, Allowing Hackers Access to Employee and Confidential Data</title>
-      <link>https://gbhackers.com/intel-websites-compromised/</link>
-      <description>Vulnerable Product: Intel; CVE(s): None; Summary: Four internal Intel websites were found to have critical security flaws, exposing personal details of over 270,000 employees and potentially granting attackers access to sensitive corporate information. The vulnerabilities allowed for login bypasses, hardcoded credentials, exposed tokens, and GitHub access token manipulation, enabling unauthorized access and data exfiltration.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157458</guid>
-      <pubDate>Tue, 19 Aug 2025 04:57:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
