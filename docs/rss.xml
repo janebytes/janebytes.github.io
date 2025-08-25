@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Aug 2025 22:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 10:03:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing</title>
+      <link>https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html</link>
+      <description>The article discusses a series of targeted attacks by the advanced persistent threat (APT) group Transparent Tribe against Indian Government entities. The attacks involve spear-phishing emails with malicious Desktop shortcut files that target both Windows and BOSS Linux systems, leading to execution of malicious payloads and establishment of persistence on compromised environments.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html</guid>
+      <pubDate>Mon, 25 Aug 2025 08:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Tableau Server Flaws Allows Malicious File Uploads</title>
+      <link>https://gbhackers.com/critical-tableau-server-flaws/</link>
+      <description>Vulnerable Product: Salesforce Tableau Server and Desktop; CVE(s): CVE-2025-26496, CVE-2025-26497, CVE-2025-26498, CVE-2025-52450, CVE-2025-52451; Summary: A type confusion vulnerability (CVE-2025-26496) scores 9.6 on CVSS and allows local code inclusion, enabling attackers to execute malicious code within the application context. Four additional vulnerabilities allow unrestricted file uploads and path traversal weaknesses, potentially enabling attackers to write files to arbitrary locations or execute code, affecting Tableau Server versions before 2025.1.4, 2024.2.13, and 2023.3.20, as well as corresponding Desktop versions.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158605</guid>
+      <pubDate>Mon, 25 Aug 2025 05:01:41 +0000</pubDate>
+    </item>
     <item>
       <title>10 Best Endpoint Detection And Response (EDR) Companies in 2025</title>
       <link>https://gbhackers.com/best-edr-companies/</link>
@@ -1419,20 +1433,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>Vulnerable Product: Intel; CVE(s): None; Summary: Four internal Intel websites were found to have critical security flaws, exposing personal details of over 270,000 employees and potentially granting attackers access to sensitive corporate information. The vulnerabilities allowed for login bypasses, hardcoded credentials, exposed tokens, and GitHub access token manipulation, enabling unauthorized access and data exfiltration.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=157458</guid>
       <pubDate>Tue, 19 Aug 2025 04:57:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Actors Use Pirated Games to Bypass Microsoft Defender SmartScreen and Adblockers</title>
-      <link>https://gbhackers.com/threat-actors-use-pirated-games/</link>
-      <description>The article discusses a sophisticated malware campaign where threat actors distribute HijackLoader, a modular malware loader, by leveraging pirated game downloads. The malware bypasses common defenses like adblockers and Microsoft Defender SmartScreen, and its modular architecture allows it to evade detection and persistence mechanisms.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157423</guid>
-      <pubDate>Mon, 18 Aug 2025 21:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blue Locker Ransomware Launches Targeted Attacks on the Oil and Gas Sector in Pakistan</title>
-      <link>https://gbhackers.com/blue-locker-ransomware-launches-targeted-attacks/</link>
-      <description>Blue Locker ransomware has compromised critical infrastructure in Pakistan, including Pakistan Petroleum Limited (PPL), using advanced tactics such as AES-RSA encryption, privilege escalation via registry modifications, and defense evasion through obfuscation and timestomping.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157363</guid>
-      <pubDate>Mon, 18 Aug 2025 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
