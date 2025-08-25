@@ -6,14 +6,42 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Aug 2025 15:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 16:03:04 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Fake Google Play Store Websites Deliver Potent RAT to Steal Sensitive Data</title>
+      <link>https://gbhackers.com/fake-google-play-store-websites-deliver-potent-rat/</link>
+      <description>The article reports a persistent campaign deploying the AndroidOS SpyNote malware, a sophisticated Remote Access Trojan (RAT) designed for surveillance, data exfiltration, and remote device control. The malware is delivered through fake Google Play Store pages that mimic popular Android apps, and its capabilities include remote access to device cameras and microphones, call management, command execution, keylogging, and exploitation of Android Accessibility Services to intercept 2FA codes.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158806</guid>
+      <pubDate>Mon, 25 Aug 2025 15:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Docker Desktop flaw lets attackers hijack Windows hosts</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/</link>
+      <description>Vulnerable Product: Docker Desktop for Windows and macOS; CVE(s): CVE-2025-9074; Summary: A critical SSRF vulnerability (CVE-2025-9074) allows a malicious container to access the host system's file system, even with Enhanced Container Isolation protection active. This can lead to unauthorized access to user files on the host system.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/</guid>
+      <pubDate>Mon, 25 Aug 2025 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese APT Leverages Proxy and VPN Services to Obfuscate Infrastructure</title>
+      <link>https://gbhackers.com/chinese-apt-leverages-proxy-and-vpn-services/</link>
+      <description>The article discusses a data dump attributed to the North Korean APT group Kimsuky, which provides insights into their operational tactics. The leak reveals the use of anonymizing infrastructure, including a commercial proxy network with nodes scattered across global datacenter providers.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158795</guid>
+      <pubDate>Mon, 25 Aug 2025 14:50:44 +0000</pubDate>
+    </item>
     <item>
       <title>Defending against malware persistence techniques with Wazuh</title>
       <link>https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/</link>
       <description>The article discusses malware persistence techniques used by attackers to maintain long-term access to compromised systems. It explains various methods such as altering configurations, injecting startup code, and hijacking legitimate processes, which enable attackers to remain active despite system reboots or credential changes. The article also highlights the importance of defending against these techniques through a layered approach that combines detection, prevention, and incident response.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/</guid>
       <pubDate>Mon, 25 Aug 2025 14:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Only 7 Days Left for Early Bird Registration to the OpenSSL Conference 2025</title>
+      <link>https://gbhackers.com/only-7-days-left-for-early-bird-registration/</link>
+      <description>The OpenSSL Conference 2025 aims to bring together professionals from various fields to discuss security and privacy issues. The event offers opportunities for attendees to connect with experts, learn about regulatory obligations, and network with peers across disciplines. Early Bird registration is closing soon.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158900</guid>
+      <pubDate>Mon, 25 Aug 2025 13:13:00 +0000</pubDate>
     </item>
     <item>
       <title>0-Click Zendesk Flaw Lets Hackers Hijack Accounts and View All Tickets</title>
@@ -1418,34 +1446,6 @@ Note: No specific CVEs are mentioned in the article, so I've listed "None" as th
       <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: The August 2025 Windows security updates are breaking reset and recovery operations on systems running Windows 10 and older versions of Windows 11, causing issues with reinstalling the system while keeping files or remotely resetting devices.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/</guid>
       <pubDate>Tue, 19 Aug 2025 13:39:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution</title>
-      <link>https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html</link>
-      <description>Vulnerable Product: SAP NetWeaver; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: A new exploit combines two previously patched vulnerabilities (CVE-2025-31324 and CVE-2025-42999) to bypass authentication and achieve remote code execution. This allows attackers to upload arbitrary files, execute operating system commands with SAP administrator privileges, and conduct living-off-the-land attacks.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html</guid>
-      <pubDate>Tue, 19 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surge in Scans From Hacked Cisco, Linksys, and Araknis Routers</title>
-      <link>https://gbhackers.com/surge-in-scans-from-hacked/</link>
-      <description>Vulnerable Product: Cisco Small Business RV series routers, Linksys LRT series, Araknis Networks (AN-300-RT-4L2W); CVE(s): None; Summary: Researchers have identified a significant increase in malicious scanning activities originating from compromised consumer and enterprise networking equipment, with a focus on Cisco, Linksys, and Araknis router models. The compromised devices are being used to conduct reconnaissance scans against internet-connected systems, potentially serving as launching points for more sophisticated attacks.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157572</guid>
-      <pubDate>Tue, 19 Aug 2025 12:58:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAP 0-Day Exploit Reportedly Leaked by ShinyHunters Hackers</title>
-      <link>https://gbhackers.com/sap-0-day-exploit-reportedly-leaked/</link>
-      <description>Vulnerable Product: SAP; CVE(s): CVE-2025-31324, CVE-2025-42999; Summary: A sophisticated exploit targeting critical SAP vulnerabilities has been publicly released by ShinyHunters, which chains multiple zero-day vulnerabilities to execute arbitrary commands on target SAP systems. The exploit uses a deserialization vulnerability (CVE-2025-42999) to enable "live off the land" attacks and adjusts dynamically based on SAP NetWeaver versions.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157568</guid>
-      <pubDate>Tue, 19 Aug 2025 12:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>NY Business Council discloses data breach affecting 47,000 people</title>
-      <link>https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/</link>
-      <description>The Business Council of New York State (BCNYS) has revealed a data breach that affected over 47,000 individuals, exposing personal, financial, and health information. The attackers stole files containing sensitive information, including names, Social Security numbers, dates of birth, and medical records.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/</guid>
-      <pubDate>Tue, 19 Aug 2025 12:04:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
