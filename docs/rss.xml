@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Aug 2025 12:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 13:03:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations</title>
+      <link>https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html</link>
+      <description>The article highlights the limitations of Security Information and Event Management (SIEM) systems in detecting attacks, with only 1 out of 7 simulated attacks being detected. Common issues include log collection problems, misconfigurations, and performance issues, which can lead to detection rule failures and a false sense of security.</description>
+      <guid isPermaLink="true">https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html</guid>
+      <pubDate>Mon, 25 Aug 2025 11:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Arch Linux Services Hit by Week-Long DDoS Attack</title>
       <link>https://gbhackers.com/arch-linux-services-ddos-attack/</link>
@@ -132,6 +139,13 @@ In summary, there is no vulnerable product or vulnerability discussed in this ar
       <pubDate>Sun, 24 Aug 2025 17:56:13 +0000</pubDate>
     </item>
     <item>
+      <title>New Android malware poses as antivirus from Russian intelligence agency</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-android-malware-poses-as-antivirus-from-russian-intelligence-agency/</link>
+      <description>The article reports on a new Android malware, "Android.Backdoor.916.origin," created by Russia's Federal Security Services agency (FSB), which targets Russian business executives with capabilities such as keylogging, camera streaming, and data exfiltration from messenger apps.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-android-malware-poses-as-antivirus-from-russian-intelligence-agency/</guid>
+      <pubDate>Sun, 24 Aug 2025 14:08:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot</title>
       <link>https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html</link>
       <description>Vulnerable Product: IllDieAnyway (G3TT) "golang-random-ip-ssh-bruteforce" Go module; CVE(s): None; Summary: A malicious Go module named "golang-random-ip-ssh-bruteforce" presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator. The package scans random IPv4 addresses, attempts to brute-force exposed SSH services, and sends successful credentials to a threat actor-controlled Telegram bot.</description>
@@ -144,6 +158,22 @@ In summary, there is no vulnerable product or vulnerability discussed in this ar
       <description>This article provides an overview of the best network monitoring tools in 2025 for various business sizes and technical requirements. The tools reviewed include SolarWinds NPM, PRTG Network Monitor, ManageEngine OpManager, Nagios XI, Zabbix, Datadog, LogicMonitor, Site24x7, Auvik, and Netreo. Each tool is evaluated based on its core functionality, scalability and flexibility, alerting and automation, user experience (UX), community and support, and pricing and value.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=158403</guid>
       <pubDate>Sat, 23 Aug 2025 16:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>FTC warns tech giants not to bow to foreign pressure on encryption</title>
+      <link>https://www.bleepingcomputer.com/news/security/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption/</link>
+      <description>The Federal Trade Commission (FTC) is warning major U.S. tech companies against yielding to foreign government demands that weaken data security, compromise encryption, or impose censorship on their platforms. The FTC emphasizes the importance of protecting American users' freedom to access uncensored information and enjoy data security, citing legal obligations under the FTC Act.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption/</guid>
+      <pubDate>Sat, 23 Aug 2025 15:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft working on fix for ongoing Outlook email issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-fix-for-ongoing-outlook-email-issues/</link>
+      <description>Microsoft is experiencing an issue with Exchange Online, causing 12-hour sync delays and email access problems for Outlook mobile users using Hybrid Modern Authentication. This issue began affecting users on August 17 and has been classified as an incident. Redmond's engineers have deployed a fix to resolve the problem.
+
+FYSA: Microsoft is also investigating an issue affecting Microsoft Teams users, causing blank screens and freezes during meetings and calls when using the desktop app.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-fix-for-ongoing-outlook-email-issues/</guid>
+      <pubDate>Sat, 23 Aug 2025 14:15:20 +0000</pubDate>
     </item>
     <item>
       <title>GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets</title>
@@ -1407,34 +1437,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>This article discusses the importance of human risk in cybersecurity and how it often goes unaddressed despite being a significant driver of breaches. The author argues that instead of focusing on technology alone, organizations should prioritize cultivating a strong security culture that simplifies and supports secure human behavior. The article provides guidance on evaluating and strengthening an organization's security culture by examining leadership signals, security team engagement, policy design, and security training.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html</guid>
       <pubDate>Tue, 19 Aug 2025 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korean Kimsuky Hackers Use GitHub to Target Foreign Embassies with XenoRAT Malware</title>
-      <link>https://gbhackers.com/north-korean-kimsuky-hackers-use-github/</link>
-      <description>The Kimsuky group (APT43) launched a DPRK-linked espionage operation targeting diplomatic missions in South Korea. The campaign involved spear-phishing emails with ZIP files hosting malware, which delivered payloads via Dropbox and Daum, allowing for data exfiltration and payload retrieval over HTTPS.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157503</guid>
-      <pubDate>Tue, 19 Aug 2025 11:09:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender AI Can Detect Plaintext Credentials in Active Directory</title>
-      <link>https://gbhackers.com/microsoft-defender-ai-detect-plaintext-credentials/</link>
-      <description>Vulnerable Product: Microsoft Active Directory systems; CVE(s): None; Summary: The vulnerability lies in the storage of plaintext credentials in free text fields within Active Directory and Microsoft Entra ID systems. This allows attackers to easily exploit the credentials, which are often stored for operational flexibility and simplicity. The AI-powered security capability from Microsoft detects exposed credentials with unprecedented precision, helping organizations eliminate this critical attack vector.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157533</guid>
-      <pubDate>Tue, 19 Aug 2025 10:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware incidents in Japan during the first half of 2025</title>
-      <link>https://blog.talosintelligence.com/ransomware_incidents_in_japan_during_the_first_half_of_2025/</link>
-      <description>This article reports on the increase in ransomware attacks in Japan, with a focus on small and medium-sized enterprises. The most affected industry remains manufacturing, while the ransomware group "Qilin" has been causing the most damage. The article also discusses the emergence of new groups like Kawa4096 and provides details on the tactics, techniques, and procedures (TTPs) used by these groups, including the use of the Salsa20 stream cipher for encryption.</description>
-      <guid isPermaLink="false">689d7430e2d85f00011b7ffd</guid>
-      <pubDate>Tue, 19 Aug 2025 10:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>JJ Cummings: The art of controlling information</title>
-      <link>https://blog.talosintelligence.com/jj-cummings-the-art-of-controlling-information/</link>
-      <description>This article is not about a vulnerability or cybersecurity-relevant content. It appears to be an employee spotlight or career development story featuring JJ Cummings, leader of Cisco's Threat Intelligence and Interdiction team, discussing his role, challenges, and experiences at the company. The article does not contain any threat actor, tactics, infrastructure, scams, or impacts relevant to cybersecurity.</description>
-      <guid isPermaLink="false">689f4691e2d85f00011b8197</guid>
-      <pubDate>Tue, 19 Aug 2025 10:00:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
