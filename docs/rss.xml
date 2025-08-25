@@ -6,14 +6,86 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Aug 2025 11:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 12:05:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Arch Linux Services Hit by Week-Long DDoS Attack</title>
+      <link>https://gbhackers.com/arch-linux-services-ddos-attack/</link>
+      <description>Arch Linux's core infrastructure was targeted by a distributed denial-of-service (DDoS) attack starting from August 18, causing intermittent outages and slowdowns on its website, AUR, and forums. The attack is ongoing, but mitigation efforts are underway to preserve service integrity.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158748</guid>
+      <pubDate>Mon, 25 Aug 2025 11:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimsuky APT Exposed: GPKI Certificates, Rootkits, and Cobalt Strike Assets Uncovered</title>
+      <link>https://gbhackers.com/kimsuky-apt-exposed/</link>
+      <description>The article discusses a comprehensive operational dump from the North Korean Kimsuky APT organization, which includes virtual machine images, VPS dumps, phishing kits, rootkits, and over 20,000 browser history records. The leak provides an unprecedented glimpse into the group's infrastructure and tactics, revealing its use of custom malware, Cobalt Strike, and other tools.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158730</guid>
+      <pubDate>Mon, 25 Aug 2025 11:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Exploit Windows Scheduled Tasks for Stealthy Persistence Without Additional Tools</title>
+      <link>https://gbhackers.com/threat-actors-exploit-windows-scheduled-tasks/</link>
+      <description>Threat actors use Windows Scheduled Tasks to create persistence, enabling automated execution of programs or commands. This native capability is used for initial access brokering, lateral movement, or ransomware deployment, often blending malicious activities with routine system behavior.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158708</guid>
+      <pubDate>Mon, 25 Aug 2025 10:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Confirms August 2025 Patch Slows Down Windows 11 24H2 and Windows 10</title>
+      <link>https://gbhackers.com/microsoft-confirms-august-2025-patch-slows-down/</link>
+      <description>Vulnerable Product: Microsoft Windows 11, version 24H2, and supported Windows 10 releases; CVE(s): None; Summary: The August 2025 security update (KB5063878) causes significant performance degradation on Windows 11, version 24H2, and supported Windows 10 releases, particularly with Network Device Interface (NDI) streaming in applications like OBS and NDI Tools. This issue may cause stuttering, lag, choppy audio/video playback, dropped frames, and audio desynchronization.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158727</guid>
+      <pubDate>Mon, 25 Aug 2025 10:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese Hacker Sentenced for Kill Switch Attack on Ohio Firm’s Global Network</title>
+      <link>https://gbhackers.com/chinese-hacker-sentenced-for-kill-switch-attack/</link>
+      <description>A former software developer was sentenced to four years in prison for sabotaging his employer's global network with a custom "kill switch," causing hundreds of thousands of dollars in losses. The investigation highlighted the importance of identifying insider threats early and engaging proactively with law enforcement to mitigate risks. The case also underscored the impact of malicious acts by insiders, including the activation of a "kill switch" that barred thousands of employees from system access.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158714</guid>
+      <pubDate>Mon, 25 Aug 2025 09:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unmasking KorPlug Malware: TTPs, Control Flow, and Exposed IOCs</title>
+      <link>https://gbhackers.com/unmasking-korplug-malware/</link>
+      <description>The article discusses the KorPlug malware family's complex second-stage payload, which uses DLL side-loading methods to execute code. It highlights advanced reverse-engineering tactics used to dismantle the payload's obfuscation and uncover its execution mechanics, providing actionable intelligence for threat hunters.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158664</guid>
+      <pubDate>Mon, 25 Aug 2025 09:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Abuse Python eval/exec Calls to Run Malicious Code</title>
+      <link>https://gbhackers.com/hackers-abuse-python-eval-exec-calls/</link>
+      <description>Vulnerable Product: PyPI; CVE(s): None; Summary: Threat actors are exploiting native evaluation and execution functions to conceal malicious payloads within Python packages on PyPI. This is done by using obfuscation techniques such as replacing Latin letters with Unicode characters, importing or aliasing the builtins module, using dynamic attribute lookup routines, and compiling code snippets into executable code objects.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158705</guid>
+      <pubDate>Mon, 25 Aug 2025 09:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>New macOS Installer Boasts Lightning-Fast Data Theft, Marketed on Dark Web</title>
+      <link>https://gbhackers.com/new-macos-installer-boasts-lightning-fast-data-theft/</link>
+      <description>Vulnerable Product: mentalpositive Mac.c; CVE(s): None; Summary: Mac.c is a novel macOS infostealer malware that emerged as a streamlined derivative of the Atomic MacOS Stealer (AMOS). It leverages native macOS utilities to conduct stealthy operations, evading traditional endpoint detection and response mechanisms. The malware targets iCloud Keychain entries, browser-stored passwords, cryptocurrency wallet data, and system metadata, with an emphasis on stealing digital assets like NFTs and stablecoins.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158639</guid>
+      <pubDate>Mon, 25 Aug 2025 08:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing</title>
       <link>https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html</link>
       <description>The article discusses a series of targeted attacks by the advanced persistent threat (APT) group Transparent Tribe against Indian Government entities. The attacks involve spear-phishing emails with malicious Desktop shortcut files that target both Windows and BOSS Linux systems, leading to execution of malicious payloads and establishment of persistence on compromised environments.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html</guid>
       <pubDate>Mon, 25 Aug 2025 08:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Exploit SendGrid to Steal User Login Credentials in Latest Attack</title>
+      <link>https://gbhackers.com/hackers-exploit-sendgrid-to-steal-user-login-credentials/</link>
+      <description>The article describes a phishing campaign that leverages SendGrid's trusted status to distribute credential harvesting attacks. Attackers spoof sender addresses and use open redirect vulnerabilities to deliver phishing payloads disguised as authentic alerts, exploiting psychological triggers like urgency, curiosity, and greed.
+
+FYSA: Cybersecurity researchers at the Cofense Phishing Defense Center (PDC) have uncovered a fresh surge in credential harvesting attacks that leverage SendGrid to distribute phishing emails. The campaign deploys three distinct email themes, each engineered to exploit psychological triggers like urgency, curiosity, and greed.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158628</guid>
+      <pubDate>Mon, 25 Aug 2025 07:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happy Birthday Linux! 34 Years of Open-Source Power</title>
+      <link>https://gbhackers.com/happy-birthday-linux/</link>
+      <description>This article is a retrospective on the history of Linux, celebrating its 34th anniversary. It highlights the growth of Linux from a small project to a widely used operating system in various domains, including high-performance computing, cloud infrastructure, mobile devices, and Internet of Things (IoT). The article also discusses the market size and growth projections for Linux, as well as its importance in terms of job postings and safety.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158622</guid>
+      <pubDate>Mon, 25 Aug 2025 06:55:24 +0000</pubDate>
     </item>
     <item>
       <title>NIST Releases Lightweight Cryptography Standard for IoT Security</title>
@@ -1363,76 +1435,6 @@ The article discusses a series of major cyberattacks that took place in July 202
       <description>This article is not about a vulnerability or cybersecurity-relevant content. It appears to be an employee spotlight or career development story featuring JJ Cummings, leader of Cisco's Threat Intelligence and Interdiction team, discussing his role, challenges, and experiences at the company. The article does not contain any threat actor, tactics, infrastructure, scams, or impacts relevant to cybersecurity.</description>
       <guid isPermaLink="false">689f4691e2d85f00011b8197</guid>
       <pubDate>Tue, 19 Aug 2025 10:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fashionable Phishing Bait: GenAI on the Hook</title>
-      <link>https://unit42.paloaltonetworks.com/genai-phishing-bait/</link>
-      <description>The article discusses the growing adoption of generative AI (GenAI) and its potential to introduce new risks in cybersecurity. It highlights how GenAI can be misused by threat actors to create realistic phishing content, clone trusted brands, and automate large-scale deployment using services like low-code site builders. The article also provides indicators of these activities to support detection and response efforts.</description>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/?p=152030</guid>
-      <pubDate>Tue, 19 Aug 2025 10:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>PyPI Moves to Stop Domain Resurrection Attacks with Expired Domain Blocks</title>
-      <link>https://gbhackers.com/pypi-moves-to-stop-domain-resurrection-attacks/</link>
-      <description>The Python Package Index (PyPI) has implemented new security measures to prevent domain resurrection attacks, a type of supply-chain threat that exploits email-based account verification systems. PyPI's solution leverages Domainr's Status API to monitor and update the status of user email addresses associated with domains entering expiration phases, automatically unverifying previously validated email addresses when a domain enters the redemption period.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157527</guid>
-      <pubDate>Tue, 19 Aug 2025 09:57:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lockbit Linux ESXi Ransomware Variant Reveals Evasion Techniques and File Encryption Process</title>
-      <link>https://gbhackers.com/lockbit-linux-esxi-ransomware-variant/</link>
-      <description>The article analyzes a Lockbit ransomware variant targeting Linux-based ESXi servers. It highlights the malware's evasion techniques, operational details, and encryption methods, including its use of ptrace to detect debugging environments and libsodium for key generation.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157493</guid>
-      <pubDate>Tue, 19 Aug 2025 08:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious npm Packages Target Crypto Developers to Steal Login Credentials</title>
-      <link>https://gbhackers.com/malicious-npm-packages-target-crypto-developers/</link>
-      <description>This article discusses a threat campaign dubbed "Solana-Scan" that deploys malicious npm packages to infiltrate the Solana cryptocurrency ecosystem. The packages, published by an actor operating under the handle "cryptohan", aim to lure developers in the crypto space and collect sensitive information such as cryptocurrency tokens, wallet credentials, and exchange login details.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157343</guid>
-      <pubDate>Tue, 19 Aug 2025 07:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Massive Allianz Life data breach impacts 1.1 million people</title>
-      <link>https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/</link>
-      <description>Hackers stole the personal information of 1.1 million individuals in a Salesforce data theft attack that impacted Allianz Life, a U.S. insurance giant, and other high-profile companies worldwide. The attackers tricked employees into linking malicious OAuth apps to their company's Salesforce instance, allowing them to download and steal databases.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/</guid>
-      <pubDate>Tue, 19 Aug 2025 07:17:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>PipeMagic Malware Imitates ChatGPT App to Exploit Windows Vulnerability and Deploy Ransomware</title>
-      <link>https://gbhackers.com/pipemagic-malware-imitates-chatgpt-app/</link>
-      <description>Vulnerable Product: None; CVE(s): CVE-2025-29824; Summary: PipeMagic malware is a modular backdoor that exploits the Windows Common Log File System (CLFS) elevation-of-privilege vulnerability. It poses as ChatGPT Desktop Application and enables privilege escalation, ransomware deployment, and command-and-control communication over TCP.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157478</guid>
-      <pubDate>Tue, 19 Aug 2025 07:17:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Sni5Gect Attack Targets 5G to Steal Messages and Inject Payloads</title>
-      <link>https://gbhackers.com/new-sni5gect-attack-targets-5g/</link>
-      <description>The SNI5GECT framework is a sophisticated attack framework that can intercept 5G communications, inject malicious payloads without requiring a rogue base station, and demonstrate multiple attack vectors that pose serious security risks to 5G users.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157476</guid>
-      <pubDate>Tue, 19 Aug 2025 07:08:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>CISA Alerts on Active Exploitation of Trend Micro Apex One Vulnerability</title>
-      <link>https://gbhackers.com/cisa-alerts-on-trend-micro-apex-one-vulnerability/</link>
-      <description>Vulnerable Product: Trend Micro; CVE(s): CVE-2025-54948; Summary: The vulnerability affects the Trend Micro Apex One Management Console's on-premise deployments, allowing pre-authenticated remote attackers to upload malicious code and execute arbitrary commands, posing significant risks to organizations worldwide.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157472</guid>
-      <pubDate>Tue, 19 Aug 2025 06:41:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>PyPI Blocks 1,800 Expired-Domain Emails to Prevent Account Takeovers and Supply Chain Attacks</title>
-      <link>https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html</link>
-      <description>The Python Package Index (PyPI) repository now checks for expired domains to prevent supply chain attacks. This change aims to tackle domain resurrection attacks that occur when attackers purchase an expired domain and use it to take control of PyPI accounts through password resets.</description>
-      <guid isPermaLink="true">https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html</guid>
-      <pubDate>Tue, 19 Aug 2025 06:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackers Exploit Cisco Secure Links to Evade Scanners and Bypass Filters</title>
-      <link>https://gbhackers.com/hackers-exploit-cisco-secure-links/</link>
-      <description>Vulnerable Product: Cisco Safe Links; CVE(s): None; Summary: Cybercriminals exploit the trust in Cisco's security infrastructure by generating legitimate Cisco Safe Links for malicious purposes. They compromise accounts within Cisco-protected organizations, exploit SaaS services, or recycle active Safe Links to send phishing emails that bypass network filters and evade traditional email security scanners.</description>
-      <guid isPermaLink="false">https://gbhackers.com/?p=157465</guid>
-      <pubDate>Tue, 19 Aug 2025 05:52:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
