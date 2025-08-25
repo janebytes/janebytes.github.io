@@ -6,8 +6,15 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Aug 2025 14:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 15:01:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Defending against malware persistence techniques with Wazuh</title>
+      <link>https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/</link>
+      <description>The article discusses malware persistence techniques used by attackers to maintain long-term access to compromised systems. It explains various methods such as altering configurations, injecting startup code, and hijacking legitimate processes, which enable attackers to remain active despite system reboots or credential changes. The article also highlights the importance of defending against these techniques through a layered approach that combines detection, prevention, and incident response.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/</guid>
+      <pubDate>Mon, 25 Aug 2025 14:01:11 +0000</pubDate>
+    </item>
     <item>
       <title>0-Click Zendesk Flaw Lets Hackers Hijack Accounts and View All Tickets</title>
       <link>https://gbhackers.com/0-click-zendesk-flaw/</link>
@@ -1439,13 +1446,6 @@ Note: No specific CVEs are mentioned in the article, so I've listed "None" as th
       <description>The Business Council of New York State (BCNYS) has revealed a data breach that affected over 47,000 individuals, exposing personal, financial, and health information. The attackers stole files containing sensitive information, including names, Social Security numbers, dates of birth, and medical records.</description>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/</guid>
       <pubDate>Tue, 19 Aug 2025 12:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Siemens Desigo CC Product Family and SENTRON Powermanager</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-25-231-01</link>
-      <description>Vulnerable Product: Siemens Desigo CC Product Family and SENTRON Powermanager; CVE(s): CVE-2025-47809; Summary: A privilege escalation vulnerability exists in Wibu CodeMeter before 8.30a, allowing a local user to gain elevated privileges after an unprivileged installation with UAC, without restarting the system. Successful exploitation could allow privilege escalation.</description>
-      <guid isPermaLink="false">/node/23807</guid>
-      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
