@@ -6,8 +6,22 @@
     <link>https://janebytes.github.io/</link>
     <description>Summarized articles from top cybersecurity sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Aug 2025 16:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 17:01:54 +0000</lastBuildDate>
     <ttl>1800</ttl>
+    <item>
+      <title>Proxyware Malware Poses as YouTube Video Download Site, Delivering Malicious JavaScript</title>
+      <link>https://gbhackers.com/proxyware-malware-poses-as-youtube-video-download-site/</link>
+      <description>The article describes a persistent campaign where attackers distribute proxyware malware through fake YouTube video download pages. The malware is disguised as benign tools like WinMemoryCleaner and can propagate via pop-up ads or direct download links, evading casual detection. The malware incorporates anti-analysis techniques and communicates with a command-and-control (C&amp;C) server to install proxyware variants, hijacking network bandwidth for unauthorized proxy services.</description>
+      <guid isPermaLink="false">https://gbhackers.com/?p=158836</guid>
+      <pubDate>Mon, 25 Aug 2025 16:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious Android apps with 19M installs removed from Google Play</title>
+      <link>https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-19m-installs-removed-from-google-play/</link>
+      <description>Vulnerable Product: Multiple Android apps; CVE(s): None; Summary: 77 malicious Android apps with over 19 million installs delivered multiple malware families, including Joker, Anatsa (Tea Bot) banking trojans, and maskware. These apps can read and send text messages, take screenshots, make phone calls, steal contact lists, and access device information.</description>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-19m-installs-removed-from-google-play/</guid>
+      <pubDate>Mon, 25 Aug 2025 16:37:22 +0000</pubDate>
+    </item>
     <item>
       <title>Fake Google Play Store Websites Deliver Potent RAT to Steal Sensitive Data</title>
       <link>https://gbhackers.com/fake-google-play-store-websites-deliver-potent-rat/</link>
@@ -151,6 +165,13 @@ Overall, the article provides an overview of various cybersecurity threats and t
       <description>Vulnerable Product: PyPI; CVE(s): None; Summary: Threat actors are exploiting native evaluation and execution functions to conceal malicious payloads within Python packages on PyPI. This is done by using obfuscation techniques such as replacing Latin letters with Unicode characters, importing or aliasing the builtins module, using dynamic attribute lookup routines, and compiling code snippets into executable code objects.</description>
       <guid isPermaLink="false">https://gbhackers.com/?p=158705</guid>
       <pubDate>Mon, 25 Aug 2025 09:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customer Data of PrestaShop, Panorabanques for Sale as New Fraud Services Emerge</title>
+      <link>https://socradar.io/prestashop-data-panorabanques-new-fraud-services/</link>
+      <description>Threat actors are advertising alleged data breaches and cybercrime services on hacker forums, offering millions of customer records from platforms like PrestaShop and Panorabanques. Underground developers are promoting tools for fraud automation, bulk SMS delivery, and credential harvesting. This activity highlights the importance of monitoring deep and dark web threats for actionable threat intelligence and digital risk protection.</description>
+      <guid isPermaLink="false">https://socradar.io/?p=100062859</guid>
+      <pubDate>Mon, 25 Aug 2025 09:31:57 +0000</pubDate>
     </item>
     <item>
       <title>New macOS Installer Boasts Lightning-Fast Data Theft, Marketed on Dark Web</title>
@@ -1425,27 +1446,6 @@ Note: No specific CVEs are mentioned in the article, so I've listed "None" as th
       <description>The article discusses a previously unreported remote access trojan called GodRAT, which delivers shellcode to download malware from a command-and-control server using steganography. The malware is based on Gh0st RAT and has been detected targeting countries in Asia, Europe, and the Middle East since September 2024.</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html</guid>
       <pubDate>Tue, 19 Aug 2025 14:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pharma firm Inotiv says ransomware attack impacted operations</title>
-      <link>https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/</link>
-      <description>American pharmaceutical company Inotiv has been affected by a ransomware attack, which resulted in the encryption of some of its systems and data. The attack was claimed by the Qilin ransomware gang, who allegedly stole around 162,000 files amounting to 176GB and published data samples on their leak site. The incident has caused disruptions to certain business operations, with the company's IT team working to restore affected systems and migrate some operations offline to mitigate the impact.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/</guid>
-      <pubDate>Tue, 19 Aug 2025 14:25:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web Profile: Beast Ransomware</title>
-      <link>https://socradar.io/dark-web-profile-beast-ransomware/</link>
-      <description>The article discusses Beast Ransomware, a multi-platform Ransomware-as-a-Service operated by affiliates. It has evolved from its origins as Monster and now targets Windows, Linux, and VMware ESXi systems. The ransomware uses various entry points to deploy, including phishing emails and compromised RDP endpoints, and can spread laterally to other systems without manual intervention.</description>
-      <guid isPermaLink="false">https://socradar.io/?p=100062749</guid>
-      <pubDate>Tue, 19 Aug 2025 14:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: August security updates break Windows recovery, reset</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/</link>
-      <description>Vulnerable Product: Microsoft Windows; CVE(s): None; Summary: The August 2025 Windows security updates are breaking reset and recovery operations on systems running Windows 10 and older versions of Windows 11, causing issues with reinstalling the system while keeping files or remotely resetting devices.</description>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/</guid>
-      <pubDate>Tue, 19 Aug 2025 13:39:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
